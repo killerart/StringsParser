@@ -25,13 +25,14 @@ namespace StringsParser
         static void ParseLanguage(string name, string directory) {
             var files = Directory.GetFiles(directory, "*.strings");
             foreach (var file in files) {
-                var clientHandler = new HttpClientHandler();
-                clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; };
+                var clientHandler = new HttpClientHandler
+                {
+                    ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; }
+                };
                 var translations = ParseStringsFile(file);
-                using (var client = new HttpClient(clientHandler)) {
-                    var response = client.PutAsJsonAsync($"{APP_PATH}/api/locale/{name}", new { Name = name, Translations = translations }).Result;
-                    Console.WriteLine(response.StatusCode.ToString());
-                }
+                using var client = new HttpClient(clientHandler);
+                var response = client.PutAsJsonAsync($"{APP_PATH}/api/locale/{name}", new { Name = name, Translations = translations }).Result;
+                Console.WriteLine(response.StatusCode.ToString());
                 //using (var client = new HttpClient(clientHandler)) {
                 //    var response = client.GetAsync(APP_PATH + "/api/locale/ru").Result;
                 //    var result = response.Content.ReadAsStringAsync().Result;
