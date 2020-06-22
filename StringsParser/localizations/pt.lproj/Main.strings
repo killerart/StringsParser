@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "2qa-FV-ebG"; */
+"2qa-FV-ebG.text" = "Title";
+
+/* Class = "UILabel"; text = "Repetitions"; ObjectID = "5nw-vj-gF6"; */
+"5nw-vj-gF6.text" = "Repetitions";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "6xW-1g-4hq"; */
+"6xW-1g-4hq.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "Workouts"; ObjectID = "Eu0-e0-1Uf"; */
+"Eu0-e0-1Uf.title" = "Workouts";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FHO-th-zYd"; */
+"FHO-th-zYd.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "Ji3-bR-UNa"; */
+"Ji3-bR-UNa.title" = "History";
+
+/* Class = "UILabel"; text = "Title: "; ObjectID = "N4j-nn-FfE"; */
+"N4j-nn-FfE.text" = "Title: ";
+
+/* Class = "UIButton"; normalTitle = "Weight(kg)"; ObjectID = "OqM-CJ-CqL"; */
+"OqM-CJ-CqL.normalTitle" = "Weight(kg)";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "ThV-H1-Tvk"; */
+"ThV-H1-Tvk.title" = "More";
+
+/* Class = "UISegmentedControl"; YGS-VW-ZaE.segmentTitles[0] = "Weight"; ObjectID = "YGS-VW-ZaE"; */
+"YGS-VW-ZaE.segmentTitles[0]" = "Weight";
+
+/* Class = "UISegmentedControl"; YGS-VW-ZaE.segmentTitles[1] = "Repetitions"; ObjectID = "YGS-VW-ZaE"; */
+"YGS-VW-ZaE.segmentTitles[1]" = "Repetitions";
+
+/* Class = "UISegmentedControl"; YGS-VW-ZaE.segmentTitles[2] = "Performance"; ObjectID = "YGS-VW-ZaE"; */
+"YGS-VW-ZaE.segmentTitles[2]" = "Performance";
+
+/* Class = "UILabel"; text = "Sets"; ObjectID = "dtG-tu-qsb"; */
+"dtG-tu-qsb.text" = "Sets";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "elT-Qy-n7E"; */
+"elT-Qy-n7E.text" = "Detail";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "ouz-nB-IcF"; */
+"ouz-nB-IcF.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Repetitions"; ObjectID = "v8V-zx-gzd"; */
+"v8V-zx-gzd.normalTitle" = "Repetitions";
+
+/* Class = "UIButton"; normalTitle = "00:00:00"; ObjectID = "wou-3d-p5Q"; */
+"wou-3d-p5Q.normalTitle" = "00:00:00";
+
+/* Class = "UITabBarItem"; title = "Custom"; ObjectID = "xHe-eS-jIf"; */
+"xHe-eS-jIf.title" = "Custom";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "z7t-p4-ZQq"; */
+"z7t-p4-ZQq.text" = "Detail";
+
+/* Class = "UITabBarItem"; title = "Exercises"; ObjectID = "zyp-BJ-EFh"; */
+"zyp-BJ-EFh.title" = "Exercises";

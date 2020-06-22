@@ -1,0 +1,224 @@
+
+"exercises" = "エクササイズ";
+"social follow" = "滞在と接続 VGFIT";
+"Exercises" = "エクササイズ";
+"Workouts" = "ワークアウト";
+"Custom" = "カスタム";
+"Done" = "完了";
+"Back" = "戻る";
+"Title" = "タイトル";
+"Downloading video" = "ビデオをダウンロード";
+"Please wait..." = "お待ちください・・・";
+"Cancel" = "キャンセル";
+"Bodybuilding" = "ボディビルディング";
+"Fitness" = "フィットネス";
+"Powerlifting" = "パワーリフティング";
+"2 Days per week" = "週2日";
+"3 Days per week" = "週3日";
+"4 Days per week" = "週4日";
+"Day 1" = "1日目";
+"4 sets and 12/10/8/6 reps" = "4セットと12/10/8/6レップ";
+"Day 2" = "2日目";
+"Day 3" = "3日目";
+"Day 4" = "4日目";
+"Day" = "デイ";
+"Days" = "デイズ";
+"4 sets and 15 reps" = "4セットと15レップ";
+"5 sets and 3/3/3/2/1 reps" = "5セットと3／3／3／2／1レップ";
+"Edit" = "編集";
+"My Workout" = "マイワークアウト";
+"To create new workout press +" = "新しいワークアウトを作成するには、+を押します";
+"Save" = "保存";
+"Workout Name:" = "ワークアウト名:";
+"Days Number:" = "日数:";
+"Delete" = "削除";
+"Workout Title:" = "ワークアウトタイトル:";
+"Options:" = "オプション:";
+"Camera/Gallery" = "カメラ/ギャラリ";
+"Exercise's Photos" = "エクササイズの写真";
+"Name, Description, Repetitions" = "名前、説明、レップ数";
+"Exercise Name:" = "エクササイズ名:";
+"Description:" = "説明:";
+"Description" = "説明";
+"Repetitions:" = "繰り返し回数:";
+"Error!" = "エラー！";
+"Error" = "エラー";
+"Please fill up the text field!" = "テキストフィールドを記入してください!";
+"Ok" = "Ok";
+"Do you really want to cancel the download process? All progress will be lost!" = "ダウンロードのプロセスをキャンセルしてもよろしいですか？すべての進歩が失われます！";
+"Download all videos" = "全てのビデオをダウンロード";
+"Unzipping Files" = "ジップされていないファイル";
+"Files" = "ファイル";
+"Downloading Videos" = "ビデオのダウンロード中";
+"All videos were saved successfully!" = "全てのビデオの保存が完了しました！";
+"Add" = "追加する";
+"No Camera Support!" = "カメラ対応していません！";
+"Camera feature is not supported by your device !" = "デバイスはカメラ機能に対応していません！";
+"Please fill up the exercise name field!" = "エクササイズ名のフィールドを入力してください！";
+"Please check your wi-fi or cellular internet connection!" = "Wi-Fi、または携帯電話の接続をご確認ください！";
+"Your video is downloading already! Wait until it's done!" = "ビデオはすでにダウンロードされています！完了するまでお待ちください！";
+"Warning!" = "警告！";
+"For" = "対して";
+
+"History" =	"履歴";
+"More" =	"もっと";
+"Start"=	"開始";
+"Weight(kg)" =	"重さ(キログラム)";
+"Weight(lbs)" =	"重さ(ポンド)";
+"Weight" = "重さ";
+"Repetitions" =	"回数";
+"Save" =	"保存";
+"Last values" =	"前回の値";
+"Cancel" =	"キャンセル";
+
+"Attention" =	"注目";
+"Would you like to leave without saving?" =	"保存しないで閉じますか?";
+"Ok "=	"Ok";
+
+"No exercises have been done yet" =	"エクササイズは行われていません";
+"Performance "=	"パフォーマンス";
+"Send Feedback" =	"フィードバックを送信";
+"Report a Bug" =	"バグを報告";
+"Tell a Friend" =	"友達に知らせる";
+"Gift this App" =	"このアプリを贈る";
+"Rate us" =	"当社を評価してください ";
+"Set seconds" =	"秒を設定";
+"Stop" =	"停止";
+"Check out iBodybuilding-Update" =	 "iBodybuildingUpdateをご覧ください";
+"Check out this application on the App Store:" =	 "アプリストアでこのアプリケーションをご覧ください:";
+"Please note that you have not been added to any email lists." =	"あなたは電子メールリストに追加されていないことにご注ください.";
+
+"Fill up all the blank repetitions boxes." = "全ての空白の回数ボックスを埋めましょう";
+"You can't use values bigger than 500." = "５００以上の値は使用できません";
+"You can't input data for future dates." = "将来の日付にデータを入力することはできません！";
+
+"4 sets and 15 reps" = "4セットと15レップ";
+"4 sets and 12/10/8/6 reps" = "4セットと12/10/8/6レップ";
+"5 sets and 3/3/3/2/1 reps" = "5セットと3／3／3／2／1レップ";
+
+
+"Sets"  = "セット";
+"Enter workout name :" = "ワークアウトの名前を入力します。";
+"Days number :" = "日番号：";
+"sets and" = "セットと";
+"reps" = "レップ";
+
+"You can't delete current selection" = "あなたは現在の選択を削除することはできません";
+
+
+
+//new localization
+
+"Extra" = "追加";
+
+"Forgot your password?" = "パスワードをお忘れですか？";
+
+"Alert" = "アラート";
+"somethingWentWrongAlert" = "異常を知らせるアラート";
+"An account already exists for this email address" = "このEメールアドレスを使って、すでにアカウントが作成されています。";
+"Incorrect email address or password" = "Eメールアドレスまたはパスワードに誤りがあります。";
+"Notification" = "通知";
+"In-App purchases were restored" = "アプリ内購入は復元されました。";
+"Sorry we didn't find your previous purchases" = "申し訳ありませんが、過去の購入履­歴を確認することができませんでした。";
+"You don't have purchases for this account" = "このアカウントでの購入履歴はありません。";
+"You have purchased this item for another account" = "この商品は別のアカウントから購入されています。";
+"You have already purchased this item." = "この商品はすでに購入済みです。";
+"Do you want to restore it for current account?" = "現在のアカウントで復元しますか？";
+"Enter a valid email address" = "有効なEメールアドレスを入力してください。";
+"Enter a valid password" = "有効なパスワードを入力してください。";
+
+"Password doesn't match" = "パスワードが一致しません。";
+"Password must be minimum 4 characters" = "パスワードは最低でも４文字必要です。";
+"Success!" = "成功しました！";
+"An email has been sent. Please check your Inbox or Spam folders." = "Eメールが送信されました。受信箱またはスパムフォルダをご確認ください。";
+
+"Login with Email" = "Eメールアドレスでログインする";
+"Login with Facebook" = "Facebookでログインする";
+"By continuing, you accept our Privacy Policy and Terms of Service" = "続行する場合、当社の個人情報規約および利用規約を了承したことになります。";
+"Continue" = "続行";
+"Login" = "ログイン";
+"Create Account" = "アカウントを作成する";
+"Sign Up" = "サインアップ";
+"Email" = "Eメール";
+"Password" = "パスワード";
+"Confirm Password" = "パスワードの確認";
+"No internet connection" = "インターネットに接続されていません！";
+"Restore" = "復元";
+"My profile" = "マイ・プロフィール";
+"Sign Out" = "サインアウト";
+
+"30 sec. without rest time" = "30秒、休憩なし";
+"3 sets and 12/11/10 reps"  = "３セット、各12/11/10回";
+"35 s. work time 15 s. rest time" = "ワークアウト時間35秒・休憩時間15秒";
+"30 s. work time 15 s. rest time" = "ワークアウト時間30秒・休憩時間15秒";
+"2 rounds 15 reps" = "2ラウンド、15回";
+
+
+
+"Round" = "ラウンド";
+"Rounds" = "ラウンド";
+"Reset" = "リセット";
+"Intervals" = "インターバル";
+"Current settings" = "現在の設定";
+"My workouts" = "マイ・ワークアウト";
+"Work time" = "ワークアウト時間";
+"Rest time" = "休憩時間";
+
+"Instagram application is not installed" = "インスタグラムアプリがインストールされていません。";
+
+
+
+
+"Skip" = "スキップ";
+"Guest" = "ゲスト";
+"Training plans" = "トレーニング計画";
+"Downloading content" = "コンテンツをダウンロード中";
+"Content is downloading, please wait" = "コンテンツをダウンロード中。お待ちください。";
+"Share application" = "アプリをシェアする";
+"Share app on Facebook" = "アプリをFacebookでシェアする";
+"Share app on Instagram" = "アプリをInstagramでシェアする";
+"Follow VGFIT on Instagram" = "VGFIT をInstagramでフォローする";
+"Follow VGFIT on Facebook" = "VGFITをFacebookでフォローする";
+"tweetAboutUsKey" = "Twitterでシェアする";
+"Backup" = "バックアップ";
+"Export backup file" = "バックアップファイルのエクスポート";
+"Backup on email or print your workout history" = "Eメールにバックアップするか、ワークアウト履歴を印刷してください。";
+"Import backup file" = "バックアップファイルのインポート";
+"To import history tap on the file in your mail" = "履歴をインポートするには、メールの中のファイルをタップしてください。";
+"History by Exercise" = "エクササイズごとの履歴";
+"History by Date" = "日付ごとの履歴";
+"youCantSendTwitt" = "現在このアプリからツイートを送ることができません。Twitterにアクセスできないか、この端末に関連づけられたTwitterアカウントがありません。";
+"pleaseLogToFB" = "端末の設定から、Facebookアカウントにサインインしてください。";
+//reminder
+
+"Reminder" = "リマインダー";
+"Edit notification permission in IOS settings" = "iOSの設定で通知許可を編集する";
+"Daily reminder" = "毎日のリマインダー";
+"Frequency" = "頻度";
+"It's time to workout!" = "ワークアウトの時間です！";
+"After %ld days of inactivity" = "最後のワークアウトから%ld日後";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "ねぇ！この数日間ワークアウトしてないですね。ワークアウトを再開しましょう！";
+
+//Rate us Button
+
+//"Love our %@ app" = "私たちの %@ アプリ、気に入っていただけましたか"; //%@ - is the name of the app to be inserted
+//"Your feedback will help us to get better" = "私たちの成長は、ユーザーのフィードバックのおかげです。";
+"Oh Dear!" = "お願いします！";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "アプリを改善するアイデアを頂けると、大変ありがたいです。よろしくお願いします！";
+
+
+"Email Us" = "Eメールを送る";
+"Not now" = "後で";
+
+"5-Stars" = "5つ星";
+"To improve the app, please Leave a Rating or Review." = "アプリを改善するために、評価またはレビューを残してください。";
+
+//Watch
+"Download" = "ダウンロード";
+"Download all images" = "すべての画像をダウンロード";
+"Oops!" = "おっと！";
+"You have to unlock this workout on your iPhone." = "このワークアウトを iPhone でロック解除する必要があります。";
+"There are no custom workouts to show." = "表示できるカスタマイズされたワークアウトがありません。";
+"There is no history, yet." = "まだ履歴がありません。";
+"Please, Download the images." = "画像をダウンロードしてください。";
+

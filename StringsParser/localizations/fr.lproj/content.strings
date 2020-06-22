@@ -1,0 +1,2371 @@
+/* 
+  content.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/18/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Abs" = "Abdos";
+"Back" = "Dorsaux";
+"Biceps" = "Biceps";
+"Calf" = "Mollet";
+"Chest" = "Pectoraux";
+"Forearms" = "Avant-bras";
+"Legs" = "Jambes";
+"Shoulders" = "Epaules";
+"Triceps" = "Tríceps";
+
+//Abs
+
+"Incline Bench Sit-Ups" = "Relevé de Buste au Banc Décliné";
+"1 Incline Bench Sit-Ups"="Muscle: Droit de l’Abdomen\
+\
+Étape 1 : Allongez-vous sur un banc décliné. Positionnez vos mains au-dessus de la tête. Fléchissez les genoux.\
+\
+Étape 2 : Enroulé le buste tout en gardant le bas du dos contre le banc. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+
+"Hanging Leg Raises" = "Relevé de Jambes Suspendu";
+"2 Hanging Leg Raises"="Muscle: Droit de l’Abdomen\
+\
+Étape 1: Agrippez la barre de traction en pronation, restez suspendu avec les genoux légèrement fléchis.\
+\
+Étape 2: Relevez les genoux vers votre buste avec un mouvement de hanche en contractant les muscles inférieurs de l’abdomen. Levez les genoux aussi près du buste que possible en enroulant le bas du dos lorsque vous êtes au plus haut. Maintenez la position, vous devez sentir la contraction des muscles inférieurs de l’abdomen, puis revenez à la position initiale.";
+
+
+
+"Dumbbell Side Bends" = "Flexion Latérale avec Haltères";
+"3 Dumbbell Side Bends"="Muscle: Obliques\
+\
+Étape 1 : Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules. Tenez un haltère dans chaque main.\
+\
+Étape 2 : Penchez-vous d’un côté en bougeant le moins possible le bas du corps.\
+\
+Étape 3 : Retournez à la position initiale";
+
+
+
+"Crunches" = "Relevé de Buste et jambes";
+"4 Crunches"="Muscle: Droit de l’Abdomen\
+\
+Étape 1 : Allongez-vous sur le dos, tendez les jambes, soulevez vos talons à quelques centimètres du sol et placez les mains à vos côtés.\
+\
+Étape 2 : Tout en gardant les bras parallèles au sol, relevez le buste et les jambes comme pour former un « e ». Lorsque vous relevez le buste, fléchissez les genoux pour les amener vers votre torse.";
+
+
+
+"Sit-Ups" = "Enroulé de Buste avec Ballon d’Exercice";
+"5 Sit-Ups"="Muscle: Droit de l’Abdomen\
+\
+Étape 1 : Reposez votre dos sur le ballon d’exercice. Placez les mains derrière la tête et les pieds au sol.\
+\
+Étape 2 : Enroulez le buste tout en gardant le bas du dos contre le ballon d’exercice. Tenez la position pendant une seconde. Retournez à la position initiale.";
+
+
+
+
+"Leg Raises" = "Levers de jambes";
+"6 Leg Raises"="Muscle: Droit de l’Abdomen\
+\
+Étape 1 : Allongez-vous au sol avec les jambes droites. Placez les mains derrière la tête.\
+\
+Étape 2 : Relevez le buste. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+"Flat Bench Lying Leg Raise" = "Relevé de jambes, Bassin Décollé";
+"7 Flat Bench Lying Leg Raise" = "Muscle: Droit de l’Abdomen\
+\
+Étape 1 : Allongez-vous sur un banc avec les jambes tendues et droites puis agrippez le banc.\
+\
+Étape 2 : Relevez vos jambes en soulevant légèrement le bas du dos du banc.\
+\
+Étape 3 : Tenez la position quelques secondes, puis abaissez vos jambes en position de départ. Gardez les jambes droites pendant toute l’exécution du mouvement.";
+
+
+
+
+
+"Seated Jackknife" = "Extension Abdo Haute au Banc";
+"8 Seated Jackknife" = "Muscle: Droit de l’Abdomen\
+\
+Étape 1 : Asseyez-vous sur une des extrémités du banc. Posez les mains sur le banc dans l’alignement de vos épaules. Penchez-vous en arrière tout en relevant vos jambes jusqu’à atteindre une position d’équilibre.\
+\
+Étape 2 : Fléchissez les genoux en les amenant vers votre buste. Au même moment, déplacez votre torse vers l’avant afin de maintenir l’équilibre. Tenez la position pendant une seconde. Retournez à la position initiale.";
+
+
+
+"Twisting Hip Raise" = "Relevé de Jambes, Bassin Décollé";
+"9 Twisting Hip Raise" = "Muscle: Droit de l’Abdomen\
+\
+Étape 1 : Allongez-vous sur le banc avec les jambes tendues et droites, puis avec vos mains, agrippez le banc derrière votre tête.\
+\
+Étape 2 : Relevez les jambes tout en soulevant légèrement le bas de votre dos du banc.\
+\
+Étape 3 : Tenez la position quelques secondes, puis redescendez les jambes à la position initiale. Gardez les jambes droites tout au long de l’exécution du mouvement.";
+
+
+
+
+"10 Twisting Hip Raise"="Muscle: Droit de l’Abdomen\
+\
+Étape 1 : Allongez-vous sur le dos avec les mains placées sous votre coccyx et les jambes levées et tendues, comme illustré.\
+\
+Étape 2 : Rentrez le ventre, contractez les fessiers tout en relevant les hanches à quelques centimètres du sol. Redescendez les hanches.";
+
+
+
+"11 Twisting Hip Raise"="Muscle: Droit de l’Abdomen\
+\
+Étape 1 : Allongez-vous sur le dos avec les jambes droites. Placez vos mains sous vos hanches afin de rester bien stable.\
+\
+Étape 2 : Relevez lentement et simultanément les deux jambes jusqu’à ce qu’elles soient perpendiculaires au sol.\
+\
+Étape 3 : Maintenez la position, puis abaissez lentement les jambes, mais stoppez le mouvement avant qu’elles ne touchent le sol. Concentrez l’effort sur les muscles abdominaux pour effectuer ce mouvement.";
+
+
+
+"Bodyweight Crunch" = "Enroulé de Buste Lesté";
+"12 Bodyweight Crunch" = "Muscle: Droit de l’Abdomen\
+\
+Étape1 : Allongez-vous au sol. Avec vos bras, maintenez des poids au niveau du torse. Gardez les jambes pliées et les pieds ancrés au sol.\
+\
+Étape 2 : Enroulé le buste tout en gardant le bas du dos contre le sol. Tenez la position pendant une seconde. Retournez à la position initiale.";
+
+
+
+
+
+
+
+"Russian Twist" = "Rotation Russe";
+"13 Russian Twist" = "Muscle: Obliques\
+\
+Étape 1 : Asseyez-vous avec les pieds au sol et les genoux fléchis. Tenez un haltère dans chaque main. Penchez-vous légèrement vers l’arrière alors que vous étendez complètement les bras devant vous.\
+\
+Étape 2 : Faites pivoter votre torse d’un côté. Tenez la position pendant une seconde.\
+\
+Étape 3 : Revenez à la position initiale. Faites pivoter votre torse de l’autre côté. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+"Side Bridge" = "Planche Latérale";
+"14 Side Bridge" = "Muscle: Obliques\
+\
+Étape 1 : Allongez-vous sur le côté. Assurez-vous que vos jambes soient l’une sur l’autre. Placez votre avant-bras au sol perpendiculairement à votre corps.\
+\
+Étape 2 : Utilisez votre avant-bras pour soulever la partie supérieure de votre corps du sol. Placez l’autre bras le long du corps. Votre corps doit rester droit. Seuls votre avant-bras et votre pied doivent être en contact avec le sol. Tenez la position.";
+
+
+
+"Bodyweight Hip Extension"="Relevé de Bassin à une Jambe";
+"15 Bodyweight Hip Extension"="Muscle: Fessiers\
+\
+Étape 1 : Allongez-vous au sol ou sur un tapis avec une jambe tendue et l’autre jambe pliée le pied posé au sol. Laissez vos bras reposés à vos côtés.\
+\
+Étape 2 : Relevez vos hanches tout en gardant la jambe tendue bien droite. Maintenez la position, puis retournez à la position initiale. Après avoir effectué quelques répétitions, changez de jambe d’appui et répétez les étapes.";
+
+
+
+"Rotating T Extension"="Pompe en T";
+"16 Rotating T Extension"="Muscle: Pectoraux\
+\
+Étape 1. Mettez-vous en position pour effectuer des pompes classiques, mais lorsque vous poussez sur les bras pour relever votre corps, pivotez tout en étendant le bras droit au-dessus de la tête, comme illustré. Votre corps doit former un « T ».\
+\
+Étape 2. Retournez à la position initiale, abaissez votre corps, poussez à nouveau sur les bras pour remonter et pivotez en étendant le bras gauche vers le plafond.";
+
+
+
+"Superman"="Superman";
+"17 Superman"="Muscle: Fessiers\
+\
+Étape 1 : Placez-vous de façon à épouser une position neutre pour la colonne vertébrale. Contractez les muscles abdominaux.\
+\
+Étape 2 : Sans bouger sur les côtés et en gardant les muscles abdominaux contractés, expirez et levez un de vos bras jusqu’à ce qu’il soit parallèle au sol, restez constant dans le rythme que vous avez établi.";
+
+
+
+
+//Back
+"Chin-Ups" = "Traction";
+"1 Chin-Ups" = "Muscle: Grand Dorsal\
+\
+Étape 1 : Choisissez un poids adéquat, agenouillez-vous ou tenez-vous debout sur la plateforme et saisissez les poignées. Gardez les muscles abdominaux et lombaires contractés, puis dépliez vos bras jusqu’à ce qu’ils soient complètement tendus. Assurez-vous que vos épaules soient rétractées vers le bas afin d’isoler la tension au niveau des muscles du dos.\
+\
+Étape 2 : Tout en contrôlant le mouvement ainsi que les coudes pointés en arrière et vers le bas, tirez sur les bras pour revenir à la position initiale. Faites le nombre de répétitions que vous désirez.";
+
+
+"Deadlifts" = "Soulevé de Terre";
+"2 Deadlifts" = "Muscle: Grand Dorsal\
+\
+Étape 1 : Tenez-vous debout avec les pieds dans l’alignement de vos hanches, puis baissez-vous jusqu’à ce que vos cuisses soient parallèles au sol. Gardez le dos droit tout en vous assurant que la posture de votre colonne vertébrale soit aussi neutre que possible. Attrapez la barre en pronation avec une distance entre les mains légèrement supérieure à celle de vos épaules.\
+\
+Étape 2 : tout en expirant, rentrez les abdominaux et soulevez la barre en poussant sur les jambes.\
+\
+Étape 3 : Pendant la montée et lorsque la barre est au niveau des genoux, déplacez vos hanches vers l’avant pour redresser le torse et vous tenir debout avec les bras à vos côtés et la barre au niveau des cuisses.\
+\
+Étape 4 : Tenez la position pendant deux secondes, inspirez et déposez à nouveau le poids au sol.";
+
+
+
+"Lat Pull-Downs" = "Tirage Poitrine Prise large";
+"3 Lat Pull-Downs" = "Muscle: Grand Dorsal\
+\
+Étape 1 : Asseyez-vous sur le banc et saisissez la barre en pronation dans l’alignement des épaules.\
+\
+Étape 2 : Tirez la barre vers votre buste tout en rétractant vos épaules de façon à ce que vos omoplates se rejoignent. Tenez la position lorsque la barre est à quelques centimètres de votre buste, puis laissez la barre doucement remonter à la position initiale. Bombez le torse tout au long de l’exercice.";
+
+
+
+"Seated Rows" = "Dorsaux à la Poulie Basse";
+"4 Seated Rows" = "Muscle: Grand Dorsal\
+\
+Étape 1 : Placez vos pieds sur la machine, fléchissez légèrement les genoux en gardant le dos bien droit. Attrapez les poignées et bombez le torse tout en rétractant légèrement les épaules. Tirez sur les bras en gardant les coudes le long du corps jusqu’à ce que le manche touche votre nombril.\
+\
+Étape 2 : Tenez la position pendant une seconde avant de revenir à la position initiale en contrôlant le mouvement : vos bras sont tendus à nouveau, votre dos légèrement penché en avant et vos genoux légèrement fléchis.\
+\
+Étape 3 : Faites le nombre de répétitions que vous désirez.";
+
+
+
+"One-Arm Dumbbell Rows" = "Tirage avec Haltère";
+"5 One-Arm Dumbbell Rows" = "Muscle: Grand Dorsal\
+\
+Étape 1 : Tenez un haltère dans une main, puis prenez appui sur le banc avec l’autre main et le genou, comme illustré.\
+\
+Étape 2 : Gardez le dos droit tout en laissant pendre l’haltère à côté de vous de sorte qu’il soit placé légèrement plus avant que s’il était dans l’alignement de votre épaule.\
+\
+Étape 3 : Tirez l’haltère vers votre hanche tout en gardant le coude près du corps. Concentrez l’effort sur les muscles supérieurs du dos lorsque vous effectuez le mouvement.";
+
+
+
+"Barbell Shrugs" = "Haussement d’Épaules à la Barre";
+"6 Barbell Shrugs" = "Muscle: Trapèzes\
+\
+Étape 1 : Tenez-vous debout et saisissez une barre d’haltère assez lourde en pronation.\
+\
+Étape 2 : Tout en les gardant détendues, haussez les épaules comme pour toucher vos oreilles.\
+\
+Étape 3 : Tenez la position au point culminant, puis redescendez progressivement vos épaules à la position initiale. Ne fléchissez pas les coudes et ne penchez pas la tête en avant lorsque vous effectuez le mouvement. Répétez le mouvement.";
+
+
+
+"Dumbbell Shrugs" = "Haussement d’Épaules avec Haltères";
+"7 Dumbbell Shrugs" = "Muscle: Trapèzes\
+\
+Étape 1 : Tenez-vous debout avec dans chaque main des haltères assez lourds disposés le long du corps et en prise neutre.\
+\
+Étape 2 : Tout en les gardant détendues, haussez les épaules comme pour toucher vos oreilles.\
+\
+Étape 3 : Tenez la position au point culminant, puis redescendez progressivement vos épaules à la position initiale. Ne fléchissez pas les coudes et ne penchez pas la tête en avant lorsque vous effectuez le mouvement. Répétez le mouvement.";
+
+
+
+"Back Extensions" = "Extension du Buste";
+"8 Back Extensions" = "Muscle: Lombaire\
+\
+Étape 1 : Positionnez-vous sur la table à lombaire en plaçant vos pieds sous les cale-pieds afin de les maintenir en place.\
+\
+Étape 2 : La partie supérieure de vos cuisses doit reposer sur la planche. Placez vos mains derrière la tête et penchez-vous en avant au niveau des hanches jusqu’à ce que votre buste soit quasiment perpendiculaire au sol.\
+\
+Étape 3 : Relevez doucement le buste jusqu’à ce qu’il soit dans l’alignement de vos jambes, puis redescendez. Pour rendre l’exercice plus difficile, vous pouvez maintenir un poids en croisant vos bras au niveau du torse.";
+
+
+"Bent Over Row" = "Tirage de Barre en Pronation";
+"9 Bent Over Row" = "Muscle: Grand Dorsal\
+\
+Étape 1 : Avec les pieds dans l’alignement de vos épaules et les genoux légèrement fléchis, penchez-vous en avant tout en gardant le dos légèrement cambré. Votre torse doit maintenant être quasiment parallèle au sol.\
+\
+Étape 2 : En rétractant les épaules, tirez la barre vers la partie inférieure du sternum. Essayez de ne pas utiliser les muscles des bras, concentrez l’effort au niveau des muscles centraux du dos.\
+\
+Étape 3 : Tenez la position lorsque vos épaules sont rétractées au maximum et que votre buste pointe vers la barre. Revenez doucement à la position initiale en maintenant votre torse dans la même position tout au long du mouvement.";
+
+
+"Reverse Chin Ups" = "Traction Prise Neutre";
+"10 Reverse Chin Ups" = "Muscle: Grand Dorsal\
+\
+Étape 1 : Commencez par vous suspendre à la barre de traction avec les bras complètement tendus au-dessus de la tête. Vous pouvez garder les jambes tendues, pliées ou croisées.\
+\
+Tirez sur vos bras pour remonter votre corps jusqu’à ce que votre menton soit placé au-dessus de la barre. Tenez la position, redescendez à la position initiale. Vous pouvez ajouter des poids pour rendre l’exercice plus difficile en portant une ceinture lestée ou en tenant un haltère entre vos pieds.";
+
+
+"Bodyweight Superman"="Superman au Sol";
+"11 Bodyweight Superman"="Muscle: Lombaire\
+\
+Étape 1 : Allongez-vous à plat ventre sur le sol. Étendez complètement les bras devant vous.\
+\
+Étape 2 : Soulevez vos jambes et votre buste en direction du plafond. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+"Dumbbells Bent Over Row"="Tirage avec Haltères en Pronation";
+"12 Dumbbells Bent Over Row"="Muscle: Grand Dorsal\
+\
+Étape 1 : Saisissez une paire d’haltères en pronation et penchez-vous, mais en gardant le dos droit. Tendez les bras vers le sol.\
+\
+Étape 2 : Tirez sur les bras pour monter les haltères au niveau des côtes, puis revenez à la position initiale en gardant le dos stable et droit tout au long de l’exercice.";
+
+
+
+"Stability Ball Hyperextension"="Extension du Buste avec Ballon d’Exercice";
+"13 Stability Ball Hyperextension"="Muscle: Lombaires\
+\
+Étape 1 : Reposez votre ventre sur le ballon d’exercice et placez vos mains de chaque côté de la tête au niveau des tempes. Gardez les jambes tendues ou, si nécessaire, fléchissez légèrement les genoux.\
+\
+Étape 2 : Relevez le buste tout en faisant pivoter votre corps sur un côté.\
+\
+Étape 3 : Revenez à la position initiale, et faites de même en pivotant de l’autre côté. Gardez le ballon d’exercice stable afin d’éviter qu’il ne bouge.";
+
+
+
+"Seated Bent Over Row"="Tirage avec Haltères Assis";
+"14 Seated Bent Over Row"="Muscle: Grand Dorsal\
+\
+Étape 1 : Asseyez-vous au bord d’un banc avec les genoux fléchis et le plat des pieds posés au sol. Placez au sol deux haltères à vos côtés. Penchez-vous en avant jusqu’à ce que votre dos soit quasiment parallèle au sol, votre buste doit toucher vos cuisses. Prenez un haltère dans chaque main et laissez vos bras pendre verticalement.\
+\
+Étape 2 : Tenez les haltères en prise neutre.\
+\
+Étape 3 : En tirant uniquement sur vos bras, montez doucement les haltères au niveau des côtes et en les gardant près du corps.\
+\
+Étape 4 : Tenez la position pendant une seconde, puis redescendez les haltères.";
+
+
+
+
+"T-Bar Bent Over Row"="Tirage de Barre T";
+"15 T-Bar Bent Over Row"="Muscle: Grand Dorsal\
+\
+Étape 1 : Enfourchez la barre T et saisissez les poignées en pronation. Assurez-vous que vos pieds soient dans l’alignement de vos épaules et que vos genoux soient légèrement fléchis, comme indiqué.”\
+\
+Étape 2 : Gardez le dos droit et penchez-vous à environ 45 degrés, la barre doit pendre à bout de bras et dans l’alignement de vos épaules.\
+\
+Étape 3 : Tout en joignant les omoplates, tirez sur les bras pour soulever la barre en direction de la partie inférieure de votre buste. Tenez la position, puis redescendez doucement la barre à la position initiale.";
+
+
+
+//Biceps
+
+"Curls" = "Flexion Biceps";
+"1 Curls" = "Muscle: Biceps Brachial\
+\
+Étape 1 : Tenez-vous debout avec les pieds dans l’alignement de vos hanches, travaillez avec vos abdominaux lorsque vous tenez deux haltères moyennement lourds devant vos cuisses. Fléchissez les biceps et pliez les bras pour élever les poids vers vos épaules.\
+\
+Étape 2 : Gardez les coudes en place, soulevez les poids aussi haut que vous le pouvez sans bouger les coudes. Abaissez doucement les poids en gardant les coudes légèrement fléchis lorsqu’ils sont au niveau des cuisses (ne bloquez pas l’articulation et essayez de ne pas relâcher l’effort).";
+
+
+
+"Barbell Curls" = "Flexion Biceps à la Barre";
+"2 Barbell Curls" = "Muscle Group: Biceps Brachial\
+\
+Étape 1 : Mettez-vous en position comme pour effectuer une flexion biceps normale, saisissez la barre en supination avec les bras tendus vers le sol.\
+\
+Étape 2 : Levez la barre, mais au lieu de garder les coudes en position lors de la montée, laissez-les se déplacer vers l’arrière afin de soulever la barre devant vous en dessinant une ligne verticale.";
+
+
+"Preacher Curls" = "Flexion à la Table à Biceps";
+"3 Preacher Curls" = "Muscle: Biceps Brachial\
+\
+Étape 1 : Saisissez la barre coudée EZ en supination. Placez la partie supérieure de vos bras sur la table à biceps, comme illustré. Tout en étendant les bras devant vous, essayez de fléchir légèrement les coudes.\
+\
+Étape 2 : levez la barre aussi haut que possible tout en gardant la partie supérieure de vos bras contre la table.\
+\
+Étape 3 : Marquez une pause, puis revenez doucement à la position initiale.";
+
+
+
+"Hammer Curls" = "Flexion Biceps Prise Neutre";
+"4 Hammer Curls" = "Muscle: Biceps Brachial\
+\
+Étape 1 : Tenez en supination un haltère dans chaque main. Vos bras doivent former un angle à 90 degrés.\
+\
+Étape 2 : Tout en gardant les coudes en place le long du corps, levez les poids vers vos épaules. Abaissez doucement les poids à la position initiale.";
+
+
+"Concentration Curls" = "Flexion Biceps Assis avec Haltère";
+"5 Concentration Curls" = "Muscle: Biceps Brachial\
+\
+Étape 1 : Commencez par vous assoir au bord du banc en tenant l’haltère dans votre main droite. Laissez votre bras droit pendre verticalement avec le coude placé contre l’intérieur du genou.\
+\
+Étape 2 : Penchez-vous en avant de sorte que votre buste soit au-dessus de votre jambe, puis posez la main gauche sur le genou gauche.\
+\
+Étape 3 : En fléchissant le coude, levez l’haltère jusqu’au niveau de l’épaule, faites une brève pause, puis abaissez doucement le poids à la position initiale.";
+
+
+
+"Reverse Curls" = "Flexion Biceps à la Barre en Pronation";
+"6 Reverse Curls" = "Muscle: Biceps Brachial\
+\
+Étape 1 : Saisissez une barre d’haltère en pronation avec les pieds placés dans l’alignement de vos épaules. Les bras sont tendus devant vous et vers le sol.\
+\
+Étape 2 : Levez la barre jusqu’à vos épaules en gardant les coudes en place le long du corps.\
+\
+Étape 3 : Abaissez la barre pour revenir à la position initiale.";
+
+
+
+
+"Cable Biceps Curl" = "Flexion Biceps à la Tour à Poulie";
+"7 Cable Biceps Curl" = "Muscle: Biceps Brachial\
+\
+Étape 1 : Attachez une barre droite à la poulie basse de la tour à poulie. Saisissez la barre en supination avec les bras tendus, les mains dans l’alignement de vos épaules et placées devant vos cuisses. Essayez de vous tenir debout et droit avec la partie supérieure des bras le long du corps et les pieds dans l’alignement de vos hanches.\
+\
+Étape 2 : levez la barre vers votre buste aussi haut que vous le pouvez en gardant la partie supérieure des bras en place le long du corps.\
+\
+Étape 3 : Marquez une pause, puis revenez doucement à la position initiale.";
+
+
+
+
+"Low Pulley Curls" = "Flexion Poignet à la Poulie";
+"8 Low Pulley Curls" = "Muscle: Biceps Brachial\
+\
+Étape 1 : Ajustez la poulie à la position la plus basse. Placez-vous en face de la poulie en vous tenant debout et droit. Saisissez la barre en supination.\
+\
+Étape 2 : Levez la barre en fléchissant le poignet. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+"Low Pulley Cable Crossover" = "Tirage Poulies Croisé";
+"9 Low Pulley Cable Crossover" = "Muscle: Pectoraux\
+\
+Étape 1 : Ajustez deux poulies à la position la plus basse. Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules. Saisissez chaque poignée en supination.\
+\
+Étape 2 : Tirez sur les poignées vers le haut jusqu’à ce que vos avant-bras se croisent. Tenez la position pendant une seconde. Revenez à la position initiale.\
+";
+
+
+
+"Dumbbell Biceps Curl (Hammer Grip On Bench)"="Flexion Biceps au Banc Incliné Prise Neutre";
+"10 Dumbbell Biceps Curl (Hammer Grip On Bench)"="Muscle: Biceps brachial\
+\
+Étape 1 : Tenez-vous debout le dos droit, puis saisissez un haltère en prise neutre. Placez la partie supérieure de votre bras sur le dossier du banc incliné.\
+\
+Étape 2 : Levez l’haltère tout en gardant la partie supérieure de votre bras en place. Tenez la position pendant une seconde. Abaissez l’haltère à la position initiale.";
+
+
+
+"Dumbbell Biceps Curl (Hammer Grip Standing)"="Flexion Biceps avec Haltères en Pronation";
+"11 Dumbbell Biceps Curl (Hammer Grip Standing)"="Muscle: Biceps Brachial\
+\
+Étape 1 : Placez-vous debout le dos droit, tenez des haltères en pronation devant vos cuisses. Gardez les bras tendus.\
+\
+Étape 2 : Levez les poids tout en gardant la partie supérieure de vos bras en place. Évitez de solliciter vos épaules pendant l’exécution du mouvement. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+
+"Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="Flexion Biceps Assis avec Haltère";
+"12 Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="Muscle: Biceps Brachial\
+\
+Étape 1 : Fléchissez légèrement les genoux. Penchez-vous en gardant le dos droit. Saisissez un haltère en supination. Placez votre coude contre l’intérieur du genou.\
+\
+Étape 2 : Levez l’haltère tout en gardant la partie supérieure de votre bras en place. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+
+"Dumbbell Biceps Curl (Underhand Grip On Bench)"="Flexion Biceps au Banc Incliné";
+"13 Dumbbell Biceps Curl (Underhand Grip On Bench)"="Muscle: Biceps Brachial\
+\
+Étape 1 : Tenez-vous debout le dos droit et saisissez un haltère en supination. Placez la partie supérieure de votre bras sur le dossier du banc incliné.\
+\
+Étape 2 : Levez l’haltère tout en gardant la partie supérieure de votre bras en place. Tenez la position pendant une seconde. Abaissez l’haltère à la position initiale.";
+
+
+
+"Dumbbell Biceps Curl Seated (Hammer Grip)"="Flexion Biceps Prise Neutre";
+"14 Dumbbell Biceps Curl Seated (Hammer Grip)"="Muscle: Biceps brachial\
+\
+Étape 1 : Asseyez-vous au bord du banc de musculation en tenant une paire d’haltères en prise neutre et en les laissant pendre à bout de bras.\
+\
+Étape 2 : Levez doucement les poids vers vos épaules sans faire pivoter vos poignets. Pensez à garder en place la partie supérieure de vos bras le long du corps.";
+
+
+"Dumbbell Biceps Curl Seated (Underhand Grip)"="Flexion Biceps Assis au Banc";
+"15 Dumbbell Biceps Curl Seated (Underhand Grip)"="Muscle: Biceps Brachial\
+\
+Étape 1 : Asseyez-vous sur le banc le dos droit en tenant une paire d’haltères en supination et avec les bras complètement tendus à vos côtés, comme illustré.\
+\
+Étape 2 : Levez progressivement les poids au niveau des épaules en fléchissant les coudes. Gardez les coudes en position le long du corps et ne faites pas pivoter vos poignets pendant l’exécution du mouvement.";
+
+
+
+
+"Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="Flexion Biceps Prise Neutre avec Ballon d’Exercice";
+"16 Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="Muscle: Biceps Brachial\
+\
+Étape 1 : Tenez-vous debout le dos droit et saisissez un haltère en prise neutre. Posez la partie supérieure de votre bras sur le dessus du ballon d’exercice.\
+\
+Étape 2 : Levez l’haltère tout en gardant la partie supérieure de votre bras en place. Tenez la position pendant une seconde. Abaissez l’haltère à la position initiale.";
+
+
+
+"Stability Ball Dumbbell Biceps Curl (Underhand Grip)" = "Flexion Biceps avec Ballon d’Exercice";
+"17 Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="Muscle: Biceps Brachial\
+\
+Étape 1 : Tenez-vous debout le dos droit et saisissez un haltère en prise neutre. Posez la partie supérieure de votre bras sur le dessus du ballon d’exercice.\
+\
+Étape 2 : Levez l’haltère tout en gardant la partie supérieure de votre bras en place. Tenez la position pendant une seconde. Abaissez l’haltère à la position initiale.";
+
+
+
+
+"Stability Ball Dumbbell Biceps Curl Seated"="Flexion Biceps Assis avec Ballon d’Exercice";
+"18 Stability Ball Dumbbell Biceps Curl Seated"="Muscle: Biceps Brachial\
+\
+Étape 1 : Asseyez-vous le dos droit sur un ballon d’exercice puis, saisissez un haltère dans chaque main en supination de sorte que vos bras soient complètement tendus le long du corps, comme illustré.\
+\
+Étape 2 : Levez progressivement les poids au niveau des épaules en fléchissant les coudes. Gardez les coudes en position le long du corps et ne faites pas pivoter vos poignets pendant l’exécution du mouvement.";
+
+
+
+
+"Stability Ball Dumbbell Biceps Preachear Curl"="Flexion Biceps sur Ballon d’Exercice";
+"19 Stability Ball Dumbbell Biceps Preachear Curl"="Muscle: Biceps Brachial\
+\
+Étape 1 : Placez une paire d’haltères au sol devant le ballon d’exercice. Agenouillez-vous directement derrière le ballon, puis saisissez les haltères en supination en passant vos bras par-dessus. Prenez vos appuis avec les genoux tout en plaçant vos triceps sur le ballon et tendez les bras.\
+\
+Étape 2 : Levez les poids jusqu’à ce que vos avant-bras soient perpendiculaires au sol, gardez le dos droit tout au long de l’exécution du mouvement.";
+
+
+
+"Underhand Grip Prone On An Incline Bench"="Flexion Biceps au Banc incliné";
+"20 Underhand Grip Prone On An Incline Bench"="Muscle: Biceps Brachial\
+\
+Étape 1 : Enfourchez le banc incliné et placez votre torse contre le dossier. Saisissez une paire d’haltères en supination et laissez-les pendre à vos côtés. Gardez les bras tendus.\
+\
+Étape 2 : Levez doucement les poids. Vos poignets doivent rester en position, ne les fléchissez pas et gardez la partie supérieure des bras perpendiculaire au sol.";
+
+
+//Calf
+
+"Toe Raises" = "Extension Mollets avec Haltère";
+"1 Toe Raises" = "Muscle: Gastrocnémien\
+\
+Étape 1 : Tenez-vous debout et droit avec les pieds dans l’alignement de vos hanches et en tenant un haltère lourd dans chaque main. Gardez les bras le long du corps.\
+\
+Étape 2 : Tout en gardant le dos droit, mettez-vous doucement sur la pointe des pieds en élevant vos talons aussi haut que possible.\
+\
+Étape 3 : Marquez une pause lorsque vous êtes au point culminant, puis reposez doucement les talons au sol.";
+
+
+"One-Leg Toe Raises" = "Extension mollets sur une Jambe avec Haltère";
+"2 One-Leg Toe Raises" = "Muscle: Gastrocnémien\
+\
+Étape 1 : Placez un pied sur un demi-ballon. Mettez-vous sur la pointe du pied et tenez un haltère du même côté que votre jambe d’appui. Avec l’autre main, prenez appui sur quelque chose pour rester en équilibre tout au long de l’exercice.\
+\
+Étape 2 : Levez le talon aussi haut que vous le pouvez tout en gardant la jambe droite ou légèrement fléchie. Revenez à la position initiale.";
+
+
+
+"Seated Calf Raises" = "Extension Mollets Assis sur Machine";
+"3 Seated Calf Raises" = "Muscle: Gastrocnémien\
+\
+Étape 1 : Ajustez les coussins juste derrière les genoux et de sorte que vos tibias soient à la verticale. Soulevez le poids en relevant les talons.\
+\
+Étape 2 : Redescendez doucement les talons jusqu’à sentir l’étirement des mollets. Pour cibler l’intérieur ou l’extérieur des mollets, dirigez respectivement vos pieds vers l’intérieur ou l’extérieur.";
+
+
+"Barbell Calf Raise (Seated)"="Extension Mollets Assis avec Barre d’Haltère";
+"4 Barbell Calf Raise (Seated)"="Muscle: Gastrocnémien\
+\
+Étape 1 : Asseyez-vous et posez la barre d’haltère sur la partie inférieure de vos cuisses. Utilisez vos mains pour stabiliser la barre.\
+\
+Étape 2 : Levez les talons en vous mettant sur la pointe des pieds. Tenez la position pendant une seconde. Reposez les talons au sol.";
+
+
+"Barbell Calf Raise With Single Leg (Seated)"="Extension Mollets Assis avec Barre d’Haltère sur une Jambe";
+"5 Barbell Calf Raise With Single Leg (Seated)"="Muscle: Gastrocnémien\
+\
+Étape 1 : Asseyez-vous avec le dos droit et posez la barre d’haltère sur la partie inférieure d’une cuisse. Utilisez vos mains pour stabiliser la barre.\
+\
+Étape 2 : Levez le talon en vous mettant sur la pointe du pied. Tenez la position pendant une seconde. Reposez les talons au sol.\
+\
+Étape 3 : Répétez l’exercice avec l’autre jambe.";
+
+
+"Dumbbell Calf Jump"="Saut avec Haltères";
+"6 Dumbbell Calf Jump"="Muscle: Gastrocnémien\
+\
+Étape 1 : Tenez-vous debout avec les pieds dans l’alignement de vos hanches. Saisissez une paire d’haltères avec les bras tendus le long du corps.\
+\
+Étape 2 : Fléchissez les genoux pour former un angle à environ 45 degrés et sautez aussi haut que vous le pouvez. Pointez les pieds vers le sol lorsque vous sautez.\
+\
+Étape 3 : Amortissez votre réception en fléchissant les genoux à 45 degrés, puis ressautez immédiatement.";
+
+
+
+"Dumbbell Calf Raise (Seated)"="Extension Mollets Assis avec Haltère";
+"7 Dumbbell Calf Raise (Seated)"="Muscle: Gastrocnémien\
+\
+Étape 1 : Asseyez-vous avec le dos droit et posez une paire d’haltères sur la partie inférieure de vos cuisses. Utilisez vos mains pour stabiliser les haltères.\
+\
+Étape 2 : Levez les talons en vous mettant sur la pointe des pieds. Tenez la position pendant une seconde. Reposez les talons au sol.";
+
+
+"Standing Barbell Calf Raise"="Extension Mollets Debout avec Barre d’Haltère";
+"8 Standing Barbell Calf Raise"="Muscle: Gastrocnémien\
+\
+Étape 1 : Tenez-vous debout le dos droit et placez une barre d’haltère sur vos épaules. Saisissez la barre en pronation. La distance entre vos mains doit être supérieure à celle de vos épaules.\
+\
+Étape 2 : Levez les talons en vous mettant sur la pointe des pieds. Tenez la position pendant une seconde. Reposez les talons au sol.";
+
+
+"Standing Dumbbell Calf Raise"="Extension Mollets Debout avec Haltère";
+"9 Standing Dumbbell Calf Raise"="Muscle: Gastrocnémien\
+\
+Étape 1 : Tenez-vous debout et droit avec les pieds dans l’alignement de vos hanches. Saisissez un haltère lourd dans chaque main et gardez les bras le long du corps.\
+\
+Étape 2 : Tout en gardant le dos droit, mettez-vous doucement sur la pointe des pieds en élevant vos talons aussi haut que possible.\
+\
+Étape 3 : Marquez une pause lorsque vous êtes au point culminant, puis reposez doucement les talons au sol.";
+
+
+//Chest
+
+"Bench Presses" = "Développé Couché";
+"1 Bench Presses" = "Muscle: Pectoraux\
+\
+Étape 1 : Allongez-vous sur un banc avec les pieds posés au sol. La barre placée sur son support doit se trouver légèrement derrière votre tête. Il est recommandé d’effectuer cet exercice accompagné d’une autre personne afin d’éviter que le poids ne tombe sur vous, en particulier si vous utilisez une barre ou des haltères libres.\
+\
+Étape 2 : Une fois que vous avez soulevé la barre hors de son support, elle doit se trouver directement dans l’alignement de votre buste. Gardez la tête contre le banc tout au long de l’exercice. Lorsque la barre est stable, abaissez-la au niveau du buste et, si vous en êtes capable, avec les bras dirigés vers l’extérieur pendant la descente. Lorsque vous avez descendu la barre au maximum, repoussez la barre vers le haut jusqu’à ce que vos bras soient tendus. Concentrez l’effort sur les pectoraux et les bras en accompagnant la barre verticalement.";
+
+
+"Incline Presses" = "Développé Couché Incliné";
+"2 Incline Presses" = "Muscle: Pectoraux\
+\
+Étape 1 : Soulevez la barre d’haltère hors de son support et abaissez-la doucement à environ 10cm au-dessus de la clavicule (juste en dessous de la pomme d’Adam), puis poussez sur vos bras pour remonter la barre à la position initiale. Ne mettez pas la barre en contact avec la partie supérieure de votre buste, car cela crée une tension inutile au niveau des articulations des épaules et réduit l’intensité de l’effort au niveau des pectoraux, ce qui n’est pas le but de cet exercice ! Lorsque vous abaissez la barre, assurez-vous que le mouvement est lent et sous contrôle. Inversement, lorsque vous relevez la barre, faites-le de manière explosive.";
+
+
+"Dumbbell Presses" = "Développé Couché Incliné avec Haltères";
+"3 Dumbbell Presses" = "Muscle: Pectoraux\
+\
+Étape 1 : Cet exercice est très similaire à un développé couché à la barre, sauf que vous utilisez un banc incliné et que les muscles ciblés sont ceux de la partie supérieure des pectoraux.\
+\
+Étape 2 : Soulevez les haltères hors de leurs supports et abaissez-les doucement à environ 10cm au-dessus de la clavicule (juste en dessous de la pomme d’Adam), puis poussez sur vos bras pour remonter la barre à la position initiale. Ne mettez pas les haltères en contact avec la partie supérieure de votre buste, car cela crée une tension inutile au niveau des articulations des épaules et réduit l’intensité de l’effort au niveau des pectoraux, ce qui n’est pas le but de cet exercice ! Lorsque vous abaissez les haltères, assurez-vous que le mouvement est lent et sous contrôle. Inversement, lorsque vous les relevez, faites-le de manière explosive.";
+
+
+"Parallel Bar Dips" = "Parallel Bar Dips";
+"4 Parallel Bar Dips" = "Muscle: Pectoraux\
+\
+D'abord, gardez la tête baissée pendant ce mouvement et bougez votre corps vers l'avant. Ensuite, déplacez un peu vos coudes vers l'extérieur. Après quoi, gardez vos coudes en position et loin de votre corps. Ceci vous assurera de solliciter davantage votre buste que vos triceps. Rappelez-vous de bien vous concentrer pour contracter toute la partie pectorale au sommet du mouvement.";
+
+"Cable Crossover Flys" = "Écarté Debout à la Poulie";
+"5 Cable Crossover Flys" ="Muscle: Pectoraux\
+\
+Étape 1 : Cet exercice s’effectue à l’aide d’une tour à poulies disposant de deux poulies opposées de chaque côté. Installez les poulies en position haute (si vous n’êtes pas sûr de savoir comment faire, demander de l’aide au personnel de la salle de sport).\
+\
+Étape 2 : Tenez-vous debout et saisissez les poignets reliés aux poulies, votre corps doit former un T. Faites doucement se rejoindre vos bras en contrôlant le mouvement.\
+\
+Étape 3 : Lors de l’exécution de l’exercice, vous devez faire comme si vous embrassiez un énorme tronc d’arbre, tenez la position pendant une seconde tout en contractant bien les pectoraux puis revenez à la position initiale.";
+
+
+
+"Dumbbell Flys" = "Écarté Couché avec Haltères";
+"6 Dumbbell Flys" = "Muscle: Pectoraux\
+\
+Étape 1 : Pour exécuter un écarté couché en prise neutre, saisissez des haltères relativement légers dans chaque main. Essayez d’abord des poids légers puis augmentez progressivement pour déterminer ce qui vous convient le mieux. Allongez-vous sur un banc et soulevez les haltères en tendant les bras au-dessus de votre buste.\
+\
+Étape 2 : C’est la position initiale. Écartez les bras latéralement jusqu’à ce qu’ils soient dans l’alignement de votre torse. Vous pouvez fléchir légèrement les coudes pour rendre l’exercice plus facile. Remontez les haltères à la position initiale en gardant les bras tendus.";
+
+
+"Dumbbell Pullovers" = "Pull-over avec Haltère";
+"7 Dumbbell Pullovers" ="Muscle: Pectoraux\
+\
+Étape 1 : Cet exercice est similaire à un pull-over à la barre, sauf que vous utilisez un haltère à la place de la barre. Allongez-vous sur un banc. Commencez par tenir l’haltère au-dessus de votre buste en fléchissant légèrement les coudes. Abaissez doucement l’haltère derrière votre tête et aussi loin que vous le pouvez.\
+\
+Étape 2 : Vos bras doivent se retrouver en dessous du niveau du banc pour effectuer un bon étirement des muscles ! Remontez doucement l’haltère à la position initiale, en gardant les coudes stables et légèrement fléchis.";
+
+
+"Push-Ups" = "Pompes";
+"8 Push-Ups" = "Muscle: Pectoraux\
+\
+Étape 1 : Mettez-vous face au sol avec les bras tendus et posez les mains à plat dans l’alignement de vos épaules (ou plus écartées).\
+\
+Étape 2 : Gardez les pieds joints ou légèrement écartés : inspirez tout en fléchissant les coudes afin d’amener votre torse vers le sol, poussez sur les bras pour revenir à la position initiale et gardez le dos droit tout au long de l’exercice.";
+
+
+"Dumbbell Press" = "Développé Couché avec Haltères";
+"9 Dumbbell Press" = "Muscle: Pectoraux\
+\
+Étape 1 : Allongez-vous sur un banc avec les pieds posés au sol pour vous stabiliser. Les bras sont tendus vers le plafond et vous devez tenir les haltères en prise neutre. Inspirez et, tout en abaissant les haltères au niveau du buste, fléchissez les coudes et tournez les avant-bras afin de passer à une prise en pronation. Poussez sur les bras pour remonter les haltères à la position initiale, maintenez-les au point culminant tout en contractant bien les pectoraux afin d’isoler le travail. Expirez lorsque le mouvement est terminé.";
+
+
+"Barbell Bench Press" = "Développé Couché Décliné";
+"10 Barbell Bench Press" = "Muscle: Pectoraux\
+\
+Étape 1 : Allongez-vous sur un banc décliné. Saisissez la barre d’haltère en pronation. Abaissez la barre vers votre buste en gardant les coudes près du corps.\
+\
+Étape 2 : À la fin de la descente, la barre doit légèrement toucher votre buste.";
+
+
+"Pec Deck Flies" = "Pectoraux Papillon";
+"11 Pec Deck Flies" = "Muscle: Pectoraux\
+\
+Étape 1 : Asseyez-vous sur le siège de la machine avec les coudes contre les coussins tout en relâchant les avant-bras et les poignets.\
+\
+Étape 2 : Inspirez et faites se rejoindre les coussins jusqu’à ce qu’ils se touchent devant votre buste. Expirez lorsque le mouvement est terminé.";
+
+"Decline Pushup"="Pompes Déclinées au Banc";
+"12 Decline Pushup"="Muscle: Pectoraux\
+\
+Étape 1 : Placez vos pieds sur un banc ou toute plateforme surélevée et positionnez-vous comme pour effectuer des pompes classiques.\
+\
+Étape 2 : Abaissez votre corps jusqu’à ce que votre buste soit quasiment en contact avec le sol, marquez une pause, puis poussez sur les bras pour revenir à la position initiale. Maintenez une bonne posture tout au long de l’exercice en gardant les hanches stables, les jambes et les abdominaux tendus tout en prenant vos appuis sur la pointe des pieds.";
+
+
+"Dive Bomber Pushup"="Pompes Plongées";
+"13 Dive Bomber Pushup"="Muscle: Pectoraux\
+\
+Étape 1 : Positionnez-vous comme pour effectuer des pompes classiques, mais assurez-vous que vos mains sont placées plus avant et que la distance entre elles est supérieure à celle de vos épaules. Relevez les hanches en déplaçant vos pieds vers l’avant aussi loin que vous le pouvez. Gardez le dos et les jambes droits tout au long de l’exercice. \
+\
+Étape 2 : Déplacez votre buste vers le bas et en avant jusqu’à ce qu’il soit quasiment en contact avec le sol. Vos épaules doivent se retrouver dans l’alignement de vos mains. Marquez une pause, puis redescendez les hanches tout en étendant vos bras. Marquez une pause à nouveau, puis effectuez les mouvements en sens inverse pour revenir à la position de départ.";
+
+
+"Dumbbell Floor Chest Press"="Développé Couché au Sol avec Haltères";
+"14 Dumbbell Floor Chest Press"="Muscle: Pectoraux\
+\
+Étape 1 : Allongez-vous au sol. Saisissez des haltères en pronation. Posez la partie supérieure de vos bras sur le sol tout en pointant les haltères vers le plafond.\
+\
+Étape 2 : Tendez complètement les bras vers le plafond. Tenez la position pendant une seconde. Gardez votre dos contre le sol tout au long de l’exercice. Évitez de bouger les jambes.";
+
+
+"Dumbbell Pushup"="Pompes avec Haltères";
+"15 Dumbbell Pushup"="Muscle: Pectoraux\
+\
+Étape 1 : Saisissez deux haltères, agenouillez-vous et disposez les haltères dans l’alignement de vos épaules. Garder les coudes en place, les bras et les jambes tendus ainsi que les pieds joints.\
+\
+Étape 2 : Abaissez votre corps vers le sol en fléchissant les coudes et en gardant le dos droit.\
+\
+Étape 3 : Poussez sur les bras jusqu’à ce qu’ils soient tendus pour revenir à la position initiale. Répétez l’exercice.";
+
+
+"Incline Pushup"="Pompes Inclinés au Banc";
+"16 Incline Pushup"="Muscle: Pectoraux\
+\
+Étape 1 : Placez vos mains sur le banc et positionnez-vous comme pour effectuer des pompes classiques.\
+\
+Étape 2 : Abaissez votre corps jusqu’à ce que votre buste soit quasiment en contact avec le sol, marquez une pause, puis poussez sur les bras pour revenir à la position initiale. Maintenez une bonne posture tout au long de l’exercice en gardant les hanches stables, les jambes et les abdominaux tendus tout en prenant vos appuis sur la pointe des pieds. Répétez l’exercice.";
+
+
+
+"Medicine Ball Pushup (Alternating)"="Pompes Alternées avec Balle d’Exercice";
+"17 Medicine Ball Pushup (Alternating)"="Muscle: Pectoraux\
+\
+Étape 1 : Allongez-vous à plat ventre avec les mains posées au sol. Placez les mains au niveau de la partie inférieure de votre buste. La distance entre vos mains doit être légèrement supérieure à celle de vos épaules. Poussez sur les bras pour vous élever de sorte que seuls vos mains et vos pieds soient en contact avec le sol. Gardez le dos droit. Placez une balle d’exercice sous une de vos mains. Les mains doivent être légèrement dirigées vers l’extérieur.\
+\
+Étape 2 : Abaissez votre corps en fléchissant les coudes jusqu’à ce que votre buste soit à quelques centimètres du sol. Vos coudes doivent être dirigés vers vos pieds. Tenez la position pendant une seconde. Revenez à la position initiale.\
+\
+Étape 3 : Faites rouler la balle sous l’autre main et répétez les étapes.";
+
+
+
+"Modified Pushup"="Pompes sur le Genoux";
+"18 Modified Pushup"="Muscle: Pectoraux\
+\
+Étape 1 : Mettez-vous à quatre pattes au sol et placez vos mains de sorte que la distance entre elles soit légèrement supérieure à celle de vos épaules. Croisez les chevilles, comme illustré.\
+\
+Étape 2 : Abaissez-vous jusqu’à ce que votre buste soit presque en contact avec le sol, marquez une pause puis poussez sur les bras pour revenir à la position initiale. Gardez les abdominaux contractés.";
+
+
+
+"Single Arm Pushup"="Pompes sur un Bras";
+"19 Single Arm Pushup"="Muscle: Pectoraux\
+\
+Étape 1 : Positionnez-vous comme pour effectuer des pompes classiques : face au sol, les pieds joints et les mains posées dans l’alignement des épaules. Maintenant, déplacez vos pieds de sorte que la distance entre eux soit légèrement supérieure à celle de vos épaules.\
+\
+Étape 2 : Levez un bras et placez la main derrière le dos.\
+\
+Étape 3 : Poussez sur l’autre bras pour soulever votre corps tout en gardant le dos droit. Stoppez la montée juste avant que votre bras soit complètement tendu.\
+\
+Étape 4 : Abaissez votre corps. Afin de maintenir l’équilibre, faites pivoter votre torse en le décalant légèrement par rapport à votre main d’appui.\
+\
+Étape 5 : Continuez la descente jusqu’à ce que votre menton soit à environ 10cm du sol. Comme votre torse est un peu décalé, votre menton doit se trouver plus ou moins au-dessus de l’endroit où était placée la main que vous avez mise dans le dos au début de l’exercice. Ceci constitue une répétition.";
+
+
+
+"Stability Ball Flat Dumbbell Chest Press" = "Développé Couché sur Ballon d’Exercice avec Haltères";
+"21 Stability Ball Flat Dumbbell Chest Press"="Muscle: Pectoraux\
+\
+Étape 1 : Placez votre dos contre le ballon d’exercice. Les pieds sont posés au sol. Saisissez les haltères en pronation. Maintenez les haltères de chaque côté de votre buste.\
+\
+Étape 2 : Tendez complètement les bras vers le plafond. Tenez la position pendant un bref moment. Revenez à la position initiale.";
+
+
+
+"Stability Ball Flat Dumbbell Fly"="Écarté Couché avec Haltères et Ballon d’Exercice";
+"20 Stability Ball Flat Dumbbell Fly"="Muscle: Pectoraux\
+\
+Étape 1 : Placez votre dos contre le ballon d’exercice. Les pieds sont au sol. Saisissez une paire d’haltères en prise neutre. Tendez complètement les bras vers le plafond.\
+\
+Étape 2 : Tout en fléchissant légèrement les coudes, abaissez les haltères latéralement jusqu’à ce qu’elles soient dans l’alignement de votre buste. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+"Stability Ball Pushup"="Pompes sur Ballon d’Exercice";
+"22 Stability Ball Pushup"="Muscle: Pectoraux\
+\
+Étape 1 : Positionnez-vous comme pour effectuer des pompes classiques. Pour rendre l’exercice plus difficile, placez vos tibias et vos pieds sur le ballon d’exercice. Prenez appui sur le ballon et sur vos mains qui doivent être posées à plat sur le sol et dans l’alignement de vos épaules.\
+\
+Étape 2 : Abaissez-vous jusqu’à ce que votre buste soit quasiment en contact avec le sol. Poussez sur vos bras pour revenir à la position initiale.";
+
+
+
+"Weighted Pushup"="Pompes Lestées";
+"23 Weighted Pushup"="Muscle: Pectoraux\
+\
+Étape 1 : Positionnez-vous comme pour effectuer des pompes classiques avec les mains dans l’alignement de vos épaules. Demandez à une personne de placer un disque d’haltère sur votre dos au niveau des omoplates.\
+\
+Étape 2 : Effectuez la descente en fléchissant les coudes jusqu’à toucher le sol. Gardez le corps bien droit pendant toute l’exécution de l’exercice.\
+\
+Étape 3 :Marquez une pause, puis poussez sur les bras pour revenir à la position initiale.";
+
+
+//Forearms
+"Wrist Curls" = "Flexion Poignets";
+"1 Wrist Curls" = "Muscle: Long Radial\
+\
+Étape 1 : Asseyez-vous avec les avant-bras posés sur les cuisses ou sur un banc. Saisissez une barre en supination et relâchez les poignets. Inspirez puis effectuez une flexion des poignets.\
+\
+Étape 2 : Expirez lorsque vous terminez le mouvement.";
+
+
+
+"Wrist Curls" = "Flexion poignets à un Bras";
+"2 Wrist Curls" = "Muscle: Long Radial\
+\
+Étape 1 : Asseyez-vous avec l’avant-bras posé sur une cuisse ou sur un banc. Saisissez une barre en supination et relâchez le poignet. Inspirez puis effectuez une flexion du poignet.\
+\
+Étape 2 : Expirez lorsque vous terminez le mouvement.";
+
+
+"Dumbbell Wrist Twist"="Rotation Poignets avec Haltères";
+"3 Dumbbell Wrist Twist"="Muscle: Long Radial\
+\
+Étape 1 : Tenez-vous debout, saisissez en pronation un haltère léger dans chaque main et placez les bras le long du corps. Effectuez une flexion biceps jusqu’à ce que vos avant-bras soient parallèles au sol. C’est la position initiale.\
+\
+Étape 2 : Tournez les poignets jusqu’à ce que la paume de vos mains soit dirigée vers le plafond et revenez à la position initiale.";
+
+
+"Standing Wrist Curl"="Flexion Poignets à la Barre";
+"4 Standing Wrist Curl"="Muscle: Long Radial\
+\
+Étape 1 : Saisissez la barre en pronation et placez-la derrière vous avec les bras tendus. Tenez la barre du bout des doigts.\
+\
+Étape 2 : Fléchissez les poignets pour soulever la barre aussi haut que possible.\
+\
+Étape 3 : Faites le mouvement en sens inverse pour abaisser la barre.";
+
+
+//Legs
+
+"Squats" = "Squats à la Barre";
+"1 Squats" = "Muscle: Fessiers\
+\
+Étape 1 : Placez la barre sur vos épaules et tenez-vous debout avec les pieds dans l’alignement de vos hanches.\
+\
+Étape 2 : Baissez-vous jusqu’à ce que vos cuisses soient parallèles au sol. Redressez-vous, marquez une pause, puis baissez-vous à nouveau.\
+\
+Étape 3 : Marquez une pause à nouveau, puis revenez à la position initiale.";
+
+
+
+"Angled Leg Presses" = "Presse à Cuisses";
+"2 Angled Leg Presses" = "Muscle: Fessiers\
+\
+Étape 1 : Placez-vous sur la machine avec le dos contre le dossier. Placez les pieds à plat contre la plateforme et dans l’alignement de vos hanches. Vos jambes doivent former un angle d’environ 90 degrés au niveau des genoux, le plus important étant d’avoir les pieds à plat contre la plateforme.\
+\
+Étape 2 : Vous devez garder les genoux stables et dans l’alignement de vos pieds. Vos fessiers doivent rester en contact avec le siège de la machine. Si ce n’est pas le cas et que vos jambes forment un angle trop aigu, ajustez le siège pour trouver la bonne position. Une mauvaise position consiste à avoir les genoux en face du regard et à ressentir des crampes. Enfin, saisissez les poignées.";
+
+
+
+"Leg Extensions" = "Extension Jambes";
+"3 Leg Extensions" = "Muscle: Quadriceps\
+\
+Étape 1 : Soulevez doucement le poids en relevant les jambes de sorte qu’elles soient tendues.\
+\
+Étape 2 : Ne soulevez pas le poids brusquement. Tenez la position pendant une seconde. Abaissez le poids pour revenir à la position initiale.";
+
+
+
+"Dumbbell Lunges" = "Fente Avant avec Haltères";
+"4 Dumbbell Lunges" = "Muscle: Quadriceps\
+\
+Étape 1 : Tenez-vous debout avec un haltère dans chaque main et les bras le long du corps. Faites un pas en avant. Posez d’abord le talon, puis la plante des pieds. Baissez-vous en fléchissant le genou avant et jusqu’à ce que votre genou arrière touche quasiment le sol.\
+\
+Étape 2 : Revenez à la position initiale en poussant fermement sur la jambe avant. Répétez l’exercice en changeant de jambe d’appui.";
+
+
+
+"Cable Back Kicks" = "Fente Avant avec Haltères";
+"5 Cable Back Kicks" ="Muscle: Fessiers\
+\
+Étape 1 : Tenez-vous debout avec des haltères dans chaque main disposés le long du corps. Effectuez une fente avant. Posez d’abord le talon puis la plante des pieds. Baissez-vous en fléchissant le genou jusqu’à ce que le genou de votre jambe arrière soit quasiment au sol.\
+\
+Étape 2 : Revenez à la position initiale en poussant fermement sur la jambe avant. Répétez l’exercice en changeant de jambe d’appui.";
+
+
+"Dumbbell Squats" = "Squat avec Haltères";
+"6 Dumbbell Squats" = "Muscle: Fessiers\
+\
+Étape 1 : Tenez-vous debout avec un haltère dans chaque main, les bras le long du corps et les pieds dans l’alignement de vos hanches. Regardez vers l’horizon, cambrez légèrement le dos puis baissez-vous en fléchissant les genoux.\
+\
+Étape 2 : Lorsque vos cuisses sont parallèles au sol, poussez sur les jambes afin de revenir à la position initiale. Expirez lorsque vous terminez le mouvement.";
+
+
+"Front Squats" = "Squat avec Barre Placée devant le Torse";
+"7 Front Squats" ="Muscle: Fessiers\
+\
+Étape 1 : Positionnez la barre d’haltère devant vos épaules en croisant les bras parallèlement au sol pour maintenir la barre puis regardez droit devant vous. Inspirez, puis baissez-vous en fléchissant les genoux.\
+\
+Étape 2 : Revenez à la position initiale, expirez lorsque vous terminez le mouvement.";
+
+
+
+"Power Squats" = "Squat Jambes Écartées";
+"8 Power Squats" = "Muscle: Fessiers\
+\
+Étape 1 : Cet exercice est identique à un squat classique, sauf que l’écart entre vos jambes est plus important et que les pieds sont pointés vers l’extérieur afin de cibler l’effort sur l’intérieur des cuisses.\
+\
+Étapes 2 : Les muscles sollicités sont : les quadriceps, l’intégralité des abducteurs, les fessiers, les ischiojambiers et l’intégralité des muscles érecteurs du rachis.";
+
+
+
+"Hack Squats" = "Presse à Cuisses Inclinée";
+"9 Hack Squats" = "Muscle: Fessiers\
+\
+Étape 1 : Fléchissez les genoux, placez votre dos contre le rembourrage, calez vos épaules sous la palanche de la machine et placez les pieds assez près l’un de l’autre. Inspirez, actionnez le mécanisme pour libérer la palanche et pliez les jambes.\
+\
+Étape 2 : Revenez à la position initiale tout en expirant lorsque vous terminez le mouvement.";
+
+
+
+"Barbell Hack Squat"="Élévation a la Barre";
+"10 Barbell Hack Squat"="Muscle: Fessiers\
+\
+Étape 1 : Tenez-vous debout avec les pieds dans l’alignement de vos épaules. Placez la barre derrière vous au niveau des ischiojambiers, tenez-la en pronation. La distance entre vos mains doit être supérieure à celle de vos épaules.\
+\
+Étape 2 : Baissez-vous en fléchissant les genoux. Votre dos doit rester droit tout au long de l’exercice. Stoppez la descente lorsque vos cuisses sont parallèles au sol ou lorsque la barre touche le sol. Lorsque vous revenez à la position initiale, générez l’effort en faisant travailler le bas du dos.";
+
+
+"Seated Leg Curls" = "Flexion Jambes Assis";
+"11 Seated Leg Curls" = "Muscle: Fessiers\
+\
+Étape 1 : Asseyez-vous sur la machine avec les jambes tendues et les chevilles reposant sur le rouleau. Abaissez le garde-jambes sur vos cuisses pour maintenir vos jambes en place.\
+\
+Étape 2 : Saisissez les poignées de chaque côté. Inspirez et pliez les genoux de sorte à abaisser le rouleau. Expirez lorsque vous terminez le mouvement.";
+
+
+"Barbell Lunge"="Fente Avant à la Barre";
+"12 Barbell Lunge"="Muscle: Fessiers\
+\
+Étape 1 : Commencez par poser la barre derrière les épaules en la saisissant en pronation et avec une distance entre les mains légèrement supérieure à celle de vos épaules.\
+\
+Étape 2 : Tenez-vous debout avec les pieds à environ 20cm l’un de l’autre et pointés vers l’avant.\
+\
+Étape 3 : Faites un pas en avant (d’environ 1m) tout en rentrant les abdominaux et en gardant le dos droit.\
+\
+Étape 4 : Baissez-vous en fléchissant le genou avant jusqu’à ce que le genou arrière touche quasiment le sol, mais ne touchez pas le sol.\
+\
+Étape 5 : Tenez la position pendant un bref moment, puis revenez à la position initiale. Répétez l’exercice en changeant de jambe d’appui.";
+
+
+"Barbell Squat (Assisted)"="Squat à la Barre Assisté d’un Banc";
+"13 Barbell Squat (Assisted)"="Muscle: Fessiers\
+\
+Étape 1 : Tenez-vous debout avec un banc de musculation placé derrière vous. Positionnez vos pieds dans l’alignement de vos épaules. Placez la barre sur vos épaules en la saisissant en pronation. La distance entre vos mains doit être supérieure à celle de vos épaules. Les pieds doivent être légèrement dirigés vers l’extérieur.\
+\
+Étape 2 : Baissez-vous en fléchissant les genoux et en gardant le dos droit tout au long de l’exercice. Stoppez la descente lorsque vos cuisses sont parallèles au sol ou lorsque vos fessiers touchent le banc. Lorsque vous revenez à la position initiale, générez l’effort en faisant travailler le bas du dos.";
+
+
+
+"Barbell Squat Overhead"="Squat avec Barre au-dessus de la Tête";
+"14 Barbell Squat Overhead"="Muscle: Fessiers\
+\
+Étape 1 : Tenez-vous debout avec les pieds dans l’alignement de vos épaules. Saisissez la barre en pronation. La distance entre vos mains doit être supérieure à celle de vos épaules. Dirigez légèrement vos pieds vers l’extérieur. Soulevez la barre au-dessus de votre tête avec les bras complètement tendus.\
+\
+Étape 2 : Baissez-vous en fléchissant les genoux. Votre dos doit rester droit tout au long de l’exercice. Stoppez la descente lorsque vos cuisses sont parallèles au sol. Lorsque vous revenez à la position initiale, générez l’effort en faisant travailler le bas du dos.";
+
+
+"Bench Jump"="Saut sur Banc";
+"15 Bench Jump"="Muscle: Fessiers\
+\
+Étape 1 : Tenez-vous debout devant le banc.\
+\
+Étape 2 : Sautez sur le banc, puis sautez immédiatement en arrière pour revenir à la position initiale.\
+\
+Étape 3 : répétez l’exercice plusieurs fois.";
+
+
+"Bulgarian Split Squat"="Fentes Avant avec Pied Arrière Surélevé";
+"16 Bulgarian Split Squat"="Muscle: Quadriceps\
+\
+Étape 1 : Tenez-vous debout et droit avec un banc placé à environ 1m derrière vous. Saisissez un haltère dans chaque main. Levez le pied droit et posez-le sur le banc derrière vous.\
+\
+Étape 2 : Tout en gardant la tête et le dos droits, pliez doucement la jambe gauche afin de vous baisser comme pour effectuer une fente. Stoppez la descente lorsque votre cuisse gauche est à peu près parallèle au sol.\
+\
+Étape 3 : Poussez doucement sur la jambe gauche pour revenir à la position initiale, puis répétez le mouvement. Pensez aussi à changer de jambe d’appui pour travailler la jambe droite.";
+
+
+
+"Bulgarian Split Squat (No Weights)"="Fentes Avant avec Pied Arrière Surélevé";
+"17 Bulgarian Split Squat (No Weights)"="Muscle: Quadriceps\
+\
+Étape 1 : Posez un pied au sol puis maintenez-vous en équilibre en posant l’autre pied sur la chaise placée derrière vous, comme illustré. Placez les mains derrière la tête.\
+\
+Étape 2 : Prenez vos appuis sur le pied avant puis baissez-vous en fléchissant les genoux jusqu’à ce que votre genou arrière soit à quelques centimètres du sol et que votre jambe avant soit pliée à environ 90 degrés. Le reste de votre corps doit rester droit. Faites une série puis effectuez à nouveau l’exercice en changeant de jambe d’appui.";
+
+
+"Dumbbell Side Lunge"="Fente Latérale avec Haltères";
+"18 Dumbbell Side Lunge"="Muscle: Fessiers\
+\
+Étape 1 : Tenez-vous debout et droit. Saisissez une paire d’haltères avec les bras le long du corps.\
+\
+Étape 2 : Faites un pas de côté et baissez-vous en pliant la jambe d’appui et en penchant le torse légèrement vers l’avant. L’autre jambe doit rester droite lorsque vous effectuez ce mouvement.\
+\
+Étape 3 : Poussez sur votre jambe d’appui pour revenir à la position initiale. Répétez l’exercice en changeant de jambe d’appui.";
+
+
+
+"Good Morning"="Good Morning";
+"19 Good Morning"="Muscle: Zone Lombaire\
+\
+Étape 1 : Tenez la barre en pronation et positionnez-la derrière vos épaules (ne la positionnez pas sur la nuque). Placez vos pieds dans l’alignement de vos épaules et fléchissez légèrement les genoux tout en gardant le dos droit.\
+\
+Étape 2 : Penchez-vous progressivement vers l’avant tout en maintenant une posture naturelle au niveau du dos. Gardez la tête droite et les genoux dans la même position.\
+\
+Étape 3 : Relevez le buste à la position initiale.";
+
+
+
+"One Arm Side Deadlift"="Soulevé de Terre à un Bras";
+"20 One Arm Side Deadlift"="Muscle: Fessiers\
+\
+Étape 1 : Placez-vous à côté d’une barre d’haltère posée au sol.\
+\
+Étape 2 : Saisissez la barre en prise neutre en son milieu.\
+\
+Étape 3 : penchez-vous tout en vous baissant jusqu’à ce que vos cuisses soient parallèles au sol comme pour effectuer un squat.";
+
+
+
+"Single Leg Squat"="Squat sur une Jambe";
+"21 Single Leg Squat"="Muscle: Fessiers\
+\
+Étape 1 : Tenez-vous debout avec les pieds dans l’alignement de vos épaules. Levez une jambe devant vous et aussi haut que possible.\
+\
+Étape 2 : Inspirez, puis baissez-vous aussi bas que possible en déplaçant vos hanches vers l’arrière tout en essayant de garder le torse aussi droit que possible. Le talon de votre jambe avant peut toucher le sol si vous arrivez à descendre jusque-là.\
+\
+Étape 3 : Revenez à la position initiale et expirez. Faites une série puis changez de jambe d’appui.";
+
+
+//Shoulders
+"Back Presses" = "Développé Nuque Assis";
+"1 Back Presses" = "Muscle: Deltoïdes\
+\
+Étape 1 : Commencez par vous assoir sur le banc (avec dossier). Saisissez la barre en pronation. Placez la barre derrière vous et légèrement au-dessus de vos épaules, vos coudes sont pointés vers le sol.\
+\
+Étape 2 : Poussez sur les bras jusqu’à ce qu’ils soient tendus afin de soulever la barre au-dessus de votre tête. Après avoir marqué une pause, abaissez la barre pour revenir à la position initiale.";
+
+
+
+"Seated Front Presses" = "Développé Avant Assis";
+"2 Seated Front Presses" ="Muscle: Deltoids\
+\
+Étape 1 : Asseyez-vous sur un banc avec dossier. Saisissez la barre en pronation avec une distance entre les mains supérieure à celle de vos épaules. Poussez sur les bras pour soulever la barre verticalement devant vous jusqu’à ce que vos bras soient tendus.\
+\
+Étape 2 : Abaissez la barre au niveau des épaules et soulevez-la à nouveau pour revenir à la position initiale.";
+
+
+
+"Seated Dumbbell Presses" = "Développé Droit Assis";
+"3 Seated Dumbbell Presses" = "Muscle: Deltoïdes\
+\
+Étape 1 : Asseyez-vous le dos droit sur un banc ou sur une chaise. Saisissez une paire d’haltères en pronation et positionnez-les juste à côté de vos épaules. Vos pouces se font face.\
+\
+Étape 2 : Poussez sur les bras pour soulever les haltères au-dessus de la tête et revenez à la position initiale.";
+
+
+"Low-Pulley Lateral Raises" = "Élévation Latérale à la Poulie Basse";
+"4 Low-Pulley Lateral Raises" = "Muscle: Deltoïdes\
+\
+Étape 1 : Tenez-vous debout de côté près de la tour à poulie, positionnez votre bras légèrement devant la cuisse et saisissez la poignée. Inspirez et, tout en fléchissant légèrement le coude, élevez le bras latéralement jusqu’à ce que la partie supérieure de votre bras soit au niveau de l’épaule.\
+\
+Étape 2 : Gardez la paume de la main dirigée vers le sol. Abaissez doucement le bras à la position initiale en contrôlant le mouvement.";
+
+
+
+"Upright Rows" = "Tirage Verticale";
+"5 Upright Rows" = "Muscle: Deltoïdes\
+\
+Étape 1 : Tirez la barre verticalement vers votre menton en fléchissant les coudes. Lorsque la partie supérieure de vos bras est parallèle au sol, arrêtez de tirer, puis faites redescendre la barre verticalement, comme lors de la montée.\
+\
+Étape 2 : Au point culminant, vos coudes doivent être placés plus haut que vos poignets.";
+
+
+
+"Dumbbell Rear Deltoid Raises" = "Élévation Frontale avec Haltères";
+"6 Dumbbell Rear Deltoid Raises" = "Muscle: Deltoïdes\
+\
+Étape 1 : Asseyez-vous sur un banc avec les pieds joints posés au sol. Penchez-vous en avant. Saisissez une paire d’haltères en pronation. Tirez vos bras vers l’arrière en gardant les mains en position et revenez doucement à la position initiale.";
+
+
+"Lateral Raises" = "Élévation Latérale";
+"7 Lateral Raises" = "Muscle: Deltoïdes\
+\
+Étape 1 : Tenez-vous debout avec les pieds légèrement écartés. Gardez le dos droit et les bras le long du corps avec un haltère dans chaque main. Élevez latéralement les haltères en fléchissant légèrement les coudes.\
+\
+Étape 2 : Revenez à la position initiale.";
+
+
+"Front Raises" = "Élévation Frontale";
+"8 Front Raises" = "Muscle: Deltoïdes\
+\
+Étape 1 : Tenez-vous debout avec les pieds légèrement écartés. Saisissez les haltères en pronation en les plaçant devant vos cuisses ou légèrement à vos côtés. Inspirez et, en alternant les bras, élevez frontalement chaque haltère jusqu’au niveau des épaules. Expirez lorsque vous terminez le mouvement.";
+
+
+"Barbell Front Raises" = "Élévation Frontale à la Barre";
+"9 Barbell Front Raises" = "Muscle: Deltoïdes\
+\
+Étape 1 : Tenez-vous debout avec les jambes légèrement écartées. Saisissez la barre en pronation et placez-la devant vos cuisses.\
+\
+Étapes 2 : Gardez le dos droit et les abdominaux contractés : inspirez et soulevez la barre frontalement avec les bras tendus et jusqu’à ce qu’elle soit au niveau du regard. Expirez lorsque vous terminez le mouvement.";
+
+
+"Upright Row" = "Élévation Verticale Prise Étroite";
+"10 Upright Row" = "Muscle: Deltoïdes\
+\
+Étape 1 : Tenez-vous debout avec les pieds légèrement écartés. Gardez le dos droit. Saisissez la barre en pronation avec les mains l’une à côté de  l’autre : inspirez et tirez la barre verticalement jusqu’à ce qu’elle touche votre menton.\
+\
+Étape 2 : Levez les coudes aussi haut que possible. Au point culminant, expirez et redescendez doucement la barre à la position initiale.";
+
+
+
+"Low Pulley Bent-Over Lateral Raises" = "Élévation Latérale à la Poulie Basse Penché";
+"11 Low Pulley Bent-Over Lateral Raises" = "Muscle: Deltoïdes\
+\
+Étape 1 : Tenez-vous debout avec les genoux légèrement fléchis. Penchez-vous en avant tout en gardant le dos droit et les bras relâchés.\
+\
+Étape 2 : Saisissez la poignée droite avec la main gauche et la poignée gauche avec la main droite (les câbles doivent se croiser). Inspirez puis élevez les bras latéralement jusqu’au niveau des épaules. Expirez lorsque vous terminez le mouvement.";
+
+
+"Low Pulley Front Raises" = "Low Pulley Front Raises";
+"12 Low Pulley Front Raises" = "Muscle: Deltoïdes\
+\
+Étape 1 : Tenez-vous debout avec les pieds légèrement écartés. Saisissez la poignée en pronation et en gardant les bras le long du corps.\
+\
+Étape 2 : Inspirez et levez le bras frontalement jusqu’au niveau de l’épaule. Expirez lorsque vous terminez le mouvement. Cet exercice fait travailler les deltoïdes.";
+
+
+
+"Pec Deck Rear-Delt Laterals" = "Pectoraux Papillon Inversé";
+"13 Pec Deck Rear-Delt Laterals" = "Muscle: Deltoïdes\
+\
+Étape 1 : Enfourchez la station papillon avec le torse face au dossier et saisissez les poignées avec les bras tendus.\
+\
+Étape 2 : Inspirez et écartez les bras de sorte qu’à la fin du mouvement vos omoplates se rejoignent. Expirez lorsque vous terminez le mouvement.";
+
+
+"Arnold Press"="Développé Arnold";
+"14 Arnold Press"="Muscle: Deltoïdes\
+\
+Étape 1 : Asseyez-vous sur un banc en tenant une paire d’haltères en pronation au niveau des épaules. Les paumes de vos mains sont tournées vers vous et les coudes pointés vers les côtés.\
+\
+Étape 2 : Tournez les poignets vers l’extérieur et même temps, poussez sur vos bras jusqu’à ce qu’ils soient tendus pour soulever les haltères au-dessus de votre tête. Tenez la position pendant une seconde. Revenez à la position de départ.";
+
+
+"Barbell Front Raise"="Élévation Frontale à la Barre";
+"15 Barbell Front Raise"="Muscle: Deltoïdes\
+\
+Étape 1 : Saisissez la barre en pronation avec les mains dans l’alignement de vos épaules et tenez-vous debout avec la barre placée devant vos cuisses. Les pieds doivent être dans l’alignement de vos épaules et les genoux légèrement fléchis. Rentrez les abdominaux, contractez tous les muscles du buste et fléchissez légèrement les coudes.\
+\
+Étape 2 : Élevez la barre frontalement jusqu’à ce que vos bras soient parallèles au sol.\
+\
+Étape 3 : Marquez une pause, puis revenez à la position initiale.";
+
+
+"Dumbbell Lateral Raise With Arms Bent"="Élévation Latérale avec Haltères Coudes Fléchis";
+"16 Dumbbell Lateral Raise With Arms Bent"="Muscle: Deltoïdes\
+\
+Étape 1 : Positionnez vos pieds dans l’alignement des épaules. Vos bras doivent être le long du corps.\
+Étape 2 : Tout en gardant les bras parfaitement droits, levez latéralement et doucement les coudes jusqu’au niveau des épaules de sorte qu’au point culminant vos bras forment un angle à 90 degrés avec les avant-bras dirigés vers le sol.\
+“Étape 3 : Tout en gardant les coudes fléchis, abaissez doucement les poids à la position initiale et faites le nombre de répétitions que vous souhaitez.";
+
+
+"Dumbbell Scarecrow"="Épouvantail avec Haltères";
+"17 Dumbbell Scarecrow"="Muscle: Deltoïdes\
+\
+Étape 1 : Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules. Saisissez une paire d’haltères en pronation et placez-les devant vos cuisses. Levez latéralement les bras jusqu’à ce que la partie supérieure de ces derniers soit parallèle au sol.\
+\
+Étape 2 : Faites pivoter les haltères de sorte que vos avant-bras soient dirigés vers le plafond. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+"Dumbbell Shoulder Press"="Développé Droit";
+"18 Dumbbell Shoulder Press"="Muscle: Deltoïdes\
+\
+Étape 1 : Tenez-vous debout avec les pieds dans l’alignement de vos épaules. Saisissez une paire d’haltères en pronation. Positionnez les haltères de chaque côté de la tête.\
+\
+Étape 2 : Poussez sur vos bras jusqu’à ce qu’ils soient tendus pour soulever les haltères au-dessus de la tête. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+"Front Weighted Raise"="Élévation Frontale avec Disque d’Haltère";
+"19 Front Weighted Raise"="Muscle: Deltoïdes\
+\
+Étape 1 : Placez-vous debout avec le dos droit et tenez le disque d’haltère avec les deux mains devant vos cuisses.\
+\
+Étape 2 : Élevez les bras frontalement jusqu’à ce qu’ils soient parallèles au sol. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+"Lateral Weighted Raise"="Élévation Latérale avec Disque d’Haltère";
+"20 Lateral Weighted Raise"="Muscle: Deltoïdes\
+\
+Étape 1 : Tenez-vous debout avec le dos droit et saisissez un disque d’haltère avec une main. Le poids est placé le long du corps.\
+\
+Étape 2 : Levez le bras latéralement en le gardant tendu. Tenez la position pendant une seconde. Revenez à la position de départ.";
+
+
+
+"Military Press Behind The Neck (Standing)"="Développé Nuque";
+"21 Military Press Behind The Neck (Standing)"="Muscle: Deltoïdes\
+\
+Étape 1 : Tenez-vous debout et droit, saisissez la barre en pronation avec les mains dans l’alignement de vos épaules et placez la barre derrière vous au niveau des épaules en fléchissant les coudes.\
+\
+Étape 2 : En poussant sur vos bras jusqu’à ce qu’ils soient tendus, soulevez la barre au-dessus de la tête. Restez bien droit tout au long de l’exercice.";
+
+
+"Seated Dumbbell Front Raise"="Élévation Frontale avec Haltères Assis";
+"22 Seated Dumbbell Front Raise"="Muscle: Deltoïdes\
+\
+Étape 1 : Saisissez une paire d’haltères en pronation et asseyez-vous sur un banc incliné avec les bras relâchés à vos côtés.\
+\
+Étape 2 : Tout en gardant les bras tendus, élevez les haltères frontalement jusqu’à ce qu’ils soient au niveau de votre regard.\
+\
+Étape 3 : Gardez le dos des mains dirigé vers le plafond et les bras tendus tout au long de l’exercice.";
+
+
+
+"Stability Ball Lateral Raise"="Élévation Latérale avec Ballon d’Exercice";
+"23 Stability Ball Lateral Raise"="Muscle: Deltoïdes\
+\
+Étape 1 : Asseyez-vous sur le ballon d’exercice avec un haltère léger dans chaque main. Gardez les jambes dans l’alignement de vos épaules afin de garder l’équilibre. Vos bras doivent être relâchés le long du corps.\
+\
+Étape 2 : Tout en gardant les bras parfaitement droits, levez latéralement les haltères jusqu’au niveau des épaules. Gardez les paumes des mains dirigées vers le sol.\
+\
+Étape 3 : Abaissez doucement les poids à la position initiale et faites le nombre de répétitions que vous souhaitez.";
+
+//Triceps
+
+"Close-Grip Bench Presses" = "Développé Couché Prise Étroite";
+"1 Close-Grip Bench Presses" = "Muscle: Triceps Brachial\
+\
+Étape 1 : Allongez-vous sur un banc de musculation avec barre libre. Saisissez la barre au-dessus de vous en prise étroite.\
+\
+Étape 2 : La distance entre vos mains doit être d’environ 15-20cm. Soulevez la barre hors de son support et abaissez-la à environ 10cm au-dessus de votre buste, puis revenez à la position initiale.\
+\
+Étape 3 : Assurez-vous de garder les coudes en position le long du corps pendant toute l’exécution de l’exercice.";
+
+
+
+"Push-Downs" = "Extension à la Poulie";
+"2 Push-Downs" = "Muscle: Triceps Brachial\
+\
+Étape 1 : Utilisez une poulie haute, saisissez une barre courte en pronation. Vos mains doivent être placées à environ 25cm l’une de l’autre. Positionnez vos avant-bras de sorte qu’ils soient parallèles au sol. Gardez les pieds dans l’alignement de vos épaules et fléchissez légèrement les genoux.\
+\
+Étape 2 : Gardez les coudes en place contre le corps et gardez les poignets droits. Stabilisez entièrement votre corps, amenez la barre vers le sol en concentrant le travail sur l’intégralité des triceps.\
+\
+Étape 3 : Gardez la partie supérieure de vos bras le long du corps. Revenez à la position initiale. Ne bougez pas les coudes ou le torse ! Restez debout et droit.";
+
+
+"Triceps Extensions" = "Extension Triceps Allongé";
+"3 Triceps Extensions" = "Muscle: Triceps Brachial\
+\
+Étape 1 : Avec les bras tendus, positionnez la barre juste au-dessus de votre regard en gardant les triceps sous tension.\
+\
+Étape 2 : Tout en maintenant la partie supérieure de vos bras, abaissez la barre vers votre front en fléchissant les coudes et en contrôlant le mouvement.";
+
+
+"Triceps KickBacks" = "Extension Alternée avec Haltère";
+"4 Triceps KickBacks" = "Muscle: Triceps Brachial\
+\
+Étape 1 : Posez un genou sur le banc et saisissez un haltère avec la main du même côté que votre genou d’appui. Penchez-vous avec le dos droit et le regard vers l’horizon. Pliez le bras à 90 degrés comme indiqué.\
+\
+Étape 2 : Effectuez une extension de votre avant-bras en gardant le coude en place.";
+
+
+"One-Arm Dumbbell Triceps Extensions" = "Extension Verticale avec Haltère";
+"5 One-Arm Dumbbell Triceps Extensions" = "Muscle: Triceps Brachial\
+\
+Étape 1 : Positionnez votre bras complètement tendu au-dessus de la tête. Assurez-vous que votre coude pointe vers le côté. Avec votre main libre, saisissez votre bras juste en dessous du coude afin de la maintenir en place.\
+\
+Étape 2 : Ensuite, abaissez l’haltère en fléchissant le coude. Lorsque votre avant-bras est parallèle au sol, remontez l’haltère jusqu’à ce que votre bras soit tendu.";
+
+
+
+
+"Bar Triceps Extensions" = "Extension Triceps à la Barre";
+"6 Bar Triceps Extensions" = "Muscle: Triceps Brachial\
+\
+Étape 1 : Pour commencer, tenez-vous debout en saisissant en pronation une barre d’haltère classique ou EZ, avec une distance entre les mains inférieure à celle de vos épaules. Vos pieds doivent être dans l’alignement de vos épaules. Soulevez la barre au-dessus de la tête jusqu’à ce que vos bras soient complètement tendus.\
+\
+Étape 2 : Gardez les coudes en place. C’est la position initiale. Tout en gardant la partie supérieure de vos bras proche de la tête, abaissez le poids vers l’arrière du crâne en dessinant un arc de cercle avec la barre et jusqu’à ce que vos avant-bras soient en contact avec vos biceps.\
+\
+Étape 3 : La partie supérieure de vos bras doit rester en place, seuls les avant-bras doivent bouger. Inspirez lorsque vous effectuez cette étape. Revenez à la position initiale en faisant travailler les triceps pour relever la barre. Expirez lorsque vous effectuez cette étape.";
+
+
+"Dumbbell Triceps Extension" = "Extension Triceps Allongé avec Haltère";
+"7 Dumbbell Triceps Extension" = "Muscle: Triceps Brachial\
+\
+Étape 1 : Allongez-vous sur un banc puis, avec un haltère dans chaque main, tendez les bras dans l’alignement de vos épaules. Inspirez et fléchissez doucement les coudes. Revenez à la position initiale, expirez lorsque vous terminez le mouvement. Cet exercice fait travailler uniformément les triceps.";
+
+
+
+"Triceps Dips" = "Répulsion au Banc";
+"8 Triceps Dips" = "Muscle: Triceps Brachial\
+\
+Étape 1 : Posez vos mains au bord d’un banc et placez vos pieds sur un autre banc. Votre corps doit former un angle à 90 degrés.\
+\
+Étape 2 : Inspirez et fléchissez les coudes. Poussez sur les bras pour revenir à la position initiale, expirez lorsque vous terminez le mouvement. Cet exercice fait travailler les triceps, les pectoraux ainsi que les deltoïdes antérieurs.";
+
+
+
+
+"Triceps Pushdown" = "Extension Triceps à la Poulie";
+"9 Triceps Pushdown" = "Muscle: Triceps Brachial\
+\
+Étape 1 : Tenez-vous debout en face de la tour à poulie avec les mains sur le manche et les coudes contre le corps : inspirez puis tendez les bras, mais ne décollez pas les coudes du corps. Expirez lorsque vous terminez le mouvement.";
+
+
+"Diamond Pushup"="Pompes Prise Étroite";
+"10 Diamond Pushup"="Muscle: Triceps Brachial\
+\
+Étape 1 : Positionnez-vous comme pour effectuer des pompes classiques, mais placez les mains directement en dessous de votre buste en faisant se toucher les index et les pouces de chaque main, comme pour former un diamant avec vos doigts.\
+\
+Étape 2 : Gardez le dos droit lorsque vous vous baissez jusqu’à ce que votre buste soit quasiment en contact avec vos mains.\
+\
+Étape 3 : Marquez une pause, puis poussez sur les bras pour revenir à la position initiale.";
+
+
+"One Arm Reverse Pushdown" = "Extension Latérale à la Poulie Alternée";
+"11 One Arm Reverse Pushdown" = "Muscle: Triceps Brachial\
+\
+Étape 1 : Tenez-vous debout et de côté par rapport à la tour à poulie. Saisissez le manche en supination. Inspirez puis tendez le bras.\
+\
+Étape 2 : Expirez lorsque vous terminez le mouvement.";
+
+
+
+"Diamond Pushup On Bench"="Pompes Prise Étroite au Banc";
+"12 Diamond Pushup On Bench"="Muscle: Triceps Brachial\
+\
+Étape 1 : Positionnez-vous comme pour effectuer des pompes classiques, mais placez les mains directement en dessous de votre buste en faisant se toucher les index et les pouces de chaque main, comme pour former un diamant avec vos doigts. Placez la pointe de vos pieds sur un banc.\
+\
+Étape 2 : Gardez le dos droit lorsque vous vous baissez jusqu’à ce que votre buste soit quasiment en contact avec vos mains\
+\
+Étape 3 : Marquez une pause, puis poussez sur les bras pour revenir à la position initiale.";
+
+
+
+"Dumbbell Row Kickback"="Extension avec Haltères";
+"13 Dumbbell Row Kickback"="Muscle: Triceps Brachial\
+\
+Étape 1 : Tenez-vous debout avec les pieds dans l’alignement de vos épaules et les genoux légèrement fléchis. Saisissez un haltère léger en prise neutre dans chaque main et penchez-vous en avant de sorte que votre dos soit quasiment parallèle au sol, comme illustré.\
+\
+Étape 2 : Effectuez une extension des avant-bras jusqu’à ce que vos bras soient tendus. Idéalement, vos bras se retrouvent parallèles au sol.\
+\
+Étape 3 : Effectuez immédiatement l’extension afin d’étirer les bras dans votre dos.\
+\
+Étape 4 : Contractez les triceps puis fléchissez les coudes pour abaisser les poids.\
+\
+Étape 5 : Continuez d’abaisser les poids jusqu’à ce que vos bras soient droits et relâchés.";
+
+
+"Lying Single Arm Pushup"="Relevé de Buste Latérale à un Bras";
+"14 Lying Single Arm Pushup"="Muscle: Triceps Brachial \
+\
+Étape 1 : Allongez-vous sur le côté avec les genoux légèrement fléchis et les jambes l’une sur l’autre. Amenez le bras en contact avec le sol contre votre torse et posez la main de l’autre bras devant vous tout en fléchissant légèrement le coude.\
+\
+Étape 2 : Commencez par pousser sur votre bras d’appui pour relever votre buste du sol. Assurez-vous de n’utiliser que votre triceps lorsque vous relevez le buste. Tenez la position, puis revenez à la position initiale.\
+\
+Étape 3 : Après avoir effectué quelques répétitions, changez de côté puis répétez les étapes pour travailler l’autre bras.";
+
+
+
+"Seated Triceps Extension"="Extension Triceps Assis avec Haltères";
+"15 Seated Triceps Extension"="Muscle: Triceps Brachial\
+\
+Étape 2 : Asseyez-vous sur un banc et saisissez une paire d’haltères en prise neutre. Tenez-les avec les bras tendus au-dessus de la tête.\
+\
+Étape 2 : Tout en gardant la partie supérieure de vos bras en place, abaissez les haltères derrière votre tête jusqu’à ce que vos bras soient quasiment parallèles au sol.\
+\
+Étape 3 : Marquez une pause, puis tendez les bras pour revenir à la position initiale.";
+
+
+
+"Stability Ball French Press"="Extension Verticale Allongée avec Ballon d’Exercice";
+"16 Stability Ball French Press"="Muscle: Triceps Brachial\
+\
+Étape 1 : Allongez votre dos sur le ballon d’exercice. Saisissez une paire d’haltères et soulevez-les en tendant les bras au-dessus de votre buste.\
+\
+Étape 2 : Fléchissez les coudes pour amener les haltères de chaque côté de votre tête.\
+\
+Étape 3 : Tendez les bras pour faire revenir les haltères à la position initiale.";
+
+
+
+"Stability Ball Pullover"="Pull-over avec Ballon d’Exercice";
+"17 Stability Ball Pullover"="Muscle: Triceps Brachial\
+\
+Étape 1 : Allongez votre dos sur le ballon d’exercice. Saisissez une paire d’haltères et soulevez-les en tendant les bras au-dessus de votre buste.\
+\
+Étape 2 : Fléchissez les coudes afin d’abaisser les haltères dans l’alignement de votre front.\
+\
+Étape 3 : Tendez les bras à nouveau pour revenir à la position initiale.";
+
+
+
+
+
+"Stability Ball Triceps Extension"="Extension Triceps avec Ballon d’Exercice";
+"18 Stability Ball Triceps Extension"="Muscle: Triceps Brachial\
+\
+Étape 1 : Allongez votre dos sur le ballon d’exercice. Saisissez un haltère avec les deux mains. Tendez complètement les bras au-dessus de votre tête.\
+\
+Étape 2 : Tout en gardant la partie supérieure de vos bras en place, abaissez l’haltère jusqu’à ce qu’il soit derrière votre tête. Évitez de faire travailler vos coudes. Tenez la position pendant une seconde. Revenez à la position initiale";
+
+//EXTRA
+
+
+
+
+"3 DAY GYM WORKOUT PLAN BY VGFIT" = "PROGRANE DE MUSCULATION EN SALLE 3 JOURS PAR VGFIT";
+
+
+
+"3 DAY HOME WORKOUT PLAN BY VGFIT" = "PROGRANE DE MUSCULATION A LA MAISON 3 JOURS PAR VGFIT";
+
+
+
+"FAT BURNER ROUTINE" = "PROGRAMME BRULEUR DE GRAISSE";
+
+
+
+"ABS BURNER" = "PROGRAMME ABDOS";
+
+
+
+"CHEST POWER WORKOUT PLAN" = "PROGRAMME BUSTE PUISSANT";
+
+
+
+"ARMS POWER WORKOUT PLAN" = "PROGRAMME BRAS PUISSANTS";
+
+
+
+"LEGS POWER WORKOUT PLAN" = "PROGRAMME JAMBES PUISSANTES";
+
+
+
+"SHOULDERS POWER WORKOUT PLAN" = "PROGRAMME EPAULES PUISSANTES";
+
+
+
+"BACK POWER WORKOUT PLAN" = "PROGRAMME DOS PUISSANT";
+
+
+
+"FULL BODY STREACH PLAN" = "PROGRAMME D’ETIREMENTS COMPLET";
+
+
+
+
+
+"Barbell Squat 2" = "Squat à la Barre 2";
+
+"Barbell Squat 2 extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Tenez-vous debout et droit, les pieds écartés en alignement avec vos épaules. Placez la barre d’haltère derrière les épaules. Tenez la barre en pronation. La distance entre vos mains doit être plus large que celle de vos épaules. Disposez vos pieds la pointe tournée vers l’extérieure.\
+\
+Etape 2 : Baissez-vous en fléchissant les genoux. Votre dos doit rester droit pendant toute l’exécution du mouvement. Stoppez le mouvement lorsque vos cuisses sont parallèles au sol. Lorsque vous remontez en position de départ, générez l’impulsion avec le bas du dos.";
+
+
+
+
+"Dumbbell Lunge 2" = "Fente avec Haltères 2";
+
+"Dumbbell Lunge 2 extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Tenez-vous debout et droit, les pieds écartés en alignement avec vos épaules. Tenez les haltères de chaque côté en prise neutre.\
+\
+Etape 2 : Tout en gardant le dos droit, faites un pas en avant avec un pied puis baissez-vous en fléchissant les genoux. Stoppez lorsque que votre cuisse avant est parallèle au sol. Tenez la position pendant une seconde. Faites un pas en arrière et retournez à la position de départ.";
+
+
+
+
+"Bosu Crossover Lunge" = "Fentes Latérales sur BOSU";
+
+"Bosu Crossover Lunge extra"= "Groupe Musculaire : Quadriceps \
+\
+Tenez-vous debout et droit, les bras le long du corps avec le BOSU devant vous. Le BOSU doit être placé à deux pas devant vous et décalé sur un côté.\
+\
+Faites un pas en avant et de côté sur le BOSU, baissez-vous en fléchissant le genou avant tout en gardant la jambe arrière tendue.\
+\
+Poussez sur votre jambe d’appui pour remonter à la position de départ puis répétez l’exercice. Pour rendre l’exercice plus difficile, tenez des haltères dans chaque main lorsque vous effectuez l’exercice.";
+
+
+
+
+"Stability Ball Split Squat" = "Squat sur une Jambe avec Ballon d’Exercice";
+
+"Stability Ball Split Squat extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Tenez-vous debout et droit, placez un pied au sol. Gardez les bras en avant, comme indiqué.\
+\
+Etape 2 : Baissez-vous en fléchissant les hanches et les genoux et en penchant le torse vers l’avant.\
+\
+Etape 3 : Remontez en position de départ en poussant sur votre jambe d’appui.\
+\
+Etape 4 : Répétez l’exercice avec l’autre jambe.";
+
+
+
+
+"Balance Ball Front Raise" = "Elévation Frontale avec Ballon d’Exercice";
+
+"Balance Ball Front Raise extra"= "Groupe Musculaire : Deltoïdes\
+\
+Etape 1 : Asseyez-vous sur le ballon d’exercice avec un haltère léger dans chaque main. Gardez vos jambes en position et les pieds posés à plat. Vos bras doivent être placés le long du corps et les mains en pronation.\
+\
+Etape 2 : Tout en gardant vos bras parfaitement droits, levez le poids vers l’avant jusqu’à ce que vos bras soient parallèles au sol.\
+\
+Etape 3 : Tenez la position pendant une seconde puis baissez doucement le poids.";
+
+
+
+
+"Bar  Bench Press Incline" = "Développé Incliné à la Barre"  ;
+
+"Bar  Bench Press Incline extra"= "Groupe Musculaire : Pectoraux\
+\
+Etape 1 : Allongez-vous sur un banc incliné. Tenez la barre coudée EZ en pronation. La distance entre vos mains doit être légèrement supérieure à celle de vos épaules. Tenez la barre coudée EZ avec les bras complétement tendus. La barre coudée EZ doit se trouver au-dessus et en alignement direct avec le centre de votre buste.\
+\
+Etape 2 : Abaissez la barre coudée EZ vers votre buste tout en gardant vos coudes près du corps. La barre coudée EZ doit légèrement toucher votre buste à la fin du mouvement. Evitez de faire rebondir la barre coudée EZ contre votre buste. Tenez la position un bref moment. Remontez à la position de départ. Gardez le dos contre le banc pendant tout l’exercice. Evitez de bouger les jambes.";
+
+
+
+
+"Dumbbell Decline Bench Press" = "Développé Décliné avec Haltères";
+
+"Dumbbell Decline Bench Press extra"= "Groupe Musculaire : Pectoraux \
+\
+Etape 1 : Allongez-vous sur le banc décliné. Tenez les haltères en pronation. Gardez les bras complétement tendus.\
+\
+Etape 2 : Abaissez les haltères vers votre buste tout en gardant vos coudes près du corps. Remontez à la position de départ. Gardez le dos contre le banc pendant tout l’exercice. Evitez de bouger les jambes.";
+
+
+
+
+"Dumbbell T-Push-Up" = "Pompes en T avec Haltères";
+
+"Dumbbell T-Push-Up extra"= "Groupe Musculaire : Pectoraux\
+\
+Etape 1 : Allongez-vous sur le ventre avec la paume des mains posée au sol. Tenez les haltères en prise neutre. Positionnez les mains au niveau de la partie inférieure du thorax. La distance entre vos mains doit être légèrement supérieure à celle de vos épaules. Poussez sur vos bras de sorte que seuls vos mains et vos pieds touchent le sol. Gardez le dos droit. Dirigez vos mains légèrement vers l’extérieure.\
+\
+Etape 2 : Redescendez en fléchissant les coudes jusqu’à ce que votre buste soit à quelques centimètres du sol. Vos coudes doivent pointer vers vos pieds. Tenez la position pendant une seconde.\
+\
+Etape 3 : Remontez à la position de départ.\
+\
+Etape 4 : Levez un bras jusqu’à ce qu’il pointe vers le plafond. Tenez la position pendant une seconde.\
+\
+Etape 5 : Retournez à la position de départ.";
+
+
+
+
+"EZ Curl Bar Biceps Curl" = "Flexion Biceps à la Barre Coudée EZ";
+
+"EZ Curl Bar Biceps Curl extra"= "Groupe Musculaire : Biceps Brachial\
+\
+Etape 1 : Debout le dos droit, Tenez la barre coudée EZ en supination dans l’alignement de vos épaules. La barre coudée EZ est placée devant vos cuisses.\
+\
+Etape 2 : Levez la barre coudée EZ en gardant la partie supérieure des bras en place. N’utilisez pas vos épaules pendant le mouvement. Tenez la position pendant une seconde. Baissez les bras en position de départ. ";
+
+
+
+
+"EZ Curl Bar Deadlift" = "Soulevé de Terre à la Barre Coudée EZ";
+
+"EZ Curl Bar Deadlift extra"= "Groupe Musculaire : Zone Lombaire\
+\
+Etape 1 : Placez la barre coudée EZ au sol. Placez-vous de sorte à ce que vos tibias soient à 2 centimètres de la barre. Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules. Sans trop de mouvements de hanches, baissez-vous pour saisir la barre coudée EZ en pronation. Fléchissez les genoux légèrement. Gardez le menton droit et regardez vers l’avant.\
+\
+Etape 2 : Soulevez la barre coudée EZ jusqu’à vous tenir debout et droit. Tenez la position pendant une seconde. Redescendez à la position de départ.";
+
+
+
+
+"Dumbbell Row" = "Tirage avec Haltères";
+
+"Dumbbell Row extra"= "Groupe Musculaire : Grand Dorsal\
+\
+Etape 1 : Fléchissez légèrement les genoux. Penchez-vous avec le dos droit. Tenez les haltères le long du corps en prise neutre.\
+\
+Etape 2 : Soulevez les haltères verticalement en direction de votre buste. Gardez vos coudes alignés. Tenez la position pendant une seconde. Retournez à la position de départ.";
+
+
+
+
+"Standing Triceps Extension" = "Extension Triceps Debout";
+
+"Standing Triceps Extension extra"= "Groupe Musculaire : Triceps Brachial\
+\
+Etape 1 : Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules et avec les deux mains placées sous le disque, tenez un haltère au-dessus de votre tête comme indiqué. Abaissez l’haltère derrière vos omoplates en fléchissant les coudes.\
+\
+Etape 2 : Remontez l’haltère au-dessus de votre tête en tendant les bras avec les poignets relâchés. Tenez la position puis redescendez à la position de départ en contrôlant le mouvement.";
+
+
+
+
+"Bench Dip" = "Répulsion au Banc";
+
+"Bench Dip extra"= "Groupe Musculaire : Triceps Brachial\
+\
+Etape 1 : Placez la paume de vos mains sur le banc de façon à avoir les mains tournées vers l’avant et positionnez-vous comme indiqué. Gardez les jambes relativement droites devant vous avec les talons fermement ancrés au sol. Tendez les bras et déplacez votre buste vers l’avant de façon à ce que votre dos et vos fessiers soient placés juste devant le banc.\
+\
+Etape 2 : Pliez les bras à angle droit pour abaisser vos fessiers vers le sol comme indiqué. Vous pouvez rendre l’exercice plus facile en pliant vos jambes et en rapprochant vos pieds du banc.";
+
+
+
+
+"Bodyweight Open Jump" = "Squat Sauté au Poids du Corps";
+
+"Bodyweight Open Jump extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Tenez-vous debout le dos droit. Placez vos mains le long du corps.\
+\
+Etape 2 : Fléchissez légèrement les genoux.\
+\
+Etape 3 : Sautez aussi haut que vous le pouvez.";
+
+
+
+
+"Bodyweight Toe Touch" = "Enroulé Vertébrale Jambes Tendues au Poids du Corps ";
+
+"Bodyweight Toe Touch extra"= "Groupe Musculaire : Droit de l’Abdomen\
+\
+Etape 1 : Allongez-vous au sol. Levez les jambes jusqu’à ce qu’elles soient perpendiculaires au sol. Tendez complétement les bras vers le plafond.\
+\
+Etape 2 : Tentez d’atteindre vos orteils avec vos mains. Tenez la position pendant une seconde. Retournez à la position de départ.";
+
+
+
+
+"Bodyweight Hop" = "Burpee au Poids du Corps";
+
+"Bodyweight Hop extra"= "Groupe Musculaire : Droit de l’Abdomen\
+\
+Etape 1 : Allongez-vous au sol à plat ventre. Soulevez votre corps de sorte à ce que seuls vos orteils et vos mains touchent le sol. Gardez le dos droit.\
+\
+Etape 2 : Tout en gardant vos bras en place, sautez vers l’avant de sorte à ce que vos genoux soient proches de votre buste. Sautez à nouveau en position de départ.";
+
+
+
+
+"Bodyweight Lunge" = "Fentes au Poids du Corps";
+
+"Bodyweight Lunge extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Tenez-vous debout avec les pieds placés dans l’alignement de vos épaules.\
+\
+Etape 2 : Faites un pas en arrière avec un pied tout en vous abaissant en fléchissant les genoux. Votre dos doit rester droit tout au long de l’exercice. Stoppez lorsque votre cuisse avant est parallèle au sol.\
+\
+Etape 3 : Remontez en position de départ.\
+\
+Etape 4 : Faites un pas en arrière avec l’autre pied tout en vous abaissant en fléchissant les genoux. Votre dos doit rester droit tout au long de l’exercice. Stoppez lorsque votre cuisse avant est parallèle au sol.";
+
+
+
+
+"Bodyweight Push-up Touch" = "Pompe avec Touché d’Epaule au Poids du Corps";
+
+"Bodyweight Push-up Touch extra"= "Groupe Musculaire : Pectoraux\
+\
+Etape 1 : Allongez-vous à plat ventre avec les mains au sol. Positionnez vos mains sous vos épaules. La distance entre vos mains doit être inférieure à la distance de celle de vos épaules. Soulevez votre corps avec les bras de sorte à ce que seuls vos orteils et vos mains touchent le sol. Gardez le dos droit. Les mains sont légèrement dirigées vers l’extérieure.\
+\
+Etape 2 : Abaissez-vous en fléchissant les coudes jusqu’à ce que votre buste soit à quelques centimètres du sol. Lorsque vous pliez les bras, les coudes doivent être dirigés vers les pieds.\
+\
+Etape 3 : Chaque fois que vous remontez, avec une main touchez l’épaule du côté opposé. Tenez la position pendant une seconde. Redescendez à la position de départ.";
+
+
+
+
+"Push-up walking" = "Pompe avec Marche sur les Mains";
+
+"Push-up walking extra"= "Groupe Musculaire : Pectoraux\
+\
+Etape 1 : Allongez-vous à plat ventre et les mains au sol. Positionnez vos mains au niveau de la partie inférieure de votre buste. La distance entre vos mains doit être légèrement supérieure à celle de vos épaules. Soulevez votre corps avec les bras de sorte à ce que seuls vos orteilss et vos mains touchent le sol. Gardez le dos droit. Les mains sont légèrement dirigées vers l’extérieure. Les jambes et le dos doivent être droits.\
+\
+Etape 2 : Sans bouger les bras, sautez en direction de ces derniers. Sautez à nouveau en position de départ.";
+
+
+
+
+"Bent-Leg V-UP" = "Relevé de Buste Jambes Levées";
+
+"Bent-Leg V-UP extra"= "Groupe Musculaire : Droit de l’Abdomen\
+\
+Etape 1 : Allongez-vous sur le dos et les bras le long du corps. Levez les genoux et tenez cette position.\
+\
+Etape 2 : Soulevez rapidement votre torse en rapprochant votre buste de vos genoux. Gardez les bras parallèles au sol.";
+
+
+
+
+"Bodyweight Lunge Side" = "Fente Latérale au poids du Corps";
+
+"Bodyweight Lunge Side extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules. Joignez les mains devant votre buste.\
+\
+Etape 2 : Tout en gardant le dos droit, faites un pas de côté avec un pied et baissez-vous en fléchissant le genou. L’autre pied doit pivoter mais rester en position. Stoppez lorsque votre cuisse avant est parallèle au sol. Tenez la position pendant une seconde. Remontez en position de départ.";
+
+
+
+
+"Bodyweight Push-up Grip Planche" = "Planche Pompe";
+
+"Bodyweight Push-up Grip Planche extra"= "Groupe Musculaire : Pectoraux\
+\
+Etape 1 : Allongez-vous à plat ventre et les mains au sol. Positionnez vos mains devant le buste. La distance entre vos mains doit être légèrement supérieure à celle de vos épaules. Soulevez-vous avec les bras de sorte à ce que seuls vos orteils et vos mains touchent le sol. Gardez le dos droit. Les mains sont légèrement dirigées vers l’extérieure.\
+\
+Etape 2 : Abaissez-vous jusqu’à ce que vos coudes soient presque en contact avec le sol. Tenez la position pendant une seconde. Remontez en position de départ.";
+
+
+
+
+"Bench High Knee Jump" = "Saut Latéral Genoux Hauts avec Banc";
+
+"Bench High Knee Jump extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Tenez-vous debout le dos droit. Gardez les bras le long du corps.\
+\
+Etape 2 : Fléchissez légèrement les genoux.\
+\
+Etape 3 : Sautez aussi haut que vous le pouvez. Amenez vos genoux vers votre buste.";
+
+
+
+
+"Bodyweight Toe Touch 2" = "Relevé de Buste avec Touché d’Orteils au Poids du Corps 2";
+
+"Bodyweight Toe Touch 2 extra"= "Groupe Musculaire : Droit de l’Abdomen\
+\
+Etape 1 : Allongez-vous au sol. Tendez les jambes et placez vos mains derrière la tête.\
+\
+Etape 2 : Tentez de toucher vos orteils avec vos mains. Tenez la position pendant une seconde. Retournez à la position de départ.";
+
+
+
+
+"Stepper Push-up" = "Pompe avec Stepper";
+
+"Stepper Push-up extra"= "Groupe Musculaire : Pectoraux\
+\
+Etape 1 : Placez vos pieds sur le stepper et posez les mains au sol au niveau de votre buste. La distance entre vos mains doit être légèrement supérieure à celle de vos épaules. Soulevez votre corps avec vos bras. Gardez le dos droit. Les mains sont légèrement dirigées vers l’extérieure.\
+\
+Etape 2 : Abaissez-vous en fléchissant les coudes jusqu’à ce que votre buste soit à quelques centimètres du sol. Les coudes doivent être dirigés vers vos pieds. Tenez la position pendant une seconde. Remontez en position de départ.";
+
+
+
+
+"Bodyweight Push-up Extension" = "Pompe avec Extension des Bras au Poids du Corps";
+
+"Bodyweight Push-up Extension extra"= "Groupe Musculaire : Pectoraux\
+\
+Etape 1 : Allongez-vous à plat ventre avec les mains au sol. Positionnez vos mains sous vos épaules. La distance entre vos mains doit être inférieure à celle de vos épaules. Soulevez votre corps avec vos bras de sorte à ce que seuls vos orteils et vos mains touchent le sol. Gardez le dos droit. Les mains sont légèrement dirigées vers l’extérieure.\
+\
+Etape 2 : Abaissez-vous en fléchissant les coudes jusqu’à ce que votre buste soit à quelques centimètres du sol. Les coudes doivent être dirigés vers vos pieds.\
+\
+Etape 3 : Après avoir remonté, tendez un bras. Tenez la position pendant une seconde. Retournez à la position de départ.";
+
+
+
+
+"Bodyweight Scissor Kick" = "Relevé de Jambes Alterné";
+
+"Bodyweight Scissor Kick extra"= "Groupe Musculaire : Droit de l’Abdomen\
+\
+Etape 1 : Allongez-vous au sol avec les bras le long du corps. Tendez complétement les jambes légèrement au-dessus du sol. Levez une de vos jambes tout en les gardant droites.\
+\
+Etape 2 : Pour faire une répétition, abaissez votre jambe tout en levant l’autre.";
+
+
+
+
+"Bodyweight Mountain Climbers" = "Exercice du Grimpeur au Poids du Corps";
+
+"Bodyweight Mountain Climbers extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Allongez-vous à plat ventre et les mains au sol. Positionnez vos mains devant le buste. La distance entre vos mains doit être légèrement supérieure à celle de vos épaules. Soulevez-vous avec les bras de sorte à ce que seuls vos orteils et vos mains touchent le sol. Gardez le dos droit. Les mains sont légèrement dirigées vers l’extérieure.\
+\
+Etape 2 : Pliez une jambe vers votre buste.\
+\
+Etape 3 : Lorsque vous ramenez votre jambe en position de départ, pliez l’autre jambe pour effectuer une répétition.";
+
+
+
+
+"Bodyweight Pull In" = "Relevé de Jambes";
+
+"Bodyweight Pull In extra"= "Groupe Musculaire : Droit de l’Abdomen\
+\
+Etape 1 : Allongez-vous au sol. Placez les mains sous les hanches. Tendez les jambes complétement et légèrement au-dessus du sol.\
+\
+Etape 2 : Pliez les jambes vers votre buste. Tenez la position pendant une seconde. Retournez à la position de départ.";
+
+
+
+
+"Push-up With Crossing Leg Under The Hip" = "Pompes Jambes Croisées";
+
+"Push-up With Crossing Leg Under The Hip extra"= "Groupe Musculaire : Pectoraux\
+\
+Etape 1 : Commencez l’exercice en vous positionnant comme pour faire des pompes. Croisez la jambe droite sous la jambe gauche en pivotant vos hanches.\
+\
+Etape 2 : Abaissez votre corps jusqu’à ce que votre buste soit presque en contact avec le sol, puis poussez sur vos bras pour retourner à la position de départ.\
+\
+Etape 3 : Changez de jambe et répétez les étapes.";
+
+
+
+
+"Bodyweight Jumping Jacks" = "Jumping Jacks au Poids du Corps";
+
+"Bodyweight Jumping Jacks extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Tenez-vous debout le dos droit. Placez vos bras le long du corps.\
+\
+Etape 2 : Sautez en écartant les jambes de sorte à ce que la distance entre vos pieds soit supérieure à celle de vos épaules. En même temps, levez les bras au-dessus de la tête. Faites une brève pause et retournez à la position de départ.";
+
+
+
+
+"Jump Sumo" = "Saut Sumo";
+
+"Jump Sumo extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Tenez-vous debout et droit, la distance entre vos pieds doit être plus importante que celle de vos épaules. Tenez la balle d’exercice devant vous avec les bras complétement tendus. Les pieds doivent légèrement pointer vers l’extérieure. \
+\
+Etape 2 : Baissez-vous en fléchissant les genoux. Gardez le dos droit tout au long du mouvement. Stoppez lorsque vos cuisses sont presque parallèles au sol. Lorsque vous remontez en position de départ, l’impulsion doit partir du bas du dos.";
+
+
+
+
+"Dumbbell Clean And Jerk" = "Epaulé Jeté avec Haltères";
+
+"Dumbbell Clean And Jerk extra"= "Groupe Musculaire : Ischio-Jambier\
+\
+Etape 1 : Accroupissez-vous. Tenez les haltères en prise neutre. Gardez le dos droit. Bombez le torse et regardez vers l’avant.\
+\
+Etape 2 : Soulevez les haltères. Lorsque les haltères passent au-dessus de vos tibias, sautez verticalement. Dans l’impulsion, soulevez les haltères au niveau de vos épaules.\
+\
+Etape 3 : Lorsque les haltères sont sur vos épaules, accroupissez-vous à nouveau, puis tenez-vous débout et droit. \
+\
+Etape 4 : Fléchissez légèrement les genoux, puis sautez en l’air.\
+\
+Etape 5 : Pendant le saut, soulevez les haltères au-dessus de votre tête. Tenez-vous debout et droit. Tenez la position pendant une seconde. Retournez à la position de départ. ";
+
+
+
+
+"Bodyweight Leg Raise" = "Relevé de Jambe au Poids du Corps";
+
+"Bodyweight Leg Raise extra"= "Groupe Musculaire : Droit de l’Abdomen\
+\
+Etape 1 : Allongez-vous au sol avec les mains posées à vos côtés. Tendez complètement les jambes.\
+\
+Etape 2 : Levez les jambes à 30 degrés. Tenez la position pendant une seconde.\
+\
+Etape 4 : Levez les jambes à 60 degrés. Tenez la position pendant une seconde.\
+\
+Etape 4 : Levez les jambes à 90 degrés. Tenez la position pendant une seconde. Retournez à la position de départ.";
+
+
+
+
+"Dumbbell Biceps Curl" = "Flexion Biceps avec Haltères";
+
+"Dumbbell Biceps Curl extra"= "Groupe Musculaire : Biceps Brachial\
+\
+Etape 1 : Fléchissez légèrement les genoux. Gardez le dos penché et droit. Tenez les haltères le long du corps en supination.\
+\
+Etape 2 : Soulevez les haltères tout en gardant en place la partie supérieure de vos bras. Tenez la position pendant une seconde. Retournez à la position de départ.";
+
+
+
+
+"Bodyweight Sit-up" = "Relevé de Buste";
+
+"Bodyweight Sit-up extra"= "Groupe Musculaire : Droit de l’Abdomen\
+\
+Etape 1 : Allongez-vous au sol. Placez vos mains derrière la tête. Fléchissez les genoux avec les pieds posés au sol.\
+\
+Etape 2 : Relevez votre buste. Tenez la position pendant une seconde. Retournez à la position de départ.";
+
+
+
+
+"Bent-Leg V-UP" = "Relevé de Buste Jambes Levées";
+
+"Bent-Leg V-UP extra"= "Groupe Musculaire : Droit de l’Abdomen\
+\
+Etape 1 : Allongez-vous au sol sur le dos avec les bras le long du corps. Levez les genoux et gardez-les en position.\
+\
+Etape 2 : Relevez rapidement votre buste vers vos genoux. Gardez vos bras parallèles au sol.";
+
+
+
+
+
+"Toe Touch" = "Relevé de Buste avec Touché d’Orteils";
+
+"Toe Touch extra"= "Groupe Musculaire : Droit de l’Abdomen\
+\
+Etape 1 : Allongez-vous au sol. Gardez les jambes légèrement fléchies au-dessus du sol. Gardez le dos bien droit contre le sol.\
+\
+Etape 2 : Expirez et effectuez un relevé de buste en tentant de toucher vos pieds. Gardez la tête droite et évitez de toucher votre buste avec le menton.";
+
+
+
+
+"Toe Touch 2" = "Relevé de Buste avec Touché d’Orteils 2";
+
+"Toe Touch 2 extra"= "Groupe Musculaire : Droit de l’Abdomen\
+\
+Etape 1 : Allongez-vous au sol. Gardez les jambes légèrement fléchies au-dessus du sol. Gardez le dos bien droit contre le sol.\
+\
+Etape 2 : Expirez et effectuez un relevé de buste en tentant de toucher vos pieds. Gardez la tête droite et évitez de toucher votre buste avec le menton.";
+
+
+
+
+"Bodyweight Crunch 2" = "Enroulé de Buste au Poids du Corps 2";
+
+"Bodyweight Crunch 2 extra"= "Groupe Musculaire : Obliques\
+\
+Etape 1 : Allongez-vous au sol. Levez les jambes de façon à ce que vos cuisses soient perpendiculaires au sol. Placez les mains derrière la tête.\
+\
+Etape 2 : Touchez votre genou droit avec votre coude gauche.\
+\
+Etape 3 : Revenez en positon de départ, puis faites de-même avec votre genou gauche et coude droit pour effectuer une répétition.";
+
+
+
+
+"Stability Ball Crunch" = "Relevé de Buste avec Ballon d’Exercice";
+
+"Stability Ball Crunch extra"= "Groupe Musculaire : Abdominaux\
+\
+Etape 1 : Allongez votre dos sur le ballon d’exercice. Tenez une balle d’exercice au-dessus de vous.\
+\
+Etape 2 : Relevez votre buste tout en gardant le bas du dos contre le ballon d’exercice. Tenez la position pendant une seconde. Revenez à la position de départ.";
+
+
+
+
+"Bar Bench Press Incline" = "Développé Incliné à la Barre";
+
+"Bar Bench Press Incline extra"= "Groupe Musculaire : Pectoraux\
+\
+Etape 1 : Allongez-vous sur le banc incliné. Tenez la barre coudée EZ en pronation. La distance entre vos mains doit être légèrement supérieure à celle de vos épaules. Tenez la barre coudée EZ les bras complétement tendus. La barre coudée EZ se trouve dans l’alignement de votre buste.\
+\
+Etape 2 : Abaissez la barre coudée EZ vers la partie inférieure de votre buste en gardant vos coudes près du corps. La barre coudée EZ doit légèrement toucher votre buste à la fin du mouvement. Evitez de faire rebondir la barre coudée EZ contre votre buste. Tenez la position pendant un bref moment. Retournez à la position de départ. Gardez toujours votre dos contre le banc. Evitez tout mouvement de jambe.";
+
+
+
+
+"Dumbbell Push-up Row" = "Pompe et Tirage avec Haltères";
+
+"Dumbbell Push-up Row extra"= "Groupe Musculaire : Pectoraux\
+\
+Etape 1 : Appuyez-vous sur deux haltères en prise neutre. La distance entre vos mains doit être légèrement supérieure à celle de vos épaules. Soulevez-vous en poussant sur les bras de sorte à ce que seuls les haltères et vos pieds touchent le sol. Gardez le dos droit. Les mains sont légèrement dirigées vers l’extérieure.  \
+\
+Etape 2 : Abaissez-vous en fléchissant les coudes jusqu’à ce que votre buste soit à quelques centimètres du sol. Les coudes doivent être dirigés vers les pieds. Tenez la position pendant une seconde.\
+\
+Etape 3 : Retournez à la position de départ.\
+\
+Etape 4 : Soulevez une haltère en déplacant vers le haut votre coude. Le mouvement de votre main doit être vertical et rectiligne.\
+\
+Etape 5 : Retournez à la position de départ.\
+\
+Etape 6 : Procédez aux mêmes étapes avec l’autre main.";
+
+
+
+
+"Triceps Kickback" = "Extension Alterné avec Haltères";
+
+"Triceps Kickback extra"= "Groupe Musculaire : Triceps Brachial\
+\
+Etape 1 : Tenez un haltère dans une main, placez la main et le genou opposés sur un banc, et placez l’autre pied au sol en fléchissant légèrement le genou. Gardez le dos droit parallèle au sol et tirez l’haltère verticalement.\
+\
+Etape 2 : Tenez l’haltère de sorte à former un angle à 90 degrés avec votre coude, expirez doucement et tendez le bras jusqu’à ce que votre épaule, votre coude et votre poignet soient alignés.\
+\
+Etape 3 : Inspirez en abaissant l’haltère doucement jusqu’à former un angle à 90 degrés avec votre coude. Faites le nombre nécessaire de répétitions.\
+\
+Etape 4 : Refaites l’exercice avec l’autre main.";
+
+
+
+
+"Standing Single Arm Triceps Extension" = "Extension Verticale avec Haltère";
+
+"Standing Single Arm Triceps Extension extra"= "Groupe Musculaire : Triceps Brachial\
+\
+Etape 1 : Tenez-vous debout le dos droit et les pieds dans l’alignement de vos épaules avec un haltère léger dans la main gauche.\
+\
+Etape 2 : Tendez le bras gauche en l’air de sorte à ce que l’haltère se trouve au-dessus de votre tête. Avec votre main droite, attrapez votre coude gauche pour stabiliser votre bras pendant l’exercice.\
+\
+Etape 3 : Sans bouger la partie supérieure de votre bras, fléchissez doucement le coude gauche pour abaisser l’haltère derrière votre tête aussi loin que possible.\
+\
+Etape 4 : Remontez l’haltère au-dessus de votre tête jusqu’à ce que votre bras soit tendu et répétez pour faire un set. Faites de-même avec l’autre bras.";
+
+
+
+
+"Stability Ball Split Squad Dumbbell" = "Squat sur une Jambe avec Ballon d’Exercice et Haltères";
+
+"Stability Ball Split Squad Dumbbell extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Tenez-vous debout et droit, placez un pied au sol. Gardez les bras en avant, comme indiqué.\
+\
+Etape 2 : Baisser-vous en fléchissant les hanches et les genoux et en penchant le torse vers l’avant.\
+\
+Etape 3 : Remontez en position de départ en poussant sur votre jambe d’appui.\
+\
+Etape 4 : Répétez l’exercice avec l’autre jambe.";
+
+
+
+
+"Dumbbell Rear Delt Row" = "Elévation Latérale Inclinée avec Haltères";
+
+"Dumbbell Rear Delt Row extra"= "Groupe Musculaire : Deltoïdes\
+\
+Etape 1 : Penchez-vous au niveau de la taille en tenant des haltères en pronation avec les bras tendus et les pieds joints.\
+\
+Etape 2 : Levez les haltères sur les côtés jusqu’au niveau des épaules en gardant le dos droit. Si nécessaire, fléchissez légèrement les coudes pendant la monté, puis redescendez les haltères à la position de départ.";
+
+
+
+
+"Dumbbell Snatch" = "Arraché avec Haltère";
+
+"Dumbbell Snatch extra"= "Groupe Musculaire : Deltoïdes\
+\
+Etape 1 : Commencez par vous accroupir au-dessus d’un haltère posé au sol. Gardez le dos droit et les pieds dans l’alignement de vos épaules.\
+\
+Etape 2 : Attrapez l’haltère et contractez les abdominaux. Avec un mouvement rapide, soulevez l’haltère verticalement jusqu’à ce que votre bras soit tendu et stable, comme illustré. Vous devez monter l’haltère en la gardant proche de votre corps et non pas en la balançant.\
+\
+Etape 3 : Tenez-la brièvement au-dessus de votre tête, puis redescendez-la à la position de départ.";
+
+
+
+
+"Stretch Standing Overhead Arms" = "Etirement du Dos Bras Tendus au-dessus de la Tête";
+
+"Stretch Standing Overhead Arms extra"= "Groupe Musculaire : Grand Dorsal\
+\
+Etape 1 : Tenez-vous debout avec les pieds dans l’alignement de vos épaules. Gardez les jambes légèrement fléchies. Positionnez vos mains devant vous. Entrelacez vos doigts.\
+\
+Etape 2 : Etirez vos bras au-dessus de la tête. Tirez aussi haut que possible. Tenez cette position pendant 15-25 secondes.";
+
+
+
+
+"Stretch Neck Standing Side" = "Etirement du Cou";
+
+"Stretch Neck Standing Side extra"= "Groupe Musculaire : Cou\
+\
+Etape 1 : Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules. Posez les mains sur votre taille.\
+\
+Etape 2 : Tournez la tête sur le côté. La partie supérieure de votre corps pivote légèrement. Tenez la position pendant 15-25 secondes.";
+
+
+
+
+"Standing Cross Body Arms" = "Traction Latérale";
+
+"Standing Cross Body Arms extra"= "Groupe Musculaire : Deltoïdes\
+\
+Etape 1 : Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules.\
+\
+Etape 2 : Etirez complètement votre bras droit en travers de votre buste. Le bras doit être parallèle au sol. Positionnez votre main gauche sur votre coude droit. Utilisez votre bras gauche pour tirer votre bras droit plus près du corps. Tenez cette position pendant 15-25 secondes.";
+
+
+
+
+"Standing Behind Head" = "Etirement Triceps Debout";
+
+"Standing Behind Head extra"= "Groupe Musculaire : Triceps Brachial\
+\
+Etape 1 : Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules. Positionnez une main au centre de vos omoplates. Le coude doit pointer vers le plafond.\
+\
+Etape 2 : Utilisez votre autre main pour tenir votre coude. Tirez votre coude vers le bas et vers votre tête. Tenez cette position pendant 15-25 secondes.";
+
+
+
+
+"Standing Side Single Arm" = "Etirement du Dos de Côté avec un Bras";
+
+"Standing Side Single Arm extra"= "Groupe Musculaire : Grand Dorsal\
+\
+Etape 1 : Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules. Positionnez les bras le long du corps avec les mains sur les hanches.\
+\
+Etape 2 : Levez un bras au-dessus de votre tête et penchez votre corps sur le côté.";
+
+
+
+
+"Stretch Squat Torso Twist" = "Etirement du Dos Rotation du Torse Accroupi";
+
+"Stretch Squat Torso Twist extra"= "Groupe Musculaire : Grand Dorsal\
+\
+Etape 1 : Accroupissez-vous avec les pieds dans l’alignement de vos épaules. Posez les mains sur les hanches. Regardez vers l’avant.\
+\
+Etape 2 : Faites pivotez votre torse dans une direction jusqu’à ce que vous sentiez l’étirement. Répétez ce mouvement de l’autre côté.";
+
+
+
+
+"Stretch Standing Legs Arms" = "Etirement Ischio Jambes et Bras Tendus";
+
+"Stretch Standing Legs Arms extra"= "Groupe Musculaire : Ischio-Jambier\
+\
+Etape 1 : Tenez-vous debout et droit avec une distance entre les pieds supérieure à celle de vos épaules. Positionnez les bras le long du corps avec les mains sur les hanches.\
+\
+Etape 2 : Sans plier les jambes, attrapez votre cheville avec vos mains. Tenez cette position pendant 15-25 secondes.";
+
+
+
+
+"Stretch Standing Hand To Foot" = "Etirement Cuisse Debout";
+
+"Stretch Standing Hand To Foot extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Tenez-vous debout et droit avec les pieds joints. Laissez les mains le long du corps.\
+\
+Etape 2 : Pliez un genou derrière vous. Attrapez votre pied avec la main. Tirez votre pied vers vos fessiers. Tenez cette position pendant 15-25 secondes. Répétez l’étirement avec l’autre jambe.";
+
+
+
+
+"Stretch Knee Bent" = "Etirement Genoux Fléchi";
+
+"Stretch Knee Bent extra"= "Groupe Musculaire : Quadriceps\
+\
+Etape 1 : Asseyez-vous jambes tendues. Pliez le genou droit, positionnez votre pied droit sur l’intérieure de votre cuisse gauche.\
+\
+Etape 2 : Touchez les orteils de votre pied gauche avec votre main gauche. Tenez cette position pendant 15-25 secondes. Répétez l’étirement avec l’autre jambe.";
+
+
+
+
+"Stretch Adductors Standing" = "Etirement Abducteurs Debout";
+
+"Stretch Adductors Standing extra"= "Groupe Musculaire : Abducteurs\
+\
+Etape 1 : Tenez-vous debout et droit avec une distance entre les pieds supérieure à celle de vos épaules. Positionnez les bras le long du corps avec les mains sur les hanches.\
+\
+Etape 2 : Abaissez votre corps d’un côté. La jambe opposée doit être tendue. Tenez cette position pendant 15-25 secondes. Répétez l’étirement de l’autre côté.";
+
+
+
+
+"Sitting Body Curl" = "Etirement Assis Ischio";
+
+"Sitting Body Curl extra"= "Groupe Musculaire : Ischio-Jambier\
+\
+Etape 1 : Asseyez-vous le dos droit. Etendez complètement les jambes. Posez les mains sur vos cuisses.\
+\
+Etape 2 : Penchez le buste vers vos jambes. Tenez cette position pendant 15-25 secondes.";
+
+
+
+
+"Stretch Lying Knee Bent" = "Etirement Ischio Allongé Genou Plié";
+
+"Stretch Lying Knee Bent extra"= "Groupe Musculaire : Ischio-Jambier\
+\
+Etape 1 : Allongez-vous au sol. Etendez complétement les jambes. Placez vos bras le long du corps.\
+\
+Etape 2 : Levez une jambe vers votre buste. Gardez la jambe pliée. Placez vos mains sur votre tibia. Tirez votre jambe vers vous. Tenez cette position pendant 15-25 secondes. Répétez l’étirement avec l’autre jambe.";
+
+
+
+
+"Stretch Adductors (Sitting)" = "Etirement Assis Abducteurs";
+
+"Stretch Adductors (Sitting) extra"= "Groupe Musculaire : Abducteurs\
+\
+Etape 1 : Asseyez-vous avec la plante des pieds l’une contre l’autre. Gardez le dos droit. Posez les mains sur les genoux.\
+\
+Etape 2 : Baissez votre buste et vos genoux vers le sol. Tenez cette position pendant 15-25 secondes.";
+
+
+
+
+"Stretch Kneeling Child Pose" = "Etirement Lombaire Agenouillé";
+
+"Stretch Kneeling Child Pose extra"= "Groupe Musculaire : Zone Lombaire\
+\
+Etape 1 : Agenouillez-vous au sol avec le dos droit.\
+\
+Etape 2 : Tout en étendant vos bras devant vous, asseyez-vous de façon à ce que vos fessiers touchent vos pieds. Gardez la tête et le dos droits.";
+
+
+
+
+"Stretch Lower Back Arms Assist" = "Etirement Lombaire Bras Tendus";
+
+"Stretch Lower Back Arms Assist extra"= "Groupe Musculaire : Zone Lombaire\
+\
+Etape 1 : Allongez-vos à plat ventre sur le sol. Posez les mains sur le sol au niveau de votre buste.\
+\
+Etape 2 : Poussez sur les bras pour relever votre buste. Les bras complétement tendus. Tenez cette position pendant 15-25 secondes.";
+
+
+
+
+"Dumbbell Lateral Raise" = "Élévation Latérale avec Haltères";
+
+"Dumbbell Lateral Raise extra" = "Groupe Musculaire : Deltoïdes\
+\
+Étape 1 : Tenez-vous debout avec les pieds dans l’alignement de vos épaules en gardant le dos droit et les bras légèrement devant le torse. Avec vos coudes légèrement fléchis, saisissez un haltère dans chaque main.\
+\
+Étape 2 : Élevez latéralement les haltères jusqu’au niveau des épaules. Les paumes doivent rester tournées vers le sol.\
+\
+Étape 3 : Tout en gardant les coudes fléchis, abaissez doucement les haltères à la position initiale et effectuez le nombre de répétitions désiré.";
+
+
+
+
+"Dumbbell Lunge Side" = "Fente Latérale avec Haltères";
+
+"Dumbbell Lunge Side extra" = "Groupe Musculaire : Quadriceps\
+\
+Étape 1 : Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules. Saisissez une paire d’haltères en prise neutre avec les bras placés le long du corps.\
+\
+Étape 2 : Tout en gardant le dos droit, faites un pas de côté avec un pied, puis abaissez-vous en fléchissant les genoux. Le pied arrière doit rester en position. Stoppez lorsque la cuisse de votre jambe d’appui est parallèle au sol. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+
+
+
+"Standing Abdominal Stretch" = "Étirement Abdominal Debout";
+
+"Standing Abdominal Stretch extra"= "Groupe Musculaire : Droit de l’Abdomen \
+\
+Étape 1 : Tenez-vous debout avec les bras tendus au-dessus de votre tête. \
+\
+Étape 2 : Cambrez le bas du dos tout en bombant le torse et en amenant vos bras derrière vous aussi loin que possible. Tenez cette position d’étirement pendant quelques secondes. ";
+
+
+"Barbell Good Morning" = "Good Morning avec Barre d’Haltères";
+"Barbell Good Morning extra" = "Groupe Musculaire : Ischio-jambier\
+\
+Étape 1 :Tenez-vous debout et droit avec les pieds dans l’alignement de vos épaules. Placez la barre derrière vos épaules en la tenant en pronation. La distance entre vos mains doit être supérieure à celle de vos épaules. Dirigez la pointe de vos pieds légèrement vers l’extérieur.\
+\
+Étape 2 : Tout en gardant le dos droit, penchez le buste vers l’avant jusqu’à ce qu’il soit parallèle au sol. Tenez la position pendant une seconde. Retournez à la position initiale.";
+
+
+"Curl Bar Row" = "Tirage à la Barre";
+"Curl Bar Row extra" = "Group Musculaire : Grand Dorsal\
+\
+Étape 1 : Fléchissez légèrement les genoux. Penchez-vous en gardant le dos droit. Saisissez la barre EZ en pronation avec les mains dans l’alignement de vos épaules.\
+\
+Étape 2 : Tirez verticalement la barre EZ vers votre buste. Gardez les coudes en place. Tenez la position pendant une seconde. Revenez à la position initiale.";
+
+
+// Descriptions
+
+"extra_main_description" = "Programmes d’exercices avancés conçus pour dessiner vos muscles et devenir plus fort.";
+"Building muscle add volume and strength." = "Gagnez du muscle, du volume et de la force.";
+"Muscle Growth of the full Body." = "Musclez entièrement votre corps.";
+"Beginner Intermediate Advanced." = "Débutant Intermédiaire Avancé.";
+"Man and Women." = "Homme et Femme.";
+"Gym." = "Salle de sport.";
+"Barbell Dumbbells Bench." = "Barre d’haltères, Haltères, Banc.";
+"Building muscle add definition and strength." = "Augmentez votre masse musculaire, définissez vos muscles et gagnez de la force.";
+"Home, Office, Studio." = "Maison, Bureau, Studio.";
+"Bench, Dumbbell, Mat, Body Weight." = "Banc, Haltères, Tapis, Poids du corps.";
+"Muscle definition and fat burning." = "Définition des muscles et combustion des graisses.";
+"Cardio routine of the full Body." = "Routine de cardio pour tout le corps.";
+"Home, Office." = "Maison, Bureau.";
+"Core zone." = "Abdomen.";
+"Abdominals definition & fat burning." = "Définition des abdos et combustion des graisses.";
+"Gym, Home, Office." = "Salle de sport, Maison, Bureau.";
+"Stability ball, Mat, Body Weight." = "Ballon d’exercice, Tapis, Poids du corps.";
+"Chest & Arms." = "Buste et bras.";
+"Get strength and definition." = "Prenez de la force et de la définition.";
+"Bench, Dumbbell." = "Banc, Haltères.";
+"Arms." = "Bras.";
+"Shoulders." = "Épaules.";
+"Bench, Dumbbell, Balance Ball." = "Banc, Haltères, Ballon d’équilibre.";
+"Back & Arms." = "Dos et bras.";
+"Neck, shoulders, lower back and legs." = "Cou, épaules, lombaires, jambes.";
+"Muscle flexibility and relaxation." = "Flexibilité musculaire et relaxation.";
+"Exercise Mat, Body Weight." = "Tapis d’exercice, Poids du corps.";
+
+
+"Focus" = "Focalisation";
+"Goal" = "Objectif";
+"Skill level" = "Niveau d’aptitude";
+"Target Group" = "Groupe ciblé";
+"Place" = "Lieu";
+"Equipment" = "Équipement" ;
+
+"extraDescription1" = "Exercices conçus pour l’haltérophilie, la prise de masse musculaire et pour augmenter votre force.";
+"extraDescription2" = "Combinaison parfaite d’exercices pour prendre de la force et définir vos muscles.";
+"extraDescription3" = "Devenez plus fort et transpirez avec cet entraînement croisé pour brûler des graisses.";
+"extraDescription4" = "Mincissez et travaillez vos abdos avec cet entraînement croisé pour brûler des graisses.";
+"extraDescription5" = "Super exercices focalisés sur le travail des muscles du buste pour gagner en force et en définition.";
+"extraDescription6" = " Super exercices focalisés sur le travail des muscles des bras pour gagner en force et en définition.";
+"extraDescription7" = " Super exercices focalisés sur le travail des muscles des jambes pour gagner en force et en définition.";
+"extraDescription8" = " Super exercices focalisés sur le travail des muscles des épaules pour gagner en force et en définition.";
+"extraDescription9" = " Super exercices focalisés sur le travail des muscles du dos pour gagner en force et en définition.";
+"extraDescription10" = "Améliorez votre flexibilité et votre relaxation musculaire avec une séance complète d’étirements.";
+
+"extraDescription1_howToMake" = "3 séries par exercice.";
+"extraDescription2_howToMake" = "15 répétitions pour chaque exercice, commencez par 2 séries, puis 4 et encore 4.";
+"extraDescription3_howToMake" = "15 secondes de repos entre chaque exercice, 30 secondes de repos entre chaque série.";
+"extraDescription4_howToMake" = "15 secondes de repos entre chaque exercice, 30 secondes de repos entre chaque série.";
+"extraDescription5_howToMake" = "45 secondes de repos entre chaque exercice, 35 secondes de repos entre chaque série.";
+"extraDescription6_howToMake" = "45 secondes de repos entre chaque exercice, 35 secondes de repos entre chaque série.";
+"extraDescription7_howToMake" = "45 secondes de repos entre chaque exercice, 35 secondes de repos entre chaque série.";
+"extraDescription8_howToMake" = "45 secondes de repos entre chaque exercice, 35 secondes de repos entre chaque série.";
+"extraDescription9_howToMake" = "45 secondes de repos entre chaque exercice, 35 secondes de repos entre chaque série.";
+"extraDescription10_howToMake" = "Pas de repos entre chaque exercice. Tenez chaque position pendant 30 secondes.";
+
+"categoryDescription0" = "Les meilleurs exercices pour prendre du volume et améliorer la définition de vos abdos.";
+"categoryDescription1" = "Différents exercices qui vous aideront à accroître votre force et votre puissance.";
+"categoryDescription2" = "Combinaison parfaite d’exercices pour prendre de la masse et du volume.";
+"categoryDescription3" = "Exercices spéciaux qui vous aideront à accroître votre force et augmenter votre relief musculaire.";
+"categoryDescription4" = "Les meilleurs exercices pour améliorer la définition musculaire et gagner en volume et puissance.";
+"categoryDescription5" = "Différents exercices qui vous permettront d’atteindre les performances que vous visez.";
+"categoryDescription6" = " Combinaison parfaite d’exercices pour muscler vos jambes et augmenter votre endurance.";
+"categoryDescription7" = "Super combinaison d’exercices pour accroître votre force et votre définition musculaire."; //Shoulders
+"categoryDescription8" = "Exercices spéciaux qui vous aideront à accroître votre force avec divers niveau d’intensité.";
+"categoryDescription9" = "Acheter la version Pro";
+"workoutDescription2" = "Une combinaison d’exercices qui vous aidera à prendre du volume et du muscle.";
+"workoutDescription1" = "Programme parfait pour mincir et définir votre musculature.";
+"workoutDescription3" = "Le meilleur moyen pour accroître votre force et votre puissance et améliorer vos performances.";
+
+
+"viewed" = "Vu";
+

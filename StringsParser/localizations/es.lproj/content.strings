@@ -1,0 +1,1396 @@
+/* 
+  content.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/18/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Abs" = "Abdominales";
+"Back" = "Espalda";
+"Biceps" = "Biceps";
+"Calf" = "Pantorrilla";
+"Chest" = "Pecho";
+"Forearms" = "Antebrazos";
+"Legs" = "Piernas";
+"Shoulders" = "Hombros";
+"Triceps" = "Triceps";
+
+//Abs
+
+"Incline Bench Sit-Ups" = "Sentadillas en Banco Inclinado";
+"1 Incline Bench Sit-Ups" = "Músculo: Recto Abdominal\n\nPaso 1: Túmbate en la banca inclinada. Coloca las manos sobre la cabeza. Las rodillas están flexionadas.\n\nPaso 2: Eleva la zona superior del cuerpo manteniendo la región lumbar en la banca. Aguanta un segundo. Vuelve a la posición inicial";
+
+"Hanging Leg Raises" = "Levantamiento de Piernas desde Posición Colgada";
+"2 Hanging Leg Raises" = "Músculo: Recto Abdominal\n\nPaso 1: Sujetándote a la barra de dominadas con una agarre pronado, quédate colgando con las rodillas ligeramente flexionadas.\n\nPaso 2: Levanta las caderas mientras te curvas hacia el pecho usando los músculos abdominales inferiores. Eleva las rodillas lo más cerca que puedas del pecho, curvando la zona lumbar por arriba. Después haz una pausa para sentir la contracción de los músculos abdominales inferiores y regresa a la posición desde la que empezaste";
+
+"Dumbbell Side Bends" = "Inclinaciones Laterales con Mancuernas";
+"3 Dumbbell Side Bends" = "Músculo: Oblícuo\n\nPaso 1: Ponte de pie recto con los pies separados a la altura de los hombros. Sujeta una mancuerna con cada mano.\n\nPaso 2: Dóblate hacia abajo en una dirección con un movimiento mínimo de la parte inferior del cuerpo.\n\nPaso 3: Vuelve a la posición inicial.";
+
+"Crunches" = "Abdominales";
+"4 Crunches" = "Músculo: Recto Abdominal\n\nPaso 1: Túmbate boca arriba, pon las piernas rectas, eleva los talones una pulgada sobre el suelo y coloca las manos a ambos lados del cuerpo.\n\nPaso 2: Manteniendo los brazos paralelos al suelo, eleva el torso y las piernas para que formen una e. Mientras te elevas, flexiona las rodillas y llévalas hacia el pecho.";
+
+"Sit-Ups" = "Sentadillas";
+"5 Sit-Ups" = "Músculo: Recto Abdominal\n\nPaso 1: Túmbate en la pelota de estabilidad. Coloca las manos en la cabeza y los pies en el suelo.\n\nPaso 2: Eleva la parte superior del cuerpo manteniendo la zona lumbar en la pelota de estabilidad. Mantén la posición un segundo. Vuelve a la posición inicial.";
+
+"Leg Raises" = "Levantamiento de Piernas";
+"6 Leg Raises" = "Músculo: Recto Abdominal\n\nPaso 1: Túmbate en el suelo. Pon las piernas rectas. Coloca las manos detrás de la cabeza.\n\nPaso 2: Eleva la parte superior del cuerpo. Mantén la posición un segundo. Vuelve a la posición inicial.";
+
+"Flat Bench Lying Leg Raise" = "Levantamiento de Piernas desde Posición Tumbada";
+"7 Flat Bench Lying Leg Raise" = "Túmbate en el banco o en el suelo con las piernas rectas. Coloca las manos debajo del trasero con las palmas hacia abajo. Mantén las piernas rectas y las rodillas juntas, Levanta los pies lo más verticalmente que puedas.";
+
+"Seated Jackknife" = "Jackknife Sentado";
+"8 Seated Jackknife" = "Siéntate en el borde del banco y agárrate al asiento detrás de tu espalda como apoyo, extiende las piernas delante de ti, con las rodillas ligeramente dobladas. Eleva las piernas hacia el pecho e inclina el pecho hacia las piernas.";
+
+"Twisting Hip Raise" = "Levantamiento de Caderas con Torsión";
+"9 Twisting Hip Raise" = "Túmbate en el suelo con las piernas rectas apuntando al techo y las manos a los lados. Empuja hacia arriba con los pies levantando las caderas del suelo al mismo tiempo e inclinándolas hacia un lado.";
+
+"Bodyweight Crunch" = "Abdominales Peso Corporal";
+"12 Bodyweight Crunch" = "Túmbate en el suelo con las plantas de los pies en el suelo y las rodillas dobladas. Extiende los brazos por completo por encima de ti. Levanta la parte superior del cuerpo hacia arriba a la vez que mantienes la parte baja de las espalda en el suelo. Mantén la posición durante un segundo. Vuelve a la posición inicial.";
+
+"Russian Twist" = "Torsión Rusa";
+"13 Russian Twist" = "Siéntate en el suelo con las piernas dobladas y el torso inclinado ligeramente hacia atrás. Mantén los brazos rectos delante del torso. Rota el torso hacia un lado, al centro y hacia el lado contrario.";
+
+"Side Bridge" = "Puente Lateral";
+"14 Side Bridge" = "Túmbate de lado con las piernas sobresaliendo. Gira y levanta el cuerpo del suelo, con un brazo doblado paralelo al suelo. Trata de mantener el cuerpo en línea recta y el codo directamente debajo del hombro.";
+//Back
+"Chin-Ups" = "Dominadas";
+"1 Chin-Ups" = "Agarra la barra con las palmas y los dedos de las manos orientados hacia adelante, sin mirar al cuerpo. Lo que se llama agarre ”prono”. Mantén los brazos rectos y cuelga sin balancearte. Relaja los hombros y el cuerpo. Sube con movimiento lento, sin tirones. La barbilla debe sobrepasar la barra. Vuelve a la posición inicial lentamente.";
+
+"Deadlifts" = "Peso Muerto";
+"2 Deadlifts" = "Posición inicial de piernas separadas a la anchura de los hombros y con los pies apuntando hacia adelante. Baja el trasero hasta que los cuádriceps estén más o menos paralelos al suelo. La barra deberá estar justo por delante de las espinillas. Agarra la haltera con ambas manos para que haya un ligero espacio por fuera de las piernas. Con un arco lumbar, empuja con las piernas y eleva la espalda simultáneamente para que la barra evite las rodillas y repose en la cadera. Los hombros y las piernas deberán estar juntos y los brazos rectos durante todo el ejercicio.";
+
+"Lat Pull-Downs" = "Jalones Laterales";
+"3 Lat Pull-Downs" = "Fija una barra larga a la máquina de jalones laterales y ajusta los cojinetes para que cuando estés sentado tus rodillas estén en ángulo recto y las plantas de los pies apoyadas en el suelo. Agarra la barra y siéntate manteniendo la parte superior del cuerpo en posición recta, con una ligera inclinación hacia atrás desde las caderas. Levanta la barra de delante de tu rostro hasta la parte de arriba del pecho y haz una pausa. Lentamente, vuelve a dejar la barra en la posición inicial, estirando los brazos.";
+
+"Seated Rows" = "Remadas Sentado";
+"4 Seated Rows" = "Para comenzar el remo sentado, coge las asas de tu barra favorita (puede ser como la mostrada). Siéntate con la espalda recta, las piernas dobladas y los pies apoyados en el bloque de metal. Extiende los brazos hasta que sientas que los laterales se estiran. Tira del peso hacia tu cuerpo hasta que las asas toquen tu abdomen.";
+
+"One-Arm Dumbbell Rows" = "Remadas de Un Solo Brazo con Mancuernas";
+"5 One-Arm Dumbbell Rows" = "Coloca tu rodilla y mano izquierdas en un banco y la pierna derecha apoyada firmemente en el suelo. Inclínate hacia delante hasta que tu espalda esté paralela al suelo. Coge una mancuerna con la mano derecha y con la palma mirando hacia el cuerpo y levanta o rema con la mancuerna hacia arriba y hacia la zona de la caja torácica. Vuelve a la posición inicial y repite.";
+
+"Barbell Shrugs" = "Encogimiento de Hombros con Haltera";
+"6 Barbell Shrugs" = "De pie, recto, con los pies separados a la anchura de los hombros y sujeta una haltera, con ambas manos, delante de ti, usando un agarre prono (con las manos mirando a los muslos). Consejo: La distancia entre las manos debe ser un poco más ancha que la de los hombros. Puedes utilizar muñequeras para un mejor agarre en este ejercicio. Esta es la posición inicial. Levanta los hombros tanto como puedas, al mismo tiempo que espiras, y mantén la contracción durante un segundo. Consejo: Abstente de levantar la haltera usando los biceps. Vuelve a la posición inicial, lentamente y aspirando.";
+
+"Dumbbell Shrugs" = "Encogimiento de Hombros con Mancuernas";
+"7 Dumbbell Shrugs" = "De pie, recto, con las mancuernas colgando a ambos lados y los pies lo bastante separados como para que las mancuernas cuelguen cómodamente. Pueden ser más pesadas de lo que normalmente usas para ejercicios de brazos. Encoge los hombros hacia arriba, tal y como lo harías si estuvieras diciendo ”No lo sé” a alguien en respuesta a una pregunta. No te encorves hacia adelante; trata de permanecer completamente recto. Si ves que te estás enconrvando hacia adelante o doblando hacia atrás, aligera las pesas un poco.";
+
+"Back Extensions" = "Extensiones de Espalda";
+"8 Back Extensions" = "Colócate en un aparato de estiramiento de espalda y engancha los pies en el ancla de piernas. Tu cuerpo deberá estar en línea recta desde las manos hasta las caderas. Baja el torso, haciendo que se arquee la espalda, hasta que esté casi perpendicular al suelo. Eleva la parte superior del cuerpo hasta que esté ligeramente por encima de la posición paralela al suelo. En este momento, tu espalda deberá formar un ligero arco y tus omoplatos deberán estar unidos. Mantén la posición durante un segundo y repite.";
+
+"Bent Over Row" = "Remada Inclinada";
+"9 Bent Over Row" = "De pie con las rodillas ligeramente flexionadas. Dobla el torso en un ángulo de 45 grados, manteniendo la espalda recta. Agarra la barra con una distancia entre las manos superior a la anchura de los hombros y los brazos colgando rectos de los hombros:\n\n⁃	Inhala, contrae el abdominal isométricamente y levanta la barra recta hasta que toque el pecho.\n\n⁃ Vuelve a la posición inicial, exhalando.";
+
+"Reverse Chin Ups" = "Dominadas Invertidas";
+"10 Reverse Chin Ups" = "Extiende los brazos y agarra la barra con una distancia entre las manos de la anchura de los hombros:\n\n- Inhala y saca el pecho para impulsarte hacia arriba hasta que la barbilla esté a la altura de la barra.\n\n- Exhala al completar el movimiento.";
+//Biceps
+
+"Curls" = "Curl";
+"1 Curls" = "De pie, con los pies separados a la anchura de la cadera y los abdominales ocupados mientras sujetas unas mancuernas de peso mediano delante de los muslos. Contrae los biceps y dobla los brazos, curvando las pesas hacia los hombros. Mantén los codos inmóviles y levanta solamente las pesas, tanto como puedas, sin mover los codos. Baja las pesas despacio, manteniendo un ligero doblez en la parte inferior de los codos (ej: no bloquees las articulaciones e intenta mantener la tension en el músculo)";
+
+"Barbell Curls" = "Curl con Haltera";
+"2 Barbell Curls" = "Empieza en una posición de pie, con los pies separados a la anchura de los hombros y las rodillas relajadas. Agarra una haltera con las manos también a la anchura de los hombros. El agarre deberá ser con las palmas de las manos mirando hacia arriba. Permanece recto y deja que la barra cuelgue delante de tus muslos. Dobla los codos para poner la barra a la altura de los hombros. Permanece en esta posición durante un momento. Baja la barra lentamente hasta la posición inicial.";
+
+"Preacher Curls" = "Curl del Predicador";
+"3 Preacher Curls" = "Agarra la barra con las manos a la anchura de los hombros. Lentamente, eleva la barra hacia arriba hasta que tus antebrazos estén apuntando hacia arriba (un poco más que en vertical). Espera un segundo y baja la barra a la posición inicial.";
+
+"Hammer Curls" = "Curl de Martillo";
+"4 Hammer Curls" = "Sujeta una mancuerna en cada mano con las palmas mirando hacia afuera. Tu brazos deberán formar un ángulo de 90 grados. Manteniendo los codos pegados al cuerpo y en una posición firme, lleva las pesas hacia los hombros. Baja las pesas despacio hasta la posición inicial.";
+
+"Concentration Curls" = "Curl de Concentración";
+"5 Concentration Curls" = "Empieza sentándote en el borde del banco, sujetando la mancuerna en la mano derecha. Deja que el brazo derecho cuelgue recto, con el codo reposando en la parte inferior de la rodilla. Inclínate hacia adelante hasta que el torso esté sobre las piernas, y coloca la mano izquierda sobre la rodilla izquierda. Doblando el codo, sube la mancuerna a la altura del hombro y haz una pausa antes de volver a bajar la pesa a su posición inicial. Repite hasta que termines la serie y cambia de lado para hacerlo con el brazo izquierdo.";
+
+"Reverse Curls" = "Curl Invertido";
+"6 Reverse Curls" = "De pie, con las piernas ligeramente separadas y los brazos rectos, y con un agarre con los pulgares mirándose:\n\n- Inhala y sube la barra.\n\n- Exhala al completar el movimiento. Este ejercicio trabaja los extensores de las muñecas y los dedos, el músculo braquiorradial y, en menor medida, los biceps.";
+
+"Cable Biceps Curl" = "Curl de Biceps con Cable";
+"7 Cable Biceps Curl" = "Acopla una barra recta a la polea inferior de una estación de cable. Agárrala con las manos a la anchura de los hombros y con un agarre supino y sujétalas con los brazos extendidos, delante de los muslos. Las rodillas deberán estar ligeramente flexionadas. Levanta la barra hacia el pecho tanto como puedas, sin dejar que se mueva la parte superior de los brazos.";
+
+"Low Pulley Curls" = "Curl Polea Baja";
+"8 Low Pulley Curls" = "De pie y de frente a la máquina, coge el mango con un agarre supino:\n\n⁃ Inhala y levanta el mango de la polea\n\n⁃ Exhala al completar el movimiento Es un buen ejercicio para aislar e inflar los biceps.";
+
+"Low Pulley Cable Crossover" = "Cruzado Polea Baja y Cable";
+"9 Low Pulley Cable Crossover" = "Coloca los cables en la parte inferior de la estacion de crossover y cruza las manos a la altura del rostro y comienza desde abajo hacia arriba. Esta variedad afecta más a la parte superior del pecho.";
+
+//Calf
+
+"Toe Raises" = "Elevaciones Dedos del Pie";
+"1 Toe Raises" = "Empieza con una posición neutral, con los pies a la anchura de los hombros o un poco más separados. Sujeta las mancuernas en ambas manos. Eleva los dedos de los pies, contrayendo los músculos de las pantorrillas, y bajando lentamente hasta completar el movimiento.";
+
+"One-Leg Toe Raises" = "Elevaciones Dedos del Pie con Una Sola Pierna";
+"2 One-Leg Toe Raises" = "Apóyate en un solo pie, colocando los dedos y el metatarso en el bloque. Sujeta una mancuerna en la mano del mismo lado que el pie en el que te estás apoyando, y agarra el eje de la máquina con tu otra mano, para mantener el cuerpo en posición durante el ejercicio.\n\n⁃ Elévate tanto como puedas sobre los dedos de los pies (flexión plantar), manteniendo la rodilla estirada o muy ligeramente flexionada.\n\n⁃ Vuelve a la posicion inicial.";
+
+"Seated Calf Raises" = "Elevación Pantorrillas Sentado";
+"3 Seated Calf Raises" = "Ajusta el cojinete de manera que tus espinillas estén rectas y el cojinete quede justo por detrás de las rodillas. Levanta el peso, empujando los talones hacia arriba con los metatarsos de los pies. Baja los talones lentamente hasta que sientas un estiramiento en el músculo de la pantorrilla. Para ejercitar la pantorrilla interior y la exterior, coloca tus dedos hacia dentro y fuera respectivamente.";
+//Chest
+
+"Bench Presses" = "Press de Banca";
+"1 Bench Presses" = "Para hacer un ejercicio de press de banca correctamente, tendrás que tumbarte en un banco y tener las plantas de los pies en el suelo. La barra, una vez colocada en el bastidor, deberá estar ligeramente por detrás de tu cabeza. Es imporante tener un observador durante este ejercicio, sobre todo si utilizas una barra suelta o mancuernas, para eliminar la posibilidad de que se te caigan encima. Una vez que hayas levantado el peso del bastidor, la barra estará directamente sobre el centro de tu pecho. Mantén la cabeza en el banco en todo momento. Una vez que tengas controlado el peso de la barra, bájala lentamente hasta el nivel del pecho, si puedes. Mantén los brazos apuntando hacia fuera mientras cae la barra. Al llegar al final del movimiento, vuelve a empujar la barra hacia arriba, concentrándote en hacerlo con el pecho y los brazos.";
+
+"Incline Presses" = "Press Inclinado";
+"2 Incline Presses" = "Este ejercicio es muy parecido al de press de banca con haltera, excepto que estarás utilizando una máquina de press de banca inclinada con peso libre y que el grupo de músculos trabajado será el de la parte superior del pecho, en lugar del de la parte del medio. Levanta la haltera del bastidor y bájala lentamente hasta unos 8 centimetros sobre tu clavícula (justo por encima de la nuez) y vuelve a empujarla a su poscición inicial. NO DEJES QUE LA BARRA TOQUE LA PARTE SUPERIOR DEL PECHO  (esto causa un estrés innecesario en las articulaciones de los hombros y aleja la tensión de los músculos superiores del pecho, ¡que son los que queremos ejercitar!). Asegúrate de que cuando bajes la barra lo hagas despacio y de manera controlada. Y a la inversa, cuando la eleves, lo deberás hacer de manera explosiva.";
+
+"Dumbbell Presses" = "Press con Mancuernas";
+"3 Dumbbell Presses" = "Ponte en posición sentada en el banco, sujeta las mancuernas y deja que reposen en los muslos. Al echarte hacia atrás para tumbarte en el banco, utiliza los muslos para ayudarte a mover las mancuernas hasta el pecho. Endereza los brazos sobre el pecho (manteniendo una ligera flexión en el codo), con las palmas mirando hacia fuera. Mantén las plantas de los pies en el suelo y la espalda en posición neutral (nada más que un pequeño arco). Baja las mancuernas doblando los codos hacia los lados. Sigue hasta que los codos estén justo por debajo de los hombros. Entonces sube las mancuernas otra vez, juntándolas arriba (sin que se toquen), y ligeramente inclinadas hacia dentro. Mantén los codos ligeramente flexionados, no dejes que se ”bloqueen”. Repite hasta que termines la serie. Para levantarte, sujeta las mancuernas junto al pecho, echa las piernas hacia arriba y hacia adelante, para darle al cuerpo el impulso necesario para sentarte.";
+
+"Parallel Bar Dips" = "Dips en Barras Paralelas";
+"4 Parallel Bar Dips" = "Primero, mantén la cabeza baja durante la duración del ejercicio y mueve el cuerpo hacia adelante. Segundo, saca los codos un poco. Así, mantén los codos fuera y separados del cuerpo. Esto garantiza un mayor uso de los músculos del pecho que de los triceps. Recuerda, concéntrate en contraer toda la zona del pecho en la cúspide del movimiento.";
+
+"Cable Crossover Flys" = "Crucifijo Cruzado con Cable";
+"5 Cable Crossover Flys" = "Este ejercicio se realiza usando la máquina de poleas de cable que tiene una polea en cada lado opuesto. Coloca cada polea en la parte superior, de manera que estén bloqueadas en la posición elevada (si no sabes cómo hacerlo, pídele a un entrenador del gimnasio en el que entrenas que te ayude). Estando de pie, agarra las poleas utilizando un pequeño acoplamiento de una sola mano para cada mano. Junta lentamente los brazos de forma controlada. Al hacerlo,imagínate que estás abrazando un enorme árbol. Y flexiona tus pecs durante un segundo, para volver a la posición inicial y repetir.";
+
+"Dumbbell Flys" = "Crucifijo con Mancuernas";
+"6 Dumbbell Flys" = "Para hacer el crucifijo con mancuernas, coge un peso relativamente ligero en cada mano. Tendrás que probar para determinar cuál es el peso adecuado para tu crucifijo con mancuernas. Empieza con un peso más ligero y vete aumentando. Túmbate en un banco de pesas y eleva ambas mancuernas sobre el pecho, con los brazos rectos. Esta es la posición de inicio. Extiende los brazos hacia fuera, formando un arco amplio, hasta que estén a los lados del cuerpo. Pueden estar ligeramente flexionados. Sigue el mismo arco en sentido contrario hasta que las mancuernas regresen a la posición inicial. Este ejercicio es una de las repiticiones del crucifijo con mancuernas.";
+
+"Dumbbell Pullovers" = "Pullovers con Mancuerna";
+"7 Dumbbell Pullovers" = "Muy parecido al pullover con haltera y brazo flexionado, pero se usa una mancuerna en lugar de una haltera. Túmbate de espaldas en un banco horizontal. Comienza el ejercicio sosteniendo la mancuerna por encima del pecho, con los codos ligeramente flexionados. Baja la mancuerna lentamente, de manera que los brazos (y la mancuerna) terminen detrás de la cabeza, tan lejos como puedas. Tus brazos y la mancuerna acabarán por detrás/ encima de tu cabeza y por debajo del banco – esto te proporcionará un excelente estiramiento! Lleva a la mancuerna a la posición inicial lentamente, concentrándote en mantener los codos bloqueados en una posición ligeramente flexionada.";
+
+"Push-Ups" = "Flexiones";
+"8 Push-Ups" = "Colócate boca abajo con los brazos rectos, las palmas de las manos apoyadas en el suelo y a la distancia de la anchura de los hombros (o más). Mantén los pies juntos o ligeramente separados:\n\n⁃ Inhala y dobla los codos, llevando el torso cerca del suelo, evitando la hiperextensión de la columna.\n\n⁃ Empuja el cuerpo hacia arriba, hasta la posición inicial, exhalando al completar el movimiento.";
+
+"Dumbbell Press" = "Press con Mancuernas";
+"9 Dumbbell Press" = "Túmbate en el banco con los pies apoyados en el suelo para tener estabilidad, los brazos extendidos hacia arriba y las manos, sujetando las mancuernas, mirándose de frente:\n\n⁃ Inhala y baja las mancuernas al nivel del pecho, doblando los codos y rotando los antebrazos hasta que las manos estén en posición prono.\n\n⁃ Vuelve a elevar las mancuernas y ejecuta una contracción isométrica para aislar el estrés de los pectorales; exhala mientras completas el movimeinto.";
+
+"Barbell Bench Press" = "Press en Banco con Haltera";
+"10 Barbell Bench Press" = "Túmbate de espaldas en un banco inclinado. Sujeta la haltera con un agarre prono. Baja la haltera hacia la parte inferior del pecho, mientras mantienes los codos pegados al cuerpo. La haltera deberá tocar ligeramente el pecho al final del movimiento.";
+
+"Pec Deck Flies" = "Crucifijos en Pec Deck ";
+"11 Pec Deck Flies" = "Siéntate en el asiento de la máquina y presiona los codos en las almohadillas, relajando los antebrazos y las muñecas:\n\n⁃ Inhala y junta las almohadillas hasta que se toquen delante del pecho.\n\n⁃ Exhala mientras completas el movimiento.";
+//Forearms
+"Wrist Curls" = "Curl de Muñeca ";
+"1 Wrist Curls" = "Siéntate con los antebrazos apoyados en los muslos o en un banco. Coge La barra con un agarre supino y con las muñecas extendidas pasivamente:\n\n⁃ Inhala y eleva la muñeca.\n\n⁃ Exhala mientras completas el movimiento.";
+
+"Wrist Curls" = "Curl de Muñeca";
+"2 Wrist Curls" = "Siéntate en un banco. Con una mancuerna y las muñecas extendidas pasivamente:\n\n⁃ Inhala y eleva la muñeca.\n\n⁃ Exhala mientras completas el movimiento.\n\n⁃ Este ejercicio trabaja los flexores de la muñeca y los dedos.";
+//Legs
+"Squats" = "Sentadillas";
+"1 Squats" = "Las sentadillas consisten en agacharte sin doblar la espalda. En su lugar, se usan las piernas, manteniendo la columna en una posición neutral. Colócate de pie con los pies separados a la anchura de los hombros. Presiona las caderas hacia atrás y dobla las rodillas. Soporta el peso con los talones, no con el metatarso de los pies. Las rodillas deberán estar por detrás de los dedos de los pies. Sigue bajando hasta que las rodillas fomen un ángulo de 90 grados. Mantén la posición durante un segundo y empuja con los talones para extender las rodillas y las caderas.";
+
+"Angled Leg Presses" = "Press de Pierna Inclinado";
+"2 Angled Leg Presses" = "Siéntate en la máquina con la espalda y la cabeza apoyadas en la parte acolchada. Coloca los pies en el reposapiés, separados a la anchura de los hombros, y asegurándote de que los talones toquen la superficie. Las piernas deberán formar un ángulo de unos 90 grados en la rodilla, manteniendo siempre los talones apoyados en el reposapiés. Las rodillas deberán estar en línea con los pies y sin doblarse hacia fuera o hacia dentro. El trasero no deberá elevarse del asiento. Si lo hace, y las piernas forman un ángulo demasiado agudo, tendrás que ajustar el asiento hasta la posicion correcta. Podrás reconocer esta mala postura si tus rodillas parecen estar a la altura de tus ojos y te sientes un poco incómodo. Agarra los mangos de asistencia.";
+
+"Leg Extensions" = "Extensiones de Pierna";
+"3 Leg Extensions" = "Eleva lentamente el peso extendiendo ambas piernas hacia arriba, hasta que estén rectas. No las subas de repente. Mantén esta posición durante un segundo. Vuelve a la posición inicial lentamente. Repite el movimiento.";
+
+"Dumbbell Lunges" = "Lunges con Mancuerna";
+"4 Dumbbell Lunges" = "De pie, con las mancuernas a los lados. Embiste hacia adelante con una pierna. Apóyate en el talón y después en la parte anterior del pie. Baja el cuerpo flexionando la rodilla y cadera de la pierna delantera, hasta que la rodilla de la pierna trasera esté casi en contacto con el suelo . Vuelve a la posición inicial de pie, extendiendo la cadera y la rodilla de la pierna delantera. Repite alternando ambas piernas.";
+
+"Cable Back Kicks" = "Patada hacia Atrás con Cable";
+"5 Cable Back Kicks" = "Ajusta un manguito al final del cable y a través de la polea inferior. Ponte el manguito en el tobillo. Colócate de pie delante de la máquina y agárrate al borde para sujetarte. Inclina la pelvis hacia adelante. Mueve la pierna hacia atrás.";
+
+"Dumbbell Squats" = "Sentadillas con Mancuerna";
+"6 Dumbbell Squats" = "De pie y con los pies ligeramente separados, sujeta una mancuerna en cada mano, con los brazos colgando a ambos lados:\n\n⁃ Mira al frente, arquea ligeramente la espalda y haz una sentadilla.\n\n⁃ Una vez que tus muslos estén paralelos al suelo, endereza las piernas hasta volver a la posición inicial.\n\n⁃ Exhala mientras completas el movimiento.";
+
+"Front Squats" = "Sentadillas Delanteras";
+"7 Front Squats" = "Coloca las mancuernas sobre los deltoides anteriores, manteniendo la parte superior de los brazos paralela al suelo, dobla los codos, cruza los antebrazos, agarra la barra y mira al frente:\n\n⁃ Inhala y haz la sentadilla.\n\n⁃ Vuelve a la posición inicial y exhala mientras completas el movimiento.";
+
+"Power Squats" = "Sentadillas de Potencia";
+"8 Power Squats" = "Este ejercicio es igual que las sentadillas tradicionales, pero se colocan las piernas extendidas con los dedos apuntando hacia fuera, lo que trabaja la cara interior de los muslos. Los músculos involcucrados son:\n\n⁃ los cuadriceps\n\n⁃ todos los aductores\n\n⁃ los glúteos\n\n⁃ el grupo isquiotibial\n\n⁃ todos los músculos sacroespinales";
+
+"Hack Squats" = "Sentadillas Hack";
+"9 Hack Squats" = "Flexiona las rodillas, coloca la espalda en la superficie acolchada, sujeta los hombros con los yugos de la máquina y coloca los pies ligeramente juntos:\n\n⁃ Inhala, rota las manijas de los lados de los yugos para liberar la máquina y dobla las piernas.\n\n⁃ Vuelve a la posición inicial y exhala mientras completas el movimiento.";
+
+"Seated Leg Curls" = "Curl de Pierna Sentado";
+"11 Seated Leg Curls" = "Siéntate en la máquina con las pierna rectas y los tobillos apoyados en el rodillo. Baja la pierna hasta que descanse en los muslos. Coge los asideros de cada lado:\n\n⁃ Inhala y dobla las rodillas para mover el rodillo hacia abajo.\n\n⁃ Exhala mientras completas el movimiento.";
+//Shoulders
+"Back Presses" = "Press de Espalda";
+"1 Back Presses" = "Comienza sentándote en el banco (con el apoyo para la espalda). Coge la haltera con un agarre prono. Sujeta la pesa sobre los hombros un poco por delante de ti, con los codos apuntando al suelo. Empuja la pesa hacia arriba y sobre la cabeza, de manera que los brazos estén completamente extendidos. Tras una pausa, baja las pesas a la posición inicial.";
+
+"Seated Front Presses" = "Press Frontal Sentado";
+"2 Seated Front Presses" = "Siéntate en un banco recto. Coge la haltera con un distancia mayor que la anchura de los hombros. Empuja la haltera hacia arriba, hasta que esté sobre los hombros y con los brazos extendidos. Baja la haltera hasta la parte delantera de los hombros, y vuelve a la posición inicial.";
+
+"Seated Dumbbell Presses" = "Press con Mancuernas Sentado";
+"3 Seated Dumbbell Presses" = "Colócate en un banco o silla con la espalda recta. Coge una mancuerna en cada mano y sujétalas justo por fuera de los hombros, con los pulgares mirándose de frente. Solo tienes que subir las mancuernas por encima de tu cabeza y volver a la posición inicial.";
+
+"Low-Pulley Lateral Raises" = "Elevaciones Laterales con Polea Baja";
+"4 Low-Pulley Lateral Raises" = "Colócate de pie cerca de la máquina del cable y ponte de lado, con el brazo ligeramente por delante del muslo, y agarra el manillar. Inhala y, manteniendo el codo ligeramente flexionado, eleva el brazo por fuera del lateral del cuerpo hasta que la parte superior del brazo esté al mismo nivel que el hombro. Mantén la palma de la mano hacia abajo. Lentamente y de manera controlada, baja el brazo hasta la posición inicial.";
+
+"Upright Rows" = "Remada Vertical";
+"5 Upright Rows" = "Sube la barra hacia la barbilla, haciéndo fuerza con los codos.Cuando la parte superior de los brazos esté paralela al suelo, deja de tirar y baja la barra con la misma trayectoria. Cuando esté arriba, los codos deberán estar por encima de las muñecas.";
+
+"Dumbbell Rear Deltoid Raises" = "Elevaciones del Deltoide Posterior con Mancuernas";
+"6 Dumbbell Rear Deltoid Raises" = "Siéntate en un banco e inclínate hacia adelante con los pies juntos en el suelo. Eleva las mancuernas a los lados, manteniendo las manos rectas y vuelve lentamente a la posición inicial.";
+
+"Lateral Raises" = "Elevaciones Laterales";
+"7 Lateral Raises" = "De pie con los pies ligeramente separados. Mantén la espalda recta y los brazos colgando a los lados, con una mancuerna en cada mano:\n\n⁃ Eleva la mancuerna al nivel del hombro, manteniendo los codos ligeramente flexionados.\n\n⁃ Vuelve a la posición inicial.";
+
+"Front Raises" = "Elevaciones Frontales";
+"8 Front Raises" = "De pie con los pies ligeramente separados. Sujeta las mancuernas con las palmas hacia abajo (agarre prono), apoyándolas en los muslos o ligeramente hacia el lateral:\n\n⁃ Inhala y alterna de lado para elevar las mancuernas hacia adelante, hasta la altura de los hombros.\n\n⁃ Exhala mientras completas el movimiento.";
+
+"Barbell Front Raises" = "Elevaciones Frontales con Haltera";
+"9 Barbell Front Raises" = "De pie con las piernas ligeramente separadas. Coge la haltera con un agarre prono y apóyala en los muslos. Con la espalda recta y los abdominales contraídos:\n\n⁃ Inhala y sube la haltera hacia adelante con los brazos extendidos, hasta la altura de los ojos.\n\n⁃ Exhala mientras completas el movimiento.";
+
+"Upright Row" = "Remada Vertical";
+"10 Upright Row" = "De pie y con los pies ligeramente separados. Mantén la espalda recta. Coge la barra con un agarre prono, con las manos separadas por un palmo o un poco más:\n\n⁃ Inhala y sube la haltera recta hacia arriba, hasta que te toque la barbilla.\n\n⁃ 	Levanta los codos tanto como puedas en el momento álgido del movimiento.\n\n⁃ Exhala y devuelve la haltera a la posición inicial, lentamente.";
+
+"Low Pulley Bent-Over Lateral Raises" = "Elevaciones Laterales Inclinadas con Polea Baja";
+"11 Low Pulley Bent-Over Lateral Raises" = "De pie y con las rodillas ligeramente flexionadas. Inclínate hacia adelante, manteniendo la espalda recta y los brazos colgando. Sujeta un manillar en cada mano, con los cables cruzados el uno con el otro:\n\n⁃ Inhala y eleva los brazos a los lados hasta que las manos estén ligeramente por encima del nivel de los hombros.\n\n⁃ Exhala mientras completas el movimiento.";
+
+"Low Pulley Front Raises" = "Elevaciones Frontales con Polea Baja";
+"12 Low Pulley Front Raises" = "De pie y con los pies ligeramente separados. Coge el asa con un agarre prono, manteniendo los brazos a los lados:\n\n⁃ Inhala y eleva el brazo hasta la altura del hombro.\n\n⁃	Exhala mientras completas el movimiento. Este ejercicio trabaja los deltoides.";
+
+"Pec Deck Rear-Delt Laterals " = "Laterales de Deltoides Posteriores con Pec Deck";
+"13 Pec Deck Rear-Delt Laterals" = "Siéntate en una máquina de pec deck, mirando hacia el apoyo de la espalda, con los brazos estirados sujetando las asas:\n\n⁃ Inhala y mueve los codos hacia atrás, comprimiendo los omoplatos al final del movimiento.\n\n⁃ 	Exhala mientras completas el movimiento.";
+//Triceps
+
+"Close-Grip Bench Presses" = "Press de Banca con Agarre Cerrado";
+"1 Close-Grip Bench Presses" = "Colócate en una máquina normal de press de banco plano de pesas libres. Túmbate boca arriba y coge la haltera de encima con un agarre muy estrecho. Concéntrate en mantener una anchura de entre 15 y 20 cm en el agarre. Levanta la haltera del bastidor y bájala lentamente a una altura de unos 8 cm por encima del pecho, y vuelve a levantar la barra hasta la posición de inicio. Asegúrate de mantener los codos orientados hacia el cuerpo durante todo el movimiento.";
+
+"Push-Downs" = "Pushdowns";
+"2 Push-Downs" = "Utilizando una polea de cable alto, coge una barra corta y recta con un agarre prono. Tus manos deberán estar separadas por unos 25 cm. Coloca tus antebrazos paralelos al suelo. Mantén los pies con una separación como la anchura de los hombros y flexiona las rodillas ligeramente. Mantén los codos fijos y pegados al cuerpo y las muñecas rectas. Mantén TODO el cuerpo firme, empuja la barra todo lo que puedas hacia las piernas, bloqueando los brazos y sintiendo la contracción total de los triceps. Mantén la parte superior de los brazos pegada al cuerpo. Vuelve a la posición inicial usando los mismos movimientos. ¡No muevas ni los codos ni el torso! Quédate de pie y recto.";
+
+"Triceps Extensions" = "Extensiones de Triceps";
+"3 Triceps Extensions" = "Colocando la barra sobre los ojos, tensiona los triceps mientras mantienes los brazos en posición extendida. Mantén la parte superior de los brazos fija, en posición extendida, mientras doblas los codos y dejas bajar el peso de manera controlada hacia la frente.";
+
+"Triceps KickBacks" = "Patadas Traseras de Triceps";
+"4 Triceps KickBacks" = "Arrodillate cómodamente en un banco con la misma pierna del lado que sujetas la pesa. Con la espalda recta y la cabeza mirando al frente, levanta el peso en un ángulo de 90 grados (como se muestra). Extiende el peso manteniendo el codo completamente fijo.";
+
+"One-Arm Dumbbell Triceps Extensions" = "Extensiones de Triceps de Un Brazo con Mancuernas";
+"5 One-Arm Dumbbell Triceps Extensions" = "Extiende el brazo por completo por encima del cuerpo. Asegúrate de que el codo esté orientado hacia fuera del cuerpo. Con la mano en la que no llevas peso, sujeta tu otro brazo por debajo del codo. Baja el peso, doblando el codo. Una vez que el antebrazo esté paralelo al suelo, puedes extender el brazo completamente.";
+
+"Bar Triceps Extensions" = "Extensiones de Triceps con Barra";
+"6 Bar Triceps Extensions" = "Para empezar, colócate de pie sujetando una haltera o una barra e-z con un agarre prono (con las palmas hacia adelante) con las manos más juntas que la distancia de los hombros. Los pies deberán estar a la anchura de los hombros. Eleva la haltera por encima de la cabeza hasta que los brazos estén completamente extendidos. Mantén los codos hacia adentro. Esta es la posición inicial. Manteniendo la parte superior de los brazos junto a la cabeza y los codos hacia adentro, perpendiculares al suelo, baja la resistencia con un movimiento circular, por detrás de la cabeza, hasta que los antenbrazos toquen los biceps. Consejo: la parte superior de los brazos debe permanecer inmóvil, solo los antebrazos se deben mover. Inhala mientras realizas este movimiento.Vuelve a la posición inicial usando los triceps para elevar la haltera. Exhala mientras realizas este movimiento.";
+
+"Dumbbell Triceps Extension" = "Extensión de Triceps con Mancuernas";
+"7 Dumbbell Triceps Extension" = "Túmbate en un banco llano con una mancuerna en cada mano y los brazos extendidos y rectos desde los hombros:\n\n⁃	Inhala y flexiona los brazos lentamente.\n\n⁃ Vuelve a la posición inicial, exhalando mientras completas el movimiento.\n\n⁃ Este ejercicio trabaja por igual las tres cabezas de los triceps.";
+
+"Triceps Dips" = "Dips de Triceps";
+"8 Triceps Dips" = "Coloca las manos en el borde de un banco llano y apoya los pie en otro banco. Forma un ángulo de torso-piernas de 90 grados:\n\n⁃ Inhala y flexiona los brazos.\n\n⁃ Endereza los brazos para volver a la posición inicial, exhalando mientras completas el movimiento. Este ejercicio trabaja los triceps, los pectorales y los deltoides anteriores.";
+
+"Triceps Pushdown" = "Pushdown de Triceps";
+"9 Triceps Pushdown" = "De pie y de frente, a la máquina con las manos en la barra y los codos a los lados:\n\n⁃ Inahala y endereza los brazos, pero no separes los codos de los lados.\n\n⁃ Exhala mientras completas el movimiento.";
+
+"One Arm Reverse Pushdown" = "Pushdown Invertido de Un Brazo";
+"11 One Arm Reverse Pushdown" = "De pie y de frente a la máquina, coge el asa con un agarre supino:\n\n⁃ Inhala y endereza el brazo.\n\n⁃ Exhala mientras completas el movimiento.";
+
+"Rotating T Extension"="Extensión y Rotación con Brazos Abiertos";
+"16 Rotating T Extension"="1. Comenzar en posición de flexiones de brazos. Mantener los brazos rectos y la parte central del cuerpo en tensión.\n\n2. Desplaza el peso sobre el brazo izquierdo, gira el torso hacia la derecha, y eleva el brazo derecho hacia el techo, hasta que tu cuerpo forme una T.\n\n3. Mantén la postura durante tres segundos, vuelve al punto de partida y repite sobre el otro lado. Esto es una rep.\n";
+
+"Bodyweight Hip Extension"="Extensión de Cadera utilizando el Peso del Cuerpo";
+"15 Bodyweight Hip Extension"="1. Túmbate en el suelo. Un pie plano sobre el suelo y la pierna contraria recta. Utiliza las manos para estabilizar la posición.\n\n2. Levanta la pierna recta hasta que la parte inferior de tu espalda se separe del suelo. Mantén la posición durante un segundo. Vuelve a la posición inicial. \n";
+
+"Superman"="Supermán";
+"17 Superman"="1. Colócate a gatas con las rodillas por debajo de las caderas y separadas a la anchura de éstas, y las manos en el suelo, separadas a la anchura de los hombros y por debajo de estos. Pon la columna vertebral en posición neutral. Activa tu núcleo retractando los músculos abdominales hacia la columna vertebral.\n\n2. Sin ningún movimiento lateral y manteniendo el abdomen hacia dentro, exhala y eleva lentamente un brazo y la pierna opuesta, hasta que queden paralelos al suelo. Asegúrate de seguir el ritmo que te hayas impuesto.\n\n3. Inhala y regresa lentamente el brazo y la pierna a la posición inicial.\n\n4. Repetir el número de veces deseado y, a continuación, repetir el ejercicio con el otro brazo y pierna.\n";
+
+"Bodyweight Superman"="Supermán con Peso Corporal";
+"11 Bodyweight Superman"="1. Túmbate boca abajo en el suelo. Extiende los brazos frente a ti. \n\n2. Eleva las piernas y la parte superior del cuerpo hacia el techo. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"Dumbbells Bent Over Row"="Inclinación hacia Adelante con Mancuernas";
+"12 Dumbbells Bent Over Row"="1. Coge un par de mancuernas y dobla la cintura hacia adelante, manteniendo la espalda recta. Coloca los brazos extendidos hacia abajo y con las palmas de las manos una frente a la otra.\n\n2. Levanta las mancuernas hacia los lados del pecho y vuelve a la posición inicial manteniendo la espalda recta y estable todo el tiempo. \n";
+
+"Seated Bent Over Row"="Inclinación hacia Adelante Sentado";
+"14 Seated Bent Over Row"="1. Siéntate en el extremo de un banco con las rodillas dobladas y los pies planos sobre el suelo y coloca un par de mancuernas en el suelo a cada lado. Dobla la cintura hacia adelante todo lo que puedas, hasta que la espalda esté casi en paralelo con el suelo - el pecho debe tocar las piernas. Estírate y agarra una mancuerna con cada mano y deja que los brazos cuelguen hacia abajo.\n\n2. Gira las mancuernas hasta que las palmas de tus manos estén una frente a la otra.\n\n3. Sin mover nada más que los brazos, eleva lentamente las mancuernas hacia el cuerpo, a cada lado del pecho.\n\n4. Mantén la posición durante un segundo, y vuelve a bajar las mancuernas.\n";
+
+"Stability Ball Hyperextension"="Hiperextensiones con Pelota Suiza";
+"13 Stability Ball Hyperextension"="1. Túmbate boca abajo sobre la pelota. Toda la parte superior del cuerpo debe estar sobre la pelota. Coloca los brazos sobre la cabeza.\n\n2. Dobla la parte superior del cuerpo hacia arriba, hasta que el pecho deje de estar en contacto con la pelota. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"T-Bar Bent Over Row"="Remo Inclinado con Barra-T";
+"15 T-Bar Bent Over Row"="1. Móntate en una máquina de remo con Barra T y sujeta el manillar  con un agarre prono. Asegúrate de que tus pies estén separados a la anchura de los hombros y las rodillas ligeramente dobladas, como se muestra en la figura.\n\n2. Mantén la espalda recta y dobla la cintura hasta que la parte superior del cuerpo esté a unos 45 grados de la vertical, y la barra colgada al alcance de las manos directamente por debajo de los hombros.\n\n3. Juntando los omóplatos, levanta la barra lo más cerca que puedas de la parte inferior del pecho. Pausa, y baja lentamente la barra hasta la posición inicial.\n";
+
+"Dumbbell Biceps Curl (Hammer Grip On Bench)"="Curl de Bíceps con Mancuerna (Agarre Martillo con Banco)";
+"10 Dumbbell Biceps Curl (Hammer Grip On Bench)"="1. De pie y con la espalda recta, sujeta una mancuerna con agarre martillo. Reposa el brazo en la parte superior de un banco inclinado.\n\n2. Levanta la mancuerna sin mover la parte superior de los brazos. Mantén la posición durante un segundo. Devuelve la mancuerna a la posición inicial.\n";
+
+"Dumbbell Biceps Curl (Hammer Grip Standing)"="Curl de Bíceps con Mancuerna (Agarre Martillo de Pie)";
+"11 Dumbbell Biceps Curl (Hammer Grip Standing)"="1. De pie y con la espalda recta, sujeta las mancuernas a los lados con un agarre martillo. Mantén los brazos rectos.\n\n2. Levanta las mancuernas sin mover la parte superior de los brazos. Evita usar los hombros durante el movimiento. \n\n3. Mantén la posición durante un segundo y vuelve a la posición inicial.\n";
+
+"Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="Curl de Bíceps con Mancuerna (Concentración Agarre Supino con un Solo Brazo)";
+"12 Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="1. Dobla las rodillas ligeramente. Mantén la espalda doblada y recta. Sujeta una mancuerna con agarre supino. Coloca el codo en la parte interior del muslo.\n\n2. Levanta la mancuerna sin mover la parte superior del brazo. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"Dumbbell Biceps Curl (Underhand Grip On Bench)"="Curl de Bíceps con Mancuerna (Agarre Supino con Banco)";
+"13 Dumbbell Biceps Curl (Underhand Grip On Bench)"="1. De pie y con la espalda recta, sujeta una mancuerna con un agarre supino. Reposa el brazo en la parte superior de un banco inclinado.\n\n2. Levanta la mancuerna sin mover la parte superior de los brazos. Mantén la posición durante un segundo. Baja la mancuerna hasta la posición inicial.\n";
+
+"Dumbbell Biceps Curl Seated (Hammer Grip)"="Curl de Bíceps con Mancuerna Sentado (Agarre Martillo)";
+"14 Dumbbell Biceps Curl Seated (Hammer Grip)"="1. Sentado y con la espalda recta, deja que las mancuernas cuelguen junto a ti con un agarre martillo. Mantén los brazos rectos.\n\n2. Levanta las mancuernas sin mover la parte superior de los brazos. Evita usar los hombros durante el movimiento. Mantén la posición durante un segundo, y vuelve a la posición inicial.\n";
+
+"Dumbbell Biceps Curl Seated (Underhand Grip)"="Curl de Bíceps con Mancuerna Sentado (Agarre Supino)";
+"15 Dumbbell Biceps Curl Seated (Underhand Grip)"="1. Sentado y con la espalda recta, deja que las mancuernas cuelguen a tus lados con un agarre supino. Mantén los brazos rectos.\n\n2. Levanta las mancuernas sin mover la parte superior de los brazos. Evita usar los hombros durante el movimiento. Mantén la posición durante un segundo, y vuelve a la posición inicial.\n";
+
+"Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="Curl de Bíceps con Mancuerna y Pelota Suiza (Agarre Martillo)";
+"16 Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="1. Sujeta una mancuerna con agarre martillo. Arrodíllate detrás de la pelota. Coloca la parte superior del brazo sobre la pelota.\n\n2. Levanta la mancuerna sin mover la parte superior del brazo. Evita usar el hombro durante el movimiento. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="Curl de Bíceps con Mancuerna y Pelota Suiza (Agarre Supino)";
+"17 Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="1. Sujeta una mancuerna con agarre supino. Arrodíllate detrás de la pelota. Coloca la parte superior del brazo sobre la pelota.\n\n2. Levanta la mancuerna sin mover la parte superior del brazo. Evita utilizar el hombro durante el movimiento. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"Stability Ball Dumbbell Biceps Curl Seated"="Curl de Bíceps con Mancuerna y Pelota Suiza Sentado";
+"18 Stability Ball Dumbbell Biceps Curl Seated"="1. Sentado en posición vertical sobre una pelota suiza, sujeta un par de mancuernas con los brazos completamente extendidos a los lados. Las palmas de las manos deben mirar hacia fuera, como se muestra en la ilustración.\n\n2. Gira gradualmente los brazos a la altura del codo, elevando las mancuernas a la altura de los hombros, sin cambiar la posición de los brazos. El brazo deberá doblarse por el codo sin moverse en ninguna otra dirección. No gires las muñecas al levantar las mancuernas\n";
+
+"Stability Ball Dumbbell Biceps Preachear Curl"="Curl de Bíceps con Mancuerna Pelota Suiza Predicador";
+"19 Stability Ball Dumbbell Biceps Preachear Curl"="1. Coloca un par de mancuernas en el suelo, delante de la pelota. Arrodíllate detrás de la pelota y cúbrela con los brazos para coger las mancuernas con un agarre supino. Deja que el peso vaya hacia los talones cuando cubres la pelota con los tríceps, antebrazos hacia abajo.\n\n2. Mantén la espalda recta mientras giras las mancuernas hasta que los antebrazos estén casi perpendiculares al suelo. \n";
+
+"Underhand Grip Prone On An Incline Bench"="Boca Abajo en Banco Inclinado con Agarre Supino";
+"20 Underhand Grip Prone On An Incline Bench"="1. Túmbate hacia abajo en un banco inclinado. Deja que las mancuernas cuelguen junto a ti con un agarre supino. Mantén los brazos rectos.\n\n2. Elevar las mancuernas lentamente hacia arriba. No se debe mover las muñecas, evita girarlas y mantén la parte superior de los brazos perpendiculares al suelo.\n";
+
+"Barbell Calf Raise (Seated)"="Elevación de Gemelos con Pesa (Sentado)";
+"4 Barbell Calf Raise (Seated)"="1. Sentado y con la espalda recta, coloca la pesa en la parte inferior de los muslos. Utiliza las manos para estabilizar cualquier movimiento de la pesa.\n\n2. Eleva los gemelos poniéndote de puntillas. Mantén la posición durante un segundo. Baja los gemelos.\n";
+
+"Barbell Calf Raise With Single Leg (Seated)"="Elevación de Gemelos con Pesa Una Sola Pierna (Sentado)";
+"5 Barbell Calf Raise With Single Leg (Seated)"="1. Sentado y con la espalda recta, coloca la pesa sobre la parte inferior de uno de tus muslos. Utiliza las manos para estabilizar cualquier movimiento de la pesa.\n\n2. Eleva los gemelos poniéndote de puntillas. Mantén la posición durante un segundo. Baja los gemelos.\n\n3. Repite el mismo ejercicio con la otra pierna.\n";
+
+"Dumbbell Calf Jump"="Saltos de Gemelos con Mancuernas";
+"6 Dumbbell Calf Jump"="1. De pie y con los pies separados a la anchura de las caderas. Coge un par de mancuernas y sujétalas a los lados del cuerpo con los brazos extendidos.\n\n2. Dobla las rodillas unos 45 grados y salta tan alto como puedas. Apunta hacia abajo con los dedos de los pies mientras saltas.\n\n3. Deja que las rodillas se doblen 45 grados cuando aterrices, y salta de nuevo inmediatamente.\n";
+
+"Dumbbell Calf Raise (Seated)"="Elevación de Gemelos con Mancuernas (Sentado)";
+"7 Dumbbell Calf Raise (Seated)"="1. Sentado y con la espalda recta, coloca una mancuerna en la parte inferior de cada muslo. Utiliza las manos para estabilizar cualquier movimiento.\n\n2. Eleva los gemelos poniéndote de puntillas. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"Standing Barbell Calf Raise"="Elevación de Gemelos con Pesa de Pie";
+"8 Standing Barbell Calf Raise"="1. De pie y con la espalda recta, coloca la pesa encima de los hombros. Sujeta la pesa con un agarre prono. La distancia entre las manos debe ser más grande que la anchura de los hombros.\n\n2. Elevar los gemelos poniéndote de puntillas. Mantén la posición durante un segundo. Baja los gemelos.\n";
+
+"Standing Dumbbell Calf Raise"="Elevación de Gemelos con Mancuernas de Pie";
+"9 Standing Dumbbell Calf Raise"="1. De pie y con los pies separados a la anchura de las caderas, sujeta una mancuerna en cada mano, con los brazos a los costados.\n\n2. Manteniendo la espalda recta, elévate lentamente sobre las puntas de los pies, subiendo los talones lo más alto que puedas.\n\n3. Pausa arriba y baja los talones lentamente hasta el suelo.\n";
+
+"Single Arm Pushup"="Flexión de Un Solo Brazo";
+"19 Single Arm Pushup"="1. Colócate en la posición de inicio para flexiones: boca abajo, con los pies juntos y las manos en el suelo, justo por debajo del nivel de los hombros y a la anchura de éstos. Separa los pies, un poco más que la anchura de los hombros.\n\n2. Levanta una mano y colócala en la parte inferior de la espalda,\n\n3. Con la otra mano, empuja el cuerpo hacia arriba, manteniendo la espalda recta. Detente justo antes de que se \"bloquee\" el codo en la parte superior del movimiento.\n\n4. Baja el cuerpo con un solo brazo. Para mantener el equilibrio, gira el torso ligeramente al lado contrario del brazo que está apoyado en el suelo.\n\n5. Continúa bajando hasta que la barbilla esté a un puño de distancia del suelo. Al haber girado el torso, tu barbilla estará ahora más o menos donde estaba la mano de detrás de la espalda cuando empezaste el ejercicio. Esta es una repetición.\n\n6. Vuelve al paso uno y repite con el otro brazo.\n";
+
+"Decline Pushup"="Flexiones Declinadas";
+"12 Decline Pushup"="1. Coloca los pies en un banco o un escalón elevado y ponte en la posición inicial para flexiones.\n\n2. Baja el cuerpo hasta que tu pecho casi toque el suelo, haz una pausa y vuelve a la posición inicial. Mantén una postura adecuada en todo momento, evitando que la cadera quede colgando, mantén el núcleo rígido apretando los músculos abdominales, estira las piernas y carga el peso en los dedos de los pies.\n";
+
+"Dive Bomber Pushup"="Flexiones Bombardero";
+"13 Dive Bomber Pushup"="1. Colócate en la posición inicial para flexiones, pero asegúrate de que tus manos están más adelante y más separadas que la anchura de los hombros. Eleva las caderas y mueve los pies hacia adelante todo lo que puedas. Mantén la espalda y las piernas recta durante todo el movimiento.\n\n2. Mueve el pecho hacia abajo y hacia adelante hasta casi tocar el suelo. Los hombros deben estar en línea con las manos.\n\n3. Haz una pausa, y empujar las caderas hacia abajo y estira los brazos. Otra pausa, y realiza el movimiento hacia atrás, hasta la posición inicial.\n";
+
+"Dumbbell Floor Chest Press"="Press Pectoral con Mancuernas Suelo";
+"14 Dumbbell Floor Chest Press"="1. Túmbate en el suelo. Coge las mancuernas con un agarre prono. Reposa la parte superior de los brazos en el suelo con las mancuernas apuntando hacia el techo.\n\n2. Extiende completamente los brazos hacia el techo. Mantén la posición durante un segundo. Mantén toda la espalda en el banco en todo momento. Evita mover las piernas. Vuelve a la posición inicial.\n";
+
+"Dumbbell Pushup"="Flexiones con Mancuernas";
+"15 Dumbbell Pushup"="1. Con dos mancuernas en las manos, separadas a la anchura de los hombros en el suelo delante de ti, arrodíllate y cógelas. Mantén los brazos rectos, las piernas extendidas, los pies bastante juntos y bloquea los codos.\n\n2. Baja el cuerpo hasta el suelo, doblando los codos y con la espalda recta.\n\n3. Empuja hacia arriba hasta que los brazos estén rectos y los codos desbloqueados. Repite.\n";
+
+"Incline Pushup"="Flexiones Inclinadas";
+"16 Incline Pushup"="1. Coloca las manos sobre un banco y adopta la posición de inicio de flexiones.\n\n2. Baja el cuerpo hasta que tu pecho casi toque el banco, haz una pausa y empuja el cuerpo hacia arriba hasta la posición inicial. Mantén una forma adecuada impidiendo que tus caderas cuelguen en todo momento, mantén el torso rígido apretando los músculos abdominales, y estira las piernas mientras cargas el peso sobre los dedos de los pies. Repite.\n";
+
+"Medicine Ball Pushup (Alternating)"="Flexión con Pelota Medicinal (Alternando)";
+"17 Medicine Ball Pushup (Alternating)"="1. Túmbate con las manos en el suelo. Coloca las manos junto a parte inferior del pecho. La distancia entre las manos debe ser un poco más grande que la anchura de los hombros. Elévate con los brazos hasta que sólo tus manos y pies estén en el suelo. Mantén la espalda recta. Coloca la pelota medicinal bajo una mano. Con las manos apuntando ligeramente hacia afuera.\n\n2. Baja el cuerpo hasta que quede a unos pocos centímetros del suelo, doblando los codos. Los codos deben doblarse hacia los pies. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n\n3. Coloca la pelota bajo la otra mano y repite los mismo movimientos.\n";
+
+"Modified Pushup"="Flexiones Modificadas";
+"18 Modified Pushup"="1. De rodillas y con las manos en el suelo un poco más separadas que la anchura de los hombros, cruza los tobillos por detrás, como se muestra en la ilustración.\n\n2. Baja el cuerpo hasta que el pecho casi toque el suelo, haz una pausa y sube hasta la posición inicial. Mantén tu núcleo rígido, apretando los músculos abdominales.\n";
+
+"Stability Ball Flat Dumbbell Chest Press"="Press Pectoral con Mancuernas y Pelota Suiza Plano";
+"21 Stability Ball Flat Dumbbell Chest Press"="1. Túmbate sobre la pelota. Con los pies en el suelo Sujeta las mancuernas con un agarre prono. Mantenlas junto al pecho.\n\n2. Extiende completamente los brazos frente a ti. Mantén la posición durante un instante. Vuelve a la posición inicial.\n";
+
+"Stability Ball Flat Dumbbell Fly"="Mosca con Mancuernas y Pelora Suiza Plana";
+"20 Stability Ball Flat Dumbbell Fly"="1. Túmbate sobre la pelota. Con los pies en el suelo. Sujeta dos mancuernas con un agarre martillo. Extiende los brazos completamente sobre el pecho.\n\n2. Doblando ligeramente los codos, baja las mancuernas a cada lado hasta que estén junto a la parte superior de tu cuerpo. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"Stability Ball Pushup"="Flexiones con Pelota Suiza";
+"22 Stability Ball Pushup"="1. Colócate en la posición inicial para flexiones. Para que sea más difícil, coloca las espinillas y los pies sobre la pelota. Acuérdate de sujetar el peso de tu cuerpo con la región metatarsiana de los pies y las manos, con éstas separadas a la anchura de los hombros y con las palmas contra el suelo.\n\n2. Baja el torso hasta que tu pecho se encuentre a medio centímetro del suelo. Elévate de nuevo hasta la posición inicial.\n";
+
+"Weighted Pushup"="Flexiones con Peso";
+"23 Weighted Pushup"="1. Colócate en la posición de inicio para flexiones, con las manos por debajo de los hombros. Esta vez tendrás que pedir a un compañero que te coloque un disco en la espalda entre los omóplatos.\n\n2. Mantén el cuerpo recto mientras bajas, doblando el codo hasta que tu pecho toque el suelo.\n\n3. Haz una pausa, y empuja el cuerpo hacia arriba.\n";
+
+"Dumbbell Wrist Twist"="Giro de Muñeca con Mancuerna";
+"3 Dumbbell Wrist Twist"="1. De pie, con unas mancuernas ligeras en cada mano y los brazos a los lados, con las palmas de las manos un frente a la otra por detrás del cuerpo. Dobla los brazos para girar las mancuernas hacia arriba, hasta que los antebrazos estén paralelos al suelo. Esta es la posición de inicio.\n\n2. Gira las muñecas hasta que las palmas miren al techo y vuelve a girarlas hasta que miren al suelo una vez más. Esto es una repetición.\n";
+
+"Standing Wrist Curl"="Giro de Muñeca De Pie";
+"4 Standing Wrist Curl"="1. Toma una pesa de detrás de ti con un agarre supino y manteniendo los brazos rectos. Deja colgar la pesa de manera que se apoye en los dedos extendidos.\n\n2. Flexiona las muñecas para elevar le pesa lo más alto que puedas.\n\n3. Invierte el movimiento para bajar la pesa.\n";
+
+"Barbell Hack Squat"="Sentadilla Posterior con Pesa";
+"10 Barbell Hack Squat"="1. De pie con los brazos a la anchura de los hombros. Sujeta la pesa con un agarre prono. Coloca la pesa detrás de la rodilla. La distancia entre las manos debe ser más grande que la anchura de los hombros.\n\n2. Baja el cuerpo, doblando las rodillas. La espalda debe permanecer recta a lo largo de todo el movimiento. Detente cuando tus muslos estén paralelos al suelo o cuando la pesa toque el suelo. Cuando vuelvas a la posición inicial, genera la energía con la parte inferior de la espalda.\n";
+
+"Barbell Lunge"="Desplantes con Pesa";
+"12 Barbell Lunge"="1. Empieza por colocar una pesa en la parte superior de la espalda, utiliza un agarre prono, un poco más ancho que los hombros.\n\n2. De pie, con los pies separados unos 20cm y los dedos mirando hacia delante.\n\n3. Da un paso adelante (unos 20cm) manteniendo el abdomen apretado y la parte superior del cuerpo recta.\n\n4. Baja lentamente una rodilla como si te fueras a arrodillar, y mantén la otra doblada en un ángulo de 90 grados, no dejes que la rodilla toque el suelo.\n\n5. Baja el cuerpo justo por encima del suelo, y mantén la postura un momento, antes de volver a la posición inicial. Repite con la otra pierna.\n";
+
+"Barbell Squat (Assisted)"="Sentadillas con Pesa (Asistidas)";
+"13 Barbell Squat (Assisted)"="1. De pie, recto y con un banco plano a tu espalda. Con los pies separados a la anchura de los hombros. Coloca la pesa en la parte posterior de los hombros. Sujeta la pesa con un agarre prono. La distancia entre las manos debe ser más grande que la anchura de los hombros. Mueve los pies para que apunten ligeramente hacia afuera.\n\n2. Baja el cuerpo, doblando las rodillas. La espalda debe estar recta durante todo el movimiento. Detente cuando tus muslos estén paralelos al suelo o cuando tu trasero toque el banco. Cuando vuelvas a la posición inicial, genera energía de la parte inferior de la espalda.\n";
+
+"Barbell Squat Overhead"="Sentadilla con Pesa Sobre la Cabeza";
+"14 Barbell Squat Overhead"="1. De pie, recto y con los pies separados a la anchura de los hombros. Sujeta la pesa con un agarre prono. La distancia entre las manos debe ser más grande que la anchura de los hombros. Mueve los pies para que apunten ligeramente hacia afuera. Levanta la pesa por encima de la cabeza con los brazos totalmente extendidos.\n\n2. Baja el cuerpo, doblando las rodillas. La espalda debe estar recta en todo momento. Detente cuando tus muslos estén paralelos al suelo. Al volver a la posición inicial, genera energía con la parte inferior de la espalda.\n";
+
+"Bench Jump"="Salto con Banco";
+"15 Bench Jump"="1. De pie delante de un banco.\n\n2. Salta sobre el banco e inmediatamente vuelve a saltar hacia atrás, hasta la posición inicial en el suelo.\n\n3. Repite varias veces. \n";
+
+"Bulgarian Split Squat"="Sentadilla Búlgara Partida";
+"16 Bulgarian Split Squat"="1. En posición vertical, a unos 75cm delante de un banco, con una mancuerna en cada mano. Extiende el pie derecho hacia atrás y reposa la parte superior del pie sobre el banco.\n\n2. Mantén la espalda recta y la cabeza erguida, mientras doblas lentamente la pierna izquierda y te colocas en posición de desplante. Deja de bajar el cuerpo cuando tu muslo izquierdo esté más o menos paralelo al suelo.\n\n3. Vuelve lentamente hacia arriba hasta que la pierna izquierda esté recta de nuevo y repite. No olvides cambiar de pierna y ejercitar la otra también.\n";
+
+"Bulgarian Split Squat (No Weights)"="Sentadilla Búlgara Partida (Sin Pesos)";
+"17 Bulgarian Split Squat (No Weights)"="1. Coloca un pie en el suelo, a unos 90cm delante de una silla, y el otro pie en una silla detrás de ti, como se muestra en la ilustración. Las manos deben estar detrás de la cabeza. \n\n2. Utiliza el pie delantero para mantener el equilibrio mientras doblas ambas rodillas para bajar el cuerpo, hasta que la rodilla trasera esté a unos pocos centímetros del suelo y la pierna delantera doblada aproximadamente 90 grados. El resto del cuerpo debe formar una línea recta. Termina las repeticiones, cambia la posición de las piernas y repite.\n";
+
+"Dumbbell Side Lunge"="Desplante Lateral con Mancuerna";
+"18 Dumbbell Side Lunge"="1. De pie, con un par de mancuernas a los lados y los brazos extendidos hacia abajo.\n\n2. Da un paso a un lado y baja el cuerpo, inclinando ligeramente el torso hacia adelante. Mantén la pierna recta fija durante todo el movimiento.\n\n3. Empuja la pierna doblada para volver a la posición inicial. Repite con la otra pierna.\n";
+
+"Good Morning"="Buenos Días";
+"19 Good Morning"="1. Sujeta una pesa con agarre prono y apóyala en la parte superior de la espalda, no en el cuello. Separa los pies a la anchura de los hombros y dobla ligeramente las rodillas, manteniendo la espalda recta. \n\n2. Poco a poco, inclínate hacia adelante usando las caderas para bajar el pecho, manteniendo el arco natural de la parte baja de la espalda. Mantén la cabeza erguida y el mismo ángulo en las rodillas.\n\n3. Levanta la parte superior del cuerpo hasta la posición inicial.\n";
+
+"One Arm Side Deadlift"="Peso Muerto Lateral de Un Brazo";
+"20 One Arm Side Deadlift"="1. De pie junto a una pesa en el suelo.\n\n2. Agarra la barra con un agarre prono en el centro. \n\n3. Agachándote, como si estuvieras haciendo una sentadilla, doblate hasta que tus muslos estén paralelos al suelo. \n\n4. Extiende las piernas lentamente a la vez que enderezas el cuerpo, contrayendo los abdominales.\n";
+
+"Single Leg Squat"="Sentadilla de Una Pierna";
+"21 Single Leg Squat"="1. De pie con los pies separados a la anchura de los hombros. Levanta la pierna más fuerte o dominante delante de ti, recta, lo más alto que puedas.\n\n2. Contrae el estómago, empuja las caderas hacia atrás y haz una sentadilla lo más baja que puedas, a la vez que mantienes el torso recto. El talón de la pierna delantera puede tocar el suelo al final de la sentadilla, si puedes llegar a él.\n\n3. Vuelve a la posición inicial y exhala. Haz todas las repeticiones con la pierna no dominante, y luego repite con la dominante.\n";
+
+"Arnold Press"="Press Arnold";
+"14 Arnold Press"="1. Siéntate en un banco plano y sujeta un par de mancuernas a la altura de los hombros. Las palmas de las manos mirando hacia dentro y los codos apuntando a los laterales.\n\n2. Gira ambas muñecas hacia afuera, hasta que las palmas miren en dirección contraria a ti. Al mismo tiempo, extiende completamente los brazos sobre la cabeza. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"Barbell Front Raise"="Elevación Delantera con Pesa";
+"15 Barbell Front Raise"="1. Sujeta una pesa con un agarre prono a la anchura de los hombros y colócate de pie con la pesa colgando delante de tus muslos. Los pies deben estar separados a la anchura de los hombros y las rodillas ligeramente dobladas. Contrae los abdominales y todos los músculos de la parte superior del cuerpo, y dobla ligeramente los codos.\n\n2. Eleva la barra delante de ti hasta que los brazos estén paralelos al suelo.\n\n3. Haz una pausa y vuelve a la posición inicial.\n";
+
+"Dumbbell Lateral Raise With Arms Bent"="Elevación Lateral con Mancuerna y Brazos Doblados";
+"16 Dumbbell Lateral Raise With Arms Bent"="1. Mantén las piernas separadas a la anchura de los hombros. Con las manos colgando a los lados.\n\n2. Con los brazos perfectamente rectos, levanta lentamente las mancuernas hasta el nivel de los hombros y, al mismo tiempo, dobla los brazos hasta que formen un ángulo de 90 grados y los antebrazos estén paralelos al cuerpo.  Mantén las palmas de las manos hacia abajo.\n\n3. Con los codos doblados, vuelve lentamente a la posición inicial y repite tantas veces como desees.\n";
+
+"Dumbbell Scarecrow"="Espantapájaros con Mancuernas";
+"17 Dumbbell Scarecrow"="1. Mirando al frente y con los pies separados a la anchura de los hombros, sujeta las mancuernas delante de ti con un agarre prono. Eleva los brazos a los lados hasta que la parte superior esté paralela al suelo.\n\n2. Gira los codos hacia afuera, hasta que los antebrazos apunten hacia arriba. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"Dumbbell Shoulder Press"="Press de Hombros con Mancuernas";
+"18 Dumbbell Shoulder Press"="1. De pie y con los pies separados a la anchura de los hombros. Sujeta las mancuernas con un agarre prono. Coloca las mancuernas junto a los laterales de la cabeza.\n\n2. Eleva las mancuernas hasta que los brazos estén completamente extendidos. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"Front Weighted Raise"="Elevación Delantera con Peso";
+"19 Front Weighted Raise"="1. De pie, con la espalda recta, sujeta el peso con las dos manos. Coloca el peso delante de los muslos. \n\n2. Extiende los brazos por delante de ti hasta que estén paralelos al suelo.  Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"Lateral Weighted Raise"="Elevación Lateral con Peso";
+"20 Lateral Weighted Raise"="1. Mirando al frente, con la espalda recta, sujeta el peso con una sola mano. Coloca el peso a un lateral.\n\n2. Extiende el brazo en el lateral. Mantén el brazo recto. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+"Military Press Behind The Neck (Standing)"="Press Militar Detrás del Cuello (De Pie)";
+"21 Military Press Behind The Neck (Standing)"="1. De pie, sujeta una pesa por detrás de la cabeza y a la altura de los hombros, con las manos sepradas a la anchura de los hombros, codos doblados y palmas mirando hacia adelante.\n\n2. Sube la pesa por encima de la cabeza, extendiendo completamente los brazos. Mantén la espalda recta durante todo el movimiento.  \n";
+
+"Seated Dumbbell Front Raise"="Elevación Delantera con Mancuerna Sentado";
+"22 Seated Dumbbell Front Raise"="1. Coge un par de mancuernas y siéntate en un banco inclinado con los brazos rectos a cada lado y los pulgares hacia adentro.\n\n2. Con los codos rectos, levanta las pesas hacia arriba y hacia adelante hasta que las manos estén al mismo nivel que los ojos.\n\n3. Mantén el reverso de las muñecas plano y los codos rectos durante todo el movimiento. Vuelve a la posición inicial.\n";
+
+"Stability Ball Lateral Raise"="Elevación Lateral con Pelota Suiza";
+"23 Stability Ball Lateral Raise"="1. Siéntate en una pelora suiza con una mancuerna ligera en cada mano. Mantén las piernas separadas a la anchura de los hombros para mantener el equilibrio. Las manos deben estar colgando a los lados.\n\n2. Con los brazos perfectamente rectos, levante lentamente las pesas hasta la altura de los hombros. Mantén las palmas hacia el suelo.\n\n3. Con los codos doblados, baja lentamente hasta volver a la posición inicial y repite el número deseado de veces.\n";
+
+"Diamond Pushup"="Flexiones Diamante";
+"10 Diamond Pushup"="1. Colócate en la posición estándar para flexiones, pero con las manos directamente debajo del pecho y los dedos índice y pulgar extendidos y tocándose, de manera que formen un \"diamante\".\n\n2. Mantén la espalda recta mientras bajas el cuerpo hasta que el pecho casi toca las manos.\n\n3. Haz una pausa, y empuja el cuerpo hacia arriba hasta la posición de inicio.\n";
+
+"Diamond Pushup On Bench"="Flexiones Diamante con Banco";
+"12 Diamond Pushup On Bench"="1. En la posición estándar para flexiones, pero con las manos colocadas directamente bajo el pecho y con los dedos índice y pulgar extendidos y tocándose, de manera que formen un \"diamante\".\n\n2. Mantén los dedos de los pies en un banco plano. Esto pondrá más presión en las manos durante el ejercicio.\n\n2. Mantén la espalda recta mientras bajas el cuerpo hasta que tu pecho casi toque las manos.\n\n3. Haz una pausa, y vuelve a subir hasta la posición inicial.\n";
+
+"Dumbbell Row Kickback"="Remo Reverso con Mancuernas";
+"13 Dumbbell Row Kickback"="1. De pie, con los pies separados a la anchura de los hombros y las rodillas ligeramente dobladas. Sujeta una mancuerna ligera en cada mano y dóblate hacia adelante por la cintura hasta que el torso esté casi recto y pon las palmas de las manos hacia adentro, como se ve en la ilustración.\n\n2. Eleva las mancuernas a los lados del pecho, con los brazos doblados en ángulo recto. Lo ideal es que la parte superior de los brazos esté paralela al suelo.\n\n3. Realiza una maniobra reversa de manera inmediata extendiendo los brazos por detrás de ti.\n\n4. Contrae los tríceps, dobla los codos para bajar las pesas hasta que queden a los lados del pecho una vez más.\n\n5. Baja las mancuernas hasta que tus brazos vuelvan a estar rectos hacia abajo.\n";
+
+"Lying Single Arm Pushup"="Flexiones de Un Solo Brazo Tumbado";
+"14 Lying Single Arm Pushup"="1. Túmbate de lado con las rodillas ligeramente dobladas y las piernas una encima de la otra. Sujeta la cintura con el brazo inferior y coloca la otra mano en el suelo, delante de ti, con el brazo ligeramente doblada.\n\n2. Comienza a enderezas ese brazo, empujando el cuerpo en dirección contraria al suelo - asegúrate de que estás usando los tríceps para levantar el cuerpo, no la espalda. Haz una pausa y vuelve a la posición inicial.\n\n3. Después de varias repeticiones, cambia de lado y repite con el otro brazo.\n";
+
+"Seated Triceps Extension"="Extensión de Trícpes Sentado";
+"15 Seated Triceps Extension"="1. Siéntate en un banco con un par de mancuernas. Sujétalas con los brazos extendidos sobre la cabeza y con las palmas de las manos una frente a la otra.\n\n2. Mantén la parte superior de los brazos estable mientras bajas las mancuernas por detrás de la cabeza hasta que tus antebrazos hayan dejado de estar paralelos al suelo.\n\n3. Haz una pausa, y endereza los brazos para volver a la posición inicial.\n";
+
+"Stability Ball French Press"="Press Francés con Pelota Suiza";
+"16 Stability Ball French Press"="1. Túmbate con la espalada en una pelota suiza y centra la espalda en ella. Sujeta un par de mancuernas y pon los brazos rectos sobre el pecho.\n\n2. Dobla los codos, bajando las mancuernas hasta los laterales de la cabeza.\n\n3. Endereza los brazos, elevando las mancuernas a la posición inicial.\n";
+
+"Stability Ball Pullover"="Pullover con Pelota Suiza";
+"17 Stability Ball Pullover"="1. Túmbate de espaldas en una pelota suiza. Sujeta una mancuerna y pon los brazos rectos sobre el pecho.\n\n2. Dobla los codos, bajando la mancuerna hasta el centro de la cabeza.\n\n3. Endereza los brazos, elevando la mancuerna hasta la posición inicial.\n";
+
+"Stability Ball Triceps Extension"="Extensión de Tríceps con Pelota Suiza";
+"18 Stability Ball Triceps Extension"="1. Túmbate de espaldas sobre la pelota. Con los pies en el suelo. Sujeta una mancuerna con ambas manos. Extiende completamente los brazos por encima de la cabeza.\n\n2. Sin mover la parte superior de los brazos, baja la mancuerna hasta que quede por detrás de la cabeza.  Evita usar los codos. Mantén la posición durante un segundo. Vuelve a la posición inicial.\n";
+
+//EXTRA
+
+
+"3 DAY GYM WORKOUT PLAN BY VGFIT" = "PLAN DE EJERCICIO DE 3 DÍAS POR VGFIT";
+
+
+
+"3 DAY HOME WORKOUT PLAN BY VGFIT" = "PLAN DE EJERCICIO DE 3 DÍAS EN CASA POR VGFIT";
+
+
+
+"FAT BURNER ROUTINE" = "RUTINA PARA QUEMAR GRASA";
+
+
+
+"ABS BURNER" = "TRABAJA LOS ABDOMINALES";
+
+
+
+"CHEST POWER WORKOUT PLAN" = "PLAN DE EJERCICIOS PARA EL PECHO";
+
+
+
+"ARMS POWER WORKOUT PLAN" = "PLAN DE EJERCICIO PARA LOS BRAZOS";
+
+
+
+"LEGS POWER WORKOUT PLAN" = "PLAN DE EJERCICIO PARA LAS PIERNAS.";
+
+
+
+"SHOULDERS POWER WORKOUT PLAN" = "PLAN DE EJERCICIO PARA LOS HOMBROS.";
+
+
+
+"BACK POWER WORKOUT PLAN" = "PLAN DE EJERCICIO PARA POTENCIAR LA ESPALDA";
+
+"FULL BODY STREACH PLAN"= "PLAN DE ESTIRAMIENTOS PARA TODO EL CUERPO"; 
+
+
+
+
+
+"Barbell Squat 2" = "Sentadillas con pesas 2";
+
+"Barbell Squat 2 extra"= "Grupo de músculos: Cuádriceps\
+\
+Paso 1: Ponte de pie con los pies a la misma distancia que tus hombros Coloca las pesas en la parte posterior de tus hombros. Aguanta las pesas por el agarre. La distancia entre tus manos debería ser más grande que la distancia entre tus hombros. Ajusta tus pies para que estén situados ligeramente hacia fuera.\
+\
+Baja tu cuerpo doblando las rodillas. Tu espalda debe estar recta durante todo el movimiento. Para cuando tus muslos estén en paralelo con el suelo. Cuando vuelvas a la posición de inicio, genera energía con la parte inferior de tu espalda.";
+
+
+
+
+"Dumbbell Lunge 2" = "Estocada con pesas";
+
+"Dumbbell Lunge 2 extra"= "Grupo de músculos: Cuádriceps\
+\
+Paso 1: Ponte de pie con los pies a la misma distancia que tus hombros. Aguanta las pesas a tu lado, agarrándolas sin esfuerzo.\
+\
+Paso 2: Mientras mantienes tu espalda recto, haz un paso hacia delante con un pie y baja tu cuerpo doblando las rodillas. Para cuando el muslo en frete de ti esté paralelo con el suelo. Mantén la posición durante un segundo. Haz un paso hacia atrás y vuelve a la posición original.";
+
+
+
+
+"Bosu Crossover Lunge" = "Estocada con Bosu";
+
+"Bosu Crossover Lunge extra"= "Grupo de músculos: Cuádriceps\
+\
+Paso 1: Ponte de pie con tus brazos a tus lados. El BOSU se debería colocar a un par de pasos de distancia, hacia un lado.\
+\
+Paso 2: Da un paso al frente y hacia al lado, encima del BOSU, bajando tu cuerpo para que pueda doblarte sobre tu rodilla mientras mantienes la otra pierna recta.\
+\
+Paso 3: Empuja con el pie que tienes doblado para volver a tu posición iniciar y repite. Para hacer el ejercicio más desafiante, aguanta una pesa en casa mano mientras repites esta rutina.";
+
+
+
+
+"Stability Ball Split Squat" = "Sentadillas con pelota de equilibrio";
+
+"Stability Ball Split Squat extra"= "Grupo de músculos: Cuádriceps\
+\
+Paso 1: Estando de pie, coloca un pie en el suelo. Mantén tus brazos rectos, como se muestra en la imagen.\
+\
+Paso 2: Baja tu cuerpo hacia el suelo, doblando tus caderas y rodillas y haciendo que el torso se incline ligeramente hacia delante.\
+\
+Paso 3: Vuelve a la posición inicial empujando con el pie que no está sobre la pelota de equilibrio.\
+\
+Paso 4: Repite con la otra pierna";
+
+
+
+
+"Balance Ball Front Raise" = "Levantamiento de pesas sobre pelota de equilibrio.";
+
+"Balance Ball Front Raise extra"= "Grupo de músculos: Deltoides.\
+\
+Paso 1: Siéntate sobre una pelota de equilibrio con una pesa ligera en cada mano. Mantén tus piernas juntas y los pies llanos sobre el suelo.\
+\
+Paso 2: Mantén tus brazos rectos y poco a poco empieza a subir las pesas delante de ti hasta que el brazo esté paralelo al suelo.\
+\
+Paso 3: Mantén la pesa delante tuyo durante un segundo y entonces bájalas poco a poco.";
+
+
+
+
+"Bar Bench Press Incline"= "Levantamiento de pesas en un banco inclinado";
+
+"Bar Bench Press Incline extra" = "Grupo de músculos:\
+\
+Paso 1: Estírate sobre el banco inclinado. Aguanta las pesas por el agarre. La distancia entre tus manos ha de ser un poco mayor que la distancia entre tus hombros. Aguanta las pesas con los brazos extendidos al máximo. Las pesas han de estar elevadas directamente sobre el centro de tu pecho.\
+\
+Paso 2: Baja las pesas hacia la parte inferior de tu pecho mientras mantienes tus codos cerca de tu cuerpo. La barra de pesas debería tocar tu pecho ligeramente al final del movimiento. No empujes la barra de pesas de sobre tu pecho. Mantenla allí durante un segundo y vuelve a la posición original. Mantén tu espalda contra el banco en todo momento. No hagas ningún movimiento con tus piernas.";
+
+
+
+
+"Dumbbell Decline Bench Press" = "Levantamiento de pesas en un banco reclinado";
+
+"Dumbbell Decline Bench Press extra"= "Grupo de músculos: Pectorales\
+\
+Paso 1: Estírate en el banco reclinado. Aguanta las pesas por el agarre. Mantén tus brazos extendidos al máximo.\
+\
+Paso 2: Baja las pesas hacia tu pecho mientras mantienes tus codos cerca de tu cuerpo. Mantén durante un segundo y vuelve a la posición de origen. Mantén la espalda contra en banco en todo momento. No hagas ningún movimiento con tus piernas.";
+
+
+
+
+"Dumbbell T-Push-Up" = "Flexiones en forma de T con pesas";
+
+"Dumbbell T-Push-Up extra"= "Grupo de músculos: Pectorales\
+\
+Paso 1: Estírate boca abajo contra el suelo con las palmas de las manos contra el suelo. Agarra las pesas de forma neutral. Posiciona las manos al lado de la parte inferior de tu pecho. La distancia entre tus manos debería ser un poco mayor a la distancia entre tus hombros. Levanta tu cuerpo con tus brazos para que solo tus manos y dedos de los pies estén contra el suelo. Mantén la espalda recta. Tus manos debería apuntar hacia fuera ligeramente.\
+\
+Paso 2: Baja tu cuerpo hasta que tu pecho esté a centímetros del suelo, hazlo doblando tus codos, los cuales deberían doblarse en dirección a tus pies. Mantén durante un segundo.\
+\
+Paso 3: Vuelve a la posición de origen.\
+\
+Paso 4: Levanta un brazo con la pesa apuntando hacia el techo. Mantén durante un segundo.\
+\
+Paso 5: Vuelve a la posición inicial.";
+
+
+
+
+"EZ Curl Bar Biceps Curl" = "Ejercicio de bíceps con barra de pesas curvada";
+
+"EZ Curl Bar Biceps Curl extra"= "Grupo de músculos: Bíceps\
+\
+Paso 1: Mientras estás con la espalda recta, mantén tu barra de pesas con las manos a la misma distancia que tus hombros.\
+\
+Paso 2: Levanta la barra de pesas mientras mantienes la parte superior de tu brazo en su lugar. No utilices la espalda para realizar este movimiento. Mantén durante un segundo. Baja tus brazo hacia la posición original.";
+
+
+
+
+"EZ Curl Bar Deadlift" = "Levantamiento de pesas con barra de pesas curvada";
+
+"EZ Curl Bar Deadlift extra"= "Grupo de músculos: Parte baja de la espalda\
+\
+Paso 1: Coloca la barra de pesas en el suelo. Colócate delante de la barra de forma que tus piernas estén cerca de la barra. Asegúrate que tus pies están a la misma distancia que tus hombros. Usando poco las caderas, baja el cuerpo para coger la barra- Dobla tus rodillas ligeramente. Mira hacia delante.\
+\
+Paso 2: Coge la barra y súbela hasta que estés de pie de nuevo. Mantén durante un segundo y vuelve a la posición inicial.";
+
+
+
+
+"Dumbbell Row" = "Levantamiento de pesas en cuclillas";
+
+"Dumbbell Row extra"= "Grupo de músculos: Dorsales\
+\
+Paso 1: Dobla tus rodillas ligeramente. Mantén la espalda doblada y recta. Aguanta las pesas a cada lado, de forma neutra.\
+\
+Paso 2: Levanta las pesas de forma vertical hacia tu pecho. No saques los codos hacia fuera al realizar el ejercicio. Vuelve a la posición inicial.";
+
+
+
+
+"Standing Triceps Extension" = "Extensión de tríceps de pie";
+
+"Standing Triceps Extension extra"= "Grupo de músculos: Tríceps\
+\
+Paso 1: Ponte de pie y coloca tus pies a la misma distancia que tus hombros, aguantando la pesa sobre tu cabeza con ambas manos como se muestra en la ilustración. Haz que te mantenga en el aire en la parte superior de tu espalda con los codos doblados.\
+\
+Paso 2: Levanta la pesa por encima de tu cabeza extendiendo los codos mientras reposas las muñecas. Cuando esté arriba del todo, mantén y vuelve a la posición de origen de forma controlada. Repite.";
+
+
+
+
+"Bench Dip" = "Fondos de tríceps con banco";
+
+"Bench Dip extra"= "Grupo de músculos: Tríceps\
+\
+Paso 1: Coloca las palmas de las manos contra un banco, mirando hacia abajo y posiciónate como se ilustra. Mantén las piernas relativamente rectas delante de ti con ambos tacones contra el suelo firmemente. Estira los brazos y mueve tu torso hacia delante para que tu espalda esté delante del banco.\
+\
+Paso 2: Dobla tus brazos, bajando poco a poco como se indica. Puedes hacer que el ejercicio sea más fácil doblando las rodillas y poniendo tus pies más cerca del banco.";
+
+
+
+
+"Bodyweight Open Jump" = "Saltos abiertos";
+
+"Bodyweight Open Jump extra"= "Grupo de músculos: Cuádriceps\
+\
+Paso 1: Ponte de pie con la espalda recta. Mantén las manos a tus lados.\
+\
+Paso 2: Dobla tus rodillas ligeramente\
+\
+Paso 3: Salta tan alto como puedas.";
+
+
+
+
+"Bodyweight Toe Touch" = "Toca las puntas de los dedos";
+
+"Bodyweight Toe Touch extra"= "Grupo de músculos: Abdominales\
+\
+Paso 1: Estírate en el suelo. Levanta las piernas hasta que estas sean perpendiculares al suelo. Extiende tus brazos.\
+\
+Paso 2: Intenta alcanzar los dedos de los pies con tu mano. Mantén durante un segundo. Vuelve a la posición original.";
+
+
+
+
+"Bodyweight Hop" = "Saltos";
+
+"Bodyweight Hop extra"= "Grupo de músculos: Abdominales\
+\
+Paso 1: Estírate sobre el suelo. Levanta el peso de tu cuerpo haciendo que solo toquen el suelo tus manos y las puntas de los pies. Mantén la espalda recta.\
+\
+Paso 2: Mientras mantienes tus brazos en posición, haz saltitos hacia dentro, acercando las rodillas hacia tu pecho. Vuelve a la posición original.";
+
+
+
+
+"Bodyweight Lunge" = "estocadas";
+
+"Bodyweight Lunge extra"= "Grupo de músculos: Cuádriceps\
+\
+Paso 1: Ponte de pie con los pies a la misma distancia que tus hombros.\
+\
+Paso 2: Haz un paso hacia detrás con un pie y baja el cuerpo, doblando las rodillas. Tu espalda debería mantenerse recta durante todo el movimiento. Para cuando tu muslo esté en paralelo con el suelo.\
+\
+Paso 3: Vuelve a la posición de inicio.\
+\
+Paso 4: Haz un paso hacia detrás con el otro pie y baja tu cuerpo, doblando las rodillas. Tu espalda debería mantenerse recta durante todo el movimiento. Para cuando tu muslo esté en paralelo con el suelo.";
+
+
+
+
+"Bodyweight Push-up Touch" = "Flexiones";
+
+"Bodyweight Push-up Touch extra"= "Grupo de músculos: Pectorales\
+\
+Paso 1: Estírate contra el suelo boca abajo con las manos contra la superficie. Posiciona las manos bajo tus hombros. La distancia entre tus manos debería ser menor a la distancia entre tus hombros. Levanta tu peso con tus brazos, haciendo que solo las manos y la punta de los pies estén tocando el suelo. Mantén la espalda recta. Tus manos deberían apuntar, ligeramente, hacia fuera.\
+\
+Paso 2: Baja el cuerpo hasta que tu pecho esté a poco centímetros del suelo; hazlo doblando los codos. Estos debería doblarse en dirección a tus pies.\
+\
+Paso 3: Toca el hombro opuesto cada vez que subas. Mantén durante un segundo. Vuelve a la posición inicial.";
+
+
+
+
+"Push-up walking" = "flexiones andando";
+
+"Push-up walking extra"= "Grupo de músculos: Pectorales\
+\
+Paso 1: Estírate boca abajo con las manos en el suelo. Posiciona las manos al lado de la parte inferior del pecho. La distancia entre tus manos debería ser ligeramente más elevada que la distancia entre tus hombros. Levanta el pedo de tu cuerpo con los brazos para que solo las manos y los dedos de los pies toquen el suelo. Mantén la espalda recta. Las manos deberían apuntar ligeramente hacia fuera. Mantén la espalda y piernas rectas.\
+\
+Paso 2: Sin mover tus brazos, haz saltitos en dirección a estos. Luego, vuelve a la posición inicial.";
+
+
+
+
+"Bent-Leg V-UP" = "Doblar las piernas hacia arriba en forma de V";
+
+"Bent-Leg V-UP extra"= "Grupo de músculos: Abdominales\
+\
+Paso 1: Estírate boca arriba en el suelo, con los brazos a tus lados. Dobla tus rodillas hacia arriba y mantenlas.\
+\
+Paso 2: Levanta tu torso rápidamente mientras acercas tu pecho hacia tus rodillas. Mantén los brazos en paralelo con el suelo.";
+
+
+
+
+"Bodyweight Lunge Side" = "Estocada lateral";
+
+"Bodyweight Lunge Side extra"= "Grupo de músculos: Cuádriceps\
+\
+Paso 1: Ponte de pie con los pies a la misma distancia que los hombros. Mantén los brazos delante de tu pecho.\
+\
+Paso 2: Mientras mantienes la espalda recta, haz un paso hacia un lado con un pie y baja tu cuerpo doblando las rodillas. El pie que se encuentra en la parte posterior pivota pero se mantiene en el mismo lugar. Para cuando tu muslo frontal esté en paralelo con el suelo. Mantén durante un segundo. Vuelve a la posición inicial.";
+
+
+
+
+"Bodyweight Push-up Grip Planche" = "Push up con el peso de tu cuerpo";
+
+"Bodyweight Push-up Grip Planche extra"= "Grupo de músculos: Pectorales\
+\
+Paso 1: Estírate con las manos contra el suelo. Posiciónalas delante de tu pecho. La distancia entre tus manos debería ser ligeramente mayor que la distancia entre los hombros. Levanta el peso de tu cuerpo con los brazos para que solo las manos y los pies toquen el suelo. Mantén la espalda recta. Las manos debería apuntar hacia fuera ligeramente.\
+\
+Paso 2: Baja tu cuerpo hasta que los codos casi toquen el suelo. Mantén durante un segundo. Vuelve a la posición original.";
+
+
+
+
+"Bench High Knee Jump" = "Saltos con las rodillas altas con un banco de ejercicio";
+
+"Bench High Knee Jump extra"= "Grupo de músculos: Cuádriceps\
+\
+Paso 1: Pone de pie con la espalda bien recta. Mantén las manos a tus lados.\
+\
+Paso 2: Dobla tus rodillas ligeramente.\
+\
+Paso 3: Salta tan alto como puedas, subiendo las rodillas hacia tu pecho.";
+
+
+
+
+"Bodyweight Toe Touch 2" = "Tocar los dedos de los pies 2";
+
+"Bodyweight Toe Touch 2 extra"= "Grupo de músculos: Abdominales\
+\
+Paso 1: Estírate en el suelo. Extiende las piernas y pon las manos detrás de tu cabeza.\
+\
+Paso 2: Intenta tocar los dedos de los pies con las manos. Mantén durante un segundo. Vuelve a la posición inicial.";
+
+
+
+
+"Stepper Push-up" = "Flexiones con stepper";
+
+"Stepper Push-up extra"= "Grupo de músculos: Pectorales\
+\
+Paso 1: Coloca tus pies sobre el Stepper con las manos contra el suelo, boca abajo. Posiciona las manos a los lados de la parte inferior de tu pecho. La distancia entre tus manos debería ser ligeramente más elevada que la distancia entre tus hombros. Levanta tu peso con los brazos para que solo las manos y los pies toquen el suelo. Mantén la espalda recta. Las manos debería apuntar ligeramente hacia el lado.\
+\
+Paso 2: Baja tu cuerpo hasta que tu pecho esté a poco centímetros del suelo; consíguelo doblando tus codos. Estos deberían doblarse en dirección a tus pies. Mantén durante un segundo. Vuelve a la posición inicial.";
+
+
+
+
+"Bodyweight Push-up Extension" = "Flexiones con extensión.";
+
+"Bodyweight Push-up Extension extra"= "Grupo de músculos: Pectorales.\
+\
+Paso 1: Estírate boca abajo con las manos contra el suelo. Posiciónalas bajo tus hombros. La distancia entre tus manos debería ser menor a la distancia entre tus hombros. Levanta tu cuerpo con los brazos para que solo las manos y los pies toquen el suelo. Mantén la espalda recta. Las manos debería mirar ligeramente hacia fuera.\
+\
+Paso 2: Baja tu cuerpo hasta que tu pecho esté a pocos centímetros del suelo; consíguelo doblando los codos. Estos debería doblarse en dirección a los pies.\
+\
+Paso 3: Extiende un brazo cada vez que levantes tu cuerpo. Mantén durante un segundo. Vuelve a la posición inicial.";
+
+
+
+
+"Bodyweight Scissor Kick" = "Patada en tijera";
+
+"Bodyweight Scissor Kick extra"= "Grupo de músculos: Abdominales.\
+\
+Paso 1: Estírate en el suelo. Pon las manos a tus lados. Extiende las piernas y elévalas ligeramente. Mientras mantienes las piernas rectas, levanta una de ellas.\
+\
+Paso 2: Mientras baja una de las piernas, eleva la otra. Estos es una repetición.";
+
+
+
+
+"Bodyweight Mountain Climbers" = "Escalador de montañas";
+
+"Bodyweight Mountain Climbers extra"= "Grupo de músculos: Cuádriceps.\
+\
+Paso 1: Estírate boca abajo con las palmas de las manos hacia el suelo. Posiciónalas a los lados de tu cabeza. La distancia entre tus manos debería ser mayor a la distancia entre tus hombros. Levanta tu cuerpo con los brazos para que solo toquen el suelo tus manos y los pies. Mantén la espalda recta. Las manos deberían apuntar hacia fuera ligeramente.\
+\
+Paso 2: Dobla una de las piernas hacia la parte superior del cuerpo.\
+\
+Paso 3: Cuando devuelvas la pierna a su posición original, dobla la otra pierna hacia la parte superior de tu cuerpo. Esto es una repetición.";
+
+
+
+
+"Bodyweight Pull In" = "Doblar las piernas hacia el pecho";
+
+"Bodyweight Pull In extra"= "Grupo de músculos: Abdominales\
+\
+Paso 1: Estírate en el suelo. Pon las manos a lado de tus caderas. Extiende las piernas y levántalas ligeramente.\
+\
+Paso 2: Dobla las piernas hacia la parte superior de tu cuerpo. Mantén durante un segundo. Vuelve al punto de inicio.";
+
+
+
+
+"Push-up With Crossing Leg under the Hip" = "Flexiones cruzando las piernas bajo las caderas";
+
+"Push-up With Crossing Leg under the Hip extra"= "Grupo de músculos: Pectorales\
+\
+Paso 1: Empieza el ejercicio con la posición estándar de flexiones. Cruza la pierna derecha por debajo de la cadera.\
+\
+Paso 2: Baja tu cuerpo hasta que el pecho esté a poco centímetros del suelo, pausa, y sube a la posición original.\
+\
+Paso 3: Cambia las piernas y repite los pasos.";
+
+
+
+
+"Bodyweight Jumping Jacks" = "Saltos de tijera";
+
+"Bodyweight Jumping Jacks extra"= "Grupo de músculos: Cuádriceps\
+\
+Paso 1: Ponte de pie con la espalda recta. Mantén las manos a tus lados.\
+\
+Paso 2: Salta hacia fuera, con los pies a mayor distancia que los hombros. A la par, levanta los brazos sobre tu cabeza. Haz una breve pausa y vuelve a la posición inicial.";
+
+
+
+
+"Jump Sumo" = "Salto de Sumo";
+
+"Jump Sumo extra"= "Grupo de músculos: Cuádriceps\
+\
+Paso 1: Ponte de pie con los pies a mayor distancia que los hombros. Aguanta una pelota medicinal delante de ti con los brazos extendidos. Ajusta tus pies para que apunten ligeramente hacia fuera.\
+\
+Paso 2: Baja tu cuerpo, doblando las rodillas. Tu espalda debe mantenerse recta durante todo el movimiento. Para cuando tus muslos estén prácticamente paralelos con el suelo. Cuando vuelvas a la posición inicial, genera energía con la parte inferior de tu espalda.";
+
+
+
+
+"Dumbbell Clean And Jerk" = "Sentadillas y salto con pesas";
+
+"Dumbbell Clean And Jerk extra"= "Grupo de músculos: Tendón de la corva (piernas)\
+\
+Paso 1: Haz una sentadilla. Aguanta las pesas de forma neutral. Mantén la espalda recta. Saca el pecho hacia fuera y mira hacia delante.\
+\
+Paso 2: Levanta las pesas del suelo. Cuando estas pasen de la parte inferior de la pierna, haz un salto hacia arriba. Usa la energía para levantar las pesas por encima de tus hombros.\
+\
+Paso 3: Cuando atrapes la pesas en tus hombros, usa la energía para hacer una sentadillas. Vuelve a la posición inicial de seguida.\
+\
+Paso 4: Dobla las rodillas ligeramente y salta.\
+\
+Paso 5: Durante el salto, levanta las pesas. Mantente de pie. Mantén durante un segundo. Vuelve a la posición inicial.";
+
+
+
+
+"Bodyweight Leg Raise" = "Levantamiento de piernas";
+
+"Bodyweight Leg Raise extra"= "Grupo de músculos: Abdominales\
+\
+Paso 1: Estírate en el suelo. Coloca las manos a tu lado. Extiende las piernas.\
+\
+Paso 2: Levanta las piernas en un ángulo de 30 grados. Mantén durante un segundo.\
+\
+Paso 2: Levanta las piernas en un ángulo de 60 grados. Mantén durante un segundo.\
+\
+Paso 4: Levanta las piernas en in ángulo de 90 grados. Mantén durante un segundo. Vuelve a la posición original.";
+
+
+
+
+"Dumbbell Biceps Curl" = "Ejercicio de bíceps con pesas";
+
+"Dumbbell Biceps Curl extra"= "Grupo de músculos: Bíceps\
+\
+Paso 1: Dobla tus rodillas ligeramente. Mantén la espalda recta y doblada. Agarra las pesas al lado de tus rodillas, agarrándolas por la parte inferior.\
+\
+Paso 2: Levanta las pesas mientras mantienes la parte superior del brazo quieta. Mantén durante un segundo. Vuelve a la posición original.";
+
+
+
+
+"Bodyweight Sit-up" = "Ejercicio de abdominales";
+
+"Bodyweight Sit-up extra"= "Grupo de músculos: Abdominales\
+\
+Paso 1: Estírate en el suelo. Pon las manos detrás de tu cabeza. Las rodillas han de estar dobladas y los pies en el suelo.\
+\
+Paso 2: Levanta la parte superior de tu cuerpo. Mantén un segundo. Vuelve a la posición de inicio.";
+
+
+
+
+"Bent-Leg V-UP" = "Doblar las piernas hacia arriba en forma de V";
+
+"Bent-Leg V-UP extra"= "Grupo de músculos: Abdominales\
+\
+Paso 1: Estírate boca arriba en el suelo, con los brazos a tus lados. Dobla tus rodillas hacia arriba y manténlas.\
+\
+Paso 2: Levanta tu torso rápidamente mientras acercas tu pecho hacia tus rodillas. Mantén los brazos en paralelo con el suelo.";
+
+
+
+
+
+
+"Toe Touch" = "Toca los dedos de los pies";
+
+"Toe Touch extra"= "Grupo de músculos: Abdominales\
+\
+Paso 1: Estírate en el suelo. Mantén las piernas ligeramente dobladas. Mantén la espalda contra el suelo.\
+\
+Paso 2: Expira e intenta llegar a tocar las puntas de los dedos. Mantén la cabeza fija en un punto, evitando que la barbilla toque el pecho.";
+
+
+
+
+"Toe Touch 2" = "Toca los dedos de los pies 2";
+
+"Toe Touch 2 extra"= "Grupo de músculos: Abdominales\
+\
+Paso 1: Estírate en el suelo. Mantén las piernas ligeramente dobladas. Mantén la espalda contra el suelo.\
+\
+Paso 2: Expira e intenta llegar a tocar las puntas de los dedos. Mantén la cabeza fija en un punto, evitando que la barbilla toque el pecho.";
+
+
+
+
+"Bodyweight Crunch 2" = "Crunch 2 (abdominales)";
+
+"Bodyweight Crunch 2 extra"= "Grupo de músculos: músculos oblicuos\
+\
+Paso 1: Estírate en el suelo. Levanta las piernas hasta que tus muslos estén perpendiculares al suelo. Pon las manos detrás de tu cabeza.\
+\
+Paso 2: Mueve el codo izquierdo y la pierna derecha hacia el cuerpo hasta que se toquen.\
+\
+Paso 3: Mueve el codo izquierdo y la pierna derecha a la posición inicial. A la vez, mueve el codo derecho y la pierna izquierda hacia el cuerpo hasta que se toquen. Esto es una repetición.";
+
+
+
+
+"Stability Ball Crunch" = "Crunch sobre pelota de equilibrio";
+
+"Stability Ball Crunch extra"= "Grupo de músculos: Abdominales.\
+\
+Paso 1: Estírate sobre la pelota de equilibrio. Aguanta la pelota medicinal sobre de ti.\
+\
+Paso 2: Levanta la parte superior de tu cuerpo mientras mantienes la parte inferior contra la pelota de equilibrio. Mantén durante un segundo. Vuelve a la posición inicial.";
+
+
+
+
+"Bar  Bench Press Incline" = "Levantamiento de pesas en un banco inclinado";
+
+"Bar  Bench Press Incline extra"= "Grupo de músculos:\
+\
+Paso 1: Estírate sobre el banco inclinado. Aguanta las pesas por el agarre. La distancia entre tus manos ha de ser un poco mayor que la distancia entre tus hombros. Aguanta las pesas con los brazos extendidos al máximo. Las pesas han de estar elevadas directamente sobre el centro de tu pecho.\
+\
+Paso 2: Baja las pesas hacia la parte inferior de tu pecho mientras mantienes tus codos cerca de tu cuerpo. La barra de pesas debería tocar tu pecho ligeramente al final del movimiento. No empujes la barra de pesas de sobre tu pecho. Mantenla allí durante un segundo y vuelve a la posición original. Mantén tu espalda contra el banco en todo momento. No hagas ningún movimiento con tus piernas.";
+
+
+
+
+"Dumbbell Push-up Row" = "Flexiones con pesas.";
+
+"Dumbbell Push-up Row extra"= "Grupo de músculos: Pectorales.\
+\
+Paso 1: Aguanta las pesas de forma neutral. La distancia entre tus manos debería ser ligeramente mayor a la distancia entre tus hombros. Levanta tu cuerpo para que solo las pesas y tus pies toquen el suelo. Mantén la espalda recta. Las manos debería apuntar hacia fuera ligeramente.\
+\
+Paso 2: Baja tu cuerpo hasta que tu pecho esté a pocos centímetros del suelo, doblando los codos. Estos deberían doblarse en dirección a los pies. Mantén durante un segundo.\
+\
+Paso 3: Vuelve a la posición inicial.\
+\
+Paso 4: Levanta una de las pesas, moviendo el codo hacia arriba. Tu mano debería moverse en línea vertical. Mantén durante un segundo.\
+\
+Paso 5: Vuelve a la posición inicial.\
+\
+Paso 6: Repite los mismos pasos con la otra mano.";
+
+
+
+
+"Triceps Kickback" = "Tríceps de retroceso.";
+
+"Triceps Kickback extra"= "Grupo de músculos: Tríceps\
+\
+Paso 1: Coge la pesa en una mano y coloca la rodilla opuesto sobre el banco, junto con tu otra mano. Coloca el otro pie en suelo, doblando la pierna ligeramente. Tira del brazo aguantando la pesa hacia atrás y arriba a tu lado, haciendo que esté en paralelo con el suelo. Mantén la espalda recta.\
+\
+Paso 2: Aguanta la pesa para que esté a 90 grados de tu codo. Expira lentamente y extiende el brazo tanto como puedas o, como mínimo, hasta que tu muñeca, codo y hombro estén alineados.\
+\
+Paso 3: Inspira y baja la pesa lentamente pero solo hasta que consigas que tu codo esté a 90 grados. Repite el número de repeticiones necesarias.\
+\
+Paso 4: Repite aguantando la pesa con la otra mano.";
+
+
+
+
+"Standing Single Arm Triceps Extension" = "Extensión de tríceps de pie.";
+
+"Standing Single Arm Triceps Extension extra"= "Grupo de músculos: Tríceps.\
+\
+Paso 1: Ponte de pie con los pies a la misma distancia que tus hombros, aguantando la pesa en tu mano izquierda.\
+\
+Paso 2: Agarra la pesa por encima de tu cabeza para que tu brazo izquierdo esté recto con la palma de la mano apuntando hacia fuera, ligeramente hacia un lado. Coloca tu mano derecha cruzando tu rostro y aguanta el codo izquierda con la mano derecha mientras realizas el ejercicio con el brazo izquierdo, con el cual aguantas la pesa.\
+\
+Paso 3: Sin mover el brazo extendido, dobla el codo poco a poco, haciendo que la pesa vaya detrás de tu cabeza, tan abajo con sea posible.\
+\
+Paso 4: Extiende la pesa hacia arriba con tu brazo izquierdo hasta que esté recto. Repite. Posteriormente aguanta la pesa con el brazo derecho y repite.";
+
+
+
+
+"Stability Ball Split Squad Dumbbell" = "Sentadillas sobre pelota de equilibrio con pesas.";
+
+"Stability Ball Split Squad Dumbbell extra"= "Grupo de músculos: Cuádriceps.\
+\
+Paso 1: Estando de pie, coloca un pie sobre el suelo y el otro sobre la pelota de equilibrio mientras aguantas una pesa en cada mano. Mantén los brazos rectos, como se ilustra en la imagen.\
+\
+Paso 2: Baja tu cuerpo hacia abajo, doblando las caderas y las rodillas y echando hacia fuera el torso.\
+\
+Paso 3: Vuelve a la posición inicial haciendo fuerza con el pie sobre el suelo.\
+\
+Paso 4: Repite con la otra pierna.";
+
+
+
+
+"Dumbbell Rear Delt Row" = "Ejercicio de deltoides con pesas.";
+
+"Dumbbell Rear Delt Row extra"= "Grupo de músculos: Deltoides.\
+\
+Paso 1: Dobla tu cuerpo por la cintura con las pesas en las manos, los brazos extendidos y las manos inclinadas hacia dentro. Los pies deberían estar a la misma distancia que tus caderas.\
+\
+Paso 2: Levanta las pesas hacia fuera a la altura de los hombros manteniendo la espalda recta. Dobla los codos ligeramente mientras levantas las pesas si es necesario y, posteriormente, baja las pesas hasta la posición de origen.";
+
+
+
+
+"Dumbbell Snatch" = "Sentadillas y pesas.";
+
+"Dumbbell Snatch extra"= "Grupo de músculos: Deltoides.\
+\
+Paso 1: Empieza haciendo una sentadilla con una pesa. Mantén la parte inferior de la espalda rígida y los pies a la misma distancia que los hombros.\
+\
+Paso 2: Agarra la pesa y haz fuerza con los músculos abdominales. Con un movimiento rápido, levanta las pesas hacia arriba hasta que tu brazo esté recto, como se muestra en la imagen. La pesa debería mantenerse cerca del cuerpo en todo momento y no debería desviarse.\
+\
+Paso 3: Mantenla sobre tu cabeza momentáneamente y luego bájala, volviendo a la posición inicial.";
+
+
+
+
+"Stretch Standing Overhead Arms" = "Estiramientos con los brazos sobre la cabeza.";
+
+"Stretch Standing Overhead Arms extra"= "Grupo de músculos : Dorsales.\
+\
+Paso 1: Ponte de pie con los pies a la misma distancia que los hombros. Mantén las piernas ligeramente dobladas. Posiciona las manos delante de ti y entrelaza los dedos.\
+\
+Paso 2: Extiende los brazos sobre la cabeza. Estira tanto como puedas. Mantén esta posición durante 15 a 25 segundos.";
+
+
+
+
+"Stretch Neck Standing Side" = "Estiramientos de cuello, de pie.";
+
+"Stretch Neck Standing Side extra"= "Grupo de músculos: Cuello.\
+\
+Paso 1: Ponte de pie, con los pies a la misma distancia que tus hombros. Posiciona tus brazos a tus lados.\
+\
+Paso 2: Gira tu cuello hacia un lado. La parte superior de tu cuerpo debería girarse ligeramente. Mantén durante 15 a 25 segundos. Repite hacia el otro lado.";
+
+
+
+
+"Standing Cross Body Arms" = "Cruzada de brazos, de pie.";
+
+"Standing Cross Body Arms extra"= "Grupo de músculos: Deltoides.\
+\
+Paso 1: Ponte de pie con los pies a la misma distancia que tus hombros.\
+\
+Paso 2: Extiende al máximo tu brazo derecho hacia la izquierda. El brazo debe estar paralelo con el suelo. Posiciona tu brazo izquierdo delante de tu codo derecho. Usa tu brazo izquierdo para empujar el brazo derecho contra el cuerpo. Mantén esta posición durante 15 a 25 segundos. Repite con los brazos contrarios.";
+
+
+
+
+"Standing Behind Head" = "De pie, por detrás de la cabeza";
+
+"Standing Behind Head extra"= "Grupo de músculos: Tríceps\
+\
+Paso 1: Ponte de pie con los pies a la misma distancia que tus hombros. Posiciona una mano en el centro de la parte superior de tu espalda. Tus codos deben apuntar hacia el techo.\
+\
+Paso 2: Usa tu otra mano para aguantar el codo. Aguántalo contra tu cabeza. Mantén la posición durante 15 a 25 segundos. Repite hacia el otro lado.";
+
+
+
+
+"Standing Side Single Arm" = "De pie, estiramiento de brazos";
+
+"Standing Side Single Arm extra"= "Grupo de músculos: Dorsales.\
+\
+Paso 1: Ponte de pie con los pies a la misma distancia que los hombros. Coloca las manos en tus caderas.\
+\
+Paso 2: Levanta un brazo por encima de la cabeza hacia un lado. Mantén durante 15 a 25 segundos. Repite hacia el otro lado.";
+
+
+
+
+"Stretch Squat Torso Twist" = "Estiramiento con sentadillas, girando el torso.";
+
+"Stretch Squat Torso Twist extra"= "Grupo de músculos: Dorsales\
+\
+Paso 1: Haz una sentadillas con los pies a la misma distancia que tus hombros. Posiciona las manos sobre tus caderas. Mira hacia delante.\
+\
+Paso 2: Gira el torso hacia un lado hasta que notes que se estiran los músculos. Repite hacia el otro lado.";
+
+
+
+
+"Stretch Standing Legs Arms" = "Estiramiento de piernas y brazos, de pie.";
+
+"Stretch Standing Legs Arms extra"= "Grupo de músculos: Tendón de la corva (piernas)\
+\
+Paso 1: Ponte de pie con los pies más separados que los hombros. Posiciona tus manos en las caderas.\
+\
+Paso 2: Sin doblar las piernas, estírate hacia abajo y agarre tus tobillos con las manos. Mantén durante 15 a 25 segundos.";
+
+
+
+
+"Stretch Standing Hand To Foot" = "Estiramiento, aguantar el pie con la mano";
+
+"Stretch Standing Hand To Foot extra"= "Grupo de músculos: Cuádriceps.\
+\
+Paso 1: Ponte de pie con los pies cerca el uno del otro. Descansa tus manos a los lados.\
+\
+Paso 2: Dobla una rodillas hacia atrás. Aguántala con una mano. Dobla el pie hacia atrás. Mantén durante 15 a 25 segundos. Repite con la otra pierna.";
+
+
+
+
+"Stretch Knee Bent" = "Estiramiento doblando la rodilla";
+
+"Stretch Knee Bent extra"= "Grupo de músculos: Cuádriceps.\
+\
+Paso 1: Siéntate con las piernas extendidas. Dobla tu rodilla derecha y posiciona tu pie derecha al lado de tu muslo izquierdo.\
+\
+Paso 2: Toca los dedos del pie izquierdo con la mano izquierda. Mantén durante 15 a 25 segundos. Repite con la otra pierna.";
+
+
+
+
+"Stretch Adductors Standing" = "Estiramiento de los aductores, de pie.";
+
+"Stretch Adductors Standing extra"= "Grupo de músculos: Aductores\
+\
+Paso 1: Ponte de pie con los pies a más distancia que tus hombros. Coloca tus manos en las caderas.\
+\
+Paso 2: Baja tu cuerpo hacia un lado. La pierna contraria está estirada. Mantén durante 15 a 25 segundos. Repite hacia el otro lado.";
+
+
+
+
+"Sitting Body Curl" = "Estiramiento doblando el cuerpo, sentado.";
+
+"Sitting Body Curl extra"= "Grupo de músculos: Tendón de la corva (piernas)\
+\
+Paso 1: Siéntate con la espalda recta. Extiende las piernas delante de ti. Descansa las manos sobre los muslos.\
+\
+Paso 2: Baja tu cuerpo en dirección a tus piernas. Mantén la posición de 15 a 25 segundos.";
+
+
+
+
+"Stretch Lying Knee Bent" = "Estiramiento de rodillas, estirado.";
+
+"Stretch Lying Knee Bent extra"= "Grupo de músculos: Tendón de la corva (piernas)\
+\
+Paso 1: Estírate sobre el suelo. Extiende tus piernas. Descansa las manos a los lados.\
+\
+Paso 2: Levanta una pierna hacia tu pecho. La rodilla debe mantenerse doblada. Posiciona tus manos sobre el muslo. Aguanta la pierna contra la parte superior de tu torso. Mantén la posición durante 15 a 25 segundos. Repite con la otra pierna.";
+
+
+
+
+"Stretch Adductors (Sitting)" = "Estiramiento de aductores (sentado).";
+
+"Stretch Adductors (Sitting) extra"= "Grupo de músculos: Aductores\
+\
+Paso 1: Siéntate haciendo que la planta de tus pies se toquen. Mantén la espalda recta. Posiciona tus manos en las rodillas.\
+\
+Paso 2: Inclina tu cuerpo y rodillas hacia el suelo. Mantén durante 15 a 25 segundos.";
+
+
+
+
+"Stretch Kneeling Child Pose" = "Estiramiento espalda, de rodillas.";
+
+"Stretch Kneeling Child Pose extra"= "Grupo de músculos: Parte inferior de la espalda\
+\
+Paso 1: Ponte de rodillas sobre el suelo con la espalda recta.\
+\
+Paso 2: Mientras estiras tus brazos delante de ti, siéntate haciendo que tu trasero toque tus pies. Mantén la espalda y cabeza rectas.";
+
+
+
+
+"Stretch Lower Back Arms Assist" = "Estiramiento de la parte inferior de la espalda con ayuda de los brazos.";
+
+"Stretch Lower Back Arms Assist extra"= "Grupo de músculos: Parte inferior de la espalda\
+\
+Paso 1: Estírate boca abajo. Posiciona las manos a los lados de tu pecho con las palmas boca abajo.\
+\
+Paso 2: Usa tus manos para levantar tu cuerpo hacia el techo. Los brazos deben estar bien extendidos. Mantén esta posición durante 15 a 25 segundos.";
+
+
+
+"Dumbbell Lateral Raise" = "Elevación de Mancuerna Lateral";
+
+"Dumbbell Lateral Raise extra"   = "Grupo Muscular: Deltoides\
+\
+Paso 1: Mantente  con los pies abiertos hasta la anchura de los hombros, manteniendo la espalda recta y los brazos ligeramente adelantados frente al torso. Con los codos ligeramente doblados, tome una mancuerna en cada mano\
+\
+Paso 2: Eleva la mancuerna hacia afuera y hacia arriba hasta llegar a la altura de los hombros. \
+\
+Paso 3: Manteniendo los codos doblados, baja lentamente los brazos y volver a la posición inicial. Puedes hacer tantas repeticiones de este ejercicio como quieras. ";
+
+
+
+"Dumbbell Lunge Side" = "Mancuerna Lunge Lateral";
+"Dumbbell Lunge Side extra"= "Grupo Muscular: Cuádriceps  \
+\
+Paso 1: Mantente erguido con los pies abiertos a la altura de los hombros. Sujeta las mancuernas de manera natural \
+\
+Paso 2: Manteniendo la espalda erguida, gírate de lado y baja el cuerpo doblando las rodillas. La parte posterior del pie se mantiene en su posición. Para cuando la parte interior de tu muslo esté paralela al suelo al suelo y párate durante un segundo. Vuelve a la posición inicial";
+
+
+
+
+"Standing Abdominal Stretch" = "Estiramiento abdominal en pie";
+
+"Standing Abdominal Stretch extra"=  "Grupo Muscular: Abdominal inferior\
+\
+Paso 1: Mantente erguido con tus brazos extendidos hacia arriba\
+\
+Arque la espalda hacia abajo levantando el pecho hacia arriba y llevando los brazos hacia atrás tanto como sea posible. Mantén la posición extendida durante varios segundos. ";
+
+
+
+"Barbell Good Morning" = "Ejercicio con barra matutino";
+"Barbell Good Morning extra" = "Grupo muscular: Tendones\
+\
+Paso 1: Colócate de pie con los pies separados. Coloca la barra en la parte posterior de los hombros. Mantén la barra bien agarrada. La distancia entre las manos debe ser mayor que la anchura de los hombros. Ajuste los pies para apuntar ligeramente hacia afuera\
+\
+Paso 2: Mantén la espalda recta y dobla la parte superior del cuerpo hasta que quede paralelo con el suelo. Mantén esta posición durante un segundo y vuelve a la posición inicial ";
+
+
+
+"Curl Bar Row" = "Barra Curvada";
+"Curl Bar Row extra" = "Grupo muscular: Músculo dorsal ancho\
+\
+Paso 1: Dobla ligeramente las rodillas. Mantén la espalda recta y ligeramente doblada. Mantén la barra curvada a la altura de los hombros, agarrándolos sobre la altura de la cabeza\
+\
+País 2: Eleva la barra curvada en vertical hacia tu pecho. Ten cuidado de no dislocar tus hombros. Mantén la posición por un segundo. Volver a la posición inicial ";
+
+
+
+// Descriptions
+
+"extra_main_description" = "Programas de entrenamiento diseñados para hacerte polvo y más fuerte";
+"Building muscle add volume and strength." = "Incrementar la musculatura añadiendo volumen y fuerza";
+"Muscle Growth of the full Body." = "Incremento de músculos en todo el cuerpo";
+"Beginner Intermediate Advanced." = "Desde el nivel intermedio al avanzado";
+"Man and Women." = "Hombres y Mujeres";
+"Gym." = "Gimnasio";
+"Barbell Dumbbells Bench." = "Banco de pesos";
+"Building muscle add definition and strength." = "Incremento de musculación que añade definición y fuerza";
+"Home, Office, Studio." = "Casa, oficina, studio";
+"Bench, Dumbbell, Mat, Body Weight." = "Banco, pesos, esterilla, peso corporal";
+"Muscle definition and fat burning." = "Definición muscular y quemadura de grasa";
+"Cardio routine of the full Body." = "Rutina cardiovascular en todo el cuerpo";
+"Home, Office." = "Casa, Oficina";
+"Core zone." = "Zona central";
+"Abdominals definition & fat burning." = "Definición de abdominales y quema-grasas";
+"Gym, Home, Office." = "Gimnasio, Casa, Oficina";
+"Stability ball, Mat, Body Weight." = "Balón de estabilidad, Esterilla, Peso Corporal";
+"Chest & Arms." = "Pecho y Brazos";
+"Get strength and definition." = "Consigue fuerza y definición";
+"Bench, Dumbbell." = "Banco, Pesos";
+"Arms." = "Brazos";
+"Shoulders." = "Hombros";
+"Bench, Dumbbell, Balance Ball." = "Banco, Pesos, Balón de Equilibrio";
+"Back & Arms." = "Espalda & Brazos";
+"Neck, shoulders, lower back and legs." = "Cuello, hombros, parte inferior de la espalda y piernas";
+"Muscle flexibility and relaxation." = "Flexibilidad muscular y relajación";
+"Exercise Mat, Body Weight." = "Esterilla de Ejercicio, Peso del Cuerpo";
+
+
+"Focus" = "Concentración";
+"Goal" = "Objetivo";
+"Skill level" = "Nivel de habilidad";
+"Target Group" = "Grupo objetivo";
+"Place" = "Lugar";
+"Equipment" = "Equipamiento" ;
+
+"extraDescription1" = "Ejercicios diseñados para elevar pesos y aumentar la masa muscular y la fuerza";
+"extraDescription2" = "Combinación perfecta de ejercicios para aumentar fuerza y añadir definición";
+"extraDescription3" = "Aumenta tu fuerta y suda con este circuito quema-grasas";
+"extraDescription4" = "Pierde peso y trabaja tu tableta con este cricuito quema-grasas abdominal";
+"extraDescription5" = "Ejercicio estupendo centrado en el aumento del músculo en los pectorales para aumentar fuerza y definición";
+"extraDescription6" = "Ejercicio estupendo centrado en tus músculos del brazo para aumentar la fuerza y la definición";
+"extraDescription7" = "Ejercicio estupendo centrado en los músculos de las piercas para aumentar la fuerza y la definición";
+"extraDescription8" = "Ejercicio estupendo centrado en los músculos de tus hombros para aumentar la fuerza y la definición";
+"extraDescription9" = "Ejercicio estupendo centrado en los músculos de la espalda para aumentar la fuerza y la definición";
+"extraDescription10" = "Mejora tu flexibilidad y la relajación de los músculos con una sesión de estiramientos";
+
+"extraDescription1_howToMake" = "3 sets por ejercicio";
+"extraDescription2_howToMake" = "Cada ejercicio cuenta con 15 repeticiones con 2 rondas primero, 4 después y otras 4 al final";
+"extraDescription3_howToMake" = "Tiempo de descanso entre ejercicios de 15 seg, tiempo de descanso entre tandas 30 seg";
+"extraDescription4_howToMake" = "Tiempo de descanso entre ejercicios de 15 seg, tiempo de descanso entre tandas 30 seg";
+"extraDescription5_howToMake" = "Tiempo de descanso entre ejercicios de 45 seg, tiempo de descanso entre tandas 35 seg";
+"extraDescription6_howToMake" = "Tiempo de descanso entre ejercicios de 45 seg, tiempo de descanso entre tandas 35 seg";
+"extraDescription7_howToMake" = "Tiempo de descanso entre ejercicios de 45 seg, tiempo de descanso entre tandas 35 seg";
+"extraDescription8_howToMake" = "Tiempo de descanso entre ejercicios de 45 seg, tiempo de descanso entre tandas 35 seg";
+"extraDescription9_howToMake" = "Tiempo de descanso entre ejercicios de 45 seg, tiempo de descanso entre tandas 35 seg";
+"extraDescription10_howToMake" = "Sin necesidad de descanso entre ejercicios. Mantenimiento de cada posición por 30 seg";
+
+"categoryDescription0" = "Los mejores ejercicios para añadir volumen y definición a tus abdominales";
+"categoryDescription1" = "Diferentes ejercicios que te ayudarán a conseguir fuerza y añadir potencia";
+"categoryDescription2" = "Perfecta combinación de ejercicios para añadir masa muscular y volumen";
+"categoryDescription3" = "Ejercicios especiales que te ayudarán a añadir fuerza y descansar los músculos";
+"categoryDescription4" = "El mejor ejercicio que te ayudará a añadir definición, volumen y potencia";
+"categoryDescription5" = "Diversos ejercicios que te ayudarán a conseguir los resultados que deseas";
+"categoryDescription6" = "Perfecta combinación de ejercicios para mejorar la fuerza en las piernas y la resistencia";
+"categoryDescription7" = "Excelente combinación de ejercicios para añadir fuerza y definición";
+"categoryDescription8" = "Ejercicio especial que te ayudará a añadir fuerza con diversos niveles de intensidad";
+"categoryDescription9" = "De la Versión Pro";
+"workoutDescription2" = "Una combinación de ejercicios que te ayudará a incrementar volumen y masa muscular";
+"workoutDescription1" = "Plan estratégico perfecto para perder peso y añadir definición a tu cuerpo";
+"workoutDescription3" = "La mejor manera de incrementar la fuerza, mejorar tu rendimiento y añadir potencia";
+
+
+"viewed" = "Visto";
+

@@ -1,0 +1,1627 @@
+/*
+ content.strings
+ iBodybuilding-Update
+ 
+ Created by Johnny Bravo on 6/18/13.
+ Copyright (c) 2013 com.softintercom. All rights reserved.
+ */
+"Abs" = "Buikspieren";
+
+"Incline Bench Sit-Ups" = "Hellende Bank Sit Ups";
+"1 Incline Bench Sit-Ups" = "Spier: Rechte Buikspier\n\nStap 1: Lig achterover op een  hellende halterbank. Houd de handen boven het hoofd. Knieën zijn gebogen.\n\nStap 2: Kom met je bovenlichaam omhoog, terwijl je de onderrug op de halterbank houdt. Houd deze houding 1 seconde vast. Keer terug naar de beginpositie";
+
+"Hanging Leg Raises" = "Bungelende benen heffen";
+"2 Hanging Leg Raises" = "Spier: Rechte Buikspier\n\nStap 1: Terwijl je met een bovenhandse greep aan een halterstang met lichtgebogen knieën hangt.\n\nStap 2: Trek je de heupen op en maak je jezelf rond riching borst, gebruik hierbij de onderste buikspieren. Breng je knieën zover mogelijk naar je borst toe, waarbij je als laatst je onderrug rond maakt. Pauzeer vervolgens even, voel de samentrekking in je onderste buikspieren en keer terug naar de beginpositie.";
+
+"Dumbbell Side Bends" = 	"Zijwaarts buigen met halters";
+"3 Dumbbell Side Bends" = "Spier: Oblique\n\nStap 1: Sta rechtop met voeten op schouderbreedte. Houd in iedere hand een dumbbell.\n\nStap 2: Buig in een richting naar beneden, waarbij je het onderlichaam zo min mogelijk beweegt.\n\nStap 3: Keer terug naar de beginpositie.";
+
+"Crunches" = "Kraken";
+"4 Crunches" = "Spier: Rechte Buikspier\n\nStap 1: Terwijl je met gestrekte benen op je rug ligt, til je je hielen ca. 2,5 cm van de grond en plaats je de handen naast je.\n\nStap 2: Houd je armen parallel met de vloer en kom met je romp en je benen omhoog en vorm een e. Zodra je omhoog komt, buig je de knieën en trek je ze naar je borst toe.";
+
+"Sit-Ups" = "Sit Ups";
+"5 Sit-Ups" = "Spier: Rechte Buikspier\n\nStap 1: Ga met je rug op een stabiliteitsbal liggen. Plaats je handen op je hoofd en zet je voeten op de vloer.\n\nStap 2: Kom met je bovenlichaam omhoog, terwijl je je onderrug op de stabiliteitsbal houdt. Houd de positie 1 seconde vast. Keer terug naar de beginpositie.";
+
+"Flat Bench Lying Leg Raise" = "Benen heffen op vlakke ondergrond";
+"6 Leg Raises" = "Spier: Rechte Buikspier\n\nStap 1: Ga met gestrekte benen op de vloer liggen. Plaats je handen achter je hoofd.\n\nStap 2: Kom met je bovenlichaam omhoog. Houd de positie 1 seconde vast. Keer terug naar de beginpositie.";
+
+"Leg Raises" = "Benen heffen";
+"7 Flat Bench Lying Leg Raise" =	" Ga op een bank of op de vloer liggen met gestrekte benen. Plaats je handen onder je billen met de palmen op de vloer. Houdt je benen gestrekt en je knieën op slot. Til dan je voeten zo hoog mogelijk op.";
+
+"Seated Jackknife" = "Zittend zakmes";
+
+
+"8 Seated Jackknife"	= " Ga op de rand van een bankje zitten en houdt je zelf vast achter je rug aan de zitting. Til je voeten van de vloer met licht gebogen knieën. Breng dan langszaam je borst naar je knieën toe.";
+
+"Twisting Hip Raise" = "Gedraaide Heupheffing";
+
+
+"9 Twisting Hip Raise" =	" Ga op je rug liggen en met je benen recht omhoog en je handen naast je op de vloer. Til nu je heupen van de vloer terwijl je naar links of rechts draait.";
+
+"Bodyweight Crunch" = "Lichaamskraker";
+
+"12 Bodyweight Crunch" =	" Ga op de vloer liggen. Buig je knieën en zet je voeten vlak op de vloer. Steek je armen recht voor je uit. Til nu je bovenlichaam op terwijl je onderrug op de vloer blijft. Houdt dat een paar seconden vast en ga terug in startpositie.";
+
+"Russian Twist" = "Russische Twist";
+
+"13 Russian Twist" =	" Ga op de vloer zitten, je benen gebogen en je bovenlichaam iets naar achter hellend. Houdt je armen gestrekt voor je boven je knieën. Draai nu je bovenlichaam naar links, terug naar startpositie en dan naar rechts.";
+
+"Side Bridge" = "Zijwaartse brug";
+
+"14 Side Bridge"	= " Ga op je zij liggen met je benen gestrekt naast elkaar. Draai je lichaam dan iets en hef het van de vloer met een arm gebogen op de vloer. Probeer je lichaam recht te houden en je elleboog recht onder je schouder.";
+
+"Back" = "Rug";
+
+"Chin-Ups" = 	"Kin omhoog";
+
+"1 Chin-Ups" = " Houdt de rekstok vast met je handpalmen van je vandaan, dat wordt de 'pronetische grip' genoemd. Houdt je armen gestrekt en ga hangen zonder te schommelen. Probeer je lichaam en schouders te ontspannen. Trek je dan in een vloeiende beweging op, niet te snel of schokkend. Je kin moet boven de rekstok uitkomen. Dan langszaam weer terug naar startpositie.";
+
+"Deadlifts" = "Deadliften";
+
+"2 Deadlifts" =	" Je houding is als volgt: je voeten staan iets naar buiten gericht op schouderbreedte uit elkaar. Neem een zittende houding aan door je billenpartij naar beneden te brengen totdat je bovenbenen ongeveer parallel zijn met de vloer. De halter is nu vlak voor je schenen. Pak nu de halter vast met beide handen zodanig dat je handen zich net buiten je knieën bevinden. Maak dan een licht holle rug en til de halter op door je benen te strekken en je armen recht te houden. Met je benen tillen dus. Als het gewicht op heuphoogte is zet je je benen en knieën op slot.";
+
+"Lat Pull-Downs" = "Lat trekken";
+
+"3 Lat Pull-Downs" =	" Bevestig een lange staaf op de lat pull down machine en pas de dijen kussentjes aan zodat je knieën in een rechte hoek staan en je voeten plat op de grond. Pak de staaf vast met een brede grip en blijf rechtop zitten, maar leun iets achterover vanuit de heupen. Trek de bar dan naar je gezicht toe en langszaam naar je borst en houdt dat even vast. Dan langszaam terug naar de uitgangspositie door je armen te strekken.";
+
+"Seated Rows" = "Zittend Roeien";
+
+"4 Seated Rows"="Om te beginnen bevestig je eerst je favoriete handgreep aan de lat bar (het zou dezelfde kunnen zijn als afgebeeld). Zit rechtop met gestrekte rug en gebogen knieën en je voeten tegen het blok. Strek je armen zodat je de spanning net voelt. Trek het gewicht naar je lichaam toe totdat het je buik raakt.";
+
+"One-Arm Dumbbell Rows" = "Één arm gewichtheffen";
+
+"5 One-Arm Dumbbell Rows"	= " Linkerhand en linkerknie op een vlakke bank plaatsen met je rechtervoet stevig op de vloer. Leun voorover zodat je een rechte rug hebt en parallel met de vloer. Neem een halter in je rechterhand met je handpalm naar je lichaam gericht. Til nu het gewicht op en breng het naar je ribben aan de zijkant van je lichaam. Langszaam terug naar beginpositie en herhalen.";
+
+
+"Barbell Shrugs" = "Lange Halter schouder ophalen";
+
+"6 Barbell Shrugs" =	" Sta rechtop met je voeten op schouderbreedte. Als je een halter gebruikt moet je de pronatiegrip gebruiken (handpalmen naar de dijen gericht). Tip: je handen iets verder dan schouderbreedte uit elkaar. Je kunt polsbanden dragen voor een betere grip bij deze oefening. Dit is de uitgangspositie. Haal dan je schouders op terwijl je uitademt en houdt dit een paar seconden vast. Pas op: niet met je biceps de halter optillen. Ga dan langszaam terug naar de startpositie terwijl je inademt.";
+
+
+"Dumbbell Shrugs" = "Hand Halter schouder ophalen";
+
+"7 Dumbbell Shrugs" =	" Sta rechtop en houdt de halters naast je lichaam, de voeten ver genoeg uit elkaar om de halters comfortabel te hebben. Ze mogen zwaarder zijn dan je voor een armoefening zou gebruiken. Haal je schouders op alsof je zegt: ik weet het niet als antwoord op een vraag van iemand. Buig niet voorover, probeer rechtop te blijven staan. Als je merkt dat je voor  of achterover buigt tijdens de oefening, neem dan iets lichtere gewichten.";
+
+"Back Extensions" = "Rug Strekken";
+"8 Back Extensions" =	" Positioneer jezelf in een rugoefening apparaat en plaats je voeten onder het beenanker. je lichaam moet een rechte lijn vormen van je handen tot je heupen. Buig dan je lichaam naar beneden en krom je rug tot je loodrecht naar beneden hangt. Richt je lichaam dan op tot het iets boven een horizontale lijn is parallel aan de vloer. Op dit moment moet je een lichte buiging hebben in de rug en je schouderbladen  naar elkaar toe getrokken. Pauzeer een paar seconden en herhaal de oefening.";
+"Bent Over Row" = "Bent Over Row";
+"9 Bent Over Row" = " Ga staan met je knieën licht gebogen, buig je romp in een hoek van ongeveer 45 graden maar met een rechte rug. Neem de bar met een bovenhandse greep vast maar plaats de handen iets verder dan schouderbreedte met gestrekte armen recht naar beneden. Adem dan in en span je buikspieren isometrisch aan en trek de halter op tot aan de borst. Terug naar uitgangspositie en adem uit.";
+"Reverse Chin Ups" ="Omgekeerd kin omhoog";
+"10 Reverse Chin Ups"  = "Strek je armen en pak met een onderhandse grip de rekstok vast met je handen op schouderbreedte: Inademen en steek je borst vooruit, trek jezelf op totdat je kin boven de rekstok is. Uitademen en ga terug naar uitgangspositie.";
+"Biceps" = 	"Biceps";
+"Curls" = "Curls";
+"1 Curls" = "	Ga staan met je voeten op heupbreedte en houdt de middelzware halters voor je dijen. Span de biceps aan en buig nu je armen in een omhoog gaande beweging en breng de halters naar je schouders, maar houdt je ellebogen op zijn plaats; breng alleen de halters naar boven zo hoog je kunt. Dan weer langszaam naar beneden totdat je armen bijna gestrekt zijn en probeer spanning op de spieren te houden (dus niet de gewrichten op slot zetten).";
+"Barbell Curls" = "Halter Curls";
+
+"2 Barbell Curls" = "Begin in staande positie met je voeten uit elkaar op schouderbreedte en met ontspannen knieën. Pak de halter onderhands vast, ook op schouderbreedte, dus met de handpalmen omhoog. Ga dan rechtop staan en laat de halter tegen je dijen rusten. Span nu de biceps aan en breng de halter zo hoog mogelijk zonder de ellebogen te verplaatsen, alleen je onderarmen bewegen. Even vasthouden en dan weer langszaam omlaag brengen naar de beginpositie.";
+
+"Preacher Curls" = "Preacher Curls";
+"3 Preacher Curls"="	 Houdt de halter onderhands vast op schouderbreedte. Breng dan langszaam de halter omhoog tot iets verder dan in verticale positie. Houdt dat een paar seconden vast en breng de armen weer in startpositie.";
+"Hammer Curls" = 	"Hamer Curls";
+"4 Hammer Curls"	=" Voor deze oefening houd je een halter in elke hand met het gewicht naar voren gericht (onderhands). Je armen moeten een 90 graden hoek vormen. Met de elleboog in een vaste positie naast je lichaam breng je het gewicht omhoog richting je schouder. Daarna weer langszaam terug naar de startpositie brengen.";
+"Concentration Curls" = "Concentratie Curls";
+"5 Concentration Curls" = "Begin de oefening al zittend op de hoek van een bankje, het gewicht in je rechterhand houdend. Laat je arm met het gewicht losjes naar beneden hangen met de elleboog tegen je knie. Leun wat naar voren zodat je bovenlichaam boven je benen is en plaats je linkerhand op je linkerknie. Begin de oefening door het gewicht omhoog te brengen terwijl je elleboog je knie blijft raken. Lanszaam terug naar startpositie en de oefening herhalen. Daarna is je linkerarm aan de beurt op dezelfde manier.";
+
+"Reverse Curls" =	"Omgekeerde Curls";
+"6 Reverse Curls" = "Sta met je voeten iets uit elkaar en je armen recht, en gebruik een overhand grip (met de duimen naar elkaar):\n\n- Inademen en breng de halter omhoog\n\n- Uitademen bij het naar beneden brengenDeze oefening is voor de strekspieren van pols en vingers. Het werkt ook op de brachioradialis en tot op zekere hoogte ook de biceps.";
+"Cable Biceps Curl" = "Kabel Biceps Curl";
+"7 Cable Biceps Curl"	= "Bevestig een halterstang aan de lage katrol van een kabelstation. Neem dan de halterstang onderhands vast op schouderbreedte en houdt het op armlengte voor de dijen vast. Je knieën licht gebogen. Breng dan, zonder je bovenarmen te bewegen, de halterstang naar je borst zo ver als je kunt.";
+"Low Pulley Curls" =	"Lage katrol Curls";
+"8 Low Pulley Curls" = "Sta met je gezicht naar de machine gekeerd en houdt het handvat onderhands vast:\n\n- Adem in en breng het handvat naar boven\n\n- Adem uit terwijl je naar beneden gaat.Dit is een perfecte oefening voor het isoleren en oppompen van de biceps.";
+
+"Low Pulley Cable Crossover" = "Lage katrol kabel Crossover";
+"9 Low Pulley Cable Crossover" = "Stel de kabels in op de crossover stations en je gaat kruisgewijs je handen afwisselend naar je gezicht brengen en terug. Deze variant heeft veel effect op de bovenste borstspieren.";
+
+"Calf" = "Kuiten";
+"Toe Raises" = "Tenen liften";
+"1 Toe Raises" =	"Begin in een neutrale positie, hielen ongeveer op schouderbreedte. Houdt gewichten in je handen aan dezelfe kant als je voet. Krul je tenen omhoog door de kuitspieren aan te trekken en dan weer langszaam minderen en creëer zo een vloeiende beweging.";
+
+"One-Leg Toe Raises" = "Een been Tenen liften";
+"2 One-Leg Toe Raises" = "Ga op een been staan maar zet je tenen en bal van je voet op een blok. Houdt een gewicht in je hand aan dezelfde kant als die voet. Houd je goed vast aan een machine met je andere hand om niet om te vallen bij de oefening en je lichaam in balans te houden:\n\n- Ga nu op je tenen staan zo hoog als maar mogelijk is (plantaire flexie), terwijl je je knie zo recht mogelijk houdt.\n\n- Ga terug naar de startpositie.";
+"Seated Calf Raises" = "Zittend Kuiten heffen";
+"3 Seated Calf Raises" = "Pas het kussen aan zodat je scheenbeen recht omhoog staat en het kussen net achter de knieën is. Til het gewicht op je hiel omhoog met de bal van je voet. Langszaam laten zakken totdat je  het rekken van de kuitspier voelt. Om de binnenste en buitenste kuitspieren  te behandelen moeten je tenen naar binnen of naar buiten wijzen.";
+"Chest" = "Borst";
+"Bench Presses" = "Bankdrukken";
+"1 Bench Presses"=	"Om bankdrukken goed uit te voeren moet je ruggelings plat op een bank liggen met beide voeten vlak op de vloer. De halter, nog in de standaard, moet zich iets achter je hoofd bevinden. Het is belangrijk voor deze oefening iemand naast je te hebben, speciaal als je een vrije halter gebruikt, om de kans kleiner te maken dat je het gewicht van de halter op je borst krijgt. Zodra je het gewicht uit de standaard hebt getild breng je het gewicht boven je borst. Houdt je hoofd altijd op de bank tijdens de oefening. Zodra je de halter stevig en in positie hebt laat je die langszaam zakken tot vlak bij de borst, als je dat kunt tenminste. Houdt je armen altijd naar buiten terwijl je de halter laat zakken. Daarna de halter weer omhoog brengen en de armen strekken zodat je in staat bent om de halter weer in het rek te kunnen plaatsen.";
+"Incline Presses" = "Omgekeerd drukken";
+"2 Incline Presses"=	"Deze oefening erg erg vergelijkbaar  met het gewone bankdrukken zij het dat je een omgekeerd vrij-gewicht drukmachine gebruikt waarbij de bovenste groep borstspieren wordt verstevigd in plaats van de middelste borstspieren. Neem de halter van het rek en breng die ongeveer tot op 7 cm van waar je borstbeen begint (net onder de adamsappel) en druk de halter dan terug naar de startpositie. BRENG DE HALTER NIET TE LAAG BOVEN DE BORST (dat veroorzaakt alleen maar teveel spanning op je schoudergewrichten en neemt de druk weg van de grote borstspier waar we aan willen werken!). Als je de halter naar beneden brengt doe dat op een langszame gecontroleerde manier . Omgekeerd, bij het omhoog drukken mag dat met wat explosieve kracht gebeuren.";
+
+"Dumbbell Presses" = "Kleine halter drukken";
+"3 Dumbbell Presses" =	"Neem plaats op een bankje en houdt de halters vast terwijl ze rusten op je dijen. Ga nu achterover liggen op de bank. Gebruik dan je dijen om de gewichten naar je borst te brengen. Strek dan de armen omhoog en breng de halters omhoog met licht gebogen armen, met de handpalmen naar voor. Houdt je voeten vlak op de grond en probeer je rug recht te houden. Laat dan de halters langszaam zakken met de ellebogen naar buiten gericht totdat je ellebogen iets beneden schoudernivo zijn. Dan de halters weer omhoog brengen en naar elkaar toe zonder dat ze elkaar raken. Houdt de ellebogen licht gebogen, en laat ze niet op slot springen. Herhaal deze oefening een aantal keer. Om op te staan: houdt de halters vlak boven de borst, til je benen op en gebruik die als een soort hefboom om overeind te komen.";
+"Parallel Bar Dips" = "Brug oefening";
+"4 Parallel Bar Dips" =	"Allereerst dien je je hoofd omlaag te houden bij het bewegen en beweeg je lichaam naar voren. Ten tweede moet je je ellebogen iets naar buiten richten, dat wil zeggen niet vlak langs het lichaam. Dit is om er voor te zorgen dat je meer je borstspieren gebruikt dan je triceps. Onthoudt dat je je moet concentreren op het hele borstgebied als je met deze oefening bezig bent.";
+
+"Cable Crossover Flys" = "Gekruiste kabel oefening";
+"5 Cable Crossover Flys"	= "Deze oefening wordt gedaan waarbij je tussen twee kabel-katrol machines staat. Zet elke katrol vast in de hoogste positie ( vraag eventueel een trainer in de gym om dat voor je te doen). Terwijl je staat neem je in elke hand een klein handvat. Je lichaam lijkt nu een grote letter Y. Breng nu langszaam en gecontroleerd je beide handen naar elkaar toe  ver voor de borst. Het lijkt alsof je een dikke boom omhelst. Op het hoogtepunt van deze oefening moeten de grote borstspieren naar elkaar toe bewegen, en vasthouden voor een paar tellen. Daarna weer rustig terug naar de startpositie.";
+
+"Dumbbell Flys" = "Vliegende halters";
+"6 Dumbbell Flys" =	"Om de Vliegende Halters oefening uit te voeren heb je twee kleine halters nodig, een in elke hand. Je moet wat experimenteren welk gewicht het beste is. Begin met wat lichtere en bouw het langszaam op. Ga op een zwaardere bank liggen en houdt de halters hoog boven je borst met gestrekte armen. Dit is de uitgangspositie. Spreidt nu langszaam de armen naar buiten in een wijde boog tot ze naast je lichaam zijn, waarbij je armen licht gebogen zijn. Dit is het 'vliegen' element. het heet zo omdat het het vliegen nabootst. Ga dan met de halters dezelfde weg terug naar je startpositie. Dit is dan 1 rep in de vliegende halter oefening.";
+ 
+"Dumbbell Pullovers" = "Kleine halter Pullovers";
+
+"7 Dumbbell Pullovers" =	"Deze oefening heeft veel weg van de gebogen arm halter pullovers, met de uitzondering dat je nu een handhalter gebruikt. Ga met de rug plat op een bank liggen. Begin met de halter boven de borst vast te houden met de ellebogen licht gebogen. Breng de halter dan lanszaam met gesterekte armen achter je hoofd tot zover als je kunt. Je armen met de halter zullen als je die boven/achter je hoofd houdt, naar beneden willen door het gewicht en hier is de oefening voor, om die kracht vast te houden en de halter niet te laten zakken! Breng de halter langszaam terug in startpositie terwijl je je ellebogen min of meer licht gebogen op slot hebt.";
+
+ 
+"Push-Ups" = 	"Push-Ups";
+"8 Push-Ups"	= "Ga voorover op de grond liggen met je handen op de vloer op of iets breder dan schouderbreedte:\n\n- Inademen en buig je armen zodat je lichaam plat op de vloer komt, maar probeer krommen van de rug te voorkomen.\n\n- Druk jezelf op tot je armen weer gestrekt zijn in de uitgangspositie terwijl je uitademt om deze oefening af te sluiten.";
+
+"Dumbbell Press" = "Kleine halter drukken";
+"9 Dumbbell Press" = "Ga plat op een bank liggen met je voeten plat op de grond voor stabiliteit. Je armen gestrekt omhoog met de handpalmen naar je knieën gericht terwijl je de halters vasthoudt:\n\n- Adem in en laat de halters langszaam zakken tot op borstnivo door je ellebogen te krommen en je handen te draaien zodat je handpalmen naar binnen wijzen.\n\n- Druk de halters weer op met een isometrische samentrekking om de druk op de borstspieren te isoleren; uitademen terwijl je dit deel van de oefening doet.";
+
+"Barbell Bench Press" = "Halter opdrukken";
+"10 Barbell Bench Press" =	"Ga weer op de bank liggen met de halter overhands in je handen (met de handpalmen naar je voeten gericht). Breng de halter langszaam naar onderborst regio terwijl je je ellebogen dicht tegen het lichaam aan houdt. De halter moet lichtelijk je borst raken op het eind van deze oefening.";
+"Pec Deck Flies" = "Pec Fly Machine";
+"11 Pec Deck Flies"="Ga op de machine's zitting zitten en druk je ellebogen in de kussens, ontspan je onderarmen en polsen:\n\n- Inhale and force the pads together until they touch in front of your chest.\n\n- Exhale as you complete the movement.";
+
+"Forearms" = "Onderarmen";
+"Wrist Curls" = "Kromme polsen";
+"1 Wrist Curls" = "Ga zitten en laat je onderarmen rusten op je dijen of op een bankje. Neem met een onderhandse grip de halter vast en ontspan je polsen:\n\n- Inademen terwijl je je polsen omhoog brengt en de halter naar je onderarm.\n\n- Uitademen terwijl naar de uitgangspositie terug keert.";
+
+"Wrist Curls" = "Krommende polsen";
+"2 Wrist Curls" = "	Deze oefening bewerkt de buigspieren van de pols en vingers.Ga op een bankje zitten en laat je onderarmen rusten op je dijen en gebruik kleine halters onderhands:\n\n- Inademen terwijl je de polsen naar je onderarm buigt.\n\n- Uitademen terwijl je de oefening beëindigt.";
+
+"Legs" = "Benen";
+"Squats" = "Hurken";
+"1 Squats" = "Hurken is het je lichaam naar beneden brengen zonder je rug te krommen. In plaats daarvan gebruik je je benen om je lichaam omlaag te brengen en je rug in een neutrale positie te houden. Ga rechtop staan met je voeten op heupwijdte. Druk je heupen naar achter en buig je knieën. Houdt je gewicht op de hielen, niet op de bal van je voet of je tenen. Je knieën moeten zich achter je tenen bevinden. Ga nog verder omlaag totdat je knieën een hoek van 90 graden vormen. Houdt dit een paar tellen vast en richt je dan weer langszaam op door je knieën en heup weer recht te maken.";
+"Angled Leg Presses" = "Gehoekt benen drukken";
+"2 Angled Leg Presses" =	"Ga op de machine zitten met je rug en hoofd op de daarvoor bestemde kussens. Zet je voeten vlak op de voetplaat op heupbreedte (dus de volle voet vlak op de plaat). Je benen moeten een hoek van ongeveer 90 graden vormen. De knieën moeten in lijn zijn met je voeten en heupen, niet naar binnen of buiten wijzen. Je billen moeten het zitgedeelte raken, niet omhoog steken. Als dat wel zo is hebben je knieën niet de juiste hoek en moet je de zitting iets verstellen totdat de juiste positie is bereikt. Een slechte positie kun je makkelijk herkennen als je knieën je uitzicht belemmeren en je je verkrampt gaat voelen. Vraag eventueel assistentie om het apparaat goed in te stellen.";
+
+"Leg Extensions" = "Benen oefening";
+"3 Leg Extensions"=	"Breng langszaam het gewicht omhoog door de benen te strekken in horizontale positie. Doe het langszaam voor beter resultaat. Houdt die positie een paar tellen vast  en dan weer langszaam terug naar de startpositie. Herhaal de beweging.";
+
+"Dumbbell Lunges" = "Halter knieval";
+"4 Dumbbell Lunges" =	"Sta rechtop met de halters langs je lichaam. Zet een been een stapje naar voren met eerst de hiel en dan de rest van de voet. Laat je lichaam zakken door je knie te buigen tot je achterste knie bijna de grond raakt. Houdt de rug recht en vertikaal bij deze oefening. Ga dan terug naar de startpositie in een snelle beweging. Herhaal de oefening met het andere been.";
+
+"Cable Back Kicks" = 	"Kabel terugtrappen";
+"5 Cable Back Kicks" =	"Bevestig een manchet aan de kabel over de lage katrol. Maak de manchet om je enkel vast. Ga dan voor de machine staan en houd je daar aan vast voor ondersteuning. Kantel je bekken naar voren. Breng dan je been met het manchet zo ver mogelijk naar achteren.";
+
+"Dumbbell Squats" = 	"Hurken met halters";
+"6 Dumbbell Squats" =	"Sta met je voeten iets uit elkaar en houdt de halters in je handen vast met je armen hangend langs je lichaam:\n\n- Kijk recht vooruit en maak je rug iets hol en hurk dan langszaam.\n\n- Zodra je dijen evenwijdig zijn met de vloer, strek je de benen en ga terug naar de startpositie-Uitademen als je de beweging afsluit.";
+
+"Front Squats" = 	"Voorkant Hurken";
+"7 Front Squats" =	"Plaats de halter voor je voorste Deltaspieren, houdt je bovenarmen parallel aan de vloer, krom je ellebogen en kruis je armen over elkaar en houdt de halter vast. Kijk recht vooruit:\n\n- Inademen en hurk neer.\n\n- Ga dan terug naar de startpositie terwijl je uitademt. ";
+
+"Power Squats" =	"Kracht hurken";
+"8 Power Squats" = "Deze beweging is bijna hetzelfde als het gewone hurken maar je benen zijn wijd uit elkaar en je tenen wijzen naar buiten, wat speciaal de binnenste dijspieren bewerkt. De spieren die hier mee gemoeid zijn:\n\n- De Quadriceps\n\n- Alle andere spieren\n\n- Bilspieren\n\n- Hamstring groep\n\n- Lange rechte rugspieren";
+
+"Hack Squats" = "Hack hurken";
+"9 Hack Squats"="Buig de knieën, en zet je rug tegen het kussen, zet je schouders vast tussen de jukken van de machine en zet je voeten redelijk dicht bij elkaar:\n\n- Inademen, draai de stopgrendels los aan de zijkant van de jukken om de machine vrij te maken en buig je benen.\n\n- Uitademen terwijl je terug gaat naar de uitgangspositie.";
+
+"Seated Leg Curls" ="Zittend benen buigen";
+
+"11 Seated Leg Curls" = "Ga op de machine zitten met je benen recht, je enkels rusten op het rolkussen. Breng het andere rolkussen op je dijen om ze op hun plaats te houden. Houdt de handgrepen vast aan beide kanten:\n\n- Inademen terwijl je je benen kromt en de rol omlaag drukt\n\n- Uitademen terwijl je terug gaat naar de startpositie.";
+
+
+"Shoulders" = "Schouders";
+
+"Back Presses" = 	"Terug drukken";
+
+"1 Back Presses" =	"Begin met te gaan zitten op de bank met rugondersteuning. Neem de halter vast met een bovenhandse grip. Houdt de halters boven je schouders iets voor je en de ellebogen naar de vloer gericht. Druk de halter omhoog tot boven je hoofd en de armen gestrekt zijn. Even vasthouden en laat de halter weer naar de uitgangspositie zakken.";
+"Seated Front Presses" = 	"Zittend voorkant opdrukken";
+"2 Seated Front Presses" = "Zittend op een rechte bank. Neem de halter vast op iets meer dan schouderbreedte. Druk de halter direct omhoog tot de armen gestrekt zijn boven de schouders. Laat dan de halter langszaam zakken tot voor je schouders en breng de halter terug omhoog naar de startpositie.";
+"Seated Dumbbell Presses" = 	"Zittend halter drukken";
+"3 Seated Dumbbell Presses" =	"Plaats jezelf op een bank of stoel met je rug recht. Neem een halter in elke hand en houdt ze aan de buitenkant van je schouders waarbij je duimen naar elkaar toe wijzen. Druk de halters dan eenvoudigweg omhoog tot boven je hoofd, even vasthouden en dan weer langszaam terug naar de startpositie naast je schouders.";
+"Low-Pulley Lateral Raises"= 	"Lage katrol zijwaards trekken";
+"4 Low-Pulley Lateral Raises" =	"Ga zijwaards dicht bij de machine staan, en positioneer je armen iets opzij van je dijen. De hand die het verste van de machine verwijderd is neemt nu de handvat vast. Tijdens het inademen breng je het handvat met bijna gestrekte arm naar buiten schuin omhoog tot je bovenarm op schouderhoogte is. Houdt je handpalm naar beneden gericht. Langszaam, terwijl je uitademt, in een gecontroleerde beweging weer terug naar de startpositie.";
+"Upright Rows" = 	"Rechtop roeien";
+"5 Upright Rows" =	"Halter bovenhands vastpakken op schouderbreedte. Til de halter dan op tot onder de kin tot de ellebogen horizontaal zijn met de vloer. Stop dan het trekken en breng de halter langszaam in een gecontroleerde beweging  terug naar de startpositie. Op het hoogtepunt van de oefening moeten de ellebogen hoger zijn dan de polsen.";
+"Dumbbell Rear Deltoid Raises" = 	"Achterste deltaspieren halter heffen";
+"6 Dumbbell Rear Deltoid Raises" = "Zit op een bankje wat naar voren gebogen, beide voeten vlak op de vloer tegen elkaar. Breng de halters naar buiten met gestrekte armen en polsen. Dan weer langszaam naar de startpostie gaan.";
+
+"Lateral Raises" = "Zijwaards tillen";
+"7 Lateral Raises" =	"Ga met de voeten iets uit elkaar rechtop staan. Houdt je rug recht en je armen hangen langs je lichaam terwijl je in elke hand een halter vast houdt:\n\n- Til de halters zijwaards tot op schouderhoogte met licht gebogen armen.\n\n- ga dan langszaam terug naar de startpositie.";
+
+"Front Raises" =	"Voor je uit tillen";
+"8 Front Raises" =	"Ga met de voeten iets uit elkaar rechtop staan en houdt je rug recht. Houdt de halters bovenhands (palmen naar onder) vast en laat de halters op je dijen of iets naar buiten rusten:\n\n- Terwijl je inademt til je de halters, met rechte armen, recht voor je uit omhoog tot op schouderhoogte.\n\n- Ga uitademend weer terug naar de startpositie.";
+
+"Barbell Front Raises" =	"Grote halter voor je tillen";
+"9 Barbell Front Raises"  =	"Sta met de voeten iets uit elkaar rechtop. Neem een halter bovenhands (palmen naar onder) vast op schouderbreedte en laat de halter tegen de dijen rusten. Houdt je rug recht en je buikspieren gespannen:\n\n- Terwijl je inademt breng je de halter naar voor met gestrekte armen fot op oognivo.\n\n- Adem rustig uit terwijl je langszaam naar de startpositie terug keert.";
+
+"Upright Row" = 	"Staande roeien";
+"10 Upright Row" = 	"Ga rechtop staan met de benen licht gespreid. Houdt je rug recht. Neem de halter bovenhands vast op handbreedte van elkaar of iets meer:\n\n- Adem in en breng de halter recht omhoog tot onder de kin.\n\n- Til je ellebogen hierbij zo hoog mogelijk op.\n\n- Laat de halter langszaam en gecontroleerd zakken naar de uitgangspositie terwijl je uitademt.";
+
+"Low Pulley Bent-Over Lateral Raises" = 	"Voorover gebogen zijdelings trekken aan de lage katrol";
+"11 Low Pulley Bent-Over Lateral Raises" =	"Sta met de benen gespreid en de knieën licht gebogen. Buig wat naar voren vanuit je heupen en houdt je rug recht. Laat je armen hangen. Neem dan een handvat in elke hand met gekruiste kabels:\n\n- Adem in terwijl je je armen naar buiten brengt tot je handen iets boven de schouders zijn.\n\n- Uitademen terwijl je gecontroleerd naar de uitgangspositie gaat.";
+
+"Low Pulley Front Raises"  = "Lage katrol trekken voorkant";
+"12 Low Pulley Front Raises"  ="Sta met de benen licht gespreid. Houdt het handvat bovenhands vast (palmen naar onder) en je armen langs je lichaam:\n\n- Inademen terwijl je gestrekte arm naar voor brengt tot op schouderhoogte.\n\n- Uitademen terwijl je langszaam naar de startpositie terug gaat.Deze oefening werkt op de deltaspieren.";
+
+"Pec Deck Rear-Delt Laterals "="Pec Deck achterste deltaspier zijwaards";
+
+"13 Pec Deck Rear-Delt Laterals" = "Ga op een PecDec machine zitten met je gezicht naar de rugsupport, met je armen uitgestrekt de handgrepen vasthoudend:\n\n- Inademen terwijl je je ellebogen naar achter brengt en op het eind de schouderbladen naar elkaar \n\n- Uitademen terwijl je weer terug gaat naar de beginpositie.";
+
+"Triceps" =	"Triceps";
+
+"Close-Grip Bench Presses" =	"Close-Grip Bank drukken ";
+
+"1 Close-Grip Bench Presses" =	"Ga op een gewone vlakke bank opdrukmachine liggen. Vlak op de rug en houdt de halter met beide handen vlak bij elkaar (15 tot 20 cm tussenruimte) vast. Til de halter van het rek en breng die langszaam tot op 7 centimeter boven de borst en breng de halter dan terug naar de uitgangspositie. Let er op dat je bij deze hele oefening je ellebogen vlak bij het lichaam houdt.";
+
+
+"Push-Downs" =	"Omlaag drukken";
+
+
+"2 Push-Downs" =	"Gebruik een hoge katrolkabel met een korte staaf in bovenhandse grip. De handen ongeveer 25 centimeter uit elkaar. Positioneer jezelf zodanig dat je onderarmen parallel zijn met de vloer en je voeten op schouderbreedte uit elkaar en met licht gebogen knieën. Zet je ellebogen op slot vlak bij het lichaam en je polsen recht. Zonder de rest van je lichaam te bewegen druk je nu de staaf zo ver mogelijk naar beneden tot voor je dijen, hierbij zijn je armen nog steeds op slot en zul je de triceps voelen aanspannen. Houdt je bovenarmen tegen je lichaam. Ga dan langszaam terug naar de startpositie in tegengestelde beweging. Beweeg je torso of ellebogen nooit bij deze oefening! En blijf rechtop staan.";
+
+"Triceps Extensions" =	"Triceps verlengen";
+
+"3 Triceps Extensions" =	"Door de halter boven de ogen te brengen span je de triceps aan terwijl je armen recht omhoog wijzen. Laat nu de halter langszaam en gecontroleerd zakken tot vlak boven je voorhoofd maar zonder de bovenarmen te bewegen, en alleen de ellebogen te buigen.";
+
+"Triceps KickBacks" =	"Triceps achteruit slaan";
+
+"4 Triceps KickBacks" =	"Kniel comfortabel op een bankje met het zelfde been als waar je de halter vasthoudt. Met een rechte rug en recht vooruit kijkend breng je het gewicht recht naar achter van een hoek van 90 graden (zie afbeelding) naar gesterekte arm zonder je bovenarm te bewegen.";
+
+"One-Arm Dumbbell Triceps Extensions" =	"Een-Arm halter Triceps verlengen";
+
+
+"5 One-Arm Dumbbell Triceps Extensions"  =	"Houdt je arm volledig gestrekt boven je lichaam. let er op dat je elleboog naar buiten gericht is. Met je vrije arm houd je nu je andere arm onder de elleboog vast voor ondersteuning. Breng nu het gwicht omlaag door alleen de elleboog te buigen. Zodra de onderarm paralleel is aan de vloer mag je de arm weer langszaam strekken en het gewicht omhoog brengen.";
+
+
+"Bar Triceps Extensions" =	"Triceps verlengen met halter";
+
+"6 Bar Triceps Extensions" =	"Sta met de voeten op schouderbreedte uit elkaar. Neem een halter of e-z bar bovenhands vast op minder dan schouderbreedte. Breng de halter nu eerst boven je hoofd met volledig gestrekte armen. Houdt je ellebogen naar binnen gericht. Dit is nu je uitgangspositie. Houdt je bovenarmen vlak langs je hoofd en je ellebogen naar binnen loodrecht op de vloer.  Verlaag nu langszaam de spanning door in een cirkelvormige beweging het gewicht achter je hoofd te brengen totdat je onderarmen je biceps raken. Tip: je bovenarmen moeten op hun plaats blijven en alleen de onderarmen bewegen. Inademen bij het uitvoeren van het eerste deel van de oefening en uitademen bij het weer terug gaan naar de startpositie waarbij je de triceps het werk laat doen.";
+
+"Dumbbell Triceps Extension" =	"Triceps verlengen met kleine halters";
+
+"7 Dumbbell Triceps Extension" =	"ga op een vlakke bank liggen met een halter in iedere hand en je armen recht omhoog vanuit de schouders:-Adem in en buig langszaam je armen- Ga terug naar de beginpositie en adem uit terwijl je dat doet.Deze oefening bewerkt alle uiteinden van de triceps. ";
+
+"Triceps Dips" =	"Triceps neerzakken";
+
+"8 Triceps Dips" =	"Zet je handen op de rand van een bankje en je voeten op een ander bankje. Je bovenlichaam moet een hoek vormen van 90 graden met je benen:\n\n- Inademen en buig nu je armen\n\n- Strek je armen nu weer om naar het startpunt te gaan terwijl je uitademt.Deze oefening is voor triceps, borstspieren en voorste deltaspieren. ";
+
+"Triceps Pushdown" =	"Triceps Omlaag drukken";
+
+"9 Triceps Pushdown" = "Ga voor de machine staan met je handen aan de staaf en je ellebogen langs je lichaam:\n\n- Inamdemen terwijl je je armen strekt zonder je ellebogen van je lichaam te laten verwijderen.\n\n- Uitademen terwijl je langszaam naar de beginpositie terug keert.";
+
+"One Arm Reverse Pushdown" =	"Een arm omgekeerd omlaag drukken";
+
+"11 One Arm Reverse Pushdown" =	"Ga met je gezicht naar het toestel gekeerd staan en houdt de handgreep onderhands vast:\n\n- Inademen terwijl je je arm strekt\n\n- Uitademen als je de oefeing afmaakt.";
+
+
+"Rotating T Extension"="Roterende T Verlenging";
+
+
+"16 Rotating T Extension"="1. Start in een opdrukken positie. Houd de armen gestrekt en je lichaam recht.\n\n2. Breng je gewicht nu naar je linkerarm, draai je lichaam naar rechts en breng je rechterarm naar het plafond zodat je lichaam een letter T vormt.\n\n3. Drie seconden vasthouden en dan beheerst terug naar startpositie. Hetzelfde maar nu met de andere kant.  Dit is nu een rep.";
+
+
+"Bodyweight Hip Extension"="Lichaamsgewicht Heupoefening";
+
+
+"15 Bodyweight Hip Extension"="1. Lig plat op de vloer met een voet vlak op de vloer, het andere been gestrekt. Gebruik je handen voor stabiliteit.\n\n2. Houd je lichaam recht en til je gestrekte been op zodat ook je onderrug los komt van de vloer. Houd dat vast gedurende een seconde en gaa beheerst terug naar de startpositie. ";
+
+
+"Superman"="Superman";
+
+
+"17 Superman"="1. Ga met handen en voeten op de vloer, met je knieën onder je heupen op heup-afstand van elkaar en je handen op schouderbreedte uit elkaar onder je schouders. Breng je wervelkolom in de neutrale stand. Activeer nu je lichaam door je buikspieren naar je wervelkolom te trekken.\n\n2. Zonder naar de zijkant te bewegen en je buikspieren ingetrokken houdend, uitademen en breng langszaam een arm en tegengesteld been gestrekt en horizontaal aan de vloer. Let op dat je het tempo vasthoudt.\n\n3. Inademen en langszaam je arm en been terug naar startpositie brengen.\n\n4. Herhaal de oefening het gewenste aantal keren, en daarna met de andere arm en andere been.";
+
+
+"Bodyweight Superman"="Lichaamsgewicht Superman";
+
+
+"11 Bodyweight Superman"="1. Lig vlak op de vloer, buikzijde onder, armen recht vooruit gestrekt. \n\n2. Til nu benen en bovenlichaam zo hoog mogelijk van de vloer op, houd een seconde vast en ga dan langszaam terug naar de uitgangspositie.";
+
+
+"Dumbbells Bent Over Row"="Gebogen halteroefening";
+
+
+"12 Dumbbells Bent Over Row"="1. Houd een paar halters vast op borsthoogte terwijl je voorover gebogen staat, maar met kaarsrechte rug. De halters hangen in je gestrekte armen en de handpalmen wijzen naar elkaar toe.\n\n2. Til de halters op tot tegen de zijkant van je borstkast en laat ze dan langszaam weer zakken terwijl je je rug staads recht en strak houdt .";
+
+
+"Seated Bent Over Row"="Zittend Gebogen halteroefening";
+
+
+"14 Seated Bent Over Row"="1. Zit op een bankje met de knieën gebogen, voeten vlak op de vloer. Plaats een set halters naast je op de vloer. Buig dan voorover in je middel zover je kunt totdat je rug nagenoeg parallel is aan de vloer. Je borst raakt nu je knieën. Ga verder door de halters vast te pakken en laat je armen recht omlaag hangen.\n\n2. Draai de halters dusdanig dat de handpalmen naar elkaar wijzen..\n\n3. Zoder ook maar iets anders van je lichaam te bewegen dan je armen, breng je nu de halters vlak naar het lichaam toe, naar de zijkant van je borst.\n\n4. Houd een seconde vast en breng dan de halters weer beheerst en langszaam terug.";
+
+
+"Stability Ball Hyperextension"="Stabiliteitsbal Hyperextensie";
+
+
+"13 Stability Ball Hyperextension"="1. Lig gestrekt op de oefeningsbal. Je gehele lichaam moet op de bal liggen en houd je armen achter op je hoofd.\n\n2. Til nu je lichaam iets op zodat je borst geen contact meer heeft met de bal. Houd dat een seconde vast en ga terug naar de startpositie.";
+
+
+"T-Bar Bent Over Row"="Voorover Gebogen T-Bar Oefening";
+
+
+"15 T-Bar Bent Over Row"="1. Sta met de voeten gespreid op een  T-Bar machine en houd de handgrepen bovenhands vast. vergewis je ervan dat je voeten op schouderbreedte uit elkaar staan en je knieën licht gebogen zijn, zoals getoond wordt.\n\n2. Houd de rug recht  en buig in je middel totdat je lichaam 45 graden is. De halter hangt op armslengte direct onder de schouders.\n3. Dan, terwijl je je schouderbladen naar elkaar toe brengt, til je de halter ho hoog mogelijk op tot onder aan de borst. Pauzeer even en breng de halter dan langszaam weer terug in startpositie.";
+
+
+"Dumbbell Biceps Curl (Hammer Grip On Bench)"="Halter met krullende biceps (Hamer Grip op bank)";
+
+
+"10 Dumbbell Biceps Curl (Hammer Grip On Bench)"="1. Terwijl je met een rechte rug staat houd een halter vast met hamergrip. laat je bovenarm rusten op de bank.\n\n2. Til de halter nu op terwijl je bovenarm in positie blijft. Een seconde vasthouden en rustig terug naar uitgangspositie.";
+
+
+"Dumbbell Biceps Curl (Hammer Grip Standing)"="Halter met krullende biceps (Staande hamergrip)";
+
+
+"11 Dumbbell Biceps Curl (Hammer Grip Standing)"="1. Terwijl je met een rechte rug staat houd je de halters langs je zij in hamergrip vast. Houd de armen gestrekt.\n \n2. Til de halters nu op maar houd de bovenarmen in positie. Probeer de schouders niet te gebruiken bij deze oefening. \n\n3. Houd een seconde vast en ga beheerst terug naar de uitgangspositie.";
+
+
+"Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="Halter met krullende biceps (Onderhandse Grip met een arm)";
+
+
+"12 Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="1. Buig de knieën licht. Houd de rug recht. houd een halter vast in onderhandse grip . Positioneer je elleboog op je binnendij.\n\n2. Til de halter terwijl je je bovenarm op zijn plaats houdt. Houd een seconde vast en dan beheerst terug naar uitgangspositie.";
+
+
+"Dumbbell Biceps Curl (Underhand Grip On Bench)"="Halter met krullende biceps (Onderhandse Grip op een bank)";
+
+
+"13 Dumbbell Biceps Curl (Underhand Grip On Bench)"="1. Terwijl je staat met een rechte rug houd je een halter met onderhandse grip vast . Je bovenarm rust op een bank.\n\n2. Til de halter maar houd je bovenarm op zijn plaats. Een seconde vasthouden en dan beheerst terug naar de uitgangspositie.";
+
+
+"Dumbbell Biceps Curl Seated (Hammer Grip)"="Zittend Biceps krullen (Hamer Grip)";
+
+
+"14 Dumbbell Biceps Curl Seated (Hammer Grip)"="1. Terwijl je rechtop zit , laat je halters naast je hangen die je in hamergrip vasthoudt. Houd je armen gestrekt.\n\n2. Til de halters nu op waarbij je bovenarmen op zijn plaats blijven. Probeer niet de schouders te gebruiken bij deze oefening. Houd een seconde vast en ga beheerst terug naar startpositie.";
+
+
+"Dumbbell Biceps Curl Seated (Underhand Grip)"="Zittend Biceps krullen (Onderhandse Grip)";
+
+
+"15 Dumbbell Biceps Curl Seated (Underhand Grip)"="1. Terwijl je rechtop zit, laat je halters naast je hangen die je onderhands vasthoudt. Houd je armen recht.\n\n2. Til de halters nu op waarbij je bovenarmen op zijn plaats blijven. Probeer niet de schouders te gebruiken bij deze oefening. Houd een seconde vast en ga beheerst terug naar startpositie.";
+
+
+"Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="Op Stabiliteitsbal Biceps krullen (Hamer Grip)";
+
+
+"16 Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="1. Houd een halter in hamergrip vast en kniel achter de stabiliteitsbal neer. Positioneer je bovenarm op de stabiliteitsbal. \n\n2. Til de halter nu op maar houd je bovenarm op zijn plaats. Probeer om niet de schouders te gebruiken bij deze oefening. Houd een seconde vast en ga dan langszaam terug naar startpositie.";
+
+
+"Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="Op Stabiliteitsbal Biceps krullen (Onderhandse Grip)";
+
+
+"17 Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="1. Houd een halter in onderhandse grip vast en kniel achter de stabiliteitsbal neer. Positioneer je bovenarm op de stabiliteitsbal.\n\n2. Til de halter nu op maar houd je bovenarm op zijn plaats. Probeer om niet de schouders te gebruiken bij deze oefening. Houd een seconde vast en ga dan langszaam terug naar startpositie.";
+
+
+"Stability Ball Dumbbell Biceps Curl Seated"="Op Stabiliteitsbal zittend Biceps krullen";
+
+
+"18 Stability Ball Dumbbell Biceps Curl Seated"="1. Terwijl je met rechte rug op een stabiliteitsbal zit, neem een paar halters vast zodat je armen volledig gestrekt langs je zij hangen. Handpalmen naar buiten gericht. (zoals afgebeeld)\n\n2. Breng nu langszaam je onderarmen omhoog via de elleboog en breng de halters naar schouderhoogte, maar zonder de positie van de bovenarmen te veranderen. De arm moet gewoon buigen in de elleboog. Draai in geen geval de polsen terwijl je de halters omhoog brengt.";
+
+
+"Stability Ball Dumbbell Biceps Preachear Curl"="Op Stabiliteitsbal Biceps onderhands krullen";
+
+
+"19 Stability Ball Dumbbell Biceps Preachear Curl"="1. Leg een stel halters op de vloer achter een stabiliteitsbal. Kniel dan voor de bal neer met je armen er overheen zodat je de halters onderhands kunt pakken. Laat dan je gewicht langszaam naar beneden gaan richting je hielen terwijl je je triceps in de bal drukt onderarmen naar beneden.\n\n2. Houd je rug recht terwijl je de halters omhoog brengt richting je schouders tot je onderarmen vertikaal staan ten opzicht van de vloer.";
+
+
+"Underhand Grip Prone On An Incline Bench"="Onderhandse grip voorover op hellend bankje";
+
+
+"20 Underhand Grip Prone On An Incline Bench"="1. Lig met de buik op een schuine bank. Laat de halters naast je hangen in onderhandse grip. Houd de armen recht.\n2. Breng de halters nu langszaam recht omhoog, je polsen gefixeerd dus beweeg of buig ze niet, en houd je bovenarmen loodrecht ten opzichte van de vloer.";
+
+
+"Barbell Calf Raise (Seated)"="Halterstang Kuiten strekken (zittend)";
+
+
+"4 Barbell Calf Raise (Seated)"="1. Terwijl je rechtop zit met rechte rug, plaats je de halter op de onderdijen. Gebruik je handen om de halter onder controle te houden.\n\n2. Breng nu je kuiten omhoog door op je tenen te gaan staan als het ware. Houd dat een seconde vast  en ga dan langszaam terug naar de startpositie.";
+
+
+"Barbell Calf Raise With Single Leg (Seated)"="Halterstang Kuit van een been strekken (zittend)";
+
+
+"5 Barbell Calf Raise With Single Leg (Seated)"="1. Terwijl je rechtop zit met rechte rug, plaats je de halter op een van je onderdijen. Gebruik je handen om de halter onder controle te houden.\n\n2. Breng nu je kuit omhoog door op je tenen te gaan staan als het ware. Houd dat een seconde vast  en ga dan langszaam terug naar de startpositie.\n\n3. Herhaal de oefening met het andere been.";
+
+
+"Dumbbell Calf Jump"="Kuitspringen met halters";
+
+
+"6 Dumbbell Calf Jump"="1. Sta met je voeten op heupbreedte uit elkaar. Neem een stel halters  en houd ze met gestrekte armen naast je lichaam.\n\n2. Zak nu een beetje door je knieën tot ongeveer 45 graden en spring dan zo hoog je kunt. Richt je tenen naar de vloer tijdens het springen.\n\n3. Bij het neerkomen weer tot 45 graden doorbuigen en onmiddellijk opnieuw springen.";
+
+
+"Dumbbell Calf Raise (Seated)"="Kuiten strekken met halters (zittend)";
+
+
+"7 Dumbbell Calf Raise (Seated)"="1. Terwijl je zit met gestrekte rug plaats je een halter op elk van je onderdijen. Houd de halters onder controle met je handen.\n\n2. Breng nu je kuiten omhoog door op je tenen te gaan staan als het ware. Houd dat een seconde vast  en ga dan langszaam terug naar de startpositie.";
+
+
+"Standing Barbell Calf Raise"="Staande met Halterstang Kuiten strekken";
+
+
+"8 Standing Barbell Calf Raise"="1. Terwijl je met rechte rug staat plaats je een halter op je schouders. Houd de halter vast met bovenhandse grip. Hander iets verder dan schouderbreedte uit elkaar.\n\n2. Breng nu je kuiten omhoog door op je tenen te gaan staan als het ware. Houd dat een seconde vast  en ga dan langszaam terug naar de startpositie.";
+
+
+"Standing Dumbbell Calf Raise"="Staande kuiten strekken met halters";
+
+
+"9 Standing Dumbbell Calf Raise"="1. Sta rechtop met je voeten op heupbreedte uit elkaar en houd een zware halter in elke hand, armen vlak naast het lichaam.\n\n2. Terwijl je je rug recht houdt ga je langszaam op je tenen staan  en til je hielen daarbij zo hoog mogelijk op.\n\n3. Pauseer even op het hoogste punt en ga dan langszaam weer naar beneden.";
+
+
+"Single Arm Pushup"="Push-up met een arm";
+
+
+"19 Single Arm Pushup"="1. Ga uit van de standaard push-up, gestrekt, voeten naast elkaar handen op de vloer recht onder de schouders en op schouderbreedte uit elkaar. Zet nu je voeten uit elkaar op iets meer dan schouderbreedte. \n\n2. Leg nu een hand op je rug.\n\n3. En met je andere hand druk je je lichaam op van de vloer, Ga niet door tot een gestrekte elleboog, maar stop vlak er voor. Houd je rug recht.\n\n4. terwijl je je lichaam laat zakken kun je je lichaam iets draaien van de opdrukkende arm weg, voor een betere balans.\n\n5. Laat jezelf zakken totdat je kin een vuistbreedte van de vloer verwijderd is. Omdat je je luichaam iets hebt gedraaid is de plaats van je kin nu ongeveer daar waar eigenlijk je andere hand zou staan, maar die zit op je rus. Dit is een rep.\n\n6. Ga terug naar stap 1 en herhaal met de andere arm.";
+
+
+"Decline Pushup"="Hellende push-up";
+
+
+"12 Decline Pushup"="1. Plaats je voeten op een bankje of iets anders hoger dan de vloer, en ga dan in de standaard push-up positie.\n\n2. Laat je lichaam zakken tot je borst bijna de grond raakt, pauzeer even en druk jezelf weer naar de startpositie. Houd je lichaam goed gestrekt en verhinder dat je heupen doorzakken. Houd je lichaam strak en recht door je buikspieren aan te spannen en je benen te strekken door het gewicht op je tenen te plaatsen.";
+
+
+"Dive Bomber Pushup"="Dive Bomber Push-up";
+
+
+"13 Dive Bomber Pushup"="1. Plaats jezelf in een push-up positie maar plaats je handen wat verder weg en wijder dan schouderbreedte. Terwijl je ne je voeten strekt breng je je heup omhoog, maar houd je rug en benen recht bij de hele oefening.\n\n2. Laat nu je borst zakken en naar voren totdat je bijna de vloer raakt. Je schouders moeten nu op een lijn staan met je handen.\n\n3. Pauzeer even, druk dan je heupen omlaag en strek je armen. Pauzeer opnieuw. Dan dezelfde bewegingen maar in omgekeerde volgorde tot je op het uitgangspunt aankomt.";
+
+
+"Dumbbell Floor Chest Press"="Halter borstdrukken van de vloer";
+
+
+"14 Dumbbell Floor Chest Press"="1. Ga op de vloer liggen. Neem twee halters bovenhands vast en laat je bovenarmen op de grond rusten terwijl je de onderarmen recht omhoog houdt, de halters naar omhoog gericht.\n\n2. Strek nu beide armen recht omhoog. Houd dat een seconde vast . Houd je rug te allen tijde gestrekt op de vloer en beweeg je benen niet. Ga dan terug naar startpositie. ";
+
+
+"Dumbbell Pushup"="Halter Push-up";
+
+
+"15 Dumbbell Pushup"="1. Met twee halters op schouderbreedte uit elkaar op de vloer voor je, kniel je neer en houd ze vast. Houd je armen gestrekt, benen recht voeten vlak bij elkaar en ellebogen op slot.\n\n2. Laat nu je lichaam tot vlak boven de vloer zakken door je ellebogen maar vooral je rug recht te houden.\n\n3. Druk jezelf nu langszaam weer op tot je armen weer recht zijn maar je ellebogen niet op slot. Herhaal de oefening.";
+
+
+"Incline Pushup"="Hellende Push-up";
+
+
+"16 Incline Pushup"="1. Plaats je handen op een bankje en breng je lichaam verder in een standaard push-up positie. \n\n2. Laat je lichaam zakken totdat je borst bijna het bankje raakt, pauzeer en druk jezelf dan langszaam weer in startpositie.  Laat je heupen vooral niet doorbuigen in deze oefening, houd je lichaam recht en stijf door je buikspieren aan te spannen en houd je benen recht door het gewicht op je tenen te dragen. Herhalen.";
+
+
+"Medicine Ball Pushup (Alternating)"="Kleine bal Push-up (om en om)";
+
+
+"17 Medicine Ball Pushup (Alternating)"="1. Lig met de handen op de vloer. Plaats je handen naast je onderborst. De afstand tussen de handen is iets meer dan schouderbreedte. Til jezelf nu van de vloer met je armen zodat alleen je handen en tenen de vloer raken. Houd je rug recht. Plaats nu een bal onder een van de handen waarbij de hand iets naar buiten mag wijzen.\n\n2. Laat je lichaam nu langszaam zakken totdat je borst op vuistbreedte van de vloer is door alleen de ellegogen te krommen richting je voeten. Houd een seconde vast en ga dan terug naar startpositie.\n\n3. Rol de bal naar de andere hand en herhaal de zelfde oefeningen.";
+
+
+"Modified Pushup"="Gemodificeerde Push-up";
+
+
+"18 Modified Pushup"="1. Ga met handen en knieën op de vloer, plaats je handen op iets verder dan schouderbreedte uit elkaar. Kruis je onderbenen zoals is afgebeeld.\n\n2. Laat je lichaam zakken tot je borst bijna de grond raakt, pauzeer even en druk jezelf weer in startpositie.  Houd je lichaam strak en stijf door je buikspieren aan te spannen.";
+
+
+"Stability Ball Flat Dumbbell Chest Press"="Ruggelings op stabiliteitsbal halters drukken vanuit de borst";
+
+
+"21 Stability Ball Flat Dumbbell Chest Press"="1. Lig ruggelings op een stabiliteitsbal, voeten naast elkaar op de vloer. Houd halters vast in bovenhandse grip en houd ze nasst je borst.\n\n2. Strek je armen recht voor je uit omhoog. Houd even vast en laat dan langszaam zakken naar startpositie.";
+
+
+"Stability Ball Flat Dumbbell Fly"="Ruggelings op stabiliteitsbal halters naar opzij";
+
+
+"20 Stability Ball Flat Dumbbell Fly"="1. Lig ruggelings op een stabiliteitsbal met beide voeten op de vloer.  Houd twee halters vast in hamergrip en houd je armen gestrekt recht boven je borst. \n\n2. Laat je elleboog licht doorbuigen en laat de halters langszaam zakken tot ze naast je bovenlichaam zijn. Houd dit even vast en dan terug naar uitgangspositie.";
+
+
+"Stability Ball Pushup"="Stabiliteitsbal Push-up";
+
+
+"22 Stability Ball Pushup"="1. Neem een standaard positie aan voor push-ups. Om het wat lastiger te maken kun je je schenen en voeten op de bal plaatsen. Ondersteun je lichaam goed door met de handpalmen op de vloer en op schouderbreedte uit elkaar, de balans te houden.\n\n2. Laat je lichaam nu langszaam zakken  tot je borst vlak boven de grond is. Druk jezelf dan weer naar de startpositie.";
+
+
+"Weighted Pushup"="Gewichtige Push-up";
+
+
+"23 Weighted Pushup"="1. Ga in een standaard push-up positie met je handen recht onder de schouders. Nu vraag je een partner of vriend een gewicht op je rug te plaatsen tussen de schouderbladen.\n\n2. Houd je lichaam recht en strak terwijl je je lichaam laat zakken door alleen je ellebogen te buigen totdat je borst bijna de grond raakt.\n\n3. Pauzeer even en druk jezelf dan op.";
+
+
+"Dumbbell Wrist Twist"="Halters draaien vanuit de pols";
+
+
+"3 Dumbbell Wrist Twist"="1. Sta rechtop met een lichte halter in elke hand en de armen opzij van je lichaam, handpalmen naar achter/beneden. Buig je armen nu zover naar voren dat je onderarmen parallel zijn aan de vloer. De halters hangen nu als het ware in je handen. Dit is de uitgangspositie.\n\n2. Draai nu je polsen totdat je handpalmen naar het plafond wijzen. Draai ze dan langszaam terug. Dat is een rep.";
+
+
+"Standing Wrist Curl"="Staande polsoefening met halter";
+
+
+"4 Standing Wrist Curl"="1. Houd een halter vast achter je lichaam in een onderhandse grip en houd de armen gestrekt. Laat de halter op je vingers rusten.\n\n2. Buig nu je polsen om de halter zo hoog mogelijk op te tillen.\n\n3. Laat de halter weer beheerst naar de uitgangspositie gaan.";
+
+
+"Barbell Hack Squat"="Gehurkte halteroefening";
+
+
+"10 Barbell Hack Squat"="1. Sta rechtop voeten op scjhouderbreedte uit elkaar. Houd een halter in bovenhandse grip vast achter je lichaam en plaats de halter achter je hamstrings. Handen moeten op meer dan schouderbreedte uit elkaar zijn.\n\n2. Laat jezelf nu langszaam zakken. Je rug is te allen tijde recht bij deze oefening. Stop als je dijen horizontaal zijn aan de vloer of als de halter de grond raakt. Bij het terug gaan naar de startpositie, probeer de energie uit de onderrug te halen.";
+
+
+"Barbell Lunge"="Knieval met halter";
+
+
+"12 Barbell Lunge"="1. Start door een halter achter je hoofd op je schouders te plaatsen en gebruik een bovenhandse grip iets groter dan schouderbreedte.\n\n2. Sta met de voeten ongeveer 20 cm uit elkaar, tenen recht naar voren.\n\n3. Doe nu een stap voorwaarts  (50 a 75 cm) met je buikspieren aangespannen en je bovenlichaam recht.\n\n4. Langszaam gaat je knie naar de vloer maar raak die niet aan. Je andere knie is in een 90 graden hoek.\n\n5. Laat je lichaam zakken tot vlak boven de vloer  en houd doie positie een seconde vast alvorens terug te gaan naar de uitgangspositie. Herhaal de oefening met het andere been.";
+
+
+"Barbell Squat (Assisted)"="Met halter hurken (met assistentie)";
+
+
+"13 Barbell Squat (Assisted)"="1.Sta rechtop met een vlakke bank achter je. Voeten op schouderbreedte uit elkaar. Plaats een halter achter je hoofd op je schouders en houd die met overhandse grip vast. Afstand van de handen is meer dan schouderbreedte. Zet je voeten dan licht naar buiten gericht voor betere stabiliteit.\n\n2. Laat jezelf dan door de knieën zakken. Je rug is altijd recht bij deze oefening. Stop als je dijen horizontaal aan de grond zijn of als je achterste het bankje raakt. Probeer bij het terug gaan naar de startpositie de energie te genereren vanuit de onderrug.";
+
+
+"Barbell Squat Overhead"="Hurken met hoge halter";
+
+
+"14 Barbell Squat Overhead"="1. Sta rechtop met de voeten op schouderbreedte. Houd een halter in bovenhandse grip vast met de handen op meer dan schouderbreedte uit elkaar. Laat je voeten iets naar buiten gericht staan. Til de halter recht boven je met gestrekte armen.\n\n2. Laat je dan langszaam door de knieën zakken  met een rechte rug. Stop als je dijen horizontaal zijn aan de vloer. Probeer bij het terug gaan naar de startpositie de energie te genereren vanuit de onderrug.";
+
+
+"Bench Jump"="Bankje springen";
+
+
+"15 Bench Jump"="1. Ga voor een bankje staan.\n\n2. Spring op het bankje en onmiddellijk weer eraf naar de startpositie op de grond.\n\n3. Meerdere keren herhalen.";
+
+
+"Bulgarian Split Squat"="Bulgaarse knieloefening met gewichten";
+
+
+"16 Bulgarian Split Squat"="1. Sta rechtop ongeveer een halve meter voor een bankje met een halter in elke hand. Breng je rechtervoet naar achter en laat de bovenkant van je voet op het bankje rusten.\n\n2. Houd je rug recht en je hooft recht omhoog terwijl je langszaam je linkerknie buigt en je lichaam omlaag brengt in een uitvalpositie. Stop als je linkerdij horizontaal is aan de vloer.\n\n3. Druk jezelf dan weer langszaam op tot je linkerbeen weer recht is en herhaal de oefening.  Vergeet niet ook je andere been een workout kans te gunnen en wissel af en toe af.";
+
+
+"Bulgarian Split Squat (No Weights)"="Bulgaarse knieloefening met gewichten";
+
+
+"17 Bulgarian Split Squat (No Weights)"="1. Zet een voet op de vloer , ongeveer 60/70 cm voor een stoel en plaats je andere voet op de stoel zoals afgebeeld. Je handen houd je achter je hoofd. \n\n2. Gebruik je staande been voor balans terwijl je beide knieën buigt om je lichaam naar beneden te brengen totdat je achterste knie een paar centimeter van de vloer verwijderd is en je voorste knie een hoek heeft van onegveer 90 graden. Je rug is te allen tijde recht. Ga terug naar de uitgangspositie en doe de oefening afwisselen met het andere been.";
+
+
+"Dumbbell Side Lunge"="Zijwaartse uitval met halters";
+
+
+"18 Dumbbell Side Lunge"="1. Sta rechtop en houd een paar halters naast je met omlaag hangende gestrekte armen.\n \n2. Stap dan zijwaarts en laat je lichaam zakken terwijl je lichtelijk voorover buigt. Houd je stationaire been recht tijdens de hele oefening.\n\n3. Gebruik je gebogen been om je weer naar de uitgangspositie te drukken. Herhaal dan met het andere been.";
+
+
+"Good Morning"="Goedemorgen oefening";
+
+
+"19 Good Morning"="1. Houd een halter bovenhands vast en laat die op je bovenrug rusten, en niet in de nek. Zet je voeten op schouderbreedte uit elkaar  en je knieën licht gebogen, maar houd je rug recht. \n\n2. Ga nu langszaam voorover buigen vanuit de heupen door je borst omlaag te brengen terwijl je een natuurlijke kromming in je onderrug handhaaft. Houd je hoofd rechtop en probeer de stand van je knieën niet te veranderen.\n\n3. Til dan je lichaam weer naar de startpositie.";
+
+
+"One Arm Side Deadlift"="Een-arms Deadlift opzij";
+
+"20 One Arm Side Deadlift"="1. Stanaast een halter die op de vloer ligt.\n\n2. Neem de halter dan in het midden vast in een bovenhandse grip. \n\n3. Buig je knieën alsof je een hurkzit wil doen, buig door zodat je dijen horizontaal aan de vloer zijn.\n\n4. Strek dan langszaam je benen en maak je lichaam recht en houd de buikspieren aangespannen als je overeind komt.";
+
+
+"Single Leg Squat"="Knielen met een been";
+
+
+"21 Single Leg Squat"="1. Sta met je voeten op schouderbreedte uit elkaar. Til je sterkste been op en strek het naar voor zo hoog mogelijk.\n\n2. Adem nu in, druk je heupen naar achter en hurk omlaag zover je kunt terwijl je je lichaam zo recht mogelijk houdt. De hiel van je voorste been mag op het eind van dit deel de vloer raken.\n\n3. Ga dan terug naar de startpositie terwijl je uitademt. Doe de herhalingen met het niet dominante been eerst, daarna kun je wisselen.";
+
+
+"Arnold Press"="Arnold’s drukoefening";
+
+
+"14 Arnold Press"="1. Ga op een bankje zitten en houd een stel halters op schouderniveau, met je handpalmen naar binnen gericht en je ellebogen opzij.\n\n2. Draai nu je polsen naar buiten tot je handpalmen van je af gekeerd zijn. tegelijkertijd strek je je armen recht omhoog. Houd dat een seconde vast  en ga dan terug naar de startpositie.";
+
+
+"Barbell Front Raise"="Halter voorwaarts tillen";
+
+
+"15 Barbell Front Raise"="1. Houd een halter bovenhands vast op schouderbreedte en laat de halter hangen tegen je dijen. Je voeten moeten op schouderbreedte uit elkaar staan en je knieën licht gebogen. Trek nu je buikspieren samen en span alle spieren in je bovenlichaam  en buig je ellenbogen licht.\n\n2. Til de halter nu totdat je gestrekte armen horizontaal met de vloer zijn.\n\n3. Pauzeer even en ga langszaam terug naar startpositie.";
+
+
+"Dumbbell Lateral Raise With Arms Bent"="Halters zijwaarts tillen met gebogen armen";
+
+
+"16 Dumbbell Lateral Raise With Arms Bent"="1. Houd je benen op schouderbreedte uit elkaar. Je handen hangen naast je lichaam.\n\n2. Terwijl je je armen goed recht houdt brenge je de halters naar buiten en omhoog tot op schouderhoogte. Tegelijkertijd buig je je armen tot ze een 90 graden hoek vormen  en je bovenarmen parallel zijn aan je lichaam. Houd je handpalmen naar beneden gericht.\n\n3. Houd je ellebogen gebogen en ga langszaam terug naar de startpositie. herhaal het aantal gewenste keren.";
+
+
+"Dumbbell Scarecrow"="Vogelverschrikker";
+
+
+"17 Dumbbell Scarecrow"="1. Terwijl je recht vooruit kijkt en je voeten op schouderbreedte uit elkaar  houd je een stel halters tegen je dijen in overhandse grip. Til je armen nu op naar de zijkant tot je bovenarmen paralleel zijn aan de vloer.\n\n2. Roteer nu je ellebogen voorwaarts tot je onderarmen recht omhoog wijzen. Houd vast gedurende een seconde en ga dan terug naar startpositie.";
+
+
+"Dumbbell Shoulder Press"="Halter drukken vanuit schouder";
+
+
+"18 Dumbbell Shoulder Press"="1. Sta rechtop met je voeten op schouderbreedte uit elkaar. Houd halters in een overhandse grip. Breng de halters tot naast je hoofd.\n\n2. Til de halters nu omhoog totdat je armen volledig gestrekt zijn. Houd dat een seconde vast en ga dan terug naar de startpositie.";
+
+
+"Front Weighted Raise"="Recht vooruit tillen";
+
+
+"19 Front Weighted Raise"="1. Terwijl je rechtop staat houd je een gewicht in beide handen voor je dijen. \n\n2. Til nu je armen gestrekt op tot ze parallel met de grond zijn voor je. Houd een seconde vast en ga terug naar de uitgangspositie.";
+
+
+"Lateral Weighted Raise"="Zijwaarts tillen";
+
+
+"20 Lateral Weighted Raise"="1. Rechtop staand met een rechte rug houd je een gewicht in je hand. Je arm hangt naast je lichaam.\n\n2. Til de arm nu gestrekt maar zijwaarts op. Houd de arm recht. Houd een seconde vast en ga terug naar de startpositie.";
+
+
+"Military Press Behind The Neck (Standing)"="Militair opdrukken achter de nek (Staande)";
+
+
+"21 Military Press Behind The Neck (Standing)"="1. Rechtop staand, houd je een halter achter je hoofd op schouderhoogte met je handen op schouderbreedte uit elkaar, ellebogen gebogen en handpalmen naar voor gericht.\n\n2. Druk de halter omhoog, tot je gestrekte armen hebt. Houd je rug recht en blijf recht staan tijdens de hele oefening.";
+
+
+"Seated Dumbbell Front Raise"="Zittend halters vooruit tillen";
+
+
+"22 Seated Dumbbell Front Raise"="1. Neem een stel halters en ga op een hellend bankje zitten, armen gestrekt naast je duimen inwaarts.\n\n2. Houd je ellebogen recht, en til de halters op naar voren totdat je handen op oogniveau zijn.\n\n3. Houd je polsen vlak en ellebogen recht gedurende de hele oefening. Ga terug naar de startpositie.";
+
+
+"Stability Ball Lateral Raise"="Halters zijwaarts tillen op stabiliteitsbal";
+
+
+"23 Stability Ball Lateral Raise"="1. Terwijl je op een stabilitietsbal zit met een lichte halter in elke hand houd je je benen op schouderbreedte aan de grond om je balans te houden. Je handen hangen recht omlaag naast je lichaam.\n\n2. terwijl je je armen recht houdt til je langszaam de halters zijwaarts omhoog tot op schouderhoogte. De handpalmen blijven naar beneden gericht.\n\n3. Houdt de armen gestrekt terwijl je langszaam naar de startpositie terug keert. Herhaal de oefening het gwenste aantal keren.";
+
+
+"Diamond Pushup"="Diamant Push-up";
+
+
+"10 Diamond Pushup"="1. Neem een standaard push-up houding in maar zet je handen recht naast elkaar onder je borst. Je duimen en wijsvingers vormen de vorm van een diamant.\n\n2. Houd je rug recht als je je lichaam langszaam naar beneden laat komen totdat je borst bijna je handen raakt.\n\n3. Pauzeer even, en druk jezelf weer naar de startpositie.";
+
+
+"Diamond Pushup On Bench"="Diamant Push-up op een bankje";
+
+
+"12 Diamond Pushup On Bench"="1. Neem een standaard push-up houding in maar zet je handen recht naast elkaar onder je borst. Je duimen en wijsvingers vormen de vorm van een diamant.\n\n2. Zet je tenen op een vlak bankje, dit geeft meer druk op je handen bij deze opdrukoefeningen.\n\n3. Houd je rug recht als je je lichaam langszaam naar beneden laat komen totdat je borst bijna je handen raakt.\n\n4. Pauzeer even, en druk jezelf weer naar de startpositie.";
+
+
+"Dumbbell Row Kickback"="Halters achteruit stoten";
+
+
+"13 Dumbbell Row Kickback"="1. Met je voeten op schouderbreedte uit elkaar staande en je knieën licht gebogen houd je een lichte halter in elke hand en buig je voorover in je middel tot je lichaam recht is en je handpalmen binnenwaarts wijzen, zoals afgebeeld.\n\n2. Breng de gewichten nu recht omhoog tot aan de zijkant van je borst en je armen rechte hoeken vormen. Je bovenarmen zouden parallel met de vloer moeten zijn.\n\n3. Maak onmiddellijk een achteruittrap beweging door je armen recht naar achter uit te strekken.\n\n4. Span je triceps, buig dan je ellebogen en breng de gewichten omlaag zodat ze weer langs je lichaam hangen.\n\n5. Laat de gewichten zakken tot je armen gestrekt naast je lichaam hangen recht onder de schouders.";
+
+
+"Lying Single Arm Pushup"="Liggend Push-up met een arm";
+
+
+"14 Lying Single Arm Pushup"="1. Lig op je zij met je knieën lichtelijk gebogen en de benen op elkaar. Je onderste arm gaat nu via je buik naar je middel en houd hem daar. Je andere arm plaats je op de grond voor je maar lichtgebogen. \n\n2. Begin met het rechten van die arm , daarbij je lichaam van de vloer opdrukkend. Wees er zeker van dat je je triceps gebruikt voor het tilwerk en niet je rug. Even vasthouden en dan terug naar de startpositie.\n\n3. Na een paar reps, ga op je andere zij liggen en gebruik je andere arm.";
+
+
+"Seated Triceps Extension"="Zittend triceps verlengen";
+
+
+"15 Seated Triceps Extension"="1. Zit op een bankje, en neem een paar halters vast. Houd ze zo dat ze op armslengte boven je hoofd zijn en houd je handpalmen naar elkaar gericht.\n\n2. Houd nu je bovenarmen stabiel en stil terwijl je de halters achter je hoofd laat zakken totdat je onderarmen parallel zijn met de vloer.\n\n3. Pauzeer even, en maak je armen weer recht als je de halters terug naar startpositie brengt.";
+
+
+"Stability Ball French Press"="Stabiliteitsbal Frans Drukken";
+
+
+"16 Stability Ball French Press"="1. Lig met de rug centraal op een stabiliteitsbal en houd een paar halters in je handen en strek je armen boven de borst recht omhoog.\n \n2. Buig nu je ellebogen en breng de halters naar de zijkant van je hoofd.\n\n3. Maak je armen weer recht als je de halters naar de startpositie brengt.";
+
+
+"Stability Ball Pullover"="Stabiliteitsbal Overhaal";
+
+
+"17 Stability Ball Pullover"="1. Lig met de rug midden op een stabiliteitsbal en houd een halter in je handen die je recht boven de borst met gestrekte armen vast houdt.\n\n2. Buig nu de ellebogen en breng het gewicht naar het centrum van je hoofd.\n\n3. Maak je armen recht terwijl je het gewicht weer naar de startpositie brengt.";
+
+
+"Stability Ball Triceps Extension"="Stabiliteitsbal Triceps verlengen";
+
+
+"18 Stability Ball Triceps Extension"="1. Lig op een stabiliteitsbal , voeten vlak op de vloer. Houd een halter in beide handen vast. Maak je armen recht en boven je hoofd.\n\n2. Terwijl je je bovenarmen stabiel en op zijn plaats houdt, laat je de halter zakken tot die achter je hoofd is. Gebruik je ellebogen niet. Even vasthouden en dan terug naar de startpositie.";
+
+
+//EXTRA
+
+
+"3 DAY GYM WORKOUT PLAN BY VGFIT" = "3 DAGEN TRAINING-WORKOUTPLAN VAN  VGFIT";
+
+
+
+"3 DAY HOME WORKOUT PLAN BY VGFIT" = "3 DAAGS THUIS WORKOUT PLAN DOOR VGFIT";
+
+
+
+"FAT BURNER ROUTINE" = "3 VETVERBRANDER ROUTINE";
+
+
+
+"ABS BURNER" =  "ABS VERBRANDER";
+
+
+
+"CHEST POWER WORKOUT PLAN" = "BORSTSTERKTE WORKOUT PLAN";
+
+
+
+"ARMS POWER WORKOUT PLAN" = "ARMKRACHT WORKOUT PLAN";
+
+
+
+"LEGS POWER WORKOUT PLAN" = "BEENKRACHT WORKOUT PLAN";
+
+
+
+"SHOULDERS POWER WORKOUT PLAN" = "SCHOUDERKRACHT WORKOUT PLAN";
+
+
+
+"BACK POWER WORKOUT PLAN" = "STERKE RUG WORKOUT PLAN";
+
+
+
+"FULL BODY STREACH PLAN" = "FULL BODY STREK PLAN";
+
+
+
+
+
+
+
+"Barbell Squat 2" = "Barbell Squat 2";
+
+"Barbell Squat 2 extra"= "Spiergroep: Vierhoofdige Dijspier\
+\
+Stap 1: Sta rechtop met de voeten op schouderbreedte uit elkaar. Houdt de halter bovenhands vast. Afstand van de handen moet groter dan schouderbreedte zijn. Plaats de voeten iets naar buiten gericht.\
+\
+Stap 2: Zak langzaam door de  knieën. Uw rug blijft recht gedurende de hele oefening. Stop wanneer de dijen evenwijdig zijn met de grond. Bij het terug gaan naar de startpositie moet de kracht uit de onderrug komen.";
+
+
+
+
+"Dumbbell Lunge 2" = "Dumbbell Lunge 2";
+
+"Dumbbell Lunge 2 extra"= "Spiergroep: Vierhoofdige Dijspier\
+\
+Stap 1: Sta rechtop met de voeten op schouderbreedte. Houdt de halters in een neutrale grip vast naast het lichaam.\
+\
+Stap 2: Terwijl de rug recht blijft zet je een voet een stap naar voren en zak door de knie. Stop wanneer uw voorste dij parallel is aan de grond. Houdt die positie 1 seconde vast. Ga terug naar de startpositie door weer een stap terug te doen.";
+
+
+
+
+"Bosu Crossover Lunge" = "Bosu Crossover Lunge";
+
+"Bosu Crossover Lunge extra"= "Spiergroep: Vierhoofdige Dijspier\
+\
+Stap 1: Sta rechtop met de armen gestrekt naast het lichaam. De BOSU moet een paar stappen voor u en naar een zijkant geplaatst zijn.\
+\
+Stap 2: Doe een stap naar voor en naar opzij op de BOSU, waarbij het lichaam omlaag gebracht wordt door de knie te buigen, terwijl het slepende been gestrekt blijft.\
+\
+Stap 3: Zet je af met het gebogen been en ga terug naar de startpositie, en herhaal de oefening. Om de oefening nog uitdagender te maken houdt je een halter in elke hand.";
+
+
+
+
+"Stability Ball Split Squat" = "Stability Ball Split Squat";
+
+"Stability Ball Split Squat extra"= "Spiergroep: Vierhoofdige Dijspier\
+\
+Stap 1: Sta rechtop met een voet op de vloer. Houdt de armen recht zoals afgebeeld.\
+\
+Stap 2: Laat je naar de vloer zakken door knieën en heup te buigen en leun je lichaam wat naar voren.\
+\
+Stap 3: Ga terug naar de startpositie door je met het voorste been op te drukken.\
+\
+Stap 4: Herhalen met het andere been.";
+
+
+
+
+"Balance Ball Front Raise" = "Balance Ball Front Raise";
+
+"Balance Ball Front Raise extra"= "Spiergroep: Deltaspieren\
+\
+Stap 1: Ga op een oefenbal zitten met in elke hand een halter. Houdt de benen bij elkaar en de voeten vlak op de vloer. De handen hangen naast het lichaam, met de handpalmen naar achter gericht.\
+\
+Stap 2: Houdt de armen gestrekt en breng een voor een de gewichten naar voren tot de armen horizontaal zijn.\
+\
+Stap 3: Een seconde vasthouden en langzaam het gewicht weer naar beneden brengen.";
+
+
+
+
+"Bar Bench Press Incline" = "Bar Bench Press Incline";
+
+"Bar Bench Press Incline extra"=  "Spiergroep: Borstspieren\
+\
+Stap 1: Lig achterover op een hellende bank. Houdt de EX Curl bar vast in bovenhandse grip. Handafstand is iets groter dan schouderbreedte. Houdt de EZ curl bar met gestrekte armen recht omhoog. De EX curl bar is recht boven de brorst.\
+\
+Stap 2: Laat de EX curl bar langzaam naar de boorst zakken, maar houdt de ellebogen dicht tegen het lichaam. De EX curl bar moet licht de borst raken op het eind van de beweging. Laat de EZ curlbar niet rusten op de borst, en houdt die positie even vast. Ga dan terug naar de startpositie. Houdt te allen tijde de rug vlak op de bank en beweeg de benen niet tijdens de oefening.";
+
+
+
+
+"Dumbbell Decline Bench Press" = "Dumbbell Decline Bench Press";
+
+"Dumbbell Decline Bench Press extra"= "Spiergroep: Borstspieren\
+\
+Stap 1: Lig op de hellende bank. Houdt de halters in bovenhandse grip vast. Houdt de armen gestrekt recht omhoog.\
+\
+Stap 2: Laat de halters langzaam naar de borst zakken maar houdt de ellebogen dicht tegen het lichaam. Die positie even vasthouden. Ga dan terug naar de startpositie. Houdt te allen tijde de rug vlak op de bank en beweeg de benen niet tijdens de oefening.";
+
+
+
+
+"Dumbbell T-Push-Up" = " Dumbbell T-Push-up";
+
+"Dumbbell T-Push-Up extra"= "Spiergroep: Borstspieren\
+\
+Stap 1: Ga eerst op de grond liggen met borst naar beneden en handpalmen op de vloer. Houdt dan de halters in neutrale grip vast. Positioneer uw handen dan aan de onderkant van de borst. Afstand van de handen is iets groter dan schouderbreedte. Druk jezelf dan op zodat alleen de tenen en handen de grond raken. Houdt vooral de rug recht. Handen wijzen iets naar buiten.\
+\
+Stap 2: Laat jezelf dan zakken door de ellebogen te buigen tot de borst nog een paar centimeter van de grond verwijderd is. De ellebogen moeten naar achteren buigen. Houdt dat een seconde vast.\
+\
+Stap 3: Ga dan terug naar de startpositie.\
+\
+Stap 4: Strek dan een arm omhoog richting plafond. Houdt dat een seconde vast.\
+\
+Stap 5: Ga terug naar de startpositie.";
+
+
+
+
+"EZ Curl Bar Biceps Curl" = "EZ Curl Bar Biceps Curl";
+
+"EZ Curl Bar Biceps Curl extra"= "Spiergroep: Biceps\
+\
+Stap 1: Sta rechtop met rechte rug en houdt de EZ curl bar in onderhandse grip vast op schouderbreedte. De EZ curl bar rust tegen de dijen.\
+\
+Stap 2: Til de EZ curl bar op zonder uw bovenarmen te bewegen. Vermijdt uw schouders te gebruiken bij de oefening. Houdt een seconde vast. Ga dan langzaam terug naar de startpositie.";
+
+
+
+
+"EZ Curl Bar Deadlift" = "EZ Curl Bar Deadlift";
+
+"EZ Curl Bar Deadlift extra"= "Spiergroep: Lage rugspeieren\
+\
+Stap 1: Plaats de EZ curl bar op de vloer. Ga er dan achter staan met de schenen een paar centimeter van de halter verwijderd. Voeten op schouderbreedte. Zonder de heup te buigen, buig iets door de knieën en grijp de halter vast in bovenhandse grip. Blijf al die tijd recht naar voren kijken.\
+\
+Stap 2: Til de EZ curl bar op totdat je totaal recht staat. Houdt dat een seconde vast. Ga dan terug naar startpositie.";
+
+
+
+
+"Dumbbell Row" = "Dumbbell Row";
+
+"Dumbbell Row extra"= "Spiergroep: Brede Rugspier\
+\
+Stap 1: Buig de knieën licht en houdt de rug recht. Houdt de halters in neutrale grip opzij van het lichaam.\
+\
+Stap 2: Breng de halters dan langzaam naar de borst toe, maar vermijdt de ellebogen naar buiten te steken. Een seconde vasthouden. Terug naar startpositie.";
+
+
+
+
+"Standing Triceps Extension" = "Standing Triceps Extension";
+
+"Standing Triceps Extension extra"= "Spiergroep: Triceps Brachii\
+\
+Stap 1: Sta rechtop met de voeten op schouderbreedte en houdt een halter vast achter het hoofd zoals op de afbeelding. Laat de halter hangen tussen bovenrug en gebogen ellebogen.\
+\
+Stap 2: Til de halter tot boven het hoofd door de armen te strekken, maar zonder de polsen te gebruiken. Houdt helemaal boven even vast en ga dan op een gecontroleerde manier langzaam terug naar de startpositie. Herhaal de oefening.";
+
+
+
+
+"Bench Dip" = " Bench Dip";
+
+"Bench Dip extra"= "Spiergroep: Triceps Brachii\
+\
+Stap 1: Plaats de handpalmen op de bank naar voren gericht en neem de positie in als op de afbeelding. Houdt de benen recht voor je en de voeten vlak op de vloer naast elkaar. Strek dan de armen en beweeg je torso naar voren en omhoog zodat je billen en rug voor de bank zijn.\
+\
+Stap 2: Buig dan langzaam de armen tot de ellebogen een rechte hoek vormen en de billen omlaag gaan zoals afgebeeld. Je kunt de oefening makkelijker maken door de knieen te buigen en de voeten iets dichter bij de bank te plaatsen.";
+
+
+
+
+"Bodyweight Open Jump" = " Bodyweight Open Jump";
+
+"Bodyweight Open Jump extra"= "Spiergroep: vierhoofdige dijspier\
+\
+Stap 1: Sta rechtop met een rechte rug, houdt de handen naast het lichaam.\
+\
+Stap 2: Buig de knieen licht.\
+\
+Stap 3: Spring dan zo hoog je kunt.";
+
+
+
+
+"Bodyweight Toe Touch" = "Bodyweight Toe Touch";
+
+"Bodyweight Toe Touch extra"= "Spiergroep: Rechte buikspier\
+\
+Stap 1: Lig vlak op de vloer. Til de benen op, gestrekt tot ze vertikaal aan de vloer zijn. Houdt je armen achter je hoofd.\
+\
+Stap 2: Raak nu de tenen aan met de handen en houdt dat een seconde vast. Ga dan terug naar de startpositie.";
+
+
+
+
+"Bodyweight Hop" = "Bodyweight Hop";
+
+"Bodyweight Hop extra"=  "Spiergroep: Rechte buikspier\
+\
+Stap 1: Lig vlak met de buikzijde op de vloer. Til jezelf dan op zodat alleen handen en tenen de vloer nog raken en houdt de rug recht.\
+\
+Stap 2: Terwijl de armen op hun plaats blijven, springen de voeten nu onder de borstkas en zo dat de knieen onder de borst zijn. Spring nu terug naar de uitgangspositie.";
+
+
+
+
+"Bodyweight Lunge" = " Bodyweight Lunge";
+
+"Bodyweight Lunge extra"= "Spiergroep: vierhoofdige dijspier\
+\
+Stap 1: Sta rechtop met de voeten op schouderbreedte.\
+\
+Stap 2: Zet een voet een stap naar achter en breng gelijktijdig je lichaam omlaag door de knieen te buigen. Houdt de rug recht tijdens de hele oefening. Stop als je voorste dij horizontaal is.\
+\
+Stap 3: ga terug naar de startpositie.\
+\
+Stap 4: Zet nu de andere voet een stap naar achter en breng je lichaam omlaag door de knieen te buigen. Houdt de rug ook nu recht. Stop als de voorste dij horizontaal is.";
+
+
+
+
+"Bodyweight Push-up Touch" = "Bodyweight Push-up Touch";
+
+"Bodyweight Push-up Touch extra"= "Spiergroep: Grote borstspier\
+\
+Stap 1: Ga eerst op de grond liggen op de buik. Plaats de handen onder de schouders vlak op de vloer. Afstand van de handen moet iets minder zijn dan schouderbreedte. Druk jezelf dan op zodat alleen de handen en tenen de vloer raken, maar houdt de rug te allen tijde recht. De handen wijzen iets naar buiten.\
+\
+Stap 2: Laat jezelf dan langzaam zakken door de ellebogen te buigen tot je borst nog een paar centimeter van de grond verwijderd is. De ellebogen buigen niet zijwaarts maar naar de voeten toe.\
+\
+Stap 3: Raak steeds de tegengestelde schouder aan als je omhoog komt. Houdt dat een seconde vast en ga dan terug naar de startpositie.";
+
+
+
+
+"Push-up walking" = " Push-up walking";
+
+"Push-up walking extra"= "Spiergroep: Grote borstspier\
+\
+Stap 1: Lig op de vloer op de buik en plaats de handen op borsthoogte iets breder dan schouderbreedte. Druk jezelf dan op zodat alleen handen en tenen de vloer nog raken. Houdt de rug recht. De handen wijzen licht naar buiten. Houdt benen en rug gestrekt en recht.\
+\
+Stap 2: Zonder de armen te bewegen, springen de voeten naar voren richting je handen. Spring dan terug naar de startpositie.";
+
+
+
+
+"Bent-Leg V-UP" = "Bent-Leg V-UP";
+
+"Bent-Leg V-UP extra"= "Spiergroep: Rechte buikspier\
+\
+Stap 1: Lig op de vloer met de armen naast het lichaam. Til de knieen op en houdt ze stil.\
+\
+Stap 2: Til nu de torso snel op en breng de borst naar de knieen. Houdt daarbij de armen parallel aan de vloer.";
+
+
+
+
+"Bodyweight Lunge Side" = "Bodyweight Lunge Side";
+
+"Bodyweight Lunge Side extra"= "Spiergroep: Vierhoofdige dijspier\
+\
+Stap 1: Sta rechtop met de voeten op schouderafstand uit elkaar. Houdt de armen gevouwen voor de borst.\
+\
+Stap 2: Terwijl je de rug recht houdt, doe een stap zijwaarts met een voet en breng het lichaam omlaag door de knie van dat been te buigen. De voet die niet verplaatst is moet in positie blijven. Stop als de dij horizontaal is. Houdt die positie een seconde vast en ga dan terug naar de startpositie.";
+
+
+
+
+"Bodyweight Push-up Grip Planche" = "Bodyweight Push-up Grip Planche";
+
+"Bodyweight Push-up Grip Planche extra"= "Spiergroep: Grote borstspier\
+\
+Stap 1: Lig met de buik op de vloer met de handen onder de borst palmen naar benden. Afstand van de handen is iets meer dan schouderbreedte. Druk jezelf op met de armen totdat alleen de handen en tenen de vloer nog raken. Houdt daarbij de rug recht. De handen wijzen iets naar buiten.\
+\
+Stap 2: Taat jezelf dan dan zakken tot de ellebogen bijna de vloer raken. Houdt dat een seconde vast en ga terug naar de startpositie.";
+
+
+
+
+"Bench High Knee Jump" = "Bench High Knee Jump";
+
+"Bench High Knee Jump extra"= "Spiergroep: Vierhoofdige dijspier\
+\
+Stap 1: Sta rechtop met een rechte rug, handen langs het lichaam.\
+\
+Stap 2: Buig de knieën lichtjes.\
+\
+Stap 3: Spring zo hoog je kunt, en breng je knieën naar je borst.";
+
+
+
+
+"Bodyweight Toe Touch 2" = "Bodyweight Toe Touch 2";
+
+"Bodyweight Toe Touch 2 extra"= "Spiergroep: Rechte buikspier\
+\
+Stap 1: Lig languit op de vloer met gestrekte benen en de handen onder het hoofd.\
+\
+Stap 2: Ga nu met de handen naar de tenen. Houdt dat een seconde vast. Ga dan terug naar de startpositie.";
+
+
+
+
+"Stepper Push-up" = "Stepper Push-up";
+
+"Stepper Push-up extra"= "Spiergroep: Grote borstspier\
+\
+Stap 1: Plaats de voeten op de Stepper en de handen op de vloer op iets meer dan schouderbreedte, onder de borst. Druk jezelf dan op zodat alleen de handen de vloer nog raken. Houdt de rug recht. De handen wijzen iets naar buiten.\
+\
+Stap 2: Laat jezelf dan zakken tot de borst een paar centimeter van de grond verwijderd is door de ellebogen te buigen. De ellebogen buigen achterwaarts. Houdt dat een seconde vast en ga dan terug naar de startpositie.";
+
+
+
+
+"Bodyweight Push-up Extension" = "Bodyweight Push-up Extension";
+
+"Bodyweight Push-up Extension extra"= "Spiergroep: Grote borstspier\
+\
+Stap 1: Lig met de buik op de vloer met de handen onder de schouders, palmen op de vloer. Afstand van de handen is iets minder dan schouderbreedte. Druk jezelf dan op zodat alleen tenen en handen de vloer nog raken, maar houdt de rug recht. De handen wijzen licht naar buiten.\
+\
+Stap 2: Laat jezelf dan zakken totdat de borst een paar centimeter van de vloer verwijderd is door de ellebogen achterwaards te buigen.\
+\
+Stap3: Steek een arm recht naar voren elke keer dat je weer omhoog komt. Houdt dat een seconde vast en ga dan terug naar de startpositie.";
+
+
+
+
+"Bodyweight Scissor Kick" = "Bodyweight Scissor Kick";
+
+"Bodyweight Scissor Kick extra"= "Spiergroep: Rechte buikspier\
+\
+Stap 1: Lig vlak op de vloer, armen naast het lichaam. Strek de benen en til ze iets op. Terwijl beide benen recht blijven til je een been hoger op.\
+\
+Stap 2: Terwijl je je been weer omlaag brengt gaat het andere been omhoog. Dit samen is een oefening.";
+
+
+
+
+"Bodyweight Mountain Climbers" = "Bodyweight Mountain Climbers" ;
+
+"Bodyweight Mountain Climbers extra" = "Spiergroep: Vierhoofdige dijspier\
+\
+Stap 1: Lig met de buik op de vloer. Handen met de palmen omlaag naast het hoofd. Handen afstand is iets groter dan schouderbreedte. Til jezelf dan op zodat alleen handen en tenen de vloer nog raken. Zorg ervoor dat de rug recht blijft. Handen wijzen iets naar buiten.\
+\
+Stap 2: Trek nu een been op naar de borst toe.\
+\
+Stap 3: Nadat je je been weer naar de startpositie gebracht hebt, is het andere been aan de beurt. Samen is dat een oefening.";
+
+
+
+
+"Bodyweight Pull In" = "Bodyweight Pull In";
+
+"Bodyweight Pull In extra"= "Spiergroep: Rechte buikspier\
+\
+Stap 1: Lig op de vloer met gestrekte benen en de handen naast de heupen. Strek de benen en til ze iets op.\
+\
+Stap 2: Buig de benen nu en breng ze naar de borst. Houdt dat een seconde vast. Ga dan terug naar de startpositie.";
+
+
+
+
+"Push-up With Crossing Leg Under The Hip" = "Push-up With Crossing Leg Under The Hip";
+
+"Push-up With Crossing Leg Under The Hip extra"=  "Spiergroep: Grote borstspier\
+\
+Stap 1: Begin de oefening vanuit een standaard push-up positie. Kruis dan je rechterbeen onder het andere door.\
+\
+Stap 2: Breng je lichaam dan omlaag tot de borst bijna de grond raakt, pauseer een seconde en druk jezelf op naar startpositie.\
+\
+Stap 3: Nu het andere been en herhaal de stappen.";
+
+
+
+
+"Bodyweight Jumping Jacks" = "Bodyweight Jumping Jacks";
+
+"Bodyweight Jumping Jacks extra"= "Spiergroep: Vierhoofdige dijspier\
+\
+Stap 1: Sta rechtop met een rechte rug, armen langs het lichaam.\
+\
+Stap 2: Spring dan op en plaats de voeten op iets meer dan schouderbreedte. Tegelijkertijd breng je de armen gesterkt tot boven het hoofd. Even vasthouden en dan terug naar de startpositie.";
+
+
+
+
+"Jump Sumo" = "Jump Sumo";
+
+"Jump Sumo extra"= "Spiergroep: Vierhoofdige dijspier\
+\
+Stap 1: Sta rechtop met de voeten iets meer dan schouderbreedte uit elkaar. Houdt een medicijnbal recht voor je met gestrekte armen. Laat de voeten iets naar buiten gericht staan.\
+\
+Stap 2: Verlaag dan je lichaam door de knieën te buigen, maar de rug blijft recht gedurende de hele oefening. Stop als je dijen evenwijdig met de grond zijn. Ga terug naar de startpositie door de kracht te gebruiken uit je onderrug.";
+
+
+
+
+"Dumbbell Clean And Jerk" = "Dumbbell Clean And Jerk";
+
+"Dumbbell Clean And Jerk extra"= "Spiergroep: Hamstrings\
+\
+Stap 1:  Ga gehurkt zitten. Houdt halters onder je in neutrale grip. Houdt de rug recht. De borst vooruit en kijk recht vooruit.\
+\
+Stap 2: Til de halters van de grond. Als de halters naast je schenen zijn, spring dan op. Tijdens het opspringen breng je de halters naar de schouders.\
+\
+Stap 3: Met de halters op de schouders, hurk je neer. Ga dan rechtop staan.\
+\
+Stap 4: Buig de knieën lichtjes en spring op.\
+\
+Stap 5: Tijdens het opspringen breng je de halters boven het hoofd. Sta rechtop. Even een seconde vasthouden en dan terug naar de startpositie.";
+
+
+
+
+"Bodyweight Leg Raise" = "Bodyweight Leg Raise" ;
+
+"Bodyweight Leg Raise extra" = "Spiergroep: Rechte buikspier\
+\
+Stap 1: Ga ruggelings op de vloer liggen en de armen naast het lichaam. Strek de benen.\
+\
+Stap 2: Til de benen op tot een 30º hoek. Houdt dat een seconde vast.\
+\
+Stap 3: Dan de benen naar een 60º hoek tillen. Houdt ook dat een seconde vast.\
+\
+Stap 4: Dan de benen naar een 90º hoek brengen. Ook dat een seconde vast houden. Ga dan terug naar de startpositie.";
+
+
+
+
+"Dumbbell Biceps Curl" = "Dumbbell Biceps Curl" ;
+
+"Dumbbell Biceps Curl extra" = "Spiergroep: tweehoofdige bovenarmspier\
+\
+Stap 1: Rechtop met licht gebogen knieën. Houdt de rug recht. Houdt de halters vast naast het lichaam in onderhandse grip.\
+\
+Stap 2: Til de halters nu op naar schouderhoogte, maar zonder de bovenarmen te bewegen. Een seconde vasthouden en dan terug naar startpositie.";
+
+
+
+
+"Bodyweight Sit-up" = "Bodyweight Sit-up" ;
+
+"Bodyweight Sit-up extra" = "Spiergroep: Rechte buikspier\
+\
+Stap 1: Lig vlak op de vloer, handen onder het hoofd en met gebogen knieën. Voeten vlak op de vloer.\
+\
+Stap 2: Breng je bovenlichaam nu omhoog. Een seconde vasthouden en dan terug naar startpositie.";
+
+
+
+
+"Bent-Leg V-UP" = "Bent-Leg V-UP" ;
+
+"Bent-Leg V-UP extra" = "Spiergroep: Rechte buikspier\
+\
+Stap 1: Lig met de rug op de vloer, armen naast het lichaam. Breng de knieën omhoog, dijen vertikaal en onderbenen horizontaal.\
+\
+Stap 2: Breng snel je borst naar de knieën toe, maar houdt de armen horizontaal aan de vloer.";
+
+
+
+
+"Toe Touch" = "Toe Touch" ;
+
+"Toe Touch extra" = "Spiergroep: Rechte buikspier\
+\
+Stap 1: Lig ruggelings op de vloer. Houdt de benen licht gebogen omhoog. Zorg ervoor dat de rug helemaal recht op de grond blijft.\
+\
+Stap 2: Adem uit en kom snel overeind om je voeten aan te raken. Houdt het hoofd in dezelde positie, en vermijdt dat de kin de borst raakt.";
+
+
+
+
+"Toe Touch 2" = "Toe Touch 2";
+
+"Toe Touch 2 extra"= "Spiergroep: Rechte buikspier\
+\
+Stap 1: Lig ruggelings op de vloer. Houdt de benen licht gebogen omhoog. Zorg ervoor dat de rug helemaal recht op de grond blijft.\
+\
+Stap 2: Strek je uit en kom snel overeind om je voeten aan te raken. Houdt het hoofd in dezelfde positie, en vermijdt dat de kin de borst raakt.";
+
+
+
+
+"Bodyweight Crunch 2" = "Bodyweight Crunch 2" ;
+
+"Bodyweight Crunch 2 extra" = "Spiergroep: schuine buikspieren\
+\
+Stap 1: Lig vlak op de vloer. Handen onder het hoofd en de benen iets opgetild.\
+\
+Stap 2: Breng de linker elleboog en de rechter knie naar elkaar boven de borst tot ze elkaar raken.\
+\
+Stap 3: Terwijl je de arm en been terug brengt gaat het andere stel dezelfe routine doen. Samen is dat een oefening.";
+
+
+
+
+"Stability Ball Crunch" = "Stability Ball Crunch" ;
+
+"Stability Ball Crunch extra" = "Spiergroep: Buikspieren\
+\
+Stap 1: Lig met de rug op een stabiliteitsbal en houdt een medicijnbal boven je.\
+\
+Stap 2: Breng je bovenlichaam omhoog, terwijl je onderrug op de bal blijft. Houdt dat een seconde vast en ga dan terug naar de startpositie.";
+
+
+
+
+"Bar  Bench Press Incline" = "Bar Bench Press Incline" ;
+
+"Bar  Bench Press Incline extra" =  "Spiergroep: Grote borstspier\
+\
+Stap 1:  Lig ruggelings op een schuine bank. Houdt de EZ curl bar met bovenhandse grip vast. Handen op iets meer dan schouderbreedte uit elkaar. Houdt de EZ curl bar met gestrekte aren recht omhoog. De EZ curl bar is recht boven de borst.\
+\
+Stap 2: Laat de EZ curl bar zakken terwijl je de ellebogen langs het lichaam houdt. De EZ curl bar mag licht de borst raken op het einde van de oefening. Laat de EZ curl bar niet op de borst rusten. Houdt dat even vast. Ga dan terug naar de startpositie. Laat de rechte rug geen moment het contact met de bank verliezen. En beweeg de benen en voeten niet.";
+
+
+
+
+"Dumbbell Push-up Row" = "Dumbbell Push-up Row";
+
+"Dumbbell Push-up Row extra"=  "Spiergroep: Grote borstspier\
+\
+Stap 1: Houdt twee halters in neutrale grip vast. De handen op iets meer dan schouderbreedte uit elkaar. Druk jezelf nu op zodat alleen de halters en je tenen de vloer nog raken. Houdt vooral de rug recht. De handen wijzen iets naar buiten.\
+\
+Stap 2: Laat jezelf nu zakken totdat je borst een paar centimer van de vloer verwijderd is door de ellebogen te buigen. Ellebogen buigen in de richting van de voeten. Houdt dat een seconde vast.\
+\
+Stap 3: ga terug naar de startpositie.\
+\
+Stap 4: Til een halter op door de ellebog omhoog te trekken. De hand beweegt in een vertikale lijn. Een seconde vasthouden.\
+\
+Stap 5: Ga terug naar de startpositie.\
+\
+Stap 6: Herhaal de stappen maar nu met de andere arm.";
+
+
+
+
+"Triceps Kickback" = "Triceps Kickback" ;
+
+"Triceps Kickback extra" = "Spiergroep: driehoofdige armstrekker\
+\
+Stap 1: Neem een halter in een hand, en plaats de andere knie op een bank, samen met de andere hand. Andere voet is op de vloer met de knie licht gebogen. Houdt de rug recht en breng de halter op heuphoogte met de elleboog langs de heup. De bovenarm is nu horiziontaal.\
+\
+Stap 2: Houdt de halter dus in een 90º hoek van de elleboog. Adem nu langzaam uit en strek de arm en halter naar achter tot de arm een rechte horizontale lijn vormt.\
+\
+Stap 3: Adem in en laat de halter weer langzaam zakken tot er weer een 90º hoek met de elleboog is. Herhaal dit met het voorgeschreven aantal keer.\
+\
+Stap 4: Herhaal de oefening maar nu met de halter in de andere hand.";
+
+
+
+
+"Standing Single Arm Triceps Extension" = "Standing Single Arm Triceps Extension";
+
+"Standing Single Arm Triceps Extension extra"= "Spiergroep: driehoofdige armstrekker\
+\
+Stap 1: Sta rechtop met de voeten op schouderbreedte uit elkaar en houdt een lichte halter in de linkerhand.\
+\
+Stap 2: Druk de halter nu omhoog boven het hoofd met de handpalm naar buiten gericht. De rechterarm voor het gezicht en steunt de linkerarm op de elleboog om de bovenarm stabiel te houden bij deze oefening.\
+\
+Stap 3: Zonder de bovenarm te bewegen, laat je nu de halter zo ver mogelijk achter het hoofd zakken.\
+\
+Stap 4: Strek dan de arm weer met de halter boven het hoofd en herhaal het geheel een keer. Dan de halter in de andere hand en doe dezelfde oefening met de rechterarm.";
+
+
+
+
+"Stability Ball Split Squad Dumbbell" = "Stability Ball Split Squad Dumbbell";
+
+"Stability Ball Split Squad Dumbbell extra"= "Spiergroep: Vierhoofdige dijspier\
+\
+Stap 1: Sta rechtop met een voet op de vloer en de andere op een stabiliteitsbal. Houdt een halter in elke hand naast het lichaam. Armen recht, zoals op de afbeelding.\
+\
+Stap 2: Zak nu licht door naar de vloer door de heup en knie wat te buigen. Laat het bovenlichaam iets naar voren buigen.\
+\
+Stap 3: Ga terug naar de startpositie door je op te drukken via de voorste voet.\
+\
+Stap 4: Herhaal de oefening, maar nu met het andere been op de bal.";
+
+
+
+
+"Dumbbell Rear Delt Row" = "Dumbbell Rear Delt Row";
+
+"Dumbbell Rear Delt Row extra"= "Spiergroep: Deltaspieren\
+\
+Stap 1: Sta met een gebogen heup, licht gebogen knieën en houdt halters in de handen (palmen naar buiten) met gestrekte armen. Voeten staan op heupbreedte.\
+\
+Stap 2: Til de halters nu op naar buiten tot op schouderhoogte, maar houdt de rug recht. Laat de ellebogen licht buigen bij het tillen als dat nodig is. Laat dan de halters weer zakken naar de startpositie.";
+
+
+
+
+"Dumbbell Snatch" = "Dumbbell Snatch" ;
+
+"Dumbbell Snatch extra" = "Spiergroep: Deltaspieren\
+\
+Stap 1: Begin enigszins gehurkt boven een halter. Houdt de onderrug stijf op slot en zet de voeten op schouderbreedte uit elkaar.\
+\
+Stap 2: Neem de halter vast met een hand en span de buikspieren. Dan in een snelle beweging breng je de halter boven je hoofd met een gestrekte arm zoals op de afbeelding. De halter moet vlak langs het lichaam omhoog gebracht worden en niet uitzwaaien.\
+\
+Stap 3: Houdt die stand even vast en ga dan terug naar de startpositie.";
+
+
+
+
+"Stretch Standing Overhead Arms" = "Stretch Standing Overhead Arms" ;
+
+"Stretch Standing Overhead Arms extra" = "Spiergroep: Brede Rugspier\
+\
+Stap 1: Sta rechtop met de voeten op schouderbreedte. Houdt de benen niet te stijf. Houdt beide handen voor je en verstrengel de vingers.\
+\
+Stap 2: Breng nu beide armen zo hoog mogelijk. Houdt die stand 15 tot 25 seconden vast.";
+
+
+
+
+"Stretch Neck Standing Side" = "Stretch Neck Standing Side" ;
+
+"Stretch Neck Standing Side extra" = "Spiergroep: Nekspieren\
+\
+Stap 1: Sta rechtop met de voeten op schouderbreedte. Armen naast het lichaam.\
+\
+Stap 2: Draai je hoofd en nek naar opzij. Je bovenlichaam draait iets mee. Houdt dat 15 tot 25 seconden vast. Dan het hoofd naar de andere kant.";
+
+
+
+
+"Standing Cross Body Arms" = "Standing Cross Body Arms" ;
+
+"Standing Cross Body Arms extra" = "Spiergroep: Deltaspieren\
+\
+Stap 1: Sta rechtop met de voeten op schouderbreedte.\
+\
+Stap 2: Breng je rechterarm gestrekt voor je lichaam langs. De arm is volledig horizontaal. Je linkerhand achter het onderste deel van de rechter bovenarm. Gebruik de linkerarm om de gestrekte rechterarm zo dicht mogelijk tegen het lichaam te drukken. Houdt die stand 15 tot 25 seconden vast. Dan hetzelfde maar met de andere arm.";
+
+
+
+
+"Standing Behind Head" = "Standing Behind Head";
+
+"Standing Behind Head extra"= "Spiergroep: driehoofdige armstrekker\
+\
+Stap 1: Sta rechtop met de voeten op schouderbreedte. Breng een hand over de schouder naar het midden van de rug. De elleboog wijst naar het plafond.\
+\
+Stap 2: Gebruik je andere hand om de elleboog vast te houden. Druk dan die elleboog naar beneden tegen het hoofd aan. Houdt die stand 15 tot 25 seconden vast. Herhalen met de andere arm.";
+
+
+
+
+"Standing Side Single Arm" = "Standing Side Single Arm";
+
+"Standing Side Single Arm extra"= "Spiergroep: Brede Rugspier\
+\
+Stap 1: Sta rechtop met de voeten op schouderbreedte. Zet de handen op de heupen.\
+\
+Stap 2: Breng nu een hand omhoog boven het hoofd en buig het lichaam zijwaarts zover als mogelijk is. Houdt dat 15 tot 25 seconden vast. Herhalen met de andere arm en andere kant.";
+
+
+
+
+"Stretch Squat Torso Twist" = "Stretch Squat Torso Twist" ;
+
+"Stretch Squat Torso Twist extra" = "Spiergroep: Brede Rugspier\
+\
+Stap 1: Zit enigzins gehurkt met de voeten op schouderbreedte. Plaats de handen op de bovenbenen tegen de heup aan. Kijk recht voor je uit.\
+\
+Stap 2: Draai nu het bovenlichaam naar rechts totdat je het voelt. Herhalen naar de linkerkant.";
+
+
+
+
+"Stretch Standing Legs Arms" = "Stretch Standing Legs Arms";
+
+"Stretch Standing Legs Arms extra"= "Spiergroep: Hamstrings\
+\
+Stap 1: Sta rechtop met de voeten op meer dan schouderbreedte uit elkaar. Positioneer de handen op de zijkant van de heupen.\
+\
+Stap 2: Zonder de benen te buigen buig je nu voorwaarts en grijp met beide handen de rechterenkel vast. 15 tot 25 seconden vasthouden. Kom omhoog en herhaal, maar nu naar de andere voet.";
+
+
+
+
+"Stretch Standing Hand To Foot" = "Stretch Standing Hand To Foot" ;
+
+"Stretch Standing Hand To Foot extra" = "Spiergroep: vierhoofdige dijspier\
+\
+Stap 1: Sta rechtop met de voeten naast elkaar. Handen naast het lichaam.\
+\
+Stap 2: Breng nu een voet naar je achterste en gebruik een hand om je voet vast te pakken. Druk de voet nu zo ver mogelijk tegen de billen. 15 tot 25 seconden vasthouden en dan herhalen met het andere been.";
+
+
+
+
+"Stretch Knee Bent" = "Stretch Knee Bent" ;
+
+"Stretch Knee Bent extra" = "Spiergroep: vierhoofdige dijspier\
+\
+Stap 1: Zit rechtop met gestrekte benen. Buig nu de rechterknie en plaats de rechtervoet tegen de linkerdij.\
+\
+Stap 2: Met de linker hand raak je nu je linker voet aan. Houdt dat 15 tot 25 seconden vast. Dan herhalen met het andere been en arm.";
+
+
+
+
+"Stretch Adductors Standing" = "Stretch Adductors Standing" ;
+
+"Stretch Adductors Standing extra" = "Spiergroep: Adductoren\
+\
+Stap 1: Sta rechtop met de voeten ruim wijder dan schouderbreedte. Plaats de handen op de zijkant van de heupen.\
+\
+Stap 2: Buig nu door een knie en laat je lichaam zakken. Het andere been blijft gestrekt. Houdt die stand 15 tot 25 seconden vast. Dan dezelfde beweging met het andere been.";
+
+
+
+
+"Sitting Body Curl" = "Sitting Body Curl" ;
+
+"Sitting Body Curl extra" = "Spiergroep:  Hamstrings\
+\
+Stap 1: Zit met een rechte rug en de benen gestrekt voor je. De handen rusten op de dijen.\
+\
+Stap 2: Breng nu het bovenlichaam zover mogelijk naar voren en raak de tenen aan. Die stand 15 tot 25 seconden vasthouden.";
+
+
+
+
+"Stretch Lying Knee Bent" = "Stretch Lying Knee Bent" ;
+
+"Stretch Lying Knee Bent extra" = "Spiergroep:  Hamstrings\
+\
+Stap 1: Lig vlak op de vloer met volledig gestrekte benen. De handen naast het lichaam.\
+\
+Stap 2: Breng nu een been en de gebogen knie naar je borst. Zet je handen op het scheenbeen en trek je been dicht tegen het lichaam aan. Die stand 15 tot 25 seconden vasthouden. Herhalen met het andere been.";
+
+
+
+
+"Stretch Adductors (Sitting)" = "Stretch Adductors (zittend)" ;
+
+"Stretch Adductors (Sitting) extra" = "Spiergroep:  Adductoren\
+\
+Stap 1: Zit rechtop met gebogen knieën en de voetzolen tegen elkaar aan. Houdt de rug recht. Leg de handen op de knieën.\
+\
+Stap 2: Breng dan het bovenlichaam en de knieën naar omlaag, zo ver mogelijk. Vasthouden gedurende 15 tot 25 seconden.";
+
+
+
+
+"Stretch Kneeling Child Pose" = "Stretch Kneeling Child Pose" ;
+
+"Stretch Kneeling Child Pose extra" = "Spiergroep: Lage rugspieren\
+\
+Stap 1: Kniel op de vloer met een rechte rug.\
+\
+Stap 2: Strek nu de armen zo ver mogelijk naar voren en breng tegelijkertijd de billen naar de hakken toe. Houdt hierbij de rug en het hoofd recht.";
+
+
+
+
+"Stretch Lower Back Arms Assist" = "Stretch Lower Back Arms Assist" ;
+
+"Stretch Lower Back Arms Assist extra" = "Spiergroep: Lage rugspieren\
+\
+Stap 1: Lig met de buik op de vloer en de benen gestrekt. De handen, met palmen omlaag, naast de borst.\
+\
+Stap 2: Druk nu met de kracht van de armen het bovenlichaam omhoog tot de armen gestrekt zijn. Houdt dat 15 tot 25 seconden vast.";
+
+
+
+
+"Dumbbell Lateral Raise" = "Halter Lateraal Heffen";
+
+"Dumbbell Lateral Raise extra" = "Spiergroep: Deltaspieren\
+\
+Stap 1: Sta met uw voeten 30 cm uit elkaar, hou uw rug recht en uw armen een beetje voor uw romp. Neem een halter in elke hand met de ellebogen lichtjes gebogen.\
+\
+Stap 2: Hef de halters vooruit tot op schouderhoogte. Hou uw handpalmen naar de grond gericht\
+\
+Stap 3: Hou uw ellebogen gebogen en breng de halters terug naar de startpositie. Doe het aantal gewenste herhalingen.";
+
+
+
+
+
+
+"Dumbbell Lunge Side" = "Halter Lateraal Bewegen";
+
+"Dumbbell Lunge Side extra" = "Spiergroep: Quadriceps\
+\
+Stap 1: Sta recht met de voeten 30 cm uit elkaar. Hou de halters aan uw zijde in een neutrale greep.\
+\
+Stap 2: Terwijl u uw rug recht houdt, stapt u met één voet opzij en buig je door de knieën. De achterste voet blijft op zijn plaats. Stop wanneer je voorste dijbeen evenwijdig is met de grond. Hou vast voor één seconde. Keer terug naar de start positie.";
+
+
+
+
+
+
+"Standing Abdominal Stretch" = "Staand Buikspier Stretch";
+
+"Standing Abdominal Stretch extra"= "Spiergroep: Rechte Buikspieren\
+\
+Stap 1: Sta recht met uw armen recht boven het hoofd gestrekt.\
+\
+Stap 2: Buig uw onderrug door uw borst op te heffen en uw armen zover mogelijk naar achter te brengen. Blijf gedurende enkele seconden in deze gestrekte positie.";
+
+
+"Barbell Good Morning" = "Goede Morgen Barbell";
+"Barbell Good Morning extra" = "Spiergroep: Hamstrings\
+\
+Stap 1: Sta rechtop met uw voeten een schouderbreedte uit elkaar. Plaats de barbell op de achterkant van uw schouders. Hou de barbell in een overhandse greep. De afstand tussen uw handen moet groter zijn dan uw schouderbreedte. Uw voeten moeten lichtjes naar buiten wijzen.\
+\
+Stap 2: hou uw rug recht en buig uw boven lichaam tot het evenwijdig is met de grond. Hou vast voor één seconde. Keer terug naar de uitgangspositie";
+
+
+"Curl Bar Row" = "Curl Bar Reeks";
+"Curl Bar Row extra" = "Spiergroep: Lattissimus Dorsi\
+\
+Stap 1: Buig lichtjes door de knieën. Hou de curl bar onder u met een overhandse grip op schouderbreedte.\
+\
+Stap 2: Til de curl bar verticaal in de richting van uw borstkas. Hou vast voor één seconde. Keer terug naar de uitgangspositie ";
+
+
+// Descriptions
+
+"extra_main_description" = "Work out programma's voor gevorderden om u volledig scherp en sterk te maken";
+"Building muscle add volume and strength." = "Spieren kweken. Volume en kracht winnen";
+"Muscle Growth of the full Body." = "Spieren kweken over het volledige lichaam.";
+"Beginner Intermediate Advanced." = "Beginner Intermediair Gevorderd";
+"Man and Women." = "Mannen en Vrouwen";
+"Gym." = "Gym.";
+"Barbell Dumbbells Bench." = "Barbell Dumbbells Bank";
+"Building muscle add definition and strength." = "Spieren kweken. Definitie en kracht winnen";
+"Home, Office, Studio." = "Thuis, Kantoor, Studio";
+"Bench, Dumbbell, Mat, Body Weight." = "Bank, Mat, Lichaamsgewicht";
+"Muscle definition and fat burning." = "Spierdefinitie en vetverbranding";
+"Cardio routine of the full Body." = "Cardioroutine voor het volledige lichaam";
+"Home, Office." = "Thuis, Kantoor";
+"Core zone." = "Core zone";
+"Abdominals definition & fat burning." = "Buikspierdefinitie & Vetverbranding";
+"Gym, Home, Office." = "Gym, Thuis, Kantoor";
+"Stability ball, Mat, Body Weight." = "Stabiliteitsbal, Mat, Lichaamsgewicht.";
+"Chest & Arms." = "Borst & Armen";
+"Get strength and definition." = "Win kracht en definitie";
+"Bench, Dumbbell." = "Bank, Dumbbell";
+"Arms." = "Armen";
+"Shoulders." = "Schouders";
+"Bench, Dumbbell, Balance Ball." = "Bank, Dumbbell, Evenwichtsbal";
+"Back & Arms." = "Rug & Armen";
+"Neck, shoulders, lower back and legs." = "Nek, schouders, onderrug en benen";
+"Muscle flexibility and relaxation." = "Spier flexibiliteit en relaxatie";
+"Exercise Mat, Body Weight." = "Oefenmat, Lichaamsgewicht";
+
+
+"Focus" = "Focus";
+"Goal" = "Doel";
+"Skill level" = "Niveau";
+"Target Group" = "Doelgroep";
+"Place" = "Plaats";
+"Equipment" = "Uitrusting";
+
+
+"extraDescription1" = "Workouts opgesteld om gewichten te tillen en spieren en kracht te kweken.";
+"extraDescription2" = "De perfecte oefeningencombinatie om kracht te winnen en definitie toe te voegen";
+"extraDescription3" = "Word sterk en zweet het uit met dit geïnspireerd vetverbrandingscircuit.";
+"extraDescription4" = "Word strak en werk aan uw wasbord met dit geïnspireerd circuit voor uw abs verbranders.";
+"extraDescription5" = "Fantastische workout die focust op uw borstspieren om aan kracht en definitie te winnen.";
+"extraDescription6" = "Fantastische workout die focust op uw armspieren om aan kracht en definitie te winnen.";
+"extraDescription7" = "Fantastische workout die focust op uw beenspieren om aan kracht en definitie te winnen.";
+"extraDescription8" = "Fantastische workout die focust op uw schouderspieren om aan kracht en definitie te winnen.";
+"extraDescription9" = "Fantastische workout die focust op uw rugspieren om aan kracht en definitie te winnen.";
+"extraDescription10" = "Verbeter uw flexibiliteit en spierontspanning met deze stretch sessie voor het volledige lichaam.";
+
+
+"extraDescription1_howToMake" = "3 sets per oefening.";
+"extraDescription2_howToMake" = "Elke oefening 15 herhalingen met 2 reeksen eerst 4 dan nog 4.";
+"extraDescription3_howToMake" = "Rusttijd tussen oefeningen 15 sec. , rusttijd tussen reeksen 30 sec.";
+"extraDescription4_howToMake" = "Rusttijd tussen oefeningen 15 sec. , rusttijd tussen reeksen 30 sec.";
+"extraDescription5_howToMake" = "Rust tijd tussen oefeningen 45 sec, rusttıjd tussen reeksen 35 sec.";
+"extraDescription6_howToMake" = "Rust tijd tussen oefeningen 45 sec, rusttıjd tussen reeksen 35 sec.";
+"extraDescription7_howToMake" = "Rust tijd tussen oefeningen 45 sec, rusttıjd tussen reeksen 35 sec.";
+"extraDescription8_howToMake" = "Rust tijd tussen oefeningen 45 sec, rusttıjd tussen reeksen 35 sec.";
+"extraDescription9_howToMake" = "Rust tijd tussen oefeningen 45 sec, rusttıjd tussen reeksen 35 sec.";
+"extraDescription10_howToMake" = "Geen rust tussen oefeningen. Hou elke positive vast  voor 30 sec.";
+
+
+"categoryDescription0" = "De beste oefeningen om volume te winnen en definitie toe te voegen aan uw abs";
+"categoryDescription1" = "Verschillende oefeningen om u te helpen aan kracht te winnen";
+"categoryDescription2" = "De perfecte oefeningencombinatie om mass ate kweken en volume te winnen";
+"categoryDescription3" = "Speciale oefeningen die u zullen helpen om kracht te kweken en uw spieren te ontlasten";
+"categoryDescription4" = "De beste oefening om u te helpen bij het winnen van definitie en volume en op kracht te kweken";
+"categoryDescription5" = "Verschillende oefeningen om u te helpen om de prestaties op t ebouwen die u wilt";
+"categoryDescription6" = "De perfecte oefeningencombinatie om uw benen sterker te maken en uw uithouding te verhogen";
+"categoryDescription7" = "Fantastische oefeningencombinatie om kracht te kweken en definitie toe te voegen";
+"categoryDescription8" = "Speciale oefening om u te helpen uw kracht te verhogen met verschillende intensiteitsniveaus";
+"categoryDescription9" = "Koop de Pro Versie";
+
+"workoutDescription2" = "Een combinatie van oefeningen om u te helpen met het kweken van volume en spieren";
+"workoutDescription1" = "Een perfect strategisch plan om strak te worden en definitie aan uw lichaam toe te voegen";
+"workoutDescription3" = "De beste manier om sterk te worden, uw prestaties te verbeteren en kracht te winnen";
+
+
+
+"viewed" = "gezien";
+
+
+

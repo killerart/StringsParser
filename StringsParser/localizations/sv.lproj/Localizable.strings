@@ -1,0 +1,223 @@
+
+"exercises" = "övningar";
+"social follow" = "Håll kontakten med VGFIT";
+"Exercises" = "Övningar";
+"Workouts" = "Träningspass";
+"Custom" = "Anpassad";
+"Done" = "Klar";
+"Back" = "Tillbaka";
+"Title" = "Titel";
+"Downloading video" = "Laddar ner videoklipp";
+"Please wait..." = "Vänligen vänta...";
+"Cancel" = "Avbryt";
+"Bodybuilding" = "Kroppsbyggning";
+"Fitness" = "Fitness";
+"Powerlifting" = "Styrkelyft";
+"2 Days per week" = "2 dagar i veckan";
+"3 Days per week" = "3 dagar i veckan";
+"4 Days per week" = "4 dagar i veckan";
+"Day 1" = "Dag 1";
+"4 sets and 12/10/8/6 reps" = "4 set och 12/10/8/6 reps (repetitioner)";
+"Day 2" = "Dag 2";
+"Day 3" = "Dag 3";
+"Day 4" = "Dag 4";
+"Day" = "Dag";
+"Days" = "Dagar";
+"4 sets and 15 reps" = "4 set och 15 reps";
+"5 sets and 3/3/3/2/1 reps" = "5 set och 3/3/3/2/1 reps";
+"Edit" = "Redigera";
+"My Workout" = "Mitt träningspass";
+"To create new workout press +" = "För att skapa nytt träningspass, tryck +";
+"Save" = "Spara";
+"Workout Name:" = "Namn på träningspass:";
+"Days Number:" = "Antal dagar:";
+"Delete" = "Ta bort";
+"Workout Title:" = "Titel på träningspass:";
+"Options:" = "Alternativ:";
+"Camera/Gallery" = "Kamera/Galleri";
+"Exercise's Photos" = "Övningsfoton";
+"Name, Description, Repetitions" = "Namn, beskrivning, repetitioner";
+"Exercise Name:" = "Namn på övning:";
+"Description:" = "Beskrivning:";
+"Description" = "Beskrivning";
+"Repetitions:" = "Repetitioner:";
+"Error!" = "Fel!";
+"Error" = "Fel";
+"Please fill up the text field!" = "Vänligen fyll i hela textfältet!";
+"Ok" = "Ok";
+"Do you really want to cancel the download process? All progress will be lost!" = "Vill du verkligen avbryta nedladdningsprocessen? Alla framsteg kommer att gå förlorade !";
+"Download all videos" = "Ladda ner alla videoklipp";
+"Unzipping Files" = "Packar upp filer";
+"Files" = "Filer";
+"Downloading Videos" = "Laddar ner videoklipp";
+"All videos were saved successfully!" = "Alla videoklipp sparades!";
+"Add" = "Lägg till";
+"No Camera Support!" = "Inget kamera stöd!";
+"Camera feature is not supported by your device !" = "Din apparat stöder inte kamera funktionen !";
+"Please fill up the exercise name field!" = "Vänligen fyll i övnings namn fältet!";
+"Please check your wi-fi or cellular internet connection!" = "Vänligen kolla din Wifi internet eller cellulära internet anslutning!";
+"Your video is downloading already! Wait until it's done!" = "Videon nedladdas redan! Vänta tills det är klart!";
+"Warning!" = "Varning!";
+"For" = "Under";
+
+"History" =	"Historik";
+"More" =	"Mer";
+"Start" =	"Start";
+"Weight(kg)" =	"Vikt (kg)";
+"Weight(lbs)" =	"Vikt (lbs)";
+"Weight" = "Vikt";
+"Repetitions" =	"Repetitioner";
+"Save" =	"Spara";
+"Last values" =	"Senaste värden";
+"Cancel" =	"Avbryt";
+
+"Attention" =	"Observera";
+"Would you like to leave without saving?" =	"Vill du lämna utan att spara?";
+"Ok" =	"Ok";
+"Gallery" =	"Galleri";
+"No exercises have been done yet" =	"Inga övningar har gjorts ännu";
+"Performance" =	"Prestation";
+"Send Feedback" =	"Skicka feedback";
+"Report a Bug" =	"Rapportera ett fel";
+"Tell a Friend" =	"Tipsa en vän";
+"Gift this App" =	"Skicka Appen som gåva";
+"Rate us" =	"Ge vitsord";
+"Set seconds" =	"Set sekunder";
+"Stop" =	"Stopp";
+"Check out iBodybuilding=Update" =	"Kolla in iBodybuildingUpdateringar";
+"Check out this application on the App Store:" =	"Kolla in denna ansökan på App Store:";
+"Please note that you have not been added to any email lists." =	"Observera att du inte har lagt till några epostlistor.";
+
+"Fill up all the blank repetitions boxes." = "Fyll i de tomma övningslådorna. ";
+"You can't use values bigger than 500." = "Du kan inte använda värden högre än 500.";
+"You can't input data for future dates." = " Du kan inte mata in data för framtida datum!";
+
+
+"4 sets and 15 reps" = "4 set och 15 reps";
+"4 sets and 12/10/8/6 reps" = "4 set och 12/10/8/6 reps (repetitioner)";
+"5 sets and 3/3/3/2/1 reps" = "5 set och 3/3/3/2/1 reps";
+
+
+"Sets"  = "Set";
+"Enter workout name :" = "Ange namn för passet:";
+"Days number :" = "Dagar nummer:";
+"sets and" = "set och";
+"reps" = "reps";
+
+"You can't delete current selection" = "Du kan inte ta bort aktuellt val";
+
+
+//New localziation
+
+"Extra" = "Extra";
+
+"Forgot your password?" = "Glömt ditt lösenord?";
+
+"Alert" = "Varning";
+"somethingWentWrongAlert" = "någotGickFelVarning";
+"An account already exists for this email address" = "Ett konto med denna e-mailadress existerar redan";
+"Incorrect email address or password" = "Fel e-mailadress eller lösenord";
+"Notification" = "Notis";
+"In-App purchases were restored" = "App-köpen återställdes";
+"Sorry we didn't find your previous purchases" = "Vi kunde tyvärr inte hitta dina tidigare köp";
+"You don't have purchases for this account" = "Du har inga köp för detta konto";
+"You have purchased this item for another account" = "Du har köpt detta objekt på ett annat konto";
+"You have already purchased this item." = "Du har redan köpt detta objekt";
+"Do you want to restore it for current account?" = "Vill du återställa det för nuvarande konto";
+"Enter a valid email address" = "Ange en giltig e-mailadress";
+"Enter a valid password" = "Ange ett giltigt lösenord";
+
+"Password doesn't match" = "Lösenorden matchar inte";
+"Password must be minimum 4 characters" = "Lösenordet måste bestå av minst 4 tecken";
+"Success!" = "Lyckat!";
+"An email has been sent. Please check your Inbox or Spam folders." = "Ett e-mail har skickats. Vänligen kolla din inkorg eller skräppost.";
+
+"Login with Email" = "Logga in med e-mail";
+"Login with Facebook" = "Logga in med Facebook";
+"By continuing, you accept our Privacy Policy and Terms of Service" = "Genom att fortsätta godkänner du vår integritetspolicy och servicevillkor";
+"Continue" = "Fortsätt";
+"Login" = "Logga in";
+"Create Account" = "Skapa konto";
+"Sign Up" = "Gå med";
+"Email" = "E-mail";
+"Password" = "Lösenord";
+"Confirm Password" = "Bekräfta lösenord";
+"No internet connection" = "Ingen internetanslutning!";
+"Restore" = "Återställ";
+"My profile" = "Min profil";
+"Sign Out" = "Logga ut";
+
+"30 sec. without rest time" = "30 sekunder utan vila";
+"3 sets and 12/11/10 reps"  = "3 set och 12/11/10 repetitioner";
+"35 s. work time 15 s. rest time" = "35 s träning, 15 s vila";
+"30 s. work time 15 s. rest time" = "30 s träning, 15 s vila";
+"2 rounds 15 reps" = "2 omgångar 15 repetitioner";
+
+
+
+"Round" = "Omgång";
+"Rounds" = "Omgångar";
+"Reset" = "Återställ";
+"Intervals" = "Intervaller";
+"Current settings" = "Nuvarande inställningar";
+"My workouts" = "Mina träningar";
+"Work time" = "Träningstid";
+"Rest time" = "Vila";
+
+"Instagram application is not installed" = "Instagram applikation är inte installerad";
+
+
+
+"Skip" = "Hoppa";
+"Guest" = "Gäst";
+"Training plans" = "Träningsplan";
+"Downloading content" = "Laddar ner innehåll";
+"Content is downloading, please wait" = "Innehåll laddas ned, vänligen vänta";
+"Share application" = "Dela applikation";
+"Share app on Facebook" = "Dela app på Facebook";
+"Share app on Instagram" = "Dela app på Instagram";
+"Follow VGFIT on Instagram" = "Följ VGFIT på Instagram";
+"Follow VGFIT on Facebook" = "Följ VGFIT på Facebook";
+"tweetAboutUsKey" = "Tweeta om oss";
+"Backup" = "Backup";
+"Export backup file" = "Exportera backup fil";
+"Backup on email or print your workout history" = "Backup på e-post eller skriv ut träningshistorik";
+"Import backup file" = "Importera backup fil";
+"To import history tap on the file in your mail" = "Om du vill importera historia tryck på filen i din e-post";
+"History by Exercise" = "Historia efter Träning";
+"History by Date" = "Historia efter Datum";
+"youCantSendTwitt" = "Applikationen kan inte skicka tweet för tillfället. Detta beror på att den inte kan nå Twitter eller att du inte har ett Twitter-konto kopplat till den här enheten";
+"pleaseLogToFB" = "Logga in på ditt facebook-konto från dina enhetsinställningar";
+//reminder
+
+"Reminder" = "Påminnelse";
+"Edit notification permission in IOS settings" = "Redigera notisinställningar i IOS inställningar";
+"Daily reminder" = "Daglig påminnelse";
+"Frequency" = "Frekvens";
+"It's time to workout!" = "Dags att träna!";
+"After %ld days of inactivity" = "Efter %ld dagars inaktivitet";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Hallå där! Du har inte tränat på några dagar, kom tillbaka och gör det!";
+
+//Rate us Button
+
+
+//"Love our %@ app" = "Älskar du vår %@-app?"; //%@ - is the name of the app to be inserted
+//"Your feedback will help us to get better" = "Din feedback kommer hjälpa oss bli bättre";
+"Oh Dear!" = "Hoppsan!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Vi skulle uppskatta om du kunde överväga att ge oss idéer för att förbättra appen. Tack på förhand!";
+
+
+"Email Us" = "E-maila oss";
+"Not now" = "Inte nu";
+
+"5-Stars" = "5 stjärnir";
+"To improve the app, please Leave a Rating or Review." = "Lämna gära en recenssion eller ett betyg för att låta oss förbättra appen";
+
+//Watch
+"Download" = "";
+"Download all images" = "Ladda ner alla bilder";
+"Oops!" = "Hoppsan!";
+"You have to unlock this workout on your iPhone." = "Du måste låsa upp denna övning på din iPhone.";
+"There are no custom workouts to show." = "Det finns inga användarskapare övnignar";
+"There is no history, yet." = "Det finns ingen historik än";
+"Please, Download the images." = "Ladda ned bilderna";

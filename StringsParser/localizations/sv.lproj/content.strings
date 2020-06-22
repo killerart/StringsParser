@@ -1,0 +1,1335 @@
+/* 
+  content.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/18/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Abs" = "Magövningar";
+"Back" = "Rygg";
+"Biceps" = "Biceps";
+"Calf" = "Vad";
+"Chest" = "Bröst";
+"Forearms" = "Underarmar";
+"Legs" = "Ben";
+"Shoulders" = "Axlar";
+"Triceps" = "Triceps";
+
+//Abs
+"Incline Bench Sit-Ups" = "Situps på lutande bänk";
+"Hanging Leg Raises" = "Hängande benlyft";
+"Dumbbell Side Bends" = "Sidoböj med hantel";
+"Crunches" = "Crunches";
+"Sit-Ups" = "Situs";
+"Leg Raises" = "Benlyft";
+
+"1 Incline Bench Sit-Ups" = "Muskel: rectus abdominis\n\nSteg 1: Luta dig tillbaka på en nedåtlutad bänk. Håll händerna över huvudet. Knäna ska vara böjda\n\nSteg 2. Lyft överkroppen uppåt samtidigt som korsryggen ligger kvar på bänken. Håll en sekund. Gå tillbaka till utgångsläget";
+"2 Hanging Leg Raises" = "Muskel: rectus abdominis\n\nSteg 1: Håll på en chin-up bar höjd i ett överhandsgrepp, hänga med något böjda knän\n\nSteg 2. Dra dina höfter upp så du krypa inåt mot bröstet med hjälp av musklerna dina lägre abs. Life knäna så nära bröstet som möjligt, avrundning korsryggen på toppen. Sedan, pausa känna kontraktion i dina lägre- magmusklerna, och återgå till den position du började med";
+"3 Dumbbell Side Bends" = "Muskel: Yttre buk\n\nSteg 1: Stå rak med fötterna axelbrett isär. Håll en hantel i varje hand\n\nSteg 2:. Böj nedåt i en riktning, med minsta rörelse till nedre delen av kroppen\n\nSteg 3. Återgå till utgångsläget ";
+"4 Crunches" = "Muscle: rectus abdominis\n\nSteg 1. Liggande på rygg, räta benen, höja hälarna ca en tum från golvet och placera dina händer vid sidorna\n\nStep 2: Håll armarna parallella med golvet och lyft överkroppen och benen så att de bildar ett e. När du höjer dig, böj knäna och dra upp dem mot bröstet.";
+"5 Sit-Ups" = "Muscle: rectus abdominis\n\nSteg 1: Luta dig tillbaka på stabilitetsbollen. Positionera händerna på huvudet och fötterna på golvet\n\nSteg 2: Höj överkroppen uppåt samtidigt som korsryggen är på stabilitetsbollen. Håll en sekund. Återgå till utgångsläget.";
+"6 Leg Raises" = "Muskel: Rectus Abdominis\n\nSteg 1: Ligg ner på golvet. Sträck ut benen. Placera händerna bakom huvudet\n\nSteg 2: Höj överkroppen uppåt. Håll en sekund. Återgå till utgångsläget.";
+
+"Flat Bench Lying Leg Raise" = "Liggande benlyft";
+"7 Flat Bench Lying Leg Raise" = "Ligg på en bänk eller på golvet med benen raka. Placera händerna under rumpan med handflatorna nedåt. Håll benen raka och knäna låsta. Lyft upp fötterna så vertikalt som möjligt.";
+
+"Seated Jackknife" = "Sittande fällkniv";
+
+"8 Seated Jackknife" = "Sitt på kanten av en bänk och håll i ryggstödet bakom ryggen, sträck ut benen framför dig med knäna lätt böjda. Lyft benen upp mot bröstet och för ner bröstet mot knäna.";
+
+"Twisting Hip Raise" = "Vridande höftlyft";
+
+"9 Twisting Hip Raise" = "Ligg på rygg med benen pekande rakt uppåt och med händerna längs med sidorna. Tryck fötterna uppåt genom att lyfta höften från golvet och vrida den åt ena sidan.";
+
+"Bodyweight Crunch" = "Kroppsviktscrunches";
+"12 Bodyweight Crunch" = "Ligg på golvet med fötterna i marken och knäna böjda. Sträck ut armarna så långt det går uppåt. Lyft upp överkroppen samtidigt som du ländryggen i golvet. Håll i en sekund och återvänd sedan till startpositionen.";
+
+"Russian Twist" = "Russian Twist";
+"13 Russian Twist" = "Sitt på golvet med benen böjda och med torson lite lutad bakåt. Håll ut armarna rakt framåt. Rotera torson åt ena sidan, tillbaka till mitten och sedan till andra sidan.";
+
+"Side Bridge" = "Sidoplankan";
+"14 Side Bridge" = "Ligg på sidan med benen utsträckta. Vrid dig åt ena hållet och lyft upp kroppen från golvet med en arm parallellt med golvet. Försök hålla kroppen i en rak linje och armbågen direkt under axeln.";
+//Back
+"Chin-Ups" = "Chins";
+"1 Chin-Ups" = "Greppa stången med handflator och fingrar riktade framåt, bort från kroppen. Detta kallas för ett ”pronerat” grepp. Håll armarna raka och häng rakt ner utan att gunga. Slappna av i axlar och kropp. Dra dig upp i en mjuk rörelse, utan att rycka. Hakan ska nå över stången. Sänk dig långsamt tillbaka till startposition.";
+
+"Deadlifts" = "Marklyft";
+"2 Deadlifts" = "Din fotställning ska vara axelbred, och dina fötter ska vara lätt riktade utåt. Du ska nu  sänka din bakdel tills dina lår är parallella med golvet. Stången ska vara strax framför dina skenben. Ta nu tag i skivstången med båda händer så att ditt grepp är något bredare än avståndet mellan dina ben. Med en lätt böjning i ländryggen trycker du ifrån med dina ben och lyfter samtidigt med din rygg så att stången går förbi dina knän och stannar vid din höft. Dina axlar och knän ska låsas och dina armar ska hållas raka under hela lyftet.";
+
+"Lat Pull-Downs" = "Latsdrag";
+"3 Lat Pull-Downs" = "Fäst en lång stång till latsdragmaskinen, och justera lårkuddarna så att du, när du sitter ner, har knäna vinkelräta och dina fötter är i golvet. Ta tag i stången med ett brett grepp och sitt ner med överkroppen i en fortsatt upprätt ställning, men med lätt bakåtlutning från höfterna. Dra ner stången framför ditt ansikte till ditt bröst och pausa ett ögonblick. Släpp långsamt tillbaka stången till startposition genom att räta ut dina armar.";
+
+"Seated Rows" = "Sittande rodd";
+"4 Seated Rows" = "För att börja med sittande rodd väljer du först ett favorithandtag (det kan vara likt det som visas). Sitt med rak rygg och dina knän lätt böjda och med fötterna planterade på metallplattan. Sträcka ut dina armar och känn hur dina latsmuskler sträcks ut. Dra tillbaka vikten mot din kropp tills handtagen rör vid din mage.";
+
+"One-Arm Dumbbell Rows" = "Enarmsrodd med hantel";
+"5 One-Arm Dumbbell Rows" = "Sätt ditt vänstra knä och vänstra hand på en plan bänk, och ditt högra ben på golvet. Luta dig framåt så att din rygg är rak och parallell med golvet. Greppa en hantel med din högra hand så att din handflata är riktad mot din kropp och lyft eller ro hanteln uppåt mot sidan av din bröstkorg. Återgå till startposition och repetera. ";
+
+"Barbell Shrugs" = "Shrugs med skivstång";
+"6 Barbell Shrugs" = "Stå upprätt med fötterna axelbrett isär medan du håller en skivstång med båda händerna framför dig med ett pronerat grepp (handflator vända mot låren). Tips: Dina händer ska ha ett grepp något bredare än axelbrett. Du kan använda vristband för denna övning för ett bättre grepp. Detta utgör din startposition. Höj dina axlar så långt det går medan du andas ut och håll denna kontraktion någon sekund. Tips: Försök låta bli att lyfta skivstången med hjälp av biceps. Återgå långsamt till startpositionen under inandning.";
+
+"Dumbbell Shrugs" = "Hantelshrugs";
+"7 Dumbbell Shrugs" = "Stå upprätt med hantlar hängande längsmed sidorna, fötterna precis så brett som krävs för att hantlarna ska kunna hänga bekvämt. De kan vara tyngre än vad du skulle använda för en armcurl eller axellyft. Lyft axlarna uppåt på precis samma sätt som om du skulle säga “Jag vet inte” till någon som svar på en fråga. Luta dig inte framåt, utan försök att stå helt upprätt. Om du upptäcker att du böjer dig framåt eller lutar dig bakåt, så sänk vikterna en aning.";
+
+"Back Extensions" = "Ryggresningar";
+"8 Back Extensions" = "Sätt dig i en maskin för ryggresningar och sätt fast dina fötter under benfästet. Din kropp bör utgöra en rak linje från dina händer till din höft. Sänk din bröstkorg och låt din ländrygg runda sig en aning till dess att den nästan är vinkelrät mot golvet. Lyft din överkropp tills den är något ovanför parallelläge med golvet. I detta läge bör du ha en lätt svankad rygg, och dina skulderblad bör vara sammandragna. Gör en kort paus, för att sedan repetera.";
+
+"Bent Over Row" = "Stångrodd";
+"9 Bent Over Row" = "Stå med dina knän lätt böjda. Böj din bröstkorg till en vinkel på ca 45 grader, men med rak rygg. Ta tag i stången med ett överhandsgrepp, med dina händer något mer än axelbrett isär och med dina armar hängandes rakt ner från dina axlar:\n\n- Andas in, spänn dina magmuskler isometriskt och dra stången rakt upp tills den rör vid ditt bröst.\n\n- Återgå till startposition under utandning.";
+
+"Reverse Chin Ups" = "Omvända chins";
+"10 Reverse Chin Ups" = "Sträck dina armar och ta tag I stången med ett underhandsgrepp, med dina händer axelbrett isär:\n\n- Andas in och tryck ut ditt bröst för att dra dig själv uppåt, till dess att din haka är I jämnhöjd medstången.\n\n- Andas ut medan du fullföljer rörelsen.";
+//Biceps
+
+"Curls" = "Curls";
+"1 Curls" = "Stå med fötterna höftbrett isär, spänn magmusklerna samtidigt som du håller medeltunga hantlar framför låren. Spänn biceps och böj på armarna så att hantlarna lyts i en båge mot axlarna. Håll armbågarna stilla och för bara vikten så högt du kan utan att röra armbågarna. Sänk vikterna sakta och behåll en lätt böjning i armbågen längst ned. (t.ex. lås inte leden och försök hålla muskeln lätt spänd)";
+
+"Barbell Curls" = "Curls med skivstång";
+"2 Barbell Curls" = "Börja i startpositionen med dina fötter höftbrett isär och dina knän avslappnade. Fatta skivstången med även händerna axelbrett isär i ett underhandsgrepp (handflatorna vända uppåt). Stå upprätt och låt stången hänga framför dina lår. Böj armbågarna för att lyfta stången till axelhöjd. Pausa ett ögonblick i den övre positionen innan du sänker ned stången till startpositionen igen.";
+
+"Preacher Curls" = "Preacher curls";
+"3 Preacher Curls" = "Fatta tag i stången ungefär axelbrett. Höj den sakta tills dina underarmar pekar mot taket (något mer än vertikalt). Pausa en sekund och sänk sedan stången till startposition igen.";
+
+"Hammer Curls" = "Hammer Curls";
+"4 Hammer Curls" = "Håll en hantel i varje hand med handflatorna och vikterna vända utåt. Dina armar ska vara i 90 graders vinkel. Håll armbågarna stilla och nära kroppen, lyft vikterna uppåt mot dina axlar. Sänk vikterna sakta tillbaka till startpositionen.";
+
+"Concentration Curls" = "Concentration Curls";
+"5 Concentration Curls" = "Börja sittande på kanten av en bänk och håll en hantel i din högra hand. Låt den högra armen hänga rakt ned med armbågen vilandes på insidan av knät. Böj dig framåt så att din kropp är över dina ben och placera den vänstra handen på ditt vänstra knä. Böj vid armbågen, lyft hanteln upp till axelhöjd och pausa ett ögonblick innan du sänker den till startpositionen igen. Repetera tills ditt set är färdigt, sedan byter du sida och fortsätter med vänster arm.";
+
+"Reverse Curls" = "Omvänd curl";
+"6 Reverse Curls" = "Stå med fötterna lätt isär och dina armar raka, använd ett överhandsgrepp (tummarna mot varandra).\n\n- Andas in och lyft stången.\n\n- Andas ut samtidigt som du fullföljer rörelsen. Den här övningen aktiverar extensorerna i handleder och fingrar. Den tränar brachioradialis, och i mindre grad biceps. ";
+
+"Cable Biceps Curl" = "Cable Biceps Curl";
+"7 Cable Biceps Curl" = "Fäst en rak stång i det nedre trissan på en cable cross. Ta tag i stången med ett axelbrett underhandsgrepp och håll den med raka armar framför dina lår. Dina knän ska vara lätt böjda. Lyft stången mot ditt bröst så högt du kan utan att röra dina överarmar. ";
+
+"Low Pulley Curls" = "Low Pulley Curls";
+"8 Low Pulley Curls" = "Stå med ansiktet mot maskinen och fatta tag i handtaget med ett underhandsgrepp:\n\n- Andas in och lyft handtaget.\n\n- Andas ut samtidigt som du fullföljer rörelsen. Det här är bra träning för att isolera och pumpa biceps. ";
+
+"Low Pulley Cable Crossover" = "Low Pulley Cable Crossover";
+"9 Low Pulley Cable Crossover" = "Flytta ner trissorna till botten på en cable cross. Du kommer att korsa dina händer upp mot ansiktet genom att böra från golvet och dra uppåt. Den här varianten kommer att ta mer på övre delen av dittbröst. ";
+
+//Calf
+
+"Toe Raises" = "Tåhävningar";
+"1 Toe Raises" = "Börja i neutral position med fotvalven något bredare än axelbrett. Håll hantlarna med båda händerna på samma sida som often. Res dig upp på tå genom att spänna vadmusklerna och sänk dig ned till fullt utsträckt rörelse.";
+
+"One-Leg Toe Raises" = "Tåhävningar på ett ben";
+"2 One-Leg Toe Raises" = "Så på ett ben med tårna och främre trampdynan på blocket. Håll en hantel i handen på samma sida som foten du står på och fatta tag i kanten på maskinen med den andra handen för att hålla kroppen i en stadig position genom hela rörelsen. Res dig upp så högt du kan på tårna (plantarflexion), håll knät utsträckt eller lätt böjt. Återgå till startpositionen";
+
+"Seated Calf Raises" = "Sittande tåhävningar";
+"3 Seated Calf Raises" = "Justera sitsen så dina smalben är raka och dynan är precis bakom dina knän. Lyft vikterna venom att trycka dina hälar uppåt med hjälp av främre trampdynan. Sänk sakta hälarna tills du känner en sträckning i vadmuskeln. För att komma åt både inre och yttre vadmuskeln, peka med tårna inåt respektive utåt.";
+//Chest
+
+"Bench Presses" = "Bänkpress";
+"1 Bench Presses" = "För att korrekt utföra en bänkpressövning måste du ligga på rygg på en bänk med fötterna i marken. Stången ska vara lite bakom ditt huvud när den ligger på ställningen. Det är viktigt att man använder en medhjälpare för denna övning, särskilt om du använder fria vikter, för att minska risken att du tappar vikterna på dig själv. När du har lyft stången från ställningen kommer den att vara direkt ovanför mitten på ditt bröst. Håll kvar huvudet mot bänken hela tiden under rörelsen. När du väl håller stången stadigt, sänk den sakta ner till ungefär brösthöjd om så är möjligt. Håll armarna pekande utåt när stången sjunker. När du nått botten av rörelsen trycker du upp stången igen till utsträckt position och fokuserar på att trycka den uppåt med bröstet och armarna.";
+
+"Incline Presses" = "Lutande bänkpress";
+"2 Incline Presses" = "Denna övning är väldigt lik vanlig bänkpress förutom att du använder en lutande bänkpress med fria vikter och övre delen av bröstet kommer vara muskelgruppen som tränas i ställer för den mittersta delen. Lyft upp skivstången från ställningen och sänk den sakta tills den är ungefär 7 centimeter ovanför nyckelbenen (precis nedanför adamsäpplet) och tryck sedan upp stången till startpositionen. LÅT INTE STÅNGEN SLÅ I BRÖSTET (detta orsakar onödiga påfrestningar på axlarna tar bort spänningen från de övre bröstmusklerna, som är de som vi vill träna!) När du sänker stången, se till att du gör det på ett långsamt och kontrollerat sätt. När du trycker upp stången vill du däremot göra tvärtom och göra det explosivt.";
+
+"Dumbbell Presses" = "Hantelpress";
+"3 Dumbbell Presses" = "Inta rätt position genom att sitta på bänken, hålla i hantlarna och låta dem vila på dina lår. När du lutar dig bakåt för att lägga dig ner använder du låren för att hjälpa till att lyfta upp hantlarna till bröstet. Sträck sedan ut armarna uppåt ovanför bröstet (håll armbågarna lätt böjda), med handflatorna framåt. Håll hela fötterna i marken och håll ryggen i neutralt läge (inte mer än lätt böjd). Sänk ned hantlarna genom att böja armbågarna ut mot sidorna. Fortsätt tills armbågarna är precis nedanför axlarna. Tryck sedan upp hantlarna igen och för in dem mot mitten så att de nästan nuddar varandra och är lätt vinklade inåt. Håll armbågarna lätt böjda, låt dem inte ”låsa sig”. Upprepa tills du har gjort klart dina repeteringar. För att sätta dig upp, håll hantlarna mot bröstet, sparka benen uppåt och sedan framåt för att ge kroppen fart att komma upp.";
+
+"Parallel Bar Dips" = "Dips på parallella stångar";
+"4 Parallel Bar Dips" = "För det första, håll ner huvudet under rörelsen och rör kroppen framåt. För det andra, flytta ut armbågarna lite. Det vill säga, håll ut armbågarna och bort från kroppen. Detta gör så att du använder bröstmusklerna mer än triceps. Komma ihåg att koncentrera dig på att använda hela bröstet när du befinner dig längst upp i rörelsen.";
+
+"Cable Crossover Flys" = "Flyes på korsade vajrar";
+"5 Cable Crossover Flys" = "Denna övning utförs med hjälp av vajermaskinen om har vajrar på två motsatta sidor. Ställ in varje vajer så att den är i den övre positionen (om du inte är säker på hur du gör detta, fråga en gyminstruktör om hjälp). Fäst ett enhandshandtag på varje vajer som du tar tag i stående. Positionen som din kropp kommer att inta ser ut som en gigantisk bokstav. Dra långsamt och kontrollerat ihop armarna. När du gör detta, tänk dig att du kramar en stor trädstam. I slutet av rörelsen, se till att du verkligen drar ihop bröstmusklerna i en sekund och återvänd sedan till startpositionen. ";
+
+"Dumbbell Flys" = "Hantelflyes";
+"6 Dumbbell Flys" = "För att utföra hantelflyes börjar du med att ta en relativt lätt vikt i varje hand. Du måste experimentera lite för att avgöra hur tunga vikter du ska ha. Börja med en lättare vikt och jobba dig sakta uppåt. Ligg ner på rygg på en bänk och lyft upp hantlarna rakt upp ovanför bröstet med armarna raka. Detta är startpositionen. Dra armarna utåt i en vid båge tills de står ut mot sidorna. Armarna kan vara lätt böjda. Detta är ”flyg”-delen i hantelflyes. De kallas så för att det ser ut som att man flyger. Följ samma båge upp tillbaka tills hantlarna åter är i startpositionen. Detta är en repetition av hantelflyes.";
+
+"Dumbbell Pullovers" = "Hantelpullovers";
+"7 Dumbbell Pullovers" = "Denna övning är väldigt lik skivstångspullovers med böjda armar, förutom att man använder en hantel i stället för en skivstång. Ligg på rygg på en bänk. Börja med att hålla hanteln ovanför bröstet med armbågarna lätt böjda. Sänk sakta hanteln bakåt så att du sträcker armarna (och hanteln) bakom huvudet så långt du når. Dina armar och hanteln kommer att åka bakom/ovanför huvudet och sänkas ner bakom bänken – vilket ger en bra tänjning! Ta sakta tillbaka hanteln till startpositionen, fokusera på att hålla armbågarna låsta i en lätt böjd position.";
+
+"Push-Ups" = "Armhävningar";
+"8 Push-Ups" = "Ligg framstupa med armarna raka, handflatorna i marken och händerna axelbrett isär (eller bredare). Håll ihop fötterna eller håll dem lätt särade:\n\n- Andas in och böj armbågarna för att föra ner torson nära marken, undvik att sträcka för mycket på ryggraden.\n\n- Häv dig själv tillbaka upp på armarna i utsträck position, andas ut när du slutför rörelsen.";
+
+"Dumbbell Press" = "Hantelpress";
+"9 Dumbbell Press" = "Ligg på rygg på bänken med fötterna i marken för stabilitet, armarna utsträckta uppåt och händerna inåt mot varandra med en hantel i varje:\n\n- Andas in och sänk ner hantlarna till brösthöjd, böj armbågarna och rotera underarmarna så att händerna proneras.\n\n- Pressa upp hantlarna igen och gör en isometrisk hopdragning för att isolera påfrestningen till bröstmusklerna; andas ut när du slutför rörelsen.";
+
+"Barbell Bench Press" = "Skivstångsbänkpress";
+"10 Barbell Bench Press" = "Ligg på rygg på en neråtlutande bänk. Håll i stången med ett överhandsgrepp. Sänk ner skivstången mot underdelen av bröstet samtidigt som du håller in armbågarna mot kroppen. Skivstången ska nudda bröstet lätt i slutet av rörelsen.";
+
+"Pec Deck Flies" = "Flyes på pec deck-maskin";
+"11 Pec Deck Flies" = "Sitt på maskinens säte, pressa in armbågarna i dynorna och slappna av i underarmarna och handlederna:\n\n- Andas in och tryck ihop dynorna tills de nuddar varandra framför bröstet.\n\n- Andas ut när du slutför rörelsen.";
+//Forearms
+"Wrist Curls" = "Handledscurl";
+"1 Wrist Curls" = "Sitt med underarmarna vilandes på låren eller på en bänk. Ta ett underhandsgrepp på stången handlederna passivt utsträckta:\n\n- Andas in och böj handleden uppåt.\n\n- Andas ut när du slutför rörelsen.";
+
+"Wrist Curls" = "Underarmscurl";
+"2 Wrist Curls" = "Sitt på en bänk. Använd en hantel med handleden passivt utsträckt:\n\n- Andas in och böj handleden uppåt.\n\n- Andas ut när du slutför rörelsen. Denna övning tränar handledens och fingrarnas böjmuskler.";
+//Legs
+"Squats" = "Knäböj";
+"1 Squats" = "Knäböj innebär att man sänker ned sig själv till golvet utan att böja på ryggen. I stället använder man benen för att sänka ned kroppen samtidigt som man håller ryggraden i en neutral position. Stå med fötterna höftbrett isär. Pressa bak höften och böj på knäna. Lägg vikten på hälarna och inte på fötternas främre trampdynor. Knäna ska vara bakom tårna. Fortsätta sjunka tills knäna är böjda i 90 grader. Håll stilla ett tag och tryck sedan på hälarna och sträck ut knäna och höften.";
+
+"Angled Leg Presses" = "Vinklad benpress";
+"2 Angled Leg Presses" = "Sitt på maskinen med ryggen och huvudet mot ryggstödet. Lägg fötterna på fotstödet med ungefär en höfts mellanrum, se till att hälarna har kontakt med fotstödet. Benen ska forma en vinkel på ungefär 90 grader i knävecken, lite variation åt något håll gör inget så länge hälarna har kontakt med fotstödet. Knäna ska vara parallella med fötterna och varken böjda inåt eller utåt. Rumpan ska inte lyftas från sätet. Om den gör det, och vinkeln i knävecken är för stor, så behöver du justera ryggstödet tills korrekt position uppnås. Du vet att positionen inte är korrekt när knäna verkar befinna sig framför dina ögon och du känner att kramp är på väg. Ta tag i stödhandtagen.";
+
+"Leg Extensions" = "Benspark";
+"3 Leg Extensions" = "Lyft sakta vikten genom att sträcka ut båda benen uppåt till utsträckt position. Lyft inte upp vikten med ett ryck. Håll denna position i en sekund och sänk sedan ned vikten tillbaka till startpositionen. Upprepa rörelse.";
+
+"Dumbbell Lunges" = "Hantelutfall";
+"4 Dumbbell Lunges" = "Stå med hantlarna hängande längs med sidorna. Gör ett utfall framåt med första benet. Landa på hälen först och sedan framfoten. Sänk kroppen genom att böja på knä och höft på det främre benet tills knät på det bakre benet nästan är i kontakt med golvet. Återvänd till startpositionen genom att sträcka ut knä och höft på det främre benet. Repetera med andra benet framåt.";
+
+"Cable Back Kicks" = "Kick-bak med vajer";
+"5 Cable Back Kicks" = "Fäst en fotmanschett i änden av den lägre vajern. Fäst fotmanschetten runt vristen. Stå framför viktmagasinet och ta tag i kanten av ställningen för stöd: vrid fram bäckenet. Dra benet bakåt.";
+
+"Dumbbell Squats" = "Knäböj med hantlar";
+"6 Dumbbell Squats" = "Stå lätt bredbent och ta en hantel i varje hand med armarna hängande längs med sidorna:\n\n- Håll blicken framåt, böj lätt på ryggen och gör ett knäböj.\n\n- När låren är parallella med golvet sträcker du ut benen för att återvända till startpositionen.\n\n- Andas ut när du slutför rörelsen.";
+
+"Front Squats" = "Frontknäböj";
+"7 Front Squats" = "Positionera skivstången över de främre deltamusklerna, håll överarmen parallell med golvet, böj på armbågarna, korsa armarna och håll blicken framåt.\n\n- Andas in och gör ett knäböj.\n\n- Återvänd till startpositionen. Andas ut när du slutför rörelsen.";
+
+"Power Squats" = "Powernäböj";
+"8 Power Squats" = "Denna rörelse är likadan som vanliga knäböj, men man står mer bredbent och med tårna pekande utåt, vilket tränar innanlåren extra mycket. Musklerna som involveras är:\n\n- quadriceps\n\n- alla adduktormuskler\n\n- sätesmusklerna\n\n- hamstringsmusklerna\n\n- de raka ryggmusklerna";
+
+"Hack Squats" = "Hack-knäböj";
+"9 Hack Squats" = "Sträck ut knäna placera ryggen mot ryggstödet. Placera axlarna under axeldynorna på maskinen, lås fast bygeln och placera fötterna relativt nära varandra:\n\n- Andas in, vrid på stopphandtagen vid sidan av bygeln för att frigöra maskinen och böj på knäna.\n\n- Återvänd till startpositionen. Andas ut när du slutför rörelsen.";
+
+"Seated Leg Curls" = "Sittande bencurl";
+"11 Seated Leg Curls" = "Sitt på maskinen med benen raka och låt vristerna vila på rulldynan. Sänk ned benstödet över låren för att låsa fast dem. Ta tag i handtagen på sidorna.\n\n- Andas in och böj på knäna för att föra rulldynan nedåt.\n\n- Andas ut när du slutför rörelsen.";
+//Shoulders
+"Back Presses" = "Ryggpress";
+"1 Back Presses" = "Börja med att sitta på bänken (med ryggstöd). Greppa hantlarna med ett överhandsgrepp och håll dem ovanför axlarna framför dig med armbågarna mot golvet. Lyft upp hantlarna ovanför huvudet så att armarna är fullt utsträckta. Håll i så ett tag och sänk sedan hantlarna till startpositionen.";
+
+"Seated Front Presses" = "Sittande frontpress";
+"2 Seated Front Presses" = "Sitt på en uppfälld bänk. Greppa stången med ett grepp som är bredare än axlarna. Lyft stången uppåt tills den är på en arms längd ovanför axlarna. Sänk ned stången till framför dina axlar och lyft sedan upp den till startpositionen igen.";
+
+"Seated Dumbbell Presses" = "Sittande hantelpress";
+"3 Seated Dumbbell Presses" = "Positionera dig själv på en bänk eller en stol med ryggen upprätt och rak. Ta en hantel i varje hand och håll dem precis bredvid axlarna med tummarna riktade mot varandra. Lyft upp hantlarna ovanför huvudet och återvänd till startpositionen precis bredvid axlarna.";
+
+"Low-Pulley Lateral Raises" = "Sidolyft med låga vajerdrag";
+"4 Low-Pulley Lateral Raises" = "Stå nära vajermaskinen, positionera armen lite framför låren och ta tag i handtaget. Andas in, håll armbågen lätt böjd och lyft armen ut mot sidan av kroppen tills överarmen är parallell med axeln. Håll handflatan nedåt. Sänk sedan ner armen tillbaka till startpositionen, sakta och kontrollerat.";
+
+"Upright Rows" = "Upprätt rodd";
+"5 Upright Rows" = "Lyft upp stången mot hakan med armbågarna först. När överarmarna är parallella med golvet stannar du och sänker ner stången på samma sätt som du lyfte den fast omvänt. När stången är som högst bör dina armbågar vara högre upp än dina handleder.";
+
+"Dumbbell Rear Deltoid Raises" = "Bakre deltamuskellyft med hantlar";
+"6 Dumbbell Rear Deltoid Raises" = "Sitt på en bänk framåtlutad och med fötterna ihop på golvet. Lyft hantlarna till sidan av kroppen, håll händerna raka och sänk sakta tillbaka till startpositionen.";
+
+"Lateral Raises" = "Sidolyft";
+"7 Lateral Raises" = "Stå lätt bredbent. Håll ryggen rak och armarna längs med sidorna med en hantel i varje hand.\n\n- Lyft upp hantlarna till axelhöjd, håll armbågarna lätt böjda.\n\n- Återvänt till startpositionen.";
+
+"Front Raises" = "Frontlyft";
+"8 Front Raises" = "Så lätt bredbent. Håll i hantlarna med handflatorna nedåt (överhandsgrepp) och vila dem mot låren eller lätt mot sidorna:\n\n- Andas in och lyft en hantel på varannan sida till axelhöjd.\n\n- Andas ut när du slutför rörelse.";
+
+"Barbell Front Raises" = "Frontlyft med skivstång";
+"9 Barbell Front Raises" = "Så lätt bredbent. Ta ett överhandsgrepp på skivstången och vila den mot låren. Håll ryggen rak och magmusklerna spända:\n\n- Andas in och lyft skivstången framåt med dina armar raka tills den når ögonhöjd.\n\n- Andas ut när du slutför rörelsen.";
+
+"Upright Row" = "Upprätt rodd";
+"10 Upright Row" = "Stå lätt bredbent. Håll ryggen rak. Ta ett överhandsgrepp på stången med ungefär en handbredd mellan händerna eller lite mer:\n\n- Andas in och dra skivstången rakt uppåt tills den nuddar hakan.\n\n- Lyft armbågarna så högt som möjligt när stången är längst upp.\n\n- Andas ut och sänk sakta skivstången tillbaka till startpositionen.";
+
+"Low Pulley Bent-Over Lateral Raises" = "Framåtböjda sidolyft med låga vajerdrag";
+"11 Low Pulley Bent-Over Lateral Raises" = "Stå med knäna lätt böjda. Böj dig framåt i midjan, håll ryggen rak och låt armarna hänga ner. Håll ett handtag i varje hand med vajrarna korsade:\n\n- Andas in och lyft armarna till sidorna tills dina händer är lite ovanför axelhöjd.\n\n- Andas ut när du slutför övningen.";
+
+"Low Pulley Front Raises" = "Frontlyft med låga vajerdrag";
+"12 Low Pulley Front Raises" = "Stå lätt bredbent. Håll i handtaget med ett överhandsgrepp och håll armarna längs med sidorna.\n\n- Andas in och lyft armen framåt till axelhöjd.\n\n- Andas ut när du slutför rörelsen. Denna övning tränar deltamusklerna.";
+
+"Pec Deck Rear-Delt Laterals " = "Omvänd pek deck";
+"13 Pec Deck Rear-Delt Laterals" = "Sitt i en pec deck-maskin med ansiktet mot ryggstödet och med händerna på handtagen.\n\n- Andas in och dra bak armbågarna så att skulderbladen pressas ihop i slutet av rörelsen.\n\n- Andas ut när du slutför rörelsen.";
+//Triceps
+
+"Close-Grip Bench Presses" = "Bänkpress med smalt grepp";
+"1 Close-Grip Bench Presses" = "Positionera dig själv på en vanlig bänkpress med fria vikter. Ligg på rygg och ta tag i skivstången ovanför dig med ett väldigt smalt grepp. Fokusera på att ha ett mellanrum på 15-20 cm mellan händerna. Lyft upp skivstången från ställningen och sänk den sakta till ungefär 7 cm från bröstet och lyft sedan upp den till startpositionen igen. Se till att du fokuserar på att hålla in armbågarna mot kroppen genom hela rörelsen.";
+
+"Push-Downs" = "Push-Downs";
+"2 Push-Downs" = "Använd en maskin för vajerdrag över huvud, ta ett kort rak stång och fatta ett överhandsgrepp. Dina händer ska vara ungefär 25 cm ifrån varandra. Positionera dina underarmar så att de är parallella med golvet. Håll fötterna på ett axelbrett avstånd ifrån varandra och böj lätt på knäna. Håll in armbågarna nära kroppen och håll handlederna rakt. Håll HELA kroppen stadig, tryck stången så fort som möjligt ner mot dina ben, så att armarna låser sig och du känner hur triceps dras ihop helt. Håll överarmarna nära kroppen. Gå tillbaka till startpositionen med samma rörelse. Flytta aldrig armbågarna eller torson! Bibehåll en upprättstående position.";
+
+"Triceps Extensions" = "Triceps Extensions";
+"3 Triceps Extensions" = "Positionerar du stången ovanför dina ögon hålls dina triceps lätt spända samtidigt som dina armar är utsträckta. Håll nu överarmarna fixerade i den utsträckta positionen samtidigt som du böjer på armbågarna och låter vikten kontrollerat sjunka mot din panna.";
+
+"Triceps KickBacks" = "Triceps KickBacks";
+"4 Triceps KickBacks" = "Ställ dig med ett knä på en bänk, samma ben som du håller vikten i, så att du står bekvämt. Med rak rygg och blicken framåt börjar du nu med vikten i nittio graders vinkel (som på bilden). Sträck ut armen och håll armbågen stilla.";
+
+"One-Arm Dumbbell Triceps Extensions" = "Triceps extension med en arms hantel";
+"5 One-Arm Dumbbell Triceps Extensions" = "Håll armen fullt utsträck ovanför kroppen. Se till att armbågen är riktad bort ifrån kroppen. Ta nu din fria hand och ta tag i armen som håller i hantel och ge den stöd precis nedanför armbågen. Sedan böjer du på armbågen och sänker ner vikten. När underarmen är parallell med golvet kan du dra upp armen igen till utsträckt position.";
+
+"Bar Triceps Extensions" = "Triceps extensions med skivstång";
+"6 Bar Triceps Extensions" = "Till att börja med, stå upp och håll skivstången med ett pronerat grepp (handflatorna framåt) med händerna på ett avstånd mindre än axelbredd ifrån varandra. Stå axelbrett med fötterna. Lyft nu upp skivstången ovanför huvudet tills armarna är helt utsträckta. Håll in armbågarna. Detta är din startposition. Håll överarmarna nära huvudet och dra in armbågarna, lodrätt med golvet. Minska motståndet i en semicirkulär rörelse bakom huvudet tills underarmarna vidrör dina biceps. Tips: Överarmarna ska hållas stilla och bara underarmarna ska röra sig. Andas in när du utför detta steg. Gå tillbaka till startpositionen genom att använda tricepsmusklerna för att lyfta skivstången. Andas ut när du utför detta steg.";
+
+"Dumbbell Triceps Extension" = "Triceps extension med hantlar";
+"7 Dumbbell Triceps Extension" = "Ligg på en bänk med en hantel i varje hand och armarna utsträckta rakt upp från axlarna:\n\n- Andas  in och böj sakta på armarna.\n\n- Gå tillbaka till startpositionen och andas ut när du gör detta. Denna övning tränar triceps alla huvuden.";
+
+"Triceps Dips" = "Triceps Dips";
+"8 Triceps Dips" = "Placera händerna på kanten av en bänk och lägg upp fötterna på en annan bänk. Inta en vinkel på ungefär 90 grader mellan torso och ben:\n\n- Andas in och böj på armarna.\n\n- Sträck ut armarna för att gå tillbaka till startpositionen och andas ut när du gör detta. Denna övning tränar triceps, bröstmuskler och bakre deltamuskler.";
+
+"Triceps Pushdown" = "Triceps Pushdown";
+"9 Triceps Pushdown" = "Stå med ansiktet mot maskinen med händerna på stången och armbågarna mot sidorna:\n\n- Andas in och sträck ut armarna, men håll kvar armbågarna mot sidorna.\n\n- Andas ut när du slutför rörelsen.";
+
+"One Arm Reverse Pushdown" = "Omvänd pushdown med en arm";
+"11 One Arm Reverse Pushdown" = "Stå med ansiktet mot maskinen och ta tag i stången med ett underhandsgrepp.\n\n- Andas in och sträck ut armen.\n\n- Andas ut när du slutför rörelsen.";
+
+"Rotating T Extension"="Roterande T-extension";
+"16 Rotating T Extension"="1. Börja i en armhävningsposition. Håll armarna raka och bålen och ryggen spända.\n\n2. Lägg vikten på vänsterarmen, rotera torson till höger och lyft högerarmen mot taket, så att kroppen formar ett T.\n\n3. Håll i tre sekunder. Återgå sedan till startläget och upprepa med andra sidan. Detta är en repetition.";
+"Bodyweight Hip Extension"="Höftextension med kroppsvikt";
+"15 Bodyweight Hip Extension"="1. Ligg ner på golvet. En fot är platt mot golvet, medan det andra benet är rakt. Använd händerna för att stabilisera positionen.\n\n2. Lyft det raka benet tills nedre delen av ryggen lyfts från marken. Håll i en sekund. Återgå till startläget. ";
+"Superman"="Stålmannen";
+"17 Superman"="1. Knäa på alla fyra med knäna under höfterna på en höftlängds avstånd. Ha händerna på golvet under axlarna, på en axellängds avstånd. Ha ryggraden i en neutral position. Aktivera din rygg- och bålmuskulatur genom att dra magmusklerna mot ryggraden.\n\n2. Utan att röra dig åt sidan och med magmusklerna indragna - andas ut och lyft långsamt armen och det motsatta benet tills de är parallella med golvet. Var noga med att följa tempot du har bestämt dig för.\n\n3. Andas in och släpp långsamt tillbaka armen och benet till startpositionen.\n\n4. Upprepa det önskade antalet gånger och gör sedan om övningen med den andra armen och benet.";
+"Bodyweight Superman"="Kroppsviktstålmannen";
+"11 Bodyweight Superman"="1. Ligg på mage på golvet. Sträck ut armarna helt framför dig. \n\n2. Lyft benen och överkroppen mot taket. Håll i en sekund. Återgå till startläget.";
+"Dumbbells Bent Over Row"="Böjd rodd med hantlar";
+"12 Dumbbells Bent Over Row"="1. Ta ett par hantlar och håll dem framför dig vid midjan, men behåll ryggen rak. Låt armarna hänga rakt nedåt med handflatorna vända mot varandra.\n\n2. Lyft hantlarna till sidan av bröstet och släpp sedan ned dem till det utsträckta startläget, samtidigt som du håller ryggen rak och stabil hela tiden.";
+"Seated Bent Over Row"="Sittande böjd rodd";
+"14 Seated Bent Over Row"="1. Sitt längst ut på en bänk med knäna böjda och fötterna platta mot golvet. Placera ett par hantlar på golvet vid dina sidor. Böj dig framåt vid midjan så långt du kan tills ryggen nästan är parallell med golvet - din bröstkorg ska röra benen. Ta en vikt i varje hand och låt armarna hänga rakt ner.\n\n2. Vänd vikterna så att dina handflator är vända mot varandra.\n\n3. Utan att röra något annat än armarna, dra långsamt upp hantlarna mot kroppen till sidorna av bröstet.\n\n4. Håll i en sekund och släpp sedan långsamt tillbaka vikterna ner.";
+"Stability Ball Hyperextension"="Hyperextension på stabilitetsboll";
+"13 Stability Ball Hyperextension"="1. Ligg på mage på stabilitetsbollen. Hela din överkropp ska vara på bollen. Håll armarna över huvudet.\n\n2. Böj överkroppen tills bröstet inte längre är i kontakt med bollen. Håll i en sekund. Återgå till startläget.";
+"T-Bar Bent Over Row"="Böjd T-stångsrodd";
+"15 T-Bar Bent Over Row"="1. Ställ dig över en T-stångsroddmaskin och ta tag i handtagen med ett överhandsgrepp. Se till att du står med fötterna axelbrett isär och knäna något böjda, som på bilden.\n\n2. Håll ryggen platt och böj dig vid midjan tills överkroppen är omkring 45 grader från det vertikala, med stången hängandes på en armlängd rakt nedanför axlarna.\n\n3. Genom att trycka ihop dina skulderblad lyfter du sedan stången så nära du kan komma nedre delen av bröstkorgen. Pausa och sänk sedan långsamt tillbaka stången till startläget.";
+"Dumbbell Biceps Curl (Hammer Grip On Bench)"="Bicepscurl med hantel (hammargrepp på bänk)";
+"10 Dumbbell Biceps Curl (Hammer Grip On Bench)"="1. Medan du står med ryggen rak, håll i en hantel med ett hammargrepp. Vila överarmen på snedbänken.\n\n2. Lyft upp hanteln medan du håller överarmarna på plats. Håll i en sekund. Sänk ner hanteln tillbaka till startläget.";
+"Dumbbell Biceps Curl (Hammer Grip Standing)"="Bicepscurl med hantlar (hammargrepp ståendes)";
+"11 Dumbbell Biceps Curl (Hammer Grip Standing)"="1. Medan du står med ryggen rak, håll hantlar vid sidorna med ett hammargrepp. Håll armarna raka.\n\n2. Lyft upp hantlarna medan du håller överarmarna på plats. Undvik att använda axlarna under rörelsen. \n\n3. Håll i en sekund och gå tillbaka till startläget.";
+"Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="Bicepscurl med hantel (enarmad sammandragning med underhandsgrepp)";
+"12 Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="1. Böj lite på knäna. Håll ryggen böjd och rak. Håll i en hantel med ett underhandsgrepp. Positionera armbågen vid innerlåren.\n\n2. Lyft upp hanteln medan du håller överarmen på plats. Håll i en sekund. Återgå till startläget.";
+"Dumbbell Biceps Curl (Underhand Grip On Bench)"="Bicepscurl med hantlar (underhandsgrepp på bänk)";
+"13 Dumbbell Biceps Curl (Underhand Grip On Bench)"="1. Medan du står med ryggen rak, håll i en hantel med ett underhandsgrepp. Vila överarmen på snedbänken.\n\n2. Lyft upp hanteln medan du håller överarmarna på plats. Håll i en sekund. Sänk ner hanteln tillbaka till startläget.";
+"Dumbbell Biceps Curl Seated (Hammer Grip)"="Sittande bicepscurl med hantlar (hammargrepp)";
+"14 Dumbbell Biceps Curl Seated (Hammer Grip)"="1. Medan du sitter med ryggen rak, låt hantlar hänga bredvid dig med ett hammargrepp. Håll armarna raka.\n\n2. Lyft upp hantlarna medan du håller överarmarna på plats. Undvik att använda axlarna under rörelsen. Håll i en sekund och gå sedan tillbaka till startläget.";
+"Dumbbell Biceps Curl Seated (Underhand Grip)"="Sittande bicepscurl med hantlar (underhandsgrepp)";
+"15 Dumbbell Biceps Curl Seated (Underhand Grip)"="1. Medan du sitter med ryggen rak, låt hantlar hänga bredvid dig med ett underhandsgrepp. Håll armarna raka.\n\n2. Lyft upp hantlarna medan du håller överarmarna på plats. Undvik att använda axlarna under rörelsen. Håll i en sekund och gå sedan tillbaka till startläget.";
+"Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="Bicepscurl på stabilitetsboll med hantel (hammargrepp)";
+"16 Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="1. Håll i en hantel med ett hammargrepp. Knäa bakom stabilitetsbollen. Lägg överarmen på bollen.\n\n2. Lyft upp hanteln medan du håller överarmen på plats. Undvik att använda axeln under rörelsen. Håll i en sekund. Återgå till startläget.";
+"Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="Bicepscurl på stabilitetsboll med hantel (underhandsgrepp)";
+"17 Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="1. Håll i en hantel med ett underhandsgrepp. Knäa bakom stabilitetsbollen. Lägg överarmen på bollen.\n\n2. Lyft upp hanteln medan du håller överarmen på plats. Undvik att använda axeln under rörelsen. Håll i en sekund. Återgå till startläget.";
+"Stability Ball Dumbbell Biceps Curl Seated"="Bicepscurl på stabilitetsboll med hantlar (sittande)";
+"18 Stability Ball Dumbbell Biceps Curl Seated"="1. Medan du sitter upprätt på en stabilitetsboll, ta tag i ett par hantlar så att dina armar är helt utsträckta vid dina sidor. Handflatorna ska vara vända utåt, som på bilden.\n\n2. Krök långsamt dina armar vid armbågen tills hantlarna kommer till axelnivå, utan att armarna ändrar position. Armarna ska helt enkelt vara böjda vid armbågen utan att röra sig i någon annan riktning. Vrid inte på handlederna när du lyfter hantlarna.";
+
+"Stability Ball Dumbbell Biceps Preachear Curl"="Bicepscurl på stabilitetsboll med hantlar (preacher curl)";
+"19 Stability Ball Dumbbell Biceps Preachear Curl"="1. Lägg ett par hantlar på golvet framför bollen. Knä precis bakom bollen och lägg armarna över den för att tag i hantlarna med ett underhandsgrepp. Låt vikterna röra sig bakåt mot hälarna när du lägger dina triceps på bollen med underarmarna nedåt.\n\n2. Håll ryggen rak när du lyfter upp vikterna tills dina underarmar nästan är vinkelräta mot golvet. ";
+"Underhand Grip Prone On An Incline Bench"="Underhandsgrepp på snedbänk";
+"20 Underhand Grip Prone On An Incline Bench"="1. Ligg på mage på snedbänken. Låt ett par hantlar hänga bredvid dig med ett underhandsgrepp. Håll armarna raka.\n\n2. Krök långsamt vikterna rakt upp. Handlederna ska alltid vara fixerade – undvik att vrida dem och håll överarmarna vinkelräta mot golvet.";
+"Barbell Calf Raise (Seated)"="Vadlyft med skivstång (sittande)";
+"4 Barbell Calf Raise (Seated)"="1. Sitt med ryggen rak och lägg skivstången på underlåren. Använd händerna för att stabilisera stångens rörelser.\n\n2. Lyft vaderna genom att stå på tå. Håll i en sekund. Sänk tillbaka vaderna ner på golvet.";
+"Barbell Calf Raise With Single Leg (Seated)"="Vadlyft med skivstång och ett ben (sittande)";
+"5 Barbell Calf Raise With Single Leg (Seated)"="1. Sitt med ryggen rak och lägg skivstången på det ena underlåret. Använd händerna för att stabilisera stångens rörelser.\n\n2. Lyft vaderna genom att stå på tå. Håll i en sekund. Sänk tillbaka vaderna ner på golvet.\n\n3. Upprepa samma sak med det andra benet.";
+"Dumbbell Calf Jump"="Vadhopp med hantlar";
+"6 Dumbbell Calf Jump"="1. Stå med fötterna på en höftlängds avstånd ifrån varandra. Ta ett par hantlar och håll dem vid sidorna på en armlängds avstånd.\n\n2. Böj på knäna så att de är i cirka 45 graders vinkel och hoppa så högt du kan. Peka med tårna mot golvet när du hoppar.\n\n3. Låt knäna böja sig 45 grader när du landar och hoppa sedan omedelbart igen.";
+"Dumbbell Calf Raise (Seated)"="Vadlyft med hantlar (sittande)";
+"7 Dumbbell Calf Raise (Seated)"="1. Sitt med ryggen rak och lägg en hantel på båda underlåren. Använd händerna för att stabilisera eventuella rörelser.\n\n2. Lyft vaderna genom att stå på tå. Håll i en sekund. Återgå till startläget.";
+"Standing Barbell Calf Raise"="Stående vadlyft med skivstång";
+"8 Standing Barbell Calf Raise"="1. Stå med ryggen och rak och placera en skivstång på axlarna. Håll i skivstången med ett överhandsgrepp. Avståndet mellan händerna ska vara större än axellängd.\n\n2. Lyft vaderna genom att stå på tå. Håll i en sekund. Sänk tillbaka vaderna ner på golvet.";
+"Standing Dumbbell Calf Raise"="Stående vadlyft med hantlar";
+"9 Standing Dumbbell Calf Raise"="1. Stå rakt med fötterna på en höftbredds avstånd och håll en tung hantel i varje hand, med armarna vid sidorna.\n\n2. Medan du håller ryggen rak, ställ dig långsamt på tå och lyft hälarna så högt du kan.\n\n3. Pausa när du är som högst och släpp sedan långsamt ner hälarna igen.";
+"Single Arm Pushup"="Armhävning med en arm";
+"19 Single Arm Pushup"="1. Inta den vanliga armhävningsställningen: ligg ner med fötterna ihop och händerna på golvet, precis under axlarna och på ungefär en axelbredds avstånd. Flytta isär fötterna så att de är lite mer än en axellängd ifrån varandra.\n\n2. Lyft en hand och lägg den på korsryggen.\n\n3. Tryck upp kroppen från golvet genom att använda den andra handen, samtidigt som du håller ryggen rak. Sluta precis innan armbågen blir helt rak, högst upp i rörelsen.\n\n4. Släpp ner kroppen med ena armen. För att hålla balansen, vänd bort torson lite från den arbetande armen.\n\n5. Fortsätt släppa ner dig själv tills hakan är ungefär en knytnäves bredd ovanför golvet. Eftersom du vred torson bör din haka vara ungefär där handen du nu har på ryggen var när du började övningen. Det här är en repetition.\n\n6. Gå tillbaka till steg ett och upprepa med den andra armen.";
+"Decline Pushup"="Sluttande armhävning";
+"12 Decline Pushup"="1. Placera fötterna på en bänk eller någon annan upphöjning och lägg dig i en vanlig armhävningsposition.\n\n2. Sänk kroppen tills bröstet nästan rör golvet, pausa och tryck sedan tillbaka dig själv upp till startpositionen. Håll kroppen stabil hela tiden: undvik att höfterna sviktar, håll bålen och ryggen raka genom att spänna magmusklerna, räta ut benen och lägga vikten på tårna.";
+"Dive Bomber Pushup"="Störtbombarearmhävning";
+"13 Dive Bomber Pushup"="1. Positionera dig själv i en armhävningsställning, men se till att dina händer ligger längre fram och på mer än en axellängds avstånd ifrån varandra. Lyft höfterna och flytta fram fötterna så långt det går. Håll ryggen och benen raka genom hela rörelsen.\n\n2. Flytta bröstet neråt och framåt tills det nästan rör golvet. Axlarna ska vara i linje med händerna.\n\n3. Pausa och tryck sedan ner höfterna och räta ut armarna. Pausa igen och gör sedan om rörelsen tills du är tillbaka i startläget.";
+"Dumbbell Floor Chest Press"="Bröstpress på golvet med hantlar";
+"14 Dumbbell Floor Chest Press"="1. Ligg ner på golvet. Ta tag i hantlarna med ett överhandsgrepp. Vila överarmarna på golvet medan du riktar hantlarna mot taket.\n\n2. Sträck ut armarna helt mot taket. Håll i en sekund. Håll hela ryggen på bänken under hela rörelsen. Undvik att röra på benen. Återgå till startläget.";
+"Dumbbell Pushup"="Armhävning med hantlar";
+"15 Dumbbell Pushup"="1. Lägg två hantlar på en axellängds avstånd ifrån varandra på golvet framför dig. Knäa och ta tag i dem. Håll armarna raka, benen utsträckta, fötterna ihop och armbågarna låsta.\n\n2. Sänk kroppen mot golvet genom att böja armbågarna och hela tiden hålla ryggen rak.\n\n3. Tryck tillbaka dig själv upp tills armarna är raka och armbågarna olåsta. Upprepa.";
+"Incline Pushup"="Lutande armhävning";
+"16 Incline Pushup"="1. Placera händerna på en bänk och lägg dig en vanlig armhävningsposition.\n\n2. Sänk kroppen tills bröstet nästan rör bänken, pausa och tryck sedan tillbaka dig själv upp till startpositionen. Håll kroppen stabil hela tiden: undvik att höfterna sviktar, håll bålen och ryggen raka genom att spänna magmusklerna, räta ut benen och lägga vikten på tårna. Upprepa.";
+"Medicine Ball Pushup (Alternating)"="Armhävning på medicinboll (växlande)";
+"17 Medicine Ball Pushup (Alternating)"="1. Ligg ner med händerna på golvet. Placera händerna nära nedre delen av bröstet. Avståndet mellan händerna ska vara lite större än axellängd. Lyft dig själv med armarna så att bara händerna och tårna är på golvet. Håll ryggen rak. Lägg medicinbollen under en hand. Händerna pekar lite utåt.\n\n2. Sänk dig själv genom att böja på armbågarna, tills bröstet är cirka tio centimeter från golvet. Armbågarna ska vara böjda mot fötterna. Håll i en sekund. Återgå till startläget.\n\n3. Rulla över bollen till den andra handen och upprepa samma rörelser.";
+"Modified Pushup"="Modifierad armhävning";
+"18 Modified Pushup"="1. Ställ dig på alla fyra och placera händerna på golvet så att de är lite mer isär än axlarna. Korsa vristerna bakom dig som på bilden.\n\n2. Sänk kroppen tills bröstet nästan rör marken, pausa och tryck sedan tillbaka dig själv upp till startpositionen. Håll bålen och ryggen stela genom att spänna magmusklerna.";
+"Stability Ball Flat Dumbbell Chest Press"="Bröstpress på stabilitetsboll med hantlar";
+"21 Stability Ball Flat Dumbbell Chest Press"="1. Ligg på rygg på stabilitetsbollen. Ha fötterna på golvet. Ta tag i hantlarna med ett överhandsgrepp. Håll hantlarna bredvid bröstet.\n\n2. Sträck ut armarna helt framför dig. Håll en kort stund. Återgå till startläget.";
+"Stability Ball Flat Dumbbell Fly"="Hantelflyes på stabilitetsboll";
+"20 Stability Ball Flat Dumbbell Fly"="1. Ligg på rygg på stabilitetsbollen. Ha fötterna på golvet. Håll i två hantlar med ett hammargrepp. Sträck ut armarna helt över bröstet.\n\n2. Medan armbågarna är något böjda, sänk hantlarna till varje sida tills de är bredvid din överkropp. Håll i en sekund. Återgå till startläget.";
+"Stability Ball Pushup"="Armhävning på stabilitetsboll";
+"22 Stability Ball Pushup"="1. Lägg dig i en vanlig armhävningsställning. För att göra det svårare, lägg fötterna och skenbenen på bollen. Kom ihåg att stödja din kropp med dina fötter och händers trampdynor, och håll händerna axelbrett isär med handflatorna platt på golvet.\n\n2. Sänk torson tills bröstet är en centimeter från golvet. Tryck tillbaka dig själv till startläget.";
+"Weighted Pushup"="Armhävning med tyngd";
+"23 Weighted Pushup"="1. Lägg dig i en vanlig armhävningsställning, med händerna under axlarna. Den här gången ska du dock be en partner lägga en viktplatta på din rygg mellan skulderbladen.\n\n2. Håll kroppen rak medan du sänker dig själv genom att böja armbågarna tills bröstet rör golvet.\n\n3. Pausa och tryck sedan upp dig själv.";
+"Dumbbell Wrist Twist"="Handledstwist med hantlar";
+"3 Dumbbell Wrist Twist"="1. Stå med en lätt hantel i varje hand, med armarna vid sidorna och handflatorna vända bakåt. Böj armarna för att lyfta upp vikterna tills underarmarna är parallella med golvet. Detta är startpositionen.\n\n2. Rotera handlederna tills handflatorna är vända mot taket. Rotera sedan tillbaka dem så att handflatorna återigen är vända mot golvet. Det är en repetition.";
+"Standing Wrist Curl"="Stående handledscurl";
+"4 Standing Wrist Curl"="1. Ta en skivstång som ligger bakom dig med ett underhandsgrepp, samtidigt som du håller armarna raka. Häng skivstången så att den vilar på dina utsträckta fingrar.\n\n2. Böj handlederna för att lyfta skivstången så högt som möjligt.\n\n3. Gör om rörelsen för att sänka skivstången.";
+"Barbell Hack Squat"="Hacksquat med skivstång";
+"10 Barbell Hack Squat"="1. Stå rakt med fötterna axelbrett isär. Håll i skivstången med ett överhandsgrepp. Placera skivstången bakom dina hamstrings. Avståndet mellan händerna ska vara större än en axellängd.\n\n2. Sänk ner dig själv genom att böja på knäna. Din rygg ska vara rak genom hela rörelsen. Sluta när låren är parallella med golvet eller när skivstången rör golvet. När du återgår till startpositionen, generera energi med nedre delen av ryggen.";
+"Barbell Lunge"="Utfall med skivstång";
+"12 Barbell Lunge"="1. Börja med att placera en skivstång på övre delen av ryggen genom att använda ett överhandsgrepp som är något bredare än dina axlar.\n\n2. Stå med fötterna ungefär 20 cm ifrån varandra med tårna vända framåt.\n\n3. Ta ett steg fram (60-90 cm) medan du drar in magmusklerna och håller ryggen rak.\n\n4. Sänk långsamt ett knä, som att du ska gå ner på knä, samtidigt som du håller det andra knät böjt i 90 grader. Låt inte knät röra marken.\n\n5. Sänk kroppen tills den är precis över golvet och håll en stund, innan du återgår till startpositionen. Upprepa med det andra benet.";
+"Barbell Squat (Assisted)"="Knäböj med skivstång (assisterad)";
+"13 Barbell Squat (Assisted)"="1. Så rakt med en platt bänk bakom dig. Fötterna ska vara axelbrett isär. Lägg skivstången på baksidan av axlarna. Håll i skivstången med ett överhandsgrepp. Avståndet mellan händerna ska vara större än en axellängd. Justera fötterna så att de pekar något utåt.\n\n2. Sänk ner dig själv genom att böja på knäna. Din rygg ska vara rak genom hela rörelsen. Sluta när låren är parallella med golvet eller när rumpan rör golvet. När du återgår till startpositionen, generera energi från nedre delen av ryggen.";
+"Barbell Squat Overhead"="Knäböj med skivstång över huvudet";
+"14 Barbell Squat Overhead"="1. Stå rakt med fötterna axelbrett isär. Håll i skivstången med ett överhandsgrepp. Avståndet mellan händerna ska vara större än axellängd. Justera fötterna så att de pekar något utåt. Lyft skivstången över huvudet med armarna helt utsträckta.\n\n2. Släpp ner dig själv genom att böja på knäna. Din rygg ska vara rak genom hela rörelsen. Sluta när låren är parallella med marken. När du återgår till startpositionen, generera energi med nedre delen av ryggen.";
+"Bench Jump"="Bänkhopp";
+"15 Bench Jump"="1. Stå framför en bänk.\n\n2. Hoppa upp på bänken och hoppa sedan direkt ner till startpositionen på golvet.\n\n3. Upprepa flera gånger.";
+"Bulgarian Split Squat"="Bulgariskt utfall";
+"16 Bulgarian Split Squat"="1. Stå rakt, ungefär 60-90 cm framför en bänk, med en hantel i varje hand. Flytta bak högerfoten och lägg ovansidan av foten på bänken.\n\n2. Håll ryggen rak och huvudet uppe samtidigt som du långsamt böjer vänsterbenet så att du hamnar i en utfallsposition. Sluta gå ner när ditt vänstra lår är ungefär parallellt med golvet.\n\n3. Tryck långsamt tillbaka dig själv upp tills vänsterbenet är rakt igen, och upprepa sedan. Kom ihåg att byta ben och träna det andra lite också.";
+"Bulgarian Split Squat (No Weights)"="Bulgariskt utfall (utan vikter)";
+"17 Bulgarian Split Squat (No Weights)"="1. Placera en fot på golvet, cirka 90 cm framför en stol, och balansera den andra foten på stolen bakom dig, som på bilden. Dina händer ska vara bakom huvudet. \n\n2. Använd den främre foten för att hålla balansen när du böjer på båda knäna för att sänka kroppen rakt ner, tills det bakre knät är runt 10 cm från golvet och ditt främre ben är böjt ungefär 90 grader. Resten av din kropp ska forma en rak linje. Gör klart setet, byt sedan ben och upprepa.";
+"Dumbbell Side Lunge"="Sidoutfall med hantlar";
+"18 Dumbbell Side Lunge"="1. Stå rakt och håll ett par hantlar vid sidorna med armarna utsträckta neråt.\n\n2. Flytta åt ena hållet och sänk kroppen medan du lutar torson lite framåt. Håll det stillastående benen rakt genom hela rörelsen.\n\n3. Tryck ifrån med det böjda benet och återgå till startpositionen. Upprepa med det andra benet.";
+"Good Morning"="God morgon";
+"19 Good Morning"="1. Håll en skivstång med ett överhandsgrepp så att den vilar på övre delen av din rygg, och inte på nacken. Ställ fötterna axelbrett isär med knäna något böjda, samtidigt som du håller ryggen rak. \n\n2. Böj dig långsamt framåt genom att använda höfterna, så att bröstet sänks samtidigt som nedre delen av ryggen hela tiden svankar naturligt. Håll huvudet uppe och ha samma vinkel som knäna.\n\n3. Lyft tillbaka överkroppen till startpositionen.";
+"One Arm Side Deadlift"="Enarmad sidomarklyft";
+"20 One Arm Side Deadlift"="1. Stå bredvid en skivstång som ligger på golvet.\n\n2. Ta tag i stången i mitten med ett överhandsgrepp. \n\n3. Huka dig som om du skulle göra ett knäböj, böj dig ner så att låren är parallella med golvet. \n\n4. Sträck ut benen långsamt medan du rätar upp kroppen. Dra in magmusklerna när du reser dig.";
+"Single Leg Squat"="Knäböj på ett ben";
+"21 Single Leg Squat"="1. Stå med fötterna axelbrett isär. Lyft ditt starkare eller ditt dominanta ben rakt ut framför dig, så högt som möjligt.\n\n2. Sug in luft i magen, tryck sedan tillbaka höfterna och knäböj ner så långt som möjligt medan du håller torson så rak som möjligt. Hälen på din främre fot kan röra golvet längst ner i knäböjet, om du kan komma så långt ner.\n\n3. Återgå till startläget och andas ut. Gör alla repetitioner med ditt icke-dominanta ben och upprepa sedan med det dominanta.";
+"Arnold Press"="Arnoldpress";
+"14 Arnold Press"="1. Sitt på en platt bänk och håll ett par hantlar på axelnivå. Dina handflator ska vara vända inåt och dina armbågar peka åt sidan.\n\n2. Vänd båda handlederna utåt tills handflatorna är vända bort från dig. Sträck på samma gång ut armarna helt över huvudet. Håll i en sekund. Återgå till startläget.";
+"Barbell Front Raise"="Skivstångslyft framåt";
+"15 Barbell Front Raise"="1. Håll i en skivstång med ett överhandsgrepp axelbrett isär, och stå med skivstången hängandes framför dina lår. Dina fötter ska vara axelbrett isär med knäna något böjda. Dra in magmusklerna, spänn alla muskler i överkroppen och böj lite på armbågarna.\n\n2. Lyft stången framför dig tills armarna är parallella med golvet.\n\n3. Pausa och återgå sedan till startpositionen.";
+"Dumbbell Lateral Raise With Arms Bent"="Hantellyft åt sidan med böjda armar";
+"16 Dumbbell Lateral Raise With Arms Bent"="1. Stå med benen axelbrett isär. Händerna ska hänga utmed sidorna.\n\n2. Håll armarna helt raka och lyft långsamt hantlarna utåt och upp till axelnivå. Böj samtidigt armarna tills de formar en 90-graders vinkel och underarmarna är parallella med kroppen.  Låt handflatorna vara vända mot marken.\n\n3. Håll armbågarna böjda och släpp långsamt ner hantlarna tillbaka till startpositionen. Upprepa önskat antal gånger.";
+"Dumbbell Scarecrow"="Fågelskrämma med hantlar";
+"17 Dumbbell Scarecrow"="1. Titta rakt fram med fötterna axelbrett isär och håll hantlarna framför dina lår med ett överhandsgrepp. Lyft armarna till sidorna tills överarmarna är parallella med golvet.\n\n2. Rotera armbågarna framåt tills underarmarna pekar rakt upp. Håll i en sekund. Återgå till startläget.";
+"Dumbbell Shoulder Press"="Axelpress med hantlar";
+"18 Dumbbell Shoulder Press"="1. Stå rakt med fötterna axelbrett isär. Håll i hantlarna med ett överhandsgrepp. Positionera hantlarna vid sidorna av ditt huvud.\n\n2. Lyft hantlarna över huvudet tills armarna är helt utsträckta. Håll i en sekund. Återgå till startläget.";
+"Front Weighted Raise"="Viktlyft framåt";
+"19 Front Weighted Raise"="1. Medan du står med ryggen rak, håll i vikten med båda händerna. Vikten är positionerad framför dina lår. \n\n2. Lyft armarna framför dig tills de är parallella med marken. Håll i en sekund. Återgå till startläget.";
+"Lateral Weighted Raise"="Lateralt viktlyft";
+"20 Lateral Weighted Raise"="1. Medan du står med ryggen rak, håll i vikten med en hand. Vikten är positionerad vid din sida.\n\n2. Lyft armen ut mot sidan. Håll armen rak. Håll i en sekund. Återgå till startläget.";
+"Military Press Behind The Neck (Standing)"="Militärpress på nacken (ståendes)";
+"21 Military Press Behind The Neck (Standing)"="1. Stå upprätt, håll en skivstång bakom huvudet på axelnivå med händerna axelbrett isär, armbågarna böjda och handflatorna vända framåt.\n\n2. Lyft skivstången över huvudet. Sträck ut armarna helt. Håll ryggen rak och stå upprätt genom hela rörelsen.  ";
+"Seated Dumbbell Front Raise"="Sittande hantellyft framåt";
+"22 Seated Dumbbell Front Raise"="1. Ta ett par hantlar och inta en sittande position på en snedbänk, med armarna raka och vid dina sidor, och tummarna vända inåt.\n\n2. Håll armbågarna raka och lyft hantlarna uppåt och framåt tills händerna är ungefär på ögonnivå.\n\n3. Håll baksidan av handlederna och armbågarna raka genom hela rörelsen. Återgå till startläget.";
+"Stability Ball Lateral Raise"="Lateralt lyft på stabilitetsboll";
+"23 Stability Ball Lateral Raise"="1. Sitt på en stabilitetsboll med en lätt hantel i varje hand. Ha benen axelbrett isär för att hålla balansen. Händerna ska hänga utmed sidorna.\n\n2. Håll armarna helt raka och lyft långsamt hantlarna utåt och upp till axelnivå. Låt handflatorna vara vända mot marken.\n\n3. Håll armbågarna böjda och sänk långsamt ner hantlarna tillbaka till startpositionen. Upprepa önskat antal gånger.";
+"Diamond Pushup"="Diamantarmhävning";
+"10 Diamond Pushup"="1. Lägg dig själv i en vanlig armhävningsställning, men placera dina händer precis under ditt bröst. Sprid på pekfingrarna och tummarna så att de formar en “diamant“.\n\n2. Håll ryggen rak medan du sänker kroppen tills bröstet nästan rör dina händer.\n\n3. Pausa och tryck sedan tillbaka dig själv upp till startpositionen.";
+"Diamond Pushup On Bench"="Diamantarmhävning på bänk";
+"12 Diamond Pushup On Bench"="1. Lägg dig själv i en vanlig armhävningsställning, men placera dina händer precis under ditt bröst. Sprid på pekfingrarna och tummarna så att de formar en “diamant“.\n\n2. Ha tårna på en rak bänk. Det här lägger mer press på dina händer medan du gör armhävningarna.\n\n2. Håll ryggen rak medan du sänker kroppen tills bröstet nästan rör dina händer.\n\n3. Pausa och tryck sedan tillbaka dig själv upp till startpositionen.";
+"Dumbbell Row Kickback"="Roddkickback med hantlar";
+"13 Dumbbell Row Kickback"="1. Stå med fötterna axelbrett isär och knäna något böjda. Håll en lätt hantel i varje hand och böj dig framåt vid midjan tills torson nästan hänger rakt ner, med handflatorna vända inåt som på bilden.\n\n2. Ro med vikterna rakt upp tills de når sidorna av ditt bröst, och dina armar är böjda i räta vinklar. Det bästa är om överarmarna är parallella med golvet.\n\n3. Gör direkt en kickback-rörelse genom att sträcka ut armarna rakt bakom dig.\n\n4. Spänn dina triceps, böj sedan armbågarna för att släppa tillbaka vikterna ner så att de är vid dina sidor igen.\n\n5. Släpp tillbaka vikterna ner tills dina armar hänger rakt ner bakom dina axlar.";
+"Lying Single Arm Pushup"="Liggande armhävning med en arm";
+"14 Lying Single Arm Pushup"="1. Ligg på sidan med knäna något böjda och benen på varandra. Lägg den undre armen runt midjan och placera den andra handen på golvet framför dig, lite böjd.\n\n2. Börja räta ut armen genom att trycka upp kroppen från golvet - se till att du använder dina triceps, och inte ryggen, för att lyfta kroppen. Håll en sekund och återgå sedan till startpositionen.\n\n3. Byt till andra sidan efter ett par repetitioner och upprepa med den andra armen.";
+"Seated Triceps Extension"="Sittande tricepsextension";
+"15 Seated Triceps Extension"="1. Sitt på en bänk och ta tag i ett par hantlar. Håll dem så att de är en armslängd över ditt huvud med handflatorna vända inåt.\n\n2. Håll överarmarna stabila och sänk hantlarna bakom huvudet tills underarmarna är lite mer än parallella med golvet.\n\n3. Pausa och sträck sedan ut armarna för att ta tillbaka hantlarna till startläget.";
+"Stability Ball French Press"="Fransk press på stabilitetsboll";
+"16 Stability Ball French Press"="1. Ligg på en stabilitetsboll och centrera din rygg på den. Håll ett par hantlar i händerna och sträck ut dem över bröstet.\n\n2. Böj på armbågarna och låt hantlarna sjunka ner till sidorna av ditt huvud.\n\n3. Sträck ut armarna och lyft tillbaka hantlarna till startpositionen.";
+"Stability Ball Pullover"="Pullover på stabilitetsboll";
+"17 Stability Ball Pullover"="1. Ligg på en stabilitetsboll och centrera din rygg på den. Håll en hantel i handen och sträck ut den över bröstet.\n\n2. Böj på armbågarna och låt hanteln sjunka ner till mitten av ditt huvud.\n\n3. Sträck ut armarna och lyft tillbaka hanteln till startpositionen.";
+"Stability Ball Triceps Extension"="Tricepsextension på stabilitetboll";
+"18 Stability Ball Triceps Extension"="1. Ligg på rygg på stabilitetsbollen. Ha fötterna på golvet. Håll i en hantel med båda händerna. Sträck ut armarna helt över huvudet.\n\n2. Medan du håller överarmarna stilla, sänk hanteln tills den är bakom ditt huvud. Undvik att använda armbågarna. Håll i en sekund. Återgå till startläget.";
+
+//EXTRA
+
+"3 DAY GYM WORKOUT PLAN BY VGFIT" = "3 DAGARS TRÄNINGSSCHEMA AV VGFIT";
+
+
+
+"3 DAY HOME WORKOUT PLAN BY VGFIT" = "3 DAGARS HEMMATRÄNING AV VGFIT";
+
+
+
+"FAT BURNER ROUTINE" = "FETTFÖRBRÄNNINGSRUTIN";
+
+
+
+"ABS BURNER" = "MAGSTÄRKARE";
+
+
+
+"CHEST POWER WORKOUT PLAN" = "TRÄNINGSPROGRAM FÖR BRÖSTSTYRKA";
+
+
+
+"ARMS POWER WORKOUT PLAN" = "TRÄNINGSPROGRAM FÖR ARMSTYRKA";
+
+
+
+"LEGS POWER WORKOUT PLAN" = "TRÄNINGSPROGRAM FÖR BENSTYRKA";
+
+
+
+"SHOULDERS POWER WORKOUT PLAN" = "TRÄNINGSPROGRAM FÖR AXELSTYRKA";
+
+
+
+"BACK POWER WORKOUT PLAN" = "TRÄNINGSPROGRAM FÖR RYGGSTYRKA";
+
+
+
+"FULL BODY STREACH PLAN" = "HELKROPPS STRETCHPROGRAM";
+
+
+
+
+
+
+"Barbell Squat 2" = "Knäböj med Skivstång 2";
+
+"Barbell Squat 2 extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Stå rak med fötterna axelbrett isär. Placera skivstången på baksidan av axlarna. Håll skivstången i ett överhandsgrepp. Avståndet mellan händerna bör vara bredare än axelbrett. Justera fötterna så att de pekar något utåt. \
+\
+Steg 2: Sänk dig själv genom att böja knäna. Ryggen ska vara rak under hela rörelsen. Stanna när låren är parallella med marken. Återgå till utgångsläget, genom att ta i från nedre delen av ryggen.";
+
+
+
+
+"Dumbbell Lunge 2" = "Utfall med Hantel 2";
+
+"Dumbbell Lunge 2 extra"= "Muskelgrupp: Quadricep\
+\
+Steg 1: Stå rakt med fötterna axelbrett isär. Håll hantlarna längs sidorna i ett neutralt grepp.\
+\
+Steg 2: Håll ryggen rak, medan du tar ett steg framåt med ena foten och sänker dig genom att böja knäna. Stanna när ditt främre lår är parallellt med marken. Håll kvar en sekund. Kliv tillbaka och återgå till utgångsläget.";
+
+
+
+
+"Bosu Crossover Lunge" = "Växelvis Utfall Bosu";
+
+"Bosu Crossover Lunge extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Stå upprätt framför med armarna sträckta rakt nedåt längs sidorna. BOSU:n bör placeras ett par steg framför dig, och åt sidan.\
+\
+Steg 2: Kliv fram och åt sidan upp på BOSU:n, sänk din kropp nedåt så att ena knäet är böjt samtidigt som det bakre benet är\
+\
+Steg 3: Tryck ifrån med ditt böjda ben för att återgå till utgångsläget och upprepa. För att göra övningen mer utmanande, håll en hantel i varje hand när du utför övningen.";
+
+
+
+
+"Stability Ball Split Squat" = "Halv Squat på Pilatesboll";
+
+"Stability Ball Split Squat extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Stå upprätt, placera en fot på golvet. Håll armarna rakt, som bilden visar.\
+\
+Steg 2: Sänk ned mot golvet, genom att böja på dina höfter och knän och luta kroppen framåt\
+\
+Steg 3: Återgå till utgångsläget genom att pressa med din främre fot.\
+\
+Steg 4: Upprepa med andra benet";
+
+
+
+
+"Balance Ball Front Raise" = "Framsideslyft på Pilatesboll";
+
+"Balance Ball Front Raise extra"= "Muskelgrupp: Deltoids\
+\
+Steg 1: Sitt på en pilatesboll med en lätt hantel i varje hand. Håll benen ihop och fötterna jämt mot golvet. Dina händer ska hänga ned längs sidorna, med handflatorna vända bakåt.\
+\
+Steg 2: Håll armarna helt raka, höj sakta vikterna utåt och framåt framför dig tills armarna är parallella med golvet.\
+\
+Steg 3: Håll en sekund, sänk sedan vikten sakta tillbaka ner.";
+
+
+
+
+"Bar Bench Press Incline" = "Lutande Bänkpress";
+
+"Bar Bench Press Incline extra"= "Muskelgrupp: \
+\
+Steg 1: Luta dig tillbaka på en lutande bänk. Håll EZ-stången med ett överhandsgrepp. Avståndet mellan händerna ska vara något bredare än axelbredd. Håll EZ-stången med armarna helt raka. EZ-stången ska vara placerad rakt ovanför mitten av bröstet.\
+\
+Steg 2: Sänk EZ-stången ned mot nedre bröstet samtidigt som du håller armbågarna nära kroppen. EZ-stången bör endast nudda bröstet i slutet av rörelsen. Studsa inte EZ-stången mot bröstet. Håll en kort stund. Återgå till utgångsläget. Håll hela ryggen mot bänken hela tiden. Håll benen helt still.";
+
+
+
+
+"Dumbbell Decline Bench Press" = "Nedåtgående Hantelpress";
+
+"Dumbbell Decline Bench Press extra"= "Muskelgrupp: Pectoralis\
+\
+Steg 1: Luta dig bakåt på den sluttande bänken. Håll hantlarna med ett överhandsgrepp. Håll armarna helt utsträckta.\
+\
+Steg 2: Sänk hantlarna mot nedre delen av bröstkorgen samtidigt som du håller armbågarna nära kroppen. Håll en kort stund. Återgå till utgångsläget. Håll hela ryggen mot bänken hela tiden. Håll benen helt still.";
+
+
+
+
+"Dumbbell T-Push-Up" = "T-pushup med hantlar";
+
+"Dumbbell T-Push-Up extra"= "Muskelgrupp: Pectoralis\
+\
+Steg 1: Ligg ner med bröstet nedåt och med handflatorna i golvet. Håll hantlarna i ett neutralt grepp. Håll händerna vid nedre delen av bröstet. Avståndet mellan händerna bör vara något bredare än axelbrett. Lyft dig själv med hjälp av armarna så att bara handflator och tår är kvar i golvet. Behåll ryggen rak. Händerna pekar något utåt.\
+\
+Steg 2: Sänk dig själv tills bröstet är några centimeter från golvet, genom att böja armbågarna. Armbågarna ska böjas i riktning mot dina fötter. Håll en sekund.\
+\
+Steg 3: Återgå till utgångsläget.\
+\
+Steg 4: Lyft ena armen tills hanteln pekar mot taket. Håll en sekund.\
+\
+Steg 5: Återgå till utgångsläget.";
+
+
+
+
+"EZ Curl Bar Biceps Curl" = "Bicepscurl med EZ-stång";
+
+"EZ Curl Bar Biceps Curl extra"= "Muskelgrupp: Biceps Brachi\
+\
+Steg 1: Stå med rak rygg, håll EZ-stången ett axelbrett underhandsgrepp. EZ-stången ska vara placerad på framsidan av låren.\
+\
+Steg 2: Lyft EZ-stången samtidigt som överarmarna hålls på plats Använd inte axlarna under rörelsen. Håll en sekund. Sänk tillbaka armarna till utgångsläget.";
+
+
+
+
+"EZ Curl Bar Deadlift" = "Marklyft med EZ-stång";
+
+"EZ Curl Bar Deadlift extra"= "Muskelgrupp: Ländrygg\
+\
+Steg 1: Placera EZ-stången på golvet. Ställ dig så att smalbenen är en tum från stånge. Stå rak med fötterna axelbrett isär. Utan större höftrörelse, böj dig för att fatta tag i EZ-stången med ett överhandsgrepp. Knäna ska vara något böjda. Kontrollera rörelsen och rikta blicken framåt.\
+\
+Steg 2: Lyft EZ-stången tills du står rakt. Håll en sekund. Återgå till utgångsläget.";
+
+
+
+
+"Dumbbell Row" = "Hantelrodd";
+
+"Dumbbell Row extra"= "Muskelgrupp: Latissimus Dorsi\
+\
+Steg 1: Böj knäna en aning. Håll ryggen framåtböjd och rak. Håll hantlarna vid sidan i ett neutralt grepp.\
+\
+Steg 2: Lyft hantlarna vertikalt mot bröstet. Låt inte armbågarna röra sig utåt. Håll en sekund. Återgå till utgångsläget,";
+
+
+
+
+"Standing Triceps Extension" = "Stående Tricepslyft";
+
+"Standing Triceps Extension extra"= "Muskelgrupp: Triceps Brachii\
+\
+Steg 1: Stå upprätt med fötterna axelbrett isär, håll en hantel i den inre plattan och över huvudet med båda händerna, som visas på bilden. Låt den hänga bakom övre delen av ryggen med armbågarna böjda.\
+\
+Steg 2: Höj hanteln över huvudet genom att sträcka armbågarna med avslappnade handlederna. På toppen, håll, och gå sedan tillbaka till utgångsläget på ett kontrollerat sätt. Upprepa.";
+
+
+
+
+"Bench Dip" = "Dips på bänk";
+
+"Bench Dip extra"= "Muskelgrupp: Triceps Brachii\
+\
+Steg 1: Placera handflatorna på en bänk så att de pekar framåt, och positionera dig som bilden visar. Håll benen relativt rakt ut framför dig, med båda hälarna stadigt i golvet. Räta ut armarna och flytta överkroppen framåt så att rumpa och rygg är precis framför bänken.\
+\
+Steg 2: Böj armarna till räta vinklar, sänk rumpan mot golvet som visas. Du kan göra övningen lättare genom att böja knäna och flytta fötterna närmare bänken.";
+
+
+
+
+"Bodyweight Open Jump" = "Raka Hopp med Kroppsvikt";
+
+"Bodyweight Open Jump extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Stå rakt med ryggen sträckt. Håll händerna utmed sidorna.\
+\
+Steg 2: Böj lätt på knäna.\
+\
+Steg 3: Hoppa uppåt så högt du kan.";
+
+
+
+
+"Bodyweight Toe Touch" = "Nudda Tår med Kroppsvikt";
+
+"Bodyweight Toe Touch extra"= "Muskelgrupp: Rectus Abdominis\
+\
+Steg 1: Ligg ner på golvet. Lyft ben tills de är vinkelräta mot golvet. Lyft ut armarna ovanför dig.\
+\
+Steg 2: Sträck dig efter tårna med händerna. Håll en sekund. Återgå till utgångsläget.";
+
+
+
+
+"Bodyweight Hop" = "Halv burpee med Kroppsvikt";
+
+"Bodyweight Hop extra"= "Muskelgrupp: Rectus Abdominis\
+\
+Steg 1: Ligg utsträckt på golvet. Lyft dig upp så att endast tår och händer är i golvet. Håll ryggen rak.\
+\
+Steg 2: Med armarna kvar i samma position, hoppa inåt så att dina knän närmar sig bröstet. Hoppa tillbaka till utgångsläget.";
+
+
+
+
+"Bodyweight Lunge" = "Utfall med Kroppsvikt";
+
+"Bodyweight Lunge extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Stå med fötterna axelbrett isär.\
+\
+Steg 2: Kliv bakåt med ena foten och sänka dig genom att böja knäna. Ryggen ska vara rak under hela rörelsen. Stanna när ditt främre lår är parallellt med marken.\
+\
+Steg 3: Återgå till utgångsläget.\
+\
+Steg 4: Kliv bakåt med den andra foten och sänka dig genom att böja knäna. Ryggen ska vara rak under hela rörelsen. Stanna när ditt främre lår är parallellt med marken.";
+
+
+
+
+"Bodyweight Push-up Touch" = "Armhävning med Touch Kroppsvikt";
+
+"Bodyweight Push-up Touch extra"= "Muskelgrupp: Pectoralis\
+\
+Steg 1: Ligg ner med bröstet nedåt och med händerna i golvet. Sätt händerna under dina axlar. Avståndet mellan händerna bör vara smalare än axelbrett. Lyft dig upp med hjälp av armarna så att bara dina händer och tår är i golvet. Behåll en rak rygg. Händerna pekar något utåt.\
+\
+Steg 2: Sänk dig ned tills bröstet är några centimeter från golvet genom att böja armbågarna. Armbågarna ska böjas ned mot dina fötter.\
+\
+Steg 3: Nudda din motsatta axel med handen varje gång du kommer upp. Håll en sekund. Återgå till utgångsläget.";
+
+
+
+
+"Push-up walking" = "Burpees";
+
+"Push-up walking extra"= "Muskelgrupp: Pectoralis\
+\
+Steg 1: Ligg ner med bröstet nedåt och händerna i golvet. Sätt händerna bredvid nedre delen av bröstet. Avståndet mellan händerna bör vara något bredare än axelbrett. Lyft dig upp med armarna så att bara händer och tår är kvar i golvet. Behåll en rak rygg. Händerna pekar något utåt. Håll ryggen och benen raka.\
+\
+Steg 2: Utan att röra armarna, hoppa mot armarna. Hoppa tillbaka till utgångsläget efteråt.";
+
+
+
+
+"Bent-Leg V-UP" =  "V-situps med böjda ben";
+
+"Bent-Leg V-UP extra"= "Muskelgrupp: Rectus Abdominis\
+\
+Steg 1: Ligg på rygg på golvet, med armarna längs sidorna. Böj knäna i vinkel och håll dem stilla.\
+\
+Steg 2: Lyft snabbt kroppen samtidigt som du drar bröstet mot knäna. Håll armarna parallellt med golvet.";
+
+
+
+
+"Bodyweight Lunge Side" = "Sidoutfall med Kroppsvikt";
+
+"Bodyweight Lunge Side extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Stå rak med fötterna axelbrett isär. Håll armarna på framsidan av bröstet.\
+\
+Steg 2: Håll ryggen rak, samtidigt som du kliver åt sidan med ena foten och sänker dig genom att böja knäna. Den bakre foten vrider sig men stannar på samma plats. Stanna när ditt främre lår är parallellt med marken. Håll en sekund. Återgå till utgångsläget.";
+
+
+
+
+"Bodyweight Push-up Grip Planche" = "Pushup med Planka Kroppsvikt";
+
+"Bodyweight Push-up Grip Planche extra"= "Muskelgrupp: Pectoralis\
+\
+Steg 1: Ligg ner med händerna i golvet. Sätt händerna framför bröstet. Avståndet mellan händerna bör vara något bredare än axelbrett. Lyft dig upp med armarna så att bara händer och tår är i golvet. Behåll ryggen rak. Händerna pekar något utåt.\
+\
+Steg 2: Sänk dig nedåt tills armbågarna är nästan i golvet. Håll en sekund. Återgå till utgångsläget.";
+
+
+
+
+"Bench High Knee Jump" = "Knähopp över Bänk";
+
+"Bench High Knee Jump extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Stå rak med ryggen sträckt. Håll händerna utmed sidorna.\
+\
+Steg 2: Böj lätt på knäna.\
+\
+Steg 3: Hoppa upp så högt du kan. Böj knäna mot bröstet.";
+
+
+
+
+"Bodyweight Toe Touch 2" = "Nudda Tår med Kroppsvikt 2";
+
+"Bodyweight Toe Touch 2 extra"= "Muskelgrupp: Rectus Abdominis\
+\
+Steg 1: Ligg ner på golvet. Sträck ut benen och sätt händerna bakom huvudet.\
+\
+Steg 2: Nudda tårna med händerna. Håll en sekund. Återgå till utgångsläget.";
+
+
+
+
+"Stepper Push-up" = "Pushup på stepbräda";
+
+"Stepper Push-up extra"= "Muskelgrupp: Pectoralis\
+\
+Steg 1: Placera fötterna på stepbrädan och händerna i golvet. Sätt händerna i höjd med nedre delen av bröstet. Avståndet mellan händerna bör vara något bredare än axelbrett. Lyft dig upp med armarna så att bara dina händer är i golvet. Behåll ryggen rak. Händerna pekar något utåt.\
+\
+Steg 2: Sänk dig ned tills bröstet är några centimeter från golvet, genom att böja armbågarna. Armbågarna ska böjas ned mot dina fötter. Håll en sekund. Återgå yo utgångsläge.";
+
+
+
+
+"Bodyweight Push-up Extension" = "Pushup med sträckning";
+
+"Bodyweight Push-up Extension extra"= "Muskelgrupp: Pectorali\
+\
+Steg 1: Ligg ner med bröstet nedåt och händerna i golvet. Placera händerna under dina axlar. Avståndet mellan händerna bör vara smalare än axelbrett. Lyft dig upp med armarna så att bara dina händer och tår är i golvet. Behåll ryggen rak. Händerna pekar något utåt.\
+\
+Steg 2: Sänk dig ned tills bröstet är några centimeter från golvet, genom att böja armbågarna. Armbågarna ska böjas ned mot dina fötter.\
+\
+Steg 3: Sträck en arm framåt varje gång du kommer upp. Håll en sekund. Återgå till utgångsläget.";
+
+
+
+
+"Bodyweight Scissor Kick" = "Saxning med Kroppsvikt";
+
+"Bodyweight Scissor Kick extra"= "Muskelgrupp: Rectus Abdomini\
+\
+Steg 1: Ligg ner på golvet. Placera händerna längs sidorna. Sträck benen och lyft dem något. Håll benen raka samtidigt som du lyfter ett av dem högre.\
+\
+Steg 2: Samtidigt som du sänker ena benet, lyfter du upp det andra. Detta är en repetition.";
+
+
+
+
+"Bodyweight Mountain Climbers" = "Mountainclimbers med Kroppsvikt";
+
+"Bodyweight Mountain Climbers extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Ligg ner med bröstet nedåt och handflatorna i golvet. Placera händerna bredvid huvudet. Avståndet mellan händerna bör vara något bredare än axelbrett. Lyft dig upp med armarna så att bara dina händer och tår är i golvet. Behåll ryggen rak. Händerna pekar något utåt.\
+\
+Steg 2: Böj ena benet mot överkroppen.\
+\
+Steg 3: När du sätter tillbaka benet till utgångsläget, böj samtidigt andra benet mot överkroppen. Detta är en repetition.";
+
+
+
+
+"Bodyweight Pull In" = "Indrag med Kroppsvikt";
+
+"Bodyweight Pull In extra"= "Muskelgrupp: Rectus Abdominis\
+\
+Steg 1: Ligg på golvet. Placera händerna under höften. Sträck ut benen. Lyft upp benen.\
+\
+Steg 2: Böj benen in mot överkroppen. Håll en sekund. Återgå till startpositionen.";
+
+
+
+
+"Push-up With Crossing Leg Under The Hip" = "Pushup med Ben Korsat Under Höften";
+
+"Push-up With Crossing Leg Under The Hip extra"= "Muskelgrupp: Pectoralis\
+\
+Steg 1: Börja övningen från vanlig pushup-position. Korsa höger ben under höften.\
+\
+Steg 2: Sänk kroppen tills bröstet nästan vidrör marken, pausa, pressa dig sedan tillbaka till utgångsläget.\
+\
+Steg 3: Byt ben och upprepa stegen.";
+
+
+
+
+"Bodyweight Jumping Jacks" = "Jumping Jacks";
+
+"Bodyweight Jumping Jacks extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Stå rak med ryggen sträckt. Håll händerna längs sidorna.\
+\
+Steg 2: Hoppa uppåt och utåt med fötterna bredare än axelbrett. Samtidigt, höj armarna över huvudet. Gör en kort paus och återgå till utgångsläget.";
+
+
+
+
+"Jump Sumo" = "Sumohopp";
+
+"Jump Sumo extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Stå rak med fötterna bredare än axelbrett. Håll en medicinboll framför dig med armarna helt utsträckta. Justera fötterna så att de pekar något utåt.\
+\
+Steg 2: Sänk dig nedåt genom att böja knäna. Ryggen ska vara rak under hela rörelsen. Stanna när dina lår är nästan parallellt med marken. När du återvänder till utgångsläget, samla energi från nedre delen av ryggen.";
+
+
+
+
+"Dumbbell Clean And Jerk" = "Hanteldrag och ryck";
+
+"Dumbbell Clean And Jerk extra"= "Muskelgrupp: Hamstrings\
+\
+Steg 1: Sitt på huk. Håll hantlarna under dig i ett neutralt grepp. Håll ryggen rak. Sträck bröstet utåt och blicka framåt.\
+\
+Steg 2: Lyft hantlarna från marken. När hantlarna passerar din haka, hoppa uppåt. Använd rörelsen för att placera hantlarna i axelhöjd.\
+\
+Steg 3: När du fångat hantlarna vid axeln, sätta sig ner på huk i farten. Ställ dig upp direkt efteråt.\
+\
+Steg 4: Böj knäna en aning och hoppa uppåt.\
+\
+Steg 5: Under hoppet, lyft hantlarna över huvudet. Stå rak. Håll en sekund. Återgå till utgångsläget.";
+
+
+
+
+"Bodyweight Leg Raise" = "Benlyft med Kroppsvikt";
+
+"Bodyweight Leg Raise extra"= "Muskelgrupp: Rectus Abdominis\
+\
+Steg 1: Ligg ner på golvet. Placera händerna längs sidorna. Sträck ut benen.\
+\
+Steg 2: Lyft benen till 30 graders vinkel. Håll en sekund.\
+\
+Steg 3: Lyft benen till 60 graders vinkel. Håll en sekund.\
+\
+Steg 4: Höj benen till 90 graders vinkel. Håll en sekund. Återgå till startläget.";
+
+
+
+
+"Dumbbell Biceps Curl" = "Bicepscurl med Hantel";
+
+"Dumbbell Biceps Curl extra"= "Muskelgrupp: Biceps Brachii\
+\
+Steg 1: Böj knäna en aning. Håll ryggen böjd och rak. Håll hantlarna vid utsidan av knäna i ett underhandsgrepp.\
+\
+Steg 2: Lyft hantlarna upp samtidigt som du håller överarmarna på plats. Håll en sekund. Återgå till utgångsläget.";
+
+
+
+
+"Bodyweight Sit-up" = "Situps med Kroppsvikt";
+
+"Bodyweight Sit-up extra"= "Muskelgrupp: Rectus Abdominis\
+\
+Steg 1: Luta dig bakåt på golvet. Placera händerna bakom huvudet. Böj knäna och ha fötterna i golvet.\
+\
+Steg 2: Lyft överkroppen uppåt. Håll en sekund. Återgå till utgångsläget.";
+
+
+
+
+"Bent-Leg V-UP" =  "V-situps med böjda ben";
+
+"Bent-Leg V-UP extra"= "Muskelgrupp: Rectus Abdominis\
+\
+Steg 1: Ligg på rygg på golvet, med armarna längs sidorna. Böj knäna i vinkel och håll dem stilla.\
+\
+Steg 2: Lyft snabbt kroppen samtidigt som du drar bröstet mot knäna. Håll armarna parallellt med golvet.";
+
+
+
+
+
+
+"Toe Touch" = "Nudda tår";
+
+"Toe Touch extra"= "Muskelgrupp: Rectus Abdominis\
+\
+Steg 1: Ligg på golvet. Håll benen lätt böjda rakt ut. Pressa ryggen plant mot golvet.\
+\
+Steg 2: Andas ut och gör en crunch medan du nuddar dina fötter. Håll huvudet i ett fast läge, och undvika att nudda bröstet med hakan.";
+
+
+
+
+"Toe Touch 2" = "Nudda tår 2";
+
+"Toe Touch 2 extra"= "Muskelgrupp: Rectus Abdominis\
+\
+Steg 1: Ligg på golvet och håll benen lätt böjda rakt ut. Pressa ryggen plant mot golvet.\
+\
+Steg 2: Sträck dig och gör en crunch medan du rör dina fötter. Håll huvudet i ett fast läge, och undvika att nudda bröstet med hakan.";
+
+
+
+
+"Bodyweight Crunch 2" = "Crunch med Kroppsvikt 2";
+
+"Bodyweight Crunch 2 extra"= "Muskelgrupp: Obliques\
+\
+Steg 1: Ligg ner på golvet. Lyft benen så att låren är vinkelräta mot marken. Sätt händerna bakom huvudet.\
+\
+Steg 2: Lyft vänster armbåge och höger ben mot kroppen tills de möts.\
+\
+Steg 3: Lyft vänster armbåge och höger ben tillbaka till utgångsläget. Samtidigt, lyft höger armbåge och vänster ben mot kroppen tills de möts. Detta är en repetition.";
+
+
+
+
+"Stability Ball Crunch" = "Crunch på Pilatesboll";
+
+"Stability Ball Crunch extra"= "Muskelgrupp: Abdominals\
+\
+Steg 1: Luta dig tillbaka på pilatesbollen. Håll en medicinboll ovanför dig.\
+\
+Steg 2: Lyft överkroppen samtidigt som du hålelr kvar underkroppen på bollen. Håll en sekund. Återgå till utgångsläget.";
+
+
+
+
+"Bar  Bench Press Incline" = "Sluttande Bänkpress";
+
+"Bar  Bench Press Incline extra"= "Muskelgrupp: Pectoralis\
+\
+Steg 1: Luta dig tillbaka på den lutande bänken. Håll EZ-stången i ett överhandsgrepp. Avståndet mellan händerna ska vara något bredare än axelbredd. Håll EZ-stången med armarna helt sträckta. EZ-stången ska vara rakt över mitten av bröstet.\
+\
+Steg 2: Sänk EZ-stången mot nedre delen av bröstet samtidigt som du håller armbågarna nära kroppen. EZ-stången ska bra nudda bröstet i slutet av rörelsen. Låt inte EZ-stången studsa mot bröstet. Håll en kort stund. Återgå till utgångsläget. Håll hela tiden hela ryggen mot bänken. Håll benen helt stilla.";
+
+
+
+
+"Dumbbell Push-up Row" = "Pushuprodd med Hantlar";
+
+"Dumbbell Push-up Row extra"= "Muskelgrupp: Pectoralis\
+\
+Steg 1: Håll i två hantlar med neutralt grepp. Avståndet mellan händerna bör vara något bredare än axelbrett. Lyft dig själv med armarna så att endast hantlar och tår är i golvet. Behåll ryggen rak. Händerna pekar något utåt.\
+\
+Steg 2: Sänk dig ned tills bröstet är några centimeter från golvet, genom att böja armbågarna. Armbågarna ska böjas ned mot dina fötter. Håll en sekund.\
+\
+Steg 3: Återgå till utgångsläget.\
+\
+Steg 4: Lyft en hantel upp genom att dra armbågen uppåt. Din hand ska röra sig i en vertikal linje. Håll en sekund.\
+\
+Steg 5: Återgå till utgångsläget.\
+\
+Steg 6: Upprepa samma steg med den andra handen.";
+
+
+
+
+"Triceps Kickback" = "Tricepskickback";
+
+"Triceps Kickback extra"= "Muskelgrupp: Triceps Brachii\
+\
+Steg 1: Ta en hantel i ena handen, placera sedan motsatt knä på en bänk tillsammans med den andra handen, och placera den andra foten på golvet med något böjt knä. Dra sedan armen som håller hanteln rakt bakåt och upp till din sida, vilket gör den parallell med golvet, och håll ryggen rak.\
+\
+Steg 2: Håll hanteln så att du har en 90 graders vinkel vid armbågen, andas långsamt och sträck armen så långt det går, eller tills handled, armbåge och axel är i linje.\
+\
+Steg 3: Andas in och sänk hanteln långsamt, men bara tills du når en vinkel på 90 grader vid armbågen. Upprepa önskat antal repetitioner.\
+\
+Steg 4: Upprepa med hanteln i andra handen.";
+
+
+
+
+"Standing Single Arm Triceps Extension" = "Stående Enhandspress Triceps";
+
+"Standing Single Arm Triceps Extension extra"= "Muskelgrupp: Triceps Brachii\
+\
+Steg 1: Stå rakt upprätt med fötterna axelbrett isär, håll en lätt hantel i vänster hand.\
+\
+Steg 2: Lyft hanteln över huvudet så att din vänstra arm är rak och handflatan pekar ut åt sidan. Placera din högra arm framför ansiktet och ta tag om vänster armbåge med höger hand för att hålla överarmen stabil snär du utför övningen.\
+\
+Steg 3: Utan att röra överarmen, böj sakta din vänstra armbåge och sänk hanteln bakom huvudet så långt som möjligt.\
+\
+Steg 4: Lyft åter hanteln över huvudet tills din vänstra arm är rak och upprepa för en repetition. Placera sedan hanteln i höger hand och upprepa övningen med höger arm.";
+
+
+
+
+"Stability Ball Split Squad Dumbbell" = "Ensidig squat på pilatesboll med hantel";
+
+"Stability Ball Split Squad Dumbbell extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Stå upprätt, placera en fot på golvet bakom dig medan du håller ett par hantlar längs sidorna. Håll armarna rakt, som bilden visar.\
+\
+Steg 2: Sänk dig ned mot golvet, böj i höfter och knän och luta överkroppen framåt.\
+\
+Steg 3: Återgå till utgångsläget genom att trycka ifrån med din främre fot.\
+\
+Steg 4: Upprepa med andra benet.";
+
+
+
+
+"Dumbbell Rear Delt Row" = "Delad Bakåtvänd Hantelrodd";
+
+"Dumbbell Rear Delt Row extra"= "Muskelgrupp: Deltoids\
+\
+Steg 1: Böj dig vid midjan och håll hantlarna med raka armar och handflatorna vända inåt och fötterna höftbrett isär.\
+\
+Steg 2: Lyft hantlarna uppåt och utåt till axelhöjd, håll ryggen rak. Böj armbågarna något när du lyfter, om det behövs, sänk sedan hanteln tillbaka till utgångsläget.";
+
+
+
+
+"Dumbbell Snatch" = "Hantelryck";
+
+"Dumbbell Snatch extra"= "Muskelgrupp: Deltoids\
+\
+Steg 1: Börja med att huka över en hantel. Håll nedre delen av ryggen helt still och placera fötterna axelbrett isär.\
+\
+Steg 2: Ta tag i hanteln och spänn magmusklerna. I en snabb rörelse, lyft hanteln uppåt tills armen är rakt utsträckt, som bilden visar. Hanteln bör dras nära kroppen och inte svänga ut eller vingla.\
+\
+Steg 3: Håll kvar kort över huvudet, och släpp sedan ner den till utgångsläget.";
+
+
+
+
+"Stretch Standing Overhead Arms" = "Stående Stretch med Armar Över Huvud";
+
+"Stretch Standing Overhead Arms extra"= "Muskelgrupp: Latissimus Dorsi\
+\
+Steg 1: Stå med fötterna axelbrett isär. Håll benen lätt böjda. Placera dina händer framför dig. Fläta ihop fingrarna.\
+\
+Steg 2: Sträck armarna över huvudet. Dra så högt du kan. Håll denna position i 15-25 sekunder.";
+
+
+
+
+"Stretch Neck Standing Side" = "Stående Sidostretch för Nacken";
+
+"Stretch Neck Standing Side extra"= "Muskelgrupp: Nacken\
+\
+Steg 1: Stå rak med fötterna axelbrett isär. Placera armarna längs sidorna.\
+\
+Steg 2: Vrid huvudet åt sidan. Överkroppen vrids något. Håll i 15-25 sekunder. Upprepa åt den andra sidan.";
+
+
+
+
+"Standing Cross Body Arms" = "Stånde Stretch med Korsade Armar";
+
+"Standing Cross Body Arms extra"= "Muskelgrupp: Deltoids\
+\
+Steg 1: Stå rak med fötterna axelbrett isär.\
+\
+Steg 2: Dra högra armen framför kroppen. Armen ska vara parallell med golvet. Placera vänstra armen framför din vänstra handled. Använd din vänstra arm för att dra högerarmen närmare kroppen. Håll denna position i 15-25 sekunder. Upprepa med den andra armen.";
+
+
+
+
+"Standing Behind Head" = "Stående Stretch Bakom Huvudet";
+
+"Standing Behind Head extra"= "Muskelgrupp: Triceps Brachii\
+\
+Steg 1: Stå rak med fötterna axelbrett isär. Placera ena handen mitt på övre delen av ryggen. Armbågen pekar mot taket.\
+\
+Steg 2: Använd din andra hand för att hålla i armbågen. Dra armbågen ner och mot huvudet. Håll denna position i 15-25 sekunder. Upprepa på den andra sidan.";
+
+
+
+
+"Standing Side Single Arm" = "Stående Sidostretch med En Arm";
+
+"Standing Side Single Arm extra"= "Muskelgrupp: Latissimus Dorsi\
+\
+Steg 1: Stå rak med fötterna axelbrett isär. Placera händerna på höfterna.\
+\
+Steg 2: Lyft ena armen över huvudet och böj kroppen mot ena sidan. Håll i 15-25 sekunder. Upprepa på andra sidan.";
+
+
+
+
+"Stretch Squat Torso Twist" = "Squatstretch med vridning";
+
+"Stretch Squat Torso Twist extra"= "Muskelgrupp: Latissimus Dorsi\
+\
+Steg 1: Sitt med fötterna axelbrett isär. Placera händerna på höfterna. Titta rakt framåt.\
+\
+Steg 2: Vrid kroppen åt ena sidan tills du känner en sträckning. Upprepa på den andra sidan.";
+
+
+
+
+"Stretch Standing Legs Arms" = "Stånde Benstretch med Armar";
+
+"Stretch Standing Legs Arms extra"= "Muskelgrupp: Hamstrings\
+\
+Steg 1: Stå rak med fötterna bredare än axelbrett isär. Placera händerna på höfterna.\
+\
+Steg 2: utan att böja benen, sträck dig ner och linda händerna runt anklarna. Håll i 15-25 sekunder.";
+
+
+
+
+"Stretch Standing Hand To Foot" = "Stående Lårstretch";
+
+"Stretch Standing Hand To Foot extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Stå rak med fötterna tätt ihop. Låt händerna hänga längs sidorna.\
+\
+Steg 2: Böj ett ben bakom dig. Håll på knäet med handen. Dra foten mot dina hamstrings. Håll i 15 - 25 sekunder. Upprepa med andra benet.";
+
+
+
+
+"Stretch Knee Bent" = "Stretch med Böjt Knä";
+
+"Stretch Knee Bent extra"= "Muskelgrupp: Quadriceps\
+\
+Steg 1: Sitt rakt med benen helt utsträckta. Böj höger knä, placera din högra fot på insidan av vänster lår.\
+\
+Steg 2: Nudda din vänstra tå med vänster hand. Håll i 15-25 sekunder. Upprepa med andra benet.";
+
+
+
+
+"Stretch Adductors Standing" = "Stående Adductorstretch";
+
+"Stretch Adductors Standing extra"= "Muskelgrupp: Adductors\
+\
+Steg 1: Stå rak med fötterna mer än axelbrett isär. Placera händerna på höfterna.\
+\
+Steg 2: Sänk kroppen mot ena sidan. Det motsatta benet rätas ut. Håll i 15-25 sekunder. Upprepa åt andra sidan.";
+
+
+
+
+"Sitting Body Curl" = "Sittande framåtböjning";
+
+"Sitting Body Curl extra"= "Muskelgrupp: Hamstrings\
+\
+Steg 1: Sitt ner med ryggen rak. Sträck ut benen framför dig. Vila armarna på låren.\
+\
+Steg 2: Sänk överkroppen mot benen. Håll positionen i 15-25 sekunder.";
+
+
+
+
+"Stretch Lying Knee Bent" = "Liggande Stretch med Böjt Knä";
+
+"Stretch Lying Knee Bent extra"= "Muskelgrupp: Hamstrings\
+\
+Steg 1: Ligg platt mot golvet. Helt utsträckta ben. Vila händerna längs med sidorn.\
+\
+Steg 2: Lyft ett ben mot bröstet. Knäet är böjt. Placera händerna på låret. Dra benet mot överkroppen. Håll positionen i 15-25 sekunder. Upprepa med andra benet.";
+
+
+
+
+"Stretch Adductors (Sitting)" = "Sittande Adductorsstretch";
+
+"Stretch Adductors (Sitting) extra"= "Muskelgrupp: Adductors\
+\
+Steg 1: Sitt ned med fotsulorna mot varandra. Håll ryggen rak. Placera händerna på knäna.\
+\
+Steg 2: Sänk överkropp och knän mot golvet. Håll i 15-25 sekunder.";
+
+
+
+
+"Stretch Kneeling Child Pose" = "Stretch i Barnets Position";
+
+"Stretch Kneeling Child Pose extra"= "Muskelgrupp: Ländrygg\
+\
+Steg 1: Ställ dig på knä på golvet med rak ryggen.\
+\
+Steg 2: Sträck ut armarna framför dig samtidigt som du sätter dig ner så att rumpan nuddar dina fötter. Håll rygg och huvud raka.";
+
+
+
+
+"Stretch Lower Back Arms Assist" = "Ländryggsstretch";
+
+"Stretch Lower Back Arms Assist extra"= "Muskelgrupp: Ländrygg\
+\
+Steg 1: Ligg plant utsträckt på golvet. Placera händerna bredvid bröstet med handflatorna nedåt.\
+\
+Steg 2: Lyft kroppen mot taket med hjälp av armarna. Armarna ska vara helt sträckta. Håll positionen i 15-25 sekunder.";
+
+
+
+
+
+"Dumbbell Lateral Raise" = "Hantel Sidolyft";
+
+"Dumbbell Lateral Raise extra" = "Muskelgrupp: Deltamuskeln\
+\
+Steg 1: Stå med fötterna på axelbrett avstånd, håll ryggen rak och armarna något framför kroppen. Med armbågarna lätt böjda, ta en hantel i varje hand.\
+\
+Steg 2: Höj hantlarna ut och upp till nivån av dina axlar. Håll handflatorna riktade mot marken.\
+\
+Steg 3: Håll armbågarna böjda, sänk långsamt tillbaka till startpositionen och upprepa till det önskade antalet repetitioner.";
+
+
+
+
+
+"Dumbbell Lunge Side" = "Hantel Sidoutfall";
+
+"Dumbbell Lunge Side extra"= "Muskelgrupp: Lårmuskeln\
+\
+Steg 1: Stå rakt med fötterna axelbrett isär. Håll hantlarna vid sidan med ett neutralt grepp.\
+\
+Steg 2: Samtidigt som du håller ryggen rak, ta ett steg med ena foten åt sidan och sänk dig genom att böja knäna. Den bakre foten stannar i position. Stanna när ditt främre lår är parallellt med marken. Håll den positionen i en sekund. Återgå till utgångsläget.";
+
+
+
+
+
+"Standing Abdominal Stretch" = "Stående bukstretch";
+
+"Standing Abdominal Stretch extra" = "Muskelgrupp: Magmusklerna\
+\
+Steg 1: Stå upprätt med armarna sträckta rakt över huvudet.\
+\
+Steg 2: Krök nedre delen av ryggen genom att lyfta bröstet uppåt och föra armarna tillbaka så mycket som möjligt. Håll denna utsträckta position i flera sekunder.";
+
+
+
+"Barbell Good Morning" = "Skivstång God Morgon";
+"Barbell Good Morning extra" = "Muskelgrupp: Baksida Lår\
+\
+Stå rakt med fötterna i axelbredd. Lägg skivstången på baksidan av dina axlar. Håll skivstången med överhandsgrepp. Avståndet mellan händerna ska vara bredare än axelbredd. Justera fötterna så att de pekar lite utåt.\
+\
+Håll ryggen rak och böj överkroppen tills den är parallell med golvet. Håll kvar i en sekund. Återgå till startposition.";
+
+
+
+"Curl Bar Row" = "Curlstångsrodd";
+"Curl Bar Row extra" = "Muskelgrupp: Breda Ryggmuskeln\
+\
+Böj knäna lite. Håll ryggen böjd och rak. Håll curlstången under dig med händerna i axelbredd och överhandsgrepp.\
+\
+Lyft curlstången vertikalt mot bröstkorgen. Låt inte armbågarna peka utåt. Håll kvar i en sekund. Återgå till startposition.";
+
+
+
+// Descriptions
+
+"extra_main_description" = "Avancerade träningsprogram designade för att få dig fullständigt rippad och stark.";
+"Building muscle add volume and strength." = "Bygger muskler, adderar volym och styrka";
+"Muscle Growth of the full Body." = "Muskelökning på hela kroppen";
+"Beginner Intermediate Advanced." = "Nybörjare Mellan Avancerad";
+"Man and Women." = "Män och Kvinnor";
+"Gym." = "Gym";
+"Barbell Dumbbells Bench." = "Skivstång Hantlar Bänk";
+"Building muscle add definition and strength." = "Bygger muskler, adderar definition och styrka";
+"Home, Office, Studio." = "Hemma, Kontor, Studio";
+"Bench, Dumbbell, Mat, Body Weight." = "Bänk, Hantel, Matta, Kroppsvikt";
+"Muscle definition and fat burning." = "Muskeldefinition och fettförbränning";
+"Cardio routine of the full Body." = "Konditionsträning för hela kroppen";
+"Home, Office." = "Hemma, Kontor";
+"Core zone." = "Bålen.";
+"Abdominals definition & fat burning." = "Magmuskeldefinition och fettförbränning";
+"Gym, Home, Office." = "Gym, Hemma, Kontor";
+"Stability ball, Mat, Body Weight." = "Stabilitet, Matta, Kroppsvikt";
+"Chest & Arms." = "Bröst & Armar";
+"Get strength and definition." = "Få styrka och definition";
+"Bench, Dumbbell." = "Bänk, Hantel";
+"Arms." = "Armar";
+"Shoulders." = "Axlar";
+"Bench, Dumbbell, Balance Ball." = "Bänk, Hantel, Balansboll";
+"Back & Arms." = "Rygg & Armar";
+"Neck, shoulders, lower back and legs." = "Nacke, axlar, nedre rygg och ben";
+"Muscle flexibility and relaxation." = "Muskelflexibilitet och avslappning";
+"Exercise Mat, Body Weight." = "Träningsmatta, Kroppsvikt";
+
+
+"Focus" = "Fokus";
+"Goal" = "Mål";
+"Skill level" = "Skicklighetsnivå";
+"Target Group" = "Målgrupp";
+"Place" = "Plats";
+"Equipment" = "Utrustning";
+
+"extraDescription1" = "Träning för viktlyftning och byggande av muskler och styrka.";
+"extraDescription2" = "Perfekt kombination av träning för att få styrka och ökad muskeldefinition.";
+"extraDescription3" =  "Bli stark och svettig med denna inspirerande fettförbrännande omgång.";
+"extraDescription4" = "Bli av med fett och jobba på ditt sexpack med denna inspirerande fettförbrännande omgång för dina magmuskler.";
+"extraDescription5" = "Jättebra träning med fokus på styrka och definition för dina bröstmuskler.";
+"extraDescription6" = "Jättebra träning med fokus på styrka och definition för dina armmuskler." ;
+"extraDescription7" =  "Jättebra träning med fokus på styrka och definition för dina benmuskler.";
+"extraDescription8" =  "Jättebra träning med fokus på styrka och definition för dina axelmuskler.";
+"extraDescription9" =  "Jättebra träning med fokus på styrka och definition för dina ryggmuskler.";
+"extraDescription10" = "Förbättra din flexibilitet och muskelavslappning med en omgång stretching för hela kroppen.";
+
+"extraDescription1_howToMake" =  "3 set per övning.";
+"extraDescription2_howToMake" =  "15 repetitioner på varje övning, först 2 omgångar, sen 4 och sen ytterligare 4.";
+"extraDescription3_howToMake" =  "15 sekunder vila mellan övningarna, 30 sekunder vila mellan omgångarna.";
+"extraDescription4_howToMake" =  "15 sekunder vila mellan övningarna, 30 sekunder vila mellan omgångarna.";
+"extraDescription5_howToMake" = "45 sekunder vila mellan övningarna, 35 sekunder vila mellan omgångarna.";
+"extraDescription6_howToMake" = "45 sekunder vila mellan övningarna, 35 sekunder vila mellan omgångarna.";
+"extraDescription7_howToMake" =  "45 sekunder vila mellan övningarna, 35 sekunder vila mellan omgångarna.";
+"extraDescription8_howToMake" = "45 sekunder vila mellan övningarna, 35 sekunder vila mellan omgångarna.";
+"extraDescription9_howToMake" =  "45 sekunder vila mellan övningarna, 35 sekunder vila mellan omgångarna.";
+"extraDescription10_howToMake" = "Ingen vila mellan övningarna. Fixering av varje position i 30 sekunder." ;
+
+"categoryDescription0" = "Bästa övningarna för att Bygga volym och addera definition till dina magmuskler";
+"categoryDescription1" =  "Olika övningar som kommer att hjälpa dig att få Styrka och Kraft";
+"categoryDescription2" =  "Perfekt kombination av övningar för att bygga muskelmassa och addera volym";
+"categoryDescription3" =  "Specialövningar som kommer att hjälpa dig att bli Stark och addera muskelavslappning";
+"categoryDescription4" =  "Bästa övningen som kommer att hjälpa dig att addera definition och volym";
+"categoryDescription5" =  "Annan övning som kommer att hjälpa dig att nå den prestation du vill";
+"categoryDescription6" = "Perfekt kombination av övningar för att öka dina bens styrka och uthållighet";
+"categoryDescription7" =  "Jättebra kombination av övningar för att bygga styrka och addera definition"; //Shoulders = "//Axlar"
+"categoryDescription8" = "Speciell övning som kommer att hjälpa dig att addera kraft med varierande intensitetsnivå";
+"categoryDescription9" = "Av Pro Version";
+"workoutDescription2" =  "En kombination av övningar som kommer att hjälpa dig att bygga volym och att få muskler";
+"workoutDescription1" =  "Perfekt strategi för att bli smal och addera definition till din kropp";
+"workoutDescription3" =  "Det bästa sättet att bli stark, öka din prestation och addera kraft";
+
+
+"viewed" = "visad";
+"Backup" = "Säkerhetskopiering";

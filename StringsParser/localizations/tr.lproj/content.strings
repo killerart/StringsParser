@@ -1,0 +1,1451 @@
+"Abs" = 	"Karın Kasları";
+
+"Incline Bench Sit-Ups" = 	"Eğri Yüzey Bankı Mekikleri";
+"1 Incline Bench Sit-Ups" = "Kas: Rectus Abdominis\n\nAdım 1: Ters sehpaya yatın. Ellerinizi başınızın üzerine uzatın. Dizlerinizi bükün.\n\nAdım 2: Sehpa üzerinde belinizi tutarken üst vücudunuzu yukarıya kaldırın. Bir saniye bu pozisyonda tutun. Başlangıç pozisyonuna dönün.";
+
+"Hanging Leg Raises" = 	"Paralelde Çakı";
+"2 Hanging Leg Raises" = "Kas: Rectus Abdominis\n\nAdım 1: Bir barfiks çubuğuna avuç öne bakacak şekilde tutunun ve dizlerinizi hafifçe kırın.\n\nAdım2: Alt karın kaslarınızı kullanarak kalçanızı göğsünüze doğru çekin. Dizlerinizi göğsünüze doğru olabildiğince çekin ve en üst pozisyonda belinizi bükün. Ardından duraklayın, alt karın bölgenizde çekilmeyi hissedin ve başladığınız pozisyona geri dönün";
+
+"Dumbbell Side Bends" = 	"Dambılla Yana Eğilmeler";
+"3 Dumbbell Side Bends" = "Kas: Oblik \n\nAdım 1: Ayaklar omuz genişliğinde olacak şekilde düz durun. Her elinizde bir dambıl tutun.\n\nStep 2: Bir yöne doğru (sağ veya sol), vücudunuzun alt kısmında minimum hareket olacak şekilde aşağıya doğru eğilin.\n\nAdım 3: Başlangıç pozisyonuna dönün.";
+
+"Crunches" =	"Yatarak Karın Sıkıştırma";
+"4 Crunches" = "Kas: Rectus Abdominis\n\nAdım 1: Sırtüstü yatarken bacaklarınızı düz tutun ve topuklarınızı yerden birkaç santimetre kaldırın ve ellerinizi vücudunuzun yanında tutun.\n\nAdım 2: Kollarını yere paralel tutarak, a e şekli oluşturmak için gövdenizi ve bacaklarınızı kaldırın. Kendinizi kaldırırken dizlerinizi kırın ve göğsünüze doğru çekin.";
+
+"Sit-Ups" =	"Mekikler";
+"5 Sit-Ups" = "Muscle: Rectus Abdominis\n\nAdım 1: Denge topu üzerine yatın. Ellerinizi başınızın üzerine ve ayağınızı yere koyun.\n\nAdım 2: Alt vücudunuzu denge topu üzerinde tutarken üst vücudunuzu kaldırın. Bir saniye bu pozisyonda durun. Başlangıç pozisyonuna dönün.";
+
+"Leg Raises" =	"Çakı (Leg Raise)";
+"6 Leg Raises" = "Kas: Rectus Abdominis\n\nAdım 1: Yere yatın. Bacaklarınızı uzatın. Elinizi başınızın üzerine yerleştirin.\n\nStep 2: Üst vücudunuzu kaldırın. Bir saniye bu pozisyonda bekleyin. Başlangıç pozisyonuna dönün.";
+
+"Flat Bench Lying Leg Raise" = 	"Düz Sehpada Uzanarak Çakı";
+"7 Flat Bench Lying Leg Raise"=	"Sehpaya veya yere bacaklarınız düz bir şekilde uzatılmış olarak uzanın. Avuç içleriniz yere bakacak şekilde ellerinizi kalçalarınızın altına yerleştirin. Bacaklarınızı düz tutun ve dizlerinizi kilitleyin. Ayaklarınızı olabildiğince dikey olarak kaldırın.";
+
+"Seated Jackknife" = 	"Oturarak Büyük Çakı";
+
+"8 Seated Jackknife"	="Sehpanın ucuna oturun ve destek için arkanızdaki sırtlığa tutunun, bacaklarınızı, dizler hafif eğik bir şekilde öne doğru uzatın. Bacaklarınızı göğsünüze doğru yükseltirken göğsünüzü de dizlerinize doğru çekin.";
+
+
+"Twisting Hip Raise" = 	"Dönerek Yüksek Kalkış (Kalça)";
+
+"9 Twisting Hip Raise"	="Elleriniz yanlarda ve bacaklarınız tamamen yukarıyı gösterecek şekilde sırt üstü uzanın. Ayaklarınızla kalçanızı yukarı doğru bir tarafa kaldıracak şekilde yere bastırın. ";
+
+
+
+"Bodyweight Crunch" = 	"Vücut Ağırlığıyla Sıkıştırma";
+
+"12 Bodyweight Crunch"=	"Yere uzanın. Ayaklarınız yere düz bir şekilde basarken dizlerinizi kırın. Kollarınızı başınızın üzerinde tamamen uzatın. Üst vücudunuzu yukarı doğru yükseltirken, alt bel kısmınızı yerde tutun. Bir saniye bu şekilde bekleyin. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Russian Twist" =	"Rus Döndürmesi";
+
+"13 Russian Twist"	="Yere oturun, bacaklarınızı katlayın ve gövdeniz biraz arkada duracak şekilde durun. Kollarınızı gövdenizin önünde düz bir şekilde tutun. Gövdenizi bir yana doğru döndürün, ana pozisyona geri dönün ve gövdenizi diğer yana döndürün.";
+
+
+
+"Side Bridge" = 	"12 Yan Köprü";
+
+"14 Side Bridge"	="Yanınıza doğru uzanın. Yan dönün ve vücudunuzu bir kolunuz yere paralel olarak bükülmüş şekilde yerden yukarı doğru kaldırın. Vücudunuzu düz bir çizgide tutmaya ve dirseğinizi de tam omzunuzun altında tutmaya çalışın.";
+
+
+
+
+"Back" =	"Geri";
+
+
+"Chin-Ups" =	"Barfiks";
+
+"1 Chin-Ups"	="Barı avuç içleriniz ve parmaklarınız ileri, vücudunuzdan uzak olacak şekilde kavrayın. Buna “pronat“ kavrayış adı verilir. Kollarınızı düz tutun ve sallanmadan aşağı doğru asılın. Omuzlarınızı ve vücudunuzu gevşetin. Ani hareketler yapmadan yumuşak bir hareketle kendinizi yukarı doğru çekin.  Çene barın yukarısına çıkmalıdır. Başlangıç pozisyonuna doğru yumuşak bir şekilde alçalın.";
+
+
+"Deadlifts" = "Yerden Kilo ile Doğrulma";
+
+"2 Deadlifts" =	"Duruşunuz; ayakuçlarınız öne doğru ve hafif dışarıda şekilde, gövdeniz ise yaklaşık olarak bir omuz açıklığı genişliğinde olsun. Şimdi, ön bacak kaslarınız aşağı yukarı yere paralel olana kadar kalçanızı alçaltın. Bar, kaval kemiklerinizin biraz yukarısında olmalı. Şimdi, halteri iki elinizle, kavrayışınız bacaklarınızın biraz dışında olacak şekilde kavrayın. Belinizde bel kemeriyle, ayaklarınızla iterken aynı anda belinizle kaldırın; böylece bar dizlerinizi geçerek kalçanızda durur. Kaldırma girişiminizin tüm aşamalarında omuzlarınız ve dizleriniz tamamen kilitli olmalıdır ve kollarınız düz olmalıdır.";
+
+
+"Lat Pull-Downs" = 	"Yana Doğru Kanat Çekiş";
+
+"3 Lat Pull-Downs" =	"Kanat çekme makinesine uzun bir bar bağlayın ve oturduğunuzda dizleriniz dik açıda ve ayaklarınız yere düz basacak şekilde kalça yastıklarını ayarlayın. Geniş bir kavrayışla barı kavrayın ve üst vücudunuzu kalçalardan hafifçe arkaya eğilerek dik bir pozisyonda tutun. Halteri yüzünüzün önüne doğru göğsünüzden yukarı doğru çekin ve duraklayın. Kollarınızı yavaşça düzleştirerek başlangıç pozisyonuna geri dönün.";
+
+
+"Seated Rows" = 	"Oturarak Makinede Çekiş";
+
+"4 Seated Rows" ="	Oturarak makinede çekişe başlamak için en sevdiğiniz barın (şekilde gösterilen gibi de olabilir) tutamaçlarını tutun. Sırtınız dik bir şekilde otururken, bacaklarınızı bükün ve ayaklarınızı metal bloğa karşı yerleştirin. Laterallerinizin gerildiğini hissedene kadar kollarınızı açın. Tutamaçlar karın bölgenize değene kadar ağırlığı vücudunuza doğru çekin.";
+
+"One-Arm Dumbbell Rows"= 	"Tek Kol Dambıl Kanat Çekiş";
+
+"5 One-Arm Dumbbell Rows"=	"Sol dizinizi ve sol elinizi düz bir sehpaya yerleştirin ve sağ bacağınız yere sıkıca bassın. Sırtınızın düz ve yere paralel olması için öne doğru eğilin. Avuç içiniz vücudunuza bakacak şekilde, sağ elinize bir dambıl alın ve dambılı dış göğüs kafesi bölgesine doğru kaldırın veya çekin. Başlangıç pozisyonuna geri dönün ve tekrar edin.";
+
+
+"Barbell Shrugs" = 	"Halter Silkme";
+
+"6 Barbell Shrugs" =	"Bacaklarınız omuz genişliğinde ve düz olarak ayakta dururken, pronate kavrayışla (avuç içleri kalçaya bakacak şekilde) halteri iki elinizle kavrayın. İpucu: Elleriniz omuz açıklığından biraz daha geniş olarak açılmalıdır. Daha iyi bir kavrayış için bu egzersizde bilek sargısı kullanabilirsiniz. Bu sizin başlangıç pozisyonunuzdur. Nefes verirken, omuzlarınızı olabildiğince yukarı kaldırın ve kasılmayı bir saniyeliğine tutun. İpucu: Halteri bisepslerinizi kullanarak kaldırmaktan kaçının. Nefes alırken yavaşça başlangıç pozisyonunuza geri dönün.";
+
+
+"Dumbbell Shrugs" =	"Dambıl Silkme";
+
+"7 Dumbbell Shrugs" =	"Dambıllar yanlardan sarkar durumdayken dik bir şekilde ayakta durun ve ayaklarınızı dambılların rahat bir şekilde salınabilmelerini sağlayacak genişlikte açın. Pazu veya öne kaldırış hareketlerinde kullandığınız dambıllardan daha ağır dambıllar kullanabilirsiniz. Omuzlarınızı, sanki size soru soran bir kişiye “Bilmem“ dermiş gibi kaldırın. Öne doğru kamburlaşmayın; tamamen dik kalmaya çalışın. Eğer öne doğru kamburlaştığınızı veya arkaya doğru eğildiğinizi hissederseniz, ağırlığı biraz hafifletin.";
+
+
+"Back Extensions" = 	"Sırttan Geriye Yaslanma";
+
+"8 Back Extensions" =	"Sırttan geriye yaslanma istasyonunda pozisyonunuzu alın ve ayağınızı bacak çengeline sabitleyin. Vücudunuz ellerinizden kalçalarınıza kadar düz bir çizgi oluşturmalıdır. Vücudunuzu alçaltarak, alt sırtınızı yere yaklaşık olarak dik olana kadar yuvarlatın. Üst gövdenizi yere paralel olduktan biraz daha yukarı doğru yükseltin. Bu noktada, sırtınızda hafif bir yay olmalı ve kürek kemikleriniz birbirine çekilmeli. Bir saniye duraklayın ve daha sonra tekrar edin.";
+
+
+"Bent Over Row" = 	"Eğilerek Kanat Çekişi";
+
+"9 Bent Over Row"=	"Dizleriniz hafif kasılı bir şekilde ayakta durun. Gövdenizi, sırtınızı düz tutarak, yaklaşık olarak 45 derece eğin. Elleriniz omuz açıklığından daha geniş bir ölçüde yukarıdan aşağı inen bir kavrayışla ve kollarınızda doğrudan omuzlarınızdan aşağı salınacak şekilde barı tutun:\n\n- Nefes alın, karın kaslarınızı izometrik olarak kasın ve barı göğsünüze değene kadar yukarı çekin.\n\n- Nefes verirken başlangıç pozisyonuna dönün.";
+
+
+"Reverse Chin Ups" = 	"Ters Barfiks";
+
+"10 Reverse Chin Ups" =	"Kollarınızı uzatın ve elleriniz omuz açıklığında olarak aşağıdan yukarı bir şekilde barı kavrayın:\n\n- Nefes alın ve kendinizi çeneniz barın seviyesine gelene kadar yukarı doğru çekmek için göğsünüzü dışarı doğru çıkarın.\n\n- Hareketi tamamlarken nefes verin.";
+
+
+
+
+
+"Biceps" = 	"Bisepsler";
+
+
+"Curls" = 	"Pazu Bükme";
+
+"1 Curls" =	"Bacaklarınız yaklaşık olarak kalça açıklığında, karın kaslarınız çalışır vaziyette, orta ağırlıkta dambılları kalçanızın önünde tutarak ayakta durun. Ağırlıkları omuzlara doğru yukarı kaldırırken pazularınızı sıkın ve kollarınızı bükün. Dirseklerinizi sabit tutun ve dirseklerinizi oynatmadan ağırlıkları getirebileceğiniz en yüksek noktaya kadar kaldırın. Ağırlıkları, aşağıda dirsekte hafif bir bükülme kalana kadar yavaşça alçaltın(örneğin: eklemlerinizi kilitleyerek gerginliği kasın üstünde tutmaya çalışmayın)";
+
+
+
+"Barbell Curls" = 	"Halterli Pazu Bükme";
+
+
+"2 Barbell Curls" =	"Ayaklarınız omuz açıklığında ve dizleriniz rahat bir halde ayakta bir pozisyonda başlayın. Elleriniz de omuz açıklığında olacak şekilde bir halteri kavrayın. Kavrayışınız aşağıdan yukarı olmalıdır (avuç içleri yukarı bakacak şekilde). Dik durun ve barın kalçalarınız önünde sarkmasına izin verin. Halteri omuz seviyesinde kıvırmak için dirseklerinizi bükün. Bu en üst pozisyonda anlık olarak duraklayın. Barı yavaşça başlangıç pozisyonuna doğru alçaltın.";
+
+
+
+"Preacher Curls" = 	"Dirsek Sabit Bar ile Pazu Bükme";
+
+"3 Preacher Curls"= "Barı yaklaşık olarak omuz genişliğinde kavrayın. Ön kollarınız yaklaşık olarak tavanı gösterene kadar barı yavaşça kıvırın (dikeyden biraz daha fazla). Bir saniye duraklayın ve barı başlangıç pozisyonuna doğru alçaltın.";
+
+
+
+"Hammer Curls" = 	"Dambıl İçe Dönük Pazu";
+
+"4 Hammer Curls"	 ="Her elinize, dambıllar ve avuç içleriniz dışarı bakacak şekilde bir dambıl alın. Kollarınız 90 derecelik bir açıda olmalıdır. Dirseklerinizi vücudunuza yakın ve sabit bir pozisyonda tutarak, ağırlığı omzunuza doğru yukarı doğru bükün. Ağırlıkları yavaşça başlangıç pozisyonuna doğru alçaltın.";
+
+
+
+"Concentration Curls" = 	"Tek Dambıl Pazu";
+
+"5 Concentration Curls"	= "Dambılı sağ elinizde tutarak sehpanın ucuna oturarak başlayın. Sağ elinizin, dirseğiniz dizinizin iç kısmında dinlenir konumda rahatça salınmasına izin verin. Gövdenizin bacaklarınızdan önde olması için öne doğru eğilin ve sol elinizi sol dizinizin üstüne koyun. Dirsekten bükerek, dambılı omuz seviyesine doğru kıvırın ve yavaşça başlangıç pozisyonuna doğru alçaltmadan bir saniye duraklayın. Setiniz bitene kadar tekrar edin ve el değiştirerek seti sol elinizle tamamlayın.";
+
+"Reverse Curls"  = 	"Ters Pazu Bükme"  ;
+
+"6 Reverse Curls"	="Ayaklarınız hafif açık ve kollarınız düz ve elleriniz yukarıdan aşağıya inecek bir şekilde (başparmaklarınız birbirine bakacak şekilde)  kavrayarak başlayın:\n\n- Nefes alın ve barı bükün.\n\n- Hareketi tamamlarken nefes verin.Bu egzersiz bilekteki ve parmaklardaki gerici kasları çalıştırır.  Ön kol kemiğinin ön kısmında kalan kasları çalıştırır (brachioradialis) ve daha az bir derecede bisepsleri de çalıştırır. ";
+
+
+
+"Cable Biceps Curl"  = 	"Makinede Biseps Bükme" ;
+
+"7 Cable Biceps Curl"=	"Bir kablo istasyonundaki aşağıda bulunan makaraya düz bir bar takın. Daha sonra barı, omuz genişliğinde, elleriniz yukarıdan aşağı inecek şekilde kavrayarak kalçalarınızın önünde bir kol uzunluğunda mesafede tutun. Üst kollarınızı hareket ettirmeden barı olabildiğince göğsünüze doğru bükün.";
+
+
+
+"Low Pulley Curls"  = 	"Alt Makara Bükme" ;
+
+"8 Low Pulley Curls"="Makineye yüzünüzü vererek ayakta durun ve barı elleriniz yukarıdan aşağı inecek şekilde kavrayın:\n\n- Nefes alın ve makara tutamacını bükün.\n\n- Hareketi tamamlarken nefes verin.Bu izole etmek ve bisepsleri pompalamak için çok iyi bir egzersizdir.";
+
+
+
+"Low Pulley Cable Crossover"  = "Alt Makara Kabloda Göğüs Sıkıştırma" ;
+"9 Low Pulley Cable Crossover"= "Kabloları crossover istasyonunun alt kısmına ayarlayın ve ellerinizi yüzünüze doğru yukarı crossover hareketini aşağıdan başlayarak yapın. Bu varyant üst göğsü daha da fazla çalıştıracaktır.";
+
+
+"Calf"  = "Baldır"  ;
+
+
+"Toe Raises"  = "Ayak Parmak Yükselişleri" ;
+"1 Toe Raises"= "Doğal bir pozisyonda; topuklar omuz genişliğinde veya biraz daha fazla bir genişlikte başlayın. Dambılları ayaklarınızın bulunduğu taraflarda iki elinizde de olmak üzere tutun. Parmak uçlarınıza yükselerek baldır kaslarınızı kasın, daha sonra yavaşça alçalarak hareketi tekrarlayın.";
+
+
+"One-Leg Toe Raises"  = "Tek Bacak Ayak Parmak Yükselişleri" ;
+
+"2 One-Leg Toe Raises"= "Tek ayağınız üzerinde, ayak parmaklarınızı ve parmak köklerinizi bloğun üzerine yerleştirerek durun. Üzerinde durmakta olduğunuz ayakla aynı tarafta bulunan elinizde bir dambıl tutun ve hareketi yaparken kendinizi sabitleyebilmek için diğer elinizle de sehpanın ucuna tutunun:\n\n- Dizlerinizi düz veya hafif eğik şekilde tutarak, parmak uçlarınızda olabildiğince yükselin (plantar fleksiyon).\n\n- Başlangıç pozisyonuna geri dönün.";
+
+
+"Seated Calf Raises"  = "Oturarak Baldırla Yükseliş" ;
+"3 Seated Calf Raises" = "Yastığı, kaval kemikleriniz tamamen düz konumda olacak ve yastık hemen dizlerin arkasında olacak şekilde ayarlayın. Topuklarınızı yukarı doğru, ayak parmak köklerinizi bastırarak ağırlığı kaldırın. Baldır kasınızda bir gerilme hissedene kadar yavaşça ağırlığı alçaltın. İç ve dış baldır kaslarını hedef almak için; ayak parmak uçlarınızı sırasıyla içeri ve dışarı doğru uzatın.";
+
+
+"Chest"  ="Göğüs"  ;
+
+"Bench Presses"  = "Yatarak Halter Kaldırma" ;
+"1 Bench Presses" = "Düzgün bir bench press egzersizi için bir sehpanın üzerine düz bir şekilde uzanmalı ve ayaklarınız yere düz olarak basmalıdır. Bar, askının üzerindeyken, kafanızın hafifçe arkasında bulunacaktır. Bu egzersizde, özellikle serbest bar veya dambıl kullanıyorsanız, ağırlığın kendi üzerinize düşmesini önlemek için hareketi bir gözcü eşliğinde yapmanız önemlidir. Ağırlığı askıdan kaldırdığınızda, bar doğrudan göğsünüzün merkezi üzerinde olacaktır. Hareketin tamamı boyunca başınızı sürekli sehpanın üzerinde tutun. Barı sabit bir şekilde kavradıktan sonra, eğer yapabiliyorsanız, yavaşça göğüs hizasına indirin. Barı aşağı indirirken kollarınızı dışarı doğru bakacak şekilde tutun. Hareketin en alt seviyesine ulaştıktan sonra, barı tekrar uzatılmış pozisyona doğru yukarı itin; barı yukarı göğüs ve kollarınızla itmeye odaklanın.";
+
+
+"Incline Presses"  = "Üst Eğik Sehpada Halter Kaldırma" ;
+"2 Incline Presses" = "Bu egzersiz normal yatarak halter kaldırmaya çok benzer ancak bu sefer eğik serbest ağırlık bench press makinesi kullanarak ve orta göğüs kas grubu yerine üst göğüs kas grubunu çalıştıracağınız bir egzersizdir. Halteri askıdan indirin ve yavaşça köprücük kemiği hizanızdan yaklaşık olarak 7,5 cm yukarısına (Adem elmanızın hemen aşağı kısmına) doğru yavaşça indirin ve daha sonra barı başlangıç pozisyonuna doğru itin. BARI ÜST GÖĞÜS KISMINA DEĞDİRMEYİN (bu omuz eklemlerinize gereksiz bir baskı yapar ve asıl işi yapmasını dilediğimiz üst kaslarınız üzerindeki gerilimi alır!). Barı indirirken bunu kontrollü ve yavaş bir şekilde yapıyor olduğunuzdan emin olun. Diğer taraftan, barı yukarı bastırırken bunun bir patlama hızında olmasını hedeflemelisiniz.";
+
+
+"Dumbbell Presses"  = "Dambıl Kaldırma" ;
+"3 Dumbbell Presses" = "Sehpa üzerine oturarak pozisyonunuzu alın; dambılları tutun ve uyluklarınız üzerinde dinlenmeye bırakın. Vücudunuzu uzanmak için arkaya doğru kaydırırken, dambılları göğsünüze doğru itmek için kalçalarınızdan yardım alın. Daha sonra kollarınızı göğsünüzün üzerinde uzatın (dirsekler hafif bükülü bir şekilde), avuç içleriniz yukarı baksın. Ayaklarınız yere düz bassın ve sırtınız doğal bir şekilde ( hafif bir yaydan daha fazla olmayacak şekilde) dursun.  Dirseklerinizi dışarı doğru bükerek dambılları alçaltın. Dirsekleriniz omuzlarınızın hemen altına gelinceye kadar alçaltmaya devam edin. Daha sonra dambılları en yukarıda bir araya gelecek şekilde (birbirine değdirmeden) yukarı doğru ve hafif içe doğru açılı olacak şekilde kaldırın. Dirsekleriniz hafif bükülü olsun, onların kilitlenmesine izin vermeyin. Tekrar sayılarınız tamamlanana kadar hareketi tekrar edin. Kalkmak için dambılları göğsünüzde tutun, size oturmanızı sağlayacak momentumu yaratması için bacaklarınızı yukarı doğru ve daha sonra ileri doğru tekmeleyin.";
+
+
+"Parallel Bar Dips"  = "Paralelde Göğüs" ;
+"4 Parallel Bar Dips"= "Öncelikle, hareketin tamamı boyunca başınızı aşağıda tutun ve gövdenizi ileri doğru hareket ettirin. İkinci olarak, dirseklerinizi biraz dışarı doğru açın. Yani dirseklerinizi dışarıda ve vücudunuzdan uzakta tutun. Bu, trisepsten ziyade göğsünüzü kullanmanızı garantileyecektir. Unutmayın, hareketin en üst kısmında tüm göğüs bölgenizi gerçekten sıkıştırmaya odaklanın.";
+
+
+"Cable Crossover Flys"  = "Makarada Göğüs Sıkıştırma" ;
+"5 Cable Crossover Flys" = "Bu egzersiz, iki zıt tarafında da makarası bulunan makaralı kablo makinesinde yapılır. İki makarayı da, yüksek pozisyonda kilitlenecek şekilde yukarıya ayarlayın (eğer bunun nasıl yapılacağından emin değilseniz, antrenman yaptığınız gym salonundaki bir eğitmenden size yardımcı olmasını isteyin). Ayakta dururken, yukarıda duran her bir makarayı el kulplarından tutarak kavrayın. Vücudunuzun alacağı pozisyon dev bir harf gibi olacaktır. Yavaşça ve kontrollü bir şekilde kollarınızı birbirine yaklaştırın. Bunu yaparken sanki dev bir ağaç gövdesine sarılıyormuş gibi hayal edin. Hareketin zirve noktasında, bir saniye kadar sayıp göğüs kaslarınızı gerçekten de birbirine doğru sıkıştırın ve başlangıç pozisyonuna geri dönerek tekrar edin.";
+
+
+"Dumbbell Flys"  = "Yatarak Dambıl Açış"  ;
+"6 Dumbbell Flys" = "Yatarak dambıl açışları yapmak için her elinize göreli olarak daha hafif birer dambıl alın. Dambıl açışlarında hangi ağırlığın size uyduğunu tespit edebilmek için birkaç deneme yapmanız gerekebilir. Hafif bir ağırlıkla başlayarak daha sonra dambıl ağırlığını yukarı çıkarın.  Bir ağırlık sehpasına uzanın ve kollarınız düz bir şekilde dambılları göğsünüz üzerinden yukarı kaldırın. Bu sizin başlangıç pozisyonunuzdur. İki kolunuzu da dışarı doğru geniş bir yay şeklinde, kollarınız tamamen yanlarınıza gelene kadar açın. Kollarınız hafif bükülü olabilir.  Bu dambıl açışlarının “açış” kısmıdır. Dambıllar başlangıç pozisyonuna dönene kadar aynı yayı yukarı doğru takip edin. Bu dambıl açış için bir tekrardır.";
+
+
+"Dumbbell Pullovers"  = "Dambılla Göğüs Yukarı Çekiş" ;
+"7 Dumbbell Pullovers" = "Bu halterle yukarı çekiş egzersizine çok benzer, ancak bu egzersizde halter yerine dambıl kullanırsınız. Düz bir sehpaya sırt üstü düz uzanın. Dirsekleriniz hafif bükülü bir şekilde dambılları göğsünüzün üstünde tutarak başlayın. Dambılları yavaşça arkaya doğru alçaltın, böylece kollarınızı (ve dambılları) kafanızdan olabildiğince uzağa uzatın. Kollarınız ve dambıl aslında kafanızın arkasına/üstüne gidecek ve sehpadan daha aşağı bir pozisyona düşecektir\n\n– bu da size harika bir esneme sağlayacaktır! Dirseklerinizin hafif eğik bir şekilde kilitli olmasına odaklanarak dambılı yavaşça başlangıç pozisyonuna doğru döndürün.";
+
+
+"Push-Ups"  = "Şınavlar"  ;
+"8 Push-Ups" = "Kollarınız düz, avuç içleriniz yere düz basacak şekilde yüzükoyun uzanın ve elleriniz omuz açıklığında (veya daha geniş) olsun. Ayaklarınızı bitişik veya çok hafif açılmış şekilde tutun:\n\n- Nefes alın ve gövdenizi yere yaklaştırmak için dirseklerinizi kırın, böylece belinizin aşırı gerilmesini önlemiş olursunuz.\n\n- Kendinizi kollarınıza doğru gergin pozisyonunuza itin ve hareketi tamamlarken nefesinizi verin.";
+
+
+"Dumbbell Press"  = "Yatarak Dambıl Kaldırma" ;
+"9 Dumbbell Press" = "Sabit durabilmek için bir ayağınız yere basılı bir şekilde sehpaya düz bir şekilde uzanın, kollarınızı yukarı doğru uzatın ve elleriniz birbirine bakacak şekilde dambılları tutun: = Nefes alın ve dambılları göğüs hizasına doğru alçaltın, dirseklerinizi kırın ve elinizi pronasyon (içe bükük) konumuna getirmek için ön kollarınızı döndürün.\n\n- Dambılları yukarı doğru kaldırın ve göğüs kaslarınızdaki gerilimi izole etmek için izometrik bir kasılma yapın; hareketi tamamlarken nefes verin.";
+
+
+"Barbell Bench Press"  = "Yatarak Halter Kaldırma"  ;
+"10 Barbell Bench Press"  = "Ters eğik sehpaya arka üstü uzanın. Halteri yukarıdan aşağı inen bir kavrayışla tutun. Dirseklerinizi vücudunuza yakın tutarken, halteri alt göğüs bölgenize doğru indirin. Halter hareketin sonunda göğsünüze hafifçe dokunmalıdır.";
+
+
+"Pec Deck Flies"  = "Pec Deck Açış" ;
+"11 Pec Deck Flies" = "Makinenin koltuğuna oturun ve dirseklerinizi yastıklara bastırın, ön kol ve bileklerinizi gevşetin:\n\n- Nefes alın ve yastıklara, göğsünüz üzerinde yastıklar birbirine değene kadar güç uygulayın.\n\n- Hareketi tamamlarken nefes verin.";
+
+
+
+"Forearms"  = "Ön kollar" ;
+
+"Wrist Curls"  = "Ön Kol ve Bilek Bükme" ;
+"1 Wrist Curls"="Ön kollarınız kalçalarınız üzerinde duracak şekilde oturun veya sehpaya koyun. Bileklerinizi pasif olarak uzatarak barı aşağıdan yukarı doğru bir kavrayışla tutun:\n\n- Nefes alın ve bileğinizi yukarı doğru bükün.\n\n- Hareketi tamamlarken nefes verin.";
+
+
+"Wrist Curls"  = "Bilek Bükme"  ;
+"2 Wrist Curls" = "Bir sehpaya oturun. Bileklerinizi pasif olarak uzatarak ve bir dambıl kullanarak:\n\n- Nefes alın ve bileğinizi yukarı doğru bükün.\n\n- Hareketi tamamlarken nefes verin.Bu egzersiz bilek ve parmaklarınızdaki fleksörleri çalıştırır.";
+
+"Legs"  = "Bacaklar" ;
+
+"Squats"  = "Çöküşler" ;
+"1 Squats"="Çöküşler, arka sırt bölgenizden eğilmeden vücudunuzu yere doğru çömeltmeyi gerektirir. Bunun yerine, vücudunuzu alçaltmak için bacaklarınızı kullanın ve belinizi doğal bir pozisyonda tutun. Bacaklarınızı kalça açıklığında tutun. Kalçalarınızı geriye doğru itin ve dizlerinizi kırın. Ağırlığınızı ayak parmak kökleriniz yerine, tekrar topuklarınız üzerine verin. Dizleriniz parmak uçlarınızdan daha geride durmalıdır. Dizleriniz 90 derecelik bir bükülmeye sahip olana kadar alçalmaya devam edin. Bir saniyeliğine duraklayın ve daha sonra dizlerinizi ve kalçanızı topuklarınıza basarak uzatın.";
+
+
+"Angled Leg Presses"  = "Açılı Bacak İtişleri"  ;
+"2 Angled Leg Presses"  = "Makineye başınız ve sırtınız yastıklı desteğe gelecek şekilde oturun. Ayaklarınızı, ayak plakasına kalça açıklığında yerleştirin ve topuklarınızın düz bir şekilde basıyor olduğundan emin olun. Topuklar plakaya düz bir şekilde bastığı sürece bacaklarınız dizlerden aşağı yukarı 90 derecelik bir açı oluşturmalıdır. Dizler, ne içeri ne de dışarı bükük olmadan, ayaklarla aynı hizada olmalıdır. Kalçanız koltuktan yukarı kalkmamalıdır. Eğer kalkıyorsa ve bacaklarınız çok keskin bir açıdaysa, o zaman doğru pozisyon elde edilene kadar koltuk ayarı yapılmalıdır. Bu hatalı pozisyonu, dizleriniz gözlerinizin önünde duruyor ve kramp girmiş gibi hissediyorsanız tanırsınız. Yardımcı tutamaçları kavrayın.";
+
+
+"Leg Extensions"  = "Makinede Ön Bacak"  ;
+"3 Leg Extensions" = "İki bacağınızı birden yukarı kaldırarak düz pozisyona getirmek için ağırlıkları kaldırın. Ağırlığı ani bir şekilde yukarı fırlatmayın. Pozisyonu bir saniyeliğine tutun. Ağırlığı yavaşça başlangıç pozisyonuna doğru alçaltın. Hareketi tekrar edin.";
+
+
+"Dumbbell Lunges"  = "Dambılla Öne Bacak Açma" ;
+"4 Dumbbell Lunges" = "Dambıllar yanlarınızda kavranmış bir şekilde ayakta durun. İlk ayakla öne doğru bir adım atım. Önce topuğa, daha sonra ön ayak kısmına basın. Dizinizi ve ön bacak uyluğunuzu, arka bacak yerle neredeyse temas haline gelene kadar kırın. Öndeki bacağın diz ve kalçasını güç uygulayarak uzatarak başlangıç pozisyonuna geri dönün. Bacağı değiştirerek öne açmayı tekrar edin.";
+
+
+"Cable Back Kicks"  = "Makinede Bacak Geri İtiş" ;
+"5 Cable Back Kicks" = "Alt makarada bulunan kablonun sonuna bir kelepçe ekleyin. Kelepçeyi ayak bileğinize takın. Ağırlık yığınının önünde durun ve destek için makinenin kenarına tutunun: Leğen kemiğinizi öne doğru itin. Bacağınızı geriye doğru itin.";
+
+
+"Dumbbell Squats"  = "Dambıllı Çöküşler" ;
+"6 Dumbbell Squats" = "Bacaklarınız hafif aralık şekilde ayakta durun ve kollarınız yanlardan sarkacak şekilde her elinizde bir dambıl tutun:\n\n-Tam karşıya bakın, belinizi hafif yay haline getirin ve aşağı çökün.\n\n- Uyluklarınız zemine paralel olduğunda, başlangıç pozisyonuna dönmek için bacaklarınızı düzleştirin.\n\n- Hareketi tamamlarken nefes verin.";
+
+
+"Front Squats"  = "Ön Çöküşler"  ;
+"7 Front Squats" = "Dambılları ön delta kasınızın karşısında tutun, üst kolları yere paralel olarak tutarken, dirseklerinizi bükün, kollarınızı çapraz yapın, barı kavrayın ve tam karşıya bakın:\n\n- Nefes alın ve aşağı çökün.\n\n- Başlangıç noktasına geri dönün, hareketi tamamlarken nefes verin. ";
+
+
+"Power Squats"  = "Power Çöküşleri"  ;
+"8 Power Squats" = "Bu hareket de geleneksel çöküşler gibidir, ancak ayak parmak uçlarınız karşıyı gösterirken bacaklarınız geniş bir şekilde açılır; bu da özellikle iç uylukları çalıştırır. Bu harekette çalışan kaslar şunlardır:\n\n- kuadriseps\n\n- tüm yaklaştırıcı kaslar (addüktör)\n\n- glutealler\n\n- diz ardı kirişi grubu\n\n- tüm sakrospinalis kasları";
+
+
+"Hack Squats"  = "Hack Çöküşleri" ;
+"9 Hack Squats"  ="Dizlerinizi bükün, sırtınızı yastıklı yüzeye yerleştirin, omuzlarınızı makinenin üstündeki boyunduruğa sıkıştırın ve ayaklarınızı olabildiğince birbirine yaklaştırın:\n\n- Nefes alın,  boyunduruğun yanlarında bulunan stop tutamaçlarını makineyi serbest bırakmak için döndürün ve bacaklarınızı bükün.\n\n- Başlangıç pozisyonuna dönün ve hareketi tamamlarken nefes verin.";
+
+
+"Seated Leg Curls"  =  "Oturarak Arka Bacak" ;
+"11 Seated Leg Curls" =  "Bacaklarınız düz, bilekleriniz rulo yastıkta duracak şekilde makineye oturun. Bacaklarınızı korumaya almak için bacak desteğini uyluklarınızla alçaltın. Her iki tarafta bulunan tutamaçları kavrayın:\n\n- Nefes alın ve rulo yastığı aşağı indirmek için dizlerinizi kırın.\n\n- Hareketi tamamlarken nefes verin.";
+
+
+
+
+
+"Shoulders"  ="Omuzlar" ;
+
+"Back Presses"  ="Geri İtişler" ;
+
+"1 Back Presses" = "Sehpaya oturarak başlayın (sırt desteğiyle). Aşağıdan yukarı doğru bir kavrayışla halteri tutun. Halteri omuzların üstünde sizden hafifçe öne doğru duracak şekilde tutun; dirsekleriniz yere baksın. Halteri yukarı doğru ve başınızın üstünde kaldırın, böylece kollarınız tamamen uzansın. Bir duraklamadan sonra ağırlıkları başlangıç pozisyonuna alçaltın.";
+
+
+"Seated Front Presses"  = "Oturarak Öne İtişler"  ;
+"2 Seated Front Presses" = "Dik duran bir sehpaya oturun. Omuz aralığından biraz daha açık bir şekilde halteri kavrayın. Halteri omuzlarınızın üzerinde bir kol boyu kadar uzanana kadar doğrudan yukarı doğru itin. Halteri omuzlarınızın önüne kadar indirin ve başlangıç pozisyonuna doğru itin.";
+
+
+"Seated Dumbbell Presses"  = "Oturarak Dambıl İtişler" ;
+"3 Seated Dumbbell Presses" = "Sırtınız dik ve düz bir konumda bir sehpaya veya sandalyeye oturun. Her elinize bir dambıl alın ve başparmaklarınız birbirine bakacak şekilde, omuzlarınızın hemen dışında bir hizada tutun. Basitçe, dambılları başınızın üzerine doğru itin ve başlangıç pozisyonuna omuzlarınızın hemen dışında dönün.";
+
+
+"Low-Pulley Lateral Raises"  = "Alt Makara Yana Açışlar" ;
+"4 Low-Pulley Lateral Raises" = "Cable makinesine yakın ve yan tarafında durun, kolunuzu kalçanızın hafif önüne konumlandırın ve tutamacı kavrayın. Nefes alın ve dirseğinizi hafif bükülü tutarak, üst kolunuz omuz hizasına gelen kadar kolunuzu dışa doğru yükseltin. Avuç içleriniz yere doğru baksın. Yavaşça ve hareketi kontrol altında tutarak, kolunuzu başlangıç pozisyonuna doğru indirin.";
+
+
+"Upright Rows"  = "Halter Çeneye Çekiş"  ;
+"5 Upright Rows" = "Dirseklerinizde yönlendirerek barı çenenize doğru kaldırın. Üst kollarınız yere paralel olduğunda, çekmeyi durdurun ve barı kaldırmış olduğunuz yoldan geri indirin. Hareketinizin en üst noktasında, dirsekleriniz bileklerinizden daha yüksekte olmalıdır.";
+
+
+"Dumbbell Rear Deltoid Raises"  = "Omuz (Deltoid) Geri İtiş" ;
+"6 Dumbbell Rear Deltoid Raises" = "Üst eğik bir sehpaya ayaklarınız yerde bitişik olarak oturun. Dambılları yanlara doğru, ellerinizi düz bir şekilde tutarak kaldırın ve yavaşça başlangıç pozisyonuna geri dönün.";
+
+
+"Lateral Raises"  = "Yana Açışlar" ;
+"7 Lateral Raises" = "Ayaklarınız hafif açık ayakta durun. Sırtınızı dik tutun, kollarınız, her elinizde bir dambıl olmak üzere, yanlardan salınsın:\n\n- Dambılları omuz seviyesine yükseltin, dirsekleriniz hafif bükülü olsun.\n\n- Başlangıç pozisyonunuza geri dönün.";
+
+
+"Front Raises"  = "Öne Kaldırışlar" ;
+"8 Front Raises"="Ayaklarınız hafif açık ayakta durun. Dambılları avuç içleriniz yere bakacak şekilde kavrayın, dambılları uyluklarınız üzerine koyun veya hafif yanlarınızda tutun:\n\n- Nefes alın ve yan değiştirerek dambılları omuz yüksekliğine yükseltin.\n\n- Hareketi tamamlarken nefes verin.";
+
+
+"Barbell Front Raises"  = "Halterle Öne Kaldırışlar" ;
+"9 Barbell Front Raises" = "Bacaklarınız hafif açık şekilde ayakta durun. Halteri aşağıdan yukarıya doğru bir tutuşla kavrayın ve halteri uyluklarınız üzerine koyun. Sırtınızı dik tutun ve karın kaslarınızı kasın:\n\n- Nefes alın ve halteri göz seviyesine gelen kadar kollarınızı uzatarak kaldırın.\n\n- Hareketi tamamlarken nefes verin.";
+
+
+"Upright Row"  = "Çene Altı Çekme" ;
+"10 Upright Row"  = " Ayaklarınız hafif açık ayakta durun. Sırtınızı dik tutun. Elleriniz avuç içi açıklığı veya biraz daha geniş bir şekilde alttan yukarı doğru bir tutuşla barı kavrayın:\n\n- Nefes alın ve halteri çenenize değecek noktaya gelene kadar çekin.\n\n- Hareketin en üst noktasında, dirseklerinizi olabildiğince yukarı kaldırın.\n\n- Nefes verin ve halteri yavaşça başlangıç noktasına indirin.";
+
+
+"Low Pulley Bent-Over Lateral Raises"  = "Alt Makarada Eğilerek Yanlara Açış" ;
+"11 Low Pulley Bent-Over Lateral Raises" = "Ayakta dizleriniz hafifçe bükülü halde durun. Belden hafifçe öne eğilerek, sırtınız düz ve kollarınız yandan sarkacak şekilde durun. Kabloları çapraz olacak halde her bir elinizle kavrayın:\n\n- Nefes alın ve kollarınızı omuz seviyesinden hafif yukarı doğru gelene kadar kaldırın.\n\n- Egzersizi tamamlarken nefes verin.";
+
+
+"Low Pulley Front Raises"  = "Alt Makarada Öne Kaldırış" ;
+"12 Low Pulley Front Raises" = "Ayaklarınız hafifçe aralanmış şekilde ayakta durun. Kollarınızı yanlarda tutarak tutamaçları aşağıdan yukarı doğru olacak şekilde tutun:\n\n- Nefes alın ve kollarınızı omuz seviyesine kadar kaldırın.\n\n- Hareketi tamamlarken nefes verin.Bu egzersiz delta kaslarınızı çalıştırır.";
+
+
+"Pec Deck Rear-Delt Laterals "   = "Ön Kol Arka-Delta Yana Açış" ;
+"13 Pec Deck Rear-Delt Laterals" = "Bir ön kol (pec deck) makinesine yüzünüz arka desteğine bakacak ve kollarınız tutmaçları kavrayacak şekilde uzatılmış halde oturun:\n\n- Nefes alın ve dirseklerinizi arkaya doğru ittirin, hareketin sonunda kürek kemiklerinizi bir araya getirin.\n\n- Hareketi tamamlarken nefes verin.";
+
+
+
+"Triceps"  = "Trisepsler";
+
+"Close-Grip Bench Presses"  = "Yatarak Halter Dar Tutuş Kaldırış" ;
+"1 Close-Grip Bench Presses" = "Normal bir serbest ağırlık düz bench press makinesine uzanın. Sırt üstü düz olarak uzanın ve üzerinizdeki halteri çok dar bir tutuşla kavrayın. Kavrayışınız boyunca 15 - 20 cm.lik bir açıklık tutmaya odaklanın. Halteri askıdan indirin ve yavaşça göğsünüzden yaklaşık olarak 7,5 cm yukarısına kaldırın ve daha sonra barı başlangıç pozisyonuna itin. Hareketin tamamı boyunca dirseklerinizin vücudunuza doğru olmasına odaklandığınızdan emin olun.";
+
+
+"Push-Downs"  = "Aşağı İtişler"  ;
+"2 Push-Downs" = "Yüksek - kablo makara kullanarak, düz kısa bir barı aşağıdan yukarı doğru kavrayın. Elleriniz birbirinden yaklaşık olarak 25 cm uzaklıkta olsun. Ön kollarınızı yere paralel olacak şekilde tutun. Ayaklarınızı omuz genişliğinde açık ve dizlerinizi hafif bükülü şekilde tutun. Dirseklerinizi vücudunuza yakın bir konumda kilitleyin ve bileklerinizi düz tutun. TÜM vücudunuzu sabit tutun, barı bacaklarınıza doğru olabildiğince aşağı itin, kollarınızı kilitleyin ve trisepslerinizin tamamen kasıldığını hissedin. Ön kollarınızı vücudunuza yakın tutun. Aynı hareketi kullanarak başlangıç pozisyonuna dönün. Asla dirseklerinizi veya gövdenizi kıpırdatmayın! Dik olarak ayakta durmaya devam edin.";
+
+
+"Triceps Extensions"  = "Triseps Uzatma" ;
+"3 Triceps Extensions" = "Barı göz seviyesinin üstüne hizalamak, kollarınız uzanmış bir pozisyondayken trisepsinizin gerilmesine neden olur. Şimdi, üst kollarınızı uzatılmış olan pozisyonlarında sabit tutarak, dirseklerinizi bükün ve ağırlığın kontrolünüz altında alnınıza doğru alçalmasına izin verin.";
+
+
+"Triceps KickBacks"  = "Triseps Geri İtiş" ;
+"4 Triceps KickBacks" = "Bir sehpaya ağırlığı tuttuğunuz taraftaki bacağınızla rahat bir şekilde çömelin. Şimdi sırtınız dik ve başınız tam karşıya bakacak şekilde ağırlığı (gösterildiği gibi) doksan derecelik bir açıya getirerek başlayın. Dirseklerinizi tamamen sabit tutarak ağırlığı uzatın.";
+
+
+"One-Arm Dumbbell Triceps Extensions"  = "Tek Kol Dambıl Triseps" ;
+
+"5 One-Arm Dumbbell Triceps Extensions" = "Kolunuzu tam olarak uzatarak vücudunuzun yukarısında tutun. Dirseğinizin vücudunuzdan uzağa bakmasına dikkat edin. Ağırlık taşımayan elinizle, diğer elinizi hemen dirseğin altından kavrayın ve destekleyin. Daha sonra, dirseğinizden bükerek, ağırlığı aşağı indirin. Ön kolunuz yere paralel hale geldiğinde, kolunuzu tam olarak uzatma pozisyonuna geri alabilirsiniz.";
+
+
+"Bar Triceps Extensions"  = "Halterle Triseps" ;
+"6 Bar Triceps Extensions" = "Başlamak için, bir halter veya z -barı, elleriniz birbirine omuz açıklığından daha yakın bir şekilde avuç içleriniz ileriyi gösterecek şekilde kavrayarak ayakta durun. Ayaklarınız yaklaşık olarak omuz açıklığında olmalıdır. Şimdi, kollarınız tamamen uzanana kadar halteri başınızın üzerine doğru kaldırın. Dirseklerinizi içerde tutun. Bu sizin başlangıç pozisyonunuzdur. Üst kollarınızı başınıza yakın tutarak ve dirsekleriniz içerde ve zemine dik bir açıyla dururken; ön kollarınız bisepsinize değene kadar direnci yarım dairesel bir hareketle düşürün. İpucu: Üst kollar sabit kalmalı ve sadece ön kollar hareket etmelidir. Bu adımı yaparken nefes alın. Trisepsinizi kullanarak halteri kaldırarak başlangıç pozisyonuna dönün. Bu adımı yaparken nefes verin.";
+
+
+"Dumbbell Triceps Extension"  = "Dambılla Triseps" ;
+"7 Dumbbell Triceps Extension"  = "Düz bir sehpaya her elinizde bir dambıl tutarak ve kollarınız omuz hizasından yukarı doğru tamamen uzatılmış olarak uzanın:\n\n- Nefes alın ve yavaşça kollarınızı bükün.\n\n- Hareketi tamamlarken nefes vererek, başlangıç pozisyonuna geri dönün. Bu egzersiz tüm Triseps başlarını eşit olarak çalıştırır. ";
+
+
+"Triceps Dips"  =  "Sehpada Triseps İniş Kalkış" ;
+"8 Triceps Dips" = "Ellerinizi düz bir sehpanın ucuna, ayaklarınızı ise diğer bir sehpaya yerleştirin. Yaklaşık olarak 90 derecelik bir gövde =bacak açısı sağlayın:\n\n- Nefes alın ve kollarınızı bükün.\n\n- Hareketi tamamlarken nefes vererek, başlangıç noktasına geri dönmek için kollarınızı uzatın.Bu egzersiz trisepsi, pektoralleri ve diğer ön delta kaslarını çalıştırır. ";
+
+
+"Triceps Pushdown"  = "Makinede Triseps Aşağı İtiş" ;
+"9 Triceps Pushdown" = "Elleriniz barda ve dirsekleriniz yanlarda ve yüzünüz makineye doğru ayakta durun:\n\n-  Nefes alın ve kollarınızı düzleştirin, ancak dirseklerinizi yanlardan ayırmayın.\n\n- Hareketi tamamlarken nefes verin.";
+
+
+"One Arm Reverse Pushdown"  = "Tek Kol Ters Aşağı İtiş";
+"11 One Arm Reverse Pushdown" = "Makineye yüzünüz dönük şekilde, tutamacı aşağıdan yukarı doğru kavrayarak ayakta durun:\n\n- Nefes alın ve kolunuzu düzleştirin.\n\n- Hareketi tamamlarken nefes verin.";
+
+
+"Rotating T Extension"="Dönüşlü T Uzatma";
+"16 Rotating T Extension"="1. Şınav pozisyonunda başlayın. Kollarınız düz ve gövdeniz sağlam olsun.\n\n2. Ağırlığınızı sol kolunuza verin, gövdenizi sağa doğru döndürün ve sağ kolunuzu vücudunuz bit T harfi oluşturacak şekilde tavana doğru kaldırın.\n\n3. Üç saniye tutun ve daha sonra başa geri dönün ve diğer tarafla hareketi tekrar edin. Bu, bir tekrar demektir.";
+"Bodyweight Hip Extension"="Vücut Ağırlığı Kalça Uzatma";
+"15 Bodyweight Hip Extension"="1. Yere uzanın. Bir ayağınız yere düz bir şekilde basarken, diğer bacağınız düz olarak uzansın. Pozisyonunuzu sabitlemek için ellerinizi kullanın.\n\n2. Düz olan bacağınızı belinizin alt kısmı yerden kalkana kadar yukarı kaldırın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün. ";
+"Superman"="Süpermen";
+"17 Superman"="1. Dizleriniz kalçalarınızın altında kalça mesafesinde açık olarak dört ayak üzerinde durun ve ellerinizi de omuz açıklığı mesafesinde omuzlarınızın altına koyun. Omurganızı doğal bir pozisyona getirin. Karın kaslarınızı omurganıza doğru çekerek çekirdek gövdenizi aktifleştirin.\n\n2. Herhangi bir şekilde yanlara doğru hareket etmeden ve karnınız içeri doğru çekili vaziyette, nefes verin ve yavaşça birbirine zıt yönde olan bir kolunuzu ve bacağınızı yere paralel olana kadar yükseltin. Ayarlamış olduğunuz tempoya uymaya dikkat edin.\n\n3. Nefes alın ve kolunuzu ve bacağınızı yavaşça başlangıç pozisyonuna geri döndürün.\n\n4. Arzu edilen tekrar sayısı kadar tekrar edin; daha sonra egzersizi diğer kolunuzu ve bacağınızı kullanarak tekrar edin.";
+"Bodyweight Superman"="Vücut Ağırlığı Süpermen";
+"11 Bodyweight Superman"="1. Yere yüz üstü uzanın. Kollarınızı önünüzde tamamen uzatın. \n\n2. Bacaklarınızı ve üst gövdenizi tavana doğru yükseltin. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"Dumbbells Bent Over Row"="Dambılla Eğilerek Çekiş";
+"12 Dumbbells Bent Over Row"="1. Bir çift dambılı kavrayın ve belinizde ileri doğru tutun ancak sırtınız düz olsun. Kollarınızı, avuç içleriniz birbirine bakacak şekilde aşağı doğru uzatın.\n\n2. Dambılları göğsünüzün yanlarından yukarı doğru kaldırın ve belinizi tüm hareket boyunca sabit ve düz bir şekilde tutarken dambılları başlangıç pozisyonuna doğru uzatın.";
+"Seated Bent Over Row"="Oturarak Eğilerek Çekiş";
+"14 Seated Bent Over Row"="1. Bir sehpanın ucuna dizleriniz bükülü, ayaklarınız yere düz basılı olarak oturun ve her iki yanınızda yere birer dambıl koyun. Belinizden, sırtınız neredeyse yere paralel olana kadar mümkün olduğunca öne doğru eğilin – göğsünüz dizlerinize değmeli. Aşağı doğru ulaşın, her bir elinize bir ağırlık alın ve kollarınızın düz olarak aşağı sarkmasına izin verin.\n\n2. Ağırlıklarınızı, avuç içleriniz içeri doğru bakacak şekilde döndürün.\n\n3. Kollarınız dışında herhangi bir yerinizi oynatmadan, yavaşça dambılları göğsünüzün yanlarından gövdenize yakın bir şekilde yukarı doğru çekin.\n\n4. Bir saniyeliğine tutun ve daha sonra ağırlıkları aşağı doğru geri indirin.";
+"Stability Ball Hyperextension"="Denge Topu Hiper Uzatma";
+"13 Stability Ball Hyperextension"="1. Denge topu üzerine yüz üstü uzanın. Vücudunuzun tamamı denge topunun üzerinde olmalıdır. Kollarınızı başınızın üzerinde tutun.\n\n2. Göğsünüz artık denge topuyla temas etmeyene kadar üst gövdenizi yukarı doğru bükün. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"T-Bar Bent Over Row"="T-Bar Eğilerek Çekiş";
+"15 T-Bar Bent Over Row"="1. Bir T-Bar Çekiş makinesinin önüne bacaklarınızı iki yana açarak geçin ve tutmaçları ellerinizle yukarıdan aşağı inen bir kavrayışla tutun. Ayaklarınızın omuz mesafesi açıklığında ve gösterildiği gibi dizleriniz hafif bükülü bir şekilde ayakta durduğunuzdan emin olun.\n\n2. Sırtınızı düz tutun ve belinizi üst gövdeniz dikey düzleme yaklaşık olarak 45 derece eğiklikte olana kadar eğin; T-bar da hemen omuzlarınızın altında bir kol mesafesinde asılı olsun.\n\n3. Daha sonra, kürek kemiklerinizi birbirine doğru sıkıştırarak, barı alt göğsünüze doğru size olabildiğince yakın olacak şekilde kaldırın. Duraklayın, daha sonra barı yavaşça başlangıç pozisyonuna geri indirin.";
+"Dumbbell Biceps Curl (Hammer Grip On Bench)"="Dambıllı Biseps Bükme (Sehpada Çekiç Kavrayışı)";
+"10 Dumbbell Biceps Curl (Hammer Grip On Bench)"="1. Sırtınız düz bir şekilde ayakta dururken, bir dambılı çekiç kavrayışıyla tutun. Üst kolunuzu eğimli sehpanın üzerinde dinlendirin.\n\n2. Üst kollarınızı yerinde tutarak dambılı yukarı doğru kaldırın. Bir saniyeliğine tutun. Dambılı başlangıç pozisyonuna geri indirin.";
+"Dumbbell Biceps Curl (Hammer Grip Standing)"="Dambıllı Biseps Bükme (Ayakta Çekiç Kavrayışı)";
+"11 Dumbbell Biceps Curl (Hammer Grip Standing)"="1. Sırtınız düz bir şekilde, dambılları çekiç kavrayışıyla yanlarınızda tutun. Kollarınızı düz bir şekilde tutun.\n\n2. Üst kollarınızı sabit tutarak dambılları yukarı doğru kaldırın. Hareket esnasında omuzlarınızı kullanmaktan kaçının. \n\n3. Bir saniyeliğine tutun ve başlangıç pozisyonuna geri dönün.";
+"Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="Dambıllı Biseps Bükme (Tek Kolla Aşağıdan Yukarı Doğru Kavrayış Konsantrasyonu)";
+"12 Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="1. Dizlerinizi hafifçe bükün. Sırıtınız eğilmiş ve düz olsun. Dambıllardan birini aşağıdan yukarı doğru kavrayın. Dirseğinizin iç kısmını uyluğunuzun iç kısmına konumlandırın.\n\n2. Üst kolunuzu sabit tutarken dambılı yukarı kaldırın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"Dumbbell Biceps Curl (Underhand Grip On Bench)"="Dambıllı Biseps Bükme (Sehpada Aşağıdan Yukarı Doğru Kavrayış)";
+"13 Dumbbell Biceps Curl (Underhand Grip On Bench)"="1. Sırtınız düz olarak ayakta dururken, dambıllardan birini aşağıdan yukarı doğru kavrayarak tutun. Üst kolunuzu eğimli sehpanın üzerinde dinlendirin.\n\n2. Üst kollarınızı sabit bir şekilde tutarken dambılı yukarı kaldırın. Bir saniyeliğine tutun. Dambılı başlangıç pozisyonuna doğru geri indirin.";
+"Dumbbell Biceps Curl Seated (Hammer Grip)"="Oturarak Dambıllı Biseps Bükme (Çekiç Kavrayışı)";
+"14 Dumbbell Biceps Curl Seated (Hammer Grip)"="1. Sırtınız düz bir şekilde otururken, dambılların yanlarınızdan çekiç kavrayışıyla aşağı sarkmasına izin verin. Kollarınızı düz tutun.\n\n2. Üst kollarınızı sabit bir şekilde tutarken dambılları yukarı kaldırın. Hareket esnasında omuzlarınızı kullanmaktan kaçının. Bir saniyeliğine tutun, daha sonra başlangıç pozisyonuna geri dönün.";
+"Dumbbell Biceps Curl Seated (Underhand Grip)"="Oturarak Dambıllı Biseps Bükme (Aşağıdan Yukarı Doğru Kavrayış)";
+"15 Dumbbell Biceps Curl Seated (Underhand Grip)"="1. Sırtınız dik bir şekilde otururken, dambılların yanlarınızdan aşağıdan yukarı doğru bir kavrayışla sarkmalarına izin verin. Kollarınızı düz tutun.\n\n2. Üst kollarınızı sabit bir şekilde tutarken dambılları yukarı doğru kaldırın. Hareket esnasında omuzlarınızı kullanmaktan kaçının. Bir saniyeliğine tutun, daha sonra başlangıç pozisyonuna geri dönün.";
+"Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="Denge Topu Dambıllı Biseps Bükme (Çekiç Kavrayışı)";
+"16 Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="1. Dambıllardan birini çekiç kavrayışı ile tutun. Denge topunun arkasında çömelin. Üst kolunuzu denge topu üzerinde konumlandırın.\n\n2. Üst kolunuzu sabit bir şekilde tutarken dambılı yukarı doğru kaldırın. Hareket esnasında omuzlarınızı kullanmaktan kaçının. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="Denge Topu Dambıllı Biseps Bükme (Aşağıdan Yukarı Doğru Kavrayış)";
+"17 Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="1. Dambıllardan birini aşağıdan yukarı doğru kavrayışla tutun. Denge topunun arkasında çömelin. Üst kolunuzu denge topu üzerinde konumlandırın.\n2. Üst kolunuzu sabit bir şekilde tutarken dambılı yukarı doğru kaldırın. Hareket esnasında omuzlarınızı kullanmaktan kaçının. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"Stability Ball Dumbbell Biceps Curl Seated"="Oturarak Denge Topu Dambıllı Biseps Bükme";
+"18 Stability Ball Dumbbell Biceps Curl Seated"="1. Bir denge topunun üzerinde dik bir pozisyonda otururken, kollarınız yanlarınızdan tamamen uzanana kadar bir çift dambıl tutun. Avuç içleriniz resimde gösterildiği gibi dışarı doğru bakıyor olmalıdır.\n\n2. Kolunuzun pozisyonunuz değiştirmeden dambılları omuz seviyesine bakacak şekilde yavaş yavaş kollarınızı dirseklerden bükün. Kol, herhangi bir yöne doğru hareket etmeden, yalnızca dirsekten bükülü olmalıdır. Dambılları kaldırırken bileklerinizi döndürmeyin.";
+"Stability Ball Dumbbell Biceps Preachear Curl"="Denge Topu Dambıllı Biseps Preacher Bükme";
+"19 Stability Ball Dumbbell Biceps Preachear Curl"="1. Bir topun önüne, yere bir çift dambıl yerleştirin. Topun doğrudan arkasında çömelin ve dambılları aşağıdan yukarı doğru bir kavrayışla tutmak için kollarınızı topun üzerinden sarkıtın. Ön kollarınızı aşağı bakar bir şekilde topun üzerine triseplerinizi kuvvetlendirirken ağırlığın topuklarınıza doğru gitmesini sağlayın.\n\n2. Ön kollarınız neredeyse yere göre dik bir açıya gelene kadar sırtınızı düz tutarak ağırlıkları yukarı doğru bükün. ";
+"Underhand Grip Prone On An Incline Bench"="Eğimli Sehpada Yüzüstü Yukarıdan Aşağı Doğru Kavrayış";
+"20 Underhand Grip Prone On An Incline Bench"="1. Eğimli sehpada yüz üstü uzanın. Dambıllar her iki tarafınızdan aşağıdan yukarı doğru bir kavrayışla sarksınlar. Kollarınızı düz tutun.\n\n2. Ağırlıkları yavaşça tamamen yukarı doğru bükün. El bilekleriniz her zaman sabit olmalıdır, onları döndürmeye karşı direnç gösterin ve ön kollarınızı yere dik olarak tutun.";
+"Barbell Calf Raise (Seated)"="Halterli Baldırla Yükseliş (Oturarak)";
+"4 Barbell Calf Raise (Seated)"="1. Sırtınız düz bir şekilde otururken, halteri uyluklarınızın alt kısmında ortalayın. Herhangi bir halter hareketini sabitlemek için ellerinizi kullanın.\n\n2. Parmak uçlarınıza yükselerek baldırlarınızla yükselin. Bir saniyeliğine tutun. Baldırlarınızı yere geri indirin.";
+"Barbell Calf Raise With Single Leg (Seated)"="Tek Bacakla Halterli Baldırla Yükseliş (Oturarak)";
+"5 Barbell Calf Raise With Single Leg (Seated)"="1. Sırtınız düz bir şekilde otururken, halteri uyluklarınızdan birinin alt kısmında ortalayın. Herhangi bir halter hareketini sabitlemek için ellerinizi kullanın.\n\n2. Parmak uçlarınıza yükselerek baldırınızla yükselin. Bir saniyeliğine tutun. Baldırlarınızı yere geri indirin.\n\n3. Hareketin aynısını diğer bacak üzerinde tekrar edin.";
+"Dumbbell Calf Jump"="Dambıllı Baldırla Sıçrama";
+"6 Dumbbell Calf Jump"="1. Ayaklarınız kalça mesafesi açıklığında ayakta durun. Bir çift dambılı kavrayın ve bunları yanlarınızda kol mesafesinde tutun.\n\n2. Dizlerinizi yaklaşık olarak 45 derece eğilene kadar bükün ve sıçrayabildiğiniz kadar yükseğe sıçrayın. Sıçrama esnasında parmak uçlarınız yere doğru işaret etsin.\n\n3. Yere indiğinizde dizlerinizin 45 derece bükülmesine izin verin ve daha sonra anında tekrar sıçrayın.";
+"Dumbbell Calf Raise (Seated)"="Dambıllı Baldırla Yükseliş (Oturarak)";
+"7 Dumbbell Calf Raise (Seated)"="1. Sırtınız düz bir şekilde otururken, her bir dambılı uyluklarınızın alt kısmında ortalayın. Herhangi bir hareketi sabitlemek için ellerinizi kullanın.\n\n2. Parmak uçlarınıza yükselerek baldırınızla yükselin. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"8 Standing Barbell Calf Raise"="1. Sırtınız düz bir şekilde ayakta dururken, halteri omuzlarınızın üzerine yerleştirin. Halteri yukarıdan aşağı doğru bir kavrayışla tutun. Eller arasındaki mesafe omuz açıklığından daha geniş olmalıdır.\n\n2. Parmak uçlarınıza yükselerek baldırınızla yükselin. Bir saniyeliğine tutun. Baldırlarınızı yere geri indirin.";
+"Standing Barbell Calf Raise"="Ayakta Dambıllı Baldırla Yükseliş";
+"9 Standing Dumbbell Calf Raise"="1. Ayaklarınız birbirinden kalça açıklığı mesafede olacak şekilde dik olarak ayakta durun; elleriniz yanlarda, he biri ile ağır bir dambıl tutun.\n\n2. Sırtınızı düz bir şekilde tutarak, her bir ayağınızın parmak ucuna yavaşça yükselin, topuklarınızı kaldırabildiğiniz kadar yükseğe kaldırın.\n\n3. En tepede duraklayın, daha sonra yavaşça topuklarınızı yere geri indirin.";
+"Standing Dumbbell Calf Raise"="Tek Kollu Şınav";
+"Single Arm Pushup"="";
+"19 Single Arm Pushup"="1. Standart şınav pozisyonunu farz edin: yüz üstü, ayaklar bitişik, eller yaklaşık olarak omuz mesafesi açıklığında ve hemen omuzların altında yere basıyor. Ayaklarınızı omuz açıklığı mesafesinden biraz daha fazla bir şekilde birbirinden uzaklaştırın.\n\n2. Bir elinizi kaldırın ve sırtınızın üzerinde dinlendirin.\n\n3. Diğer elinizi kullanarak, vücudunuzu sırtınız düz bir biçimde kalacak şekilde yerden yukarı doğru itin. Hareketin en üst seviyesinde, tam da dirseğinizi önce durun.\n\n4. Vücudunuzu tek elinizle aşağı doğru indirin. Dengeyi sağlamak için gövdenizi, yeri iten kolunuzdan hafifçe uzağa döndürün.\n\n5. Çeneniz yerden yaklaşık olarak bir yumruk mesafesi genişliğine gelen kadar vücudunuzu indirmeye devam edin. Gövdenizi açıladığınız için, çeneniz harekete başlamadan önce sırtınıza aldığınız diğer elinizin olması gereken yere yakın bir yerde olacaktır. Bu, bir tekrar demektir.\n\n6. Birinci adıma geri dönün ve diğer kolunuzu kullanarak tekrar edin.";
+"Decline Pushup"="Aşağı İnerek Şınav";
+"12 Decline Pushup"="1. Ayaklarınızı sehpaya veya herhangi yüksek bir basamağa yerleştirin ve standart şınav pozisyonunu alın.\n\n2. Göğsünüz neredeyse yere değene kadar vücudunuzu alçaltın, duraklayın, daha sonra kendinizi başlangıç pozisyonuna geri itin. Tüm vücudunuzda düzgün bir form elde edin ve herhangi bir zaman kalçalarınız düşmesin; karın kaslarınızı kasarak çekirdek gövdenizi katı tutun ve ağırlığınızı ayak parmak uçlarınıza verirken bacaklarınızı düzeltin.";
+"Dive Bomber Pushup"="Bombacı Şınavı";
+"13 Dive Bomber Pushup"="1. Şınav pozisyonu alın ancak ellerinizin daha öne doğru uzandığından ve kollarınızın omuz açıklığı mesafesinden daha geniş olduğundan emin olun. Ayaklarınızı olabildiğince ileri doğru hareket ettirirken kalçalarınızı yükseltin. Hareket boyunca sırtınızı ve bacaklarınızı düz tutun.\n\n2. Göğsünüzü, neredeyse yere değecek kadar ileri ve aşağı doğru indirin. Omuzlarınız ellerinizle aynı hizada olmalıdır.\n\n3. Duraklayın, daha sonra kalçalarınızı aşağı doğru itin ve kollarınızı düzleştirin. Tekrar duraklayın, daha sonra başlangıç pozisyonuna geri dönene kadar hareketi ters yöne doğru devam ettirin.";
+"Dumbbell Floor Chest Press"="Dambıllı Yerde Göğüs İtiş";
+"14 Dumbbell Floor Chest Press"="1. Yere uzanın. Dambılları yukarıdan aşağı doğru bir kavrayışla tutun. Dambıllar tavana doğru bakar durumdayken üst kollarınız yerde dinleniyor vaziyette olsun.\n\n2. Kollarınızı tavana doğru tamamen uzatın. Bir saniyeliğine tutun. Sırtınızın tamamını hareket boyunca sehpada tutun. Herhangi bir bacak hareketinden kaçının. Başlangıç pozisyonuna geri dönün.";
+"Dumbbell Pushup"="Dambıllı Şınav";
+"15 Dumbbell Pushup"="1. Zeminde, önünüzde omuz açıklığı mesafesinde iki dambıl yerleştirin, aşağı çömelin ve bunlara tutunun. Kollarınızı düz, bacaklarınızı uzatmış, ayaklarınızı bitişik tutun ve dirseklerinizi kilitleyin.\n\n2. Dirseklerinizi eğerek vücudunuzu yere doğru alçaltın ve sırtınız düz bir şekilde kalsın.\n\n3. Kollarınız düz olana ve dirseklerinizin kilidini açana kadar kendinizi yukarı doğru itin. Tekrarlayın.";
+"Incline Pushup"="Eğimli Şınav";
+"16 Incline Pushup"="1. Ellerinizi bir sehpanın üzerine yerleştirin ve standart şınav pozisyonu alın.\n\n2. Göğsünüz neredeyse yere değene kadar vücudunuzu alçaltın, duraklayın, daha sonra kendinizi başlangıç pozisyonuna doğru geri itin. Kalçalarınızın herhangi bir anda sarkmasına engel olarak, gövdenizi karın kaslarınızı sıkarak katı bir halde tutun ve düzgün bir postür elde edin; ağırlığınız parmak uçlarına aktarılırken bacaklarınızı düzleştirin. Tekrarlayın.";
+"Medicine Ball Pushup (Alternating)"="Jimnastik Topu Şınavı (Değiştirerek)";
+"17 Medicine Ball Pushup (Alternating)"="1. Elleriniz yerde olmak üzere uzanın. Ellerinizi göğsünüzün alt kısmının yanında konumlandırın. Elleriniz arasındaki mesafe omuz açıklığından biraz daha geniş olmalıdır. Kendinizi kollarınızla yukarı kaldırın; öyle ki yalnızca elleriniz ve parmak uçlarınız yerde kalsın. Sırtınız düz olsun. Jimnastik topunu elinizin altına yerleştirin. Elleriniz hafifçe dışarıya baksın.\n\n2. Dirseklerinizi bükerek göğsünüz yerden santimetrelerce uzakta olana kadar kendinizi aşağı doğru alçaltın. Dirsekleriniz ayaklarınıza doğru bükülü olmalıdır. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.\n\n3. Topu diğer elinize doğru yuvarlayın ve aynı hareketleri tekrarlayın.";
+"Modified Pushup"="Modifiye Şınav";
+"18 Modified Pushup"="1. Dört ayak üzerinde durun ve ellerinizi omuz açıklığı mesafesinden birazcık daha geniş olarak yere koyun. Ayak bileklerinizi resimde gösterildiği gibi arkanızda çapraz konuma getirin.\n\n2. Göğsünüz neredeyse yere değene kadar vücudunuzu alçaltın, duraklayın, daha sonra kendinizi başlangıç pozisyonuna doğru geri itin. Karın kaslarınızı kasarak çekirdek gövdenizin katı olmasını sağlayın.";
+"Stability Ball Flat Dumbbell Chest Press"="Denge Topu Düz Dambıllı Göğüs İtiş";
+"21 Stability Ball Flat Dumbbell Chest Press"="1. Denge topu üzerine sırt üstü yatın. Ayaklarınız yere bassın. Dambılları yukarıdan aşağı bir kavrayışla tutun. Dambılları göğsünüzün yanında tutun.\n\n2. Kollarınızı önünüzde tamamen uzatın. Kısa bir süre için tutun. Başlangıç pozisyonuna geri dönün.";
+"Stability Ball Flat Dumbbell Fly"="Denge Topu Düz Dambıl Açış";
+"20 Stability Ball Flat Dumbbell Fly"="1. Denge topunun üzerine sırt üstü yatın. Ayaklarınız yerde olsun. İki dambılı çekiç kavrayışıyla tutun. Kollarınızı göğsünüzün yukarısında tamamen uzatın.\n\n2. Dirseklerinizde hafif bir bükülme sağlayarak, dambıllar gövdenizin üst kısmının yanına gelene kadar her iki tarafta dambılları alçaltın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"Stability Ball Pushup"="Denge Topu Şınavı";
+"22 Stability Ball Pushup"="1. Standart şınav pozisyonu alın. İşleri daha da zorlaştırmak için, kaval kemiklerinizi ve ayaklarınızı topun üzerine yerleştirin. Vücudunuzu ayaklarınızın pençeleri ile ve ellerinizle desteklemeyi unutmayın ve ellerinizi avuç içleriniz yere bakacak şekilde düz bir şekilde omuz açıklığı mesafesinde yere koyun.\n\n2. Gövdenizi, göğsünüz yerden birkaç santim yüksek olana kadar alçaltın. Kendinizi başlangıç pozisyonuna geri itin.";
+"Weighted Pushup"="Ağırlıklı Şınav";
+"23 Weighted Pushup"="1. Standart şınav pozisyonunu alın, elleriniz omuzlarınızın altında olsun. Ancak bu sefer bir partnerinizden kürek kemiklerinizin üzerine bir ağırlık levhası yerleştirmesini isteyin.\n\n2. Göğsünüz yere değene kadar dirseklerinizi bükerek alçalırken, vücudunuzu düz tutun.\n\n3. Duraklayın, daha sonra kendinizi yukarı doğru itin.";
+"Dumbbell Wrist Twist"="Dambıllı Bilek Döndürme";
+"3 Dumbbell Wrist Twist"="1. Kollarınız yanda duracak şekilde her bir elinizde hafif bir dambılla ayakta durun, avuç içleriniz arkanıza bakıyor olsun. Ön kollarınız yere paralel olana kadar ağırlıkları bükmek için kollarınızı bükün. Bu başlangıç pozisyonudur.\n\n2. Bilekleriniz tavana bakana kadar döndürün, daha sonra bilekleriniz tekrar yere bakana kadar geri döndürün. Bu, bir tekrardır.";
+"Standing Wrist Curl"="Ayakta Bilek Döndürme";
+"4 Standing Wrist Curl"="1. Kollarınız düz bir şekilde, aşağıdan yukarı doğru bir kavrayışla arkadan bir halteri tutun. Halteri, uzatılmış parmaklarınızda salınacak şekilde sarkıtın.\n\n2. Halteri olabildiğince yükseğe kaldırmak için bileklerinizi kasın.\n\n3. Halteri alçaltmak için hareketi tersine yapın.";
+"Barbell Hack Squat"="Halterli Hack Çöküşleri";
+"10 Barbell Hack Squat"="1. Omuz açıklığı mesafesinde ayakta dik olarak durun. Halteri yukarıdan aşağı doğru bir kavrayışla tutun. Halteri diz ardı kirişlerinizin arkasına yerleştirin. Elleriniz arasındaki mesafe omuz açıklığından daha geniş olmalıdır.\n\n2. Dizlerinizi bükerek kendinizi alçaltın. Hareketin tamamı boyunca sırtınızı düz tutun. Uyluklarınız yere paralel olana kadar veya halter yere değdiğinde durun. Başlangıç pozisyonunuza geri dönerken sırtınızın alt kısmıyla enerji üretin.";
+"Barbell Lunge"="Halterli Hamle";
+"12 Barbell Lunge"="1. Sırtınızın üst kısmına bir halter yerleştirerek başlayın, omuz açıklığınızdan biraz daha geniş bir tutuşla yukarıdan aşağı inen bir kavrayışla halteri tutun.\n\n2. Ayaklarınız birbirinde yaklaşık olarak 20 cm açık bir şekilde ayakta durun, ayak parmak uçlarınız ileriyi işaret etsin.\n\n3. Karın kaslarınızı içeri çekili ve üst gövdeniz dik bir halde ileri doğru (40-60 cm) bir adım atın.\n\n4. Çömelir gibi yavaşça bir dizinizi alçaltırken, diğer dizinizi de 90 derecelik açıda tutun, dizinizin yere değmesine izin vermeyin.\n\n5. Vücudunuzu hemen yere kadar alçaltın ve başlangıç pozisyonuna dönmeden önce kısa bir an için duraklayın. Diğer bacağınızla tekrar edin.";
+"Barbell Squat (Assisted)"="Halterli Çöküş (Destekli)";
+"13 Barbell Squat (Assisted)"="1. Arkanızda düz bir sehpa varken dik bir şekilde ayakta durun. Ayaklarınız omuz açıklığında olsun. Halteri omuzlarınızın arka kısmına yerleştirin. Halteri yukarıdan aşağı inen bir kavrayışla tutun. Elleriniz arasındaki mesafe omuz açıklığı mesafesinden daha geniş olmalıdır. Ayaklarınızı hafif dışarı doğru bakacak şekilde ayarlayın.\n\n2. Dizlerinizi bükerek kendinizi alçaltın. Hareketin tamamı boyunca sırtınız düz olsun. Uyluklarınız yere paralel olduğunda veya arkanız sehpaya değdiğinde durun. Başlangıç pozisyonunuza geri dönerken sırtınızın alt kısmıyla enerji üretin.";
+"Barbell Squat Overhead"="Baş Üzerinden Halterli Çöküş";
+"14 Barbell Squat Overhead"="1. Ayaklarınız omuz açıklığı mesafesinde açık olarak ayakta dik bir şekilde durun. Halteri yukarıdan aşağı doğru bir kavrayışla tutun. Elleriniz arasındaki açıklık omuz mesafesinden daha geniş olmalıdır. Ayaklarınızı hafif dışarı doğru bakacak şekilde ayarlayın. Halteri başınızın üzerine kollarınız tamamen uzatılmış olarak kaldırın.\n\n2. Dizlerinizi bükerek kendinizi alçaltın. Sırtınız hareketin tamamı boyunca düz olacaktır. Uyluklarınız yere paralel olduğunda durun. Başlangıç pozisyonunuza geri dönerken sırtınızın alt kısmıyla enerji üretin.";
+"Bench Jump"="Sehpada Sıçrama";
+"15 Bench Jump"="1. Bir sehpanın önünde ayakta durun.\n\n2. Sehpanın üzerine sıçrayın ve anında başlangıç pozisyonunuza geri inerek yere sıçrayın.\n\n3. Birkaç defa tekrarlayın.";
+"Bulgarian Split Squat"="Bulgar Split Çöküşü";
+"16 Bulgarian Split Squat"="1. Bir sehpanın yaklaşık 40-60 cm önünde ayakta durun, her bir elinizde bir dambıl olsun. Sağ ayağınızı arkaya doğru uzatın ve ayağınızın üst kısmını sehpaya yerleştirin.\n\n2. Yavaşça sol bacağınızı bükerken ve kendinizi bir hamle pozisyonuna doğru alçaltırken; sırtınızı dik ve başınızı yukarıda tutun. Sol uyluğunuz yaklaşık olarak yere paralel olduğunda kendinizi alçaltmayı durdurun.\n\n3. Sol bacağınız tekrar düz olana kadar kendinizi yavaşça yukarı itin ve tekrarlayın. Bacaklarınızı değiştirmeyi ve diğer bacağınızı da çalıştırmayı unutmayın.";
+"Bulgarian Split Squat (No Weights)"="Bulgar Split Çöküşü (Ağırlıksız)";
+"17 Bulgarian Split Squat (No Weights)"="1. Bir ayağınızı bir sandalyenin kabaca 90 cm önünde yere koyun ve diğer ayağınızı resimde gösterildiği gibi arkanızda bulunan bir sandalyede dengeleyin. Elleriniz başınızın arkasında olmalıdır. \n\n2. Arka bacağınızın dizi yerden birkaç santim yüksekte kalana kadar iki dizinizi bükerek alçalın ve öndeki ayağınızı dengede kalmak için kullanın. Ön bacağınız ise kabaca 90 derece bükülmüş olsun. Vücudunuzun geri kalan kısmı düz bir çizgi oluşturmalıdır. Seti bitirin, daha sonra bacaklarınızın pozisyonunu değiştirin ve tekrarlayın.";
+"Dumbbell Side Lunge"="Dambıllı Yan Hamle";
+"18 Dumbbell Side Lunge"="1. Dik bir şekilde ayakta durarak, kollarınız aşağı uzatılmış şekilde bir çift dambılı elinizde tutun.\n\n2. Yana bir adım atın ve gövdenizi hafifçe ileri doğru eğerken vücudunuzu alçaltın. Sabit olan bacağınızı hareket boyunca düz tutun.\n\n3. Eğilmiş olan dizinizi başlangıç pozisyonuna dönmek için itin. Diğer bacağınızla hareketi tekrar edin.";
+"Good Morning"="Günaydın";
+"19 Good Morning"="1. Bir halteri yukarıdan aşağı doğru bir kavrayışla sırtınızın üst kısmına yerleştirin, halter ensenizin üzerinde durmasın. Ayaklarınızı omuz açıklığı mesafesinde açın ve sırtınızı dik tutarken dizlerinizi hafifçe bükün. \n\n2. Kalçalarınızı, göğsünüzü alçaltmak için kullanarak ve sırtınızın alt kısmındaki doğal yayı koruyarak yavaş yavaş öne doğru eğilin. Başınızı yukarıda tutun ve dizlerinizin açısını yaklaşık olarak aynı açıda.\n\n3. Üst gövdenizi başlangıç pozisyonuna doğru geri kaldırın.";
+"One Arm Side Deadlift"="Tek Kolla Yana Deadlift";
+"20 One Arm Side Deadlift"="1. Yerde duran bir halterin yanında ayakta durun.\n\n2. Barı merkezinden yukarıdan aşağı doğru bir kavrayışla tutun. \n\n3. Bir çökme yaparmış gibi aşağı doğru çömelin, böylece uyluklarınız yerle paralel olsun. \n\n4. Vücudunuzu düzleştirirken bacaklarınızı yavaşça uzatın, yükselirken karın kaslarınızı içinize çekin.";
+"Single Leg Squat"="Tek Bacaklı Çöküş";
+"21 Single Leg Squat"="1. Ayaklarınız omuz açıklığı mesafesinde, ayakta durun. Daha güçlü veya baskın olan bacağınızı olabildiğince önünüzde yukarı kaldırın.\n\n2. Midenize hava çekin ve daha sonra kalçalarınızı arkaya itin ve gövdenizi olabildiğince dik tutarak olabildiğince aşağı çökün. Eğer o kadar aşağı inebilirseniz, önde duran bacağınızın topuğu çöküşün sonunda yere değebilir.\n\n3. Başlangıç pozisyonuna geri dönün ve nefes verin. Tekrarlarınızı baskın olmayan bacağınızla yapın ve daha sonra baskın olan bacağınızla tekrarlayın.";
+"Arnold Press"="Arnold Press";
+"14 Arnold Press"="1. Düz bir sehpaya oturun ve bir çift dambılı omuz seviyenizde tutun. Avuç içleriniz içeri doğru bakmalı ve dirsekleriniz de yanları işaret etmelidir.\n\n2. Her iki bileğinizi de avuç içleriniz sizden uzağa bakacak şekilde döndürün. Aynı anda, kollarınızı başınızın üzerinde tamamen uzatın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"Barbell Front Raise"="Halterli Öne Kaldırma";
+"15 Barbell Front Raise"="1. Halteri tam bir yukarıdan aşağı doğru omuz açıklığı mesafesinde bir kavrayışla tutun ve halter uyluklarınızın önünde sarkar biçimde ayakta durun. Ayaklarınız omuz açıklığı mesafesinde açık olmalı ve dizleriniz hafif bükülü olmalı. Karın kaslarınızı içeri çekin tüm üst gövde kaslarınızı sıkıştırın ve dirseklerinizi hafifçe bükün.\n\n2. Kollarınız yere paralel olana kadar halteri önünüzde kaldırın.\n\n3. Duraklayın, daha sonra başlangıç pozisyonuna dönün.";
+"Dumbbell Lateral Raise With Arms Bent"="Kollar Bükülü olarak Dambıllı Yana Kaldırış";
+"16 Dumbbell Lateral Raise With Arms Bent"="1. Bacaklarınızı omuz açıklığı seviyesinde tutun. Elleriniz yanlarınızdan aşağı doğru sarkmalı.\n\n2. Kollarınızı tamamen düz tutarak; dambılları yavaşça dışarı ve yukarıya omuz hizanıza kadar kaldırın; aynı zamanda kollarınızı 90 derecelik bir açı olana kadar bükün ve ön kollarınız vücudunuza paralel olsun. Avuç içleriniz yere doğru bakıyor olsun.\n\n3. Dirseklerinizi bükülü tutarak, yavaşça başlangıç pozisyonuna doğru alçalın ve arzu edilen tekrar sayısı kadar tekrar edin.";
+"Dumbbell Scarecrow"="Dambıllı Korkuluk";
+"17 Dumbbell Scarecrow"="1. Ayaklarınız omuz açıklığı mesafede ayakta dururken, dambılları önünüzde yukarıdan aşağı doğru bir kavrayışla tutun. Üst kollarınızı zemine paralel olana kadar yukarı kaldırın.\n\n2. Ön kollarınız tamamen yukarıyı gösterene kadar dirseklerinizi ileri doğru döndürün. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"Dumbbell Shoulder Press"="Dambıllı Omuz İtişi";
+"18 Dumbbell Shoulder Press"="1. Ayaklarınız omuz açıklığı mesafede ayakta dik bir şekilde durun. Dambılları yukarıdan aşağıya doğru bir kavrayışla tutun. Dambılları başınızın iki yanında konumlandırın.\n\n2. Kollarınız tamamen uzatılana kadar dambılları başınızın üzerine kaldırın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"Front Weighted Raise"="Ağırlıklı Öne Kaldırma";
+"19 Front Weighted Raise"="1. Sırtınız düz bir şekilde ayakta dururken, ağırlığı iki elinizle tutun. Ağırlıklar uyluklarınızın iç kısmında konumlansın. \n\n2. Kollarınızı yerle paralel olana kadar önünüze doğru kaldırın. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"Lateral Weighted Raise"="Ağırlıklı Yana Kaldırış";
+"20 Lateral Weighted Raise"="1. Sırtınız dik bir şekilde ayakta dururken, ağırlığı bir elinizle tutun. Ağırlık yanınızda konumlanmış olsun.\n\n2. Kolunuzu yana doğru yukarı kaldırın. Kolunuzu düz tutun. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+"Military Press Behind The Neck (Standing)"="Boyun Arkasından Askeri İtiş (Ayakta)";
+"21 Military Press Behind The Neck (Standing)"="1. Dik bir şekilde durarak, elleriniz omuz açıklığında, dirsekleriniz bükülü ve avuç içleriniz ileri doğru bakacak şekilde bir halteri omuz hizasında başınızın arkasında tutun.\n\n2. Kollarınızı tamamen uzatarak, halteri başınızın üzerine doğru. Hareketin tamamı boyunca sırtınızı düz tutun ve dik bir şekilde durun.";
+"Seated Dumbbell Front Raise"="Oturarak Dambıllı Öne Kaldırış";
+"22 Seated Dumbbell Front Raise"="1. Bir çift dambıl alın ve eğimli bir sehpada oturma pozisyonu alın; kollarınız düz ve yanlarınızda, başparmaklarınız içeride olsun.\n\n2. Dirseklerinizi düz tutarak, elleriniz yaklaşık olarak göz seviyesine gelene kadar dambılları yukarı ve ileri doğru kaldırın.\n\n3. Hareket boyunca bileklerinizin arka kısmını ve dirseklerinizi düz tutun. Başlangıç pozisyonuna geri dönün.";
+"Stability Ball Lateral Raise"="Denge Toplu Yana Kaldırış";
+"23 Stability Ball Lateral Raise"="1. Her bir elinizde hafif bir dambılla bir denge topunun üzerine oturun. Dengenizi sağlamak için bacaklarınızı omuz açıklığı mesafesinde tutun. Elleriniz yanlardan sarkıyor olmalıdır.\n\n2. Kollarınızı tamamen düz olarak tutarak; dambılları yavaşça dışarı ve omuz seviyenize kadar yukarı doğru kaldırın. Avuç içleriniz yere doğru bakıyor olsun.\n\n3. Dirseklerinizi bükülü tutarak, başlangıç pozisyonuna doğru yavaşça geri alçaltın ve arzu edilen tekrar sayısı kadar tekrar edin.";
+"Diamond Pushup"="Elmas Şınavı";
+"10 Diamond Pushup"="1. Standart şınav pozisyonu alın, ancak ellerinizi doğrudan göğsünüzün alt kısmına yerleştirin ve başparmaklarınızı ve işaret parmaklarınızı bir \"elmas\" şeklini alacak şekilde yere yerleştirin.\n\n2. Göğsünüz neredeyse ellerinize değecek kadar vücudunuzu alçaltırken sırtınızı düz bir şekilde tutun.\n\n3. Duraklayın, daha sonra kendinizi başlangıç pozisyonunuza doğru geri itin.";
+"Diamond Pushup On Bench"="Sehpada Elmas Şınavı";
+"12 Diamond Pushup On Bench"="1. Standart şınav pozisyonu alın, ancak ellerinizi doğrudan göğsünüzün alt kısmına yerleştirin ve başparmaklarınızı ve işaret parmaklarınızı bir \"elmas\" şeklini alacak şekilde yere yerleştirin.\n\n2. Ayak parmaklarınızı düz bir sehpada tutun. Bu; şınav çekerken ellerinize daha fazla bir basınç yapacaktır.\n\n3. Göğsünüz neredeyse ellerinize değecek kadar vücudunuzu alçaltırken sırtınızı düz bir şekilde tutun.\n\n4. Duraklayın, daha sonra kendinizi başlangıç pozisyonunuza doğru geri itin.";
+"Dumbbell Row Kickback"="Dambılla Çekiş ve Geri İtiş";
+"13 Dumbbell Row Kickback"="1. Ayaklarınız omuz açıklığı mesafesinde açık ve dizleriniz hafif bükülü bir şekilde ayakta durun. Her bir elinizde hafif bir dambıl tutun ve resimde gösterildiği gibi gövdeniz neredeyse tamamen aşağı dik olana kadar belden öne doğru eğilin; avuç içleriniz içeri doğru bakıyor olsun.\n\n2. Ağırlıkları, göğsünüzün yanlarına ulaşana kadar düz bir şekilde yukarı doğru çekin ve kollarınız dik açıyla bükülü olsun. İdeal olarak, üst kollarınız yere paralel olmalıdır.\n\n3. Anında kollarınızı arkanıza doğru düz bir şekilde geri itiş manevrasıyla arkanıza doğru itin.\n\n4. Triseplerinizi sıkıştırın, daha sonra ağırlıkları aşağı geri indirmek için dirseklerinizi bükün; böylece kollarınız yine yanlarınızda olsun.\n\n5. Kollarınız tamamen omuzlarınızın altında düz bir şekilde salınana kadar ağırlıkları geri indirin.";
+"Lying Single Arm Pushup"="Uzanarak Tek Kolla Şınav";
+"14 Lying Single Arm Pushup"="1. Dizleriniz hafifçe bükülü ve bacaklarınız bir diğerinin üstünde olacak şekilde yanınıza doğru uzanın. Altta duran kolunuzu belinizin çevresine sarın ve diğer elinizi hafifçe bükülü olarak önünüze doğru yere koyun.\n\n2. O kolunuzu, vücudunuzu zeminden yukarı doğru iterek düzleştirmeye başlayın – vücudunuzu kaldırmak için triseplerinizi kullanıyor ve sırtınızı kullanmıyor olduğunuzdan emin olun. Bekleyin, daha sonra başlangıç pozisyonuna geri dönün.\n\n3. Birkaç tekrardan sonra, diğer tarafa geçin ve diğer kolunuzla hareketi tekrar edin.";
+"Seated Triceps Extension"="Oturarak Triseps Uzatma";
+"15 Seated Triceps Extension"="1. Bir sehpaya oturun ve bir çift dambıl alın. Dambılları avuç içleriniz içe doğru birbirine bakacak şekilde kol mesafesinde başınızın üzerinde tutun.\n\n2. Ön kollarınız yere paralel olma aşamasını birazcık geçene kadar dambılları başınızın arkasından alçaltırken üst kollarınızı sabit tutun.\n\n3. Duraklayın, daha sonra dambılları başlangıç pozisyonuna geri döndürmek için kollarınızı düzleştirin.";
+"Stability Ball French Press"="Denge Topu Fransız Presi";
+"16 Stability Ball French Press"="1. Bir denge topunun üzerine sırtınızı ortalayarak sırt üstü uzanın. Elinize bir çift dambıl alın ve dambılları göğsünüzün üzerinde dik olarak tutun.\n\n2. Dambılları, başınızın iki yanına alçaltmak için dirseklerinizi bükün.\n\n3. Kollarınızı dambılları başlangıç pozisyonuna geri döndürürken düzleştirin.";
+"Stability Ball Pullover"="Denge Topu Çekiş";
+"17 Stability Ball Pullover"="1. Bir denge topunun üzerine sırtınızı ortalayarak sırt üstü uzanın. Elinizde bir dambıl alın ve dambılı göğsünüzün üzerinde dik olarak tutun.\n\n2. Dambılları başınızın ortasına alçaltmak için dirseklerinizi bükün.\n\n3. Kollarınızı dambılı başlangıç pozisyonuna geri döndürürken düzleştirin.";
+"Stability Ball Triceps Extension"="Denge Topu Triseps Uzatma";
+"18 Stability Ball Triceps Extension"="1. Denge topunun üzerine sırt üstü uzanın. Ayaklarınız yerde olsun. İki elinizle bir dambılı tutun. Kollarınızı başınızın üstünde tamamen uzatın.\n\n2. Üst kollarınızı sabit tutarken, dambılı başınızın arkasına gelene kadar alçaltın. Dirseklerinizi kullanmaktan kaçının. Bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+//EXTRA
+
+
+"3 DAY GYM WORKOUT PLAN BY VGFIT" = "VGFIT İLE 3 GÜNLÜK GYM ANTRENMANI PLANI";
+
+
+
+"3 DAY HOME WORKOUT PLAN BY VGFIT" = "VGFIT İLE 3 GÜNLÜK EV ANTRENMANI PLANI";
+
+
+
+"FAT BURNER ROUTINE" =  "YAĞ YAKICI RUTİN";
+
+
+
+"ABS BURNER" = "ABS YAKICI";
+
+
+
+"CHEST POWER WORKOUT PLAN" = "GÖĞÜS KUVVET ANTRENMANI PLANI";
+
+
+
+"ARMS POWER WORKOUT PLAN" = "KOLLAR İÇİN KUVVET ANTRENMANI PLANI";
+
+
+
+"LEGS POWER WORKOUT PLAN" = "BACAKLAR İÇİN KUVVET ANTRENMANI PLANI";
+
+
+
+"SHOULDERS POWER WORKOUT PLAN" = "OMUZLAR İÇİN KUVVET ANTRENMANI PLANI";
+
+
+
+"BACK POWER WORKOUT PLAN" = "SIRT İÇİN KUVVET ANTRENMANI PLANI";
+
+
+
+"FULL BODY STREACH PLAN" = "TÜM VÜCUT İÇİN ESNEME PLANI";
+
+
+
+
+
+
+
+"Barbell Squat 2" = "Halterle Çömelme 2";
+
+"Barbell Squat 2 extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Ayaklarınız omuz genişliğinde açık olarak dik bir şekilde ayakta durun. Halteri yukarıdan aşağıya inen bir kavrayışla tutun. Elleriniz arasındaki mesafe omuz açıklığından biraz daha geniş olmalıdır. Ayaklarınızı hafif dışarı doğru bakacak şekilde ayarlayın.\
+\
+2. Adım: Dizlerinizi bükerek vücudunuzu aşağı doğru alçaltın. Hareketin tamamı esnasında beliniz düz olmalıdır. Uyluklarınız yere paralel olduğunda durun. Başlangıç pozisyonuna dönerken belinizin alt kısmından güç alın.";
+
+
+
+
+"Dumbbell Lunge 2" = "Dambılla Öne Bacak Açma 2";
+
+"Dumbbell Lunge 2 extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Ayaklarınız omuz genişliğinde açık olarak dik bir şekilde ayakta durun. Dambılları vücudunuzun yanlarında doğal bir kavrayışla tutun.\
+\
+2. Adım: Belinizi dik bir şekilde tutarken, bir ayağınızla öne doğru adım atarak vücudunuzu dizlerinizi bükerek alçaltın. Ön uyluğunuz yere paralel olduğunda durun. Hareketi bir saniye boyunca tutun. Geri adım atın ve başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Bosu Crossover Lunge" = "Bosu ile Çapraz Geçişli Bacak Açma";
+
+"Bosu Crossover Lunge extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Kollarınız vücudunuzun yanlarında aşağıya doğru uzanmış şekilde bosunun önünde dik bir şekilde ayakta durun. BOSU, ayakta duruş pozisyonunuza ve bir yanınıza nazaran birkaç adım öteye konulmalıdır.\
+\
+2. Adım: İleri ve yana doğru adım atarak BOSUnun üzerine çıkın ve bu esnada vücudunuzu bir diziniz bükülü olacak şekilde aşağı doğru alçaltın. Bu esnada diğer bacağınızı düz tutun.\
+\
+3. Adım: Başlangıç pozisyonunuza dönmek için bükülü olan ayağınızı itin ve tekrarlayın. Bu egzersizi daha zorlayıcı bir hale getirmek için, hareketi gerçekleştirirken her bir elinizde bir dambıl tutun.";
+
+
+
+
+"Stability Ball Split Squat" = "Denge Topunda Bölünmüş Çömelme";
+
+"Stability Ball Split Squat extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Ayakta dik bir şekilde dururken bir ayağınızı yere koyun. Kollarınızı şekilde görüldüğü gibi düz tutun.\
+\
+2. Adım: Göğsünüzü ileri doğru çıkararak kalçalarınızdan ve dizlerinizden eğilerek yere doğru alçalın.\
+\
+3. Adım: İleride duran ayağınızı iterek başlangıç pozisyonuna geri dönün.\
+\
+4. Adım: Diğer bacağınızla tekrarlayın.";
+
+
+
+
+"Balance Ball Front Raise" = "Denge Topunda Öne Kaldırış";
+
+"Balance Ball Front Raise extra"= "Kas Grubu: Delta Kasları\
+\
+1. Adım: Her bir elinizde hafif bir dambıl olacak şekilde bir denge topunun üzerine oturun. Bacaklarınızı bitiştirin ve ayaklarınız yere düz olarak bassın. Elleriniz, avuç içleriniz arkanıza bakacak şekilde her iki yandan aşağı doğru sarksın.\
+\
+2. Adım: Kollarınızı tamamen düz bir şekilde tutarak, kollarınız yere paralel olana kadar yavaşça ağırlıkları dışa ve önünüze doğru kaldırın.\
+\
+3. Adım: Hareketi bir saniye boyunca tutun ve daha sonra ağırlıkları yavaşça alçaltın.";
+
+
+
+
+"Bar Bench Press Incline" = "Yukarı Eğik Sehpada Halter Kaldırma";
+
+"Bar Bench Press Incline extra"= "Kas Grubu: \
+\
+1.Adım: Yukarı eğik sehpaya sırtüstü uzanın. Z barı kollarınız tamamen uzatılmış şekilde yukarıdan aşağıya inen bir kavrayışla tutun. Z bar göğsünüzün merkezinin tam üstünde olacaktır.\
+\
+2. Adım: Dirseklerinizi vücudunuza yakın bir şekilde tutarak Z barı göğsünüzün alt kısmına doğru alçaltın. Hareketin sonunda Z bar göğsünüze hafifçe temas etmelidir. Z barın göğsünüz üzerinde sekip zıplamasından kaçının. Kısa bir süreliğine hareketi tutun. Başlangıç pozisyonuna geri dönün. Hareketin tamamı esnasında sırtınızın tamamı sehpanın üzerinde olmalıdır. Herhangi bir bacak hareketinden kaçının.";
+
+
+
+
+"Dumbbell Decline Bench Press" = "Aşağı Eğik Sehpada Dambıl Kaldırma";
+
+"Dumbbell Decline Bench Press extra"= "Kas Grubu: Pektoralis\
+\
+1. Adım: Aşağı eğik sehpaya sırtüstü uzanın. Dambılları yukarıdan aşağıya inen bir kavrayışla tutun. Kollarınızı tamamen uzatın.\
+\
+2. Adım: Dirseklerinizi vücudunuza yakın bir şekilde tutarak dambılları göğsünüzün alt kısmına doğru alçaltın. Hareketi kısa bir süreliğine tutun. Başlangıç pozisyonuna geri dönün. Hareketin tamamı esnasında sırtınızın tamamı sehpanın üzerinde olmalıdır. Herhangi bir bacak hareketinden kaçının.";
+
+
+
+
+"Dumbbell T-Push-Up" = "Dambıllı T Şınav";
+
+"Dumbbell T-Push-Up extra"= "Kas Grubu: Pektoralis\
+\
+1. Adım: Göğsünüz yere bakacak ve avuç içleriniz yerde olacak şekilde uzanın. Dambılları doğal bir tutuşla kavrayın. Ellerinizi göğsünüzün alt kısmının yanına doğru yerleştirin. Elleriniz arasındaki mesafe omuz açıklığından biraz daha açık şekilde olmalıdır. Yalnızca avuç içleriniz ve ayak parmak uçlarınız yerde kalacak şekilde kendinizi yukarı doğru yükseltin. Sırtınız düz olsun. Elleriniz hafifçe dışarı doğru baksın.\
+\
+2. Adım: Göğsünüz yere birkaç santim kalana dek dirseklerinizi bükerek vücudunuzu alçaltın. Dirsekleriniz ayaklarınıza doğru bükülmelidir. Hareketi bir saniyeliğine tutun.\
+\
+3. Adım: Başlangıç pozisyonuna geri dönün.\
+\
+4. Adım: Bir kolunuzu dambıl tavana bakacak şekilde kaldırın. Hareketi bir saniyeliğine tutun.\
+\
+5. Adım: Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"EZ Curl Bar Biceps Curl" = "Z Bar ile Biseps Kıvırma";
+
+"EZ Curl Bar Biceps Curl extra"= "Biseps Braki\
+\
+1. Adım: Sırtınız düz bir şekilde ayakta dururken, Z barı aşağıdan yukarı doğru bir kavrayışla omuz açıklığında tutun. Z bar uyluklarınızın önünde durmalıdır.\
+\
+2. Adım: Üst kollarınızı hareket ettirmeden Z barı yukarı doğru kaldırın. Hareket esnasında omuzlarınızı kullanmaktan kaçının. Hareketi bir saniyeliğine tutun. Kollarınızı başlangıç pozisyonuna geri dönmek üzere alçaltın.";
+
+
+
+
+"EZ Curl Bar Deadlift" = "Z Bar ile Yerden Doğrulma";
+
+"EZ Curl Bar Deadlift extra"= "Kas Grubu: Alt Sırt- Bel\
+\
+1. Adım: Z barı yere koyun. Bacaklarınız bardan 2,5 cm uzaklıkta olacak şekilde dik olarak ayakta durun. Fazla kalça hareketi kullanmadan, Z barı yukarıdan aşağıya inen bir kavrayışla tutmak üzere vücudunuzu alçaltın. Dizlerinizi hafifçe bükün. Göğsünüzü dışarı itin ve ileri doğru bakın.\
+\
+2. Adım: Dik bir şekilde ayakta durana kadar Z barı yukarı doğru kaldırın. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Dumbbell Row" = "Dambılla Kürek Çekme";
+
+"Dumbbell Row extra"= "Kas Grubu: Latissimus Dorsi\
+\
+1. Adım: Dizlerinizin hafifçe bükün. Beliniz bükülü ve düz olsun. Dambılları vücudunuzun yanlarında doğal bir kavrayışla tutun.\
+\
+2. Adım: Dambılları göğsünüze doğru dikey olarak kaldırın. Dirseklerinizin dışarı çıkmasından kaçının. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Standing Triceps Extension" = "Ayakta Triseps Uzatma";
+
+"Standing Triceps Extension extra"= "Kas Grubu: Triseps Braki\
+\
+1. Adım: Bir dambılı resimde gösterildiği gibi iç plakasından her iki elle başınızın üzerinde tutun; ayakta dik bir şekilde durun ve ayaklarınızın omuz açıklığında olsun. Dirseklerinizi bükerek üst sırtınıza doğru dambılı arkadan sarkıtın.\
+\
+2. Adım: Dambılı dirseklerinizi uzatarak ve bileklerinizi dinlendirerek başınızın üzerine kaldırın. En üst noktada, hareketi tutun ve daha sonra kontrollü bir şekilde başlangıç pozisyonuna geri dönün. Tekrarlayın.";
+
+
+
+
+"Bench Dip" = "Sehpada İniş Kalkış";
+
+"Bench Dip extra"= "Kas Grubu: Triseps Braki\
+\
+1. Adım: Avuç ilerinizi ileri bakacak şekilde bir sehpaya yerleştirin ve vücudunuzu resimde görüldüğü gibi konumlandırın. Bacaklarınızı, her iki topuğunuz da yere sımsıkı basacak şekilde, nispeten dik bir şekilde tutun. Kollarınızı düzleştirin ve sırtınız ve kalçanız sehpanın tam önünde olacak şekilde gövdenizi ileri doğru hareket ettirin.\
+\
+2. Adım: Kollarınız dik açı oluşturacak şekilde bükün, bu esnada kalçanızı resimde gösterildiği gibi yere doğru alçaltın. Bu egzersizi dizlerinizi bükerek ve ayaklarınızı sehpanın daha yakınına getirerek daha kolay bir hale getirebilirsiniz.";
+
+
+
+
+"Bodyweight Open Jump" = "Vücut Ağırlığıyla Açık Zıplama";
+
+"Bodyweight Open Jump extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Sırtınız düz bir şekilde ayakta durun. Ellerinizi vücudunuzun yanlarında tutun.\
+\
+2. Adım: Dizlerinizi hafifçe bükün.\
+\
+3. Adım: Zıplayabildiğiniz kadar yükseğe zıplayın.";
+
+
+
+
+"Bodyweight Toe Touch" = "Vücut Ağırlığıyla Parmak Ucuna Dokunma";
+
+"Bodyweight Toe Touch extra"= "Kas Grubu: Rektus Karın Kası\
+\
+1. Adım: Yere sırt üstü uzanın. Bacaklarınızı yere dik olana kadar yukarı kaldırın. Kollarınızı üzerinizde tamamen uzatın.\
+\
+2. Adım: Ellerinizle parmak uçlarınıza uzanın. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Bodyweight Hop" = "Vücut Ağırlığıyla Sıçrama";
+
+"Bodyweight Hop extra"= "Kas Krubu: Rektus Karın Kası\
+\
+1. Adım: Yere yüzü koyun uzanın. Yalnızca ayak parmaklarınız ve elleriniz yerde olacak şekilde kendinizi yukarı kaldırın. Sırtınızı düz tutun.\
+\
+2. Adım: Kollarınızı sabit tutarken, dizleriniz göğsünüze yakın olacak şekilde sıçrayın. Başlangıç pozisyonunuza geri sıçrayın.";
+
+
+
+
+"Bodyweight Lunge" = "Vücut Ağırlığıyla Öne Bacak Açma";
+
+"Bodyweight Lunge extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Ayaklarınız omuz açıklığında olacak şekilde ayakta durun.\
+\
+2. Adım: Bir ayağınızla bir adım geri atın ve dizlerinizi bükerek vücudunuzu alçaltın. Hareketin tamamı boyunca sırtınız düz olmalıdır. Ön uyluğunuz yere paralel olduğunda durun.\
+\
+3. Adım: Başlangıç pozisyonuna geri dönün.\
+\
+4. Adım: Diğer ayağınızla geri adım atın ve dizlerinizi bükerek vücudunuzu alçaltın. Hareketin tamamı boyunca sırtınız düz olmalıdır. Ön uyluğunuz yere paralel olduğunda durun.";
+
+
+
+
+"Bodyweight Push-up Touch" = "Vücut Ağırlığıyla Şınavlı Dokunma";
+
+"Bodyweight Push-up Touch extra"= "Kas Grubu: Pektoralis\
+\
+1. Adım: Elleriniz yerde olacak şekilde göğsünüzün üzerine uzanın. Ellerinizi omuzlarınızın altında olacak şekilde konumlandırın. Ellerinizin arasındaki mesafe omuz açıklığı mesafesinden biraz daha dar olmalıdır. Yalnızca elleriniz ve ayak parmak uçlarınız yerde kalacak şekilde vücudunuzu yukarı kaldırın. Sırtınız düz olsun. Elleriniz hafifçe dışarı doğru baksın.\
+\
+2. Adım: Göğsünüz yere birkaç santim kalana dek dirseklerinizi bükerek vücudunuzu alçaltın. Dirsekleriniz ayaklarınıza doğru bükülmelidir.\
+\
+3.Adım: Her yukarı kalkışınızda çapraz omzunuza dokunun. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Push-up walking" = "Şınavlı Yürüme";
+
+"Push-up walking extra"= "Kas Grubu: Pektoralis\
+\
+1.Adım: Elleriniz yerde olacak şekilde göğsünüzün üzerine uzanın. Ellerinizin arasındaki mesafe omuz açıklığı mesafesinden biraz daha geniş olmalıdır. Yalnızca elleriniz ve ayak parmak uçlarınız yerde kalacak şekilde vücudunuzu yukarı kaldırın. Sırtınız düz olsun. Elleriniz hafifçe dışarı doğru baksın. Sırtınızı ve bacaklarınızı düz tutun.\
+\
+2. Adım: Kollarınızı hareket ettirmeden kollarınıza doğru sıçrayın. Daha sonra başlangıç pozisyonuna doğru geri sıçrayın.";
+
+
+
+
+"Bent-Leg V-UP" = "Bükülü Bacak Yukarı V";
+
+"Bent-Leg V-UP extra"= "Kas Grubu: Rektus Karın Kası\
+\
+1.Adım: Yere sırt üstü uzanın, kollarınız vücudunuzun yanlarında olsun. Dizlerinizi yukarı doğru bükün ve bu şekilde sabit tutun.\
+\
+2. Adım: Hızlı bir şekilde dizlerinizi göğsünüze doğru çekerek gövdenizi kaldırın. Ellerinizi yere paralel olarak tutun.";
+
+
+
+
+"Bodyweight Lunge Side" = "Vücut Ağırlığıyla Yana Bacak Açma";
+
+"Bodyweight Lunge Side extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Ayaklarınız omuz açıklığı mesafesinde ayakta dik durun. Kollarınızı göğsünüzün önünde tutun.\
+\
+2. Adım: Sırtınızı düz bir şekilde tutarken, bir ayağınızla yana doğru adım atın ve dizlerinizi bükerek vücudunuzu yere doğru alçaltın. Arka ayağınız eksen etrafında döner ancak pozisyonunu bozmaz. Ön uyluğunuz yere paralel olduğunda durun. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Bodyweight Push-up Grip Planche" = "Vücut Ağırlıyıla Şınav Tutma";
+
+"Bodyweight Push-up Grip Planche extra"= "Kas Grubu: Pektoralis\
+\
+1. Adım: Elleriniz yerde olacak şekilde yere uzanın. Ellerinizi göğsünüzün önünde konumlandırın. Ellerinizin arasındaki mesafe omuz açıklığı mesafesinden biraz daha geniş olmalıdır. Yalnızca elleriniz ve ayak parmak uçlarınız yerde kalacak şekilde vücudunuzu yukarı kaldırın. Sırtınız düz olsun. Elleriniz hafifçe dışarı doğru baksın.\
+\
+2. Adım: Dirsekleriniz neredeyse yere değene kadar vücudunuzu alçaltın. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Bench High Knee Jump" = "Sehpada Dizle Yüksek Zıplama";
+
+"Bench High Knee Jump extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Sırtınız düz bir şekilde ayakta durun. Ellerinizi vücudunuzun yanlarında tutun.\
+\
+2. Adım: Dizlerinizi hafifçe bükün.\
+\
+3. Adım: Zıplayabildiğiniz kadar yükseğe zıplayın. Dizlerinizi göğsünüze doğru getirin.";
+
+
+
+
+"Bodyweight Toe Touch 2" = "Vücut Ağırlığıyla Parmak Ucuna Dokunma 2";
+
+"Bodyweight Toe Touch 2 extra"= "Kas Grubu: Rektus Karın Kası\
+\
+1. Adım: Yere sırt üstü uzanın. Bacaklarınızı ileri doğru uzatın ve ellerinizi başınızın arkasına koyun.\
+\
+2. Adım: Ayak parmak uçlarınıza ellerinizle ulaşın. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Stepper Push-up" = "Step Şınavı";
+
+"Stepper Push-up extra"= "Kas Grubu: Pektoralis\
+\
+1. Adım: Ayaklarınızı Step tahtasının üstüne ellerinizi de yere koyun. Ellerinizi alt göğüs hizasında konumlandırın. Ellerinizin arasında mesafe omuz açıklığından biraz daha geniş olmalıdır. Sırtınız düz olsun. Elleriniz hafifçe dışarı doğru baksın.\
+\
+2. Adım: Dirseklerinizi bükerek, göğsünüz yere neredeyse birkaç santim kalana kadar vücudunuzu alçaltın. Dirsekleriniz ayaklarınıza doğru bükülmelidir. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonunuza geri dönün.";
+
+
+
+
+"Bodyweight Push-up Extension" = "Vücut Ağırlığıyla Şınav Uzatma";
+
+"Bodyweight Push-up Extension extra"= "Kas Grubu: Pektoralis\
+\
+1. Adım: Elleriniz yerde olacak şekilde göğsünüzün üzerine uzanın. Ellerinizi omuzlarınızın altında konumlandırın. Ellerinizin arasındaki mesafe omuz açıklığı mesafesinden biraz daha dar olmalıdır. Yalnızca elleriniz ve ayak parmak uçlarınız yerde kalacak şekilde vücudunuzu yukarı kaldırın. Sırtınız düz olsun. Elleriniz hafifçe dışarı doğru baksın.\
+\
+2. Adım: Dirseklerinizi bükerek, göğsünüz yere neredeyse birkaç santim kalana kadar vücudunuzu alçaltın. Dirsekleriniz ayaklarınıza doğru bükülmelidir.\
+\
+3. Adım: Her kalktığınızda bir kolunuzu uzatın. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Bodyweight Scissor Kick" = "Vücut Ağırlığıyla Çapraz Tekme";
+
+"Bodyweight Scissor Kick extra"= "Kas Grubu: Rektus Karın Kası\
+\
+1. Adım: Yere uzanın. Ellerinizi yanlarınıza yerleştirin. Bacaklarınızı tamamen uzatın ve hafifçe havaya kaldırın. Bacaklarınızı düz bir şekilde tutarken, bir bacağınızı yukarı kaldırın.\
+\
+2. Adım: Bacağınızı aşağı doğru indirirken, diğer bacağınızı yukarı doğru kaldırın. Bu, bir tekrardır.";
+
+
+
+
+"Bodyweight Mountain Climbers" = "Vücut Ağırlığıyla Dağ Tırmanışçısı";
+
+"Bodyweight Mountain Climbers extra"= "Kuadriseps\
+\
+1. Adım: Avuç içleriniz yerde olacak şekilde yüzü koyun yere uzanın. Ellerinizi başınızın yanına konumlandırın. Ellerinizin arasındaki mesafe omuz açıklığı mesafesinden biraz daha geniş olmalıdır. Yalnızca elleriniz ve ayak parmak uçlarınız yerde kalacak şekilde vücudunuzu yukarı kaldırın. Sırtınız düz olsun. Elleriniz hafifçe dışarı doğru baksın.\
+\
+2. Adım: Bir bacağınızı üst gövdenize doğru bükün.\
+\
+3. Adım: Bacağınızı başlangıç pozisyonuna geri getirirken, diğer bacağınızı üst gövdenize doğru bükün. Bu, bir tekrardır.";
+
+
+
+
+"Bodyweight Pull In" = "Vücut Ağırlığıyla İçeri Çekme";
+
+"Bodyweight Pull In extra"= "Rektus Karın Kası\
+\
+1. Adım: Yere uzanın. Ellerinizi kalçanızın altına yerleştirin. Bacaklarınızı tamamen uzatın. Bacaklarınızı hafifçe yukarı kaldırın.\
+\
+2. Adım: Bacaklarınızı üst gövdenize doğru bükün. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Push-up With Crossing Leg Under The Hip" = "Kalçanın Altından Çapraz Geçen Bacaklı Şınav";
+
+"Push-up With Crossing Leg Under The Hip extra"= "Kas Grubu: Pektoralis\
+\
+1. Adım: Egzersize standart şınav pozisyonunda başlayın. Sağ bacağınızı kalçanızın altından çapraz olarak geçirin.\
+\
+2. Adım: Göğsünüz neredeyse yere değene kadar vücudunuzu alçaltın, duraklayın, daha sonra kendinizi başlangıç pozisyonuna doğru geri itin.\
+\
+3. Adım: Bacak değiştirin ve adımları tekrar edin.";
+
+
+
+
+"Bodyweight Jumping Jacks" = "Vücut  Ağırlığıyla Zıplama";
+
+"Bodyweight Jumping Jacks extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Sırtınız dik bir şekilde ayakta durun. Ellerinizi vücudunuzun yanlarında tutun.\
+\
+2. Adım: Ayaklarınızı omuz açıklığı mesafesinden daha geniş bir mesafede açarak zıplayın. Aynı anda, ellerinizi başınızın üzerine kaldırın. Kısa bir süre duraklayın ve başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Jump Sumo" = "Sumocu Zıplaması";
+
+"Jump Sumo extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Ayaklarınız omuz mesafesinden daha geniş bir şekilde ayakta dik durun. Kollarınız tamamen ileri uzanmış bir şekilde jimnastik topunu tutun. Ayaklarınızı hafifçe dışarı bakacak şekilde ayarlayın.\
+\
+2. Adım: Dizlerinizi bükerek vücudunuzu alçaltın. Hareketin tamamı boyunca sırtınız dik dursun. Uyluklarınız yere neredeyse paralel olduğunda durun. Başlangıç pozisyonuna geri dönerken belinizden güç alın.";
+
+
+
+
+"Dumbbell Clean And Jerk" = "Dambıl Çekme ve Silkme";
+
+"Dumbbell Clean And Jerk extra"= "Kas Grubu: Dizardı Kirişi\
+\
+1. Adım: Yere çömelin. Dambılları altınızda doğal bir tutuşla kavrayın. Sırtınızı dik tutun. Göğsünüzü ileri doğru çıkarın ve ileriye doğru bakın.\
+\
+2. Adım: Dambılları yerden kaldırın. Dambıllar kaval kemiğinizi geçtiğinde, yukarı zıplayın. Oluşan bu momentumu dambılları omzunuza kaldırmak için kullanın.\
+\
+3. Adım: Dambılları omuz hizanızda tuttuğunuzda, oluşan momentumla aşağı doğru çömelin. Daha sonra ayağa kalkın.\
+\
+4. Adım: Dizlerinizi hafifçe bükün ve yukarı doğru zıplayın.\
+\
+5. Adım: Zıplama esnasında, dambılları başınızın üstüne kaldırın. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Bodyweight Leg Raise" = "Vücut Ağırlığıyla Bacak Kaldırma";
+
+"Bodyweight Leg Raise extra"= "Kas Grubu: Rektus Karın Kası\
+\
+1. Adım: Yere uzanın. Ellerinizi vücudunuzun yanlarına koyun. Bacaklarınızı tamamen uzatın.\
+\
+2. Adım: Bacaklarınızı 30 derecelik bir açıyla kaldırın. Hareketi bir saniyeliğine tutun.\
+\
+3. Adım: Bacaklarınızı 60 derecelik bir açıyla kaldırın. Hareketi bir saniyeliğine tutun.\
+\
+4. Adım: Bacaklarınızı 90 derecelik bir açıyla kaldırın. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Dumbbell Biceps Curl" = "Dambıllı Biseps Kıvırma";
+
+"Dumbbell Biceps Curl extra"= "Kas Grubu: Biseps Branki\
+\
+1. Adım: Dizlerinizi hafifçe bükün. Belinizi bükülü ve dik tutun. Dambılları vücudunuzun yanında dizlerinizin dış kısmında aşağıdan yukarıya doğru bir kavrayışla tutun.\
+\
+2. Adım: Üst kollarınızı sabit tutarak dambılları yukarı kaldırın. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Bodyweight Sit-up" = "Vücut Ağırlığıyla Mekik";
+
+"Bodyweight Sit-up extra"= "Kas Grubu: Rektus Karın Kası\
+\
+1. Adım: Yere sırt üstü uzanın. Ellerinizi başınızın arkasına koyun. Dizlerinizi bükün ve ayaklarınızı yere basın.\
+\
+2. Adım: Gövdenizin üst kısmını yukarı doğru kaldırın. Başlangıç pozisyonunuza geri dönün.";
+
+
+
+
+"Bent-Leg V-UP" = "Bükülü Bacak Yukarı V";
+
+"Bent-Leg V-UP extra"= "Kas Grubu: Rektus Karın Kası\
+\
+1. Adım: Sırt üstü yere uzanın, kollarınızı vücudunuzun yanlarına koyun. Dizlerinizi yukarı doğru bükün ve bu şekilde sabit tutun.\
+\
+2. Adım: Göğsünüzü dizlerinize doğru çekerken gövdenizi hızla kaldırın. Ellerinizi yere paralel olarak tutun.";
+
+
+
+
+
+"Toe Touch" = "Parmak Ucuna Dokunuş";
+
+"Toe Touch extra"= "Kas Grubu: Rektus Karın Kası\
+\
+1. Adım: Yere sırt üstü uzanın. Bacaklarınızı yukarı doğru hafifçe bükülü olarak kaldırın. Sırtınız yere düz bir şekilde basılı olsun.\
+\
+Nefes verin ve parmak ucunuza dokunurken karnınızı ezin. Kafanızı sabit bir pozisyonda tutun ve çenenizle göğsünüze dokunmaktan kaçının.";
+
+
+
+
+"Toe Touch 2" = "Parmak Ucuna Dokunuş 2";
+
+"Toe Touch 2 extra"= "Kas Grubu: Rektus Karın Kası\
+\
+1. Adım: Yere sırt üstü uzanın. Bacaklarınızı yukarı doğru hafifçe bükülü olarak kaldırın. Sırtınız yere düz bir şekilde basılı olsun.\
+\
+2. Adım: Uzanın ve ayaklarınıza dokunurken karnınızı ezin. Kafanızı sabit bir pozisyonda tutun ve çenenizle göğsünüze dokunmaktan kaçının.";
+
+
+
+
+"Bodyweight Crunch 2" = "Vücut Ağırlığıyla Karın Ezme 2";
+
+"Bodyweight Crunch 2 extra"= "Kas Grubu: Oblikler\
+\
+1. Adım: Yere sırt üstü uzanın. Uyluklarınız yere dik olacak şekilde bacaklarınızı kaldırın. Ellerinizi başınızın arkasına koyun.\
+\
+2.Adım: Sol dirseğinizi ve sağ bacağınızı gövdenize doğru birbirine değene kadar hareket ettirin.\
+\
+3. Adım: Sol dirseğinizi ve sağ bacağınızı başlangıç pozisyonuna dönmek için hareket ettirin. Aynı anda, sağ dirseğinizi ve sol bacağınızı gövdenize doğru birbirine değene kadar hareket ettirin. Bu, bir tekrardır.";
+
+
+
+
+"Stability Ball Crunch" = "Denge Topunda Karın Ezme";
+
+"Stability Ball Crunch extra"= "Kas Grubu: Karın Kasları\
+\
+1. Adım: denge topuna sırt üstü uzanın. Üzerinize doğru bir jimnastik topu kaldırın.\
+\
+2. Adım: Alt gövdenizi topun üstünde tutarken üst gövdenizi yukarı doğru kaldırın. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+"Bar  Bench Press Incline" = "Yukarı Eğik Sehpada Halter Kaldırma";
+
+"Bar  Bench Press Incline extra"= "Kas Grubu: Pektoralis\
+\
+1. Adım: Yukarı eğik sehpaya sırt üstü uzanın. Z barı yukarıdan aşağıya doğru bir kavrayışla tutun. Elleriniz arasındaki mesafe omuz açıklığı mesafesinden biraz daha geniş olmalıdır. Z barı kollarınızın tamamen uzatılmış şekilde tutun. Z bar göğsünüzün merkezinin tam üstünde olacaktır.\
+\
+2. Adım: Dirseklerinizi vücudunuza yakın bir şekilde tutarken, Z barı göğsünüze doğru alçaltın. Hareketin sonunda Z bar göğsünüze hafifçe dokunmalıdır. Z barın göğsünüzde sekip zıplamasından kaçının. Hareketi kısa bir süreliğine tutun. Başlangıç pozisyonuna geri dönün. Hareketin tamamı boyunca sırtınızın tamamını sehpanın üzerinde tutun. Herhangi bir bacak hareketinden kaçının.";
+
+
+
+
+"Dumbbell Push-up Row" = "Dambılla Şınavlı Kürek Çekme";
+
+"Dumbbell Push-up Row extra"= "Kas Grubu: Pektoralis\
+\
+1. Adım: İki adet dambılı doğal bir kavrayışla tutun. Elleriniz arasındaki mesafe omuz açıklığı mesafesinden biraz daha geniş olmalıdır. Yalnızca dambıllar ve ayak parmak uçlarınız yerde kalacak şekilde kendinizi yukarı doğru kaldırın. Sırtınız dik olsun. Elleriniz hafifçe dışarı doğru baksın.\
+\
+2. Adım: Dirseklerinizi bükerek göğsünüz yere bir kaç santim kalana kadar kendinizi alçaltın. Dirsekleriniz ayaklarınıza doğru bükülü olmalıdır. Hareketi bir saniyeliğine tutun.\
+\
+3. Adım: Başlangıç pozisyonuna geri dönün.\
+\
+4. Adım: Dirseğinizi yukarı doğru hareket ettirerek bir dambılı havaya kaldırın. Eliniz dikey bir çizgi boyunca hareket etmelidir. Hareketi bir saniyeliğne tutun.\
+\
+5. Adım: Başlangıç pozisyonuna geri dönün.\
+\
+6. Adım: Aynı adımları diğer elinizle tekrar edin.";
+
+
+
+
+"Triceps Kickback" = "Triseps Geri Tekme";
+
+"Triceps Kickback extra"= "Kas Grubu: Triseps Branki\
+\
+1. Adım: Bir elinize bir dambıl alın ve daha sonra çapraz dizinizi bir sehpaya yerleştirin, diğer ayağınızı da yere dizden hafif esneterek koyun. Daha sonra dambılı tuttuğunuz elinizi arkaya ve yanınıza doğru çekin ve yere paralel hale gelmesini sağlayın. Hareket esnasında sırtınızı dik tutun.\
+\
+2. Adım: Dirseğinizden 90 derece verecek şekilde dambılı tutun ve yavaşça nefes verin ve kolunuzu gidebileceği noktaya kadar uzatın veya bileğiniz, dirseğiniz ve omzunuz bir hizaya gelene kadar uzatın.\
+\
+3. Adım: Nefes alın ve dambılı yavaşça alçaltın, ancak dirseğinizle 90 derecelik bir açıya ulaşınca durun. Gerekli tekrar sayısı kadar tekrar edin.\
+\
+4. Adım: Dambılı diğer elinizle tutarak tekrar edin.";
+
+
+
+
+"Standing Single Arm Triceps Extension" = "Ayakta Tek Kolla Triseps Uzatma";
+
+"Standing Single Arm Triceps Extension extra"= "Kas Grubu: Triseps Branki\
+\
+1. Adım: Ayaklarınız omuz açıklığı mesafesinde ayakta dik bir şekilde durun ve sol elinizde hafif bir dambıl tutun.\
+\
+2. Adım: Sol kolunuz, avuç içi dışarı doğru bakacak şekilde dambılı başınızın üzerine doğru bastırın. Sağ kolunuza yüzünüzün önünden uzanın ve sol dirseğinizi sağ elinizle tutun. Bu hareket, egzersiz esnasında üst kolunuzu sabit tutacaktır.\
+\
+3. Adım: Üst kolunuzu hareket ettirmeden, yavaşça sol dirseğinizi bükün ve dambılı başınızın arkasında olabildiğince uzağa doğru alçaltın.\
+\
+4. Adım: Sol kolunuz düz olana kadar dambılı başınızın arkasından uzatın ve bir set boyunca tekrar edin. Daha sonra dambılı sağ elinize alın ve egzersizi sağ kolunuzla tekrar edin.";
+
+
+
+
+"Stability Ball Split Squad Dumbbell" = "Denge Topuyla Dambıllı Bölünmüş Çömelme";
+
+"Stability Ball Split Squad Dumbbell extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Ayakta dik bir şekilde durun ve yanlarınızda birer dambıl tutarken bir ayağınızı arkaya koyun. Kollarınızı resimde görüldüğü gibi düz tutun.\
+\
+2. Adım: Kalçalarınızdan ve dizlerinizden eğilerek ve gövdenizi öne doğru eğerek yere doğru alçalın.\
+\
+3. Adım: Öndeki ayağınızı iterek başlangıç pozisyonuna geri dönün.\
+\
+4. Adım: Diğer bacakla tekrar edin.";
+
+
+
+
+"Dumbbell Rear Delt Row" = "Dambıllı Arka Deltoid Kürek Çekme";
+
+"Dumbbell Rear Delt Row extra"= "Kas Grubu: Deltoidler\
+\
+1. Adım: Kollarınız düz bir şekilde dambılı tutarken ve avuç içleriniz içeri doğru bakarak ve ayaklarınız kalça açıklığında mesafede belinizden eğilin.\
+\
+2. Adım: Dambılı omuz hizasında yukarı ve dışarı doğru kaldırın ve bunu yaparken sırtınızı dik tutun. Kaldırırken gerekli olması durumunda dirseklerinizi hafifçe bükün. Daha sonra dambılı yavaşça başlangıç pozisyonuna doğru indirin.";
+
+
+
+
+"Dumbbell Snatch" = "Dambıl Koparma";
+
+"Dumbbell Snatch extra"= "Kas Grubu: Deltoidler\
+\
+1. Adım: Bir dambılın üzerine çömelerek başlayın. Belinizi kilitleyin ve sabitleyin ve ayaklarınızı omuz açıklığı mesafesinde yerleştirin.\
+\
+2. Adım: Dambılı kavrayın ve karın kaslarınızı sıkın. Seri bir hareketle, dambılı kollarınız düz ve kilitli olana kadar yukarı doğru resimde görüldüğü gibi kaldırın. Dambıl vücuda yakın bir şekilde seyretmeli ve dışarı veya uzağa doğru savrulmamalıdır.\
+\
+3. Adım: Dambılı kısa bir süreliğine başınızın üzerinde tutun ve daha sonra başlangıç pozisyonuna doğru alçaltın.";
+
+
+
+
+"Stretch Standing Overhead Arms" = "Ayakta Başın Üzerinde Kolları Esnetme";
+
+"Stretch Standing Overhead Arms extra"= "Kas Grubu: Latissimus Dorsi\
+\
+1. Adım: Ayaklarınız omuz açıklığı mesafesinde ayakta durun. Bacaklarınızı hafifçe bükün. Ellerinizi önünüzde konumlandırın. Parmaklarınızı birbirine kenetleyin.\
+\
+2. Adım: Kollarınızı başınızın üzerine doğru uzatın. Çekebildiğiniz kadar yükseğe çekin. Bu pozisyonu 15-25 saniye kadar tutun.";
+
+
+
+
+"Stretch Neck Standing Side" = "Ayakta Yanlara Boyun Esnetme";
+
+"Stretch Neck Standing Side extra"= "Kas Grubu: Boyun\
+\
+1. Adım: Ayaklarınız omuz açıklığı mesafesinde ayakta durun. Kollarınızı yanlarınıza konumlandırın.\
+\
+2. Adım: Boynunuzu bir yana döndürün. Üst gövdeniz hafifçe dönsün. 15-25 saniyeliğine bu pozisyonu tutun. Diğer tarafa tekrar edin.";
+
+
+
+
+"Standing Cross Body Arms" = "Ayakta Çapraz Kollar";
+
+"Standing Cross Body Arms extra"= "Kas Grubu: Deltoidler\
+\
+1.Adım: Ayaklarınız omuz açıklığı mesafesinde ayakta dik durun.\
+\
+2. Adım: Sağ kolunuzu vücudunuza çapraz olarak tamamen uzatın. Kolunuz yere paralel olmalıdır. Sol kolunuzu sol bileğinizin önünde konumlandırın. Sağ kolunuzu vücudunuzun daha yakınına getirmek için sol kolunuzu kullanın. Bu pozisyonu 15-25 saniyeliğine tutun. Diğer kolla tekrar edin.";
+
+
+
+
+"Standing Behind Head" = "Ayakta Başın Arkasında";
+
+"Standing Behind Head extra"= "Kas Grubu: Triseps Braki\
+\
+1.Adım: Ayaklarınız omuz açıklığı mesafesinde ayakta dik durun. Bir elinizi üst sırtınızın merkezinde konumlandırın. Dirseğiniz tavana doğru bakmalıdır.\
+\
+2. Adım: Diğer elinizi dirseğinizi tutmak için kullanın. Dirseğinizi aşağı ve başınıza doğru çekin. Bu pozisyonu 15-25 saniyeliğine tutun. Diğer kolla tekrar edin.";
+
+
+
+
+"Standing Side Single Arm" = "Ayakta Tek Kol Yanlara";
+
+"Standing Side Single Arm extra"= "Kas Grubu: Latissimus Dorsi\
+\
+1. Adım: Ayaklarınız omuz açıklığı mesafesinde ayakta dik durun. Ellerinizi kalçalarınıza koyun.\
+\
+2. Adım: Bir kolunuzu başınızın üzerine kaldırın ve vücudunuzu bir yana eğin. Bu pozisyonu 15-25 saniyeliğine tutun. Diğer tarafla tekrar edin.";
+
+
+
+
+"Stretch Squat Torso Twist" = "Çömelme Gövde Döndürme Esneme";
+
+"Stretch Squat Torso Twist extra"= "Kas Grubu: Latissimus Dorsi\
+\
+1. Adım: Ayaklarınız omuz açıklığı mesafesinde çömelin. Ellerinizi kalçalarınıza koyun. İleri doğru bakın.\
+\
+2. Adım: Bir esneme hissedene kadar gövdenizi bir tarafa doğru döndürün. Diğer tarafla tekrar edin.";
+
+
+
+
+"Stretch Standing Legs Arms" = "Ayakta Bacakları Kolları Esnetme";
+
+"Stretch Standing Legs Arms extra"= "Kas Grubu: Diz ve Dirsek Ardı Kirişleri\
+\
+1. Adım: Ayaklarınız omuz açıklığı mesafesinden daha geniş bir şekilde ayakta dik durun. Ellerinizi kalçalarınıza koyun.\
+\
+2. Adım: Bacaklarınızı bükmeden, aşağı eğilin ve ellerinizi ayak bileklerinize sarın. Bu pozisyonu 15-25 saniyeliğine tutun.";
+
+
+
+
+"Stretch Standing Hand To Foot" = "Elleri Ayağa Değdirerek Ayakta Esneme";
+
+"Stretch Standing Hand To Foot extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Ayaklarınız birbirine yakın bir şekilde ayakta dik durun. Elleriniz yanlardan salınsın.\
+\
+2. Adım: Bir dizinizi arkaya doğru bükün. Elinizle dizinize tutunun. Ayağınızı diz ardı kirişlerinize doğru çekin. Bu pozisyonu 15-25 saniyeliğine tutun. Diğer bacakla tekrar edin.";
+
+
+
+
+"Stretch Knee Bent" = "Dizler Bükülü Esneme";
+
+"Stretch Knee Bent extra"= "Kas Grubu: Kuadriseps\
+\
+1. Adım: Bacaklarınız tamamen uzatılmış bir şekilde dik bir şekilde oturun. Sağ dizinizi bükün, sağ ayağınızı sol iç uyluğunuza konumlandırın.\
+\
+2. Adım: Sol elinizle sol ayak parmak uçlarınıza dokunun. Bu pozisyonu 15-25 saniyeliğine tutun. Diğer bacakla tekrar edin.";
+
+
+
+
+"Stretch Adductors Standing" = "Ayakta Yaklaştırıcı Kas Esnetme";
+
+"Stretch Adductors Standing extra"= "Kas Grubu: Yaklaştırıcı Kaslar\
+\
+1. Adım: Ayaklarınız omuz açıklığı mesafesinden biraz geniş bir şekilde dik olarak ayakta durun. Ellerinizi kalçalarınıza yerleştirin.\
+\
+2. Adım: Vücudunuzu bir yana doğru alçaltın. Ters taraftaki bacağınız düzleşsin. Bu pozisyonu 15-25 saniyeliğine tutun. Diğer tarafla tekrar edin.";
+
+
+
+
+"Sitting Body Curl" = "Oturarak Vücut Kıvırma";
+
+"Sitting Body Curl extra"= "Kas Grubu: Dizardı Kirişleri\
+\
+1. Adım: Sırtınız dik bir şekilde yere oturun. Bacaklarınızı önünüze tamamen uzatın. Kollarınızı uyluklarınızın üzerine koyun.\
+\
+2. Adım: Üst gövdenizi bacaklarınıza doğru alçaltın. Bu pozisyonu 15-25 saniyeliğine tutun.";
+
+
+
+
+"Stretch Lying Knee Bent" = "Yatarak Diz Bükülü Esneme";
+
+"Stretch Lying Knee Bent extra"= "Kas Grubu: Dizardı Kirişleri\
+\
+1. Adım: Yere düz bir şekilde uzanın. Bacaklarınızı tamamen uzatın. Ellerinizi vücudunuzun yanına yerleştirin.\
+\
+2. Adım: Bir bacağınızı göğsünüze doğru yukarı kaldırın. Diziniz bükülü kalsın. Ellerinizi uyluklarınıza yerleştirin. Bu pozisyonu 15-25 saniyeliğine tutun. Diğer bacakla tekrar edin.";
+
+
+
+
+"Stretch Adductors (Sitting)" = "Yakınlaştırıcı Kas Esnetme (Oturarak)";
+
+"Stretch Adductors (Sitting) extra"= "Kas Grubu: Yakınlaştırıcı Kaslar\
+\
+1. Adım: Topuklarınız birbirine değecek şekilde yere oturun. Sırtınızı dik tutun. Ellerinizi dizlerinizin üzerinde konumlandırın.\
+\
+2. Adım: Üst gövdenizi ve dizlerinizi yere doğru alçaltın. Bu pozisyonu 15-25 saniyeliğine tutun.";
+
+
+
+
+"Stretch Kneeling Child Pose" = "Eğilmiş Çocuk Pozuyla Esneme";
+
+"Stretch Kneeling Child Pose extra"= "Kas Grubu: Alt Sırt-Bel\
+\
+1. Adım: Sırtınız dik bir şekilde yere eğilin.\
+\
+2. Adım: Kollarınızı önünüze doğru uzatırken, kalçanız ayaklarınıza değecek şekilde oturun. Belinizi ve başınızı dik tutun.";
+
+
+
+
+"Stretch Lower Back Arms Assist" = "Kol Destekli Bel Esnetme";
+
+"Stretch Lower Back Arms Assist extra"= "Kas Grubu: Alt Sırt-Bel\
+\
+1. Adım: Yere yüzü koyun uzanın. Avuç içleriniz yere doğru bakacak şekilde ellerinizi göğsünüzün yanlarında konumlandırın.\
+\
+2. Adım: Vücudunuzu tavana doğru kaldırmak için kollarınızı kullanın. Kollarınız tamamen uzatılmış olmalıdır. Bu pozisyonu 15-25 saniyeliğine tutun.";
+
+
+
+
+
+
+"Dumbbell Lateral Raise" = "Dambıllı Yana Kaldırma";
+
+"Dumbbell Lateral Raise extra" = "Kas Grubu: Delta Kasları\
+\
+1. Adım: Ayaklarınız omuz mesafesi açıklığında ayakta durun, sırtınız düz ve kollarınız hafifçe gövdenizin önünde olsun. Dirsekleriniz hafifçe bükülü bir şekilde her bir elinize bir dambıl alın.\
+\
+2. Adım: Dambılları omuz seviyenize kadar dışarı ve yukarı doğru kaldırın. Avuç içleriniz yere baksın.\
+\
+3. Adım: Dirseklerinizi bükülü bir şekilde tutarak, başlangıç pozisyonuna doğru yavaşça alçaltın ve arzu edilen tekrar sayısı kadar tekrar edin.";
+
+
+
+
+"Dumbbell Lunge Side" = "Dambıllı Yana Hamle";
+
+"Dumbbell Lunge Side extra"  = "Kas Grubu: Kuadriseps\
+\
+1. Adım: Ayaklarınız omuz mesafesi açıklığında ayakta durun. Dambılları vücudunuzun yanında doğal bir kavrayışla tutun.\
+\
+2. Adım: Sırtınızı düz bir şekilde tutarken, bir ayağınızla yana doğru adım atın ve dizlerinizi bükerek kendinizi aşağı doğru alçaltın. Arkada duran ayak pozisyonda kalsın. Ön uyluğunuz yere paralel olduğunda durun. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+
+
+"Standing Abdominal Stretch" = "Ayakta Karın Kası Esnetme";
+
+"Standing Abdominal Stretch extra" = "Kas Grubu: Karın Düz Kasları\
+\
+1. Adım: Kollarınız başınızın üzerine uzanacak şekilde dik olarak ayakta durun.\
+\
+2. Adım: Sırtınızın alt kısmının, göğsünüzü yukarı kaldırarak ve kollarınızı olabildiğince arkaya götürerek, bir yay çizmesini sağlayın. Esneme pozisyonunu birkaç saniyeliğine tutun.";
+
+
+"Barbell Good Morning" = "Halterle Güne Merhaba";
+"Barbell Good Morning extra" = "Kas Grubu: Dizardı Kirişi\
+\
+1. Adım: Ayaklarınız omuz açıklığı mesafesinde dik bir şekilde ayakta durun. Halteri yukarıdan aşağıya inen bir kavrayışla tutun. Elleriniz arasındaki mesafe omuz açıklığından biraz daha geniş olmalıdır. Ayaklarınızı hafif dışarı doğru bakacak şekilde ayarlayın.\
+\
+2. Adım: Belinizi düz bir şekilde tutun ve üst gövdenizi yere paralel olana kadar eğin. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+
+"Curl Bar Row" = "Z-Bar ile Kürek Çekiş";
+"Curl Bar Row extra" = "Kas Grubu: Latissimus Dorsi\
+\
+1. Adım: Dizlerinizi hafifçe bükün. Belinizi eğin ve dik tutun. Z-barı yukarıdan aşağıya inen bir kavrayışla omuz açıklığı mesafesinde altınızda tutun.\
+\
+2. Adım: Z-barı yukarı doğru dikey olarak göğsünüze doğru yükseltin. Dirseklerinizin dışarı doğru çıkmasından kaçının. Hareketi bir saniyeliğine tutun. Başlangıç pozisyonuna geri dönün.";
+
+
+// Descriptions
+
+"extra_main_description" = "Sizi tamamen dağıtmak ve güçlendirmek için tasarlanmış gelişmiş antrenman programları.";
+"Building muscle add volume and strength." = "Kas yaparak hacim ve güç kazanın.";
+"Muscle Growth of the full Body." = "Tüm Vücudun Kas Gelişimi.";
+"Beginner Intermediate Advanced." = "Başlangıç Orta İleri";
+"Man and Women." = "Erkek ve Kadın";
+"Gym." = "Spor Salonu.";
+"Barbell Dumbbells Bench." = "Halter Dambıl Sehpa";
+"Building muscle add definition and strength." = "Kas yaparak nitelik ve güç kazanın.";
+"Home, Office, Studio." = "Ev, Ofis, Stüdyo.";
+"Bench, Dumbbell, Mat, Body Weight." = "Sehpa, Dambıl, Mat, Vücut Ağırlığı.";
+"Muscle definition and fat burning." = "Kas tanımı ve yağ yakımı.";
+"Cardio routine of the full Body." = "Tüm vücudun kardiyo rutini.";
+"Home, Office." = "Ev, Ofis.";
+"Core zone." = "Core bölge.";
+"Abdominals definition & fat burning." = "Karın kasları tanımı & yağ yakımı.";
+"Gym, Home, Office." = "Spor Salonu, Ev, Ofis.";
+"Stability ball, Mat, Body Weight." = "Denge topu, Mat, Vücut Ağırlığı.";
+"Chest & Arms." = "Göğüs & Kollar.";
+"Get strength and definition." = "Güç ve nitelik kazanın.";
+"Bench, Dumbbell." = "Sehpa, Dambıl.";
+"Arms." = "Kollar.";
+"Shoulders." = "Omuzlar.";
+"Bench, Dumbbell, Balance Ball." = "Sehpa, Dambıl, Denge Topu.";
+"Back & Arms." = "Sırt & Kollar.";
+"Neck, shoulders, lower back and legs." = "Boyun, omuzlar, alt sırt ve bacaklar.";
+"Muscle flexibility and relaxation." = "Kas esnekliği ve gevşemesi.";
+"Exercise Mat, Body Weight." = "Egzersiz Matı, Vücut Ağırlığı.";
+
+
+"Focus" = "Odak";
+"Goal" = "Amaç";
+"Skill level" = "Beceri seviyesi";
+"Target Group" = "Hedeflenen grup";
+"Place" = "Yer";
+"Equipment" = "Ekipman" ;
+
+"extraDescription1" = "Ağırlık kaldırmak ve kas ve güç kazanmak için tasarlanmış olan antrenmanlar.";
+"extraDescription2" = "Güç ve nitelik kazanmak için mükemmel egzersiz kombinasyonları.";
+"extraDescription3" = "Bu yaratıcı yağ yakım turu ile güçlenin ve ter atın.";
+"extraDescription4" = "Bu yaratıcı karın yakıcı tur ile incelin ve baklavalarınızı çalıştırın.";
+"extraDescription5" = "Güç ve nitelik kazanmak için göğüs kasınıza odaklanan harika bir antrenman.";
+"extraDescription6" = "Güç ve nitelik kazanmak için kol kaslarınıza odaklanan harika bir antrenman.";
+"extraDescription7" = "Güç ve nitelik kazanmak için bacak kaslarınıza odaklanan harika bir antrenman.";
+"extraDescription8" = " Güç ve nitelik kazanmak için omuz kaslarınıza odaklanan harika bir antrenman.";
+"extraDescription9" = "Güç ve nitelik kazanmak için sırt kasınıza odaklanan harika bir antrenman.";
+"extraDescription10" = "Tüm vücut esnetme seansıyla esnekliğinizi ve kas gevşetmenizi geliştirin.";
+
+"extraDescription1_howToMake" = "Egzersiz başına 3 set.";
+"extraDescription2_howToMake" = "Her egzersiz 15 tekrar, ilk olarak 2 tur, daha sonra 4 ve daha sonra 4 tur daha.";
+"extraDescription3_howToMake" = "Egzersiz arasında dinlenme süresi 15 sn., turlar arasında dinlenme süresi 30 sn.";
+"extraDescription4_howToMake" = "Egzersiz arasında dinlenme süresi 15 sn., turlar arasında dinlenme süresi 30 sn.";
+"extraDescription5_howToMake" = "Egzersiz arasında dinlenme süresi 45 sn., setler arasında dinlenme süresi 35 sn.";
+"extraDescription6_howToMake" = "Egzersiz arasında dinlenme süresi 45 sn., setler arasında dinlenme süresi 35 sn.";
+"extraDescription7_howToMake" = "Egzersiz arasında dinlenme süresi 45 sn., setler arasında dinlenme süresi 35 sn.";
+"extraDescription8_howToMake" = "Egzersiz arasında dinlenme süresi 45 sn., setler arasında dinlenme süresi 35 sn.";
+"extraDescription9_howToMake" = "Egzersiz arasında dinlenme süresi 45 sn., setler arasında dinlenme süresi 35 sn.";
+"extraDescription10_howToMake" = "Egzersizler arasında dinlenme yok. Her bir pozisyon 30 saniyeliğine sabitlenecek.";
+
+"categoryDescription0" = "Karın kaslarınızın hacim ve nitelik kazanması için en iyi egzersizler";
+"categoryDescription1" = "Güçlenmenize ve kuvvet kazanmanıza yardımcı olacak farklı egzersizler";
+"categoryDescription2" = "Kütle oluşturmak ve hacim kazanmak için mükemmel egzersiz kombinasyonları";
+"categoryDescription3" = "Güç kazanmanıza ve kas rahatlaması sağlamanıza yardımcı olacak özel egzersizler";
+"categoryDescription4" = "Nitelik, hacim ve kuvvet kazanmanıza yardımcı olacak en iyi egzersiz";
+"categoryDescription5" = "Arzuladığınız performansa sahip olmanıza yardımcı olacak farklı egzersizler";
+"categoryDescription6" = "Bacaklarınızı güçlendirecek ve dayanıklılığını artıracak mükemmel egzersiz kombinasyonu";
+"categoryDescription7" = "Güç ve nitelik kazanmak için mükemmel bir egzersiz kombinasyonu"; //Shoulders //Omuzlar
+"categoryDescription8" = "Çeşitli yoğunluk seviyeleriyle kuvvetlenmenize yardımcı olacak özel egzersiz";
+"categoryDescription9" = "Pro Sürümünü Satın Al"; //Turkish for “buy pro version” is entered here
+"workoutDescription2" = "Hacim kazanmanıza ve kas yapmanıza yardımcı olacak bir egzersiz kombinasyonu";
+"workoutDescription1" = "İncelmek ve vücudunuza nitelik kazandırmak için mükemmel strateji planı";
+"workoutDescription3" = "Güç kazanmak, performansınızı geliştirmek ve kuvvetlenmek için en iyi yol";
+
+
+"viewed" = "görüntülendi";
+

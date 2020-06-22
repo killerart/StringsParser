@@ -1,0 +1,224 @@
+
+"exercises" = "운동";
+"social follow" = "그대로 연결 VGFIT";
+"Exercises" = "운동";
+"Workouts" = "워크아웃";
+"Custom" = "맞춤";
+"Done" = "완료";
+"Back" = "뒤로";
+"Title" = "제목";
+"Downloading video" = "동영상 다운로드중";
+"Please wait..." = "잠시만 기다리십시오";
+"Cancel" = "취소";
+"Bodybuilding" = "보디빌딩";
+"Fitness" = "피트니스";
+"Powerlifting" = "파워리프팅";
+"2 Days per week" = "일주일에 2일";
+"3 Days per week" = "일주일에 3일";
+"4 Days per week" = "일주일에 4일";
+"Day 1" = "1일";
+"4 sets and 12/10/8/6 reps" = "4세트 그리고12/10/8/6회 반복";
+"Day 2" = "2일";
+"Day 3" = "3일";
+"Day 4" = "4일";
+"Day" = "하루";
+"Days" = "일";
+"4 sets and 15 reps" = "4세트 그리고 15회 반복";
+"5 sets and 3/3/3/2/1 reps" = "5세트 그리고3/3/3/2/1회 반복";
+"Edit" = "수정";
+"My Workout" = "내 워크아웃";
+"To create new workout press +" = "새로운 워크아웃을 만드려면 +를 누르십시오";
+"Save" = "저장";
+"Workout Name:" = "워크아웃 이름:";
+"Days Number:" = "날수:";
+"Delete" = "삭제";
+"Workout Title:" = "워크아웃 제목:";
+"Options:" = "선택 사항:";
+"Camera/Gallery" = "카메라/갤러리";
+"Exercise's Photos" = "운동 사진";
+"Name, Description, Repetitions" = "이름, 요약 설명, 반복";
+"Exercise Name:" = "운동 이름:";
+"Description:" = "요약 설명:";
+"Description" = "요약 설명";
+"Repetitions:" = "반복:";
+"Error!" = "오류!";
+"Error" = "오류";
+"Please fill up the text field!" = "텍스트란에 입력하기 바랍니다!";
+
+"Do you really want to cancel the download process? All progress will be lost!" = "다운로드를 정말로 취소하겠습니까? 모든 진척 상황은 유실될 것입니다! ";
+"Download all videos" = "동영상 모두 다운로드하기";
+"Unzipping Files" = "파일 압축해제";
+"Files" = "파일";
+"Downloading Videos" = "동영상 다운로드중";
+"All videos were saved successfully!" = "동영상이 모두 성공적으로 저장되었습니다!";
+"Add" = "추가하다";
+"No Camera Support!" = "카메라 지원 않됨!";
+"Camera feature is not supported by your device !" = "당신의 기기는 카메라 기능이 지원되지 않습니다!";
+"Please fill up the exercise name field!" = "운동 이름란을 채우기 바랍니다!";
+"Please check your wi-fi or cellular internet connection!" = "와이파이 또는 모바일 인터넷 연결을 확인 바랍니다!";
+"Your video is downloading already! Wait until it's done!" = "동영상이 이미 다운로드중입니다! 종료될 때까지 기다리십시오!";
+"Warning!" = "경고!";
+"For" = "용";
+
+"History" = "기록";
+"More" = "좀 더";
+"Start" = "시작";
+"Weight(kg)" = "체중(킬로그램)";
+"Weight(lbs)" = "체중(파운드)";
+"Weight" = "체중";
+"Repetitions" = "반복";
+"Save" = "저장";
+"Last values"= "마지막 가치";
+"Cancel" = "취소";
+
+"Attention" = "주의";
+"Would you like to leave without saving?" = "저장하지 않고 그만두겠습니까?";
+"Ok" = "오케이";
+
+"No exercises have been done yet" = "더 연습이 아직 완료되지 않았습니다";
+"Performance" = "성능";
+"Send Feedback" = "피드백 보내기";
+"Report a Bug" = "버그 보고하기";
+"Tell a Friend" = "친구에게 추천하기";
+"Gift this App" = "이 앱 선물하기";
+"Rate us" ="평가하기";
+"Set seconds" ="초 설정하기";
+"Stop" = "멈춤";
+"Check out iBodybuildingUpdate" = "아이보디빌딩업데이트를 확인하십시오.";
+"Check out this application on the App Store:" = "앱스토어에서 이 애플리케이션을 확인해 보세요.";
+"Please note that you have not been added to any email lists." =  "귀하는 어떤 이메일 목록에도 추가되지 않았습니다." ;
+
+"Fill up all the blank repetitions boxes." = "빈 모든 반복 칸을 채우십시오.";
+"You can't use values bigger than 500." = "500 보다 더 큰 값을 사용할 수 없습니다. ";
+"You can't input data for future dates." = "미래 날짜에 대한 데이터를 입력할 수 없습니다!";
+
+
+"4 sets and 15 reps" = "4세트 그리고 15회 반복";
+"4 sets and 12/10/8/6 reps" = "4세트 그리고12/10/8/6회 반복";
+"5 sets and 3/3/3/2/1 reps" = "5세트 그리고3/3/3/2/1회 반복";
+
+"Sets"  = "세트";
+"Enter workout name :" = "운동 이름을 입력 :";
+"Days number :" = "일 번호 :";
+"sets and" = "세트 그리고";
+"reps" = "회 반복";
+
+"You can't delete current selection" = "당신은 현재의 선택을 삭제할 수 없습니다";
+
+
+
+//New localization
+
+"Extra" = "추가";
+
+"Forgot your password?" = "비밀번호를 잊어 버렸습니까";
+
+"Alert" = "알림";
+"somethingWentWrongAlert" = "오류 시 알림";
+"An account already exists for this email address" = "이 이메일 주소로 이미 계정이 존재합니다.";
+"Incorrect email address or password" = "잘못된 이메일 주소 또는 비밀번호입니다";
+"Notification" = "공지";
+"In-App purchases were restored" = "인앱 구매가 복원되었습니다";
+"Sorry we didn't find your previous purchases" = "죄송합니다, 이전 구매를 찾을 수 없습니다.";
+"You don't have purchases for this account" = "이 계정에 구매 내역이 없습니다.";
+"You have purchased this item for another account" = "다른 계정으로 이 아이템을 구매하셨습니다";
+"You have already purchased this item." = "이미 이 아이템을 구매하셨습니다.";
+"Do you want to restore it for current account?" = "현재 계정에 복구하시겠습니까?";
+"Enter a valid email address" = "유효한 이메일 주소를 기입하세요";
+"Enter a valid password" = "유효한 비밀번호를 입력하세요";
+
+"Password doesn't match" = "비밀번호가 일치하지 않습니다.";
+"Password must be minimum 4 characters" = "비밀번호는 최소 4자리여야 합니다.";
+"Success!" = "성공!";
+"An email has been sent. Please check your Inbox or Spam folders." = "이메일을 발송하였습니다. 메일함이나 스팸 폴더에 확인해보세요.";
+
+"Login with Email" = "이메일로 로그인";
+"Login with Facebook" = " Facebook으로 로그인";
+"By continuing, you accept our Privacy Policy and Terms of Service" = "계속 진행함으로 개인 정보 취급 방침 및 서비스 약관에 동의합니다";
+"Continue" = "계속하기";
+"Login" = "로그인";
+"Create Account" = "계정 만들기";
+"Sign Up" = "회원 가입";
+"Email" = "이메일";
+"Password" = "비밀번호";
+"Confirm Password" = "비밀번호 확인";
+"No internet connection" = "인터넷 연결이 없습니다.";
+"Restore" = "복구";
+"My profile" = "프로필";
+"Sign Out" = "로그아웃";
+
+"30 sec. without rest time" = "휴식 없이 30초";
+"3 sets and 12/11/10 reps"  = "3세트, 12/11/10회";
+"35 s. work time 15 s. rest time" = "35초 운동 15초 휴식";
+"30 s. work time 15 s. rest time" = "30초 운동 15초 휴식";
+"2 rounds 15 reps" = "15회씩 2라운드";
+
+
+
+"Round" = "라운드";
+"Rounds" = "라운드";
+"Reset" = "재설정";
+"Intervals" = "주기";
+"Current settings" = "현재 설정";
+"My workouts" = "내 운동";
+"Work time" = "운동 시간";
+"Rest time" = "휴식 시간";
+
+"Instagram application is not installed" = "인스타그램 앱이 설치되어 있지 않습니다";
+
+
+
+
+"Skip" = "넘기기";
+"Guest" = "손님";
+"Training plans" = "트레이닝 계획";
+"Downloading content" = "다운로드 중인 콘텐츠";
+"Content is downloading, please wait" = "콘텐츠가 다운로드 중입니다, 기다려주세요";
+"Share application" = "앱 공유하기";
+"Share app on Facebook" = "Facebook에 앱 공유하기";
+"Share app on Instagram" = "Instagram에 앱 공유하기";
+"Follow VGFIT on Instagram" = "Instagram의 VGFIT 팔로우";
+"Follow VGFIT on Facebook" = "Facebook의 VGFIT 팔로우";
+"tweetAboutUsKey" = "Tweet에 소개하기";
+"Backup" = "백업";
+"Export backup file" = "백업 파일 내보내기";
+"Backup on email or print your workout history" = "운동 내역을 이메일로 백업 또는 출력하기";
+"Import backup file" = "백업 파일 불러오기";
+"To import history tap on the file in your mail" = "메일에 있는 파일에서 내역 불러오기";
+"History by Exercise" = "운동별 내역";
+"History by Date" = "날짜별 내역";
+"youCantSendTwitt" = "잠시 앱에서 트윗을 보낼 수 없습니다. 트위터에 연결할 수 없거나 기기와 연결된 트위터 계정이 없기 때문입니다";
+"pleaseLogToFB" = "디바이스 설정에서 Facebook계정을 로그인하세요";
+//reminder
+
+
+"Reminder" = "알림";
+"Edit notification permission in IOS settings" = "IOS 설정에서 알림 권한 수정";
+"Daily reminder" = "매일 알림";
+"Frequency" = "빈도수";
+"It's time to workout!" = "운동할 시간입니다!";
+"After %ld days of inactivity" = "비활동 %ld 일 후";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "이런! 몇일간 운동하지 않았네요, 돌아와서 운동해요!";
+
+//Rate us Button
+
+//"Love our %@ app" = "저희 %@ 앱을 사랑하나요"; //%@ - is the name of the app to be inserted
+//"Your feedback will help us to get better" = "귀하의 의견은 저희가 더 나아질 수 있도록 도와줍니다";
+"Oh Dear!" = "오~!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "앱 개선을 위한 아이디어를 제공해 주신다면 정말 감사하겠습니다. 감사합니다!";
+
+
+"Email Us" = "이메일 보내기";
+"Not now" = "나중에";
+
+"5-Stars" = "별5개 ";
+"To improve the app, please Leave a Rating or Review." = "앱 개선을 위해 평점이나 리뷰를 남겨주세요.";
+
+//Watch
+"Download" = "다운로드";
+"Download all images" = "모든 이미지 다운로드";
+"Oops!" = "이런!";
+"You have to unlock this workout on your iPhone." = "iPhone에 이 운동을 잠금해제해야 합니다.";
+"There are no custom workouts to show." = "표시할 사용자 맞춤 운동이 없습니다.";
+"There is no history, yet." = "아직 아무 내역이 없습니다.";
+"Please, Download the images." = "이미지를 다운로드하세요.";

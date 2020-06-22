@@ -1,0 +1,247 @@
+
+"exercises" = "oefeningen";
+"social follow" = "Blijf in contact met VGFIT";
+"Exercises" = 	"Oefeningen";
+"Workouts" = 	"Trainingen";
+"Custom" = 	"Aangepast";
+"Done" =	"Gedaan";
+"Back" = 	"Terug";
+"Title" = 	"Titel";
+"Downloading video" = 	"Video Downloaden" ;
+"Please wait..." = 	"Even geduld...";
+"Cancel" = 	"Afbreken";
+"Bodybuilding" =	"Body building";
+"Fitness" = 	"Conditietraining";
+"Powerlifting" = 	"Power lifting";
+"2 Days per week" = "2 dagen per week";
+"3 Days per week" = "3 dagen per week";
+"4 Days per week" = "4 dagen per week";
+"Day 1" = 	"Dag 1";
+"4 sets and 12/10/8/6 reps"= 	" 4 sets en 12/10/8/6 herhalingen";
+"Day 2" =	"Dag 2";
+"Day 3" =	"Dag 3";
+"Day 4" = 	"Dag 4";
+"Day" = "Dag";
+"Days" = "Dagen";
+"4 sets and 15 reps" = 	"4 sets en 15 herhalingen";
+"5 sets and 3/3/3/2/1 reps" = 	"5 sets en 3/3/3/2/1 herhalingen";
+"Edit" = 	"Wijzigen";
+"My Workout" = 	"Mijn Training";
+"To create new workout press +" = 	"Om een nieuwe training te maken druk +";
+"Save" = 	"Opslaan";
+"Workout Name:" = 	"Training Naam:";
+"Days Number:" = 	"Dag Nummer:";
+"Delete" = 	"Verwijderen";
+"Workout Title:"= 	"Training Titel:";
+"Options:" = 	"Opties:";
+"Camera/Gallery" = 	"Camera/Galerij";
+"Exercise's Photos" = 	"Oefeningen Foto's";
+"Name, Description, Repetitions" = 	"Naam, Beschrijving, Herhalingen";
+"Exercise Name:" = 	"Oefening Naam:";
+"Description:" =	"Beschrijving:";
+"Description" =	"Beschrijving";
+"Repetitions:" = 	"Herhalingen:";
+"Auto" = 	"Automatisch";
+"On" =	"Aan";
+"Off" = 	"Uit";
+"Retake" = 	"Opnieuw doen";
+"Preview" = 	"Bekijken";
+"Use" = 	"Gebruiken";
+"Error!" = 	"Fout!";
+"Error" = 	"Fout";
+"Please fill up the text field" = 	"Vul het tekstveld in, aub";
+"Ok" = 	"Ok";
+"Do you really want to cancel the download process? All progress will be lost!" =	"Wil je het downloaden echt afbreken? Alles wordt dan gewist!";
+"Download all videos" =	"Download alle video's";
+"Unziping Files" = 	"Bestanden uitpakken";
+"Files" = 	"Bestanden";
+"Downloading Videos" = 	" Video's Downloaden";
+"All videos were saved succesfully!" = 	"Alle video's zijn met succes opgeslagen!";
+"Add" =	"Toevoegen";
+"No Camera Support!" =	"Geen Camera ondersteuning!";
+"Camera feature is not supported by your device !" =	"Camera mogelijkheid wordt door jouw apparaat niet ondersteund!";
+"Please fill up the exercise name field!" =	"Vul aub een oefening naam is!";
+"Please check your wi-fi or cellular internet connection!"=	"Controleer je WiFi of telefoon=internetverbinding!";
+"Your video is downloading already!" =	"Je video wordt al gedownload!";
+"Warning!" =	"Waarschuwing!";
+"For 3 Days" =	"Voor 3 Dagen";
+
+"Wait until it's done!" =	"Wacht even tot het gereed is!";
+"Do you really want to exit?" =	"Wil je echt afsluiten?";
+"Pay attention to repetitions and weights!" =	" Besteedt aandacht aan herhalingen en gewichten!";
+"4 sets and 15 repetitions" =	"4 sets en 15 herhalingen";
+"Later" =	"Tot later";
+"Get Pro" =	"Ga voor Pro" ;
+"More User Friendly Interface" =	"Vriendelijkere gebruiksbediening";
+"Faster Working Algorithm" =	"Sneller Werkend Algorithme";
+"User's Support With Higher Priority" =	"Gebruikersondersteuning met Hogere Prioriteit";
+"More Frequent Updates" =	"Meer Frequente Updates";
+"Video Guide" =	"Video Wegwijzer";
+"No Ads" =	"Geen Advertenties";
+"ADS" =	"ADVERTENTIES";
+"Loading" =	"Bezig met laden" ;
+
+"History" =	"Geschiedenis";
+"More" =	"Meer";
+"Start" =	"Start";
+"Weight(kg)" =	"Gewicht(kg)";
+"Weight(lbs)" =	"Gewicht(lbs)";
+"Weight" = "Gewicht";
+"Repetitions" =	"Herhalingen";
+"Save" =	"Opslaan";
+"Last values" =	"Laatste waarden";
+"Cancel" =	"Annuleren";
+
+"Attention" =	"Let Op";
+"Would you like to leave without saving?" =	"Wil je afsluiten zonder op te slaan?";
+"Ok" =	"Ok";
+
+
+"No exercises have been done yet" ="Er zijn nog geen oefeningen gedaan";
+"Performance" =	"Prestatie";
+"Send Feedback" =	"Verstuur Feedback";
+"Report a Bug" =	"Meldt een fout";
+"Tell a Friend" =	"Vertel een Vriend";
+"Gift this App" =	"Doe dit cadeau";
+"Rate us" =	"Beoordeel ons";
+"Set seconds" =	"Seconden instellen";
+"Stop" =	"Stop";
+"Check out iBodybuilding-Update" =	"Kijk voor iBodybuildingUpdate";
+"Check out this application on the App Store:" =	"Bekijk deze applicatie in de App Store:";
+"Please note that you have not been added to any email lists." =	"Merk op dat je niet bent toegevoegd aan een email lijst.";
+
+"Fill up all the blank repetitions boxes." = "Vul de lege herhalingsvakjes in.";
+"You can't use values bigger than 500." ="Waardes moeten kleiner zijn dan 500.";
+"You can't input data for future dates." = "Je kunt geen data invoeren voor toekomstige datums!";
+
+
+"4 sets and 15 reps" = "4 sets en 15 herhalingen";
+"4 sets and 12/10/8/6 reps" = "4 sets en 12/10/8/6 herhalingen";
+"5 sets and 3/3/3/2/1 reps" = "5 sets en 3/3/3/2/1 herhalingen";
+
+"Sets"  = "Sets";
+"Enter workout name :" = "Voer workout naam :";
+"Days number :" = "Dagen nummer :";
+"sets and" = "sets en";
+"reps" = "herhalingen";
+
+"You can't delete current selection" = "U kunt de huidige selectie niet verwijderen";
+
+
+
+// new localization
+
+
+"Extra" = "Extra";
+
+"Forgot your password?" = "Je wachtwoord vergeten?";
+
+"Alert" = "Waarschuwing";
+"somethingWentWrongAlert" = "ErLiepIetsFoutWaarschuwing";
+"An account already exists for this email address" = "Er bestaat reeds een account voor dit emailadres";
+"Incorrect email address or password" = "Incorrect emailadres of paswoord";
+"Notification" = "Melding";
+"In-App purchases were restored" = "In-app aankopen werden hersteld";
+"Sorry we didn't find your previous purchases" = "Sorry maar we hebben uw vorige aankopen niet teruggevonden";
+"You don't have purchases for this account" = "U hebt geen aankopen voor deze account";
+"You have purchased this item for another account" = "U hebt dit item voor een andere account gekocht";
+"You have already purchased this item." = "U hebt dit item reeds gekocht";
+"Do you want to restore it for current account?" = "Wilt u dit herstellen voor een andere account?";
+"Enter a valid email address" = "Geef een geldig email adres";
+"Enter a valid password" = "Geef een geldig paswoord";
+
+"Password doesn't match" = "Paswoord is niet correct";
+"Password must be minimum 4 characters" = "Paswoord moet uit minimum 4 karakters bestaan";
+"Success!" = "Succes!";
+"An email has been sent. Please check your Inbox or Spam folders." = "Een email is verstuurd. Controleer uw inbox of spamfolder";
+
+"Login with Email" = "Login met uw email";
+"Login with Facebook" = "Login met Facebook";
+"By continuing, you accept our Privacy Policy and Terms of Service" = "Door verder te gaan aanvaardt u ons Privacy Beleid en onze Algemene Voorwaarden";
+"Continue" = "Ga verder";
+"Login" = "Login";
+"Create Account" = "Creëer een account";
+"Sign Up" = "Registreer";
+"Email" = "Email";
+"Password" = "Paswoord";
+"Confirm Password" = "Bevestig paswoord";
+"No internet connection" = "Geen internet verbinding";
+"Restore" = "Herstel";
+"My profile" = "Mijn profiel";
+"Sign Out" = "Afmelden";
+
+"30 sec. without rest time" = "30 sec. zonder rusten";
+"3 sets and 12/11/10 reps" = "3 sets en 12/11/10 reps";
+"35 s. work time 15 s. rest time" = "35 s. werktijd 15 s. rusttijd";
+"30 s. work time 15 s. rest time" = "30 s. werktijd 15 s. rusttijd";
+"2 rounds 15 reps" = "2 reeksen 15 reps";
+
+
+"Round" = "Reeks";
+"Rounds" = "Reeksen";
+"Reset" = "Reset";
+"Intervals" = "Intervals";
+"Current settings" = "Huidige instellingen";
+"My workouts" = "Mijn workouts";
+"Work time" = "Werktijd";
+"Rest time" = "Rusttijd";
+
+"Instagram application is not installed" = "Instagram app is niet geïnstalleerd";
+
+
+
+
+
+
+"Skip" = "Overslaan";
+"Guest" = "Gast";
+"Training plans" = "Training-plannen";
+"Downloading content" = "Content downloadend";
+"Content is downloading, please wait" = "Content downloadend, gelieve te wachten";
+"Share application" = "Deel application";
+"Share app on Facebook" = "Deel app op Facebook";
+"Share app on Instagram" = "Deel app op Instagram";
+"Follow VGFIT on Instagram" = "Volg VGFIT op Instagram";
+"Follow VGFIT on Facebook" = "Volg VGFIT op Facebook";
+"tweetAboutUsKey" = "Tweet over ons";
+"Backup" = "Back-up";
+"Export backup file" = "Exporteer back-up file";
+"Backup on email or print your workout history" = "Back-up via email of print uw workout-geschiedenis";
+"Import backup file" = "Importeer back-up file";
+"To import history tap on the file in your mail" = "Om geschiedenis te importeren, tap op de file in uw mail";
+"History by Exercise" = "Geschiedenis per oefening";
+"History by Date" = "Geschiedenis op datum";
+"youCantSendTwitt" = "De toepassing kan op dit moment geen tweet versturen. Omdat het geen verbinding met Twitter kan maken of omdat je geen Twitter-account hebt die aan dit apparaat is gekoppeld";
+"pleaseLogToFB" = " Log in op je Facebook-account vanaf de instellingen van je apparaat";
+//reminder
+
+"Reminder" = "Herinnering";
+"Edit notification permission in IOS settings" = "Toestemming voor meldingen in IOS-instellingen bewerken";
+"Daily reminder" = "Dagelijkse herinnering";
+"Frequency" = "Frequetie";
+"It's time to workout!" = "Het is tijd voor je workout!";
+"After %ld days of inactivity" = "Na %ld dagen van niet-actief zijn";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Hey! Je hebt al een paar dagen geen workout gedaan, kom terug en pak het weer op!";
+
+//Rate us Button
+
+//"Love our %@ app" = "Vind onze %@-app leuk"; //%@ - is the name of the app to be inserted
+//"Your feedback will help us to get better" = "Je feedback helpt ons beter te worden";
+"Oh Dear!" = "Oh hemeltje lief";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "We stellen het heel erg op prijs als je ons van ideeën kunt voorzien, waarmee we de app kunnen verbeteren. Alvast bedankt!";
+
+
+"Email Us" = "Stuur Ons een E-mail";
+"Not now" = "Nu niet";
+"5-Stars" = "5-Sterren";
+"To improve the app, please Leave a Rating or Review." = "Om de app te verbeteren laat a.u.b. een Beoordeling of een Review achter.";
+
+//Watch
+"Download" = "Download";
+"Download all images" = "Download alle foto's";
+"Oops!" = "Oeps!";
+"You have to unlock this workout on your iPhone." = "Je dient deze workout op je iPhone te ontsluiten.";
+"There are no custom workouts to show." = "Er zijn geen aangepaste workouts om te tonen.";
+"There is no history, yet." = "Er is nu nog geen geschiedenis.";
+"Please, Download the images." = "Download a.u.b. de afbeeldingen.";
+

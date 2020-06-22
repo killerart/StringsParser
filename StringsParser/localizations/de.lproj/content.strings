@@ -1,0 +1,1407 @@
+/* 
+  content.strings
+  iBodybuilding-Update  Created by Johnny Bravo on 6/18/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Abs" = "Bauchmuskulatur";
+"Back" = "Rücken";
+"Biceps" = "Bizeps";
+"Calf" = "Wade";
+"Chest" = "Brust";
+"Forearms" = "Unterarme";
+"Legs" = "Beine";
+"Shoulders" = "Schultern";
+"Triceps" = "Trizeps";
+
+//Abs
+"Incline Bench Sit-Ups" = "Hantelbank Sit-ups";
+"1 Incline Bench Sit-Ups" = "Muskel: Rectus Abdominis\n\nSchritt 1: Legen Sie sich mit dem Rücken auf die Schrägbank. Gebenn Sie die Hände über den Kopf. Die Knie sind angezogen.\n\nSchritt 2: Heben Sie Ihren Oberkörper nach oben, während Sie Ihr Kreuz auf der Bank halten. Für eine Sekunde halten. Zurück in die Ausgangsposition gehen";
+
+"Hanging Leg Raises" = "Freitragendes Beinheben";
+"2 Hanging Leg Raises" = "Muskel: Rectus Abdominis\n\nSchritt 1: Halten Sie sich an einer Klimmzugstange mit einem Überhandgriff und lassen Sie sich mit leicht angewinkelten Knien hängen.\n\nSchritt 2: Ziehen Sie Ihre Hüften nach oben, während Sie sich mithilfe Ihrer unteren Bauchmuskulatur in Richtung Ihrer Brust bewegen. Heben Sie Ihre Knie so nahe an die Brust wie möglich, während Sie Ihr Kreuz oben einrollen. Pausieren Sie dann, fühlen Sie die Kontraktion in Ihrer unteren Bauchmuskulatur und gehen Sie in die Ausgangsposition zurück.";
+
+"Dumbbell Side Bends" = "Hantel-Seitneigung";
+"3 Dumbbell Side Bends" = "Muskel: Oblique\n\nSchritt 1: Stehen Sie gerade mit den Füßen schulterbreit auseinander. Halten Sie in jeder Hand eine Kurzhantel.\n\nSchritt 2: Beugen Sie sich in eine Richtung nach unten, mit möglichst geringer Bewegung Ihres Unterkörpers.\n\nSchritt 3: Gehen Sie in die Ausgangsposition zurück";
+
+
+"Crunches" = "Bauchmuskelübungen";
+"4 Crunches" = "Muskel: Rectus Abdominis\n\nSchritt 1: Strecken Sie Ihre Beine aus, während Sie auf Ihrem Rücken liegen, heben Sie Ihre Fersen 2 cm vom Boden und platzieren Sie Ihre Hände an der Seite.\n\nSchritt 2: Halten Sie Ihre Arme parallel zum Boden, heben Sie Ihren Oberkörper und Ihre Beine, so dass sie ein “E” bilden. Beugen Sie Ihre Knie, während Sie sich aufrichten, und ziehen Sie sie nach oben in Richtung Ihrer Brust.";
+
+"Sit-Ups" = "Sit-ups";
+"5 Sit-Ups" = "Muskel: Rectus Abdominis\n\nSchritt 1: Legen Sie sich mit dem Rücken auf den Gymnastikball. Geben Sie Ihre Hände an Ihren Kopf und lassen Sie die Füße auf dem Boden.\n\nSchritt 2: Heben Sie Ihren Oberkörper nach oben, während Sie Ihr Kreuz auf dem Gymnastikball halten. Für eine Sekunde halten. Dann zurück in die Ausgangsposition.";
+
+"Leg Raises" = "Beinheben";
+"6 Leg Raises" = "Muskel: Rectus Abdominis\n\nSchritt 1: Legen Sie sich auf den Boden. Strecken Sie Ihre Beine aus. Geben Sie Ihre Hände hinter Ihren Kopf.\n\nSchritt 2: Heben Sie Ihren Oberkörper nach oben. Für eine Sekunde halten. Dann zurück in die Ausgangsposition.";
+
+
+"Flat Bench Lying Leg Raise" = "Flachbank liegendes Beinheben";
+"7 Flat Bench Lying Leg Raise" = "Mit ausgestreckten Beinen auf die Bank oder den Boden legen. Legen Sie Ihre Hände unter Ihren Hintern mit den Handflächen nach unten. Halten Sie Ihre Beine gestreckt und Ihre Knie gesperrt. Heben Sie Ihre Füße so vertikal wie möglich an.";
+
+"Seated Jackknife" = "Sitzendes Klappmesser";
+"8 Seated Jackknife" = "Setzen Sie sich auf den Bankrand, und halten Sie sich am Sitz hinter Ihnen zur Unterstützung fest, strecken Sie Ihre Beine vor sich aus, Knie leicht gebeugt. Heben Sie Ihre Beine zu Ihrer Brust, und bringen Sie Ihre Brust zu Ihren Knien.";
+
+"Twisting Hip Raise" = "Drehendes Hüftheben";
+"9 Twisting Hip Raise" = "Legen Sie sich auf Ihren Rücken, Beine aufrecht nach oben halten und Hände an die Seite. Drücken Sie sich mit Ihren Füßen nach oben, indem Sie Ihre Hüften gleichzeitig vom Boden erheben und sie dann zu einer Seite drehen.";
+
+"Twisting Hip Raise" = "Drehendes Hüftheben";
+"9 Twisting Hip Raise" = "Legen Sie sich auf Ihren Rücken, Beine aufrecht nach oben halten und Hände an die Seite. Drücken Sie sich mit Ihren Füßen nach oben, indem Sie Ihre Hüften gleichzeitig vom Boden erheben und sie dann zu einer Seite drehen.";
+
+"Twisting Hip Raise" = "Drehendes Hüftheben";
+"9 Twisting Hip Raise" = "Legen Sie sich auf Ihren Rücken, Beine aufrecht nach oben halten und Hände an die Seite. Drücken Sie sich mit Ihren Füßen nach oben, indem Sie Ihre Hüften gleichzeitig vom Boden erheben und sie dann zu einer Seite drehen.";
+
+"Bodyweight Crunch" = "Körpergewicht-Bauchmuskelübung";
+"12 Bodyweight Crunch" = "Legen Sie sich auf den Boden. Füße sind flach auf dem Boden und Knie sind gebeugt. Voll ausgestreckte Arme über Ihnen. Heben Sie Ihren Oberkörper nach oben, während Sie den unteren Rückenbereich auf dem Boden lassen. Für eine Sekunde halten. Gehen Sie zurück zur Startposition.";
+
+"Russian Twist" = "Russischer Twist";
+"13 Russian Twist" = "Setzen Sie sich auf den Boden, Beine gebeugt und Ihren Oberkörper etwas schief nach hinten halten. Strecken Sie Ihre Arme vor Ihrem Oberkörper aus. Drehen Sie Ihren Oberkörper nach einer Seite, zurück zur Mittelposition und dann zur anderen Seite.";
+
+"Side Bridge" = "Seitenbrücke";
+"14 Side Bridge" = "Legen Sie sich mit ausgestreckten Beinen auf Ihre Seite. Seitlich drehen und Ihren Körper mit einem gebeugten Arm parallel zum Boden hochheben. Versuchen Sie, Ihren Körper gerade und Ihren Ellenbogen direkt unter Ihrer Schulter zu halten.";
+//Back
+"Chin-Ups" = "Klimmzüge";
+"1 Chin-Ups" = "Greifen Sie die Stange mit den Handflächen und Fingern nach vorne, weg vom Körper. Das ist der „pronierte” Griff. Halten Sie die Arme gerade, und lassen Sie sich gerade nach unten hängen ohne zu schwingen. Entspannen Sie Ihre Schultern und Ihren Körper. Ziehen Sie sich langsam nach oben, nicht zucken. Das Kinn sollte über die Stange kommen. Gehen Sie langsam zur Startposition zurück.";
+
+"Deadlifts" = "Kreuzheben";
+"2 Deadlifts" = "Ihre Stellung ist ungefähr eine Schulterlänge auseinander, mit Ihren Füßen geradeaus gestreckt und etwas nach vorne gestellt. Jetzt sollten Sie Ihren Hintern senken, bis Ihre Quads ungefähr paralle mit dem Boden sind. Die Stange sollte knapp vor Ihren Schienbeinen sein. Greifen Sie nun mit beiden Händen nach der Hantel, so daß Ihr Griff einen geringen Abstand von Ihren Beinen hat. Drücken Sie sich durch eine Lendenwölbung im Rücken mit den Füßen ab, und heben Sie gleichzeitig mit Ihrem Rücken, so daß die Stange Ihre Knie verläßt und auf Ihren Hüften zur Ruhe kommt. Ihre Schultern und Knie sollten voll gesperrt sein, und Ihre Arme sollten während des ganzen Versuchs gerade sein.";
+
+"Lat Pull-Downs" = "Latziehen";
+"3 Lat Pull-Downs" = "Befestigen Sie eine lange Stange an die Latzug-Maschine, und stellen Sie die Oberschenkelpolster so ein, daß beim Sitzen Ihre Knie rechtwinklig und Ihre Füße flach auf dem Boden sind. Fassen Sie die Stange mit einem weiten Griff, setzen Sie sich mit einem aufrecht gehaltenen Oberkörper hin, und lehnen Sie etwas weg von Ihren Hüften. Ziehen Sie die Stange vor Ihr Gesicht zum Anfang Ihrer Brust, und  halten Sie inne. Lassen Sie die Stange langsam zur  Anfangsposition zurückgleiten, indem Sie Ihre Arme ausstrecken.";
+
+"Seated Rows" = "Sitzendes Rudern";
+"4 Seated Rows" = "Um mit dem sitzenden Rudern anzufangen, greifen Sie die Griffe Ihrer Lieblingsstange (es könnte die sein, die gezeigt wird). Setzen Sie sich mit einem geraden Rücken hin, während Ihre Beine angewinkelt sind, und Sie Ihre Füße gegen den Metallblock stellen. Dehnen Sie Ihre Arme aus, und fühlen Sie, wie Ihre Rückenmuskeln sich dehnen. Ziehen Sie das Gewicht zurück zu Ihrem Körper, bis die Griffe Ihren Bauch berühren.";
+
+"One-Arm Dumbbell Rows" = "Einarmiges Kurzhantelrudern";
+"5 One-Arm Dumbbell Rows" = "Platzieren Sie Ihr linkes Knie und Ihre linke Hand auf eine Flachbank, und lassen Sie Ihr rechtes Bein fest auf dem Boden stehen. Lehnen Sie nach vorne, so daß Ihr Rücken flach und parallel zum Boden ist. Erfassen Sie mit Ihrer rechten Hand eine Hantel, indem Ihre Handfläche zu Ihrem Körper zeigt, und heben oder rudern Sie die Hantel hoch und zu Ihrer Rippengegend. Gehen Sie zur Startposition zurück, und wiederholen Sie.";
+
+"Barbell Shrugs" = "Langhantel-Achselzucken";
+"6 Barbell Shrugs" = "Stellen Sie sich gerade hin, Füße schulterlang auseinander, während Sie eine Langhantel in beiden Händen mit einem pronierten Griff (Handflächen zu Oberschenkeln) vor sich halten. Hinweis: versuchen Sie nicht, die Hantel mit Ihren Bizeps zu heben.Gehen Sie langsam zur Anfangsposition zurück, während Sie einatmen.";
+
+"Dumbbell Shrugs" = "Kurzhantel-Achselzucken";
+"7 Dumbbell Shrugs" = "Stellen Sie sich gerade hin, und lassen Sie die Hanteln an den Seiten baumeln, die Füße sollten weit genug auseinander sein, daß die Hanteln bequem baumeln können. Sie können schwerer sein, als die Hanteln, die Sie als Armbeuge oder Anhebung benutzen würden. Zucken Sie mit Ihren Schultern so, als wenn Sie „Ich weiß es nicht” sagen würden, nachdem Sie jemand etwas gefragt hat. Beugen Sie sich nicht nach vorne, versuchen Sie sich ganz gerade zu halten. Wenn Sie sich dabei ertappen, nach vorne oder hinten zu lehnen, erleichtern Sie die Gewichte etwas.";
+
+"Back Extensions" = "Rückenverlängerungen";
+"8 Back Extensions" = "Stellen Sie sich in eine Rückenverlängerungsstation, und haken Sie sich an einen Beinanker an. Ihr Körper sollte von Ihren Händen zu Ihren Hüften eine gerade Linie bilden. Senken Sie Ihren Oberkörper, erlauben Sie Ihrem Rücken sich zu wölben, bis er fast senkrecht zum Boden ist. Erheben Sie Ihren Oberkörper, bis er sich etwas mehr als parallel zum Boden befindet. An diesem Punkt sollten Sie einen leichten Bogen in Ihrem Rücken haben, und Ihre Schulterblätter sollten zusammengezogen sein. Halten Sie für eine Sekunde inne, und dann wiederholen Sie alles.";
+
+"Bent Over Row" = "Gebücktes Rudern";
+"9 Bent Over Row" = "Stellen Sie sich mit leicht gebeugten Knien hin. Neigen Sie Ihren Oberkörper in einem 45 Grad Winkel, und halten Sie Ihren Rücken gerade. Greifen Sie oben nach der Stange, indem Ihre Hände weiter auseinander sind als Schulterlänge, und Ihre Arme sollten geradeaus von Ihren Schultern hängen:\n\n- Atmen Sie ein, ziehen Sie Ihre Bauchmuskeln isometrisch zusammen, und ziehen Sie die Stange gerade hoch, bis sie Ihre Brust berührt.\n\n- Gehen Sie, während Sie ausatmen, zur Anfangsposition zurück.";
+
+"Reverse Chin Ups" = "Umgekehrte Klimmzüge";
+"10 Reverse Chin Ups" = "Verlängern Sie Ihre Arme, und greifen Sie von unten nach der Stange, während Ihre Hände eine Schulterlänge auseinander sind:\n\n- Atmen Sie ein, und strecken Sie Ihre Brust heraus, und ziehen Sie sich hoch, bis Ihr Kinn an der Höhe der Stange ist.\n\n- Atmen Sie aus, während Sie die Übung abschließen.";
+//Biceps
+
+"Curls" = "Hantelübungen";
+"1 Curls" = "Stellen Sie sich mit Ihren Füßen in Hüftweite auseinander hin, spannen Sie Ihre Bauchmuskeln an, während Sie mittelschwere Hanteln vor Ihren Oberschenkeln halten. Drücken Sie die Bizeps, und biegen Sie Ihre Arme, indem Sie die Gewichte zu Ihren Schultern bringen. Halten Sie die Ellenbogen ruhig, und bringen Sie die Gewichte nur so hoch, wie Sie können ohne die Ellenbogen zu bewegen. Lassen Sie die Gewichte langsam herunter, und lassen Sie die Ellenbogen unten leicht geknickt (z.b. die Gelenke nicht feststellen und versuchen die Spannung im Muskel zu halten).";
+
+"Barbell Curls" = "Langhantelübungen";
+"2 Barbell Curls" = "Fangen Sie in stehender Position an, stellen Sie Ihre Füße schulterweit auseinander, und entspannen Sie Ihre Knie. Fassen Sie eine Hantel mit Ihren Händen, ebenfalls schulterweit auseinander. Ihr Griff sollte von unten kommen (Handflächen nach oben). Stehen Sie gerade, und lassen Sie die Stange vor Ihren Oberschenkeln hängen. Biegen Sie Ihre Ellenbogen, um die Stange zur Schulterhöhe zu ziehen. Halten Sie in dieser Position für einen Moment inne. Lassen Sie die Stange langsam wieder zur Anfangsposition zurückkommen.";
+
+"Preacher Curls" = "Priesterübungen";
+"3 Preacher Curls" = "Fassen Sie die Stange ungefähr in Schulterweite an. Bringen Sie die Stange langsam nach oben, bis Ihre Unterarme zur Decke zeigen (etwas mehr als vertikal). Halten Sie für eine Sekunde inne, und bringen Sie die Stange langsam zur Anfangsposition zurück.";
+
+"Hammer Curls" = "Hammerübungen";
+"4 Hammer Curls" = "Halten Sie eine Hantel in jeder Hand mit Ihren Handflächen und Gewichten nach außen. Ihre Arme sollten einen 90 Grad Winkel bilden. Halten Sie Ihre Ellenbogen nah an Ihrem Körper, und ziehen Sie das Gewicht in ruhiger Position zu Ihren Schultern. Lassen Sie die Gewichte wieder langsam zur Anfangsposition zurückkommen.";
+
+"Concentration Curls" = "Konzentrationsübungen";
+"5 Concentration Curls" = "Setzen Sie sich auf den Bankrand, halten Sie eine Hantel in Ihrer rechten Hand. Lassen Sie den rechten Arm geradeaus herunter, und lassen Sie den Ellenbogen auf der Innenseite des Knies ruhen. Lehnen Sie sich nach vorne, so daß Ihr Oberkörper über Ihren Beinen ist, und platzieren Sie die linke Hand auf das linke Knie. Beugen Sie den Ellenbogen, ziehen Sie die Hantel zur Schulterhöhe nach oben, und machen Sie einen Moment Pause, bevor Sie das Gewicht zur Anfangsposition zurückbringen. Wiederholen Sie dies, bis das Set beendet ist, wechseln Sie anschließend Seiten, und vervollständigen Sie die Übung mit dem linken Arm.";
+
+"Reverse Curls" = "Umgekehrte Übungen";
+"6 Reverse Curls" = "Stellen Sie sich mit leicht gespreizten Füßen hin, und lassen Sie Ihre Arme gerade, und benutzen Sie einen Obergriff (Daumen zueinander zeigend):\n\n- Einatmen und die Stange rotieren.\n\n- Ausatmen und die Bewegung beenden. Diese Übung bearbeitet die Streckmuskeln des Handgelenks und der Finger. Sie bearbeitet den Oberarmspeichenmuskel und in geringerem Ausmaß den Bizeps.";
+
+"Cable Biceps Curl" = "Kabelbizepsübung";
+"7 Cable Biceps Curl" = "Befestigen Sie eine gerade Stange an die untere Rolle einer Kabelstation. Fassen Sie anschließend in Schulterlänge die Stange im Untergriff, und halten Sie sie in Armlänge genau vor Ihren Oberschenkeln. Ihre Knie sollten leicht gebeugt sein. Ziehen Sie die Stange vor Ihre Brust, so weit wie Sie können, ohne Ihre Oberarme zu bewegen.";
+
+"Low Pulley Curls" = "Untere Umlenkrolle";
+"8 Low Pulley Curls" = "Stellen Sie sich vor die Maschine, und fassen Sie den Griff von unten an:\n\n- Einatmen und den Rollengriff ziehen.\n\n- Ausatmen und die Bewegung beenden. Dies ist eine gute Übung zum Isolieren und Pumpen der Bizeps.";
+
+"Low Pulley Cable Crossover" = "Untere Kabelrollbrücke";
+"9 Low Pulley Cable Crossover" = "Stellen Sie die Kabel der unteren Kabelstation ein, und überqueren Sie Ihre Hände bis zu Ihrem Gesicht kreuzweise von unten nach oben. Diese Variante dient besonders der oberen Brust.";
+
+//Calf
+
+"Toe Raises" = "Zehenspitzenheben";
+"1 Toe Raises" = "Beginnen Sie mit einer neutralen Position, Fersen in oder etwas weiter als Schulterweite. Halten Sie die Hanteln in beiden Händen auf der gleichen Seite als der Fuß. Bewegen Sie sich hoch auf die Zehen, die Wade zusammenziehen und dann langsam zum vollen Bewegungsbereich absenken.";
+
+"One-Leg Toe Raises" = "Zehenspitzenheben auf einem Bein";
+"2 One-Leg Toe Raises" = "Stellen Sie sich auf einen Fuß, und platzieren Sie die Zehen und Fußballen auf den Block. Halten Sie auf der gleichen Seite des Fuß auf dem Sie stehen eine Hantel in Ihrer Hand, und fassen Sie den Rand der Maschine mit Ihrer anderen Hand an, um Ihren Körper während der Bewegung ruhig zu halten.\n\n- Erheben Sie sich auf Ihren Zehen so hoch wie möglich (Plantarflexion), halten Sie Ihre Knie ausgedehnt oder etwas gebeugt.\n\n- Gehen Sie zur Anfangsposition zurück.";
+
+"Seated Calf Raises" = "Sitzendes Wadenheben";
+"3 Seated Calf Raises" = "Verstellen Sie das Polster so, daß Ihre Schienbeine gerade sind, und das Polster genau hinter dem Knie ist. Heben Sie das Gewicht an, indem Sie ihre Fersen mit den Fußballen hochdrücken. Lassen Sie Ihre Fersen langsam wieder herab, bis Sie in Ihrem Wadenmuskel eine Dehnung spüren. Um innere und äußere Waden zu bearbeiten, weisen Sie Ihre Zehen jeweils nach innen oder nach außen.";
+//Chest
+
+"Bench Presses" = "Bankdrücken";
+"1 Bench Presses" = "Um eine Bankdrückenübung richtig durchzuführen, müssen Sie sich flach auf eine Bank legen und Ihre Füße flach auf dem Boden halten. Wenn die Stange auf dem Ständer ist, befindet sie sich etwas hinter Ihrem Kopf. Bei dieser Übung ist es wichtig einen Trainingspartner zu haben, besonders wenn Sie eine freie Stange oder Hanteln benutzen, damit keine Chance besteht, daß das Gewicht auf Sie fällt. Nachdem Sie das Gewicht von dem Ständer gehoben haben, befindet sich die Stange direkt über Ihrer Brustmitte. Lassen Sie Ihren Kopf während der Übung dauernd auf der Bank. Wenn Sie die Stange ruhig haben, lassen Sie sie zu Ihrer Brust herunter, wenn Sie können. Lassen Sie Ihre Arme nach außen gestreckt während die Stange nach unten kommt. Nachdem Sie mit der Bewegung unten angekommen sind, stemmen Sie die Stange zurück zur ausgefahrenen Position, und konzentrieren Sie sich darauf, sie mit Ihrer Brust und Ihren Armen nach oben zu fahren.";
+
+"Incline Presses" = "Schrägbankdrücken";
+"2 Incline Presses" = "Diese Übung ist dem normalen Langhantel-Bankdrücken sehr ähnlich, außer daß man eine neigungsfreie Hantelbank-Pressmaschine benutzt, und man die Oberkörpermuskelgruppe anstelle der Brustmitte bearbeitet. Heben Sie die Hantel von dem Ständer, und lassen Sie sie langsam bis zu 3 Inch vor Ihrem Schlüsselbein herab (knapp unter Ihrem Adamsapfel), und drücken Sie sie danach zurück zur Anfangsposition. DIE STANGE SOLL DEN OBERKÖRPER NICHT BERÜHREN ( Dies führt zu unnötigem Stress auf den Schultergelenken und nimmt die Spannung von Ihren Brustmuskeln, die bearbeitet werden sollen!). Gehen Sie sicher, daß Sie beim Herunterlassen der Stange langsam und vorsichtig umgehen. Umgekehrt sollten Sie beim Hochdrücken der Stange volle Kraft anwenden.";
+
+"Dumbbell Presses" = "Kurzhanteldrücken";
+"3 Dumbbell Presses" = "Fangen Sie an, indem Sie sich auf die Bank setzen, halten Sie Ihre Hanteln, und lassen Sie sie auf Ihren Oberschenkeln ruhen. Benutzen Sie Ihre Oberschenkel, um die Hanteln zu Ihrer Brust zu führen, während Sie Ihren Körper zurückrollen, um sich auf die Bank zu legen. Strecken Sie dann Ihre Arme über Ihrer Brust aus (lassen Sie Ihre Ellenbogen leicht gebeugt), die Handflächen nach vorne gerichtet. Lassen Sie Ihre Füße flach auf dem Boden und Ihren Rücken in neutral (nicht mehr als ein leichter Bogen). Lassen Sie die Hanteln herunter, indem Sie Ihre Ellenbogen zur Seite biegen. Machen Sie weiter, bis Ihre Ellenbogen kurz unter Ihren Schultern sind. Drücken Sie dann die Hanteln wieder nach oben, bringen Sie sie oben nah aneinander (ohne Berührung), und winkeln Sie sie leicht nach innen. Lassen Sie Ihre Ellenbogen leicht gebeugt, nicht „sperren”. Machen Sie dies, bis alle Wiederholungen vollendet sind. Um aufzustehen halten Sie die Hanteln an Ihrer Brust, schmeißen Sie Ihre Beine nach oben und dann nach vorne, damit Sie genug Schwung haben, um aufrecht zu sitzen.";
+
+"Parallel Bar Dips" = "Paralleles Stangenbeugen";
+"4 Parallel Bar Dips" = "Zuerst halten Sie Ihren Kopf nach unten während dem Verlauf der Übung, und bewegen Sie Ihren Körper nach vorne. Zweitens ziehen Sie Ihre Ellenbogen etwas hinaus. Das heißt, halten Sie Ihre Ellenbogen hinaus und weg von Ihrem Körper. Damit gehen Sie sicher, daß Sie Ihre Brust mehr benutzen als Ihre Trizeps. Denken Sie daran, daß Sie sich an der Spitze der Übung wirklich auf das Zusammendrücken Ihrer ganzen Brustgegend konzentrieren.";
+
+"Cable Crossover Flys" = "Kabelbrücken Fliegen";
+"5 Cable Crossover Flys" = "Diese Übung wird mit der Kabelrollenmachine durchgeführt, die eine Umlenkrolle an zwei gegenüberliegenden Seiten hat. Stellen Sie jede Rolle so ein, daß sie in der Höchstposition eingesperrt ist (wenn Sie nicht wissen, wie das geht, fragen Sie einen Trainer in dem Fitnessstudio, wo Sie trainieren,um Ihnen zu helfen). Fassen Sie während dem Stehen jede hohe Rolle mit einem kleinen Handaufsatz für jede Hand an. Die Position, in der sich Ihr Körper befindet, sieht aus wie ein riesiger Buchstabe. Bringen Sie Ihre Arme langsam und kontrolliert zusammen. Stellen Sie sich hierbei vor, daß Sie einen riesigen Baumstamm umarmen. Spannen Sie bei dieser Übung Ihre Brustmuskeln richtig an, zählen Sie einmal, gehen Sie zur Anfangsposition zurück, und wiederholen Sie.";
+
+"Dumbbell Flys" = "Hantelfliegen";
+"6 Dumbbell Flys" = "Für das Hantelfliegen holen Sie sich ein relativ leichtes Gewicht für jede Hand. Sie müssen herausfinden, welches Gewicht für Ihr Hantelfliegen richtig ist. Fangen Sie mit einem leichteren Gewicht an, und arbeiten Sie sich langsam hoch. Legen Sie sich auf eine Hantelbank, und heben Sie beide Hanteln mit ausgestreckten Armen über Ihre Brust. Dies ist Ihre Anfangsposition. Breiten Sie beide Arme in einem weiten Boden nach außen, bis sie an Ihren Seiten angekommen sind. Ihre Arme können leicht gebeugt sein. Das ist der „Fliegen” Teil des Hantelfliegen. Man nennt es so, weil es aussieht, als wenn man am fliegen ist. Machen Sie den gleichen Bogen nach oben bis die Hanteln wieder an der Anfangsposition angekommen sind. Dies ist eine Wiederholung des Hantelfliegen.";
+
+"Dumbbell Pullovers" = "Hantelüberzug";
+"7 Dumbbell Pullovers" = "Dies ist der Hantelüberzug mit gebeugtem Arm Übung sehr ähnlich, außer, daß Sie hier eine Hantel anstelle einer Langhantel benutzen. Legen Sie sich mit Ihrem Rücken auf eine Flachbank. Fangen Sie damit an, indem Sie eine Hantel über Ihrer Brust halten und Ihre Ellenbogen leicht beugen. Lassen Sie die Hantel langsam hinunter kommen, indem Sie Ihre Arme (und die Hantel) so weit wie Sie können hinter Ihren Kopf führen. Ihre Arme und die Hantel kommen tatsächlich hinter/über Ihren Kopf und sinken unter die Bank- dies ermöglicht Ihnen ein gutes Dehnen! Bringen Sie die Hantel langsam zur Anfangsposition zurück, indem Sie Ihre Ellenbogen in einer gesperrten und leicht gebeugten Position halten.";
+
+"Push-Ups" = "Liegestützen";
+"8 Push-Ups" = "Legen Sie sich mit geraden Armen hin, Ihre Handflächen flach auf dem Boden und Ihre Hände schulterweit entfernt (oder weiter). Halten Sie Ihre Füße zusammen oder sehr leicht gespreizt:\n\n- Atmen Sie ein, und biegen Sie Ihre Ellenbogen, um Ihren Körper in die Nähe des Boden zu bringen, ohne Ihre Wirbelsäule zu sehr zu überstrecken.\n\n- Drücken Sie sich selbst in ausgestreckter Position zurück auf die Arme, und atmen Sie bei Vollendung der Bewegung aus.";
+
+"Dumbbell Press" = "Kurzhanteldrücken";
+"9 Dumbbell Press" = "Legen Sie sich flach auf eine Bank, stellen Sie Ihre Füße für Stabilität auf den Boden, strecken Sie Ihre Arme nach oben und Ihre Hände sind nach innen zugewandt und halten die Kurzhanteln:\n\n- Atmen Sie ein, und bringen Sie die Hanteln zu Ihrer Brust, die Ellenbogen sind etwas gebeugt, und die Unterarme sind gedreht, um die Hand in Pronation zu bringen.\n\n- Drücken Sie die Hanteln zurück nach oben, und formen Sie eine isometrische Anspannung, um die Belastung der Brustmuskeln zu isolieren; atmen Sie bei der Vollendung der Bewegung aus.";
+
+"Barbell Bench Press" = "Langhantel-Bankdrücken";
+"10 Barbell Bench Press" = "Legen Sie sich auf einer Schrägbank zurück. Halten Sie die Hantel im Obergriff. Bringen Sie die Hantel zu Ihrer unteren Brust, während Sie Ihre Ellenbogen nah an Ihrem Körper halten. Die Hantel sollte Ihre Brust am Ende der Bewegung leicht  berühren.";
+
+"Pec Deck Flies" = "Schmetterlinge";
+"11 Pec Deck Flies" = "Setzen Sie sich auf den Sitz der Maschine, und drücken Sie Ihre Ellenbogen in die Polster, lassen Sie Ihre Unterarme und Handgelenke ruhen:\n\n- Atmen Sie ein, und drücken Sie die Polster zusammen, bis sie sich vor Ihrer Brust treffen.\n\n- Atmen Sie während der Vollendung der Bewegung aus.";
+//Forearms
+"Wrist Curls" = "Handgelenkübungen";
+"1 Wrist Curls" = "Setzen Sie sich auf eine Bank, und lassen Sie Ihre Unterarme auf Ihren Oberschenkeln ruhen. Fassen Sie die Stange im Untergriff an, und lassen Sie Ihre Handgelenke passiv verlängert:\n\n- Atmen Sie ein, und biegen Sie Ihr Handgelenk nach oben.\n\n- Atmen Sie bei der Vollendung der Übung aus.";
+
+"Wrist Curls" = "Handgelenkübungen";
+"2 Wrist Curls" = "Setzen Sie sich auf eine Bank. Benutzen Sie eine Hantel, und lassen Sie Ihre Handgelenke passiv verlängert:\n\n- Atmen Sie ein, und biegen Sie Ihr Handgelenk nach oben.\n\n- Atmen Sie bei der Vollendung der Übung aus. Diese Übung bearbeitet die Beugemuskeln des Handgelenks und des Fingers.";
+//Legs
+"Squats" = "Kniebeugen";
+"1 Squats" = "Bei der Kniebeuge lassen Sie sich zum Boden hinab, ohne daß Sie Ihren unteren Rücken biegen. Sie benutzen anstelle dessen Ihre Beine zum Herunterlassen Ihres Körpers und lassen die Wirbelsäule in einer neutralen Position. Stellen Sie sich so, daß Ihre Füße hüftweit auseinander sind. Drücken Sie Ihre Hüften nach hinten, und beugen Sie Ihre Knie. Lassen Sie Ihr Gewicht hinten auf Ihren Fersen und nicht auf Ihren Fußballen. Ihre Knie sollten hinter Ihren Zehen bleiben. Lassen Sie sich weiter hinab, bis Ihre Knie sich in einer 90 Grad Biegung befinden. Halten Sie für eine Zählung inne, und drücken Sie sich dann durch Ihre Fersen ab, wobei Sie Ihre Knie und Hüften strecken.";
+
+"Angled Leg Presses" = "Abgewinkeltes Beinpressen";
+"2 Angled Leg Presses" = "Setzen Sie sich mit Ihrem Rücken und Kopf and die gepolsterte Stütze gelehnt auf die Maschine. Stellen Sie Ihre Füße hüftweit auf die Fußplatte, und gehen Sie sicher, daß Ihre Fersen flach sind. Die Beine sollten am Knie einen Winkel von ungefähr 90 Grad bilden, es kann etwas mehr oder weniger sein, so lange die Fersen flach auf der Platte stehen. Die Knie sollten mit den Füßen eine Linie bilden und weder nach innen noch nach außen gebogen sein. Ihr Hintern sollte sich nicht von der Sitzplattform bewegen. Wenn er dies tut, und die Beine sind zu sehr angewinkelt, müssen Sie den Sitz zurückstellen, bis die korrekte Position erreicht ist. Sie erkennen diese schlechte Position, wenn die Knie vor Ihren Augen erscheinen, und Sie sich eingeengt fühlen. Greifen Sie nach den Stützgriffen.";
+
+"Leg Extensions" = "Beinstrecken";
+"3 Leg Extensions" = "Heben Sie das Gewicht langsam, indem Sie beide Beine nach oben zu einer ausgestreckten Position bringen. Ziehen Sie das Gewicht nicht ruckartig nach oben. Halten Sie diese Position für eine Sekunde. Lassen Sie das Gewicht langsam zur Anfangsposition zurückkommen. Wiederholen Sie die Übung.";
+
+"Dumbbell Lunges" = "Hantelausfallschritte";
+"4 Dumbbell Lunges" = "Stellen Sie sich mit Hanteln an den Seiten gehalten hin. Schreiten Sie mit dem ersten Bein nach vorne. Landen Sie auf der Ferse und dann auf dem Vorderfuß. Lassen Sie Ihren Körper herab, indem Sie Ihr Knie und Ihre Hüfte des vorderen Beins herunterlassen, bis das Knie des hinteren Beins fast mit dem Boden Kontakt hat. Gehen Sie zur stehenden Anfangsposition zurück, indem Sie die Hüfte und das Knie des vorderen Beins zum Ausstrecken zwingen. Wiederholen Sie diese abwechselnden Schritte mit dem anderen Bein.";
+
+"Cable Back Kicks" = "Kabelzurückziehen";
+"5 Cable Back Kicks" = "Befestigen Sie eine Schlaufe an das Ende des Kabels, daß durch die untere Rolle läuft. Bringen Sie die Schlaufe um Ihr Fußgelenk. Stellen Sie sich vor den Gewichtsstapel und halten Sie sich am Rand der Maschine zur Unterstützung fest. Neigen Sie Ihr Becken nach vorne. Bringen Sie Ihr Bein zurück.";
+
+"Dumbbell Squats" = "Hantelkniebeugen";
+"6 Dumbbell Squats" = "Stellen Sie sich mit leicht gespreizten Füßen hin, halten Sie in jeder Hand eine Hantel fest, und lassen Sie Ihre Arme an den Seiten herunterhängen:\n\n- Gucken Sie gerade nach vorne, wölben Sie Ihren Rücken etwas, und gehen Sie in die Hocke.\n\n- Wenn Ihre Oberschenkel parallel zum Boden sind, strecken Sie Ihre Beine, und gehen Sie zur Anfangsposition zurück.\n\n- Atmen Sie bei der Vollendung der Bewegung aus.";
+
+"Front Squats" = "Frontkniebeugen";
+"7 Front Squats" = "Platzieren Sie die Hantel über Ihre vorderen Schultermuskeln, halten Sie Ihre Oberarme parallel zum Boden, biegen Sie Ihre Ellenbogen, kreuzen Sie Ihre Arme, fassen Sie nach der Stange, und gucken Sie gerade nach vorne:\n\n- Atmen Sie ein, und gehen Sie in die Hocke.\n\n- Gehen Sie zur Anfangsposition zurück, atmen Sie während der Vollendung der Übung aus.";
+
+"Power Squats" = "Kraftkniebeugen";
+"8 Power Squats" = "Diese Übung ist den üblichen Kniebeugen gleich, aber Ihre Beine sind weit gespreizt, und Ihre Zehen zeigen nach innen, was besonders für die Innenseite der Oberschenkel funktioniert. Die betroffenen Muskeln sind:\n\n- der Quadrizeps\n\n- alle Adduktoren\n\n- die Gesäßmuskeln\n\n- die Achillessehne-Gruppe\n\n- alle Wirbelsäulenmuskeln";
+
+"Hack Squats" = "Hackkniebeugen";
+"9 Hack Squats" = "Biegen Sie Ihre Knie, platzieren Sie Ihren Rücken gegen die gepolsterte Oberfläche, keilen Sie Ihre Schultern zwischen die Gabel der Maschine, und stellen Sie Ihre Füße relativ nah aneinander.\n\n- Atmen Sie ein, drehen Sie die Stopgriffe der Gabel, um die Maschine loszulassen, und beugen Sie Ihre Beine.\n\n- Gehen Sie zur Anfangsposition zurück, und atmen Sie während der Vollendung der Übung aus.";
+
+"Seated Leg Curls" = "Sitzende Beinübungen";
+"11 Seated Leg Curls" = "Setzen Sie sich mit gestreckten Beinen auf die Maschine, die Fußgelenke ruhen auf dem Walzenkissen. Lassen Sie das Bein über Ihre Oberschenkel herunter, um es zu sichern. Greifen Sie nach den Griffen, die es an beiden Seiten gibt:\n\n- Atmen Sie ein, und beugen Sie Ihre Knie, um das Walzenkissen nach unten zu bewegen.\n\n- Atmen Sie bei der Vollendung der Übung aus.";
+//Shoulders
+"Back Presses" = "Rückendrücken";
+"1 Back Presses" = "Fangen Sie damit an, sich auf die Bank zu setzen (mit Rückenunterstützung). Greifen Sie im Obergriff eine Hantel. Halten Sie die Hanteln über den Schultern vor sich, weisen Sie die Ellenbogen zum Boden. Drücken Sie die Hanteln nach oben über den Kopf, so daß die Arme voll ausgestreckt sind. Nach einer Pause bringen Sie die Gewichte zur Anfangsposition zurück.";
+
+"Seated Front Presses" = "Sitzendes Einständerpressen";
+"2 Seated Front Presses" = "Sie sitzen aufrecht auf der Bank. Greifen Sie nach der Hantel etwas weiter als in Schulterlänge. Lassen Sie die Hantel vor Ihren Schultern herunter kommen, drücken Sie sie anschließend zur Anfangsposition zurück.";
+
+"Seated Dumbbell Presses" = "Sitzendes Kurzhanteldrücken";
+"3 Seated Dumbbell Presses" = "Platzieren Sie sich auf einer Bank oder einem Stuhl mit Ihrem Rücken aufrecht und gerade. Halten Sie in jeder Hand eine Hantel, und halten Sie sie etwas außerhalb Ihrer Schultern mit Ihren Daumen nach innen und zueinander. Drücken Sie die Hanteln einfach über Ihren Kopf, und gehen Sie zu der Anfangsposition etwas außerhalb Ihrer Schultern zurück.";
+
+"Low-Pulley Lateral Raises" = "Seitheben der unteren Umlenkrolle";
+"4 Low-Pulley Lateral Raises" = "Stellen Sie sich mit der Seite nahe an die Kabelzugmaschine, platzieren Sie Ihren Arm etwas vor Ihren Oberschenkeln, und greifen Sie nach dem Griff. Atmen Sie ein, und heben Sie Ihren Arm mit leicht gebeugtem Ellenbogen zur Seite des Körpers, bis Ihr Arm mit der Schulter gleich ist. Lassen Sie Ihre Handfläche unten. Lassen Sie Ihren Arm langsam und kontrolliert zur Anfangsposition zurückkommen.";
+
+"Upright Rows" = "Senkrechtes Rudern";
+"5 Upright Rows" = "Heben Sie die Stange zu Ihrem Kinn, indem Sie mit Ihren Ellenbogen anfangen. Wenn Ihre Oberarme parallel zum Boden sind, hören Sie mit dem Ziehen auf und lassen die Stange langsam auf dem gleichen Weg herunter, wie sie hochgekommen ist.";
+
+"Dumbbell Rear Deltoid Raises" = "Hinter-Deltamuskel-Hantelheben";
+"6 Dumbbell Rear Deltoid Raises" = "Setzen Sie sich nach vorn geneigt auf eine Bank, Füße zusammen auf dem Boden. Heben Sie die Hanteln zur Seite, lassen Sie Ihre Hände gestreckt, und kommen Sie langsam wieder zur Anfangsposition zurück.";
+
+"Lateral Raises" = "Seitheben";
+"7 Lateral Raises" = "Stellen Sie sich mit leicht gespreizten Füßen hin. Halten Sie Ihren Rücken gerade, Ihre Arme hängen an den Seiten und halten eine Hantel in jeder Hand:\n\n- Heben Sie die Hantel zur Schulterhöhe hoch, lassen Sie Ihre Ellenbogen etwas gebeugt. \n\n Gehen Sie zur Anfangsposition zurück.";
+
+"Front Raises" = "Frontheben";
+"8 Front Raises" = "Stehen Sie mit leicht gespreizten Füßen. Halten Sie die Hanteln mit den Handflächen nach unten (Überhand Griff), lassen Sie die Hanteln auf Ihren Oberschenkeln oder etwas auf der Seite ruhen:\n\n- Atmen Sie ein, und heben Sie die Kurzhanteln mit abwechselnden Seiten zu Schulterhöhe an sich.\n\n- Atmen Sie bei der Vollendung der Übung aus.";
+
+"Barbell Front Raises" = "Langhantelfrontheben";
+"9 Barbell Front Raises" = "Stehen Sie mit leicht gespreizten Beinen. Greifen Sie mit einem Überhandgriff nach der Hantel, und lassen Sie die Langhantel auf Ihren Oberschenkeln ruhen. Halten Sie Ihren Rücken gerade und Ihre Bauchmuskeln zusammengezogen:\n\n- Atmen Sie ein, und heben Sie die Hantel mit ausgestreckten Armen nach vorne bis sie Augenhöhe erreicht.\n\n- Atmen Sie bei der Vollendung der Übung aus.";
+
+"Upright Row" = "Senkrechtes Rudern";
+"10 Upright Row" = "Stehen Sie mit leicht gespreizten Füßen. Halten Sie Ihren Rücken gerade. Greifen Sie mit einem Überhandgriff nach der Stange, wobei Ihre Hände eine Handflächenweite oder etwas weiter auseinander sind:\n\n- Atmen Sie ein, und ziehen Sie die Langhantel geradeaus nach oben, bis sie Ihr Kinn berührt.\n\n- Heben Sie Ihre Ellenbogen beim Höhepunkt der Übung so hoch wie möglich.\n\n- Atmen Sie aus, und lassen Sie die Hantel langsam zur Anfangsposition zurückkommen.";
+
+"Low Pulley Bent-Over Lateral Raises" = "Gebeugtes Seitheben der unteren Umlenkrolle";
+"11 Low Pulley Bent-Over Lateral Raises" = "Stehen Sie mit leicht gebeugten Füßen und Knien. Lehnen Sie sich von der Hüfte an nach vorne, lassen Sie Ihren Rücken gerade und Ihre Arme hängen. Halten Sie in jeder Hand einen Griff, wobei die Kabel sich kreuzen:\n\n- Atmen Sie ein, und heben Sie Ihre Arme zu den Seiten, bis Ihre Hände etwas höher als Ihre Schultern sind.\n\n- Atmen Sie während der Vollendung der Übung aus.";
+
+"Low Pulley Front Raises" = "Frontheben der unteren Umlenkrolle";
+"12 Low Pulley Front Raises" = "Stehen Sie mit leicht gespreizten Füßen. Halten Sie den Griff mit der Überhand, und lassen Sie Ihre Arme an Ihren Seiten:\n\n- Atmen Sie ein, und heben Sie Ihren Arm zur Schulterhöhe.\n\n- Atmen Sie während der Vollendung der Übung aus. Diese Übung bearbeitet die Deltamuskeln.";
+
+"Pec Deck Rear-Delt Laterals " = "Hinteres Schmetterlingsseitheben";
+"13 Pec Deck Rear-Delt Laterals" = "Setzen Sie sich mit dem Gesicht zur Rückenstütze in eine Schmetterlingsmaschine, und greifen Sie mit ausgestreckten Armen nach den Griffen:\n\n- Atmen Sie ein, und zwingen Sie Ihre Ellenbogen nach hinten, drücken Sie Ihre Schulterblätter am Ende der Übung zusammen.\n\n- Atmen Sie bei der Vollendung der Übung aus.";
+//Triceps
+
+"Close-Grip Bench Presses" = "Bankdrücken mit engem Griff";
+"1 Close-Grip Bench Presses" = "Platzieren Sie sich auf eine normale Hantelflachbank-Drückmaschine. Legen Sie sich flach auf Ihren Rücken, und greifen Sie nach der Hantel über Ihnen mit einem sehr engen Griff. Gehen Sie sicher, daß Ihr Griff zwischen 6 und 8 Inch weit ist. Heben Sie die Hantel vom Ständer, lassen Sie sie bis zu 3 Inch an Ihre Brust herunter kommen, und drücken Sie sie dann zurück zur Anfangsposition. Konzentrieren Sie sich darauf, Ihre Ellenbogen während der ganzen Übung zu Ihrem Körper zu weisen.";
+
+"Push-Downs" = "Hinunterdrücken";
+"2 Push-Downs" = "Benutzen Sie eine Umlenkrolle mit hohen Kabeln, greifen Sie von oben nach einer kurzen, geraden Stange. Ihre Hände sollten ungefähr 10 Inch voneinander entfernt sein. Platzieren Sie Ihre Unterarme parallel zum Boden. Halten Sie Ihre Füße schulterweit auseinander, und beugen Sie Ihre Knie leicht. Halten Sie Ihre Ellenbogen nah an Ihrem Körper und Ihre Handgelenke gerade. Halten Sie Ihren GANZEN Körper ruhig, drücken Sie die Stange so weit zu Ihren Beinen herunter wie möglich, sperren Sie Ihre Arme, und fühlen Sie, wie Ihre Trizeps sich völlig zusammenziehen. Lassen Sie die Oberarme nah an Ihrem Körper. Gehen Sie mit der gleichen Bewegung zur Anfangsposition zurück. Bewegen Sie nie Ihre Ellenbogen oder Ihren Oberkörper! Bleiben Sie gerade stehen.";
+
+"Triceps Extensions" = "Trizepsverlängerungen";
+"3 Triceps Extensions" = "Wenn Sie die Stange über Augenhöhe platzieren, bleiben Ihre Trizeps unter Anspannung, während Ihre Arme in ausgestreckter Position sind. Halten Sie Ihre Arme jetzt still in der ausgestreckten Position, während Sie Ihre Ellenbogen beugen und dem Gewicht unter Kontrolle erlauben zu Ihrer Stirn herunterzukommen.";
+
+"Triceps KickBacks" = "Trizepsrückschläge";
+"4 Triceps KickBacks" = "Knien Sie sich bequem mit dem gleichen Bein, mit dem Sie das Gewicht heben, auf eine Bank. Mit einem geraden Rücken und Ihrem Kopf nach vorne guckend fangen Sie jetzt mit dem Gewicht in einem 90 Grad Winkel an (wie gezeigt). Erweitern Sie das Gewicht, und halten Sie Ihre Ellenbogen völlig ruhig.";
+
+"One-Arm Dumbbell Triceps Extensions" = "Einarmige Trizepshantelverlängerungen";
+"5 One-Arm Dumbbell Triceps Extensions" = "Halten Sie Ihren Arm in voller Ausdehnung über Ihrem Körper. Gehen Sie sicher, daß Ihr Ellenbogen von Ihrem Körper wegzeigt. Mit Ihrer leeren Hand greifen Sie gerade unter dem Ellenbogen nach Ihrem anderen Arm. Danach bringen Sie das Gewicht herunter und biegen den Ellenbogen. Nachdem der Unterarm parallel zum Boden ist, können Sie den Arm wieder vollständig ausstrecken.";
+
+"Bar Triceps Extensions" = "Stangen-Trizepsverlängerungen";
+"6 Bar Triceps Extensions" = "Um anzufangen, stellen Sie sich hin, halten Sie eine Hantel oder eine e-z Stange mit proniertem Griff (Handflächen nach vorne), Ihre Hände enger als Schulterbreite voneinander entfernt. Ihre Füße sollten schulterweit entfernt sein. Erhöhen Sie die Hantel über Ihren Kopf, bis Ihre Arme voll ausgestreckt sind. Halten Sie Ihre Ellenbogen nach innen. Dies ist Ihre Anfangsposition. Halten Sie Ihre Arme nah an Ihrem Kopf und Ihre Ellenbogen nach innen, senkrecht zum Boden, verringern Sie den Widerstand in einer halbkreisförmigen Bewegung hinter Ihrem Kopf bis Ihre Unterarme Ihre Bizeps berühren. Hinweis: die Oberarme sollten ruhig bleiben, und nur die Unterarme sollten sich bewegen. Atmen Sie während diesem Schritt ein. Gehen Sie zur Anfangsposition zurück, indem Sie die Trizeps zum Heben der Hantel benutzen. Atmen Sie bei diesem Schritt aus.";
+
+"Dumbbell Triceps Extension" = "Kurzhanteltrizepsverlängerungen";
+"7 Dumbbell Triceps Extension" = "Legen Sie sich auf eine Flachbank, halten Sie in jeder Hand eine Hantel, und lassen Sie Ihre Arme von den Schultern an gerade ausgestreckt.\n\n- Atmen Sie ein, und beugen Sie langsam Ihre Arme.\n\n- Gehen Sie zur Anfangsposition zurück, und atmen Sie währenddessen aus. Diese Übung bearbeitet gleichmäßig jeden Kopf der Trizeps.";
+
+"Triceps Dips" = "Trizepsvertiefungen";
+"8 Triceps Dips" = "Platzieren Sie Ihre Hände an den Rand einer Flachbank, und legen Sie Ihre Füße auf eine andere Bank. Bilden Sie einen Körper-Bein Winkel zu 90 Grad:\n\n- Atmen Sie ein, und biegen Sie Ihre Arme.\n\n- Strecken Sie Ihre Arme, um an die Anfangsposition zu kommen, atmen Sie während dieser Bewegung aus. Diese Übung bearbeitet die Trizeps, Brustmuskeln und vordere Schultermuskeln.";
+
+"Triceps Pushdown" = "Trizepshinunterdrücken";
+"9 Triceps Pushdown" = "Stellen Sie sich mit dem Gesicht zur Maschine, Ihre Hände sind an der Stange, und Ihre Ellenbogen sind an Ihren Seiten:\n\n- Atmen Sie aus, und strecken Sie Ihre Arme, aber lassen Sie Ihre Ellenbogen an der Seite.\n\n- Atmen Sie während der Vollendung dieser Übung aus.";
+
+"One Arm Reverse Pushdown" = "Einarmiges, umgedrehtes Hinunterdrücken";
+"11 One Arm Reverse Pushdown" = "Stellen Sie sich mit dem Gesicht zur Maschine, und fassen Sie den Griff mit der Unterhand:\n\n- Atmen Sie ein, und strecken Sie Ihren Arm.\n\n- Atmen Sie während der Vollendung dieser Übung aus.";
+
+
+"Rotating T Extension"="Rotierende T-Ausdehnung";
+"16 Rotating T Extension"="1. Beginnen Sie in einer Liegestützeposition. Halten Sie Ihre Arme gerade und Ihren Kern angespannt. \n\n2. Verlagern Sie Ihr Gewicht auf Ihren linken Arm, rotieren Sie Ihren Oberkörper nach rechts, und heben Sie Ihren rechten Arm zur Decke, so daß Ihr Körper ein T bildet. \n\n3. Halten Sie für drei Sekunden inne, danach gehen Sie zum Anfang und wiederholen Sie auf der anderen Seite. \nDas ist eine Wiederholung.\n";
+
+"Bodyweight Hip Extension"="Körpergewicht-Hüft-Ausdehnung";
+"15 Bodyweight Hip Extension"="1. Legen Sie sich auf den Boden. Ein Fuß ist flach auf dem Boden, während das andere Bein gerade bleibt. Benutzen Sie zum Stabilisieren Ihrer Position Ihre Hände.\n\n2. Heben Sie Ihr gerades Bein, bis Ihr unterer Rücken vom Boden gehoben ist. Halten Sie für eine Sekunde inne. Gehen Sie zur Anfangsposition zurück.\n";
+
+"Superman"="Supermann";
+"17 Superman"="1. Sie knien auf allen Vieren mit Ihren Knien unter Ihren Hüften hüftweit auseinander und legen Ihre Hände eine Schulterbreite auseinander unter Ihre Schultern auf den Boden. Halten Sie Ihre Wirbelsäule in einer neutralen Position. Aktivieren Sie Ihren Kern, indem Sie Ihre Bauchmuskeln nach hinten zu Ihrer Wirbelsäule ziehen. \n\n2. Ohne jegliche Seitenbewegung und mit eingezogenem Bauch atmen Sie ein und heben langsam einen gegenüberliegenden Arm und ein gegenüberliegendes Bein, bis sie parallel zum Boden sind. Achten Sie darauf, das Tempo einzuhalten, das Sie bestimmt haben.\n\n3. Atmen Sie aus und gehen Sie langsam mit Ihrem Arm und Bein in die Anfangsposition zurück.\n\n4. Machen Sie die gewünschte Anzahl an Wiederholungen, danach wiederholen Sie die Übung mit dem anderen Arm und Bein.\n";
+
+"Bodyweight Superman"="Körpergewicht Supermann";
+
+"11 Bodyweight Superman"="1. Legen Sie sich zum Boden neigend hin. Strecken Sie Ihre Arme vollständig vor sich aus. \n\n2. Heben Sie Ihre Beine und oberen Körper zur Decke. Halten Sie für eine Sekunde inne. Gehen Sie zur Anfangsposition zurück.\n";
+
+"Dumbbells Bent Over Row"="Gebeugtes Kurzhantel-Rudern";
+"12 Dumbbells Bent Over Row"="1. Greifen und halten Sie ein Paar Kurzhanteln und halten Sie sie vor Ihrer Taille, aber lassen Sie den Rücken dabei flach. Ihre Arme sind mit Handflächen zueinander nach unten gestreckt. \n\n2. Heben Sie die Kurzhanteln zu den Seiten Ihrer Brust und bringen Sie sie zu ihrer ausgestreckten Anfangsposition, während Sie Ihren Rücken durchweg stabil und gerade halten.\n";
+
+"Seated Bent Over Row"="Gebeugtes Rudern im Sitzen";
+"14 Seated Bent Over Row"="1. Setzen Sie sich mit gebeugten Knien auf das Ende einer Bank, Füße flach auf dem Boden und platzieren Sie ein Paar Kurzhanteln auf den Boden neben sich. Beugen Sie sich aus der Taille so weit wie möglich nach vorne bis Ihr Rücken fast parallel zum Boden ist - Ihre Brust sollte Ihre Beine berühren. Reichen Sie nach unten, greifen Sie mit jeder Hand eine Hantel und lassen Sie Ihre Arme gerade nach unten hängen. \n\n2. Drehen Sie die Gewichte so, daß Ihre Handflächen nach innen zeigen.\n\n3. Bewegen Sie außer Ihren Armen nichts, ziehen Sie die Kurzhanteln langsam zu Ihrem Körper an den Seiten Ihrer Brust hoch.\n\n4. Für eine Sekunde innehalten, dann die Gewichte wieder herablassen.\n";
+
+"Stability Ball Hyperextension"="Gymnastikball Überdehnung";
+"13 Stability Ball Hyperextension"="1. Legen Sie sich neigend auf einen Gymnastikball. Ihr ganzer Oberkörper sollte auf dem Ball sein. Halten Sie Ihre Arme über Ihrem Kopf.\n\n2.Biegen Sie Ihren Oberkörper, bis Ihre Brust keinen Kontakt mehr mit dem Gymnastikball hat. Für eine Sekunde halten. Gehen Sie zur Anfangsposition zurück.\n";
+
+"T-Bar Bent Over Row"="Gebeugtes T-Stangen-Rudern";
+"15 T-Bar Bent Over Row"="1. Stellen Sie sich mit gespreizten Beinen an eine T-Stangen-Rudermaschine und greifen Sie mit einem Obergriff nach den Griffen. Gehen Sie sicher, daß Ihre Füße schulterbreit auseinander und Ihre Knie leicht gebeugt sind, wie dargestellt.\n\n2. Halten Sie Ihren Rücken flach und biegen Sie Ihre Taille bis Ihr Oberkörper 45 Grad in der Senkrechte ist, die Stange hängt auf Armlänge direkt unter Ihren Schultern. \n\n3. Dann heben Sie die Stange so nah an Ihre untere Brust wie Sie können, während Sie Ihre Schulterblätter zusammenziehen. Innehalten, dann die Stange wieder langsam zur Anfangsposition hinunterlassen.\n";
+
+"Dumbbell Biceps Curl (Hammer Grip On Bench)"="Bizeps Kurzhantelübung (Hammergriff Auf Bank)";
+"10 Dumbbell Biceps Curl (Hammer Grip On Bench)"="1. Während Sie mit geradem Rücken stehen, halten Sie eine Kurzhantel mit einem Hammergriff. Lassen Sie den Oberarm oben auf der Schrägbank ruhen.\n\n2. Heben Sie die Kurzhantel hoch, während Sie Ihre Oberarme in Position halten. Halten Sie für eine Sekunde inne. Lassen Sie die Kurzhantel langsam wieder zur Anfangsposition zurück.\n";
+
+"Dumbbell Biceps Curl (Hammer Grip Standing)"="Bizeps Kurzhantelübung (Stehender Hammergriff)";
+"11 Dumbbell Biceps Curl (Hammer Grip Standing)"="1. Stehend und mit geradem Rücken halten Sie zwei Kurzhanteln an Ihren Seiten mit einem Hammergriff. Lassen Sie Ihre Arme gerade. \n\n2. Heben Sie die Kurzhanteln an, während Sie Ihre Arme in Position halten. Benutzen Sie Ihre Schultern bei dieser Bewegung nicht. \n\n3. Für eine Sekunde halten und zurück zur Anfangsposition gehen.\n";
+
+"Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="Bizeps Kurzhantelübung (Unterhandgriff Konzentration Mit Einem Arm)";
+"12 Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="1. Biegen Sie Ihre Knie leicht an. Rücken gebeugt und gerade halten. Halten Sie eine Kurzhantel mit Unterhandgriff. Platzieren Sie den Ellenbogen auf den inneren Oberschenkel.\n\n2. Heben Sie die Kurzhantel an, während Sie Ihren Oberarm in Position halten. Halten Sie für eine Sekunde inne. Gehen Sie zur Anfangsposition zurück.\n";
+
+"Dumbbell Biceps Curl (Underhand Grip On Bench)"="Bizeps Kurzhantelübung (Unterhandgriff Auf Bank)";
+"13 Dumbbell Biceps Curl (Underhand Grip On Bench)"="1. Stehend und mit geradem Rücken halten Sie eine Kurzhantel im Unterhandgriff. Lassen Sie den Oberarm oben auf der Schrägbank ruhen.\n\n2. Heben Sie die Kurzhantel an, während Sie Ihre Oberarme in Position halten. Halten Sie für eine Sekunde inne. Lassen Sie die Kurzhantel zur Anfangsposition hinunter.\n";
+
+"Dumbbell Biceps Curl Seated (Hammer Grip)"="Kurzhantelübung im Sitzen (Hammergriff)";
+"14 Dumbbell Biceps Curl Seated (Hammer Grip)"="1. Während Sie sitzen, lassen Sie die Kurzhanteln neben sich mit einem Hammergriff hängen. Halten Sie die Arme gerade. \n\n2.Heben Sie die Kurzhanteln an, während Sie Ihre Oberarme in Position halten. Benutzen Sie Ihre Schultern bei dieser Bewegung nicht. Halten Sie für eine Sekunde inne, und gehen Sie danach zur Anfangsposition zurück.\n";
+
+"Dumbbell Biceps Curl Seated (Underhand Grip)"="Bizeps Kurzhantelübung im Sitzen (Unterhandgriff)";
+"15 Dumbbell Biceps Curl Seated (Underhand Grip)"="1. Im Sitzen und mit geradem Rücken lassen Sie die Kurzhanteln neben sich im Unterhandgriff hängen. Halten Sie die Arme gerade.\n\n2. Heben Sie die Kurzhanteln an, während Sie Ihre Oberarme in Position halten. Bewegen Sie Ihre Schultern bei dieser Bewegung nicht. Halten Sie für eine Sekunde inne, und gehen Sie danach zur Anfangsposition zurück.\n";
+
+"Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="Bizeps Kurzhantelübung Mit Gymnastikball (Hammergriff)";
+"16 Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="1. Halten Sie eine Kurzhantel im Hammergriff. Knien Sie sich hinter einen Gymnastikball. Platzieren Sie den Oberarm auf den Gymnastikball.\n\n2. Heben Sie die Kurzhantel an, während Sie Ihren Oberarm in Position halten. Benutzen Sie Ihre Schulter während dieser Bewegung nicht. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.\n";
+
+"Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="Bizeps Kurzhantelübung Mit Gymnastikball (Unterhandgriff)";
+"17 Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="1. Halten Sie eine Kurzhantel im Unterhandgriff. Knien Sie sich hinter einen Gymnastikball. Platzieren Sie den Oberarm auf den Gymnastikball. \n\n2. Heben Sie die Kurzhantel an, während Sie Ihren Oberarm in Position halten. Benutzen Sie Ihre Schulter während dieser Bewegung nicht. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.\n";
+
+"Stability Ball Dumbbell Biceps Curl Seated"="Bizeps Kurzhantelübung Mit Gymnastikball Im Sitzen";
+"18 Stability Ball Dumbbell Biceps Curl Seated"="1. Während Sie gerade auf einem Gymnastikball sitzen, fassen Sie nach ein Paar Hanteln, so daß Ihre Arme voll ausgestreckt an Ihrer Seite sind. Ihre Handflächen sollten nach außen zeigen, wie dargestellt.\n\n2. Beugen Sie Ihre Arme langsam am Ellenbogen, indem die Kurzhanteln auf Schulterhöhe zeigen, während Sie die Position Ihrer Arme nicht ändern. Der Arm sollte jediglich am Ellenbogen gebeugt sein ohne sich in eine andere Richtung zu bewegen. Drehen Sie Ihre Handgelenke nicht, während Sie die Hanteln am heben sind.\n";
+
+"Stability Ball Dumbbell Biceps Preachear Curl"="Bizeps Priesterkurzhantelübung Mit Gymnastikball";
+"19 Stability Ball Dumbbell Biceps Preachear Curl"="1. Platzieren Sie ein Paar Hanteln auf den Boden vor einen Ball. Knien Sie sich direkt hinter den Ball, und drapieren Sie Ihre Arme über ihn, um die Hanteln mit einem Untergriff zu fassen. Lassen Sie das Gewicht zurück zu Ihren Fersen kommen, während Sie Ihre Trizeps mit Vorderarmen nach unten auf den Ball bringen.\n\n2. Halten Sie Ihren Rücken gerade, während Sie die Gewichte so hoch bewegen, bis Ihre Vorderarme fast senkrecht zum Boden sind.\n";
+
+"Underhand Grip Prone On An Incline Bench"="Unterhandgriffneigung Auf Einer Schrägbank";
+"20 Underhand Grip Prone On An Incline Bench"="1. Legen Sie sich neigend auf eine Schrägbank. Lassen Sie die Kurzhanteln neben sich im Unterhandgriff hängen. Arme gerade halten.\n2. Bringen Sie die Gewichte langsam gerade nach oben. Ihre Handgelenke sollten ruhen, vermeiden Sie, sie zu drehen, und halten Sie Ihre Oberarme senkrecht zum Boden.\n";
+
+"Barbell Calf Raise (Seated)"="Langhantel Wadenheben (Sitzend)";
+"4 Barbell Calf Raise (Seated)"="1. Sie sitzen mit geradem Rücken und zentrieren die Langhantel auf Ihre untere Oberschenkel. Benutzen Sie Ihre Hände, um jede Bewegung der Hantel zu stabilisieren.\n\n2. Heben Sie Ihre Waden an, indem Sie auf Zehenspitzen stehen. Für eine Sekunde halten. Lassen Sie Ihre Waden wieder zum Boden hinunter.\n";
+
+"Barbell Calf Raise With Single Leg (Seated)"="Langhantel Wadenheben Mit Einem Bein (Sitzend)";
+"5 Barbell Calf Raise With Single Leg (Seated)"="1. Während Sie mit geradem Rücken sitzen, zentrieren Sie die Langhantel auf einen Ihrer unteren Oberschenkel. Benutzen Sie Ihre Hände zum Stabilisieren der Hantelbewegung.\n\n2. Heben Sie Ihre Waden an, indem Sie auf Zehenspitzen stehen. Für eine Sekunde halten. Lassen Sie Ihre Waden wieder zum Boden hinunter. \n\n3. Wiederholen Sie das gleiche mit dem anderen Bein.\n";
+
+"Dumbbell Calf Jump"="Kurzhantel Wadensprung";
+"6 Dumbbell Calf Jump"="1. Stellen Sie sich mit den Füßen hüftweit auseinander hin. Greifen Sie nach einem Paar Hanteln und halten Sie sie armlang an Ihren Seiten. \n\n2. Senken Sie Ihre Knie so, daß sie ungefähr 45 Grad angewinkelt sind und springen Sie so hoch wie Sie können. Ihre Zehen sollten beim Springen zum Boden zeigen. \n\n3. Ihre Knie sollten bei der Landung im 45 Grad Winkel sein, dann springen Sie sofort wieder.\n";
+
+"Dumbbell Calf Raise (Seated)"="Kurzhantel Wadenheben (Sitzend)";
+"7 Dumbbell Calf Raise (Seated)"="1. Während Sie mit geradem Rücken sitzen, zentrieren Sie eine Kurzhantel auf beiden unteren Oberschenkeln. Benutzen Sie Ihre Hände zum Stabilisieren jeder Bewegung. \n\n2. Heben Sie Ihre Waden an, indem Sie auf Zehenspitzen stehen. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.\n";
+
+"Standing Barbell Calf Raise"="Langhantel Wadenheben Im Stehen";
+"8 Standing Barbell Calf Raise"="1. Während Sie mit geradem Rücken stehen, platzieren Sie die Langhantel oben auf Ihre Schultern. Halten Sie die Langhantel im Oberhandgriff. Distanz zwischen Händen sollte breiter sein als schulterweit. \n\n2. Heben Sie Ihre Waden an, indem Sie auf Zehenspitzen stehen. Für eine Sekunde halten. Lassen Sie Ihre Waden wieder zum Boden hinunter.\n";
+
+"Standing Dumbbell Calf Raise"="Kurzhantel Wadenheben im Stehen";
+"9 Standing Dumbbell Calf Raise"="1. Stellen Sie sich gerade hin mit Ihren Füßen hüftweit auseinander und halten Sie eine schwere Kurzhantel in jeder Hand, Arme an Ihren Seiten.\n\n2. Halten Sie Ihren Rücken gerade, heben Sie sich langsam mit den Zehen beider Füße hoch und heben Sie Ihre Fersen so hoch wie Sie können. \n\n3. Halten Sie oben an, dann lassen Sie Ihre Fersen langsam wieder herab.\n";
+
+"Single Arm Pushup"="Einarmige Liegestütze";
+"19 Single Arm Pushup"="1. Gehen Sie in die normale Liegestützeposition: neigend, Füße zusammen, Hände auf dem Boden etwas unterhalb der Schultern und ungefähr schulterbreit auseinander. Stellen Sie Ihre Füße auseinander, etwas mehr als Schulterbreite. \n\n2. Heben Sie eine Hand hoch und lassen Sie sie auf Ihrem Kreuz ruhen.\n\n3. Mit der anderen Hand drücken Sie Ihren Körper vom Boden hoch, der Rücken bleibt gerade. Halten Sie kurz vorm \"verriegeln\" an der Höhe der Bewegung an.\n\n4. Lassen Sie Ihren Körper mit dem einen Arm herab. Um Ihr Gleichgewicht zu halten, drehen Sie Ihren Oberkörper weg vom drückenden Arm.\n\n5. Lassen Sie sich weiter herab, bis Ihr Kinn ungefähr eine Kinnlänge über dem Boden ist. Da Ihr Oberkörper angewinkelt ist, sollte Ihr Kinn ungefähr da sein, wo die Hand, die jetzt auf Ihrem Rücken ist war, bevor Sie mit der Übung angefangen haben . Das ist eine Wiederholung. \n\n6. Gehen Sie zum ersten Schritt zurück und wiederholen Sie mit dem anderen Arm.";
+
+"Decline Pushup"="Liegestütze Senkung";
+"12 Decline Pushup"="1. Platzieren Sie Ihre Füße auf eine Bank oder eine erhöhte Stufe und gehen Sie in die normale Liegestützeposition.\n\n2. Lassen Sie Ihren Körper hinab, bis Ihre Brust fast den Boden berührt, innehalten, dann drücken Sie sich zurück zur Anfangsposition. Halten Sie durchweg die richtige Form, indem Sie Ihre Hüften jederzeit vom absacken abhalten, halten Sie Ihren Kern steif, indem Sie Ihre Bauchmuskeln anspannen und lassen Sie Ihre Beine gerade, während Sie Ihr Gewicht auf Ihre Zehen verlegen.\n";
+
+"Dive Bomber Pushup"="Sturzbomber Liegestütze";
+"13 Dive Bomber Pushup"="1. Gehen Sie in die Liegestützeposition, aber gehen Sie sicher, daß Ihre Hände weiter nach vorne und weiter als Ihre Schultern platziert sind. Heben Sie Ihre Hüften an, während Sie Ihre Füße so weit wie möglich nach vorne bewegen. Halten Sie Ihren Rücken und Ihre Beine bei dieser Bewegung durchgehend gerade. \n\n2. Bewegen Sie Ihre Brust nach unten und vorne bis der Boden fast berührt ist. Ihre Schultern sollten mit Ihren Händen eine Linie bilden. \n\n3. Innehalten, dann drücken Sie Ihre Hüften nach unten durch und strecken Ihre Arme. Wieder innehalten, dann die Bewegung umdrehen, bis Sie an der Anfangsposition angekommen sind.\n";
+
+"Dumbbell Floor Chest Press"="Kurzhantel Boden Brustdrücken";
+"14 Dumbbell Floor Chest Press"="1. Legen Sie sich auf den Boden. Fassen Sie die Kurzhanteln im Oberhandgriff. Lassen Sie Ihr Oberarme auf dem Boden ruhen, während Sie die Hanteln zur Decke halten. \n\n2. Strecken Sie die Arme vollständig zur Decke aus. Für eine Sekunde halten. Lassen Sie Ihren ganzen Rücken andauernd auf der Bank. Die Beine nicht bewegen. Zur Anfangsposition zurückgehen.\n";
+
+"Dumbbell Pushup"="Kurzhantel Liegestütze";
+"15 Dumbbell Pushup"="1. Mit zwei Kurzhanteln schulterweit auseinander auf dem Boden vor Ihnen knien Sie sich hin und halten Sie sie fest. Lassen Sie Ihre Arme gerade, Beine ausgestreckt, Füße fast zusammen und sperren Sie Ihre Ellenbogen. \n\n2. Lassen Sie Ihren Körper zum Boden hinab, indem Sie Ihre Ellenbogen biegen und Ihren Rücken gerade halten.\n\n3. Drücken Sie sich wieder hoch, bis Ihre Arme gerade sind und die Ellenbogen entsperrt sind. Wiederholen.\n";
+
+"Incline Pushup"="Liegestütze Neigung";
+"16 Incline Pushup"="1. Platzieren Sie Ihre Hände auf eine Bank und gehen Sie in eine normale Liegestützeposition.\n\n2. Lassen Sie Ihren Körper herab, bis Ihre Brust fast die Bank berührt, innehalten, dann drücken Sie sich zur Anfangsposition zurück. Halten Sie durchweg die richtige Form, indem Sie Ihre Hüften jederzeit vom absacken abhalten, halten Sie Ihren Kern steif, indem Sie Ihre Bauchmuskeln anspannen und strecken Sie Ihre Beine, während Sie Ihr Gewicht auf Ihre Zehen verlagern. Wiederholen.\n";
+
+"Medicine Ball Pushup (Alternating)"="Medizinball Liegestütze (Abwechselnd)";
+"17 Medicine Ball Pushup (Alternating)"="1. Legen Sie sich mit den Händen auf den Boden. Platzieren Sie die Hände neben Ihre untere Brust. Distanz zwischen Ihren Händen sollte etwas weiter als schulterweit sein. Heben Sie sich mit Ihren Armen hoch, so daß nur Ihre Hände und Zehen auf dem Boden sind. Lassen Sie Ihren Rücken gerade. Platzieren Sie den Medizinball unter eine Hand. Hände zeigen leicht nach außen. \n\n2. Lassen Sie sich herab, bis Ihre Brust ein paar Inch vom Boden ist, indem Sie Ihre Ellenbogen biegen. Die Ellenbogen sollten zu Ihren Füßen zeigen. Für eine Sekunde halten. Zur Anfangsposition zurückgehen. \n\n3. Rollen Sie den Ball zur anderen Hand und wiederholen Sie die gleichen Bewegungen.\n";
+
+"Modified Pushup"="Veränderte Liegestütze";
+"18 Modified Pushup"="1. Gehen Sie auf alle Viere und platzieren Sie Ihre Hände so auf den Boden, daß sie etwas weiter auseinander sind als Ihre Schultern. Kreuzen Sie Ihre Fußgelenke hinter sich wie dargestellt. \n\n2. Lassen Sie Ihren Körper herab, bis Ihre Brust fast den Boden berührt, halten Sie inne, dann drücken Sie sich zurück zur Anfangsposition. Halten Sie Ihren Kern steif, indem Sie Ihre Bauchmuskeln anspannen.\n";
+
+"Stability Ball Flat Dumbbell Chest Press"="Flaches Kurzhantel Bauchdrücken Mit Gymnastikball";
+"21 Stability Ball Flat Dumbbell Chest Press"="1. Legen Sie sich auf dem Gymnastikball zurück. Füße sind auf dem Boden. Fassen Sie die Kurzhanteln im Oberhandgriff. Halten Sie die Kurzhanteln neben Ihrer Brust. \n\n2. Strecken Sie Ihre Arme vollständig vor Ihnen aus. Für einen kurzen Moment halten. Zur Anfangsposition zurückgehen.\n";
+
+"Stability Ball Flat Dumbbell Fly"="Flache Kurzhantelfliege Mit Gymnastikball";
+"20 Stability Ball Flat Dumbbell Fly"="1. Legen Sie sich auf dem Gymnastikball zurück. Füße auf dem Boden. Halten Sie zwei Kurzhanteln im Hammergriff. Strecken Sie Ihre Arme vollständig über Ihrer Brust aus. \n\n2. Während Ihre Ellenbogen leicht gebeugt sind, lassen Sie die Kurzhanteln auf jeder Seite herab, bis die Hanteln neben Ihrem Oberkörper sind. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.\n";
+
+"Stability Ball Pushup"="Gymnastikball Liegestütze";
+"22 Stability Ball Pushup"="1. Gehen Sie in die normale Liegestützeposition. Um es schwerer zu machen, platzieren Sie Ihre Schienbeine und Füße auf den Ball. Denken Sie daran, Ihren Körper mit Ihren Fuß- und Handballen zu unterstützen und lassen Sie die letzteren schulterweit auseinander, Handflächen flach auf dem Boden. \n\n2. Lassen Sie Ihren Oberkörper herab, bis Ihre Brust nur ein Bruchteil eines Inch vom Boden entfernt ist. Drücken Sie sich zur Anfangsposition zurück.\n";
+
+"Weighted Pushup"="Gewicht Liegestütze";
+"23 Weighted Pushup"="1. Gehen Sie in die normale Liegestützeposition, mit Händen unter Ihren Schultern. Dieses Mal bitten Sie Ihren Partner jedoch, eine Gewichtsplatte auf Ihren Rücken zwischen Ihre Schulterblätter zu legen. \n\n2. Halten Sie Ihren Körper gerade, während Sie sich herablassen, indem Sie Ihren Ellenbogen biegen, bis Ihre Brust den Boden berührt.\n\n3. Innehalten, danach drücken Sie sich nach oben.\n";
+
+"Dumbbell Wrist Twist"="Kurzhantel Handgelenkdrehung";
+"3 Dumbbell Wrist Twist"="1. Stellen Sie sich mit einer leichten Kurzhantel in jeder Hand hin, Ihre Arme an den Seiten und Handflächen zeigen hinter Sie. Biegen Sie Ihre Arme, um die Gewichte zu heben, bis Ihre Vorderarme mit dem Boden parallel sind. Dies ist die Anfangsposition.\n\n2. Rotieren Sie Ihre Handgelenke, bis Ihre Handflächen zur Decke zeigen, danach rotieren Sie sie zurück, bis Ihre Handflächen wieder zum Boden zeigen. Das ist eine Wiederholung.\n";
+
+"Standing Wrist Curl"="Handgelenkübung im Stehen";
+"4 Standing Wrist Curl"="1. Greifen Sie hinter Ihnen eine Langhantel mit einem Unterhandgriff, während Sie Ihre Arme gerade lassen. Hängen Sie die Hantel so, daß sie auf Ihren ausgestreckten Fingern ruht. \n\n2. Biegen Sie Ihre Handgelenke, um die Langhantel so hoch wie möglich anzuheben. \n\n3. Machen Sie die Bewegung umgedreht, um die Langhantel herabzulassen.\n";
+
+"Barbell Hack Squat"="Langhantel Hack Hocke";
+"10 Barbell Hack Squat"="1. Stellen Sie sich gerade mit Ihren Füßen schulterbreit auseinander hin. Halten Sie die Langhantel im Oberhandgriff. Platzieren Sie die Langhantel hinter Ihre Kniesehnen. Distanz zwischen Ihren Händen sollte breiter sein als Schulterweite.\n\n2. Lassen Sie sich herab, indem Sie Ihre Knie biegen. Ihr Rücken bleibt bei der ganzen Bewegung gerade. Halten Sie an, wenn Ihre Oberschenkel mit dem Boden parallel sind oder wenn die Hantel den Boden berührt. Wenn Sie zur Anfangsposition zurückgehen, erzeugen Sie Kraft mit Ihrem Unterrücken.\n";
+
+"Barbell Lunge"="Langhantel Schritt";
+"12 Barbell Lunge"="1. Fangen Sie an, indem Sie eine Langhantel auf Ihren oberen Rücken platzieren, benutzen Sie einen Oberhandgriff, der etwas breiter als Ihre Schultern ist. \n\n2. Stellen Sie sich mit Ihren Füßen ungefähr 8 Inch auseinander hin, Zehen zeigen nach vorne.\n\n3. Machen Sie einen Schritt nach vorne (knapp einen Meter), während Sie Ihre Bauchmuskeln eingezogen und Ihren Oberkörper gerade lassen. \n\n4. Gehen Sie langsam mit einem Knie herunter, während Sie das andere Knie in einem 90 Grad Winkel gebeugt lassen, das Knie darf den Boden nicht berühren.\n\n5. Lassen Sie Ihren Körper bis kurz vor den Boden herab und halten Sie für einen Moment inne, bevor Sie zur Anfangsposition zurückgehen. Wiederholen Sie mit dem anderen Bein.\n";
+
+"Barbell Squat (Assisted)"="Langhantel Hocke (Unterstützt)";
+"13 Barbell Squat (Assisted)"="1. Stellen Sie sich gerade mit einer Flachbank hinter Ihnen hin. Füße sind schulterweit auseinander. Platzieren Sie die Langhantel auf die Rückseite Ihres Rückens. Halten Sie die Langhantel im Oberhandgriff. Distanz zwischen Ihren Händen sollte weiter sein als schulterbreit. Stellen Sie Ihre Füße leicht nach außen hin.  \n\n2. Lassen Sie sich herab, indem Sie Ihre Knie biegen. Ihr Rücken ist bei der ganzen Bewegung durchweg gerade. Halten Sie inne, wenn Ihre Oberschenkel parallel zum Boden sind oder Ihr Hintern die Bank berührt. Erzeugen Sie von Ihrem unteren Rücken Kraft, wenn Sie zur Anfangsposition zurückgehen.\n";
+
+"Barbell Squat Overhead"="Langhantel Hocke Oben";
+"14 Barbell Squat Overhead"="1. Stellen Sie sich gerade und in Schulterbreite hin. Halten Sie die Langhantel im Oberhandgriff. Distanz zwischen Ihren Händen sollte weiter als Schulterbreite sein. Füße leicht nach außen stellen. Heben Sie die Langhantel nach oben, bis Ihre Arme voll ausgestreckt sind. \n\n2. Lassen Sie sich herab, indem Sie in die Knie gehen. Ihr Rücken ist während der ganzen Bewegung gerade. Halten Sie inne, wenn Ihre Oberschenkel parallel zum Boden sind. Erzeugen Sie von Ihrem unteren Rücken Kraft, wenn Sie zur Anfangsposition zurückgehen.\n";
+
+"Bench Jump"="Bankspringen";
+"15 Bench Jump"="1. Stellen Sie sich vor eine Bank. \n\n2. Springen Sie auf die Bank und springen Sie dann sofort wieder zurück zur Anfangsposition auf dem Boden. \n\n3. Wiederholen Sie dies mehrmals.\n";
+
+"Bulgarian Split Squat"="Bulgarische Split Hocke";
+"16 Bulgarian Split Squat"="1. Stellen Sie sich gerade und mit jeweils einer Kurzhantel in jeder Hand ungefähr einen Meter vor eine Bank. Strecken Sie Ihren rechten Fuß nach hinten und lassen Sie die Oberseite des Fußes auf der Bank ruhen. \n\n2. Halten Sie Ihren Rücken gerade und Ihren Kopf hoch, während Sie Ihr linkes Bein biegen und sich in eine Sprungposition herablassen. Halten Sie mit dem Herablassen inne, wenn Ihr linker Oberschenkel ungefähr parallel zum Boden ist. \n\n3. Drücken Sie sich langsam wieder nach oben, bis Ihr linkes Bein wieder gerade ist und wiederholen. Denken Sie daran die Beine abzuwechseln, damit Ihr anderes Bein auch trainiert wird.\n";
+
+"Bulgarian Split Squat (No Weights)"="Bulgarische Split Hocke (Keine Gewichte)";
+"17 Bulgarian Split Squat (No Weights)"="1. Stellen Sie einen Fuß auf den Boden, ungefähr einen Meter vor einem Stuhl und balancieren Sie Ihren anderen Fuß auf einem Stuhl hinter Ihnen, wie dargestellt. Sie sollten Ihre Hände hinter Ihrem Kopf halten. \n\n2.Benutzen Sie Ihren vorderen Fuß zur Balance, während Sie beide Knie biegen, um Ihren Körper gerade nach unten herabzulassen, bis Ihr hinteres Knie ein paar Inch vom Boden ist und Ihr vorderes Bein ungefähr 90 Grad gebeugt ist. Der Rest Ihres Körpers sollte eine gerade Linie bilden. Schließen Sie das Set ab, danach wechseln Sie Ihre Beinposition und wiederholen.\n";
+
+"Dumbbell Side Lunge"="Kurzhantel Seitensprung";
+"18 Dumbbell Side Lunge"="1. Sie stehen gerade, halten ein Paar Kurzhanteln mit nach unten ausgestreckten Armen an Ihrer Seite. \n\n2. Treten Sie zu einer Seite und lassen Sie Ihren Körper herab, während Sie Ihren Körper leicht nach vorne beugen. Halten Sie das feststehende Bein bei der ganzen Bewegung gerade. \n\n3. Drücken Sie sich mit dem gebeugten Bein ab, um zur Anfangsposition zurückzugehen. Wiederholen Sie mit dem anderen Bein.\n";
+
+"Good Morning"="Guten Morgen";
+"19 Good Morning"="1. Halten Sie eine Langhantel im Oberhandgriff, so daß sie auf Ihrem oberen Rücken ruht und nicht auf Ihrem Nacken. Stellen Sie Ihre Füße schulterbreit auseinander und Ihre Knie leicht gebeugt, während Sie Ihren Rücken gerade halten. \n\n2. Beugen Sie sich langsam nach vorne, indem Sie Ihre Hüften benutzen und lassen Sie Ihre Brust herab, während Sie den natürlichen Bogen in Ihrem Rücken beibehalten. Halten Sie Ihren Kopf aufrecht und halten Sie ungefähr den gleichen Winkel in Ihren Knien bei. \n\n3. Heben Sie Ihren Oberkörper wieder zur Anfangsposition zurück.\n";
+
+"One Arm Side Deadlift"="Einarmiges Seitenkreuzheben";
+"20 One Arm Side Deadlift"="1. Stellen Sie sich neben eine auf dem Boden liegende Langhantel.\n\n2. Fassen Sie die Stange im Oberhandgriff in der Mitte.\n\n3. Hocken Sie sich nieder wie bei einer Hocke und bücken Sie sich so, daß Ihre Oberschenkel parallel zum Boden sind.\n\n4. Strecken Sie Ihre Beine langsam aus, während Sie Ihren Körper aufrichten und Ihre Bauchmuskeln beim Hochgehen einziehen.\n";
+
+"Single Leg Squat"="Einbeinige Hocke";
+"21 Single Leg Squat"="1. Stellen Sie sich mit den Füßen schulterbreit auseinander hin. Heben Sie Ihr stärkeres oder dominantes Bein so weit wie möglich vor sich hoch. \n\n2. Ziehen Sie Luft in Ihren Bauch, dann drücken Sie Ihre Hüften zurück und hocken sich so weit nach unten wie es geht, während Sie Ihren Oberkörper so aufrecht wie möglich halten. Die Ferse Ihres vorderen Beines kann den Boden unten bei der Hocke berühren, wenn Sie so weit nach unten kommen.\n\n3. Gehen Sie zur Anfangsposition zurück und atmen Sie aus. Machen Sie alle Wiederholungen mit Ihrem nicht dominanten Bein, anschließend wiederholen Sie mit Ihrem dominanten Bein.\n";
+
+"Arnold Press"="Arnold Presse";
+"14 Arnold Press"="1. Setzen Sie sich auf eine Flachbank und halten Sie ein Paar Kurzhanteln in Schulterhöhe. Ihre Handflächen sollten nach innen und Ihre Ellenbogen zur Seite zeigen. \n\n2. Drehen Sie beide Handgelenke nach außen, bis Ihre Handflächen von Ihnen wegweisen. Zur gleichen Zeit sind Ihre Arme über Ihnen voll ausgestreckt. Für eine Sekunde innehalten. Zur Anfangsposition zurückgehen.\n";
+
+"Barbell Front Raise"="Langhantel Vorderanheben";
+"15 Barbell Front Raise"="1. Halten Sie eine Langhantel mit einer vollen Oberhand, Griff ist schulterweit und stellen Sie sich mit einer Langhantel vor Ihren Oberschenkeln hängend hin. Ihre Füße sind schulterweit auseinander mit leicht gebeugten Knien. Ziehen Sie Ihre Bauchmuskeln ein, spannen Sie alle Ihre oberen Körpermuskeln an und biegen Sie Ihre Ellenbogen ein bißchen. \n\n2. Heben Sie die Stange vor sich hoch, bis Ihre Arme parallel zum Boden sind. \n\n3. Halten Sie inne, dann zur Anfangsposition zurückgehen.\n";
+
+"Dumbbell Lateral Raise With Arms Bent"="Kurzhantel Seitenheben Mit Gebeugten Armen";
+"16 Dumbbell Lateral Raise With Arms Bent"="1. Lassen Sie Ihre Beine schulterweit auseinander. Ihre Hände sollten an Ihren Seiten herunterhängen.\n\n2. Lassen Sie Ihre Arme vollkommen gerade; heben Sie die Kurzhanteln langsam heraus und zu Schulterhöhe, biegen Sie Ihre Arme gleichzeitig, bis sie einen 90 Grad Winkel bilden und Ihre Vorderarme parallel zu Ihrem Körper sind. Ihre Handflächen sollten zum Boden weisen. \n\n3. Lassen Sie Ihre Ellenbogen gebeugt, gehen Sie langsam wieder zur Anfangsposition zurück und machen Sie die gewünschte Anzahl an Wiederholungen.\n";
+
+"Dumbbell Scarecrow"="Kurzhantel Vogelscheuche";
+"17 Dumbbell Scarecrow"="1. Während Sie geradeaus schauen mit Ihren Füßen schulterweit auseinander halten Sie die Kurzhanteln vor Ihren Oberschenkeln mit einem Oberhandgriff. Heben Sie Ihre Arme zu Ihren Seiten bis Ihre Oberarme parallel zum Boden sind. \n\n2. Rotieren Sie Ihre Ellenbogen vorwärts, bis Ihre Vorderarme gerade nach oben zeigen. Für eine Sekunde inne halten. Zur Anfangsposition zurückgehen.\n";
+
+"Dumbbell Shoulder Press"="Kurzhantel Schulterpresse";
+"18 Dumbbell Shoulder Press"="1. Stellen Sie sich gerade hin mit Ihren Füßen schulterweit auseinander. Halten Sie die Kurzhanteln im Oberhandgriff. Platzieren Sie die Hanteln neben die Seiten Ihres Kopfes. \n\n2. Heben Sie die Kurzhanteln über Ihren Kopf, bis Ihre Arme voll ausgestreckt sind. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.\n";
+
+"Front Weighted Raise"="Vorderes Gewichtanheben";
+"19 Front Weighted Raise"="1. Während Sie mit geradem Rücken stehen, halten Sie das Gewicht mit beiden Händen. Das Gewicht ist vor Ihren Oberschenkeln platziert. \n\n2. Heben Sie Ihre Arme vor sich an, bis sie parallel zum Boden sind. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.\n";
+
+"Lateral Weighted Raise"="Seitliches Gewichtanheben";
+"20 Lateral Weighted Raise"="1. Schauen Sie mit geradem Rücken nach vorne, halten Sie das Gewicht mit einer Hand. Das Gewicht ist neben Ihnen platziert. \n\n2. Heben Sie Ihren Arm zur Seite. Halten Sie ihn gerade. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.\n";
+
+"Military Press Behind The Neck (Standing)"="Militärpresse Hinter Dem Nacken (Stehend)";
+"21 Military Press Behind The Neck (Standing)"="1. Stellen Sie sich gerade hin, halten Sie eine Langhantel hinter Ihrem Kopf in Schulterhöhe mit Ihren Händen schulterweit auseinander, Ellenbogen gebeugt und Handflächen nach vorne. \n\n2. Drücken Sie die Langhantel nach oben, strecken Sie Ihre Arme vollständig aus. Halten Sie Ihren Rücken gerade und bleiben Sie während der Bewegung aufrecht.\n";
+
+"Seated Dumbbell Front Raise"="Kurzhantel Vorderheben Im Sitzen";
+"22 Seated Dumbbell Front Raise"="1. Greifen Sie ein Paar Kurzhanteln und setzen Sie sich mit geraden Armen an Ihren Seiten auf eine Schrägbank, Daumen nach innen. \n\n2. Mit geraden Ellenbogen heben Sie die Kurzhanteln nach oben und vorne, bis Ihre Hände ungefähr auf Augenhöhe sind. \n\n3. Halten Sie während dieser Bewegung die Rückseiten Ihrer Handgelenke flach und die Ellenbogen gerade. Zur Anfangsposition zurückgehen.\n";
+
+"Stability Ball Lateral Raise"="Gymnastikball Seitenheben";
+"23 Stability Ball Lateral Raise"="1. Setzen Sie sich mit einer leichten Kurzhantel in jeder Hand auf einen Gymnastikball. Halten Sie Ihre Beine schulterweit auseinander, um Ihr Gleichgewicht zu halten. Ihre Hände sollten an Ihren Seiten herunter hängen. \n\n2. Halten Sie Ihre Arme vollständig gerade; heben Sie die Kurzhanteln nach vorne und oben bis zur Schulterhöhe. Ihre Handflächen zeigen zum Boden. \n\n3. Mit gebogenen Ellenbogen gehen Sie langsam zur Anfangsposition zurück und machen die gewünschte Anzahl an Wiederholungen.\n";
+
+"Diamond Pushup"="Diamant Liegestütze";
+"10 Diamond Pushup"="1. Gehen Sie in die normale Liegestützeposition, platzieren Sie Ihre Hände jedoch direkt untere Ihre Brust mit Ihren Zeigefingern und Daumen gespreizt und berührt, so daß sie einen \"Diamanten\" bilden.\n\n2. Halten Sie Ihren Rücken flach, während Sie Ihren Körper herablassen bis Ihre Brust fast Ihre Hände berührt. \n\n3. Innehalten, dann drücken Sie sich zurück zur Anfangsposition.\n";
+
+"Diamond Pushup On Bench"="Diamant Liegestütze Auf Der Bank";
+"12 Diamond Pushup On Bench"="1. Gehen Sie in die normale Liegestützeposition, platzieren Sie Ihre Hände jedoch direkt unter Ihre Brust mit Ihren Zeigefingern und Daumen gespreizt und berührt, so daß sie einen \"Diamanten\" bilden. \n\n2. Halten Sie die Zehen Ihrer Füße auf einer flachen Bank. Dies wird mehr Druck auf Ihre Hände ausüben, während Sie Ihre Liegestützen machen. \n\n3. Halten Sie Ihren Rücken gerade, während Sie Ihren Körper herablassen, bis Ihre Brust fast Ihre Hände berührt.\n\n4. Innehalten, dann drücken Sie sich wieder zur Anfangsposition zurück.\n";
+
+"Dumbbell Row Kickback"="Kurzhantel Ruder Rückschlag";
+"13 Dumbbell Row Kickback"="1. Stellen Sie sich mit Ihren Füßen schulterweit auseinander und mit Ihren Knien leicht gebeugt hin. Halten Sie in jeder Hand eine leichte Kurzhantel und lehnen Sie sich aus der Taille nach vorne, bis Ihr Oberkörper fast ganz unten ist, mit Handflächen nach innen, wie dargestellt.\n\n2. Rudern Sie die Gewichte gerade nach oben, bis sie die Seiten Ihrer Brust erreichen und Ihre Arme sind in rechten Winkeln gebogen. Idealerweise sollten Ihre Oberarme parallel zum Boden sein. \n\n3. Führen Sie sofort ein Rückschlag Manöver durch, indem Sie Ihre Arme hinter sich ausstrecken.\n\n4. Ziehen Sie Ihre Trizeps zusammen, danach biegen Sie Ihre Ellenbogen, um die Gewichte wieder herabzulassen, so daß sie wieder an Ihren Seiten sind.\n\n5. Lassen Sie die Gewichte wieder herab, bis Ihre Arme gerade unter Ihren Schultern hängen.\n";
+
+"Lying Single Arm Pushup"="Einarmige Liegestütze Im Liegen";
+"14 Lying Single Arm Pushup"="1. Legen Sie sich auf Ihre Seite mit Ihren Knien leicht gebeugt und Ihre Beine liegen aufeinander. Wickeln Sie Ihren unteren Arm um Ihre Taille und platzieren Sie Ihre andere Hand auf den Boden vor sich, leicht gebogen. \n\n2. Fangen Sie an, den Arm zu strecken, indem Sie Ihren Körper vom Boden hochdrücken - gehen Sie sicher, daß Sie Ihre Trizeps benutzen, um Ihren Körper zu heben und nicht Ihren Rücken. Innehalten, dann zur Anfangsposition zurückgehen.\n\n3. Nach ein paar Wiederholungen wechseln Sie zur anderen Seite und wiederholen mit dem anderen Arm.\n";
+
+"Seated Triceps Extension"="Trizepsdrücken Im Sitzen";
+"15 Seated Triceps Extension"="1. Setzen Sie sich auf eine Bank und greifen Sie nach ein Paar Kurzhanteln. Halten Sie sie so, daß sie auf Armlänge über Ihrem Kopf sind mit Handflächen zusammen nach innen zeigend. \n\n2. Halten Sie Ihre Oberarme stabil, während Sie die Kurzhanteln hinter Ihrem Kopf herablassen, bis Ihre Vorderarme fast weiter als parallel zum Boden sind. \n\n3. Innehalten. danach strecken Sie Ihre Arme, um die Kurzhanteln wieder zur Anfangsposition zu bringen.\n";
+
+"Stability Ball French Press"="Französische Presse Mit Gymnastikball";
+"16 Stability Ball French Press"="1. Legen Sie sich rückwärts auf einen Gymnastikball und mit dem Rücken in die Mitte. Halten Sie in Ihren Armen ein Paar Kurzhanteln und strecken Sie sie über Ihrer Brust. \n\n2. Biegen Sie Ihre Ellenbogen und bringen Sie die Kurzhanteln herab zu den Seiten Ihres Kopfes. \n\n3. Strecken Sie Ihre Arme und heben Sie die Kurzhanteln wieder zurück zur Anfangsposition.\n";
+
+"Stability Ball Pullover"="Gymnastikball Überzug";
+"17 Stability Ball Pullover"="1. Legen Sie sich rückwärts auf einen Gymnastikball und mit dem Rücken in die Mitte. Halten Sie in Ihren Armen eine Kurzhantel und strecken Sie sie über Ihrer Brust.\n\n2. Biegen Sie Ihre Ellenbogen und bringen Sie die Kurzhantel herab zu der Mitte Ihres Kopfes.\n\n3. Strecken Sie Ihre Arme und heben Sie die Hantel wieder zurück zur Anfangsposition.\n";
+
+"Stability Ball Triceps Extension"="Trizepsdrücken Mit Gymnastikball";
+"18 Stability Ball Triceps Extension"="1. Legen Sie sich flach auf den Gymnastikball. Füße sind auf dem Boden. Halten Sie eine Kurzhantel mit beiden Händen. Strecken Sie die Arme vollständig über Ihrem Kopf aus. \n\n2. Während Ihre Arme stationär sind, lassen Sie die Kurzhantel herab, bis sie hinter Ihrem Kopf ist. Benutzen Sie Ihre Ellenbogen nicht. Für eine Sekunde halten. Zur Anfangsposition zurückgehen.\n";
+
+//EXTRA
+
+"3 DAY GYM WORKOUT PLAN BY VGFIT" = "FITNESS-WORKOUT-PLAN FÜR 3 TAGE VON VGFIT";
+
+
+
+"3 DAY HOME WORKOUT PLAN BY VGFIT" = "HEIMTRAININGSPLAN FÜR 3 TAGE VON VGFIT";
+
+
+
+"FAT BURNER ROUTINE" = "FETTVERBRENNER ROUTINE";
+
+
+
+"ABS BURNER" = "BAUCHMUSKEL-VERBRENNER";
+
+
+
+"CHEST POWER WORKOUT PLAN" = "BRUST POWER TRAININGSPLAN";
+
+
+
+"ARMS POWER WORKOUT PLAN" = "ARME POWER TRAININGSPLAN";
+
+
+
+"LEGS POWER WORKOUT PLAN" = "BEINE POWER TRAININGSPLAN";
+
+
+
+"SHOULDERS POWER WORKOUT PLAN" = "SCHULTER POWER TRAININGSPLAN";
+
+
+
+"BACK POWER WORKOUT PLAN" = "RÜCKEN POWER TRAININGSPLAN";
+
+
+"FULL BODY STREACH PLAN"= "GANZKÖRPER DEHNUNGSÜBUNGSPLAN";
+
+
+
+
+"Barbell Squat 2" = "Kniebeugen 2";
+
+"Barbell Squat 2 extra"= "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Mit schulterbreiten Füßen gerade hinstellen. Hantel auf den Rücken legen. Hantel mit Obergriff festhalten. Distanz zwischen den Händen sollte weiter als schulterbreit sein. Füße leicht nach außen stellen.\
+\
+Schritt 2: Sich herunterlassen, indem die Knie gebeugt werden. Der Rücken bleibt bei der ganzen Bewegung gerade. Aufhören, wenn die Oberschenkel parallel zum Boden sind. Beim Zurückkommen zur Startposition Kraft vom unteren Rücken erzeugen.";
+
+
+
+
+"Dumbbell Lunge 2" = "Kurzhantel-Ausfallschritt 2";
+
+"Dumbbell Lunge 2 extra"= "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Mit schulterbreiten Füßen gerade hinstellen. Kurzhanteln mit neutralem Griff an Ihrer Seite halten.\
+\
+Schritt 2: Mit geradem Rücken einen Schritt nach vorne gehen und mit gebeugten Knien nach unten lassen. Aufhören, wenn der vordere Oberschenkel parallel zum Boden ist. Zurücktreten und zur Anfangsposition zurückgehen.";
+
+
+
+
+"Bosu Crossover Lunge" = "Bosu Crossover-Ausfallschritt" ;
+
+"Bosu Crossover Lunge extra" = "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Aufrecht mit gestreckten Armen an Ihrer Seite vor den BOSU stellen. Der BOSU sollte ein paar Schritte vor Ihrer stehenden Position und zu einer Seite platziert werden.\
+\
+Schritt 2: Vor- und seitwärts auf den BOSU treten, den Körper so herablassen, dass Sie eine Biegung in einem Ihrer Knie haben, während Sie das nachfolgende Bein gerade lassen.\
+\
+Schritt 3: Auf dem gebogenen Fuß abstoßen, um zur Startposition zurückzugehen und wiederholen. Um die Übung etwas schwieriger zu machen, kann man ein Paar Kurzhanteln in jeder Hand halten, während man das Programm durchführt. ";
+
+
+
+
+"Stability Ball Split Squat" = "Gymnastikball-Split-Kniebeuge";
+
+"Stability Ball Split Squat extra"= "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Aufrecht stehend einen Fuß auf den Boden stellen. Ihre Arme gerade halten, wie dargestellt.\
+\
+Schritt 2: Nach unten fallen lassen, die Hüften und Knie beugen und Ihren Oberkörper nach vorne richten.\
+\
+Schritt 3: Zur Startposition zurückgehen, indem Sie sich über Ihren vorderen Fuß abstoßen.\
+\
+Schritt 4: Mit anderem Bein wiederholen ";
+
+
+
+
+"Balance Ball Front Raise" = "Gleichgewichtsball-Frontheben";
+
+"Balance Ball Front Raise extra"= "Muskelgruppe: Deltamuskeln\
+\
+Schritt 1: Mit einer leichten Kurzhantel in jeder Hand auf einen Swiss Ball setzen. Beine zusammen und Füße flach auf dem Boden halten. Ihre Hände sollten an Ihren Seiten mit den Handflächen nach hinten weisend hinter Ihnen bleiben.\
+\
+Schritt 2: Halten Sie Ihre Arme vollkommen gerade, heben Sie die Gewichte hoch und vor Ihnen, bis Ihre Arme parallel zum Boden sind. \
+\
+Schritt 3: Eine Sekunde halten, dann die Gewichte langsam herunterlassen.";
+
+
+
+
+"Bar Bench Press Incline" = "Stangen-Schrägbankdrücken";
+
+"Bar Bench Press Incline extra"= "Muskelgruppe: Pectoralis\
+\
+Schritt 1: Auf die Schrägbank zurücklegen. Die EZ-Curlstange mit Obergriff festhalten. Distanz zwischen Ihren Händen ist etwas weiter als Schulterbreite. Die EZ-Curlstange mit vollkommen ausgestreckten Armen festhalten. Die EZ-Curlstange ist direkt über Ihrer Brustmitte.\
+\
+Schritt 2: Lassen Sie die EZ-Curlstange zu Ihrer Brust hinab, während Sie Ihre Ellenbogen nah an Ihrem Körper lassen. Die EZ-Curlstange sollte am Ende dieser Bewegung Ihre Brust leicht berühren. Unterlassen Sie es, die EZ-Curlstange auf Ihrer Brust abzuprallen. Einen Moment halten. Zur Startposition zurückgehen. Der gesamte Rücken soll stets auf der Bank bleiben. Unterlassen Sie jegliche Beinbewegung.  ";
+
+
+
+
+"Dumbbell Decline Bench Press" = "Kurzhantel-Rückbankdrücken";
+
+"Dumbbell Decline Bench Press extra"= "Muskelgruppe: Pectoralis\
+\
+Schritt 1: Legen Sie sich auf einer Rückbank zurück. Halten Sie die Kurzhanteln im Obergriff. Arme vollkommen gestreckt lassen.\
+\
+Schritt 2: Lassen Sie die Kurzhanteln auf Ihre untere Brust hinab, während Sie Ihre Ellenbogen nah am Körper lassen. Einen Moment halten. Zur Startposition zurückgehen. Der gesamte Rücken soll stets auf der Bank bleiben. Unterlassen Sie jegliche Beinbewegung.";
+
+
+
+
+"Dumbbell T-Push-Up" = "Kurzhantel-T-Push-Up";
+
+"Dumbbell T-Push-Up extra"= "Muskelgruppe: Pectoralis\
+\
+Schritt 1: Mit Brust nach unten und Handflächen auf dem Boden hinlegen. Kurzhanteln mit neutralem Griff halten. Hände neben die untere Brust legen. Distanz zwischen den Händen sollte etwas weiter als Schulterbreite sein. Heben Sie sich mit Ihren Armen so an, dass nur Ihre Handflächen und Zehen auf dem Boden sind. Rücken gerade halten. Hände sollen leicht nach außen zeigen.\
+\
+Schritt 2: Lassen Sie sich hinab, bis Sie Inches vom Boden sind, indem Sie Ihre Ellenbogen beugen. Die Ellenbogen sollten zu Ihren Füßen beugen. Eine Sekunde halten.\
+\
+Schritt 3: Zur Startposition zurückgehen.\
+\
+Schritt 4: Einen Arm anheben, bis die Kurzhantel zur Decke weist. Eine Sekunde halten.\
+\
+Schritt 5: Zur Startposition zurückgehen.";
+
+
+
+
+"EZ Curl Bar Biceps Curl" = "EZ-Curlstange Bizeps-Curl";
+
+"EZ Curl Bar Biceps Curl extra"= "Muskelgruppe: Bizeps Brachii\
+\
+Schritt 1: Während Sie mit geradem Rücken stehen, halten Sie die EZ-Curlstange mit Schulterbreite im Untergriff. Die EZ-Curlstange ist vor Ihren Oberschenkeln positioniert.\
+\
+Schritt 2: Heben Sie die EZ-Curlstange hoch, während Sie Ihre Arme in Position halten. Unterlassen Sie es während der Bewegung Ihre Schultern zu benutzen. Eine Sekunde halten. Lassen Sie Ihre Arme zur Startposition hinab.";
+
+
+
+
+"EZ Curl Bar Deadlift" = "EZ-Curlstangen-Kreuzheben";
+
+"EZ Curl Bar Deadlift extra"= "Muskelgruppe: Unterer Rücken\
+\
+Schritt 1: EZ-Curlstange auf den Boden legen. Positionieren Sie sich so, dass Ihre Schienbeine einen Inch von der Stange entfernt sind. Gerade und mit Füßen schulterbreit hinstellen. Lassen Sie sich ohne viel Hüftbewegung hinab, um die EZ-Curlstange im Obergriff zu umfassen. Knie leicht beugen. Brust herausstrecken und nach vorne schauen.\
+\
+Schritt 2: EZ-Curlstange nach oben ziehen, bis Sie gerade stehen. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Dumbbell Row" = "Kurzhantelrudern";
+
+"Dumbbell Row extra"= "Muskelgruppe: Latissimus Dorsi\
+\
+Schritt 1: Knie leicht beugen. Rücken verbogen und nach vorne halten. Kurzhanteln mit neutralem Griff an Ihrer Seite halten.\
+\
+Schritt 2: Heben Sie die Kurzhanteln vertikal zu Ihrer Brust anheben. Unterlassen Sie es, Ihren Ellenbogen herauszustrecken. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Standing Triceps Extension" = "Stehende Trizeps-Verlängerung";
+
+"Standing Triceps Extension extra"= "Muskelgruppe: Trizeps Brachii\
+\
+Schritt 1: Stark aufrecht mit Füßen schulterbreit hinstellen, die Kurzhantel mit beiden Händen, wie dargestellt, unter der Innenplatte über dem Kopf halten. Lassen Sie sie hinter Ihrem oberen Rücken mit gebeugten Ellenbogen hängen.\
+\
+Schritt 2: Heben Sie die Kurzhantel über dem Kopf, indem Sie Ihre Ellenbogen ausstrecken, während Sie Ihre Handgelenke ruhen lassen. Oben halten, dann kontrolliert zur Startposition zurückgehen.";
+
+
+
+
+"Bench Dip" = "Bankneigung";
+
+"Bench Dip extra"= "Muskelgruppe: Trizeps Brachii\
+\
+Schritt 1: Handflächen so auf die Bank platzieren, dass sie nach vorne zeigen, und positionieren Sie sich wie dargestellt. Halten Sie Ihre Beine relativ gerade vor Ihnen, mit beiden Fersen fest auf dem Boden. Strecken Sie Ihre Arme und bewegen Sie Ihren Oberkörper so nach vorne, dass Ihr Hintern und Rücken knapp vor der Bank sind.\
+\
+Schritt 2: Biegen Sie Ihre Arme rechtwinklig und lassen Sie Ihren Hintern zum Boden, wie dargestellt, hinab. Sie können die Übung einfacher machen, indem Sie Ihre Knie biegen und Ihre Füße näher zur Bank bringen.";
+
+
+
+
+"Bodyweight Open Jump" = "Körpergewicht Offener Sprung " ;
+
+"Bodyweight Open Jump extra" = "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Mit geradem Rücken aufrecht hinstellen. Hände an den Seiten halten.\
+\
+Schritt 2: Knie leicht biegen\
+\
+Schritt 3: So hoch springen, wie es geht.";
+
+
+
+
+"Bodyweight Toe Touch" = "Körpergewicht Zehenberührung";
+
+"Bodyweight Toe Touch extra"= "Muskelgruppe: Rectus Abdominis\
+\
+Schritt 1: Legen Sie sich auf den Boden. Heben Sie die Beine an, bis sie senkrecht zum Boden sind. Arme vollständig über Ihnen ausstrecken.\
+\
+Schritt 2: Greifen Sie mit Ihren Händen nach Ihren Zehen. Eine Sekunde halten. Zur Startposition zurückgehen. ";
+
+
+
+
+"Bodyweight Hop" = "Körpergewicht Hüpfen";
+
+"Bodyweight Hop extra"= "Muskelgruppe: Rectus Abdominis\
+\
+Schritt 1: Legen Sie sich neigend auf den Boden. Heben Sie sich selbst so hoch, dass nur Ihre Zehen und Hände auf dem Boden sind. Rücken gerade halten.\
+\
+Schritt 2: Arme still halten und so nach innen hüpfen, dass Ihre Knie nah an Ihrer Brust sind.";
+
+
+
+
+"Bodyweight Lunge" = "Körpergewicht Ausfallschritt";
+
+"Bodyweight Lunge extra"= "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Mit Füßen schulterbreit hinstellen.\
+\
+Schritt 2: Mit einem Fuß nach hinten treten und sich durch Ihr verbeugtes Knie herablassen. Ihr Rücken sollte bei der ganzen Bewegung gerade bleiben. Aufhören, wenn Ihr vorderer Oberschenkel parallel zum Boden ist.\
+\
+Schritt 3: Zur Startposition zurückgehen.\
+\
+Schritt 4: Mit dem anderen Fuß nach hinten treten und sich durch Ihr verbeugtes Knie herablassen. Ihr Rücken sollte während der gesamten Bewegung gerade bleiben. Aufhören, wenn Ihr vorderer Oberschenkel mit dem Boden parallel ist. ";
+
+
+
+
+"Bodyweight Push-up Touch" = "Körpergewicht Push-up Berührung";
+
+"Bodyweight Push-up Touch extra"= "Muskelgruppe: Pectoralis\
+\
+Schritt 1: Legen Sie sich mit der Brust nach unten und Händen auf dem Boden hin. Hände unter Ihren Schultern positionieren. Distanz zwischen Ihren Händen sollte enger als Schulterbreite sein. Heben Sie sich mit Ihren Armen so hoch, dass nur Ihre Hände und Zehen auf dem Boden sind. Halten Sie Ihren Rücken gerade. Hände zeigen leicht nach außen.\
+\
+Schritt 2: Lassen Sie sich zum Boden hinab, bis Ihre Brust Inches vom Boden ist, indem Sie Ihre Ellenbogen biegen. Die Ellenbogen sollten zu ihren Füßen zeigen.\
+\
+Schritt 3: Berühren Sie Ihre gegenüberliegende Schulter jedes Mal, wenn Sie hochkommen. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Push-up walking" = "Push-up Gehen";
+
+"Push-up walking extra"= "Muskelgruppe: Pectoralis\
+\
+Schritt 1: Legen Sie sich mit der Brust nach unten mit den Händen auf den Boden hin. Positionieren Sie Ihre Hände neben Ihre untere Brust. Distanz zwischen Ihren Händen sollte etwas weiter als schulterbreit sein. Heben Sie sich so mit Ihren Armen hoch, dass nur Ihre Hände und Zehen den Boden berühren. Halten Sie Ihren Rücken gerade. Hände zeigen leicht nach außen. Halten Sie Ihren Rücken und Ihre Beine gerade.\
+\
+Schritt 2: Hüpfen Sie ohne Ihre Arme zu bewegen zu Ihren Armen. Anschließend zurück zur Startposition hüpfen.";
+
+
+
+
+"Bent-Leg V-UP" = "Angewinkeltes-Bein V-UP";
+
+"Bent-Leg V-UP extra"= "Muskelgruppe: Rectus Abdominis\
+\
+Schritt 1: Legen Sie sich mit dem Gesicht nach oben auf den Boden, Ihre Arme an den Seiten. Beugen Sie Ihre Knie nach oben und halten Sie sie still.\
+\
+Schritt 2: Heben Sie Ihren Oberkörper schnell hoch, während Sie Ihre Brust zu Ihren Knien ziehen. Halten Sie Ihre Arme parallel zum Boden.";
+
+
+
+
+"Bodyweight Lunge Side" = "Körpergewicht-Ausfallschritt Seite";
+
+"Bodyweight Lunge Side extra"= "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Aufrecht mit Füßen schulterbreit hinstellen. Halten Sie Ihre Arme vor Ihre Brust.\
+\
+Schritt 2: Während Sie Ihren Rücken gerade halten, treten Sie mit einem Fuß zur Seite und lassen sich herab, indem Sie Ihre Knie beugen. Der hintere Fuß dreht sich, bleibt aber in Position. Halten Sie an, wenn der vordere Oberschenkel parallel mit dem Boden ist. Eine Sekunde halten. Zur Startposition zurückgehen. ";
+
+
+
+
+"Bodyweight Push-up Grip Planche" = "Körpergewicht Push-up Greif-Planke" ;
+
+"Bodyweight Push-up Grip Planche extra" = "Muskelgruppe: Pectoralis\
+\
+Schritt 1: Mit Händen auf dem Boden hinlegen. Hände vor Ihrer Brust positionieren. Distanz zwischen Ihren Händen sollte etwas weiter als schulterbreit sein. Heben Sie sich so mit Ihren Armen, dass nur Ihre Hände und Zehen auf dem Boden sind. Rücken gerade halten. Hände zeigen leicht nach außen.\
+\
+Schritt 2: Lassen Sie sich herab, bis Ihre Ellenbogen fast den Boden berühren. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Bench High Knee Jump" = "Hochknie Bankspringen";
+
+"Bench High Knee Jump extra"= "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Aufrecht mit geradem Rücken hinstellen. Halten Sie Ihre Hände an den Seiten.\
+\
+Schritt 2: Knie leicht biegen.\
+\
+Schritt 3: So hoch springen wie möglich. Bringen Sie Ihre Knie zu Ihrer Brust.";
+
+
+
+
+"Bodyweight Toe Touch 2" = "Körpergewicht Zehenberühren 2" ;
+
+"Bodyweight Toe Touch 2 extra"= "Muskelgruppe: Rectus Abdominis\
+\
+Schritt 1: Auf den Boden legen. Strecken Sie Ihre Beine aus, lassen Sie Ihre Hände hinter Ihrem Kopf.\
+\
+Schritt 2: Greifen Sie mit Ihren Händen nach Ihren Zehen. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Stepper Push-up" = "Stepper Push-up";
+
+"Stepper Push-up extra"= "Muskelgruppe: Pectoralis\
+\
+Schritt 1: Platzieren Sie Ihre Füße auf den Stepper und Ihre Hände auf den Boden. Positionieren Sie die Hände neben Ihre untere Brust. Distanz zwischen Ihren Händen sollte etwas weiter als schulterbreit sein. Heben Sie sich so mit Ihren Armen, dass nur Ihre Hände auf dem Boden sind. Halten Sie den Rücken gerade. Hände zeigen leicht nach außen.\
+\
+Schritt 2: Lassen Sie sich herab, bis Ihre Brust Inches vom Boden ist, indem Sie Ihre Ellenbogen biegen. Die Ellenbogen sollten zur Ihren Füßen zeigen. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Bodyweight Push-up Extension" = "Körpergewicht Push-up Erweiterung";
+
+"Bodyweight Push-up Extension extra"= "Muskelgruppe: Pectoralis\
+\
+Schritt 1: Mit der Brust und Händen nach unten hinlegen. Positionieren Sie die Hände unter Ihre Schultern. Distanz zwischen Ihren Händen sollte enger als Schulterbreite sein. Heben Sie sich mit Ihren Armen so hoch, dass nur Ihre Hände und Zehen auf dem Boden sind. Rücken gerade halten. Hände zeigen leicht nach außen.\
+\
+Schritt 2: Lassen Sie sich herab, bis Ihre Brust Inches vom Boden ist, indem Sie Ihre Ellenbogen biegen. Die Ellenbogen sollten zu Ihren Füßen zeigen.\
+\
+Schritt 3: Beim Hochkommen jedes Mal einen Arm ausstrecken. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Bodyweight Scissor Kick" = "Körpergewicht Scheren-Kick";
+
+"Bodyweight Scissor Kick extra"= "Muskelgruppe: Rectus Abdominis\
+\
+Schritt 1: Auf den Boden legen. Hände neben Ihre Seiten legen. Strecken Sie Ihre Beine vollkommen aus und heben Sie sie leicht an. Während Sie die Beine gerade lassen, heben Sie ein Bein hoch.\
+\
+Schritt 2: Während Sie das Bein hinablassen, heben Sie das andere Bein hoch. Dies ist eine Wiederholung.";
+
+
+
+
+"Bodyweight Mountain Climbers" = "Körpergewicht Bergsteiger";
+
+"Bodyweight Mountain Climbers extra"= "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Mit der Brust und den Handflächen nach unten auf den Boden legen. Positionieren Sie Ihre Hände neben Ihren Kopf. Distanz zwischen Ihren Händen sollte etwas weiter als Schulterbreite sein. Heben Sie sich so mit Ihren Armen hoch, dass nur Ihre Hände und Zehen auf dem Boden sind. Rücken gerade halten. Hände zeigen leicht nach außen.\
+\
+Schritt 2: Ein Bein zum Oberkörper biegen.\
+\
+Schritt 3: Während Sie das Bein zur Startposition zurückbringen, bringen Sie das andere Bein zu Ihrem Oberkörper. Dies ist eine Wiederholung. ";
+
+
+
+
+"Bodyweight Pull In" = "Körpergewicht Einziehen";
+
+"Bodyweight Pull In extra"= "Muskelgruppe: Rectus Abdominis\
+\
+Schritt 1: Auf den Boden legen. Legen Sie Ihre Hände unter Ihre Hüfte. Beine vollkommen ausstrecken. Beine leicht anheben.\
+\
+Schritt 2: Beine zu Ihrem Oberkörper biegen. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Push-up With Crossing Leg Under The Hip" = "Push-up Mit Gekreuztem Bein Unter Der Hüfte";
+
+"Push-up With Crossing Leg Under The Hip extra"= "Muskelgruppe: Pectoralis\
+\
+Schritt 1: Beginnen Sie die Übung in der Standard Push-up Position. Kreuzen Sie Ihr rechtes Bein unter der Hüfte.\
+\
+Schritt 2: Lassen Sie Ihren Körper herab, bis Ihre Brust fast den Boden berührt, pausieren, anschließend drücken Sie sich selbst zurück zur Startposition.\
+\
+Schritt 3: Beine wechseln und Schritte wiederholen.";
+
+
+
+
+"Bodyweight Jumping Jacks" = "Körpergewicht Hampelmänner";
+
+"Bodyweight Jumping Jacks extra"= "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Aufrecht mit geradem Rücken hinstellen. Halten Sie Ihre Hände an Ihren Seiten.\
+\
+Schritt 2: Springen Sie mit Ihren Füßen weiter als Schulterbreite nach außen. Zur gleichen Zeit haben Sie Ihre Arme über Ihren Kopf. Kurz pausieren und zur Startposition zurückgehen.";
+
+
+
+
+"Jump Sumo" = "Sprung-Sumo";
+
+"Jump Sumo extra"= "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Mit Füßen weiter als Schulterbreite auseinander hinstellen. Medizinball vor Ihnen mit vollkommen ausgestreckten Armen festhalten. Füße so hinstellen, dass sie leicht nach außen zeigen.\
+\
+Schritt 2: Lassen Sie sich herab, indem Sie Ihre Knie biegen. Ihr Rücken bleibt bei der ganzen Bewegung gerade. Anhalten, wenn Ihre Oberschenkel fast parallel zum Boden sind. Schwung von Ihrem unteren Rücken erzeugen, wenn Sie zur Startposition zurückgehen.";
+
+
+
+
+"Dumbbell Clean And Jerk" = "Kurzhantel-Stossen";
+
+"Dumbbell Clean And Jerk extra"= "Muskelgruppe: Kniesehnen\
+\
+Schritt 1: Hinhocken. Halten Sie die Kurzhanteln mit neutralem Griff unter Ihnen. Rücken gerade halten. Brust nach vorne drücken und vorwärts schauen.\
+\
+Schritt 2: Kurzhanteln vom Boden heben. Während die Kurzhanteln an Ihrem Schienbein hochkommen, springen Sie hoch. Benutzen Sie den Schwung, um die Kurzhanteln zu Ihren Schultern zu bringen.\
+\
+Schritt 3: Während Sie die Kurzhanteln auf der Schulter fangen, hocken Sie sich mit dem Schwung hin. Anschließend gerade hinstellen.\
+\
+Schritt 4: Knie leicht beugen und hochspringen.\
+\
+Schritt 5: Während dem Sprung die Kurzhanteln über den Kopf bringen. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Bodyweight Leg Raise" = "Körpergewicht Beinheben";
+
+"Bodyweight Leg Raise extra"= "Muskelgruppe: Rectus Abdominis\
+\
+Schritt 1: Auf den Boden legen. Hände an die Seiten platzieren. Beine vollkommen ausstrecken.\
+\
+Schritt 2: Beine zu einem 30-Grad-Winkel anheben. Eine Sekunde halten.\
+\
+Schritt 3: Beine zu einem 60-Grad-Winkel anheben. Eine Sekunde halten.\
+\
+Schritt 4: Beine zu einem 90-Grad-Winkel anheben. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Dumbbell Biceps Curl" = "Kurzhantel Bizeps-Curl";
+
+"Dumbbell Biceps Curl extra"= "Muskelgruppe: Bizeps Brachii\
+\
+Schritt 1: Knie leicht beugen. Halten Sie die Kurzhanteln mit Untergriff neben Ihren äußeren Knien.\
+\
+Schritt 2: Heben Sie die Kurzhanteln hoch, während Sie Ihre Oberarme still halten. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Bodyweight Sit-up" = "Körpergewicht Sit-up";
+
+"Bodyweight Sit-up extra"= "Muskelgruppe: Rectus Abdominis\
+\
+Schritt 1: Legen Sie sich auf zurück auf den Boden. Halten Sie Ihre Hände hinter Ihren Kopf. Knie sind gebeugt und Füße sind auf dem Boden.\
+\
+Schritt 2: Heben Sie Ihren Oberkörper nach oben. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Bent-Leg V-UP" = "Angewinkeltes Bein V-UP";
+
+"Bent-Leg V-UP extra"= "Muskelgruppe: Rectus Abdominis\
+\
+Schritt 1: Legen Sie sich mit dem Gesicht nach oben auf den Boden, Ihre Arme an Ihren Seiten. Biegen Sie Ihre Knie hoch und halten Sie sie dort.\
+\
+Schritt 2: Heben Sie Ihren Oberkörper schnell nach oben, während Sie ihre Brust zu Ihren Knien ziehen. Halten Sie Ihre Arme parallel zum Boden.";
+
+
+
+
+
+
+
+"Toe Touch" = "Zehenberührung";
+
+"Toe Touch extra"= "Muskelgruppe: Rectus Abdominis\
+\
+Schritt 1: Legen Sie sich auf den Boden. Halten Sie Ihre leicht verbeugten Knie aufrecht nach oben. Lassen Sie Ihren Rücken flach auf den Boden gedrückt.\
+\
+Schritt 2: Ausatmen und machen Sie einen Crunch, während Sie Ihre Füße berühren. Halten Sie Ihren Kopf in einer festen Position, vermeiden Sie es, Ihre Brust mit Ihrem Kinn zu berühren.";
+
+
+
+
+"Toe Touch 2" = "Zehenberührung 2";
+
+"Toe Touch 2 extra"= "Muskelgruppe: Rectus Abdominis\
+\
+Schritt 1: Legen Sie sich auf den Boden und lassen Sie Ihre Beine leicht gebeugt und aufrecht nach oben. Lassen Sie Ihren Rücken flach auf den Boden gedrückt.\
+\
+Schritt 2: Strecken und einen Crunch machen, während Sie Ihre Füße berühren. Halten Sie Ihren Kopf in einer festen Position, vermeiden sie es, Ihre Brust mit Ihrem Kinn zu berühren.";
+
+
+
+
+"Bodyweight Crunch 2" = "Körpergewicht Crunch 2";
+
+"Bodyweight Crunch 2 extra"= "Muskelgruppe: Obliques\
+\
+Schritt 1: Legen Sie sich auf den Boden. Heben Sie Ihre Beine so an, dass Ihre Oberschenkel senkrecht mit dem Boden sind. Halten Sie Ihre Hände hinter Ihrem Kopf.\
+\
+Schritt 2: Bewegen Sie den linken Ellenbogen und das rechte Bein zu Ihrem Körper, bis sie sich berühren.\
+\
+Schritt 3: Bewegen Sie den linken Ellenbogen und das rechte Bein zurück zur Startposition. Zur gleichen Zeit bewegen Sie den rechten Ellenbogen und das linke Bein zu Ihrem Körper, bis sie sich berühren. Dies ist eine Wiederholung.";
+
+
+
+
+"Stability Ball Crunch" = "Gymnastikball Crunch";
+
+"Stability Ball Crunch extra"= "Muskelgruppe: Bauchmuskeln\
+\
+Schritt 1: Legen Sie sich auf dem Gymnastikball zurück. Halten Sie einen Medizinball über sich.\
+\
+Schritt 2: Heben Sie Ihren Oberkörper hoch, während Sie Ihren Unterkörper auf dem Ball lassen. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Bar  Bench Press Incline" = "Stangen-Schrägebankdrücken";
+
+"Bar  Bench Press Incline extra"= "Muskelgruppe: Pectoralis\
+\
+Schritt 1: Legen Sie sich auf der Schrägbank zurück. Halten Sie die EZ-Curlstange im Obergriff. Distanz zwischen Ihren Händen ist etwas weiter als Schulterbreite. Halten Sie die EZ-Curlstange mit vollkommen ausgestreckten Armen. Die EZ-Curlstange ist direkt über Ihrer Brustmitte.\
+\
+Schritt 2: Lassen Sie die EZ-Curlstange zu Ihrer unteren Brust hinab, während Sie Ihre Ellenbogen nah an Ihrem Körper halten. Die EZ-Curlstange sollte Ihre Brust am Ende dieser Bewegung leicht berühren. Unterlassen Sie es, die EZ-Curlstange auf Ihrer Brust abzuprallen. Einen kurzen Moment halten. Zur Startposition zurückgehen. Lassen Sie Ihren Rücken die ganze Zeit auf der Bank. Unterlassen Sie jegliche Beinbewegungen. ";
+
+
+
+
+"Dumbbell Push-up Row" = "Kurzhantel Push-up Rudern";
+
+"Dumbbell Push-up Row extra"= "Muskelgruppe: Pectoralis\
+\
+Schritt 1: Halten Sie zwei Kurzhanteln im neutralem Griff fest. Distanz zwischen Ihren Händen sollte etwas weiter als Schulterbreite sein. Heben Sie sich mit Ihren Arme so hoch, dass nur die Kurzhanteln und Zehen auf dem Boden sind. Halten Sie den Rücken gerade. Hände zeigen leicht nach außen.\
+\
+Schritt 2: Lassen Sie sich herab, bis Ihre Brust Inches vom Boden ist, indem Sie Ihre Ellenbogen biegen. Die Ellenbogen sollten zu Ihren Füßen zeigen. Eine Sekunde halten.\
+\
+Schritt 3: Zur Startposition zurückgehen.\
+\
+Schritt 4: Heben Sie eine Kurzhantel hoch, indem Sie Ihren Ellenbogen nach oben bewegen. Ihre Hand sollte sich in einer vertikalen Linie bewegen. Eine Sekunde halten.\
+\
+Schritt 5: Zur Startposition zurückgehen.\
+\
+Schritt 6: Gleiche Schritte mit der anderen Hand wiederholen.";
+
+
+
+
+"Triceps Kickback" = "Trizeps Rückschlag";
+
+"Triceps Kickback extra"= "Muskelgruppe: Trizeps Brachii\
+\
+Schritt 1: Nehmen Sie eine Kurzhantel in eine Hand, anschließend platzieren Sie Ihr gegenüberliegendes Knie auf eine Bank, zusammen mit Ihrer anderen Hand, und platzieren Ihren anderen Fuß auf den Boden, wobei Sie das Knie etwas biegen. Dann ziehen Sie den Arm, der die Kurzhantel hält gerade zurück und zu Ihrer Seite hoch, parallel zum Boden und halten Sie Ihren Rücken gerade.\
+\
+Schritt 2: Halten Sie die Kurzhantel so, dass Sie an Ihrem Ellenbogen einen 90-Grad-Winkel haben, atmen Sie aus und strecken Sie Ihren Arm so weit wie möglich, oder bis Ihr Handgelenk, Ellenbogen und Schulter eine Linie bilden.\
+\
+Schritt 3: Atmen Sie ein und lassen Sie die Kurzhantel langsam herab, aber nur, bis Sie an Ihrem Ellenbogen einen 90-Grad-Winkel erreicht haben. Erforderliche Wiederholungen machen.\
+\
+Schritt 4: Wiederholen, indem Sie die Kurzhantel in der anderen Hand halten.";
+
+
+
+
+"Standing Single Arm Triceps Extension" = "Stehendes Einarmiges Trizepsdrücken";
+
+"Standing Single Arm Triceps Extension extra"= "Muskelgruppe: Trizeps Brachii\
+\
+Schritt 1: Stellen Sie sich aufrecht und mit schulterbreiten Füßen hin, halten Sie eine leichte Kurzhantel in Ihrer linken Hand.\
+\
+Schritt 2: Drücken Sie die Kurzhantel über Ihren Kopf, so dass Ihr linker Arm gerade ist, Handfläche zeigt zur rechten Seite. Bringen Sie Ihren rechten Arm über Ihr Gesicht und umfassen Sie Ihren linken Ellenbogen mit Ihrer rechten Hand; dies hält Ihren Oberarm stabil, während Sie die Übung durchführen.\
+\
+Schritt 3: Ohne Ihren Oberarm zu bewegen biegen Sie langsam Ihren linken Ellenbogen und lassen die Kurzhantel so weit wie möglich hinter Ihrem Kopf herab.\
+\
+Schritt 4: Erweitern Sie die Kurzhantel zurück über den Kopf, bis Ihr linker Arm gerade ist und wiederholen Sie ein Set. Anschließend platzieren Sie die Kurzhantel in Ihre rechte Hand und wiederholen die Übung mit Ihrem rechten Arm.";
+
+
+
+
+"Stability Ball Split Squad Dumbbell" = "Gymnastikball Spaltenhocke Kurzhantel" ;
+
+"Stability Ball Split Squad Dumbbell extra" = "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Aufrecht hinstellen, einen Fuß auf den Boden hinter sich platzieren, während Sie an Ihren Seiten ein Paar Kurzhanteln halten. Halten Sie Ihre Arme gerade, wie dargestellt.\
+\
+Schritt 2: Nach unten fallen lassen, indem Sie Ihre Hüften und Knie biegen und Ihren Oberkörper nach vorne lehnen.\
+\
+Schritt 3: Zur Startposition zurückgehen, indem Sie sich von Ihrem vorderen Fuß abstoßen.\
+\
+Schritt 4: Mit dem anderen Bein wiederholen.";
+
+
+
+
+"Dumbbell Rear Delt Row" = "Kurzhantel Hinteres Delt-Rudern";
+
+"Dumbbell Rear Delt Row extra"= "Muskelgruppe: Deltamuskeln\
+\
+Schritt 1: Lehnen Sie sich von der Taille nach vorne, halten Sie die Kurzhantel mit gestreckten Armen und Handflächen nach innen fest, Ihre Füße sind hüftweit auseinander.\
+\
+Schritt 2: Heben Sie die Kurzhantel hoch und nach außen zu Schulterhöhe, Ihr Rücken bleibt flach. Biegen Sie Ihre Ellenbogen leicht, während Sie sich, falls notwendig, erheben, anschließend bringen Sie die Kurzhantel zurück zur Startposition.";
+
+
+
+
+"Dumbbell Snatch" = "Kurzhantel Griff";
+
+"Dumbbell Snatch extra"= "Muskelgruppe: Deltamuskeln\
+\
+Schritt 1: Beginnen Sie, indem Sie unten über einer Kurzhantel hocken. Halten Sie einen verschlossenen und steifen unteren Rücken und platzieren Sie Ihre Füße schulterbreit auseinander.\
+\
+Schritt 2: Greifen Sie die Kurzhantel und spannen Sie die Bauchmuskeln an. Heben Sie die Kurzhantel mit einer schnellen Bewegung nach oben, bis Ihr Arm gerade und gesperrt ist, wie dargestellt. Die Kurzhantel sollte nah an Ihrem Körper bleiben und nicht nach außen oder weg schwingen.\
+\
+Schritt 3: Halten Sie sie kurz über Ihrem Kopf, dann bringen Sie sie hinunter zur Startposition.";
+
+
+
+
+"Stretch Standing Overhead Arms" = "Dehnungsübungen Stehend Arme Über Dem Kopf";
+
+"Stretch Standing Overhead Arms extra"= "Muskelgruppe: Latissimus Dorsi\
+\
+Schritt 1: Stellen Sie sich mit schulterbreiten Füßen hin. Halten Sie Ihre Beine leicht gebeugt. Positionieren Sie Ihre Hände vor Ihnen. Verflechten Sie Ihre Finger.\
+\
+Schritt 2: Strecken Sie Ihre Arme über Ihrem Kopf aus. Ziehen Sie soweit wie möglich. Halten Sie diese Position für 15-25 Sekunden.";
+
+
+
+
+"Stretch Neck Standing Side" = "Dehnungsübung Nacken Stehend Seite";
+
+"Stretch Neck Standing Side extra"= "Muskelgruppe: Nacken\
+\
+Schritt 1: Aufrecht mit Füßen schulterbreit auseinander hinstellen. Positionieren Sie Ihre Arme an Ihre Seite.\
+\
+Schritt 2: Drehen Sie Ihren Nacken zur Seite. Ihr Oberkörper dreht sich etwas. 15-25 Sekunden halten. Mit der anderen Seite wiederholen.";
+
+
+
+
+"Standing Cross Body Arms" = "Stehende Querkörper Arme";
+
+"Standing Cross Body Arms extra"= "Muskelgruppe: Deltamuskeln\
+\
+Schritt 1: Aufrecht mit Füßen schulterbreit auseinander hinstellen.\
+\
+Schritt 2: Strecken Sie Ihren rechten Arm vollständig quer über Ihren Körper aus. Der Arm ist parallel zum Boden. Positionieren Sie Ihren linken Arm vor Ihr linkes Handgelenk. Benutzen Sie Ihren linken Arm, um Ihren rechten Arm näher zu Ihrem Körper zu ziehen. Halten Sie diese Position für 15-25 Sekunden. Mit dem anderen Arm wiederholen.";
+
+
+
+
+"Standing Behind Head" = "Stehend Hinter Dem Kopf";
+
+"Standing Behind Head extra"= "Muskelgruppe: Trizeps Brachii\
+\
+Schritt 1: Aufrecht mit schulterbreiten Füßen hinstellen. Positionieren Sie eine Hand auf die Mitte Ihres oberen Rückens. Ihre Ellenbogen zeigen zur Decke.\
+\
+Schritt 2: Benutzen Sie Ihre andere Hand, um Ihren Ellenbogen festzuhalten. Ziehen Sie den Ellenbogen hinunter und zu Ihrem Kopf. Halten Sie diese Position für 15-25 Sekunden. Mit der anderen Seite wiederholen.";
+
+
+
+
+"Standing Side Single Arm" = "Stehende Seite Einzelner Arm";
+
+"Standing Side Single Arm extra"= "Muskelgruppe: Latissimus Dorsi\
+\
+Schritt 1: Aufrecht mit Füßen schulterbreit auseinander hinstellen. Positionieren Sie Ihre Hände auf Ihre Hüften.\
+\
+Schritt 2: Heben Sie einen Arm über Ihren Kopf und biegen Sie Ihren Körper zu einer Seite. Für 15-25 Sekunden halten. Mit der anderen Seite wiederholen.";
+
+
+
+
+"Stretch Squat Torso Twist" = "Dehnungsübung Hocke Oberkörpertwist";
+
+"Stretch Squat Torso Twist extra"= "Muskelgruppe: Latissimus Dorsi\
+\
+Schritt 1: Mit Füßen schulterbreit auseinander in die Hocke gehen. Positionieren Sie Ihre Hände auf Ihre Hüften. Nach vorne schauen.\
+\
+Schritt 2: Drehen Sie Ihren Oberkörper in eine Richtung bis Sie eine Dehnung fühlen. Mit der anderen Seite wiederholen.";
+
+
+
+
+"Stretch Standing Legs Arms" = "Dehnungsübung Stehend Beine Arme";
+
+"Stretch Standing Legs Arms extra"= "Muskelgruppe: Kniesehnen\
+\
+Schritt 1: Mit Füßen schulterbreit aufrecht hinstellen. Positionieren Sie Ihre Hände auf Ihre Hüften.\
+\
+Schritt 2: Ohne Ihre Beine zu bewegen greifen Sie nach unten und umschlingen Ihre Fußgelenke. 15-25 Sekunden halten.";
+
+
+
+
+"Stretch Standing Hand To Foot" = "Dehnungsübung Stehend Hand Zu Fuß";
+
+"Stretch Standing Hand To Foot extra"= "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Aufrecht mit Füßen nah zusammen hinstellen. Lassen Sie Ihre Hände an den Seiten ruhen.\
+\
+Schritt 2: Ein Knie hinter Ihnen biegen. Knie mit Ihrer Hand festhalten. Fuß zu Ihrer Kniesehne ziehen. 15-25 Sekunden halten. Mit anderem Bein wiederholden.";
+
+
+
+
+"Stretch Knee Bent" = "Dehnungsübung Knie Gebeugt";
+
+"Stretch Knee Bent extra"= "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Gerade mit vollkommen ausgestreckten Beinen hinsetzen. Beugen Sie Ihr rechtes Knie, positionieren Sie Ihren rechten Fuß auf Ihren linken inneren Oberschenkel.\
+\
+Schritt 2: Berühren Sie Ihre linken Zehen mit Ihrer linken Hand. 15-25 Sekunden halten. Mit anderem Bein wiederholen.";
+
+
+
+
+"Stretch Adductors Standing" = "Dehnungsadduktoren Stehend";
+
+"Stretch Adductors Standing extra"= "Muskelgruppe: Adduktoren\
+\
+Schritt 1: Mit Füßen weiter als schulterbreit gerade hinstellen. Platzieren Sie Ihre Hände auf Ihre Hüften.\
+\
+Schritt 2: Lassen Sie Ihren Körper zu einer Seite hinunter. Ihr gegenüberliegendes Bein ist gerade. 15-25 Sekunden halten. Mit anderer Seite wiederholen.";
+
+
+
+
+"Sitting Body Curl" = "Sitzender Körper-Curl";
+
+"Sitting Body Curl extra"= "Muskelgruppe: Kniesehnen\
+\
+Schritt 1: Mit geradem Rücken hinsetzen. Strecken Sie Ihre Beine vollkommen vor Ihnen aus. Lassen Sie Ihre Arme auf Ihren Oberschenkeln ruhen.\
+\
+Schritt 2: Lassen Sie Ihren Oberkörper zu Ihren Beinen hinunter. Diese Position 15-25 Sekunden halten.";
+
+
+
+
+"Stretch Lying Knee Bent" = "Dehnungsübung Liegend Gebeugtes Knie";
+
+"Stretch Lying Knee Bent extra"= "Muskelgruppe: Kniesehnen\
+\
+Schritt 1: Flach auf den Boden legen. Beine vollkommen ausstrecken. Hände ruhen an Ihrer Seite.\
+\
+Schritt 2: Heben Sie ein Bein zu Ihrer Brust hoch. Ihr Knie bleibt gebeugt. Positionieren Sie Ihre Hände auf Ihren Oberschenkel. Ziehen Sie Ihr Bein zu Ihrem Oberkörper. Diese Position 15-25 Sekunden halten. Mit anderem Bein wiederholen.";
+
+
+
+
+"Stretch Adductors (Sitting)" = "Dehnungsadduktoren (Sitzend)";
+
+"Stretch Adductors (Sitting) extra"= "Muskelgruppe: Adduktoren\
+\
+Schritt 1: Setzen Sie sich mit Ihren Fußsohlen zusammen hin. Halten Sie Ihren Rücken gerade. Positionieren Sie Ihre Hände auf Ihre Knie.\
+\
+Schritt 2: Lassen Sie Ihren Oberkörper und Knie zum Boden hinunter. 15-25 Sekunden halten.";
+
+
+
+
+"Stretch Kneeling Child Pose" = "Dehnungsübung Kniende Kinderpose";
+
+"Stretch Kneeling Child Pose extra"= "Muskelgruppe: Unterer Rücken\
+\
+Schritt 1: Mit geradem Rücken auf den Boden knien.\
+\
+Schritt 2: Während Sie Ihre Arme vor sich ausstrecken, setzen Sie sich so hin, dass Ihr Hintern Ihre Füße berührt. Ihren Rücken und Kopf gerade halten.";
+
+
+
+
+"Stretch Lower Back Arms Assist" = "Dehnungsübung Unterer Rücken Arme Helfen";
+
+"Stretch Lower Back Arms Assist extra"= "Muskelgruppe: Unterer Rücken\
+\
+Schritt 1: Ausgestreckt neigend auf den Boden legen. Positionieren Sie Ihre Hände mit Handflächen nach unten neben Ihre Brust.\
+\
+Schritt 2: Benutzen Sie Ihre Arme, um Ihren Körper zur Decke zu heben. Ihre Arme sind vollkommen ausgestreckt. 15-25 Sekunden halten. ";
+
+
+
+
+"Dumbbell Lateral Raise" = "Kurzhantel-Seitenerhöhung";
+
+"Dumbbell Lateral Raise extra" = "Muskelgruppe: Deltamuskeln\
+\
+Schritt 1: Stellen Sie sich mit Ihren Füßen schulterbreit auseinander hin, halten Sie den Rücken gerade und die Arme etwas vor Ihrem Oberkörper. Nehmen Sie mit leicht gebeugten Ellenbogen in jede Hand eine Kurzhantel.\
+\
+Schritt 2: Heben Sie die Kurzhanteln nach vorne und auf Schulterhöhe. Halten Sie die Handflächen nach unten.\
+\
+Schritt 3: Lassen Sie Ihre Ellenbogen gebeugt, langsam zur Startposition zurückgehen und gewünschte Anzahl an Wiederholungen machen.";
+
+
+
+
+
+"Dumbbell Lunge Side" = "Kurzhantel-Ausfallschritt";
+
+"Dumbbell Lunge Side extra" = "Muskelgruppe: Quadrizeps\
+\
+Schritt 1: Stellen Sie sich gerade mit Füßen schulterbreit auseinander hin. Halten Sie die Kurzhanteln mit neutralem Griff an Ihren Seiten.\
+\
+Schritt 2: Während Sie Ihren Rücken gerade halten, treten Sie mit einem Fuß zur Seite und lassen sich hinab, indem Sie Ihre Knie beugen. Der hintere Fuß bleibt in Position. Halten Sie inne, wenn Ihr vorderer Oberschenkel mit dem Boden parallel ist. Für eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+"Standing Abdominal Stretch" = "Stehende Abdominal-Dehnung";
+"Standing Abdominal Stretch extra" = "Muskelgruppe: Rectus Abdominals\
+\
+Schritt 1: Stellen Sie sich gerade mit gestreckten Armen über dem Kopf hin.\
+\
+Schritt 2: Krümmen Sie Ihren unteren Rücken, indem Sie Ihre Brust anheben und Ihre Arme soweit wie möglich nach hinten bringen. Ein paar Sekunden in dieser ausgestreckten Position bleiben.";
+
+
+
+"Barbell Good Morning" = "Langhantel Guten Morgen";
+"Barbell Good Morning extra" = "Muskelgruppe: Kniesehnen\
+\
+Schritt1: Gerade mit Füßen schulterbreit auseinander hinstellen. Langhantel hinten auf Ihre Schultern platzieren. Hantel mit Obergriff halten. Distanz zwischen Ihren Händen sollte weiter als schulterbreit sein. Füße leicht nach außen weisen.\
+\
+Schritt 2: Rücken gerade halten und Oberkörper so biegen, bis er mit dem Boden parallel ist. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+"Curl Bar Row" = "Curlstange Rudern";
+"Curl Bar Row extra" = "Muskelgruppe: Latissimus Dorsi\
+\
+Schritt 1: Knie leicht beugen. Rücken gebogen und gerade halten. EZ Curlstange mit Obergriff unter Ihren Schultern halten.\
+\
+Schritt 2: Heben Sie die EZ Curlstange vertikal zu Ihrer Brust. Unterlassen Sie es, Ihre Ellenbogen auszustrecken. Eine Sekunde halten. Zur Startposition zurückgehen.";
+
+
+
+
+// Descriptions
+
+"extra_main_description" = "Fortgeschrittene Trainingsprogramme, um Sie vollkommen in Form zu bringen und stark zu machen.";
+"Building muscle add volume and strength." = "Muskeln aufbauen Volumen und Kraft zufügen";
+"Muscle Growth of the full Body." = "Muskelaufbau des ganzen Körpers.";
+"Beginner Intermediate Advanced." = "Anfänger Mittlere Ebene Fortgeschritten";
+"Man and Women." = "Männer und Frauen";
+"Gym." = "Fitnessstudio";
+"Barbell Dumbbells Bench." = "Langhantel Kurzhanteln Bank";
+"Building muscle add definition and strength." = "Muskel aufbauen Definition und Kraft hinzufügen";
+"Home, Office, Studio." = "Zuhause, Büro, Studio";
+"Bench, Dumbbell, Mat, Body Weight." = "Bank, Kurzhantel, Matte, Körpergewicht";
+"Muscle definition and fat burning." = "Muskeldefinition und Fettverbrennung";
+"Cardio routine of the full Body." = "Cardio-Routine des ganzen Körpers";
+"Home, Office." = "Zuhause, Büro";
+"Core zone." = "Kernzone";
+"Abdominals definition & fat burning." = "Definition der Bauchmuskeln & Fettverbrennung";
+"Gym, Home, Office." = "Fitnessstudio, Zuhause, Büro";
+"Stability ball, Mat, Body Weight." = "Gymnastikball, Matte, Körpergewicht";
+"Chest & Arms." = "Brust & Arme";
+"Get strength and definition." = "Kraft und Definition bekommen";
+"Bench, Dumbbell." = "Bank, Kurzhantel";
+"Arms." = "Arme";
+"Shoulders." = "Schultern";
+"Bench, Dumbbell, Balance Ball." = "Bank, Kurzhantel, Gleichgewichtsball";
+"Back & Arms." = "Rücken & Arme";
+"Neck, shoulders, lower back and legs." = "Nacken, Schultern, unterer Rücken und Beine";
+"Muscle flexibility and relaxation." = "Muskelflexibilität und Entspannung";
+"Exercise Mat, Body Weight." = "Übungsmatte, Körpergewicht";
+
+
+"Focus" = "Fokus";
+"Goal" = "Ziel";
+"Skill level" = "Fähigkeitslevel";
+"Target Group" = "Zielgruppe";
+"Place" = "Ort";
+"Equipment" = "Ausstattung" ;
+
+"extraDescription1" = "Übungen für Gewichtheben und Muskelaufbau und Kraft.";
+"extraDescription2" = "Perfekte Kombination von Training, um Kraft zu bekommen und Definition hinzuzufügen.";
+"extraDescription3" = "Stark werden und schwitzen Sie mit diesem inspirierten Fettverbrennunskreislauf.";
+"extraDescription4" = "Werden Sie schlank und arbeiten Sie an Ihrem Waschrettbauch mit diesem Bauchmuskelverbrenner inspirierten Kreislauf.";
+"extraDescription5" = "Tolles Training konzentriert auf Ihre Bauchmuskeln für Kraft und Definition.";
+"extraDescription6" = "Tolles Training konzentriert auf Ihre Armmuskeln für Kraft und Definition.";
+"extraDescription7" = "Tolles Training konzentriert auf Ihre Beinmuskeln für Kraft und Definition.";
+"extraDescription8" =  "Tolles Training konzentriert auf Ihre Schultermuskeln für Kraft und Definition.";
+"extraDescription9" = "Tolles Training konzentriert auf Ihre Rückenmuskeln für Kraft und Definition.";
+"extraDescription10" ="Verbessern Sie Ihre Flexibilität und Muskelentspannung mit vollen Körperdehnung Sessions.";
+
+"extraDescription1_howToMake" = "3 Sets pro Übung.";
+"extraDescription2_howToMake" = "Jede Übung 15 Wiederholungen mit 2 Runden zuerst 4 dann weitere 4.";
+"extraDescription3_howToMake" = "Ruhezeit zwischen Übung 15 Sek., Ruhezeit zwischen Runden 30 Sek.";
+"extraDescription4_howToMake" =  "Ruhezeit zwischen Übung 15 Sek., Ruhezeit zwischen Runden 30 Sek.";
+"extraDescription5_howToMake" = "Ruhezeit zwischen Übung 45 Sek., Ruhezeit zwischen Sets 35 Sek.";
+"extraDescription6_howToMake" = "Ruhezeit zwischen Übung 45 Sek., Ruhezeit zwischen Sets 35 Sek.";
+"extraDescription7_howToMake" =  "Ruhezeit zwischen Übung 45 Sek., Ruhezeit zwischen Sets 35 Sek.";
+"extraDescription8_howToMake" = "Ruhezeit zwischen Übung 45 Sek., Ruhezeit zwischen Sets 35 Sek.";
+"extraDescription9_howToMake" = "Ruhezeit zwischen Übung 45 Sek., Ruhezeit zwischen Sets 35 Sek.";
+"extraDescription10_howToMake" = "Keine Ruhe zwischen Übungen. Fixierung jeder Position für 30 Sek.";
+
+"categoryDescription0" = "Beste Übungen, um Volumen aufzubauen und Ihren Bauchmuskeln Definition zu geben";
+"categoryDescription1" = "Verschiedene Übungen, die Ihnen dabei helfen, Stärke zu bekommen und Kraft hinzuzufügen";
+"categoryDescription2" = "Perfekte Kombination an Übung, um Masse zu bilden und Volumen hinzuzufügen";
+"categoryDescription3" = "Besondere Übungen, die Ihnen dabei helfen, Kraft aufzubauen und Muskelentpannung hinzuzufügen";
+"categoryDescription4" = "Beste Übung, die Ihnen dabei hilft, Definition hinzuzufügen und Volumen und Kraft";
+"categoryDescription5" = "Andere Übung, die Ihnen dabei hilft, die Leisung aufzubauen, die Sie möchten";
+"categoryDescription6" = "Perfekte Kombination an Übung, um Beinkraft zu bekommen und Ausdauer zu erhöhen";
+"categoryDescription7" = "Tolle Kombination an Übung, um Kraft aufzubauen und Definition hinzuzufügen";
+"categoryDescription8" = "Besondere Übung, die Ihnen dabei hilft, Kraft hinzuzufügen mit verschiedenen Intensitätsstufen";
+"categoryDescription9" =  "Von Pro Vision";
+"workoutDescription2" = "Eine Kombination von Übung, die Ihnen dabei hilft, Volumen aufzubauen und Muskeln zu bekommen";
+"workoutDescription1" = "Perfekter Strategieplan, um schlank zu werden und Ihrem Körper Definition hinzuzufügen";
+"workoutDescription3" =  "Die beste Art, Kraft zu bekommen, Ihre Leistung zu verbessern und Kraft hinzuzufügen";
+
+
+"viewed" = "angesehen";
+

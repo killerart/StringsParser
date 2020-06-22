@@ -1,0 +1,223 @@
+
+"exercises" = "锻炼";
+"social follow" = "留在接 VGFIT";
+"Exercises" = "运动";
+"Workouts" = "锻炼";
+"Custom" = "自定义";
+"Done" = "完成";
+"Back" = "返回";
+"Title" = "标题";
+"Downloading video" = "正下载视频";
+"Please wait..." = "请稍等... ";
+"Cancel" = "取消";
+"Bodybuilding" = "健美";
+"Fitness" = "健身";
+"Powerlifting" = "键力";
+"2 Days per week" = "每周两天";
+"3 Days per week" = "每周三天";
+"4 Days per week" = "每周四天";
+"Day 1" = "第一天";
+"4 sets and 12/10/8/6 reps" = "4组和 重复12/10/8/6次";
+"Day 2" = "第二天";
+"Day 3" = "第三天";
+"Day 4" = "第四天";
+"Day" = "天";
+"Days" = "天";
+"4 sets and 15 reps" = "4组和重复15次";
+"5 sets and 3/3/3/2/1 reps" = "5组和重复3/3/3/2/1次";
+"Edit" = "编辑";
+"My Workout" = "我的锻炼";
+"To create new workout press +" = "按着 + 则创建新的锻炼";
+"Save" = "储存";
+"Workout Name:" = "锻炼名称:";
+"Days Number:" = "天数:";
+"Delete" = "删除";
+"Workout Title:" = "锻炼标题:";
+"Options:" = "选项:";
+"Camera/Gallery" = "照相机/相册";
+"Exercise's Photos" = "锻炼照片";
+"Name, Description, Repetitions" = "名称、 说明、 重复";
+"Exercise Name:" = "锻炼名称:";
+"Description:" = "说明:";
+"Description" = "说明";
+"Repetitions:" = "重复:";
+"Error!" = "错误!";
+"Error" = "错误";
+"Please fill up the text field!" = "请填写文本字段!";
+
+"Do you really want to cancel the download process? All progress will be lost!" = "您是否想要取消下载过程？所有的进展将丢失！";
+"Download all videos" = "下载所有视频";
+"Unzipping Files" = "解压文件";
+"Files" = "文件";
+"Downloading Videos" = "正下载视频中";
+"All videos were saved successfully!" = "已成功储存所有视频!";
+"Add" = "添加";
+"No Camera Support!" = "没有可支持的照相机！";
+"Camera feature is not supported by your device !" = "您的设备不支持照相机功能！";
+"Please fill up the exercise name field!" = "请填写锻炼名字字段！";
+"Please check your wi-fi or cellular internet connection!" = "请查看您的无线网络或移動无联网连接！";
+"Your video is downloading already! Wait until it's done!" = "已正在下载您的视频！等待直到它完成！";
+"Warning!" = "警告！";
+"For" = "为";
+
+"History" = "历史";
+"More" =	"更多";
+"Start" =	"开始";
+"Weight(kg)" =	"重量(公斤)";
+"Weight(lbs)" =	"重量（英镑）";
+"Weight" = "重量";
+"Repetitions" =	"重复次数";
+"Save" =	"保存";
+"Last values" =	"最后值";
+"Cancel" =	"取消";
+
+"Attention" =	"警告";
+"Would you like to leave without saving?" =	"你是否有意退出而不保存";
+"Ok" =	"确认";
+
+"No exercises have been done yet" =	"未完成任何锻炼";
+"Performance" =	"绩效";
+"Send Feedback" =	"发送反馈意见";
+"Report a Bug" =	"报告错误";
+"Tell a Friend" =	"推荐朋友";
+"Gift this App" =	"赠送本应用程序";
+"Rate us" =	"对我们进行评级";
+"Set seconds" =	"设定秒钟";
+"Stop" =	"停止";
+"Check out iBodybuilding-Update" =	"查看我们的iBodybuilding – 更新";
+"Check out this application on the App Store:" =	"在应用程式商店查看本应用程式";
+"Please note that you have not been added to any email lists." =	"请注意我们不将你添加至任何邮件列表";
+
+"Fill up all the blank repetitions boxes." = "填满所有重复次数的空白框";
+"You can't use values bigger than 500." ="您无法使用大于500的数值";
+"You can't input data for future dates." = "您无法在未来的日子输入数据。";
+
+
+"4 sets and 15 reps" = "4組和重復15次";
+"4 sets and 12/10/8/6 reps" = "4組和 重復12/10/8/6次";
+"5 sets and 3/3/3/2/1 reps" = "5組和重復3/3/3/2/1次";
+
+"Sets"  = "方法";
+"Enter workout name :" = "输入锻炼名称：";
+"Days number :" = "天数：";
+"sets and" = "組和重復";
+"reps" = "次";
+
+"You can't delete current selection" = "您不能删除当前的选择";
+
+
+
+// New localization
+
+"Extra" = "额外的";
+
+"Forgot your password?" = "忘记密码了吗";
+
+"Alert" = "警报";
+"somethingWentWrongAlert" = "出错警报";
+"An account already exists for this email address" = "该邮件地址已存在对应账户";
+"Incorrect email address or password" = "错误的邮件地址或密码";
+"Notification" = "通知";
+"In-App purchases were restored" = " App 内购买已修复";
+"Sorry we didn't find your previous purchases" = "抱歉，我们未找到您之前的购买记录";
+"You don't have purchases for this account" = "您没有通过该账户购买";
+"You have purchased this item for another account" = "您已为另一账户购买该项目";
+"You have already purchased this item." = "您已购买该项目。";
+"Do you want to restore it for current account?" = "您想为当前账户恢复它吗？";
+"Enter a valid email address" = "输入一个有效的邮件地址";
+"Enter a valid password" = "输入一个有效的密码";
+
+"Password doesn't match" = "密码不匹配";
+"Password must be minimum 4 characters" = "密码最少应包含4个字母";
+"Success!" = "成功！";
+"An email has been sent. Please check your Inbox or Spam folders." = "邮件已发送。请查看您的收件箱或垃圾邮件";
+
+"Login with Email" = "通过邮件地址登录";
+"Login with Facebook" = "通过Facebook 账号登录";
+"By continuing, you accept our Privacy Policy and Terms of Service" = "若继续，则表示您接受我们的隐私政策及服务条款";
+"Continue" = "继续";
+"Login" = "登录";
+"Create Account" = "创建账户";
+"Sign Up" = "注册";
+"Email" = "邮箱";
+"Password" = "密码";
+"Confirm Password" = "确认密码";
+"No internet connection" = "无网络连接！";
+"Restore" = "恢复";
+"My profile" = "我的资料";
+"Sign Out" = "退出";
+
+"30 sec. without rest time" = "30秒.没有休息时间";
+"3 sets and 12/11/10 reps"  = "3套，12/11/10组";
+"35 s. work time 15 s. rest time" = "35秒锻炼时间，15秒休息时间.";
+"30 s. work time 15 s. rest time" = "30秒锻炼时间，15秒休息时间.";
+"2 rounds 15 reps" = "2轮15组";
+
+
+
+"Round" = "轮次";
+"Rounds" = "轮次";
+"Reset" = "重置";
+"Intervals" = "间隔";
+"Current settings" = "当前设置";
+"My workouts" = "我的锻炼";
+"Work time" = "锻炼时间";
+"Rest time" = "休息时间";
+
+"Instagram application is not installed" = "没有安装Instagram应用程序";
+
+
+
+
+
+"Skip" = "跳过";
+"Guest" = "访客";
+"Training plans" = "训练计划";
+"Downloading content" = "内容下载中";
+"Content is downloading, please wait" = "内容正在下载，请稍后";
+"Share application" = "分享应用程序";
+"Share app on Facebook" = "在Facebook上分享应用程序";
+"Share app on Instagram" = "在Instagram上分享应用程序";
+"Follow VGFIT on Instagram" = "在Instagram上关注VGFIT";
+"Follow VGFIT on Facebook" = "在Facebook上关注VGFIT";
+"tweetAboutUsKey" = "在Tweet上@我们 ";
+"Backup" = "返回";
+"Export backup file" = "导出备份文件";
+"Backup on email or print your workout history" = "将您的锻炼历史备份成邮件或打印出来";
+"Import backup file" = "导入备份文件";
+"To import history tap on the file in your mail" = "点击您邮箱中的文件以导入历史数据";
+"History by Exercise" = "按锻炼内容浏览历史数据";
+"History by Date" = "按日期浏览历史数据";
+"youCantSendTwitt" = "此应用程序尚不能发送推特。这是由于它无法连接推特，或是您没有连接此设备的推特账户。";
+"pleaseLogToFB" = "请从您的设备设定中登入您的Facebook账户。";
+//reminder
+
+"Reminder" = "提醒";
+"Edit notification permission in IOS settings" = "在IOS设定中编辑通知允许";
+"Daily reminder" = "每日提醒";
+"Frequency" = "频率";
+"It's time to workout!" = "是时候锻炼了！";
+"After %ld days of inactivity" = "在 %ld 天的不活跃后";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "嗨！您已经几天没有锻炼了，快回来锻炼！";
+//Rate us Button
+
+//"Love our %@ app" = "爱上我们的 %@ 应用程序"; //%@ - is the name of the app to be inserted
+//"Your feedback will help us to get better" = "您的反馈让我们更进步";
+"Oh Dear!" = "啊，亲爱的！";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "如果您愿意给予我们一些改进应用程序的点子，我们会非常感激的。谢谢！";
+
+
+"Email Us" = "电邮我们";
+"Not now" = "不是现在";
+
+"5-Stars" = "5颗星";
+"To improve the app, please Leave a Rating or Review." = "请留下评级或意见，帮助我们改善应用程序。";
+
+//Watch
+"Download" = "下载";
+"Download all images" = "下载所有图片";
+"Oops!" = "噢！";
+"You have to unlock this workout on your iPhone." = "您需要在iPhone上解锁此锻炼。";
+"There are no custom workouts to show." = "没有可显示的定制锻炼。";
+"There is no history, yet." = "还没有历史记录。";
+"Please, Download the images." = "请下载图片。";

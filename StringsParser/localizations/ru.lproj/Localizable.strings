@@ -1,0 +1,223 @@
+
+"exercises" = "упражнений";
+"social follow" = "Оставайтесь на связи с VGFIT";
+"Exercises" = "Упражнения";
+"Workouts" = "Тренировки";
+"Custom" = "Индивидуальные";
+"Done" = "Готово";
+"Back" = "Назад";
+"Title" = "Название";
+"Downloading video" = "Загрузка видео";
+"Please wait..." = "Пожалуйста, подождите...";
+"Cancel" = "Отменить";
+"Bodybuilding" = "Бодибилдинг";
+"Fitness" = "Фитнес";
+"Powerlifting" = "Пауэрлифтинг";
+"2 Days per week" = "2 дня в неделю";
+"3 Days per week" = "3 дня в неделю";
+"4 Days per week" = "4 дня в неделю";
+"Day 1" = "День 1";
+"4 sets and 12/10/8/6 reps" = "4 подхода по 12/10/8/6 повторений";
+"Day 2" = "День 2";
+"Day 3" = "День 3";
+"Day 4" = "День 4";
+"Day" = "День";
+"Days" = "Дней";
+"4 sets and 15 reps" = "4 подхода по 15 повторений";
+"5 sets and 3/3/3/2/1 reps" = "5 подходов по 3/3/3/2/1 повторений";
+"Edit" = "Редактировать";
+"My Workout" = "Моя тренировка";
+"To create new workout press +" = "Чтобы создать новую тренировку, нажмите +";
+"Save" = "Сохранить";
+"Workout Name:" = "Название тренировки:";
+"Days Number:" = "Количество дней:";
+"Delete" = "Удалить";
+"Workout Title:" = "Название тренировки:";
+"Options:" = "Опции:";
+"Camera/Gallery" = "Камера/Галерея";
+"Exercise's Photos" = "Фото упражнений";
+"Name, Description, Repetitions" = "Название, Описание, Количество повторений";
+"Exercise Name:" = "Название упражнения:";
+"Description:" = "Описание:";
+"Description" = "Описание";
+"Repetitions:" = "Количество повторений:";
+"Error!" = "Ошибка!";
+"Error" = "Ошибка";
+"Please fill up the text field!" = "Пожалуйста, заполните текстовое поле!";
+"Ok" = "Да";
+"Do you really want to cancel the download process? All progress will be lost!" = "Вы действительно хотите отменить процесс загрузки? Весь прогресс будет потерян!";
+"Download all videos" = "Скачать все видео";
+"Unzipping Files" = "Разархивирование файлов";
+"Files" = "Файлы";
+"Downloading Videos" = "Загрузка видео";
+"All videos were saved successfully!" = "Все видео были успешно сохранены!";
+"Add" = "Добавить";
+"No Camera Support!" = "Не Поддерживает Камеру!";
+"Camera feature is not supported by your device !" = "Особенности камеры не поддерживаются вашим устройством!";
+"Please fill up the exercise name field!" = "Пожалуйста заполните поле названия упражнения!";
+"Please check your wi-fi or cellular internet connection!" = "Пожалуйста проверьте свое Wi-Fi или мобильное интернет соединение!";
+"Your video is downloading already! Wait until it's done!" = "Ваше видео уже находится в состоянии загрузки! Дождитесь завершения!";
+"Warning!" = "Внимание!";
+"For" = "Для";
+
+"History" =	"История";
+"More" =	"Ещё";
+"Start" =	"Пуск";
+"Weight(kg)" =	"Вес (кг)";
+"Weight(lbs)" =	"Вес (фунт)";
+"Weight" = "Вес";
+"Repetitions" =	"Повторы";
+"Save" =	"Сохранить";
+"Last values" =	"Последние значения";
+"Cancel" =	"Отмена";
+
+"Attention" =	"Внимание";
+"Would you like to leave without saving?" =	"Вы желаете выйти без сохранения?";
+//"Ok" =	"Хорошо";
+
+"No exercises have been done yet" =	"Нет выполненных упражнении";
+"Performance" =	"Успех";
+"Send Feedback" =	"Отправить отзыв";
+"Report a Bug" =	"Сообщить об ошибке";
+"Tell a Friend" =	"Рассказать другу";
+"Gift this App" =	"Сделай подарок";
+"Rate us" =	"Оценить нас";
+"Set seconds" =	"Установите секунды";
+"Stop" =	"Стоп";
+"Check out iBodybuilding-Update" =	"Проверьте обновления приложения iBodybuilding";
+"Check out this application on the App Store:" =	"Проверьте это приложение в App Store:";
+"Please note that you have not been added to any email lists." =	"Обратите внимание, что вы не были добавлены к какому либо списку электронных адресов.";
+
+"Fill up all the blank repetitions boxes." = "Заполните все пустые окна повторений.";
+"You can't use values bigger than 500." = "Вы не можете использовать значения выше 500.";
+"You can't input data for future dates." = "Вы не можете вводить данные для будущих дат!";
+
+
+"4 sets and 15 reps" = "4 подхода по 15 повторений";
+"4 sets and 12/10/8/6 reps" = "4 подхода по 12/10/8/6 повторений";
+"5 sets and 3/3/3/2/1 reps" = "5 подходов по 3/3/3/2/1 повторений";
+
+"Sets"  = "Подходов";
+"Enter workout name :" = "Введите название тренировки :";
+"Days number :" = "Количество дней :";
+"sets and" = "подходов по";
+"reps" = "повторений";
+
+"You can't delete current selection" = "Вы не можете удалять текущий выбор";
+
+
+
+// new
+
+"Extra" = "Экстра";
+
+"Forgot your password?" = "Забыли пароль?";
+
+"Alert" = "Уведомление";
+"somethingWentWrongAlert" = "Сервер не отвечает.";
+"An account already exists for this email address" = "На этот email уже зарегистрирован аккаунт";
+"Incorrect email address or password" = "Неправильный email или пароль";
+"Notification" = "Уведомление";
+"In-App purchases were restored" = "Встроенные покупки были восстановлены";
+"Sorry we didn't find your previous purchases" = "Извините, мы не нашли ваши предыдущие покупки";
+"You don't have purchases for this account" = "У вас нет покупок для этого аккаунта";
+"You have purchased this item for another account" = "Вы уже купили этот пакет с другого аккаунта";
+"You have already purchased this item." = "Вы уже оплатили этот пакет";
+"Do you want to restore it for current account?" = "Вы хотите восстановить этот пакет для текущего аккаунта?";
+"Enter a valid email address" = "Введите правильный email адрес";
+"Enter a valid password" = "Введите правильный пароль";
+
+"Password doesn't match" = "Пароль не совпадает";
+"Password must be minimum 4 characters" = "Пароль должен содержать минимум 4 символа";
+"Success!" = "Успех!";
+"An email has been sent. Please check your Inbox or Spam folders." = "Письмо было отправлено. Пожалуйста проверьте вашу входящую почту и спам";
+
+"Login with Email" = "Войти с помощью email";
+"Login with Facebook" = "Войти с помощью Facebook";
+"By continuing, you accept our Privacy Policy and Terms of Service" = "Продолжая, вы принимаете нашу Политику Конфиденциальности и Условия использования";
+"Continue" = "Продолжить";
+"Login" = "Войти";
+"Create Account" = "Создать аккаунт";
+"Sign Up" = "Зарегистрировать";
+"Email" = "Email";
+"Password" = "Пароль";
+"Confirm Password" = "Повторите пароль";
+"No internet connection" = "Нет интернет соединения";
+"Restore" = "Восстановить";
+"My profile" = "Мой профиль";
+"Sign Out" = "Выйти";
+
+"30 sec. without rest time" = "30 сек. без перерыва";
+"3 sets and 12/11/10 reps"  = "3 подхода по 12/11/10 повторений";
+"35 s. work time 15 s. rest time" = "35 сек. упражнений и 15 сек. отдых";
+"30 s. work time 15 s. rest time" = "30 сек. упражнений и 15 сек. отдых";
+"2 rounds 15 reps" = "2 круга 15 повторений";
+
+
+
+"Round" = "Круг";
+"Rounds" = "Круги";
+"Reset" = "Сбросить";
+"Intervals" = "Интервалы";
+"Current settings" = "Текущие настройки";
+"My workouts" = "Мои тренировки";
+"Work time" = "Время тренировки";
+"Rest time" = "Время отдыха";
+
+"Instagram application is not installed" = "Приложение Instagram не установлено";
+
+
+
+
+"Skip" = "Пропустить";
+"Guest" = "Гость";
+"Training plans" = "Планы тренировок";
+"Downloading content" = "Загрузка контента";
+"Content is downloading, please wait" = "Загрузка контента, пожалуйста подождите";
+"Share application" = "Поделиться приложением";
+"Share app on Facebook" = "Поделиться приложением на Facebook";
+"Share app on Instagram" = "Поделиться приложением в Instagram";
+"Follow VGFIT on Instagram" = "Подописаться на VGFIT в Instagram";
+"Follow VGFIT on Facebook" = "Подописаться на VGFIT в Facebook";
+"tweetAboutUsKey" = "Напишите твит о нас";
+"Backup" = "Экспорт";
+"Export backup file" = "Экспортировать резервную копию";
+"Backup on email or print your workout history" = "Сохранить в email или распечатать историю тренировок";
+"Import backup file" = "Импортировать резервную копию";
+"To import history tap on the file in your mail" = "Чтобы импортировать историю нажмите на файл сохраненный в email";
+"History by Exercise" = "История по упражнениям";
+"History by Date" = "История по датам";
+"youCantSendTwitt" = "Приложение не может отправить сообщение в Twitter на данный момент. Возможно, Twitter не работает, или у вас нет учетной записи в Twitter, связанной с этим устройством";
+"pleaseLogToFB" = "Пожалуйста, войдите в ваш Facebook аккаунт при помощи установок вашего устройства.";
+//reminder
+
+"Reminder" = "Напоминания";
+"Edit notification permission in IOS settings" = "Изменить разрешения уведомлений в настройках iOS";
+"Daily reminder" = "Ежедневные напоминания";
+"Frequency" = "Частота";
+"It's time to workout!" = "Время заниматься!";
+"After %ld days of inactivity" = "После %ld д. отсутствия активности";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Эй! Вы не делали упражнения уже несколько дней подряд. Пора возобновить свои занятия!";
+
+//Rate us Button
+
+//"Love our %@ app" = "Вам нравится наше приложение %@?"; //%@ - is the name of the app to be inserted
+//"Your feedback will help us to get better" = "Ваш отзыв поможет нам стать лучше";
+"Oh Dear!" = "Привет!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Мы были бы благодарны вам за ваши идеи по поводу улучшения нашего приложения. Спасибо!";
+
+
+"Email Us" = "Напишите нам";
+"Not now" = "Не сейчас";
+
+"5-Stars" = "5 звезд";
+"To improve the app, please Leave a Rating or Review." = "Чтобы мы могли улучшить наше приложение, пожалуйста, поставьте нам оценку или оставьте свой отзыв.";
+
+//Watch
+"Download" = "Загрузить";
+"Download all images" = "Загрузить все изображения";
+"Oops!" = "Ой!";
+"You have to unlock this workout on your iPhone." = "Вам необходимо разблокировать это упражнение на своем iPhone.";
+"There are no custom workouts to show." = "Нет каких-либо пользовательских упражнений.";
+"There is no history, yet." = "Пока что история пуста.";
+"Please, Download the images." = "Пожалуйста, загрузите изображения.";

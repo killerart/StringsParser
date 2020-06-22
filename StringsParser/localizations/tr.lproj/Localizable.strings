@@ -1,0 +1,250 @@
+
+"exercises" = "egzersizleri";
+"social follow" = "Kalın ile bağlantılı VGFIT";
+"Exercises" = 	"Egzersizler";
+"Workouts" = 	"Antrenmanlar";
+"Custom" = 	"Kişiye Özel";
+"Done" =	"Bitti";
+"Back" = 	"Geri";
+"Title" = 	"Başlık";
+"Downloading video" = 	"Video indiriliyor";
+"Please wait..." = 	"Lütfen bekleyin...";
+"Cancel" = 	"İptal";
+"Bodybuilding" = 	"Bodybuilding";
+"Fitness" = 	"Fitness";
+"Powerlifting" = 	"Powerlifting";
+"2 Days per week" = 	"Haftada 2 gün";
+"3 Days per week" = 	"Haftada 3 gün";
+"4 Days per week" = 	"Haftada 4 gün";
+"Day 1" = 	"1. Gün";
+"4 sets and 12/10/8/6 reps"= 	"4 set ve 12/10/8/6 tekrar";
+"Day 2" =	"2. Gün";
+"Day 3" =	"3. Gün";
+"Day 4" = 	"4. Gün";
+"Day" = "Gün";
+"Days" = "Günler";
+"4 sets and 15 reps" = 	"4 set ve 15 tekrar";
+"5 sets and 3/3/3/2/1 reps" = 	"5 set ve 3/3/3/2/1 tekrar";
+"Edit" = 	"Düzenle";
+"My Workout" = 	"Antrenmanım";
+"To create new workout press +" = 	"Yeni bir antrenman oluşturmak için +’ya basın";
+"Save" = 	"Kaydet";
+"Workout Name:" = 	"Antrenman Adı:";
+"Days Number:" = 	"Gün Sayısı:";
+"Delete" = 	"Sil";
+"Workout Title:"= 	"Antrenman Başlığı:";
+"Options:" = 	"Seçenekler:";
+"Camera/Gallery" = 	"Kamera/Galeri";
+"Exercise's Photos" = 	"Egzersizin Fotoğrafları";
+"Name, Description, Repetitions" = 	"Adı, Tanımı, Tekrarlar";
+"Exercise Name:" = 	"Egzersiz Adı:";
+"Description:" =	"Tanım:";
+"Description" =	"Tanım";
+"Repetitions:" = 	"Tekrarlar:";
+"Auto" = 	"Otomatik";
+"On" =	"Açık";
+"Off" = 	"Kapalı";
+"Retake" = 	"Tekrar al";
+"Preview" = 	"Ön izle";
+"Use" = 	"Kullan";
+"Error!" = 	"Hata!";
+"Error" = 	"Hata";
+"Please fill up the text field" = 	"Lütfen metin alanını doldurun";
+"Ok" = 	"Tamam";
+"Do you really want to cancel the download process? All progress will be lost!" =	"İndirme işlemini iptal etmek istediğinizden emin misiniz? Tüm ilerleme kaybedilecektir!";
+"Download all videos" =	"Tüm videoları indir";
+"Unziping Files" = 	"Dosyalar Çıkartılıyor";
+"Files" = 	"Dosyalar";
+"Downloading Videos" = 	"Videolar İndiriliyor";
+"All videos were saved succesfully!" = 	"Tüm videolar başarıyla kaydedildi!";
+"Add" =	"Ekle";
+"No Camera Support!" =	"Kamera Desteği Yok!";
+"Camera feature is not supported by your device !" =	"Kamera özelliği cihazınız tarafından desteklenmemektedir!";
+"Please fill up the exercise name field!" =	"Lütfen egzersiz adı alanını doldurun!";
+"Please check your wi-fi or cellular internet connection!"=	"Lütfen wifi ve mobil internet bağlantınızı kontrol ediniz!";
+"Your video is downloading already!" =	"Videonuz zaten indirilmektedir!";
+"Warning!" =	"Uyarı!";
+"For 3 Days" =	"3 Gün İçin";
+
+"Wait until it's done!" =	"Bitmesini bekleyin!";
+"Do you really want to exit?" =	"Gerçekten çıkmak mı istiyorsunuz?";
+"Pay attention to repetitions and weights!" =	"Tekrar sayılarına ve ağırlıklara dikkat gösterin!";
+"4 sets and 15 repetitions" =	"4 set ve 15 tekrar";
+"Later" =	"Daha Sonra";
+"Get Pro" =	"Pro’ya Geç";
+"More User Friendly Interface" =	"Daha Kullanıcı Dostu Arayüzü";
+"Faster Working Algorithm" =	"Daha Hızlı Çalışan Algoritma";
+"User's Support With Higher Priority" =	"Daha Öncelikli Kullanıcı Desteği";
+"More Frequent Updates" =	"Daha Sık Güncellemeler";
+"Video Guide" =	"Video Kılavuzu";
+"No Ads" =	"Reklamsız";
+"ADS" =	"REKLAMLAR";
+"Loading" =	"Yükleniyor";
+
+"History" =	"Geçmiş";
+"More" =	"Daha";
+"Start" =	"Başlat";
+"Weight(kg)" =	"Ağırlık(kg)";
+"Weight(lbs)" =	"Ağırlık(lbs)";
+"Weight" = "Ağırlık";
+"Repetitions" =	"Tekrarlar";
+"Save" =	"Kaydet";
+"Last values" =	"Son değerler";
+"Cancel" =	"İptal";
+
+"Attention" =	"Dikkat";
+"Would you like to leave without saving?" =	"Kaydetmeden çıkmak istiyor musunuz?";
+"Ok" =	"Tamam";
+
+
+"No exercises have been done yet" =	"Henüz hiçbir egzersiz yapılmadı";
+"Performance" =	"Performans";
+"Send Feedback" =	"Geribildirim Gönder";
+"Report a Bug" =	"Hata Bildir";
+"Tell a Friend" =	"Arkadaşına Bahset";
+"Gift this App" =	"Hediye Et Bu";
+"Rate us" =	"Bizi Puanlayın";
+"Set seconds" =	"Saniyeyi Ayarla";
+"Stop" =	"Durdur";
+"Check out iBodybuilding-Update" =	"iBodybuildingGüncellemesi Kontrol Et";
+"Check out this application on the App Store:" =	"App Store’daki şu uygulamaya bak:";
+"Please note that you have not been added to any email lists." =	"Lütfen herhangi bir eposta listesine eklenmediğinizi dikkate alınız.";
+
+"Fill up all the blank repetitions boxes." = "Tüm boş tekrar kutularını doldurun.";
+"You can't use values bigger than 500." = "500'den büyük değerler kullanamazsınız.";
+"You can't input data for future dates." = "Gelecek tarihler için veri girişi yapamazsınız!";
+
+
+"4 sets and 15 reps" = "4 set ve 15 tekrar";
+"4 sets and 12/10/8/6 reps" = "4 set ve 12/10/8/6 tekrar";
+"5 sets and 3/3/3/2/1 reps" = "5 set ve 3/3/3/2/1 tekrar";
+
+"Sets"  = "Set";
+"Enter workout name :" = "Egzersiz adını girin:";
+"Days number :" = "Gün sayısı:";
+"sets and" = "set ve";
+"reps" = "tekrar";
+
+"You can't delete current selection" = "Geçerli seçimi silemezsiniz";
+
+
+
+// new localization
+
+
+"Extra" = "Ekstra";
+
+"Forgot your password?" = "Şifrenizi mi unuttunuz?";
+
+"Alert" = "Uyarı";
+"somethingWentWrongAlert" = "birşeyYanlışGittiUyarısı";
+"An account already exists for this email address" = "Bu eposta adresi için zaten bir hesap mevcuttur";
+"Incorrect email address or password" = "Yanlış eposta adresi veya şifre";
+"Notification" = "Bildirim";
+"In-App purchases were restored" = "Uygulama içi satın almalar geri yüklendi";
+"Sorry we didn't find your previous purchases" = "Üzgünüz, daha önceki satın almalarınızı bulamadık";
+"You don't have purchases for this account" = "Bu hesap için mevcut satın almanız yoktur";
+"You have purchased this item for another account" = "Bu öğeyi başka bir hesap için satın almışsınız";
+"You have already purchased this item." = "Bu öğeyi zaten satın almışsınız.";
+"Do you want to restore it for current account?" = "Bunu mevcut hesaba geri yüklemek istiyor musunuz?";
+"Enter a valid email address" = "Geçerli bir eposta adresi girin";
+"Enter a valid password" = "Geçerli bir şifre girin";
+
+"Password doesn't match" = "Şifre eşleşmiyor";
+"Password must be minimum 4 characters" = "Şifre en az 4 karakterden oluşmalıdır";
+"Success!" = "Başarılı!";
+"An email has been sent. Please check your Inbox or Spam folders." = "Bir eposta gönderildi. Lütfen Gelen Kutunuzu veya Gereksiz klasörünüzü kontrol ediniz.";
+
+"Login with Email" = "Eposta ile Giriş Yap";
+"Login with Facebook" = "Facebook ile Giriş Yap";
+"By continuing, you accept our Privacy Policy and Terms of Service" = "Devam ederek, Gizlilik Politikamızı ve Kullanım Koşullarımızı kabul edersiniz";
+"Continue" = "Devam Et";
+"Login" = "Giriş Yap";
+"Create Account" = "Hesap Oluştur";
+"Sign Up" = "Kayıt Ol";
+"Email" = "Eposta";
+"Password" = "Şifre";
+"Confirm Password" = "Şifreyi Onayla";
+"No internet connection" = "İnternet bağlantısı yok!";
+"Restore" = "Geri yükle";
+"My profile" = "Profilim";
+"Sign Out" = "Çıkış Yap";
+
+"30 sec. without rest time" = "Dinlenme süresi olmadan 30 sn.";
+"3 sets and 12/11/10 reps"  = "3 set ve 12/11/10 tekrar";
+"35 s. work time 15 s. rest time" = "35 sn egzersiz, 15 sn. dinlenme süresi";
+"30 s. work time 15 s. rest time" = "30 sn. egzersiz, 15 sn. dinlenme süresi";
+"2 rounds 15 reps" = "2 tur, 15 tekrar";
+
+
+"Round" = "Tur";
+"Rounds" = "Turlar";
+"Reset" = "Sıfırla";
+"Intervals" = "İntervaller";
+"Current settings" = "Mevcut ayarlar";
+"My workouts" = "Antrenmanlarım";
+"Work time" = "Egzersiz süresi";
+"Rest time" = "Dinlenme süresi";
+
+"Instagram application is not installed" = "Instagram uygulaması yüklü değildir";
+
+
+
+
+
+
+
+"Skip" = "Atla";
+"Guest" = "Misafir";
+"Training plans" = "Egzersiz Programları";
+"Downloading content" = "İçerik indiriliyor";
+"Content is downloading, please wait" = "İçerik indiriliyor, lütfen bekleyin";
+"Share application" = "Uygulamayı paylaş";
+"Share app on Facebook" = "Uygulamayı Facebook’ta paylaş";
+"Share app on Instagram" = "Uygulamayı Instagram’da paylaş";
+"Follow VGFIT on Instagram" = "VGFIT’yu Instagram’da takip et";
+"Follow VGFIT on Facebook" = "VGFIT’yu Facebook’ta takip et";
+"tweetAboutUsKey" = "Bizimle ilgili tweet atın";
+"Backup" = "Backup";
+"Export backup file" = "Yedekleme dosyasını dışa aktar";
+"Backup on email or print your workout history" = "Egzersiz geçmişini e-postaya yedekle ya da çıktı olarak al";
+"Import backup file" = "Yedekleme dosyasını içe aktar";
+"To import history tap on the file in your mail" = "Geçmişi içe aktarmak için e-postadaki dosyaya tıklayın";
+"History by Exercise" = "Egzersizlere göre geçmiş";
+"History by Date" = "Tarihe göre geçmiş";
+"youCantSendTwitt" = " Bu uygulama şu anda tweet gönderemiyor. Bunun nedeni, Twitter’a ulaşamaması veya bu cihazla ilişkilendirilmiş bir Twitter hesabınızın olmamasıdır.";
+"pleaseLogToFB" = "Lütfen cihaz ayarlarından Facebook hesabınıza giriş yapın.";
+//reminder
+
+"Reminder" = "Hatırlatma";
+"Edit notification permission in IOS settings" = "IOS ayarlarında bildirim iznini düzenleyin";
+"Daily reminder" = "Günlük hatırlatma";
+"Frequency" = "Sıklık";
+"It's time to workout!" = "Antrenman zamanı!";
+"After %ld days of inactivity" = " %ld günlük hareketsizlik sonrası";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Hey! Birkaç gündür egzersiz yapmıyorsun, buraya gel ve antrenmana başla!";
+
+//Rate us Button
+
+//"Love our %@ app" = "%@ Uygulamamızı Beğenin"; //%@ - is the name of the app to be inserted
+//"Your feedback will help us to get better" = "Geribildiriminiz, daha iyi olmamızı sağlayacaktır";
+"Oh Dear!" = "Aman Tanrım!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Uygulamayı geliştirmek için bize fikirler verirseniz çok sevineceğiz. Teşekkürler!";
+
+
+"Email Us" = "Bize E-posta Gönderin";
+"Not now" = "Şimdi değil";
+
+"5-Stars" = "5 Yıldız";
+"To improve the app, please Leave a Rating or Review." = "Uygulamayı daha iyi hale getirmek için lütfen bir Yorum veya İnceleme yazın.";
+
+//Watch
+"Download" = "İndir";
+"Download all images" = "Tüm resimleri indir";
+"Oops!" = "Ah!";
+"You have to unlock this workout on your iPhone." = "Bu antrenmanın şifresini iPhone’unuzda kaldırmanız gerekiyor.";
+"There are no custom workouts to show." = "Gösterilecek herhangi bir özel antrenman yok.";
+"There is no history, yet." = "Henüz herhangi bir geçmiş yok.";
+"Please, Download the images." = "Lütfen, resimleri indirin.";
+
+

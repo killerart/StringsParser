@@ -1,0 +1,307 @@
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "15z-uY-jmh"; */
+"15z-uY-jmh.title" = "Item";
+
+/* Class = "UILabel"; text = "Export backup file"; ObjectID = "1ER-UZ-Bww"; */
+"1ER-UZ-Bww.text" = "Export backup file";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "1gH-ML-A9F"; */
+"1gH-ML-A9F.title" = "Edit";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "2Rd-Jd-BXc"; */
+"2Rd-Jd-BXc.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "After 1 day of inactivity"; ObjectID = "2TN-6H-bDk"; */
+"2TN-6H-bDk.text" = "After 1 day of inactivity";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "2gX-EL-4UM"; */
+"2gX-EL-4UM.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "2qa-FV-ebG"; */
+"2qa-FV-ebG.text" = "Title";
+
+/* Class = "UILabel"; text = "Repetitions"; ObjectID = "5nw-vj-gF6"; */
+"5nw-vj-gF6.text" = "Repetitions";
+
+/* Class = "UILabel"; text = "To import history tap on the file in your mail"; ObjectID = "6Is-vm-wxN"; */
+"6Is-vm-wxN.text" = "To import history tap on the file in your mail";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "7SY-xh-hjD"; */
+"7SY-xh-hjD.text" = "3";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "AR9-iA-Ucz"; */
+"AR9-iA-Ucz.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "B8D-yg-Ocf"; */
+"B8D-yg-Ocf.text" = "00:00:00";
+
+/* Class = "UITabBarItem"; title = "Workouts"; ObjectID = "Eu0-e0-1Uf"; */
+"Eu0-e0-1Uf.title" = "Workouts";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FHO-th-zYd"; */
+"FHO-th-zYd.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GZ7-Co-Nxw"; */
+"GZ7-Co-Nxw.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Grd-XJ-nbt"; */
+"Grd-XJ-nbt.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "Kvy-5F-CjF"; */
+"Kvy-5F-CjF.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Success!"; ObjectID = "LMq-R8-IlG"; */
+"LMq-R8-IlG.text" = "Success!";
+
+/* Class = "UILabel"; text = "Frequency (Days):"; ObjectID = "LSi-IT-LPh"; */
+"LSi-IT-LPh.text" = "Frequency (Days):";
+
+/* Class = "UIButton"; normalTitle = "Login with Facebook"; ObjectID = "MW7-Ug-Ss0"; */
+"MW7-Ug-Ss0.normalTitle" = "Login with Facebook";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "Mo6-aR-RJH"; */
+"Mo6-aR-RJH.normalTitle" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Weight(kg)"; ObjectID = "OqM-CJ-CqL"; */
+"OqM-CJ-CqL.normalTitle" = "Weight(kg)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PIo-5g-I4G"; */
+"PIo-5g-I4G.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "PdN-2j-d4Q"; */
+"PdN-2j-d4Q.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "Pl3-28-n7L"; */
+"Pl3-28-n7L.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Export backup file"; ObjectID = "Qo2-Kb-Maq"; */
+"Qo2-Kb-Maq.text" = "Export backup file";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Qtj-zq-b7c"; */
+"Qtj-zq-b7c.title" = "Item";
+
+/* Class = "UILabel"; text = "An email has been sent to your mailbox. Please check your email."; ObjectID = "QyT-IF-DBF"; */
+"QyT-IF-DBF.text" = "An email has been sent to your mailbox. Please check your email.";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "ROf-os-rno"; */
+"ROf-os-rno.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "RnA-bC-yfF"; */
+"RnA-bC-yfF.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Exercise name"; ObjectID = "Rnn-GH-qcQ"; */
+"Rnn-GH-qcQ.text" = "Exercise name";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "SJs-Ar-vpp"; */
+"SJs-Ar-vpp.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "By continuing you accept our Privacy Policy and Term of Service"; ObjectID = "Sja-ac-v9O"; */
+"Sja-ac-v9O.text" = "By continuing you accept our Privacy Policy and Term of Service";
+
+/* Class = "UIButton"; normalTitle = "Guest"; ObjectID = "Uo2-l6-jIj"; */
+"Uo2-l6-jIj.normalTitle" = "Guest";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "XJj-ei-3Rn"; */
+"XJj-ei-3Rn.text" = "1";
+
+/* Class = "UILabel"; text = "8 Exercises"; ObjectID = "Y4h-Jn-DEE"; */
+"Y4h-Jn-DEE.text" = "8 Exercises";
+
+/* Class = "UISegmentedControl"; YGS-VW-ZaE.segmentTitles[0] = "Weight"; ObjectID = "YGS-VW-ZaE"; */
+"YGS-VW-ZaE.segmentTitles[0]" = "Weight";
+
+/* Class = "UISegmentedControl"; YGS-VW-ZaE.segmentTitles[1] = "Repetitions"; ObjectID = "YGS-VW-ZaE"; */
+"YGS-VW-ZaE.segmentTitles[1]" = "Repetitions";
+
+/* Class = "UISegmentedControl"; YGS-VW-ZaE.segmentTitles[2] = "Performance"; ObjectID = "YGS-VW-ZaE"; */
+"YGS-VW-ZaE.segmentTitles[2]" = "Performance";
+
+/* Class = "UILabel"; text = "Daily reminder"; ObjectID = "Yy8-Hi-qCn"; */
+"Yy8-Hi-qCn.text" = "Daily reminder";
+
+/* Class = "UILabel"; text = "Enter workout name"; ObjectID = "ZlI-VG-CRw"; */
+"ZlI-VG-CRw.text" = "Enter workout name";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ahg-Mo-WrE"; */
+"ahg-Mo-WrE.normalTitle" = "Cancel";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "arc-aX-aG4"; */
+"arc-aX-aG4.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "55"; ObjectID = "bay-4f-74r"; */
+"bay-4f-74r.normalTitle" = "55";
+
+/* Class = "UILabel"; text = "4 days per week"; ObjectID = "c9q-yH-5hd"; */
+"c9q-yH-5hd.text" = "4 days per week";
+
+/* Class = "UIBarButtonItem"; title = "Backup"; ObjectID = "cO0-dx-azO"; */
+"cO0-dx-azO.title" = "Backup";
+
+/* Class = "UILabel"; text = "To import history tap on the file in your mail"; ObjectID = "ciN-5M-GHP"; */
+"ciN-5M-GHP.text" = "To import history tap on the file in your mail";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "crM-tV-L8B"; */
+"crM-tV-L8B.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "3 days per week"; ObjectID = "d4c-ea-V3a"; */
+"d4c-ea-V3a.text" = "3 days per week";
+
+/* Class = "UILabel"; text = "Sets"; ObjectID = "dtG-tu-qsb"; */
+"dtG-tu-qsb.text" = "Sets";
+
+/* Class = "UILabel"; text = "Number of the days"; ObjectID = "evS-36-VcK"; */
+"evS-36-VcK.text" = "Number of the days";
+
+/* Class = "UIButton"; normalTitle = "11:11"; ObjectID = "g4n-GG-Bgp"; */
+"g4n-GG-Bgp.normalTitle" = "11:11";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "gL4-u8-V8D"; */
+"gL4-u8-V8D.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "hyj-cc-kpt"; */
+"hyj-cc-kpt.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "i2T-3h-wPX"; */
+"i2T-3h-wPX.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Edit notification permission in IOS settings"; ObjectID = "j6M-Ux-D80"; */
+"j6M-Ux-D80.normalTitle" = "Edit notification permission in IOS settings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jHt-nB-vJl"; */
+"jHt-nB-vJl.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kyI-x7-dSC"; */
+"kyI-x7-dSC.text" = "Label";
+
+/* Class = "UILabel"; text = "Import backup file"; ObjectID = "lyz-iN-DVT"; */
+"lyz-iN-DVT.text" = "Import backup file";
+
+/* Class = "UILabel"; text = "2 days per week"; ObjectID = "mZc-rx-8fS"; */
+"mZc-rx-8fS.text" = "2 days per week";
+
+/* Class = "UILabel"; text = "Exercise name"; ObjectID = "mn1-MG-QEG"; */
+"mn1-MG-QEG.text" = "Exercise name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nwc-Ad-euo"; */
+"nwc-Ad-euo.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "ouz-nB-IcF"; */
+"ouz-nB-IcF.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "pNJ-cD-k0v"; */
+"pNJ-cD-k0v.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Round 0/5"; ObjectID = "phd-vh-hYY"; */
+"phd-vh-hYY.text" = "Round 0/5";
+
+/* Class = "UILabel"; text = "Import backup file"; ObjectID = "qfX-vq-ijn"; */
+"qfX-vq-ijn.text" = "Import backup file";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "sRs-cn-MuY"; */
+"sRs-cn-MuY.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Forgot your password?"; ObjectID = "sbx-KZ-itg"; */
+"sbx-KZ-itg.normalTitle" = "Forgot your password?";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "tOf-n7-vIp"; */
+"tOf-n7-vIp.text" = "2";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "txZ-TA-sYi"; */
+"txZ-TA-sYi.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "Exercise name"; ObjectID = "udy-nP-2EL"; */
+"udy-nP-2EL.text" = "Exercise name";
+
+/* Class = "UIButton"; normalTitle = "Repetitions"; ObjectID = "v8V-zx-gzd"; */
+"v8V-zx-gzd.normalTitle" = "Repetitions";
+
+/* Class = "UILabel"; text = "Backup on email or pc file with your workout history"; ObjectID = "vku-bW-VS3"; */
+"vku-bW-VS3.text" = "Backup on email or pc file with your workout history";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "vo9-9O-2fn"; */
+"vo9-9O-2fn.normalTitle" = "Reset";
+
+/* Class = "UILabel"; text = "Backup on email or pc file with your workout history"; ObjectID = "wI3-e3-8sJ"; */
+"wI3-e3-8sJ.text" = "Backup on email or pc file with your workout history";
+
+/* Class = "UIButton"; normalTitle = "10:00"; ObjectID = "wel-xI-zVl"; */
+"wel-xI-zVl.normalTitle" = "10:00";
+
+/* Class = "UIButton"; normalTitle = "Login with Email"; ObjectID = "xHj-5y-Ozx"; */
+"xHj-5y-Ozx.normalTitle" = "Login with Email";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "xNT-NH-Th9"; */
+"xNT-NH-Th9.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ysU-de-tQA"; */
+"ysU-de-tQA.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "z7t-p4-ZQq"; */
+"z7t-p4-ZQq.text" = "Detail";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "z9b-ve-yjN"; */
+"z9b-ve-yjN.text" = "3";
+
+/* Class = "UIButton"; normalTitle = "Intervals"; ObjectID = "zME-7o-ryi"; */
+"zME-7o-ryi.normalTitle" = "Intervals";//main.strings
+
+//
+//
+//"2qa-FV-ebG.text" = "शीर्षक";
+//
+//
+//"5nw-vj-gF6.text" = "दोहराव";
+//
+//
+//"6xW-1g-4hq.text" = "शीर्षक";
+//
+//
+//"Eu0-e0-1Uf.title" = "वर्कआउट";
+//
+//
+//"FHO-th-zYd.text" = "लेबल";
+//
+//
+//"Ji3-bR-UNa.title" = "इतिहास";
+//
+//
+//"N4j-nn-FfE.text" = "शीर्षक: ";
+//
+//
+//"OqM-CJ-CqL.normalTitle" = "भार(किलो)";
+//
+//
+//"ThV-H1-Tvk.title" = "अधिक";
+//
+//
+//"YGS-VW-ZaE.segmentTitles[0]" = "भार";
+//
+//
+//"YGS-VW-ZaE.segmentTitles[1]" = "दोहराव";
+//
+//
+//"YGS-VW-ZaE.segmentTitles[2]" = "प्रदर्शन";
+//
+//
+//"dtG-tu-qsb.text" = "सेट";
+//
+//
+//"elT-Qy-n7E.text" = "विवरण";
+//
+//
+//"ouz-nB-IcF.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+//
+//
+//"v8V-zx-gzd.normalTitle" = "दोहराव";
+//
+//
+//"wou-3d-p5Q.normalTitle" = "00:00:00";
+//
+//
+//"xHe-eS-jIf.title" = "कस्टम";
+//
+//
+//"z7t-p4-ZQq.text" = "विवरण";
+//
+//"zyp-BJ-EFh.title" = "व्यायाम";
+//
