@@ -25,7 +25,7 @@ namespace StringsParser
                 };
                 var translations = ParseStringsFile(file);
                 using var client = new HttpClient(clientHandler);
-                var response = client.PostAsJsonAsync($"{APP_PATH}/api/locale", new { Name = name, Translations = translations }).Result;
+                var response = client.PostAsJsonAsync($"{APP_PATH}/api/locale", (Name: name, Translations: translations)).Result;
                 Console.WriteLine(response.StatusCode.ToString());
                 //using (var client = new HttpClient(clientHandler)) {
                 //    var response = client.GetAsync(APP_PATH + "/api/locale/ru").Result;
