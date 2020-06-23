@@ -5,11 +5,6 @@ using System.Net.Http;
 
 namespace StringsParser
 {
-    class Language
-    {
-        public string Name { get; set; }
-        public Dictionary<string, string> Translations { get; set; }
-    }
     class Program
     {
         const string APP_PATH = "https://localhost:5001";
@@ -25,13 +20,12 @@ namespace StringsParser
         static void ParseLanguage(string name, string directory) {
             var files = Directory.GetFiles(directory, "*.strings");
             foreach (var file in files) {
-                var clientHandler = new HttpClientHandler
-                {
+                var clientHandler = new HttpClientHandler {
                     ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; }
                 };
                 var translations = ParseStringsFile(file);
                 using var client = new HttpClient(clientHandler);
-                var response = client.PutAsJsonAsync($"{APP_PATH}/api/locale/{name}", new { Name = name, Translations = translations }).Result;
+                var response = client.PostAsJsonAsync($"{APP_PATH}/api/locale", new { Name = name, Translations = translations }).Result;
                 Console.WriteLine(response.StatusCode.ToString());
                 //using (var client = new HttpClient(clientHandler)) {
                 //    var response = client.GetAsync(APP_PATH + "/api/locale/ru").Result;
