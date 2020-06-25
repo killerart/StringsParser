@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Net.Http;
 
 namespace StringsParser
@@ -13,8 +14,10 @@ namespace StringsParser
             foreach (var language in languages) {
                 var ext = language.LastIndexOf(".lproj");
                 var slash = language.LastIndexOf('/') + 1;
-                if (ext != -1 && slash != -1)
-                    ParseLanguage(language[slash..ext], language);
+                if (ext != -1 && slash != -1) {
+                    var name = language[slash..ext];
+                    ParseLanguage(name, language);
+                }
             }
         }
         static void ParseLanguage(string name, string directory) {
@@ -25,7 +28,7 @@ namespace StringsParser
                 };
                 var translations = ParseStringsFile(file);
                 using var client = new HttpClient(clientHandler);
-                var response = client.PostAsJsonAsync($"{APP_PATH}/api/locale", (Name: name, Translations: translations)).Result;
+                var response = client.PostAsJsonAsync($"{APP_PATH}/api/locale", new { Name = name, Translations = translations }).Result;
                 Console.WriteLine(response.StatusCode.ToString());
                 //using (var client = new HttpClient(clientHandler)) {
                 //    var response = client.GetAsync(APP_PATH + "/api/locale/ru").Result;
@@ -75,7 +78,7 @@ namespace StringsParser
                         end = "\n";
                         isMultiLineValue = true;
                     }
-                    value = line[valueStart..valueEnd] + end;
+                    value = line[valueStart..valueEnd].Replace("\\n", "\n").Replace("\\", string.Empty) + end;
                     if (!isMultiLineValue) {
                         if (!translations.ContainsKey(key))
                             translations.Add(key, value);
@@ -95,7 +98,8 @@ namespace StringsParser
                         } else {
                             isMultiLineValue = false;
                         }
-                        value += string.Format($"{line[0..valueEnd]}\n");
+                        var newValue = line[0..valueEnd].Replace("\\n", "\n").Replace("\\", string.Empty) + "\n";
+                        value += newValue;
                     } else {
                         isMultiLineValue = false;
                     }
