@@ -8,38 +8,50 @@ namespace StringsParser
 {
     class Program
     {
+        const string APP_NAME = "VGFIT";
         const string APP_PATH = "https://localhost:5001";
         static void Main(string[] args) {
             var languages = Directory.GetDirectories("../../../localizations");
+            var clientHandler = new HttpClientHandler {
+                ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; }
+            };
+            using (var client = new HttpClient(clientHandler)) {
+                var response = client.PostAsync($"{APP_PATH}/api/app?name={APP_NAME}", new StringContent("")).Result;
+                Console.WriteLine($"Post {APP_NAME} creation: {response.StatusCode}");
+            }
+            var keys = new HashSet<string>();
             foreach (var language in languages) {
                 var ext = language.LastIndexOf(".lproj");
                 var slash = language.LastIndexOf('/') + 1;
                 if (ext != -1 && slash != -1) {
                     var name = language[slash..ext];
-                    ParseLanguage(name, language);
+                    keys.UnionWith(ParseLanguage(name, language));
                 }
             }
+            clientHandler = new HttpClientHandler {
+                ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; }
+            };
+            using (var client = new HttpClient(clientHandler)) {
+                var response = client.PutAsJsonAsync($"{APP_PATH}/api/app/{APP_NAME}", keys).Result;
+                Console.WriteLine($"Put {APP_NAME}: {response.StatusCode} {response.Content.ReadAsStringAsync().Result}");
+            }
         }
-        static void ParseLanguage(string name, string directory) {
+        static HashSet<string> ParseLanguage(string langName, string directory) {
             var files = Directory.GetFiles(directory, "*.strings");
+            var keys = new HashSet<string>();
+            HttpClientHandler clientHandler;
             foreach (var file in files) {
-                var clientHandler = new HttpClientHandler {
+                var translations = ParseStringsFile(file);
+                keys.UnionWith(translations.Keys);
+                clientHandler = new HttpClientHandler {
                     ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; }
                 };
-                var translations = ParseStringsFile(file);
-                using var client = new HttpClient(clientHandler);
-                var response = client.PostAsJsonAsync($"{APP_PATH}/api/locale", new { Name = name, Translations = translations }).Result;
-                Console.WriteLine(response.StatusCode.ToString());
-                //using (var client = new HttpClient(clientHandler)) {
-                //    var response = client.GetAsync(APP_PATH + "/api/locale/ru").Result;
-                //    var result = response.Content.ReadAsStringAsync().Result;
-                //    var lang = JsonConvert.DeserializeObject<Language>(result);
-                //    foreach (var translation in lang.Translations) {
-                //        Console.WriteLine($"{translation.Key} = {translation.Value}\n");
-                //    }
-                //    Console.WriteLine(response.StatusCode.ToString());
-                //}
+                using (var client = new HttpClient(clientHandler)) {
+                    var response = client.PostAsJsonAsync($"{APP_PATH}/api/locale", new { Name = langName, Translations = translations }).Result;
+                    Console.WriteLine($"Post {langName} locale: {response.StatusCode} {response.Content.ReadAsStringAsync().Result}");
+                }
             }
+            return keys;
         }
         static Dictionary<string, string> ParseStringsFile(string path) {
             var text = File.ReadAllLines(path);
