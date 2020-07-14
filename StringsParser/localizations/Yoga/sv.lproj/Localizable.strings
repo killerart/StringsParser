@@ -1,0 +1,902 @@
+/*
+ Localizable.strings
+ Yoga
+ 
+ Created by Alex Overseer on 4/4/16.
+ Copyright © 2016 SOFTINTERCOM. All rights reserved.
+ */
+
+//Intro
+
+"Choose Your Goals" = "Välj dina mål";
+"Increase Flexibility" = "Ökad smidighet";
+"Get Toned" = "Bli mer vältränad";
+"Lose Weight" = "Gå ner i vikt";
+"Reduce Stress" = "Reducera stress";
+"Continue" = "Fortsätt";
+"Yearly" = "årlig";
+
+"Enter Your Parameters" = "Ange längd/vikt";
+"Height" = "Längd";
+"Current weight" = "Nuvarande vikt";
+"Target weight" = "Målvikt";
+"Pick Your Height" = "Välj din längd";
+"Pick Your Weight" = "Ange din vikt";
+"Pick Your Target Weight" = "Ange din målvikt";
+"lbs" = "lbs";
+"kg" = "kg";
+"ft, in" = "ft, in"; //feet, inch
+"cm" = "cm"; //centimeter
+"Save" = "Spara";
+
+"Join Millions\nof happy users" = "Häng med miljontals andra\n nöjda användare";
+"No Annoying Ads" = "Ingen irriterande reklam";
+"Not sure yet?" = "Inte bestämt dig?";
+"Enable free trial" = "Starta gratis testperiod";
+"Discount %d%%" = "Rabatt %d%%"; //example Discount 60%
+"Just Now! Limited Offer!" = "Bara just nu! Tidsbegränsat erbjudande!";
+"Join with our best offer" = "Gå med och använd vårt bästa erbjudande";
+"Weekly plan" = "Veckoplan";
+"Monthly plan" = "Månadsplan";
+
+"Not now" = "Inte just nu";
+"Save %d%%" = "Spara %d%%"; //Example: Save 60%
+"year\nBilled annually" = "år \nBetalas en gång per år"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "efter en gratis testperiod/n på 7 dagar";
+"healthAppPermisionKey" = "Appen har inte tillåtelse att föra över data till Hälsoappen. Du kan ändra detta i Hälsoappens inställningar";
+"Open" = "Öppen";
+
+
+//Presentation
+
+"Balance Flexibility" = "Balans och Smidighet";
+"100+ Poses" = "100+ Positioner";
+"19 Classes" = "19 Klasser";
+"Tons of Classes" = "Massor av klasser";
+"Anywhere Anytime" = "Närsomhelst och varsomhelst";
+"Nutrition Plans" = "Måltidsplaner";
+
+
+
+//Buttons keys
+"backButtonKey" = " Tillbaka";
+"doneButtonKey" = "Färdig";
+"editButtonKey" = "Ändra";
+"cancelButtonKey" = "Avbryt";
+"yesButtonKey" = "Ja";
+"startButtonKey" = "Starta";
+"skipButtonKey" = "Hoppa";
+
+//MainScreenViewController
+"posesNameKey" = "Ställningar";
+"posesDescriptionKey" = "Frihet att utöva var och när du vill.";
+
+"classesNameKey" = "Klasser";
+"classesDescriptionKey" = " Fokus på flexibilitet, styrka, balans. Hitta din favoritklass.";
+
+"moreNameKey" = "Mer";
+"moreDescriptionKey" = "Gå med VGFIT gemenskapen. Få mer träning.";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "Sök övningar";
+"noResultsLabelKey" = "Inga Resultat";
+
+//ClassesViewController
+"classBalanceKey" = "Balans";
+"classBalanceDescriptionKey" = "Olika yoga stilar kombineras som är fokuserade på att förbättra balansen.";
+
+"classStrengthKey" = "Styrka";
+"classStrengthDescriptionKey" = " En kombination av kraftiga yogaställningar som hjälper dig att bygga din kroppsstyrka.";
+
+"classFlexibilityKey" = "Flexibilitet";
+"classFlexibilityDescriptionKey" = "Du fokuserar hur du andas, på muskelåterhämtning och flexibiliteten i din kropp.";
+
+//LevelViewController
+"levelBegginerKey" = "Nybörjare";
+"levelBegginerTitleKey" = "Låt oss börja med lätt motion";
+"levelBegginerDescriptionKey" = "Fokuserar på att bygga styrka och uthållighet genom att skapa en fast grund.";
+
+"levelIntermediateKey" = "Intermediär";
+"levelIntermediateTitleKey" = "Härnäst en svårare övning";
+"levelIntermediateDescriptionKey" = "Den är för dem som har en stark vana och tidigare yoga erfarenhet.";
+
+"levelAdvancedKey" = "Avancerad";
+"levelAdvancedTitleKey" = "Svåra övningar";
+"levelAdvancedDescriptionKey" = "Är för dedikerade och mycket engagerade som har stark vana att delta.";
+
+//DifficultyViewController
+"secondSideKey" = "andra sidan";
+"minutesKey" = "min";
+"posesKey" = "ställningar";
+
+//Error messages
+"downloadErrorKey" = "Nedladdnings fel";
+"downloadCompleteKey" = "Nedladdning färdig.";
+"internetConnectionKey" = "Internetanslutning";
+"internetConnectionLostKey" = "Internetanslutning förlorad.";
+"videoNotFoundKey" = "Videon hittades inte";
+"videoNotFoundDescriptionKey" = "Vill du fortsätta? \nTryck ja och vi försöker att ladda ner den igen. Tryck avbryt för att gå tillbaka.";
+
+"smtWentWrongKey" = "Något gick fel.";
+"downloadErrorNoConnectionKey" = "Det går inte att ladda ner. Kontrollera din Internet Wifi eller mobilanslutning !";
+"playerNoInternetConnectivityKey" = "Det går inte att ladda ner. Kontrollera din Internet Wifi eller mobilanslutning !\nTryck ja att hoppa över. Tryck avbryt för att gå tillbaka.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Ladda ner videos";
+"downloadOneVideoKey" = "Ladda ner video";
+
+//SecondPlayerViewController
+"previewKey" = "Förhandsvisning";
+"secondsKey" = "sekunder";
+"completedKey" = "Avslutad";
+"playerCurrentExerciseKey" = "Övningsnamn:";
+"playerNextExerciseKey" = "Nästa:";
+
+//MoreViewController
+"moreProfileTitleKey" = "Profil\n( Historik Yoga )";
+"moreProfileDescriptionKey" = " Du kan spara historik över dina klasser och planera din nästa.";
+
+"moreAppsTitleKey" = "Andra\nAppar VGFIT";
+"moreAppsDescriptionKey" = " Upptäck nya appar från VGFIT och nå dina träningsmål.";
+
+"moreSocialTitleKey" = "Sociala\nmedier VGFIT";
+"moreSocialDescriptionKey" = "Få motivation och dela den med vänner Gå med VGFIT gemenskapen.";
+
+"moreSettingsTitleKey" = "Inställningar";
+"moreSettingsDescriptionKey" = " Komplexa inställningar för att erbjuda den bästa upplevelsen.";
+
+"moreRateUsTitleKey" = "Betygsätt Oss";
+
+"historyTitleKey" = "Historik";
+"historyNoExerciseKey" = "Inga övningar har gjorts ännu";
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "Sexpack";
+"otherAppFitnessAndBodyBuildingKey" = "Fitness och Styrketräning";
+"otherAppFemaleFitnessKey" = "Kvinnlig Fitness";
+"otherAppGoPedometerKey" = "Go Stegräknare";
+"otherAppSmartCycleAlarmProKey" = "Smart Cykelalarm PRO";
+"otherAppTimerKey" = "Proffstimer";
+"otherApp7minKey" = "7 Minutes";
+"Water Reminder" = "Vätskepåminnelse";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "Fullständig förhandsvisning";
+"settingsPreviewShortKey" = "Kort förhandsvisning";
+"settingsPreviewNoneKey" = "Ingen förhandsvisning";
+"settingsbreathCycleLenghtKey" = "Andningscykel längd";
+
+//Speech to Text messages
+
+"beginKey" = "start";
+"xMoreSeconds" = "%@ sekunder till";
+"halfWayThereKey" = "Halvvägs där";
+
+//Rate Us messages
+
+"Love our %@ app?" = "Älskar du vår %@-app?";
+"Your feedback will help us to get better" = "Din feedback kommer hjälpa oss bli bättre";
+"Oh Dear!" = "Hoppsan!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Vi skulle uppskatta om du kunde överväga att ge oss idéer för att förbättra appen. Tack på förhand!";
+
+"5-Stars" = "5 stjärnir";
+"To improve the app, please Leave a Rating or Review." = "Lämna gära en recenssion eller ett betyg för att låta oss förbättra appen";
+
+"Rate Us" = "Ge vitsord";
+"Email Us" = "E-maila oss";
+"Not now" = "Inte nu";
+
+//Reminder
+
+"Reminder" = "Påminnelse";
+"Edit notification permission in IOS settings" = "Redigera notisinställningar i IOS inställningar";
+"Daily reminder" = "Daglig påminnelse";
+"Frequency" = "Frekvens";
+"It's time to workout!" = "Dags att träna!";
+"After %ld days of inactivity" = "Efter %ld dagars inaktivitet";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Hallå där! Du har inte tränat på några dagar, kom tillbaka och gör det!";
+"Days" = "Dagar";
+
+//Audio Player
+
+"Voice Guide" = "Muntliga instruktioner";
+"Background Music" = "Bakgrundsmusik";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "Yoga - poser och lektioner";
+"Upgrade" = "Uppgradering";
+"Buy" = "Köp";
+"Restore Purchases" = "Återställ inköp";
+"Premium" = "PREMIUM";
+"Nutrition" = "Näring";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "Lås upp alla nya program skapade av våra bästa tränare. Uppnå dina mål enklare.";
+"Ads free experience" = "Utan reklam";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "Slipp reklamen. Njut av underbar yoga utan störande reklam.";
+"Unlock all music" = "Lås upp all musik";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "Njut av särskilt utvald music för en djupare upplevelse.\n+ Välj bland flera ljud för notifikationer så att du inte missar någonting.";
+"Yoga Classes" = "Yogaklasser";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "10 Nya klasser för alla nivåer. Kom I form med positiva träningspass och motivation \n+ Balanserad kostplan för viktnedgång.";
+
+//Select Sound
+
+"Sounds" = "Ljud";
+"Sound" = "Ljud";
+
+"Default" = "Standard";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "Snabb Yoga Fix";
+"Quick Yoga Fix_details" = "Att ge yogan en plats i ett pressat schema ger både ro och energi.";
+
+"Getting Toned" = "Bli starkare";
+"Getting Toned_details" = "Utveckla starkare muskler i valda områden, inklusive armar, axlar, core, bak och ben.";
+
+"Morning Yoga" = "Morgonyoga";
+"Morning Yoga_details" = "Börja dagen med en uppiggande yogasession som fokuserar på ryggradens smidighet samt starka stående positioner.";
+
+"Daily Yoga for ABS" = "Starkare mage med Yoga";
+"Daily Yoga for ABS_details" = "Fokusera och stark de djupa magmusklerna.";
+
+"Yoga for Runners" = "Yoga för löpare";
+"Yoga for Runners_details" = "Yoga ger en unik kombinaion av balans, flexibilitet, styrka och mindfulness och kan hjälpa löpare att förbättra sina resultat och att undvika skador. Spring smartare med detta pass utformat för löpare.";
+
+"Boost Your Energy" = "Mer energi";
+"Boost Your Energy_details" = "Ladda batterierna med ett pass framtaget för att pigga upp både kropp och själ.";
+
+"Deep Stretching Exercises" = "Stretchövningar ";
+"Deep Stretching Exercises_details" = "Ge ny energi till trötta muskler, förbättra rörelsevidden och cirkulationen med yogastretching.";
+
+"Improve Your Balance" = "Förbättrad balans";
+"Improve Your Balance_details" = "Bättre coordination, reaktionstid, hållning och kroppsmedvetenhet med ett program fyllt av utmanande positioner.";
+
+"Challenge Your Flexibility" = "Förbättrad rörlighet ";
+"Challenge Your Flexibility_details" = "Utveckla din rörlighet genom en serie av intensive stretchövningar och använd resultaten i än mer avancerade yogapositioner.";
+
+"Core Muscle Sculptor" = "Skulpterade magmuskler";
+"Core Muscle Sculptor_details" = "Bygg upp från grunden och förbättra styrkan i benen, magen, nedre delen av ryggen, och kroppens sidor.";
+
+"Food Nutrition" = "Kost";
+"Food Nutrition_details" = "Kom i din bästa form någonsin! Lär dig vad du ska äta, upptäck mat som bränner fett, och ät goda måltider som förbättrar din ämnesomsättning.";
+
+//Other
+
+"In-App purchases were restored" = "App-köpen återställdes";
+"Sorry we didn't find your previous purchases" = "Vi kunde tyvärr inte hitta dina tidigare köp";
+"Alert" = "Varning";
+"No internet connection" = "Ingen internetanslutning!";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription option: &&3 days of free trial followed by $3.99 per week++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+"Restore" = "Återställ";
+
+"Subscription Info" = "Prenumerations Info";
+"More info about subscriptions and Premium membership" = "Mer information om prenumeration och Premiummedlemskap";
+"%d days of free trial followed by %@ per %@" = "%d dagars gratis testperiod följt av %@ per %@"; //ex:3 days of free trial followed by $3.99 per week
+"month"="månad";
+"year"="år";
+"week"="vecka";
+"after"="efter";
+"Privacy Policy"="Integritetspolicy";
+"Terms of Service"="Tjänstevillkor";
+"Nutrition plan"="Kostplan";
+"and"="och";
+"Subscription"="Subscription";
+"By continuing you accept our"="Genom att fortsätta godkänner du vår";
+
+"Start your positive\ntransformation today!"="Starta din\nförvandling idag!";
+"Get 100% ready workouts courses with powerful support!"="Få 100% kompletta träningsprogram med tydliga stödfunktioner!";
+"Only now"=" Bara just nu ";
+"GET LIFETIME ACCESS"="FÅ LIVSTIDS TILLGÅNG";
+"one-time payment"="engångsbetalning";
+
+//Yoga
+"%d poses and %d yoga classes"="%d positioner och %d yogaklasser";
+"3 days for FREE"="3 dagar GRATIS";
+"Ads FREE\nexperience"="Upplev UTAN\nreklam";
+"Yoga"="Yoga";
+"Yoga\nClasses"="Yoga\nKlasser";
+"UNLOCK\nall music"="LÅS UPP\nall musik";
+"76% off"="76% rabatt"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="%@ per månad. Avgiften betalas på årsbasis vilket blir %@ per år";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="Kostplan för viktnedgång";
+
+//VGFIT WORKOUT
+"Nutrition plan for building muscle"="Bygg muskler";
+"Nutrition plan for weight loss"="Slank figur";
+"Challenges"="Utmaningar";
+"Ads FREE experience"=" Upplev UTAN\nreklam ";
+"Nutrition plans"="Kost\nplaner";
+"New Workouts"="Nya \nträningspass";
+"ARMS | ABS"="ARMAR | MAGE";
+"CLOSE"="STÄNG";
+"Workout challenges"="Träningsutmaningar";
+"Challenge"="Utmaning";
+"Exercises"="Övningar";
+"Restore purchase"="Återställ köp";
+"SHARE"="DELA";
+"%d-day\nFree Trial"="%d-dagars\nGratis testperiod ";
+"Try it Now"="Prova nu";
+"GET LIFETIME ACCESS"="FÅ LIVSTIDS TILLGÅNG";
+"SKIP"="SKIP";
+"%@ WORKOUTS"="%@ TRÄNINGSPROGRAM";// ex: 25 workouts
+"3-day \nFree trial"="3-dagars \nGratis testperiod";
+"7-day \nFree trial"="7-dagars \nGratis testperiod";
+"startKey"="Start";
+//Exercise name
+
+"exerciseName1" = "Berget";
+
+"exerciseName2" = "Halv-Lotus";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "Stolställning Variation";
+
+"exerciseName5" = "Sidolutande Stretch";
+
+"exerciseName6" = "Paradisfågel";
+
+"exerciseName7" = "Stortår Ställningsvariation";
+
+"exerciseName8" = "Båt";
+
+"exerciseName9" = "Buga";
+
+"exerciseName10" = "Bryggan Ställningsvariation";
+
+"exerciseName11" = "Kamel";
+
+"exerciseName12" = "Katt";
+
+"exerciseName13" = "Ryggkropp Stretch";
+
+"exerciseName14" = "Stol";
+
+"exerciseName15" = "Vriden Stol";
+
+"exerciseName16" = "Vriden Stol med Utsträckta Armar";
+
+"exerciseName17" = "Barnet";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "Kobran";
+
+"exerciseName20" = "Likställning";
+
+"exerciseName21" = "Ko";
+
+"exerciseName22" = "Ko Ansikte";
+
+"exerciseName23" = "Ko Ansikte Ställningsvariation";
+
+"exerciseName24" = "Omvänt Bord";
+
+"exerciseName25" = "Kråkan";
+
+"exerciseName26" = "Delfinen";
+
+"exerciseName27" = "Sfinx";
+
+"exerciseName28" = "Underarm Plankan";
+
+"exerciseName29" = "Nedåtriktad Hund";
+
+"exerciseName30" = "Nedåtriktad Hund Med Vridning";
+
+"exerciseName31" = "Grodan";
+
+"exerciseName32" = "Fulländad Ställning med Örnarmar";
+
+"exerciseName33" = "Örnen";
+
+"exerciseName34" = "Öronpress Ställning";
+
+"exerciseName35" = "Sittande Ryggradsvridning";
+
+"exerciseName36" = "Benen i kors Framåtlutande";
+
+"exerciseName37" = "Krokig Ställning";
+
+"exerciseName38" = "Hjärtställning";
+
+"exerciseName39" = "Bunden Sidovinkel";
+
+"exerciseName40" = "Modifierad Utsträckt Sidovinkel";
+
+"exerciseName41" = "Sidovinkel";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "Vedträställning";
+
+"exerciseName44" = "Fisken";
+
+"exerciseName45" = "Porten";
+
+"exerciseName46" = "Hästen";
+
+"exerciseName47" = "Tigern";
+
+"exerciseName48" = "Kamelen med Vridning";
+
+"exerciseName49" = "Halv-Grodan";
+
+"exerciseName50" = "Gräshoppan";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "Stående Halv-Lotus";
+
+"exerciseName53" = "Halv-Split";
+
+"exerciseName54" = "Böjda Halvmånen Variation";
+
+"exerciseName55" = "Halvmånen";
+
+"exerciseName56" = "Stående Axel";
+
+"exerciseName57" = "Sage Marichi’s Ställningen III";
+
+"exerciseName58" = "Huvudstående";
+
+"exerciseName59" = "Stativ Huvudstående";
+
+"exerciseName60" = "Glad Bebis";
+
+"exerciseName61" = "Heron's Ställning";
+
+"exerciseName62" = "Roterande Utfall";
+
+"exerciseName63" = "Högt Utfall";
+
+"exerciseName64" = "Bugande Krigare";
+
+"exerciseName65" = "Fulla Kobran";
+
+"exerciseName66" = "Dansaren";
+
+"exerciseName67" = "Fria Vinden Ställningsvariation";
+
+"exerciseName68" = "Åtta-Poängs Honnören";
+
+"exerciseName69" = "Ödlans Ställning";
+
+"exerciseName70" = "Gräshoppan Ställningsvariation";
+
+"exerciseName71" = "Halvmånsutfall med Vridning";
+
+"exerciseName72" = "Halvmånsutfall";
+
+"exerciseName73" = "Sjöjungfrun";
+
+"exerciseName74" = "Enbent Uppåtvänd Bugning";
+
+"exerciseName75" = "Kaninen";
+
+"exerciseName76" = "Kungliga Duvan Förberedelse";
+
+"exerciseName77" = "Pyramiden";
+
+"exerciseName78" = "Halv-Duvan";
+
+"exerciseName79" = "Vågen Ställning";
+
+"exerciseName80" = "Bryggan";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "Hög Bön Variation";
+
+"exerciseName83" = "Plankan";
+
+"exerciseName84" = "Lutande Fot-till-Finger B";
+
+"exerciseName85" = "Plogen";
+
+"exerciseName86" = "Tiger med Rosett Variation";
+
+"exerciseName87" = "Fredlig Krigare";
+
+"exerciseName88" = "Roterad Halv-Måne";
+
+"exerciseName89" = "Huvud-till-Knä Ställning";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "Lutande Duvan";
+
+"exerciseName92" = "Roterad Huvud-till-Knä Ställning";
+
+"exerciseName93" = "Roterad Triangel";
+
+"exerciseName94" = "Lågt Utfall";
+
+"exerciseName95" = "Roterad Stående Fot-till-Finger Variation";
+
+"exerciseName96" = "Liggande Ryggradsvridning";
+
+"exerciseName97" = "Lutande Bunden Vinkel";
+
+"exerciseName98" = "Lutande Fot-till-Finger A";
+
+"exerciseName99" = "Sittande Framåtlutande";
+
+"exerciseName100" = "Stående Fot-till-Finger D";
+
+"exerciseName101" = "Sidoplankan";
+
+"exerciseName102" = "Ko Ansikte Armar";
+
+"exerciseName103" = "Sittande Sidoböj";
+
+"exerciseName104" = "Stående Axel Variation";
+
+"exerciseName105" = "Stående Bakåtböj";
+
+"exerciseName106" = "Stående Fot-till-Finger B";
+
+"exerciseName107" = "Gräshoppan Variation med Sammanflätade Fingrar";
+
+"exerciseName108" = "Stav Ställning";
+
+"exerciseName109" = "Sfinx";
+
+"exerciseName110" = "Modifierad Sidoplanka";
+
+"exerciseName111" = "Bredbent Framåtböj";
+
+"exerciseName112" = "Yoga Huksittande";
+
+"exerciseName113" = "Bredvinkel Sittande Framåtböj";
+
+"exerciseName114" = "Bredbent Framåtböj C";
+
+"exerciseName115" = "Roterad Huvud-till-Knä Ställningsvariation";
+
+"exerciseName116" = "Yoga Huksittande med Binda";
+
+"exerciseName117" = "Nedåtriktade Hjältens Ställning ";
+
+"exerciseName118" = "Bredbent Framåtböj med Vridning";
+
+"exerciseName119" = "Bredbent Framåtböj med Sido Stretch";
+
+"exerciseName120" = "Vishnu's Soffa";
+
+"exerciseName121" = "Uppåtvänd Bunden Vinkel Ställning ";
+
+"exerciseName122" = "Krigare 2";
+
+"exerciseName123" = "Stående Sidoböj med Sammanflätade Fingrar";
+
+"exerciseName124" = "Stående Split";
+
+"exerciseName125" = "Stående Framåtlutning";
+
+"exerciseName126" = "Stående Fot-till-Finger A";
+
+"exerciseName127" = "Stående Framåtböjning med Axel-Öppning Variation";
+
+"exerciseName128" = "Krigaren 1";
+
+"exerciseName129" = "Krigaren 3";
+
+"exerciseName130" = "Stående Sidoböjning";
+
+"exerciseName131" = "Uppburen Stående axel";
+
+"exerciseName132" = "Omvända Plankan";
+
+"exerciseName133" = "Stående Fot-till-Finger C med Framåtböj";
+
+"exerciseName134" = "Stående Framåtböj m/ Vridning";
+
+"exerciseName135" = "Uppburen Stående bakåtböj";
+
+"exerciseName136" = "Fyr-Grenad Stav Ställning";
+
+"exerciseName137" = "Bordsskiva & Fyr-Grenad Stav Ställning";
+
+"exerciseName138" = "Uppåtvänd Båge";
+
+//Exercise description
+
+"exerciseDescription1" = "Stå med fötterna på höftavstånd och ytterkanterna på fötterna parallellt med varandra. Förläng din ryggrad och lyft naveln mot ryggraden. Tryck upp genom kronan på huvudet och dra svanskotan ner mot hälarna.";
+
+"exerciseDescription2" = "Sitt på marken och böj vänster knä, placera den yttre kanten av vänster fot i höger lår och framför ditt högra sittben. Ta sedan tag i den yttre kanten av höger fot och placera den i vecket i vänster höft. Placera handflatorna nedåt på dina knäskålar och sitt högt med axlarna avslappnade. Upprepa med vänster ben på toppen.";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = "Stå med fötterna på höftavstånd. Sträck armarna rakt ut framför dig, handflatorna nedåt. Böj knäna och lyft hälarna över bollarna av dina fötter.";
+
+"exerciseDescription5" = "Ligg ner på rygg med handflatorna koppande baksidan av huvudet. Korsa vänster fotled över den högra fotleden. Böj sidan åt höger genom att flytta överkroppen och benen till höger. Återgå till centrum, växla korset av anklarna så att det högra benet är på topp, och böj sidan åt vänster.";
+
+"exerciseDescription6" = " Stå framåtböjd med fötterna på höftavstånd från varandra. Böj knäna och börja med den högra armen framför dig, trä den mellan benen, böj armbågen, och sträck din högra hand mot din yttre högra höft. Böj vänster armbåge bakom ryggen och sträck den vänstra mot din yttre högra höfta. Håll vänster handled i höger hand. (Om du inte kan nå handleden, försöker att låsa fingertopparna på båda händerna.) \n \n När händerna har anslutit nära din yttre höger höft, höj din högra häl, flytta din vikt till vänster fot, och stå upp på vänster ben. Håll höger knä böjt när du rätar ut vänster ben och förlänger din ryggrad. Slutligen, tryck höger arm mot höger ben medan du förlänger höger ben ut åt sidan. \n \n Upprepa stående på höger ben, med armarna lindade runt det vänstra benet.";
+
+"exerciseDescription7" = "Sitt med böjda knän och fotsulorna planterade framför dig. Placera händerna under låren och lyft fötterna från marken så att du balanserar på sittbenen. Förläng benen så mycket som möjligt utan att runda av den nedre delen av ryggen. Med tiden som din flexibilitet ökar, kan du glida händerna upp benen mot fötterna och så småningom hålla dina stortår med de tre första fingrarna på varje hand.";
+
+"exerciseDescription8" = " Sitt med dina knän böjda, fotsulorna planterade framför dig och utsträckta armar. Lyft fötterna från marken och ta smalbenen till parallellt med taket, armarna utsträckta intill benen. Balanserandes på sittbenen, håll i minst 5 andetag.";
+
+"exerciseDescription9" = "Ligg på mage, böj knäna och sträck bakåt för att hålla fast vid utsidan av anklarna. Lyft ditt huvud, bröst och benen från marken. Håll benen inte bredare än höftavstånd från varandra när du räcker kronan på huvudet och smalbenen mot taket.";
+
+"exerciseDescription10" = "Ligg på rygg med dina knän böjda, fotsulorna planterade på höftavstånd och ytterkanterna av fötterna parallella med varandra. Håll utsidorna av anklarna i dina händer, lyft bäckenet bort från marken, och kurva ditt bröst uppåt.";
+
+"exerciseDescription11" = "Knäböj med smalbenen parallella med varandra och topparna av fötterna på golvet. Stapla dina höfter ovanför knäna och axlarna ovanför höfterna. Lyft bröstet mot himlen och håll höfterna över knäna medan du sträcker bakåt för att hålla hälarna.";
+
+"exerciseDescription12" = "Börja på alla fyra i bordsläge med axlarna ovanför handlederna och höfterna ovanför knäna. När du andas ut, runda din ryggrad så att ditt huvud släpper mot golvet, lyft din navel mot din ryggrad, och svanskotan nedåt mot golvet.";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "Stå med fötterna på höftavstånd från varandra och ytterkanterna av fötterna parallella med varandra. Andas in och förlänga armarna längs dina öron, handflatorna mot varandra. Håll isär armarna på axelbredd när du böjer knäna och dra höfterna tillbaka. Försök att ta låren parallellt med marken och håll dem där medan du lyfter din nedre mage och bröst.";
+
+"exerciseDescription15" = "Stå med dina stortår tillsammans och ytterkanterna av fötterna parallella med varandra. Böj knäna och anslut dina handflator framför bröstet. Andas in medan du förlänger din ryggrad, håll höfterna låga. När du andas ut, vrid till höger och haka vänster armbåge utanför höger lår. Andas tillbaka till centrum med handflatorna i en böneställning framför bröstet. Andas ut när du kontra-vrider åt vänster.";
+
+"exerciseDescription16" = "Stå med dina stortår tillsammans och ytterkanterna av fötterna parallella med varandra. Böj knäna och anslut handflatorna framför bröstet. Andas in när du förlänger din ryggrad, håll höfterna låga. När du andas ut, vrid åt höger och haka vänster armbåge utanför höger lår. Sprid dina armar i en \"T\" ställning, så att vänster hand fingerspetsar når mot marken utanför höger fotled och höger arm som sträcker sig mot himlen. Titta upp på höger handflata. \n\n Andas för att återvända till centrum med handflatorna i en böneställning framför bröstet. Andas ut medan du kontra-vrider åt vänster, anslut höger armbåge utanför ditt vänstra lår. Sprid armarna, den här gången når de högra fingertopparna mot utsidan av vänster fotled och vänster arm sträckt mot himlen. Titta upp på din vänstra handflata .";
+
+"exerciseDescription17" = "Börja på händer och knän i positionen av en bordsskiva. Dra dina stortår ihop och sitt tillbaka på hälarna när du släpper din panna mot golvet. Sträck armarna längs med din kropp, handflatorna uppåt.";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = "Ligg på mage och placera handflatorna nedåt bredvid dina nedre revben, strax ovanför midjan. Lyft överkroppen från marken, tryckandes in i dina händer, och lämna dina knän, smalben, och toppen av fötterna jordade. Nå din svanskota mot hälarna för att engagera din lägre mage och räta bara ut armarna i den utsträckning som du kan göra det utan obehag för din nedre del av ryggen. \n\n Lämna vänster handflata jordad, vänd bröstet och huvudet åt höger och skjut din högra hand ner på baksidan av ditt högra lår. Återgå till centrum och upprepa på vänster sida.";
+
+"exerciseDescription20" = "Ligg på rygg med benen ut och armarna längs sidorna, handflatorna uppåt. Blunda och slappna av dina muskler, frigör kroppens vikt till marken.";
+
+"exerciseDescription21" = "Börja på alla fyra i positionen av en bordsskiva. När du andas in, sträck ryggen i en båge, lyft hakan och titta uppåt.";
+
+"exerciseDescription22" = "Sitt på marken, böj knäna, och korsa höger knä över vänster så att båda knäna staplas framför naveln och du sitter mellan hälarna. Förläng din vänstra arm mot taket, böj vänster armbåge, och peka fingertopparna ner längs ryggen. Förläng din högra arm ut åt höger, vänd din högra handflata mot ansiktet bakom dig, och böj höger armbåge så att fingrarna pekar upp din rygg. Lås de vänstra och de högra fingertopparna tillsammans. Upprepa på andra sidan med vänster knä på topp och höger arm ovanpå.";
+
+"exerciseDescription23" = "Sitt på marken, böj knäna, och korsa höger knä över vänster så att båda knäna staplas framför naveln och du sitter mellan dina hälar. Förläng din ryggrad medan du sträcker armarna längs dina öron. Upprepa på andra sidan med vänster knä över höger.";
+
+"exerciseDescription24" = "Sitt med knäna böjda och fötterna planterade på höftavstånd framför dig. Placera händerna bakom dig, axelavstånd med fingertopparna pekandes framåt. Lyft bäckenet från marken så att knäna är böjda i 90 graders vinkel. Stapla knäna ovanför anklarna och axlarna ovanför handlederna. Tryck ned i pekfingret och tummen på varje hand. För att börja, hålla nacken i linje med resten av ryggraden och näsan pekandes upp mot taket. Om du inte har några problem i halsryggen, kan du låta huvudet försiktigt drapera tillbaka så att basen av din skalle vaggas precis ovanför skulderbladen.";
+
+"exerciseDescription25" = "Stå framåtböjd med fötterna ihop. Böj knäna och plantera handflatorna ungefär en fot framför dina fötter med händerna på axelavstånd från varandra och fingerdynorna gripandes i marken. Höj hälarna högt från marken för att lyfta höfterna och sänk knäna mot ryggen på överarmarna, för att skapa en hylla med armarna. Böj armbågarna till nästan 90 grader och stapla dem över dina handleder. Titta förbi händerna på golvet och flytta sakta din vikt in i dina händer. När axlarna har skiftat något framåt och all din vikt är i dina händer, öva på att lyfta en eller båda fötterna från golvet. Med tiden, öva på att peka tårna och föra dem mot sittbenen.";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = "Ligg på mage och stötta upp dig på armbågarna så att underarmarna är parallella med varandra och armbågarna är isär i axelbredd. Dra armbågarna mot höfterna medan du drar bröstet framåt genom armarna. Peka tårna och dra svanskotan mot hälarna.";
+
+"exerciseDescription28" = "Ligg på mage och stötta upp dig på armbågarna så att underarmarna är parallella med varandra och armbågar är isär i axelbredd. Stoppa in tårna under och lyft låren och bäckenet från golvet. Centrera axlarna ovanför armbågarna och lyft magen mot din nedre del av ryggen. Engagera fronterna av låren och dra blygdbenet mot naveln för att hålla höfterna från att spetsa i luften.";
+
+"exerciseDescription29" = "Börja på alla fyra i position som en bordsskiva med handlederna under dina axlar och fingrarna spridda. Steg fötterna tillbaka till en planka - en hög push-up med benen och buken engagerad. Därifrån lyft dina höfter och tryck bröstet mot dina ben medan du sträcker hälarna mot golvet. Dra bort med händerna i golvet för att få överkroppen mot benen. Rota ordentligt med pekfingret och tummen på varje hand och placera fötterna på höftavstånd från varandra, med hälarna uppradade bakom dina andra och tredje tår.";
+
+"exerciseDescription30" = "Börja på alla fyra i position som en bordsskiva med handlederna under dina axlar och fingrarna spridda. Steg fötterna tillbaka till en planka - en hög push-up med benen och buken engagerad. Därifrån lyft dina höfter och tryck bröstet mot dina ben medan du sträcker hälarna mot golvet. Dra bort med händerna i golvet för att få överkroppen mot benen. Rota ordentligt med pekfingret och tummen på varje hand och placera fötterna på höftavstånd från varandra, med hälarna uppradade bakom dina andra och tredje tår. \n\n Håll vänster handflata jordad medan du når din högra arm genom utrymmet mellan benen för att hålla på baksidan av vänster fotled eller vad. Fortsätt att nå de yttre höfterna bakre del och tryck bort från marken med vänster handflata. Upprepa på andra sidan.";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = "Sitt med knäna böjda ut till endera sidan och fötterna framför blygdbenet, vänster fot framför höger. Böj armbågarna och haka höger armbåge under den vänstra. Korsa på handlederna så att handflatorna riktas inåt. Lyft armbågarna och tryck handflatorna framåt. Upprepa på andra sidan med höger fot fram och vänster armbåge under.";
+
+"exerciseDescription33" = "Stå med fötterna ihop och lyft höger häl från marken. Böj armbågarna och haka höger armbåge under den vänstra. Korsa på handlederna så att handflatorna riktas inåt. Lyft armbågarna och tryck handflatorna framåt. \n\n Böj vänster knä och korsa höger knä över ditt vänstra, balansera på vänster ben och haka den stora högra tån på insidan av vänster fotled. Medan du drar dina yttre höfter tillbaka, håll bröstet lyft och fortsätt att lyfta armbågarna.";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = "Ta en bekväm korslagd sits med benen, med handflatorna nedåt mot dina knäskålar. När du andas in, förläng ryggraden. När du andas ut, vrid åt vänster, ta dina vänstra fingertoppar på golvet bakom dig och placera din högra handflata på vänster knäskål. Andas tillbaka till centrum och när du andas ut, vrid åt höger, placera din högra hands på golvet bakom dig och vila vänster handflata på din högra knäskål.";
+
+"exerciseDescription36" = "Ta en bekväm korslagd sits med benen. Placera handflatorna på golvet framför dig och gå dem framåt tills armarna är raka. Om din panna inte kommer till marken, vila den på en hopvikt filt eller handduk så att nacken stöds. Upprepa med motsatt ben på toppen.";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = "Börja på alla fyra i position som en bordsskiva. Håll höfterna ovanför knäna och händerna isär i axelbredd medan du går dina händer så långt fram som de kan gå. Smält bröstet mot marken.";
+
+"exerciseDescription39" = "Anta en bredbent ställning med fötterna parallella till varandra. Sväng höger fot ut 90 grader och böj höger knä till en 90 graders vinkel så att toppen av höger lår är parallellt med marken. Håll höger knä staplat över höger fotled och vänster ben förlängt med tårna vända in något. Förläng den högra sidan av din överkropp över höger lår och ta din högra arm insidan av höger ben. \n\n Trä höger arm under låret, böj armbågen, och nå din hand mot din yttre höger höft. Böj vänster armbåge bakom ryggen och nå den vänstra mot din yttre högra höft. Använd din högra hand för att ta tag i vänster handled. (Om du inte kan nå handleden, försöker att låsa fingertopparna på båda händerna tillsammans.) \n\n När armarna är bundna runt höger ben, dra din högra höft under dig och luta bakåt så att den högra sidan av din överkropp svävar över låret. Förläng sidorna av halsen när du trycker på kronan på huvudet bort från din vänstra fot. Tryck den vänstra foten i marken och håll höger knä centrerad över dina andra och tredje tår. \n\n Upprepa på vänster sida, bind armarna runt det vänstra benet så att händerna ansluts vid den yttre vänstra höften.";
+
+"exerciseDescription40" = "Anta en bredbent ställning med fötterna parallella till varandra. Sväng höger fot ut 90 grader och böj höger knä till en 90 graders vinkel så att toppen av höger lår är parallellt med marken. Håll höger knä staplat över höger fotled och vänster ben rakt. Förläng den högra sidan av din överkropp över höger lår och vila höger armbåge lätt på höger lår med handflatan uppåt. Förläng din vänstra arm bredvid ditt vänstra öra och vänd naveln bort från din högra fot medan du tittar mot vänster hand. Tryck den vänstra foten i marken och hålla höger knä centrerat över de andra och tredje tårna. Upprepa på vänster sida.";
+
+"exerciseDescription41" = "Anta en bredbent ställning med fötterna parallella till varandra. Sväng höger fot ut 90 grader och böj höger knä till en 90 graders vinkel så att toppen av höger lår är parallell med marken. Håll höger knä staplat över höger fotled och vänster ben förlängt med tårna vända in något något. \n\n Förläng den högra sidan av din överkropp över höger lår och placera din högra handflata på marken inne i din högra fot, så att axeln staplas över handleden. Räck vänster arm rakt upp mot himlen och titta upp på vänster handflata. Tryck den vänstra foten i marken och hålla höger knä centrerat över de andra och tredje tårna. Upprepa på vänster sida.";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = "Sitt ner och böj vänster knä ut åt vänster så att den yttre kanten av foten är på marken och ditt smalben är parallell med framsidan av din matta. Böj höger knä ut åt höger och placera det högra smalbenet ovanför det vänstra, så att höger knä staplas över vänster fotled och höger fotled staplas ovanför vänster knä. Vika sakta fram till den grad du kan. Upprepa med vänster smalben på toppen.";
+
+"exerciseDescription44" = "Ligg på rygg med armarna längs sidorna, handflatorna nedåt. Lyft bröstet mot taket och drapera huvudet bakåt så att kronan på huvudet vilar lätt på marken. Lyft benen till en 45 graders vinkel med golvet.";
+
+"exerciseDescription45" = "Knäböj med höfterna ovanför knäna, smalbenen parallella med varandra, och toppen av fötterna på marken. Steg höger fot ut åt höger så att benet förlängs och tårna pekar åt höger och mot golvet. Placera din högra handflata på höger lår och förläng din vänstra arm bredvid vänster öra. Medan du böjer åt sidan till höger, dra höger hand mot höger fotled. Upprepa på vänster sida.";
+
+"exerciseDescription46" = "Stå upp och sätt fötterna åtminstone ett benlängdsavstånd isär. Vänd tårna ut medan du böjer knäna och staplar knän över anklarna. Tryck de inre knäna bakåt mot deras lilltår och böj armbågarna ut till endera sidan, så att du gör en kaktus form med armarna.";
+
+"exerciseDescription47" = "Börja på alla fyra med fingrarna spridda, handlederna längs dina axlar och knäna under dina höfter. Tryck in i din fingertopparna och toppen av din vänstra fot medan du flyter höger ben från golvet och förlänger det bakom dig. Lyft din mage och dina främre revben mot ryggen. Upprepa med ditt högra smalben jordat och vänster ben lyft.";
+
+"exerciseDescription48" = "Knäböj med smalbenen parallella med varandra, toppen av fötterna på golvet, höfterna ovanför knäna och axlarna staplade över höfterna. Lyft bröstet mot taket och håll höfterna över knäna medan du når bakåt för att hålla hälarna. \n\n Håll vänster hand på vänster häl medan du andas in och förlänger din högra arm mot himlen. Andas ut när du vrider bröstet till vänster. För sedan höger hand tillbaka till höger häl och vrid bröstet mot himlen. \n\n Andas in och förläng din vänstra arm mot himlen. När du andas ut, vrid bröstet åt höger. Sätt tillbaka båda händerna till dina hälar och böj bröstet mot taket innan du sitta ned på hälarna med händerna på låren för att släppa ut hållningen.";
+
+"exerciseDescription49" = "Ligg på mage och stötta upp dig på armbågarna så att underarmarna är parallella med varandra och armbågarna är isär i axelbredd. Flytta din vänstra hand till höger, handflatan nedåt, så att din vänstra underarm är parallell med framsidan av din matta. Böj höger knä och håll toppen av din högra fot i höger hand, dra höger häl mot din yttre höft. Håll hälen på handen på toppen av din fot medan du svänger din högra hand till höger och sedan pekar dem mot höger häl. Böj höger armbåge ut åt höger medan du sätter ditt högra bröst framåt. Upprepa på vänster sida.";
+
+"exerciseDescription50" = "Ligg på mage med hakan på marken och armarna längs sidorna, handflatorna nedåt. Vicka armarna mot varandra under din överkropp och knäpp händerna ihop. Lyft båda benen från marken och peka tårna. \n\n Släpp båda benen till golvet och lossa dina händer, vrid handflatorna nedåt. Lyft höger ben i luften. Sänk höger ben och lyft vänster ben. Returnera vänster ben mot golvet.";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = "Stå med fötterna ihop och flytta din vikt till vänster fot, medan du drar höger knä mot ditt bröst. Håll ytterkanten på höger fot i vänster hand och placera den i vecket på vänster höft. Förläng båda armarna längsmed dina öron. Upprepa ståendes på höger ben med vänster knä böjt och ytterkanten av vänstra foten i vecket i höger höft.";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = "Sitt med benen utsträckta ut framför dig. Böj vänster knä och plantera din vänstra fot insidan av höger ben. Placera vänster handflata på marken bakom dig. Andas in medan du höjer din högra arm bredvid örat och förläng din ryggrad. Andas ut när du vrider åt vänster och haka höger armbåge utanför ditt vänstra lår. Upprepa med höger knä böjt, vrid åt höger.";
+
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = "Ligg på rygg, böj knäna, och hålla fast vid ytterkanterna av fötterna. Tryck dina händer i fötterna för att få knäna mot dina armhålor och sträck på ditt inre lår. Behåll så mycket av den nedre delen av ryggen på marken som möjligt.";
+
+"exerciseDescription61" = "Sitt mellan hälarna med knäna ihop och toppen av fötterna på golvet. Plantera din högra fot på marken framför dig och fläta ihop fingrarna under bågen av din högra fot. Förläng ditt högra ben i luften medan du förlänger din ryggrad och lyft bröstet mot toppen av din högra fot.";
+
+"exerciseDescription62" = "Börja i ett utfall med vänster fot framåt och fingertopparna inramandes din vänstra fot på marken. Se till att vänster knä är böjt i 90 graders vinkel och staplat över fotleden och höger ben förlängt bakom dig med bollen på högerfoten mot golvet. Lyft din mage från ditt vänstra lår och sätt handflatorna i bön framför bröstet. Andas in medan du förlänger din ryggrad och andas ut när du vrider åt vänster och ansluter höger armbåge utanför ditt vänstra knä. Tryck din vänstra handflata mot den högra, titta upp över vänster axel och tryck höger häl mot himlen. Upprepa med höger ben framför, vridandes åt höger.";
+
+"exerciseDescription63" = "Kliv in ett utfall med ditt högra knä böjt i 90 graders vinkel och stapla över fotleden och vänster ben utsträckt bakom dig med bollen på vänster fot mot golvet. Lyft axlarna över höfterna och med händerna på höfterna, styr höger höft bakåt och sätt den vänstra höften framåt. Förläng armarna längsmed dina öron. Upprepa med vänster ben framåt.";
+
+"exerciseDescription64" = " Kliv in ett utfall med ditt högra knä böjt i 90 graders vinkel och staplat över fotleden och vänster ben utsträckt bakom dig med bollen på vänster fot mot golvet. Lyft axlarna över höfterna och fläta ihop fingrarna bakom ryggen. Vik fram insidan av höger ben, släpp kronan på huvudet mot golvet, och räck handflatorna bort från den nedre delen av ryggen. Krama in höger höft medan du trycker vänster häl upp mot taket. Upprepa med vänster ben framåt och den motsatta flätningen av fingrarna (dvs. det motsatta pekfingret och tummen på toppen).";
+
+"exerciseDescription65" = "Ligg på mage och plantera handflatorna på vardera sidan av bröstet. Tryck in i dina händer för att lyfta överkroppen från marken. Böj knäna, peka tårna, och böj bröstet upp medan du når dina fötter och toppen av huvudet mot varandra.";
+
+"exerciseDescription66" = "Stå med fötterna ihop och nå din högra arm framåt i axelhöjd. Flytta din vikt till din högra fot medan du böjer vänster knä, lyft vänster fot mot vänster sittben och håll den inre kanten av vänster fot i vänster hand. Dra ditt vänstra lår tillbaka medan du tar bröstet framåt, krama vänster knä in mot mittlinjen av kroppen. Höj din högra arm mot taket och lyft bröstet bort från toppen av vänster lår. Upprepa stående på vänster ben.";
+
+"exerciseDescription67" = "Ligg på rygg med benen förlängda på marken. Dra vänster knä in mot bröstet och fläta ihop fingrarna utanför benet. Upprepa med vänster ben utsträckt och höger knä böjt.";
+
+"exerciseDescription68" = "Börja på alla fyra med handlederna längs dina axlar, knän längs dina höfter, och tår stoppade under. När du andas in böj bak ryggen i en båge. När du andas ut, håll sittbenen lyfta, böj armbågarna och dyk bröstet och hakan mot golvet. Som en motsatt ställning, kan du ligga på rygg och krama knäna in i bröstet för att frigöra den nedre delen av ryggen.";
+
+"exerciseDescription69" = "Börja i ett utfall med din högra fot framåt och fingrarna inramandes den högra foten på marken. Se till att höger knä är böjt i 90 graders vinkel och staplad över vristen. Sänk vänster knä och toppen av din vänstra fot i golvet. Placera din högra handflata på insidan av höger fot och sänk sedan båda armbågarna till marken så att de är i linje med höger häl, underarmarna parallella med varandra. Krama höger knä in mot höger axel, förläng din ryggrad, och räck bröstet och kronan på huvudet framåt. Upprepa på vänster sida.";
+
+"exerciseDescription70" = "Ligg på mage med armarna längs sidorna. Lyft armarna bort från marken, vänd handflatorna utåt och räck bakåt med tummarna. Lyft bröstet, huvud och ben från marken. Peka tårna och räck dina fötter bakåt.";
+
+"exerciseDescription71" = "Börja i ett utfall med din högra fot framåt och fingrarna inramandes den högra foten på marken. Se till att höger knä är böjt i 90 graders vinkel och staplat över vristen. Sänk vänster knä och toppen av din vänstra fot i golvet. Klättra händerna på höger lår medan du lyfter bröstet och justera dina axlar ovanför höfterna. \n\n Medan du andas in, förläng din ryggrad och vrid åt höger, placera din vänstra handflata utanför höger knä och drapera din högra hand ner på baksidan av vänster lår. För att slutföra vridningen, titta över din högra axel. \n\n Upprepa på vänster sida.";
+
+"exerciseDescription72" = "Börja i ett utfall med din högra fot framåt och höger knä staplat över höger fotled. Sänk vänster knä på golvet bakom dig och placera toppen av din vänstra fot på golvet. Plana dina höfter genom att skjuta din högra höft tillbaka och linda vänster höft framåt mot insidan av höger lår. Förläng armarna längsmed dina öron och lyft magen bort från toppen av höger lår, böj bröstet mot himlen. Titta upp i mellan handflatorna.";
+
+"exerciseDescription73" = "Börja på alla fyra i positionen av en bordsskiva. Placera vänster knä bakom vänster handled och placera den yttre kanten av vänster fot bakom höger handled. Förläng höger ben bakom dig med tårna instoppade under, och dra det högra benet så långt tillbaka som du kan innan du placerar höger knä och ovansidan av foten på marken. Lyft axlarna över höfterna och placera den yttre kanten av vänster fot framför höger höft. Böj höger knä och håll din högra fot i höger hand, ta foten mot din yttre högra höft. Glid foten i kroken av din högra armbåge. Förläng din vänstra arm längs örat och böj vänster armbåge så att fingertopparna pekar mot golvet. Haka din högra fingertoppar och vänster fingertoppar tillsammans medan du lyfter bröstet.";
+
+"exerciseDescription74" = "Ligg på rygg med armarna längs sidorna och fotsulorna planterade på höftavstånd från varandra. Ytterkanterna på fötterna bör vara parallella med varandra och fingertopparna ska skrubba kanterna på hälarna. Böj armbågarna och plantera handflatorna på marken ovanför axlarna. Lyft bäckenet, bröst och huvud av marken. Internt rotera låren så att de yttre lår går som en spiral mot lårens insida. Nå bröstet genom dina armar. \n\n För fötterna ihop och flytta din vikt till vänster fot, kryp ditt högra knä in mot bröstet. Förläng höger ben rakt i luften. Sätt tillbaka höger fot i golvet och upprepa med det vänstra benet lyft.";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = "Börja på alla fyra i positionen av en bordsskiva. Placera vänster knä bakom vänster handled och placera den yttre kanten av vänster fot bakom höger handled. Förläng höger ben bakom dig med tårna instoppade under, och dra det högra benet så långt tillbaka som du kan innan du placerar höger knä och ovansidan av foten på marken. Lyft axlarna över höfterna, placera den yttre kanten av vänster fot framför höger höft, och vila handflatorna på sidorna när du lyfter på baksidan av din ryggrad. Upprepa med höger knä böjt framför.";
+
+"exerciseDescription77" = "Stå med fötterna ihop. Sätt din vänstra fot ungefär ett benavstånd tillbaka och vinkla den foten 30 grader ut till vänster. Andas in medan du trycker på i den vänstra hälen och förlänger din ryggrad och andas ut medan du viker över höger ben, inramandes din högra fot med händerna. Upprepa med vänster fot framåt.";
+
+"exerciseDescription78" = "Börja på alla fyra i positionen av en bordsskiva. Placera höger knä direkt framför höger höft och placera din högra fot bakom din vänstra handled, så nära handleden som möjligt och håll samtidigt din vikt centrerat mellan dina två sidor. Förläng vänster ben bakom dig med tårna instoppade under, och dra benet så långt tillbaka som du kan innan du placerar vänster knä och toppen av den vänstra foten på marken. Se till att din vänstra stortå pekar rakt bakåt och din vikt förblir centrerad (dvs. luta inte på din högra sida) innan du viker framåt över höger smalben. Upprepa med vänster knä framåt.";
+
+"exerciseDescription79" = "Sitt med benen utsträckta framför dig. Böj höger knä och placera den yttre kanten av foten i vänster höftveck. Böj vänster knä och korsa det vänstra smalbenet över det högra smalbenet för att placera din vänstra fot i höger höftveck. (Om denna form inte är tillgänglig för dig, riskerar inte hälsan på knäna genom att försöka tvinga det. Istället, korsa helt enkelt vänster fotled över den högra.) \n\n Plantera handflatorna på marken utanför låren, flera centimeter framför dina höfter. När du andas ut, dra naveln mot ryggraden, tryck in i dina fingertoppar och lyft bäckenet och låren från marken. Upprepa med höger smalben eller fotled ovanpå den vänstra.";
+
+"exerciseDescription80" = "Ligg på rygg med armarna längs sidorna och fotsulorna planterade på höftavstånd från varandra. Ytterkanterna på fötterna bör vara parallella med varandra och fingertopparna ska skrubba kanterna på hälarna. Lyft bäckenet från golvet och ta överarmarna mot varandra under dig, fläta ihop fingrarna på golvet. Tryck in i ryggen på armarna för att lyfta bröstet. \n\n Sätt ihop fötterna, dra höger knä in mot bröstet, och sträck ut höger ben rakt upp i luften. Sätt tillbaka din högra fot i golvet och upprepa med det vänstra benet lyft.";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = "Stå med fötterna på höftavstånd från varandra. Fläta ihop fingrarna framför dig, vänd handflatorna utåt och sträck ut armarna längsmed dina öron med handflatorna mot taket. Upprepa med motsatt flätning av händerna (dvs. med det andra pekfingret och tummen på ovansidan).";
+
+"exerciseDescription83" = "Börja på alla fyra i positionen av en bordsskiva. Håll axlarna ovanför handlederna, sätt fötterna bakom dig så att du är i en hög push-up position. Endast dina händer och bollarna av fötterna ska röra marken. Tryck in i dina fingerdynor, lyft din mage mot den nedre delen av ryggen, och sträck hälarna mot himlen. Tryck på kronan på huvudet framåt för att förlänga halsen. Var noga med att inte spetsa höfterna i luften; lyft istället blygdbenet mot din navel.";
+
+"exerciseDescription84" = "Ligg på rygg med benen utsträckta, klackarna på marken, och tårna böjda upp mot taket. Dra vänster knä in mot bröstet och ta med din vänstra arm inuti av det vänstra benet, cirklande de första tre fingrarna på din vänstra hand runt din vänstra stortå för \"yogi tå lås\" positionen. Håll höger skinka jordad och tryck höger lår mot golvet medan du förlänger ditt vänstra ben ut åt vänster sida. Upprepa hållandes höger stortå.";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = "Börja på alla fyra i positionen av en bordsskiva. Hålla axlarna ovanför handlederna, lyft höger ben från marken och böj höger knä som om du ska kliva foten på taket. Nå tillbaka med vänster hand för att hålla toppen av den högra foten. Tryck din fot in i din hand medan du lyfter bröstet. Upprepa på andra sidan.";
+
+"exerciseDescription87" = "Anta en bredbent ställning med fötterna parallella till varandra. Sväng höger fot ut 90 grader och böj höger knä till en 90 graders vinkel så att toppen av höger lår är parallellt med marken. Håll höger knä staplat över höger fotled och vänster ben rakt, vänster tårna svängda inåt något. Vila lätt vänster handflata på vänster lår och förläng din högra arm bredvid höger öra. Medan du böjer dig åt sidan mot vänster ben, låt din vänstra hand glida ner benet. Dra din högra höft under dig medan du trycker höger knä försiktigt mot din lilltå. Upprepa på vänster sida.";
+
+"exerciseDescription88" = "Stå i en framåtvikning och sträck bröstet framåt medan du placerar fingrarna på marken under dina axlar. Skifta din vikt in i vänster fot och håll höfterna plana, flyt höger ben rakt bakom dig. Jorda din högra handflata medan du vrider bröstet till vänster och sträck din vänstra arm mot himlen. Titta upp på din vänstra hand.";
+
+"exerciseDescription89" = "Sitt med benen utsträckta framför dig. Placera sulan på vänster fot mot insidan av höger lår. Böj din högra fot och medan du andas in, sträck ut armarna längsmed dina öron. Medan du andas ut, vik över höger ben, böjande på höftvecken och inte i midjan. Var noga med att inte runda din nedre del av ryggen. Upprepa med vänster ben utsträckt och höger knä böjt.";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = "Sitt med benen utsträckta framför dig. Placera sulan av höger fot mot insidan av vänster lår. Vrid överkroppen åt höger, placera din vänstra armbåge på golvet inne i vänster knä och håll innerkanten på vänster fot i vänster hand. Förläng din högra arm längs örat och håll toppen av den vänstra foten i höger hand. Ankra din högra skinka i golvet medan du roterar bröstet mot himlen. Upprepa med vänster knä böjt och höger ben rakt, böj åt sidan över höger ben.";
+
+"exerciseDescription93" = "Stå med fötterna ihop. Steg höger fot ungefär ett benavstånd tillbaka och vinkla foten 30 grader ut till höger. Placera händerna på yttre höften och andas in medan du sträcker din ryggrad och sträcker bröstet framåt parallellt med marken. Andas ut när du vrider åt vänster, plantera din högra handflata utanför din vänstra fot och nå din vänstra arm upp mot taket. Upprepa med höger ben framåt, vridning åt höger.";
+
+"exerciseDescription94" = "Från en stående framåtvikning, böj knäna och tälta fingertopparna på marken på ömse sidor om fötterna. Sätt vänster fotbanken, hållande höger knä böjt i 90 graders vinkel och centrerat över höger fotled. Dra bröstet framåt och tryck vänster häl upp mot taket. Upprepa med vänster knä framåt.";
+
+"exerciseDescription95" = "Stå med fötterna i höftbredd. Placera din vänstra hand på vänster midja, flytta din vikt till din högra fot och lyft vänster knä in mot bröstet. Cirkla de tre första fingrar i din högra hand runt din vänstra stortå och sträck ditt vänstra ben över till höger medan du vrider överkroppen åt vänster.";
+
+"exerciseDescription96" = " Ligg på rygg med armarna utsträckta ut på vardera sida i en \"T\" form. Krama knäna in mot bröstet och håll knäna ihop, drapera dem över till vänster och titta åt höger. Ta knäna tillbaka till centrum och baksidan av huvudet till marken innan du släpper knäna till höger och tittar åt vänster.";
+
+"exerciseDescription97" = " Ligg på rygg, för fotsulorna ihop, och låt knäna drapera ut åt endera sidan. Håll i dina armbågar över huvudet.";
+
+"exerciseDescription98" = "Ligg på rygg med benen utsträckta, klackarna på marken och dina tår böjda upp mot taket. Dra vänster knä in mot bröstet och ta med din vänstra arm inuti av vänster ben, cirklande de första tre fingrarna på vänster hand runt din vänstra stortå. Håll höger skinka jordad och tryck höger lår mot golvet medan du sträcker ditt vänstra ben. Dra vänster lår mot magen. Upprepa på höger sida.";
+
+"exerciseDescription99" = "Sitt med benen utsträckta framför dig, klackarna på marken och tårna böjda upp mot himlen. När du andas in, höj armarna vid sidan av dina öron och sträck på ryggraden. När du andas ut, böj framåt vid höftvecket och drapera din mage ovanpå låren. Håll dina fötter och om du har räckvidden, böj armbågarna ut på vardera sida för att häva dig djupare in i främre vecket.";
+
+"exerciseDescription100" = "Stå rakt med fötterna ihop och händerna på midjan. Rikta dina högra tår medan du sträcker ditt högra ben framför dig och lyft så högt som möjligt utan att röra höfterna. Steg höger fot tillbaka, flytta din vikt till din högra fot, och upprepa med vänster ben utsträckt framför dig.";
+
+"exerciseDescription101" = "Börja i en planka - en hög push-up ställning med armarna raka, axlar staplade över handlederna och klackarna tryckta upp mot himlen. Flytta din vikt till höger sida, rulla till ytterkanten på höger fot. Stapla vänster fot över höger och vänster axel ovanför höger. Förläng din vänstra arm mot himlen. Flexa tårna upp mot huvudet och tryck ner ordentligt i fingertopparna på höger hand, särskilt pekfingret och tummen. \n\n Böj vänster knä mot vänster axel och cirkla de tre första fingrarna på vänster hand runt din stora vänster tå i en \"yogi tå lås.\" Sträck vänster ben mot himlen och håll den vänstra höften staplad ovanför den högra. \n\n Upprepa på vänster sida med det högra benet sträckt.";
+
+"exerciseDescription102" = "Ta en bekväm sits med benen i kors med det vänstra benet på toppen. Sträck armarna vid sidan av dina öron och böj båda armbågarna så att fingrarna pekar nedåt din rygg. Håll höger armbåge i vänster hand och dra försiktigt den åt vänster, tryck på baksidan av huvudet mot höger arm. Sträck sedan vänster arm ut åt vänster och vrid tummen ned, internt roterande den vänstra armen. Böj vänster armbåge bakom dig så att din vänstra hand pekar upp din rygg och armbågen pekar nedåt. Om möjligt, anslut händerna genom att knäppa ihop fingertopparna tillsammans. \n\n Upprepa med höger ben på toppen och vänster arm på toppen.";
+
+"exerciseDescription103" = "Ta en bekväm sits med benen i kors med vänster ben på toppen. Plantera höger underarm på höger sida med fingertopparna pekandes åt höger. Håll vänster skinka förankrade på marken medan du sträcker din vänstra arm bredvid ditt vänstra öra. \n\n Upprepa med höger ben på toppen och höger arm sträckt längsmed örat.";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = "Stå med fötterna något bredare än höftavstånd från varandra. Andas in medan du sträcker armarna vid sidan av dina öron. Andas ut när du kurvar bröstet upp mot himlen och lutar dig tillbaka. Håll innerkanterna av fötterna stadigt förankrade och lyft det inre låret mot utrymmet bakom dig. Med varje efterföljande andning, sträck den främre delen av ryggraden och med varje efterföljande utandning, dra de främre revbenen mot ryggen. Medan bröstet böjer upp sig, vikta bäckenet mot marken.";
+
+"exerciseDescription106" = "Stå med fötterna ihop. Skifta din vikt i din vänstra fot medan du drar ditt högra knä mot bröstet. Räck din högra arm genom insidan av höger ben och cirkla de första tre fingrarna runt stortån i \"yogi tå låset.\" Håll höfterna fyrkantiga, sträck ditt högra ben ungefär 45 grader åt höger sida. \n\n Upprepa ståendes på höger ben med vänster ben utsträckt.";
+
+"exerciseDescription107" = "Ligg på mage med pannan på marken och fläta ihop fingrarna bakom dig. Peka tårna och lyft bröstet och huvudet från marken. Lyft dina sammanflätade händer och räck dem bakom dig. Dra hakan av bröstet och fäst blicken på nästippen. \n\n Upprepa med motsatt flätning av fingrarna (dvs. motsatt pekfinger och tumme på toppen).";
+
+"exerciseDescription108" = "Sitt högt med benen utsträckta framför dig, hälarna jordade och fötterna flexade. Placera armbågarna under dina axlar och vila handflatorna nedåt längs sidorna. Andas in när du sträcker din ryggrad och andas ut när du drar naveln mot ryggraden.";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "Börja i position av en bordsskiva på alla fyra med handleder över axlar och knäna över höfterna. Kliv vänster fot tillbaka och sätt hälen i marken så att tårna pekar åt vänster. Sväng höger fot bakom dig så att ovansidan av foten är jordad och tårna pekar åt höger. Stapla vänster axel ovanför den högra medan du sträcker din vänstra arm mot himlen. Upprepa med höger ben utsträckt och vänster smalben jordat.";
+
+"exerciseDescription111" = "Stå med fötterna åtminstone ett benavstånd från varandra och tårna något inåtvända. Böj på höftveck, sträck bröstet framåt för att möta marken och plantera handflatorna på golvet under dina axlar. Medan du släpper kronan på huvudet mot golvet, sänk armbågarna mot marken och försök hålla dem en axelbredd isär.";
+
+"exerciseDescription112" = "Stå med fötterna något bredare än höfterna, tår utåtvända. Böj knäna och sänk din sits mot golvet mellan hälarna. Ta handflatorna framför bröstet i en böneställning och placera armbågarna mot insidan av låren. Tryck armbågarna mot de inre låren medan låren trycker tillbaka mot armbågarna. Sträck ryggraden så att hjässan lyfter och svanskotan sjunker. Så småningom, kanske du kan ta ytterkanterna av fötterna parallellt med varandra.";
+
+"exerciseDescription113" = "Sitt med benen sträckta ut till endera sida och tårna böjda upp till himlen. Andas in när du sträcker din ryggrad och andas ut när du hänger på höftvecket och gå händerna ut framför dig. Håll centern av hälarna jordade och din bäckenskål tippande framåt när du viker.";
+
+"exerciseDescription114" = "Stå med fötterna åtminstone ett benavstånd från varandra och tårna något inåtvända. Fläta ihop fingrarna bakom dig. Vik framåt vid höftvecket, släpp kronan på huvudet mot golvet mellan fötterna och sträck dina knäppta händer mot marken. \n\n Upprepa med motsatt flätning av fingrarna (dvs. motsatt pekfinger och tumme på toppen).";
+
+"exerciseDescription115" = "Sitt med benen sträckta ut till endera sidan och tårna böjda upp till himlen. Vrid överkroppen åt höger, placera din vänstra armbåge på golvet inne i vänster ben och håll innerkanten av din vänstra fot i vänster hand. Sträck din högra arm vid sidan av örat och håll toppen av den vänstra foten i höger hand. Ankra din högra skinka och höger ben i golvet medan du roterar bröstet mot himlen. Upprepa böjandet år sidan över höger ben.";
+
+"exerciseDescription116" = "Stå med fötterna något bredare än höfterna, vänd tårna utåt. Böj knäna och sänk din sits mot golvet mellan hälarna. Gå med handflatorna framför bröstet i en böneställning och placera armbågarna mot insidan av låren. \n\n Andas in när du sträcker din ryggrad och andas ut när du vrider åt vänster, spridande armarna öppet. Vänd tummarna ner för att internt rotera båda armarna. Böj vänster armbåge bakom ryggen och böj höger armbåge runt utsidan av höger smalben. Om möjligt, lås ihop fingertopparna tillsammans nära utsidan av den högra höften. \n\n Upprepa vridande åt höger och slå armarna runt vänster ben.";
+
+"exerciseDescription117" = "Börja i positionen av en bordsskiva på alla fyra. Ta in dina stortår tillsammans och separera knäna bredare än höfterna. Gå dina handflator framåt, vila din överkropp mellan benen och släpp din panna till golvet.";
+
+"exerciseDescription118" = "Stå med fötterna åtminstone ett benavstånd från varandra och tårna något inåtvända. Böj på höftveck, räck bröstet framåt för att möta marken och plantera handflatorna på golvet under dina axlar. När du andas in, sträck ryggraden så att kronan på huvudet rör sig bort från dina höfter. När du andas ut, vrid åt vänster och sträck vänster arm upp mot himlen. \n\n Ta tillbaka vänster handflata mot marken under din vänstra axel. Andas in när du sträcker ryggraden och andas ut när du vrider åt höger, så att höger arm släpper upp mot himlen.";
+
+"exerciseDescription119" = "Stå med fötterna åtminstone ett benavstånd från varandra och tårna något inåtvända. Böj på höftvecket, räck framåt bröstet för att möta marken och plantera handflatorna på golvet under dina axlar. gå med händerna åt höger och håll fast vid utsidan av höger fotled, så att du hakan mot höger smalben. Gå med händerna tillbaka till centrum och sedan över till vänster, håll på utsidan av vänster fotled medan du för hakan mot vänster smalben.";
+
+"exerciseDescription120" = "Ligg på rygg. Sträck din vänstra arm bredvid ditt vänstra öra medan du rullar över på vänster sida. Böj vänster armbåge och vila sidan av huvudet på vänster handflata. Böj höger knä mot höger axel och cirkla de tre första fingrar i din högra hand runt din högra stortå. Sträck ditt högra ben så mycket som möjligt, så att du jordar vänster sida och kramar din högra skinka mot vänster inner lår. \n\n Upprepa liggande på höger sida, hållandes din vänstra stortå.";
+
+"exerciseDescription121" = "Sitt med fotsulorna ihop framför bäckenet och knäna draperade ut på endera sidan. Cirkla de tre första fingrarna på varje hand runt varje stortå. Luta dig tillbaka så att din vikt skiftar till sittbenen. Håll ryggraden lång och knäna böjda, separera dina fötter och lyfta dem från marken så att du balanserar på sittbenen. Successivt utvidga benen ut på vardera sida medan du lyfter på bröstet.";
+
+"exerciseDescription122" = "Anta en bredbent ställning med fötterna parallella till varandra. Sväng ut höger fot 90 grader och böj höger knä till en 90 graders vinkel så att toppen av det högra låret är parallellt med marken. Håll höger knä staplat över höger fotled och vänster ben sträckt med tårna inåtvända något. Håll dina axlar rakt ovanför höfterna medan du sträcker dina armar i motsatta riktningar och ser över din högra handflata. \n\n Upprepa med vänster knä böjt och höger ben rakt, blickande över din vänstra handflata.";
+
+"exerciseDescription123" = "Stå med stortårna tillsammans och ytterkanterna av fötterna parallella med varandra. För pekfingrarna tillsammans och fläta alla andra fingrar framför bröstet. När du andas in, håll händerna knäppta och höj armarna över huvudet. När du andas ut, böj dig åt sidan till vänster. Ankra din högra häl och lyft dina nedre vänstra revben uppåt mot höger revben. \n\n På en inandning, gå tillbaka till centrum med händerna knäppta över huvudet. På en utandning, böj dig åt sidan till höger.";
+
+"exerciseDescription124" = "Börja i en stående framåtvikning med dina stortår tillsammans, ytterkanterna av fötterna parallell med varandra, och handflatorna planterade på marken under dina axlar. Skifta den mesta av din vikt i din högra fot medan du kliver vänster fot tillbaka, vila lätt den vänstra stortån på marken. Placera din högra handflata mot din högra vad och flyt vänster ben upp mot himlen. Håll vänster höft plan med höger höft, lyft höger höft så mycket som du kan samtidigt som du kramar in den mot mitten. Tryck på höger handflata framåt mot den högra vaden för att häva din haka mot ditt smalben. \n\n Upprepa stående på vänster ben med höger ben utsträckt.";
+
+"exerciseDescription125" = "Börja i en stående framåtvikning med dina stortår tillsammans och ytterkanterna av fötterna parallella med varandra. Andas in för att förlänga din ryggrad, räck bröstet framåt när du tältar fingertopparna på golvet. Andas ut när du viker framåt, räck armarna runt utsidorna av benen för att hålla vaderna. Tryck handflatorna mot vaderna för att häva din panna mot smalbenen. Tryck hälarna mot marken och lyft sittbenen medan du roterar de inre låren mot baksidan av benen. Var noga med att inte runda den nedre delen av ryggen. Böj istället på höftvecken och drapera magen ovanpå topparna på låren.";
+
+"exerciseDescription126" = "Stå med fötterna ihop. Skifta din vikt i din vänstra fot medan du drar ditt högra knä mot bröstet. Räck din högra arm genom insidan av höger ben och cirkla de första tre fingrar runt stortån i \"yogi tå lås.\" Stå rakt, tryck vänster häl mot marken och lyft kronan på huvudet mot taket. Förläng det högra benet framför dig, var noga med att ansluta höger arm på baksidan av kroppen så att axlarna förblir staplade ovanför höfterna.";
+
+"exerciseDescription127" = "Stå med stortårna ihop och ytterkanterna av fötterna parallella med varandra. Fläta ihop fingrarna bakom ryggen. Andas in för att förlänga din ryggrad och andas ut för att svänga fram på höftvecket, släpp kronan på huvudet mot marken och nå dina knäppta händer mot golvet.";
+
+"exerciseDescription128" = "Anta en bredbent ställning med fötterna parallella till varandra. Sväng höger fot ut 90 grader. Höj vänster häl och sväng på bollen av vänster fot, snurra hälen ut till vänster före plantering av den på golvet. Bröstet och vänster höft ska nu vara vänt åt samma håll som din högra fot. Ta med dina händer till dina yttre höfter och linda den vänstra höften framåt när du styr höger höft tillbaka. Böj höger knä så att det staplar ovanför ankeln. Förläng armarna vid sidan av med dina öron och lyft bröstet. Tryck in vänster häl samtidigt som höger knä centreras över vristen. \n\n Upprepa med vänster fot framåt.";
+
+"exerciseDescription129" = "Stå med fötterna ihop och höj armarna längsmed dina öron. Håll ditt högra ben rakt och bröstet lyft, kliv vänster fot tillbaka så att trampdynan lätt vilar på golvet. Flytta sakta din vikt till din högra fot, sväng framåt på höger höftveck och räck bröstet framåt medan du flyter vänster ben bakom dig. Krama dina yttre höfter mot varandra och lyft din mage/främre revben in mot ryggen. \n\n Upprepa balanserande på vänster ben med höger ben utsträckt bakom dig.";
+
+"exerciseDescription130" = "Stå med stortårna ihop och ytterkanterna av fötterna parallella med varandra. När du andas in, höj din högra arm bredvid örat. När du andas ut, böj åt sidan till vänster, vilket gör att din vänstra hand kan glida ner på utsidan av vänster ben. Tryck in i den högra hälen och lyft vänster midja. \n\n Upprepa genom att böja dig åt höger sida.";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = "Sitt med benen utsträckta framför dig, handflatorna planterade bakom dig och fingertopparna riktade framåt. Peka tårna, tryck in i fingerdynorna och lyft höfterna från marken. Dra ihop skulderbladen och glid ner dem längs ryggen när du lyfter bröstet. Gör en spiral med de inre låren mot varandra och räck dina stortår mot golvet. Om halskotpelaren är frisk, drapera försiktigt huvudet bakåt så att basen av skallen vilar ovanför skulderbladen.";
+
+"exerciseDescription133" = "Stå med fötterna ihop. Flytta din vikt till din högra fot och dra vänster knä in mot bröstet. Håll bågen av den vänstra foten i båda händerna. Sträck vänster ben medan du viker över det, vilket för din panna mot ditt smalben. \n\n Upprepa ståendes på vänster ben och hållandes höger fot.";
+
+"exerciseDescription134" = "Börja i en stående framåtvikning. Böj båda knäna, plantera din högra hand på marken under bröstet och placera vänster hand på vänster höft. Andas in när du förlänger din ryggrad. Andas ut när du vrider åt vänster, förlänger endast vänster ben och släpp vänster arm upp mot himlen. Håll sidorna av halsen lång medan du tittar upp på vänster hand. \n\n Återgå till en stående framåtvikning. Böj båda knäna, plantera din vänstra hand på marken under bröstet och placera din högra hand på höger höft. Andas in när du förlänger din ryggrad. Andas ut när du vrider till höger, förlänger endast höger ben och släpp höger arm upp mot himlen. Håll sidorna av halsen lång medan du tittar upp på din högra hand.";
+
+"exerciseDescription135" = "Stå med stortårna ihop och ytterkanterna av fötterna parallella med varandra. Placera handflatorna på skinkorna med fingertopparna pekandes mot hälarna. När du andas in, förläng ryggraden. När du andas ut, använd händerna för att trycka dina skinkor ned mot hälarna och böj bröstet upp mot taket. Skjut ihop skulderbladen och ner din rygg, dra armbågarna mot varandra.";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = "Ligg på rygg med böjda knän, fötterna planterade på höftavstånd och ytterkanterna av fötterna parallella med varandra. Sträck armarna längs sidorna och placera fötterna så att dina fingertoppar skrubbar kanterna på hälarna. Lyft armarna mot taket och flexa handlederna. Böj armbågarna och plantera handflatorna på skulder topparna med fingertopparna pekandes mot axlarna. Tryck in i de inre kanterna på dina händer och inre hälar medan du lyfter bäckenet, bröstet och huvudet från marken. Rotera ditt yttre lår mot ditt inre lår och tryck bröstet genom armarna. Var försiktig så att du inte låter fötterna glida bredare än höftavstånd. \n\n För att släppa, dra din haka mot bröstet och skinkorna mot hälarna medan du sänker ner till golvet.";

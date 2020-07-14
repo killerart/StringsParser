@@ -1,0 +1,905 @@
+/*
+ Localizable.strings
+ Yoga
+ 
+ Created by Alex Overseer on 4/4/16.
+ Copyright © 2016 SOFTINTERCOM. All rights reserved.
+ */
+
+//Intro
+
+"Choose Your Goals" = "目標を選んでください";
+"Increase Flexibility" = "柔軟性の向上";
+"Get Toned" = "身体を引き締める";
+"Lose Weight" = "体重を減らす";
+"Reduce Stress" = "ストレスを減らす";
+"Continue" = "継続";
+"Yearly" = "毎年";
+
+"Enter Your Parameters" = "パラメーターを入力してください";
+"Height" = "身長";
+"Current weight" = "現在の体重";
+"Target weight" = "目標体重";
+"Pick Your Height" = "身長を選んでください";
+"Pick Your Weight" = "体重を選んでください";
+"Pick Your Target Weight" = "目標体重を選んでください";
+"lbs" = "ポンド";
+"kg" = "キログラム";
+"ft, in" = "フィート、インチ"; //feet, inch
+"cm" = "センチメートル"; //centimeter
+"Save" = "保存";
+
+"Join Millions\nof happy users" = "数百万人のユーザーの\n一員になりましょう";
+"No Annoying Ads" = "煩わしい広告なし";
+"Not sure yet?" = "まだ信用できませんか?";
+"Enable free trial" = "無料トライアルを有効化";
+"Discount %d%%" = " %d%%割引"; //example Discount 60%
+"Just Now! Limited Offer!" = "今だけ!限定オファー!";
+"Join with our best offer" = "最高のオファーをご利用ください";
+"Weekly plan" = "ウィークリープラン";
+"Monthly plan" = "マンスリープラン";
+
+"Not now" = "今は結構";
+"Save %d%%" = " %d%%節約"; //Example: Save 60%
+"year\nBilled annually" = "年\n年間支払い"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "無料の7日間\nトライアル期間の後";
+"healthAppPermisionKey" = "アプリからヘルスケアアプリにデータを書き込むことが許可されていません。ヘルスケアアプリからこの機能を有効にすることができます";
+"Open" = "開いた";
+
+
+//Presentation
+
+"Balance Flexibility" = "バランスと柔軟性";
+"100+ Poses" = "100以上のポーズ";
+"19 Classes" = "19のクラス";
+"Tons of Classes" = "大量のクラス";
+"Anywhere Anytime" = "いつでもどこでも";
+"Nutrition Plans" = "栄養プラン";
+
+
+
+//Buttons keys
+"backButtonKey" = " 戻る";
+"doneButtonKey" = "完了";
+"editButtonKey" = "編集";
+"cancelButtonKey" = "キャンセル";
+"yesButtonKey" = "はい";
+"startButtonKey" = "スタート";
+"skipButtonKey" = "スキップ";
+
+//MainScreenViewController
+"posesNameKey" = "ポーズ";
+"posesDescriptionKey" = "いつでもどこでも自由にプラクティスできます。";
+
+"classesNameKey" = "クラス";
+"classesDescriptionKey" = "それぞれ柔軟性・強さ・バランスをテーマにしています。お気に入りのクラスを見つけてください。";
+
+"moreNameKey" = "その他";
+"moreDescriptionKey" = "VGFITのコミュニティに参加しませんか？他のワークアウトもご覧いただけます。";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "エクササイズの検索";
+"noResultsLabelKey" = "該当結果なし";
+
+//ClassesViewController
+"classBalanceKey" = "バランス";
+"classBalanceDescriptionKey" = "バランス感覚を改善することをテーマにした様々なスタイルのヨガが組み合わされています。";
+
+"classStrengthKey" = "強さ";
+"classStrengthDescriptionKey" = "強い身体を作るために役立つパワーヨガのポーズが組み合わされています。";
+
+"classFlexibilityKey" = "柔軟性";
+"classFlexibilityDescriptionKey" = "呼吸法・筋肉の回復・身体の柔軟性などをテーマとしています。";
+
+//LevelViewController
+"levelBegginerKey" = "初心者";
+"levelBegginerTitleKey" = "簡単なエクササイズから始めましょう。";
+"levelBegginerDescriptionKey" = "しっかりとした土台を作ることで、強さと持久力を手にいれることをテーマとしています。";
+
+"levelIntermediateKey" = "中級者";
+"levelIntermediateTitleKey" = "もっと難しいエクササイズに挑戦しましょう。";
+"levelIntermediateDescriptionKey" = "より強度の高いプラクティスをする方や過去のヨガ経験がある方向けです。";
+
+"levelAdvancedKey" = "上級者";
+"levelAdvancedTitleKey" = "難しいエクササイズです。";
+"levelAdvancedDescriptionKey" = "より強度の高いプラクティスに参加している熱心で献身的な方向けです。";
+
+//DifficultyViewController
+"secondSideKey" = "反対側";
+"minutesKey" = "分";
+"posesKey" = "ポーズ";
+
+//Error messages
+"downloadErrorKey" = "ダウンロードのエラー";
+"downloadCompleteKey" = "ダウンロード完了";
+"internetConnectionKey" = "インターネット接続";
+"internetConnectionLostKey" = "インターネット接続が切れました。";
+"videoNotFoundKey" = "ビデオが見つかりません。";
+"videoNotFoundDescriptionKey" = "このまま続けますか？\n「はい」を押すと、再びダウンロードを試みます。「キャンセル」を押すと、前の画面に戻ります。";
+
+"smtWentWrongKey" = "エラーが発生しました。";
+"downloadErrorNoConnectionKey" = "ダウンロードできません。インターネット、Wi-Fi、またはモバイルデータ通信の接続を確認してください！";
+"playerNoInternetConnectivityKey" = "ダウンロードできません。インターネット、Wi-Fi、またはモバイルデータ通信の接続を確認してください！\n「はい」を押すと、スキップします。「キャンセル」を押すと、前の画面に戻ります。";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "複数のビデオのダウンロード中";
+"downloadOneVideoKey" = "ビデオのダウンロード中";
+
+//SecondPlayerViewController
+"previewKey" = "プレビュー";
+"secondsKey" = "秒";
+"completedKey" = "完了";
+"playerCurrentExerciseKey" = "エクササイズ名：";
+"playerNextExerciseKey" = "次：";
+
+//MoreViewController
+"moreProfileTitleKey" = "プロフィール\n(クラス履歴)";
+"moreProfileDescriptionKey" = "クラスの履歴を保存し、次のクラスの予定を立てることができます。";
+
+"moreAppsTitleKey" = "VGFITの\nその他のアプリ ";
+"moreAppsDescriptionKey" = "VGFITの新しいアプリを確認して、フィットネスの目標に到達するために役立てましょう。";
+
+"moreSocialTitleKey" = "VGFITの\nソーシャルメディア";
+"moreSocialDescriptionKey" = "モチベーションを見つけて、お友だちにシェアしましょう。VGFITのコミュニティにご参加ください。";
+
+"moreSettingsTitleKey" = "設定";
+"moreSettingsDescriptionKey" = "詳細な設定をすることで、最高の体験を得ることができます。";
+
+"moreRateUsTitleKey" = "アプリを評価する";
+
+"historyTitleKey" = "履歴";
+"historyNoExerciseKey" = "エクササイズは行われていません";
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "ヴァレリオ・グッチの腹筋シックスパック";
+"otherAppFitnessAndBodyBuildingKey" = "フィットネス・アンド・ボディビルディング";
+"otherAppFemaleFitnessKey" = "女性のフィットネス";
+"otherAppGoPedometerKey" = "歩数計を行く";
+"otherAppSmartCycleAlarmProKey" = "スマートサイクルアラームPRO";
+"otherAppTimerKey" = "タイマーPro";
+"otherApp7minKey" = "7ミニッツ";
+"Water Reminder" = "ウォーター・リマインダー";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "全編のプレビュー";
+"settingsPreviewShortKey" = "短いプレビュー";
+"settingsPreviewNoneKey" = "プレビューなし";
+"settingsbreathCycleLenghtKey" = "呼吸サイクルの長さ";
+
+//Speech to Text messages
+
+"beginKey" = "ベギン";
+"xMoreSeconds" = "あと%@秒 ";
+"halfWayThereKey" = "残り半分";
+
+//Rate Us messages
+
+"Love our %@ app?" = "私たちの %@ アプリ、気に入っていただけましたか?";
+"Your feedback will help us to get better" = "私たちの成長は、ユーザーのフィードバックのおかげです。";
+"Oh Dear!" = "お願いします！";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "アプリを改善するアイデアを頂けると、大変ありがたいです。よろしくお願いします！";
+
+"5-Stars" = "5つ星";
+"To improve the app, please Leave a Rating or Review." = "アプリを改善するために、評価またはレビューを残してください。";
+
+"Rate Us" = "当社を評価してください ";
+"Email Us" = "Eメールを送る";
+"Not now" = "後で";
+
+//Reminder
+
+"Reminder" = "リマインダー";
+"Edit notification permission in IOS settings" = "iOSの設定で通知許可を編集する";
+"Daily reminder" = "毎日のリマインダー";
+"Frequency" = "頻度";
+"It's time to workout!" = "ワークアウトの時間です！";
+"After %ld days of inactivity" = "最後のワークアウトから%ld日後";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "ねぇ！この数日間ワークアウトしてないですね。ワークアウトを再開しましょう！";
+"Days" = "デイズ";
+
+//Audio Player
+
+"Voice Guide" = "音声ガイド";
+"Background Music" = "BGM";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "ヨガ：ポーズとクラス";
+"Upgrade" = "アップグレード";
+"Buy" = "購入";
+"Restore Purchases" = "購入の復元";
+"Premium" = "プレミアム版";
+"Nutrition" = "栄養";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "トップコーチの作成した全ての新しいプランのロックを解除する。あなたの目標にもっと簡単に到達。";
+"Ads free experience" = "広告なしに";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "広告を全部削除。広告なしで楽しいヨガの旅を楽しもう。";
+"Unlock all music" = "全音楽のロックを解除";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "あなたのトレーニングにもっと入り込める最高の音楽を楽しもう。 \n+お知らせのスペシャルチューンを選び、なにも見逃さない。";
+"Yoga Classes" = "ヨガクラス";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "モチベーションを高める、よりフィットするトレーニングの新しい全１０レベルクラス \n+減量のためのバランスの取れた栄養プラン";
+
+//Select Sound
+
+"Sounds" = "サウンド";
+"Sound" = "サウンド";
+
+"Default" = "デフォルト";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "クイックヨガフィックス";
+"Quick Yoga Fix_details" = "忙しい日々に、元気づけ、基礎となるヨガを取り入れよう";
+
+"Getting Toned" = "調子を整える";
+"Getting Toned_details" = "腕、肩、体の芯、臀部、足など重要なポイントの筋力をアップさせよう";
+
+"Morning Yoga" = "朝ヨガ";
+"Morning Yoga_details" = "背骨を様々な方向に強く動かし、スタンドのポーズを取り入れる爽快なヨガの練習で一日をスタートしよう。";
+
+"Daily Yoga for ABS" = "ABS毎日ヨガ";
+"Daily Yoga for ABS_details" = "腹筋集中アンドアップ";
+
+"Yoga for Runners" = "ランナーのためのヨガ";
+"Yoga for Runners_details" = "ヨガはバランス、柔軟性、強さ、精神トレーニングのユニーク組み合わせで、ランナーがパフォーマンスを向上させ、けがを防ぎます。このクロストレーニングシーケンスでより賢く走りましょう。";
+
+"Boost Your Energy" = "あなたのエネルギーを加速";
+"Boost Your Energy_details" = "あなたの身体、心、精神を活性化させる動きにデザインされています。";
+
+"Deep Stretching Exercises" = "ディープストレッチエクササイズ";
+"Deep Stretching Exercises_details" = "このヨガストレッチで疲れた筋肉を癒し、動きの幅を増やし、血行を促進。";
+
+"Improve Your Balance" = "バランスを向上";
+"Improve Your Balance_details" = "このバランスポーズの動きであなたの身体を整え、反射を良くし、身体能力を高めます。";
+
+"Challenge Your Flexibility" = "柔軟性にチャレンジ";
+"Challenge Your Flexibility_details" = "シリーズの強いストレッチヨガで柔軟性を高め、結果より高度なヨガ姿勢に。";
+
+"Core Muscle Sculptor" = "コア筋肉トレーニング";
+"Core Muscle Sculptor_details" = "一からあなたの足、腹部、腰、わき腹を鍛えなおします。";
+
+"Food Nutrition" = "食事療法";
+"Food Nutrition_details" = "最高のシェイプを手に入れよう！食べ物を学び、脂肪燃焼フードを発見し、おいしい食事で代謝をスピードアップしよう。";
+
+
+//Other
+
+"In-App purchases were restored" = "アプリ内購入は復元されました。";
+"Sorry we didn't find your previous purchases" = "申し訳ありませんが、過去の購入履­歴を確認することができませんでした。";
+"Alert" = "アラート";
+"No internet connection" = "インターネットに接続されていません！";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription options: &&3 days of free trial followed by $3.99 per Week. 3 days of free trial followed by $12.99 per Month. 3 days of free trial followed by $35.99 per Year++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+//"Restore" = "復元";
+
+"Subscription Info" = "サブスクリプション情報";
+"More info about subscriptions and Premium membership" = "サブスクリプションとプレミアム会員についてのさらなる情報";
+"%d days of free trial followed by %@ per %@" = "%d 日間の無料トライアル、以後%@ ごと%@"; //ex:3 days of free trial followed by $3.99 per week
+"month"="月";
+"year"="年";
+"week"="週";
+"after"="後";
+"Privacy Policy"="プライバシーポリシー";
+"Terms of Service"="サービス規約";
+"Nutrition plan"="健康増進プラン";
+"and"="そして";
+"Subscription"="サブスクリプション";
+"By continuing you accept our"="以下に同意して続ける";
+
+"Start your positive\ntransformation today!"="あなたを大きく変える\n日が今日から始まる！";
+"Get 100% ready workouts courses with powerful support!"="あなただけの100%サポート付のワークアウトコースを受けましょう！";
+"Only now"=" 今だけ ";
+"GET LIFETIME ACCESS"="ライフタイムアクセス取得";
+"one-time payment"="一度限りの支払";
+
+//Yoga
+"%d poses and %d yoga classes"="%d ポーズと %d ヨガクラス";
+"3 days for FREE"="３日間無料";
+"Ads FREE\nexperience"="広告なし\n体験";
+"Yoga"="ヨガ";
+"Yoga\nClasses"="ヨガ\nクラス";
+"UNLOCK\nall music"="全ての音楽を\n無制限に";
+"76% off"="76% オフ"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="月々%@ のお支払で、年間合計 %@ ";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="ウェイト減量と健康増進プラン";
+
+//VGFIT WORKOUT
+"Nutrition plan for building muscle"="筋力増加";
+"Nutrition plan for weight loss"="引き締まったボディー";
+"Challenges"="挑戦";
+"Ads FREE experience"="広告なし\n体験";
+"Nutrition plans"="健康増進 \nプラン";
+"New Workouts"="新しい \nワークアウト";
+"ARMS | ABS"="腕 | 腹筋";
+"CLOSE"="クローズ";
+"Workout challenges"="ワークアウトチャレンジ";
+"Challenge"="挑戦";
+"Exercises"="エクササイズ";
+"Restore purchase"="再アクセス";
+"SHARE"="シェア";
+"%d-day\nFree Trial"="%d-日間\nフリートライアル ";
+"Try it Now"="今すぐ試す";
+"GET LIFETIME ACCESS"="ライフタイムアクセス取得";
+"SKIP"="SKIP";
+"%@ WORKOUTS"="%@ ワークアウト";// ex: 25 workouts
+"3-day \nFree trial"="3-日間 \nフリートライアル";
+"7-day \nFree trial"="7-日間\nフリートライアル";
+"startKey"="始める";
+
+//Exercise name
+
+"exerciseName1" = "山のポーズ";
+
+"exerciseName2" = "半蓮のポーズ";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "椅子のポーズのバリエーション";
+
+"exerciseName5" = "仰向けでのサイド・ストレッチ";
+
+"exerciseName6" = "極楽鳥のポーズ";
+
+"exerciseName7" = "足指をつかむポーズのバリエーション";
+
+"exerciseName8" = "舟のポーズ";
+
+"exerciseName9" = "弓のポーズ";
+
+"exerciseName10" = "橋のポーズ";
+
+"exerciseName11" = "らくだのポーズ";
+
+"exerciseName12" = "猫のポーズ";
+
+"exerciseName13" = "背中側のストレッチ";
+
+"exerciseName14" = "椅子のポーズ";
+
+"exerciseName15" = "ひねった椅子のポーズ";
+
+"exerciseName16" = "腕を伸ばして行うひねった椅子のポーズ";
+
+"exerciseName17" = "子どものポーズ";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "コブラのポーズ";
+
+"exerciseName20" = "屍のポーズ";
+
+"exerciseName21" = "牛のポーズ";
+
+"exerciseName22" = "牛の顔のポーズ";
+
+"exerciseName23" = "牛の顔のポーズのバリエーション";
+
+"exerciseName24" = "上向き板のポーズ";
+
+"exerciseName25" = "カラスのポーズ";
+
+"exerciseName26" = "イルカのポーズ";
+
+"exerciseName27" = "スフィンクスのポーズ";
+
+"exerciseName28" = "前腕をついた板のポーズ";
+
+"exerciseName29" = "下を向いた犬のポーズ";
+
+"exerciseName30" = "ひねった下を向いた犬のポーズ";
+
+"exerciseName31" = "カエルのポーズ";
+
+"exerciseName32" = "わしの腕で行う達人のポーズ";
+
+"exerciseName33" = "わしのポーズ";
+
+"exerciseName34" = "耳をはさむポーズ";
+
+"exerciseName35" = "ねじりのポーズ";
+
+"exerciseName36" = "安楽座のポーズでの前屈";
+
+"exerciseName37" = "八曲がりのポーズ";
+
+"exerciseName38" = "伸びをする子犬のポーズ";
+
+"exerciseName39" = "腕をからめたサイドアングルのポーズ";
+
+"exerciseName40" = "腕を伸ばした変形サイドアングルのポーズ";
+
+"exerciseName41" = "サイドアングルのポーズ";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "薪のポーズ";
+
+"exerciseName44" = "魚のポーズ";
+
+"exerciseName45" = "門のポーズ";
+
+"exerciseName46" = "女神のポーズ";
+
+"exerciseName47" = "虎のポーズ";
+
+"exerciseName48" = "ひねったラクダのポーズ";
+
+"exerciseName49" = "片側のカエルのポーズ";
+
+"exerciseName50" = "バッタのポーズ";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "立位の半蓮のポーズ";
+
+"exerciseName53" = "片足での猿王のポーズ";
+
+"exerciseName54" = "下向き半月のポーズのバリエーション";
+
+"exerciseName55" = "半月のポーズ";
+
+"exerciseName56" = "肩立ちのポーズ";
+
+"exerciseName57" = "マリーチのポーズIII";
+
+"exerciseName58" = "頭立ちのポーズ";
+
+"exerciseName59" = "三点頭立ちのポーズ";
+
+"exerciseName60" = "ハッピーベイビーのポーズ";
+
+"exerciseName61" = "サギのポーズ";
+
+"exerciseName62" = "ねじったランジのポーズ";
+
+"exerciseName63" = "ハイランジのポーズ";
+
+"exerciseName64" = "謙虚な戦士のポーズ";
+
+"exerciseName65" = "大きなコブラのポーズ";
+
+"exerciseName66" = "踊り子のポーズ";
+
+"exerciseName67" = "パワンムクタサナのポーズのバリエーション";
+
+"exerciseName68" = "八点立ちのポーズ";
+
+"exerciseName69" = "トカゲのポーズ";
+
+"exerciseName70" = "バッタのポーズのバリエーション";
+
+"exerciseName71" = "ひねった三日月のポーズ";
+
+"exerciseName72" = "三日月のポーズ";
+
+"exerciseName73" = "人魚のポーズ";
+
+"exerciseName74" = "片足の上向きの弓のポーズ";
+
+"exerciseName75" = "うさぎのポーズ";
+
+"exerciseName76" = "鳩のポーズの準備";
+
+"exerciseName77" = "ピラミッドのポーズ";
+
+"exerciseName78" = "片足の鳩のポーズ";
+
+"exerciseName79" = "天秤のポーズ";
+
+"exerciseName80" = "橋のポーズ";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "手を上げた山のポーズのバリエーション";
+
+"exerciseName83" = "板のポーズ";
+
+"exerciseName84" = "仰向けで親指をつかむポーズB";
+
+"exerciseName85" = "鋤のポーズ";
+
+"exerciseName86" = "虎のポーズの弓のバリエーション";
+
+"exerciseName87" = "穏やかな戦士のポーズ";
+
+"exerciseName88" = "半月ねじりのポーズ";
+
+"exerciseName89" = "頭をひざにつけるポーズ";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "横たわった鳩のポーズ";
+
+"exerciseName92" = "頭をひざにつけるねじりポーズ";
+
+"exerciseName93" = "三角ねじりのポーズ";
+
+"exerciseName94" = "ローランジのポーズ";
+
+"exerciseName95" = "立位の足指をつかむねじりポーズのバリエーション";
+
+"exerciseName96" = "仰向けのねじりのポーズ";
+
+"exerciseName97" = "仰向けで腕をからめたアングルポーズ";
+
+"exerciseName98" = "仰向けで足指をつかむポーズA";
+
+"exerciseName99" = "座位の前屈のポーズ";
+
+"exerciseName100" = "立位の足指をつかむポーズ D";
+
+"exerciseName101" = "横向きの板のポーズ";
+
+"exerciseName102" = "牛の顔のポーズの腕";
+
+"exerciseName103" = "座位のサイドベントのポーズ";
+
+"exerciseName104" = "肩立ちのバリエーション";
+
+"exerciseName105" = "後ろに反る月のポーズ";
+
+"exerciseName106" = "立位の足指をつかむポーズD";
+
+"exerciseName107" = "指を組んだバッタのポーズのバリエーション";
+
+"exerciseName108" = "杖のポーズ";
+
+"exerciseName109" = "スフィンクスのポーズ";
+
+"exerciseName110" = "変形横向きの板のポーズ";
+
+"exerciseName111" = "足を広げた前屈のポーズ";
+
+"exerciseName112" = "花輪のポーズ";
+
+"exerciseName113" = "座位の開脚前屈のポーズ";
+
+"exerciseName114" = "開脚前屈のポーズC";
+
+"exerciseName115" = "足指をつかむねじりポーズのバリエーション";
+
+"exerciseName116" = "腕をからめた花輪のポーズ";
+
+"exerciseName117" = "下向きの英雄のポーズ";
+
+"exerciseName118" = "ひねりを加えた開脚前屈のポーズ";
+
+"exerciseName119" = "サイドストレッチを加えた開脚前屈のポーズ";
+
+"exerciseName120" = "アナンタのポーズ";
+
+"exerciseName121" = "上向きの合せきのポーズ";
+
+"exerciseName122" = "戦士のポーズ２";
+
+"exerciseName123" = "指を組んだ立位のサイドベントのポーズ";
+
+"exerciseName124" = "立位の前後開脚のポーズ";
+
+"exerciseName125" = "立位の前屈のポーズ";
+
+"exerciseName126" = "立位の足指をつかむポーズA";
+
+"exerciseName127" = "肩を開いた立位の前屈のポーズのバリエーション";
+
+"exerciseName128" = "戦士のポーズ１";
+
+"exerciseName129" = "戦士のポーズ３";
+
+"exerciseName130" = "立位のサイドベントのポーズ";
+
+"exerciseName131" = "支えを使った肩立ちのポーズ";
+
+"exerciseName132" = "上向きの板のポーズ";
+
+"exerciseName133" = "前屈を加えた立位で足指をつかむポーズC";
+
+"exerciseName134" = "ひねりを加えた立位の前屈のポーズ";
+
+"exerciseName135" = "支えを使った後ろに反る月のポーズ";
+
+"exerciseName136" = "四肢で支える杖のポーズ";
+
+"exerciseName137" = "テーブルのポーズと四肢で支える杖のポーズ";
+
+"exerciseName138" = "上向きの弓のポーズ";
+
+//Exercise description
+
+"exerciseDescription1" = "足を腰の幅に広げて立ち、足の外側がお互いに平行になるようにします。背骨を伸ばして、みぞおちを背骨に向かって引き上げます。頭のてっぺんを上に押し上げるとともに、尾てい骨をかかとに向かって引き下げます。";
+
+"exerciseDescription2" = "地面に座り、左ひざを曲げ、左足の外側が右の太ももの下の右の坐骨結節の前の場所に来るようにします。その後、右足の外側を持って、左の太ももの付け根まで持ってきます。手のひらをひざに置いて、肩をリラックスさせて、背筋を伸ばして座ります。左右を入れかえて、左足が上に来る方も行います。";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = "足を腰の幅に広げて立ちます。腕をまっすぐ前に伸ばして、手のひらを下に向けます。ひざを曲げて、母指球の上に来るようにかかとを上げます。";
+
+"exerciseDescription5" = "仰向けに横たわり、手を組んで頭の後ろに置きます。左の足首を右の足首の上に交差させます。上半身と脚を右に動かして、身体全体を右に曲げます。一度、真ん中に戻ったら、交差している足首を入れかえて、右脚が上になるようにして、次は身体全体を左に曲げます。";
+
+"exerciseDescription6" = "足を腰の幅に広げて立ち、前に身体を倒します。ひざを曲げ、右腕を前に出して、両足の間に腕を通して、ひじを曲げ、右手が右のお尻の外側に届くようにします。左ひじを背中の後ろで曲げて、左手を右のお尻の外側に伸ばします。左の手首を右手でつかみます。（手首に届かない場合には、両手の指先がひっかかるようにしてみましょう。）\n \n右のお尻の外側の近くで両手がつながったら、右のかかとを上げて、体重を左足に移動させて、左脚で立ちます。右ひざを曲げたままで、左脚を伸ばし、背骨を伸ばしましょう。最後に、右腕を右脚に押しつけて、右脚を横に伸ばします。\n \n 左右を入れかえて、右足で立って、腕が左脚を抱える方も行います。";
+
+"exerciseDescription7" = "両ひざを曲げて座り、足の裏を身体の前につきます。両手を太ももの下に置いて、足を地面から離して、坐骨結節の上でバランスを取ります。腰を丸めずに、両足をできる限り伸ばします。次第に慣れてきて、柔軟性が増したら、両手を足先に向けてスライドさせることができるようになり、最終的にはそれぞれの手の３本の指で足の親指をつかめるようになるかもしれません。";
+
+"exerciseDescription8" = "ひざを曲げて座り、足の裏を身体の前につき、腕を前に伸ばします。足を地面から離して、すねが天井と平行になるようにし、腕は足の両側で伸ばします。坐骨結節の上でバランスを取り、最低でも呼吸５回はその姿勢を維持します。";
+
+"exerciseDescription9" = "腹ばいになり、ひざを曲げて、後ろから足首の外側をつかみます。頭と胸と脚を地面から離します。脚が腰の幅よりも広がらないようにしながら、頭のてっぺんとすねが天井に向かって伸びるようにします。";
+
+"exerciseDescription10" = "ひざを曲げて仰向けになり、足は腰の幅で地面につき、足の外側がお互いに平行になるようにします。足首の外側を手でつかみ、骨盤を地面から離し、胸を反らせて持ち上げます。";
+
+"exerciseDescription11" = "すねがお互いに平行になるようにひざをつき、足の甲を地面につきます。お尻がひざの真上に来るようにし、肩がお尻の真上に来るようにします。胸を上に向けて反り、お尻がひざの上から動かないようにしながら、身体の後ろでかかとをつかみます。";
+
+"exerciseDescription12" = "両手と両ひざをついて、肩が手首の真上、お尻がひざの真上に来る姿勢から始めます。息を吐きながら背骨を曲げて、頭が地面の方へ下がり、みぞおちが背骨の方に引き上げられ、尾てい骨が地面に向かって動くようにします。";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "両足が腰の幅になるように立ち、足の外側がお互いに平行になるようにします。息を吸いながら、両腕を耳につくように伸ばし、手のひらは互いに向かい合わせになるようにします。腕は肩幅を維持するようにしながら、ひざを曲げて、お尻を後ろに突き出します。太ももが地面に平行になるようにし、その場所から動かないようにしながら、下腹部と胸を引き上げるようにします。";
+
+"exerciseDescription15" = "両足の親指をくっつけて立ち、足の外側がお互いに平行になるようにします。ひざを曲げ、胸の前で両手を合わせます。息を吸いながら、背骨を伸ばし、お尻は低い位置を維持します。息を吐きながら、身体を右にひねり、左ひじを右の太ももの外側にひっかけます。息を吸いながら、両手を胸の前で拝む位置に置いたまま、身体を正面に戻します。息を吐きながら、今度は左に、同じ様に身体をひねります。";
+
+"exerciseDescription16" = "両足の親指をくっつけて立ち、足の外側がお互いに平行になるようにします。ひざを曲げ、胸の前で両手を合わせます。息を吸いながら、背骨を伸ばし、お尻は低い位置を維持します。息を吐きながら、身体を右にひねり、左ひじを右の太ももの外側にひっかけます。腕をT字に広げ、左手の指先は右足首の外側の地面に向かって伸び、右腕は空に向かって伸びるようにします。目線は、右手の手のひらを見上げるようにします。\n\n 息を吸いながら、両手を胸の前で拝む位置に置いたまま、身体を正面に戻します。息を吐きながら、今度は左に、同じ様に身体をひねり、右ひじを左の太ももの外側にひっかけます。腕を広げ、今度は右手の指先が左足首の外側に伸び、左腕が空に向かって伸びるようにします。目線は左手の手のひらを見上げるようにします。";
+
+"exerciseDescription17" = "両手と両ひざをついた姿勢から始めます。両足の親指をくっつけて、かかとの上に腰かけながら、おでこが地面につくようにします。両腕は身体の両脇に伸ばし、手のひらが上を向くようにします。";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = "腹ばいになって、両手の手のひらをウエストのすぐ上、肋骨の下のあたりで、身体の脇につきます。上半身を地面から離し、両手で押し上げ、ひざ・すね・足の甲は地面についたままにします。尾てい骨はかかとに向かって伸びるようにし、下腹部の筋肉に力を入れて、腰に不快感を感じない範囲で腕を伸ばします。\n\n 左の手のひらを地面につけたまま、胸と頭を右に振って、右手を右の太ももの裏側までスライドさせます。正面に身体を戻したら、左側も行います。";
+
+"exerciseDescription20" = "仰向けに寝て、両腕を身体の脇に伸ばして、手のひらは上を向けます。目を閉じて、筋肉をリラックスさせ、体重が地面に支えるようにします。";
+
+"exerciseDescription21" = "両手と両ひざをついた姿勢から始めます。息を吸いながら、背中を曲げ、あごを上げ、目線を上に向けます。";
+
+"exerciseDescription22" = "地面に座り、ひざを曲げて、右ひざを左ひざの上に乗せます。みぞおちの前でひざが重なり、両方のかかとの幅の間に座っている状態になります。左腕を天井に向けて伸ばし、左ひじを曲げ、指先が背中に向くようにします。右腕を右側に伸ばし、手のひらは背中側に向けて、右ひじを曲げて、指先が背中に向くようにします。右手と左手の指先がひっかかるようにします。左右を入れかえて、左ひざが上で、右腕が上になる方も行います。";
+
+"exerciseDescription23" = "地面に座り、ひざを曲げて、右ひざを左ひざの上に乗せます。みぞおちの前でひざが重なり、両方のかかとの幅の間に座っている状態になります。背骨を伸ばしながら、耳に沿って腕を伸ばします。左右を入れかえて、左ひざが右ひざの上に来る方も行います。";
+
+"exerciseDescription24" = "ひざを曲げて座り、足は身体の前で腰の幅に広げて、地面につきます。両手を身体の後ろで肩幅に広げて、指先が前を向くようにつきます。骨盤を地面から離して、ひざが90度に曲がるようにします。ひざは足首の真上に来るようにし、肩は手首の真上に来るようにします。それぞれの手の親指と人差し指で地面を押すようにします。初めは、首を背骨と一直線にして、鼻が天井を向くようにします。頚椎に問題を抱えていない場合には、頭をゆっくりと後ろに下ろして、頭がい骨の底が肩甲骨のすぐ上にぶら下がっている状態にすることもできます。";
+
+"exerciseDescription25" = "両足をそろえて、身体を前に倒して立ちます。ひざを曲げ、足のおよそ30cm前に肩幅に広げて、指先で地面を掴むように手のひらをつきます。かかとを地面から離し、お尻を持ち上げ、ひざを二の腕の後ろ側の上に下ろして、腕で土台を作るようにします。ひじはおよそ90度に曲げ、手首の真上に来るようにします。目線は手のひらをついた地面に向けて、ゆっくりと手の方へと体重を移動させます。肩が少し前に移動し、身体の全体重が手にかかるようになったら、片足または両足を地面から離す練習をしましょう。次第に慣れてきたら、つま先を伸ばして、坐骨結節の方へ近づけるようにしましょう。";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = "腹ばいになり、ひじで身体を支え、前腕がお互いに平行になり、ひじが肩幅になるようにします。ひじをお尻の方に引きつけながら、両腕の間から胸を前に突き出します。つま先は伸ばして、尾てい骨をかかとの方へスライドさせます。";
+
+"exerciseDescription28" = "腹ばいになり、ひじで身体を支え、前腕がお互いに平行になり、ひじが肩幅になるようにします。つま先で足を支え、太ももと骨盤を地面から離します。肩がひじの真上に来るようにし、お腹を腰の方へ持ち上げます。太ももの前面に力を入れ、恥骨をみぞおちに向かって引き上げることで、お尻が上に突き出ないようにします。";
+
+"exerciseDescription29" = "両手と両ひざをつき、手首が肩の真下に来て、指を広げた姿勢から始めます。足を後ろに引いて、板のポーズになります。脚とお腹に力を入れて、腕立て伏せの腕を伸ばした状態です。そこから、お尻を上にあげ、胸を脚に向けて押しつけ、かかとを地面に向けて伸ばします。上半身を脚の方へ押すために両手で地面を押します。それぞれの手の親指と人差し指でしっかりと支え、足は腰の幅に広げ、かかとは足の人差し指と中指の後ろに来るようにします。";
+
+"exerciseDescription30" = "両手と両ひざをつき、手首が肩の真下に来て、指を広げた姿勢から始めます。足を後ろに引いて、板のポーズになります。脚とお腹に力を入れて、腕立て伏せの腕を伸ばした状態です。そこから、お尻を上にあげ、胸を脚に向けて押しつけ、かかとを地面に向けて伸ばします。上半身を脚の方へ押すために両手で地面を押します。それぞれの手の親指と人差し指でしっかりと支え、足は腰の幅に広げ、かかとは足の人差し指と中指の後ろに来るようにします。\n\n 左の手のひらを地面についたまま、右腕を脚と脚の間に伸ばして、左の足首かふくらはぎをつかみます。その後、お尻の外側に手を移動させながら、左の手のひらで地面をしっかり押します。左右を入れかえて、繰り返します。";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = "ひざを左右に開いて、恥骨の前に足がある状態で座り、左足が右足の前に来るようにします。両ひじを曲げて、右ひじを左ひじの下にひっかけます。手首の所で再び交差させて、手のひらが向き合うようにします。ひじを上にあげて、手のひらを前に突き出します。左右を入れかえて、右足が前、左ひじが下になるようにして、繰り返します。";
+
+"exerciseDescription33" = "両足をそろえて立ち、右足のかかとを地面から離します。ひじを曲げて、右ひじを左ひじの下にひっかけます。手首の所で再び交差させて、手のひらが向き合うようにします。ひじを上げて、手のひらを前に突き出します。\n\n左ひざを曲げて、右ひざを左ひざの上に交差させて、左脚でバランスを取りながら、右足の親指を左足首の内側にひっかけます。お尻を後ろに突き出しながら、胸を張って、ひじを上げ続けます。";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = "ゆったりとあぐらをかき、両方の手のひらをひざに当てます。息を吸いながら、背骨を伸ばします。息を吐くときに、左へ身体をねじり、左手の指先を身体の後ろで地面につき、右手は左ひざへ置きます。息を吸いながら正面に戻し、息を吐きながら右へ身体をねじり、右手の指先を身体の後ろで地面につき、左手は右ひざへ置きます。";
+
+"exerciseDescription36" = "ゆったりとあぐらをかきます。身体の前で両手をつき、腕がまっすぐになるまで前へ手を歩かせます。おでこが地面につかない場合には、折りたたんだ毛布やタオルなどの上に置いて、首を支えます。反対側の脚を上にして、繰り返します。";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = "両手と両ひざをついた姿勢から始めます。お尻はひざの真上に来るようにし、両手は肩幅に広げ、手をできるだけ前まで歩かせます。胸は地面にもたれかかるようにします。";
+
+"exerciseDescription39" = "足はお互いに平行な状態で、脚を大きく広げた姿勢を取ります。右足を外側に90度回し、右ひざを90曲げ、右の太ももが地面に平行になるようにします。右ひざは右足首の真上に来るようにし、左脚はつま先を少し内側に回して伸ばします。体幹の右側が右の太ももの上に来るように身体を伸ばし、右腕は右脚の内側に来るようにします。\n\n 右腕を太ももの下に通して、ひじを曲げ、手を右のお尻の外側に向けて伸ばします。右手で左の手首をつかみます。（手首に届かない場合には、両手の指先が引っかかるようにしてください。）\n\n 腕を右脚の周りにからめたら、右のお尻を身体の下に引きつけ、後ろに身体を倒して、体幹の右側が太ももにつかないようにします。左足を地面に押し付け、右ひざは脚の人差し指と中指の真上からずれないようにします。\n\n 左側でも、腕を左脚にからめて、手が左のお尻の外側で合わさるようにして、行ってください。";
+
+"exerciseDescription40" = "足はお互いに平行な状態で、脚を大きく広げた姿勢を取ります。右足を外側に90度回し、右ひざを90曲げ、右の太ももが地面に平行になるようにします。右ひざは右足首の真上に来るようにし、左脚はまっすぐ伸ばします。体幹の右側が右の太ももの上に来るように身体を伸ばし、右ひじを軽く右の太ももの上に置き、手のひらを上に向けます。左腕を左耳につけて伸ばし、みぞおちを右足から話すように回して、左側に視線を向けます。左脚を地面に押し付け、右ひざは脚の人差し指と中指の真上からずれないようにします。左側でも同様に行います。";
+
+"exerciseDescription41" = "足はお互いに平行な状態で、脚を大きく広げた姿勢を取ります。右足を外側に90度回し、右ひざを90曲げ、右の太ももが地面に平行になるようにします。右ひざは右足首の真上に来るようにし、左脚はつま先を少し内側に回して伸ばします。\n\n体幹の右側が右の太ももの上に来るように身体を伸ばし、右手は右足の内側につき、肩が手首の真上に来るようにします。左腕を真上に伸ばし、左手に視線を向けます。左脚を地面に押し付け、右ひざは脚の人差し指と中指の真上からずれないようにします。左側でも同様に行います。";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = "地面に座り、左ひざを曲げて左に開いて、脚の外側が地面に付き、すねがマットの前のラインと平行になるようにします。右ひざを曲げて右に開き、右すねを左すねの上に置いて、右ひざが左足首の上に来て、右足首が左ひざの上に来るようにします。できる範囲で、ゆっくりと前に身体を倒します。左右を入れかえて、左すねを上にして、同様に行います。";
+
+"exerciseDescription44" = "仰向けに寝て、腕は身体の横に、手のひらは下を向けます。胸を天井に向けて持ち上げ、頭を後ろに倒し、頭のてっぺんが地面に軽くつくようにします。脚を地面に対して45度の高さに上げます。";
+
+"exerciseDescription45" = "お尻がひざの真上に来るようにひざをついて、両すねが平行になるようにし、足の甲を床につけます。右足を右に踏み出し、脚が右に伸び、つま先が右の地面を向くようにします。右手を右の太ももに置き、左腕を左耳につけて伸ばします。右側に身体を倒しながら、右手を右足首に向けてスライドさせます。左側でも同様に行います。";
+
+"exerciseDescription46" = "最低でも脚の長さぐらい足を広げて立ちます。両方のつま先を外に向けて、両ひざを曲げ、ひざが足首の上に来るようにします。ひざの内側を足の小指に向けて後ろ側に押し、ひじをそれぞれ曲げ、腕でサボテンのような形を作ります。";
+
+"exerciseDescription47" = "両手と両ひざをつき、指を広げ、手首が肩の真下に来て、ひざがお尻の真下に来る姿勢から始めます。指先と足の甲を地面に押し付け、右脚を地面から離して、後ろに伸ばします。お腹と肋骨の前面を背中に向けて持ち上げます。左右を入れかえて、右すねを地面につけ、左脚を上げる方も行います。";
+
+"exerciseDescription48" = "両すねが平行になるようにひざをつき、足の甲を地面につけて、お尻はひざの真上に来るようにし、肩はお尻の真上に来るようにします。胸を天井に向けて持ち上げ、お尻をひざの真上から動かさずに、後ろに両手を伸ばして、かかとをつかみます。\n\n左手で左のかかとをつかんだままにして、息を吸いながら、右腕を空に向けて伸ばします。胸を左にひねりながら、息を吐きます。その後、右手を右のかかとに戻して、胸を空に向けます。\n\n 息を吸って、左腕を空に向けて伸ばします。息を吐きながら、胸を右にひねります。両手をかかとに戻して、胸を天井に向けて反らし、その後かかとの上に座り、両手を太ももに置いて、ポーズを終わらせます。";
+
+"exerciseDescription49" = "腹ばいになって、ひじで身体を支え、前腕がお互いに平行になるようにし、ひじは肩幅に広げます。左手を右に動かし、手のひらを下に向けて、左の前腕が目の前のマットのラインと平行になるようにします。右ひざを曲げ、右手で右足の甲をつかみ、右のかかとをお尻の外側に引きつけます。手のひらの根元を足の甲につけたまま、右の指先を右に回し、かかとの方を向くようにします。右の胸を前に向けたまま、右のひじを右側に開いて曲げます。左側でも繰り返します。";
+
+"exerciseDescription50" = "腹ばいになって、あごを地面につけ、腕を身体の脇につけ、手のひらは下を向けます。両腕を体幹の下にもぐり込ませ、手を組みます。両脚を地面から離し、つま先を伸ばします。\n\n両脚の力を抜いて地面に下ろし、手を離し、手のひらを下に向けます。次に、右脚を浮かせます。そして、右脚を下ろして、左脚を上げます。最後に、左脚を地面に下ろします。";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = "両足をそろえて立ち、体重を左足に移動させ、右ひざを胸に抱え込みます。右足の外側を左手でつかみ、左脚の付け根に当てます。両腕を耳に沿って伸ばします。左右をいれかえて、右脚で立ち、左ひざを曲げて、左足の外側を右脚の付け根に当てて、こちら側も同様に行います。";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = "足を前に伸ばして座ります。左ひざを曲げて、左足を右脚の内側で地面につきます。左手を身体の後ろで地面につきます。息を吸いながら、右腕を耳に沿って上げ、背骨を伸ばします。息を吐きながら、身体を左にひねり、右ひじを左の太ももの外側にひっかけます。左右を入れかえて、右ひざを曲げて、右にひねる方も行います。";
+
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = "仰向けに横たわり、ひざを曲げ、足の外側をつかみます。手で足を押して、ひざが脇の下に来るようにして、太ももの内側を伸ばします。腰はできるだけ地面につけたままにします。";
+
+"exerciseDescription61" = "ひざをくっつけ、足の甲を地面につけて、かかとの間に座ります。右足を身体の前で地面につき、右足の土ふまずの下で指を組みます。右足を上に向けて伸ばしながら、背骨を伸ばし、胸を右足の甲に近づけます。";
+
+"exerciseDescription62" = "左足を前にして、両手の指先を地面についた左足の両側について、ランジの姿勢から始めます。左ひざが足首の真上で90度に曲がり、右足は後ろに伸び、右足の母指球が地面についていることを確認します。お腹が左の太ももにつかないようにし、胸の前で拝むように手を合わせます。息を吸いながら背骨を伸ばし、息を吐きながら身体を左にひねって、右ひじを左ひざの外側にひっかけます。左の手のひらを右の手のひらに押し付け、左肩の上から後ろを見るようにし、右のかかとは上に向かって伸ばします。左右を入れかえて、右足を前にし、右にひねる方も行います。";
+
+"exerciseDescription63" = "右ひざが足首の真上で90度に曲がるようにランジの姿勢に踏み出し、左脚は後ろに伸ばして、左足の母指球が地面につくようにします。肩がお尻の上に来るように引き上げ、両手を腰に当て、右のお尻を後ろに引きながら、左のお尻は正面を向いたままにします。両腕を耳に沿って上げます。左右を入れかえて、左足を前にして同様に行います。";
+
+"exerciseDescription64" = "右ひざが足首の真上で90度に曲がるようにランジの姿勢に踏み出し、左脚は後ろに伸ばして、左足の母指球が地面につくようにします。肩がお尻の上に来るように引き上げ、指を背中で組みます。右脚の内側で身体を前に倒し、頭のてっぺんが地面を向くようにし、両手を腰から遠ざけるようにします。右のお尻を抱え込むようにしながら、左のかかとを天井に向けて伸ばします。左右を入れかえて、左足を前にして、指の組み方も反対（つまり、反対側の親指が上に来る）にして、同様に行います。";
+
+"exerciseDescription65" = "腹ばいに横たわり、両手の手のひらを胸の両脇につきます。両手で上半身を地面から押し上げます。両ひざを曲げ、つま先を伸ばし、胸を反らして、足と頭のてっぺんが近づくようにします。";
+
+"exerciseDescription66" = "両足をそろえて立ち、右腕を肩の高さで前に伸ばします。体重を右足に移動させながら、左ひざを曲げ、左足を左の坐骨結節に向けて持ち上げて、左手で左足の内側をつかみます。左の太ももを後ろに引っ張りながら、胸を前に出して、左ひざを身体の中心線に引き寄せます。右腕は天井に向けて上げ、胸は左の太ももの裏側から遠ざけるように反らします。左右を入れかえて、左足で立って、同様に行います。";
+
+"exerciseDescription67" = "仰向けになり、地面に両脚を伸ばします。左ひざを胸に引き寄せ、指を脚の外側で組みます。左右を入れかえて、左足を伸ばし、右ひざを曲げて、同様に行います。";
+
+"exerciseDescription68" = "両手と両ひざをついた姿勢から始め、手首が肩の真下、ひざがお尻の真下に来るようにし、つま先をついて、かかとを上げます。息を吸いながら、背中を丸めます。次に、息を吐きながら、坐骨結節を持ち上げたままで、両ひじを曲げ、胸とあごが地面につくようにします。反対向きのポーズとして、仰向けに横になり、胸に両ひざを抱え込み、腰を伸ばすこともできます。";
+
+"exerciseDescription69" = "右足を前にして、両手の指先を地面についた右足の両側について、ランジの姿勢から始めます。右ひざが足首の真上で90度に曲がっていることを確認します。左のひざと足の甲を地面まで下げます。右の手のひらを右足の内側につき、両ひじを地面に向けて下げて、両ひじが右のかかととそろい、両方の前腕がお互いに平行になるようにします。右ひざを右肩に向けて引き寄せ、背骨を伸ばし、胸と頭のてっぺんを前に出します。左右を入れかえて、繰り返します。";
+
+"exerciseDescription70" = "腹ばいになり、両腕を身体の脇に置きます。腕を地面から離し、手のひらを上に向け、親指を後ろに伸ばします。胸、頭、両脚を地面から離します。つま先を伸ばして、両足を後ろに伸ばします。";
+
+"exerciseDescription71" = "右足を前にして、両手の指先を地面についた右足の両側について、ランジの姿勢から始めます。右ひざが足首の真上で90度に曲がっていることを確認します。左のひざと足の甲を地面まで下げます。脚を登るように両手を右の太ももまで上げながら、胸を引き上げて、肩がお尻の真上に来るようにします。\n\n息を吸いながら、背骨を伸ばし、身体を右にひねり、左手を右ひざの外側に起き、右手を左の太ももの外側にぶら下げます。右肩から後ろを見るようにすれば、ポーズの完成です。\n\n左側でも同様に行います。";
+
+"exerciseDescription72" = "右足を前にし、右ひざが足首の真上に来るようにして、ランジの姿勢から始めます。左のひざを身体の後ろ側で地面まで下げ、右太ももの内側に向けて左のお尻を突き出します。両腕を耳に沿って伸ばし、お腹が右太ももから離れるようにし、空に向けて胸を反ります。両手の間から上を見るようにします。";
+
+"exerciseDescription73" = "両手と両ひざをついた姿勢から始めます。左ひざを左手首のすぐ後ろに置き、左足の外側が右手首のすぐ後ろに来るようにします。右足を身体の後ろに伸ばして、つま先を立てて、右足をできるだけ後ろまで引っ張ってから、右のひざと足の甲を地面につきます。両肩がお尻の上に来るように持ち上げ、左足の外側が右のお尻の前に来るようにします。右ひざを曲げ、右足を右手でつかみ、右足を右のお尻の外側に向けて引っ張ります。右足を右ひじの内側に滑り込ませます。左腕を耳に沿って伸ばし、左ひじを曲げて、指先が地面に向くようにします。胸を張りながら、右手と左手の指をからめます。";
+
+"exerciseDescription74" = "仰向けになって、両腕を身体の脇において、両足の足の裏をお尻の幅に広げて地面につきます。両足の外側がお互いに平行になるようにし、指先がかかとに軽く触れるようにします。両ひじを曲げて、両手を肩の下で地面につきます。骨盤・胸・頭を地面から離します。太ももを内側に回転させて、太ももの外側が太ももの内側に向かってらせんを描くようにします。両腕で胸を押し上げます。\n\n両足をそろえて、体重を左足に移動させて、右ひざを曲げて、胸に引き上げます。右脚を上に向かってまっすぐ伸ばします。右脚を地面に戻したら、同様に左脚を引き上げます。";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = "両手と両ひざをついた姿勢から始めます。左ひざを左手首のすぐ後ろに置き、左足の外側が右手首のすぐ後ろに来るようにします。右脚を身体の後ろに伸ばして、つま先を立てて、右足をできるだけ後ろまで引っ張ってから、右のひざと足の甲を地面につきます。両肩がお尻の上に来るように持ち上げ、左足の外側が右のお尻の前に来るようにし、両手を身体の脇に置いて背中を伸ばします。その後、右ひざを前にして、同様に繰り返します。";
+
+"exerciseDescription77" = "両足をそろえて立ちます。左足をおよそ脚の長さと同じだけ後ろに引いて、外に30度開きます。息を吸いながら、左のかかとで地面を押して、背骨を伸ばし、次に息を吐きながら、右足の周りに両手をつきながら右脚の上に身体を倒します。その後、左右を入れかえて、左足を前にして、同じように繰り返します。";
+
+"exerciseDescription78" = "両手と両ひざをついた姿勢から始めます。右ひざを右のお尻のすぐ前に置いて、右足を左手首の後ろにできるだけ近づけて置きながら、体重は身体の中心からずれないようにします。左脚を身体の後ろに伸ばして、つま先を立てて、左足をできるだけ後ろまで引っ張ってから、左のひざと足の甲を地面につきます。左足の親指がまっすぐ後ろに向いて、体重が身体の中心からずれていない（つまり、右側に寄りかからない）ことを確認したら、右すねの上に来るように身体を倒します。左右を入れかえて、左ひざを前にして、同じように繰り返します。";
+
+"exerciseDescription79" = "両脚を前に伸ばして座ります。右ひざを曲げて、右足の外側が左足の付け根の上に来るようにします。次に、左足を曲げて、左すねが右すねの上に来るように交差させて、左足を右足の付け根の上に置きます。（この形を作れない場合には、ひざを痛める可能性があるので無理に行わないでください。その代わりに、左の足首を右脚に交差させるようにします。）\n\n両手の手のひらを太ももの外側の、お尻の５～10cm前に前に置きます。息を吐きながら、みぞおちを背骨の方に引き上げ、指先で地面を押して、骨盤と太ももを地面から浮かせます。左右を入れかえて、右のすねや足首を左足の上に乗せて、同じように繰り返します。";
+
+"exerciseDescription80" = "仰向けになって、両腕を身体の脇において、両足の足の裏をお尻の幅に広げて地面につきます。両足の外側がお互いに平行になるようにし、指先がかかとに軽く触れるようにします。骨盤を地面から浮かせて、二の腕を身体の下でお互いに近づけ、地面の上で指を組みます。両腕の後ろ側で地面を押して、胸を持ち上げます。\n\n両足をそろえて、右ひざを胸に引きつけて、右脚を空に向けて伸ばします。右脚を地面に戻したら、左脚を同様に持ち上げます。";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = "腰の幅に足を広げて立ちます。身体の前で指を組んで、手のひらが外側を向くようにひっくり返して、耳の沿って腕を伸ばすことで、手のひらが天井を向くようにします。手の組み方を逆にして、繰り返します。（つまり、上になる親指を逆にする）";
+
+"exerciseDescription83" = "両手と両ひざをついた姿勢から始めます。肩が手首の真上にある状態のままで、足を後ろに引き、腕立て伏せの腕を伸ばした姿勢になります。地面についているのは、両手と、両足の母指球だけになります。指先で地面を押して、お腹を腰に向けて持ち上げて、かかとが真上を向くようにします。頭のてっぺんを前に向けて、首を伸ばします。お尻を突き出さないように気をつけて、その代わりに恥骨をみぞおちに向かって引き上げてください。";
+
+"exerciseDescription84" = "仰向けになって、足を伸ばして、かかとを地面について、つま先を天井に向けます。左ひざを胸に引きつけて、左腕が左脚の内側に来るようにして、左手の親指から中指の３本の指を左足の親指に回して、「ヨガ流のつま先の持ち方」でつかみます。右のお尻は床につけたままにして、右太ももを地面に押し付けながら、左脚を左の外側に伸ばしていきます。左右を入れかえて、右足の親指をつかむ方も同様に行います。";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = "両手と両ひざをついた姿勢から始めます。肩が手首の真上に来るようにして、右脚を地面から離して、天井に足をつくような形で右ひざを曲げます。左手を後ろに伸ばして、右足の甲をつかみます。胸を反りながら、足を手の方に向かって押し付けます。左右を入れかえて、同様に繰り返します。";
+
+"exerciseDescription87" = "脚を広く広げて、両足がお互いに平行になるような姿勢をとります。右脚を90度外側に回し、ひざを90度の角度で曲げて、右太ももの上が地面と平行になるようにします。右ひざは右の足首の真上に来るようにして、左脚はまっすぐに、左のつま先は若干内側に回します。左手は軽く左の太ももに置き、左腕は耳に沿って伸ばします。左脚の方へ向けて、身体を横に倒しながら、左手は脚に沿ってスライドさせます。右のお尻は身体の下に来るように引きつけながら、右ひざはやさしく小指の方へ向けて押し出します。左右を入れかえて、同様に繰り返します。";
+
+"exerciseDescription88" = "身体を前に倒した状態で立ち、胸を前に向けて伸ばしながら、指先は肩の真下で地面につきます。体重を左足に移動させて、お尻を水平に保ちながら、右脚を後ろにまっすぐ浮かせます。右手を地面につけながら、胸を左側にひねり、左腕を空に向かって伸ばします。視線は左手の方に向けます。";
+
+"exerciseDescription89" = "脚を身体の前に伸ばして座ります。左足の裏を右太ももの内側につけます。右足を軽く曲げたら、息を吸いながら、両腕を耳に沿って伸ばします。次に、息を吐きながら、ウエストではなく脚の付け根を曲げて、右脚の方へ身体を倒します。腰を丸めないように気をつけてください。左右を入れかえて、左脚を伸ばして、右ひざを曲げる方も同様に行います。";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = "脚を身体の前に伸ばして座ります。右足の裏を左太ももの内側につけます。上半身を右にひねり、左ひじを左ひざの内側で地面について、左手で左足の内側をつかみます。右腕を耳に沿って伸ばして、左足の甲を右手でつかみます。右のお尻は地面から離さないようにしながら、胸を空に向けて開きます。左右を入れかえて、左ひざを曲げ、右脚をまっすぐに伸ばして、右脚の上に身体を横に倒す方も同様に行います。";
+
+"exerciseDescription93" = "両足をそろえて立ちます。右足をおよそ脚の長さと同じぐらい後ろに引いて、足先を30度右に開きます。両手を腰に当てて、息を吸いながら、背骨を伸ばし、胸は地面と平行になるように前へ倒します。身体を左にひねりながら息を吐いて、右手を左脚の外側について、左腕を天井に向けて伸ばします。左右を入れかえて、右脚を前にして、右側にひねる方も同様に行います。";
+
+"exerciseDescription94" = "立って前に身体を倒した状態から、両ひざを曲げ、両手の指先を両足の外側でテントのようにつきます。左足を後ろに踏み出しながら、右ひざは90度に曲がるようにして、右足首の真上に来るようにします。胸を前に開いて、左のかかとを天井に向けて突き出します。左右を入れかえて、左ひざを前にした方も同様に行います。";
+
+"exerciseDescription95" = "両足を腰の幅に広げて立ちます。左手を左のウエストに当てて、体重を右足に移動させて、左ひざを胸まで持ち上げます。右手の親指から中指までの３本指を左足の親指の周りに回して、左脚を右側に伸ばしながら、上半身は左側に回します。";
+
+"exerciseDescription96" = "仰向けになって、両腕を左右に伸ばして、T字を作ります。両ひざを胸に抱え込み、ひざをそろえたまま左に倒し、目線は右へ向けます。両ひざを中心に戻し、後頭部を地面につけたら、今度は両ひざを右に倒し、目線は左へ向けます。";
+
+"exerciseDescription97" = "仰向けになり、足の裏をくっつけて、左右にひざを倒します。頭のてっぺんで、手でひじを持つように腕を組みます。";
+
+"exerciseDescription98" = "仰向けになり、両脚を伸ばして、かかとを地面につけて、つま先は天井を向くようにします。左ひざを胸に向けて引き寄せ、左腕が左脚の内側に来るようにして、左手の親指から中指までの３本指を左足の親指の周りに回します。右のお尻が地面から離れないようにして、右の太ももを地面に向けて押し付けながら、左脚を伸ばします。左の太ももはお腹の方に引きつけます。右側でも同様に繰り返します。";
+
+"exerciseDescription99" = "両脚を身体の前に伸ばして座り、かかとを地面につけ、つま先は空に向けて伸ばします。息を吸いながら、耳に沿って両腕を上げ、背骨を伸ばします。息を吐きながら、脚の付け根から身体を前に倒し、お腹が太ももの上に覆いかぶさるようにします。足をつかみ、もし余裕がある場合には、左右にひじを曲げて、さらに深く身体を前に倒しましょう。";
+
+"exerciseDescription100" = "両足をそろえてまっすぐに立ち、両手はウエストに当てます。右のつま先を伸ばしながら、右脚を身体の前に伸ばし、お尻を動かさずにできるだけ高く上げます。右足を元に戻して、体重を右脚に移動させたら、左脚を身体の前に伸ばして、同様に繰り返します。";
+
+"exerciseDescription101" = "板のポーズから始めます。腕立て伏せで腕を伸ばした姿勢で、肩は手首の真上、かかとは空に向かって突き出している状態です。体重を右側に移動させて、右足の外側に乗るように身体を回転させます。左足を右足の上に乗せて、左肩は右肩の上に来るようにします。左腕は空に向けて伸ばします。つま先は頭の方へ軽く曲げて、右手の指先、特に人差し指と親指で地面を強く押します。\n\n左ひざを左肩の方へ曲げて、左手の親指から中指の３本指を左足の親指に「ヨガ流のつま先の持ち方」になるように回します。左足を空に向けて伸ばし、左のお尻は右のお尻の上から動かないようにします。\n\n左右を入れかえて、右足を伸ばして左側でも同様に行います。";
+
+"exerciseDescription102" = "左脚を上にして、ゆったりとあぐらをかきます。両腕を耳に沿って伸ばし、両ひじを曲げて、指先が背中の方を向くようにします。右ひじを左手でつかみ、やさしく左側へ引きつけ、後頭部を右腕に押し付けます。その後、左腕を左側に向けて伸ばし、親指を下に向けて、左腕を下向きに回します。左腕が背中に来るように曲げて、背中で左の指先が上を向き、左ひじが下を向くようにします。可能であれば、指先をひっかけて、両手をつなぎます。\n\n左右を入れかえて、右脚を上にして、左腕を上にした方も同様に行います。";
+
+"exerciseDescription103" = "左脚を上にして、ゆったりとあぐらをかきます。右の前腕を地面について、指先が右を向くようにします。左のお尻が地面から離れないようにしながら、左腕を左耳に沿うように伸ばします。\n\n左右を入れかえて、右脚を上にして、右腕を耳に沿って伸ばす方も同様に行います。";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = "両足の幅が腰の幅よりも広くならないように立ちます。息を吸いながら、両腕を耳に沿って伸ばします。次に、息を吐きながら、胸を空に向けて反らして、後ろに身体を倒します。足の裏の内側をしっかり地面に押しつけて、太ももの内側を身体の後ろのスペースに向けて持ち上げます。次に息を吸うときに、背骨の前を伸ばして、次に息を吸うときに肋骨の前側を背中に向けて引きつけます。胸を反らしながら、骨盤の重さを地面に伝えます。";
+
+"exerciseDescription106" = "両足をそろえて立ちます。体重を左足に移動させ、右ひざを胸に引きつけます。右腕を右脚の内側に伸ばして、右手の親指から中指の３本指を「ヨガ流つま先の持ち方」になるように右足の親指に回します。お尻は正面を向けたままにし、右脚を右斜め45度に伸ばします。\n\n左右を入れかえて、右脚で立って、左脚を伸ばす方も、同様に行います。";
+
+"exerciseDescription107" = "腹ばいになって、おでこを地面につけ、指を身体の後ろで組みます。つま先を伸ばして、胸と頭を地面から離します。組んだ手を持ち上げて、身体の後ろ側に伸ばします。あごは胸から離して、鼻の先端に視線を固定します。\n\n指の組み方を反対（つまり、反対の親指が上に来る）にして、同様に繰り返します。";
+
+"exerciseDescription108" = "背筋を伸ばして座り、足は身体の前に伸ばし、かかとは地面につけ、つま先は上に向けます。ひじが肩の真下に来るように地面につけ、手のひらが下になるように両手を身体の脇に置きます。息を吸いながら、背骨を伸ばし、次に息を吐きながら、みぞおちを背骨の方へ向けて引き上げます。";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "両手と両ひざをついて、肩が手首の真上、お尻がひざの真上に来る姿勢で始めます。左足を後ろに踏み出して、つま先が左に向くようにして、かかとを地面につけます。右足が身体の後ろに来るように回して、足の甲が地面につき、つま先が右側を向くようにします。左肩が右肩の上に来るようにして、左腕を空に向けて伸ばします。左右を入れかえて、右脚を伸ばして、左すねが床につくようにして、同様に行います。";
+
+"exerciseDescription111" = "両足を少なくとも脚の長さ分だけ離して立ち、つま先はわずかに内側に回します。脚の付け根から身体を前に倒して、胸が地面を向くようにし、両手を肩の真下で地面につきます。頭のてっぺんを地面に向けて下げながら、両ひじが肩幅の広さを維持するように地面に向けて下げます。";
+
+"exerciseDescription112" = "足を腰の幅よりも少し開いて立ち、つま先は外に開きます。両ひざを曲げて、かかとの間にお尻を下げていきます。胸の前で両手を合わせて拝む形にし、両ひじを太ももの内側に当てます。両ひじで太ももの内側を押し、太ももでひじを押し返します。背骨を伸ばし、頭のてっぺんが上に伸び、尾てい骨が下に伸びるようにします。最後は、両足の外側をお互いに平行にすることができるかもしれません。";
+
+"exerciseDescription113" = "足を左右に開いて座り、つま先を空に向けます。息を吸いながら背骨を伸ばし、息を吐きながら脚の付け根を曲げて、両手を身体の前の方へ歩かせます。かかとの中心が地面から離れないようにし、身体を倒すにつれて骨盤全体が前に傾いていくようにします。";
+
+"exerciseDescription114" = "両足を少なくとも脚の長さ分だけ離して立ち、つま先はわずかに内側に回します。身体の後ろで指を組みます。脚の付け根から身体を前に倒し、足の間から頭のてっぺんを地面に向け、組んだ手を地面に近づけます。\n\n指の組み方を反対（つまり、反対の親指が上になるようにする）にして、同様に繰り返します。";
+
+"exerciseDescription115" = "地面に座り、脚を左右に広げて伸ばし、つま先は空を向くようにします。上半身を右にひねり、左ひじを左脚の内側で地面につき、左足の内側を左手でつかみます。右腕を耳に沿って伸ばし、左足の甲を右手でつかみます。右のお尻と右脚が地面から浮かないようにしながら、胸を空に向けて開きます。左右を入れかえて、右脚の上に身体を倒す方も同様に行います。";
+
+"exerciseDescription116" = "足を腰の幅よりも少し開いて立ち、つま先は外に開きます。両ひざを曲げて、かかとの間にお尻を下げていきます。胸の前で両手を合わせて拝む形にし、両ひじを太ももの内側に当てます。\n\n息を吸いながら背骨を伸ばし、息を吐きながら左に身体をひねり、両腕を左右に広げます。親指を下に向けて、両腕を内側に回します。左ひじは身体の後ろで曲げて、右ひじは右すねの外側で曲げます。可能であれば、右のお尻の外側で両手の指先をひっかけます。\n\n左右を入れかえて、右に身体をひねり、両腕が左脚を抱え込む方も同様に行います。";
+
+"exerciseDescription117" = "両手と両ひざをついた姿勢から始めます。両足の親指をそろえて、ひざを腰幅よりも広く広げます。両手を前に歩かせ、体幹が両足の間に入るようにして、おでこを地面につけて力を抜きます。";
+
+"exerciseDescription118" = "両足を少なくとも脚の長さ分だけ離して立ち、つま先はわずかに内側に回します。脚の付け根から身体を前に倒し、胸が地面の方を向くようにして、両手を肩の真下で地面につきます。息を吸いながら、背骨を伸ばし、頭のてっぺんがお尻と反対側に伸びるようにします。次に息を吸いながら、身体を左にひねり、左腕を空に向けて伸ばします。\n\n左手を左肩の真下で再び地面につきます。息を吸いながら背骨を伸ばし、息を吐きながら身体を右にひねり、右腕を空に向けて伸ばします。";
+
+"exerciseDescription119" = "両足を少なくとも脚の長さ分だけ離して立ち、つま先はわずかに内側に回します。脚の付け根から身体を前に倒し、胸が地面の方を向くようにして、両手を肩の真下で地面につきます。両手を右に歩かせ、右足首の外側をつかみ、あごを右すねに近づけます。両手を正面に歩かせて戻したら、次に左に歩かせ、左足首の外側をつかみ、あごを左すねに近づけます。";
+
+"exerciseDescription120" = "仰向けに横たわります。左腕を左耳に沿って伸ばし、身体を左側に転がらせます。左ひじを曲げ、頭の左側を左手の上に置きます。右ひざを右肩の方へ向けて曲げ、右手の親指から中指までの３本指を右足の親指の周りに回します。右脚をできる限り伸ばしながら、身体の左側が地面から離れないようにし、右のお尻を左の太ももの内側に引き寄せるようにします。\n\n左右を入れかえて、右側を下に横たわり、左足の親指をつかむ方も同様に行います。";
+
+"exerciseDescription121" = "両足の裏を骨盤の前にくっつけて地面に座り、ひざは左右に開きます。それぞれの手の親指から中指までの３本指をそれぞれの脚の親指の周りに回します。後ろにもたれかかり、体重が坐骨結節にかかるようにします。背骨を伸ばしてひざを曲げたままで、足の裏を離し、地面から浮かせて、坐骨結節の上でバランスをとります。両足を少しずつ左右に伸ばしながら、胸を反って開きます。";
+
+"exerciseDescription122" = "両足を左右に大きく広げ、足がお互いに並行になる姿勢を取ります。右足を90度外に回転させ、右ひざが90度になるように曲げて、右太ももの上側が地面と平行になるようにします。右ひざが右足首の上に来るようにしながら、左脚を伸ばして、左のつま先を若干内側に回転させます。両肩はお尻の上に来るようにしながら、腕を左右に伸ばし、右手の上を目線が通るようにします。\n\n左右を入れかえて、左ひざを曲げて、右足をまっすぐ伸ばし、左手の上を目線が通る方も同様に行います。";
+
+"exerciseDescription123" = "両足の親指をそろえて立ち、足の外側がお互いに平行になるようにします。人差し指だけを立てて、残りの指を胸の前で組み合わせます。指を組んだままで、息を吸いながら、両腕を頭の上に伸ばします。次に息を吐きながら、左へ身体を倒します。右のかかとが地面から離れないようにし、左の肋骨の下側を右の肋骨の上側に向けて引き上げます。\n\n次に、両手を頭の上で組んだままで、息を吸いながら身体を真ん中に戻します。息を吐きながら、身体を右へ倒します。";
+
+"exerciseDescription124" = "両足の親指をそろえて立ち、足の外側がお互いに平行になるようにし、身体を前に倒して、肩の真下で両手を地面につきます。体重の大部分を右足に移動させながら、左足を後ろに引き、左足の親指を軽く地面につきます。右の手のひらを右のふくらはぎに置き、左足を空に向けて高く上げます。左のお尻と右のお尻は同じ高さを保つようにし、右のお尻が下がらないようにしながら、中心に向かって引き寄せます。右の手のひらを右のふくらはぎに押し付けることで、あごをすねに近づけます。\n\n左右を入れかえて、左脚で立ち、右脚を伸ばす方も、同様に行います。";
+
+"exerciseDescription125" = "両足の親指をそろえて立ち、足の外側がお互いに平行になるようにして、身体を前に倒します。息を吸いながら背骨を伸ばし、胸を前に倒し、両手の指先をテントのように地面につきます。次に、息を吐きながら身体を前に倒し、両手を左右の足の外側に伸ばし、ふくらはぎをつかみます。手のひらをふくらはぎに押し付け、おでこをすねに近づけます。かかとを地面に押し付けながら、太ももの内側を足の後ろ側に回すように坐骨結節を持ち上げます。腰が丸まらないように気をつけます。その代わりに、脚の付け根から身体を前に倒し、お腹が太ももの前にぶら下がるようにします。";
+
+"exerciseDescription126" = "両足をそろえて立ちます。体重を左足に移動させながら、右ひざを胸に引きつけます。右腕を右脚の内側に通し、右手の親指から中指までの３本指を「ヨガ流つま先の持ち方」になるように右足の親指の周りに回します。背筋を伸ばし、左のかかとを地面に押し付けながら、頭のてっぺんを天井に向けて伸ばします。両肩がお尻の真上から離れないようにするために、右腕が背中から離れないように気をつけながら、右脚を身体の前に伸ばします。";
+
+"exerciseDescription127" = "両足の親指をそろえて立ち、足の外側がお互いに平行になるようにします。指を身体の後ろで組みます。息を吸いながら背骨を伸ばしたら、息を吐きながら足の付け根から身体を前に倒し、頭のてっぺんを地面に向けて下げて、組んだままの手を地面に近づけます。";
+
+"exerciseDescription128" = "両足を大きく左右に広げた姿勢を取り、足がお互いに平行になるようにします。右脚を90度外に回します。左のかかとを浮かせ、左足の母指球を中心にかかとを左に回し、地面につけます。胸と左のお尻は右足と同じ方向を向くようにします。両手を腰の横に置き、左のお尻を前に押し出すとともに、右のお尻を後ろに引きます。右ひざを曲げて、ひざが足首の真上に来るようにします。両腕を耳に沿って伸ばし、胸を持ち上げます。左のかかとを地面に押し付けながら、右のひざは右のかかとの上に来るようにします。\n\n左右を入れかえて、左足を前にして、同様に繰り返します。";
+
+"exerciseDescription129" = "両足をそろえて立ち、両腕を耳に沿って上げます。右脚をまっすぐに、胸を正面に向けたまま、左足を後ろに引き、母指球が軽く地面につくようにします。体重をゆっくりと右足に移動させ、右脚の付け根を曲げて、胸を前に倒し、左脚を身体の後ろで浮かせます。お尻をお互いに引き寄せるように締め、お腹と肋骨の前側を背中の方に引きつけます。\n\n左右を入れかえて、左脚でバランスをとり、右足を身体の後ろに伸ばす方も、同様に行います。";
+
+"exerciseDescription130" = "両足の親指をそろえて立ち、足の外側がお互いに平行になるようにします。息を吸いながら、右腕を耳に沿って上げます。次に息を吐きながら、左へ身体を倒し、左手が左脚の外側をスライドして下がるようにします。右のかかとを地面に押し付け、左のウエストを引き上げます。\n\n左右を入れかえ、右へ身体を倒す方も同様に繰り返します。";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = "両足を身体の前に伸ばして座り、両手は身体の後ろにつき、指先は前を向くようにします。つま先を伸ばし、両手の指先を地面に押し付け、お尻を地面から浮かせます。肩甲骨を背中に引き寄せて下げながら、胸を持ち上げます。太ももの内側をお互いに寄せるようにし、足の親指を地面に近づけます。頚椎に問題を抱えていない場合には、頭をそっと後ろに垂らし、頭蓋骨の底が肩甲骨の間に来るようにします。";
+
+"exerciseDescription133" = "両足をそろえて立ちます。体重を右足に移動させて、左ひざを胸に引き寄せます。右足の土踏まずを両手でつかみます。左脚を伸ばして、その上に身体を倒しながら、おでこをすねに近づけます。\n\n左右を入れかえて、左脚で立って、右足をつかむ方も同様に行います。";
+
+"exerciseDescription134" = "立って身体を前に倒した姿勢から始めます。両ひざを曲げ、右手を胸の下で地面につけ、左手を左のお尻に置きます。息を吸いながら、背骨を伸ばします。次に、息を吐きながら、左に身体をひねり、左脚だけをまっすぐに伸ばし、左腕を空に向けて伸ばします。首はまっすぐ伸ばし、左手に目線を向けます。\n\n立って身体を前に倒した姿勢に戻ります。両ひざを曲げ、左脚を胸の下で地面につけ、右手を右のお尻に置きます。息を吸いながら、背骨を伸ばします。次に、息を吐きながら、右に身体をひねり、右脚だけをまっすぐに伸ばし、右腕を空に向けて伸ばします。首はまっすぐ伸ばし、右手に目線を向けます。";
+
+"exerciseDescription135" = "両足の親指をそろえて立ち、足の外側がお互いに平行になるようにします。両手をお尻に当て、指先がかかとの方を向くようにします。息を吸いながら、背骨を伸ばします。次に、息を吐きながら、両手でお尻をかかとの方へ向けて押し、胸を天井に向けて反ります。肩甲骨を背中側で寄せて押し下げ、両ひじをお互いに近づけます。";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = "仰向けに寝て、両ひざを曲げ、両足を腰幅に広げて地面につき、足の外側がお互いに平行になるようにします。両手を身体の脇に伸ばし、指先がかかとに軽く触る場所に足を置きます。両腕を天井に向けて上げ、手首を曲げます。両ひじを曲げて、両手を肩の上につき、指先が肩の方を向くようにします。両手の内側とかかとの内側を地面に押し付け、骨盤・胸・頭を地面から浮かせます。足が腰の幅よりも広くならないように気をつけます。\n\n力を抜くときには、あごを胸に引き寄せ、お尻をかかとに引き寄せ、腰を地面に向けて下げていきます。";
+

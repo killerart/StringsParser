@@ -1,0 +1,902 @@
+/*
+ Localizable.strings
+ Yoga
+ 
+ Created by Alex Overseer on 4/4/16.
+ Copyright © 2016 SOFTINTERCOM. All rights reserved.
+ */
+
+//Intro
+
+"Choose Your Goals" = "選擇您的目標";
+"Increase Flexibility" = "提高靈活性";
+"Get Toned" = "變得強壯";
+"Lose Weight" = "減肥";
+"Reduce Stress" = "減壓";
+"Continue" = "繼續";
+"Yearly" = "每年";
+
+"Enter Your Parameters" = "輸入您的參數";
+"Height" = "身高";
+"Current weight" = "當前體重";
+"Target weight" = "目標體重";
+"Pick Your Height" = "選擇您的身高";
+"Pick Your Weight" = "選擇您的體重";
+"Pick Your Target Weight" = "選擇您的目標體重";
+"lbs" = "磅";
+"kg" = "公斤";
+"ft, in" = "英尺, 英寸"; //feet, inch
+"cm" = "厘米"; //centimeter
+"Save" = "保存";
+
+"Join Millions\nof happy users" = "成為百萬\n滿意用戶中的一員";
+"No Annoying Ads" = "無任何惱人廣告";
+"Not sure yet?" = "還不確定？";
+"Enable free trial" = "開啟免費試用";
+"Discount %d%%" = "折扣%d%%"; //example Discount 60%
+"Just Now! Limited Offer!" = "限時優惠！名額有限！";
+"Join with our best offer" = "透過最優折扣成為會員";
+"Weekly plan" = "每週計劃";
+"Monthly plan" = "每月計劃";
+
+"Not now" = "暂不";
+"Save %d%%" = "保存%d%%"; //Example: Save 60%
+"year\nBilled annually" = "年\n按年收費"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "7天\免費試用期後";
+"healthAppPermisionKey" = "應用程序不允許在健康應用程序裡編寫數據。您可以在健康應用程序裡開啟該功能";
+"Open" = "打開";
+
+
+//Presentation
+
+"Balance Flexibility" = "保持平衡與靈活";
+"100+ Poses" = "100+ 動作";
+"19 Classes" = "19節課";
+"Tons of Classes" = "超豐富的課程";
+"Anywhere Anytime" = "隨時隨地健身";
+"Nutrition Plans" = "營養計劃";
+
+
+//Buttons keys
+"backButtonKey" = " 返回";
+"doneButtonKey" = "完成";
+"editButtonKey" = "編輯";
+"cancelButtonKey" = "取消";
+"yesButtonKey" = "是";
+"startButtonKey" = "開始";
+"skipButtonKey" = "略過";
+
+//MainScreenViewController
+"posesNameKey" = "體位";
+"posesDescriptionKey" = "隨時隨地練習的自在。";
+
+"classesNameKey" = "課程";
+"classesDescriptionKey" = "訓練柔韌度、力量與平衡。找尋你喜愛的課程。";
+"moreNameKey" = "還有";
+"moreDescriptionKey" = "加入VGFIT 社群。增加鍛煉。";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "搜尋運動";
+"noResultsLabelKey" = "無結果";
+
+//ClassesViewController
+"classBalanceKey" = "平衡";
+"classBalanceDescriptionKey" = "訓練平衡感的瑜伽組合。";
+
+"classStrengthKey" = "力量";
+"classStrengthDescriptionKey" = "訓練力量的瑜伽組合。。";
+
+"classFlexibilityKey" = "柔韌度";
+"classFlexibilityDescriptionKey" = "專注於呼吸、肌肉復原與身體的柔韌度。";
+
+//LevelViewController
+"levelBegginerKey" = "初學者";
+"levelBegginerTitleKey" = "讓我們從輕度運動開始";
+"levelBegginerDescriptionKey" = "專注與力量與耐力訓練，鍛煉穩固的基礎。";
+
+"levelIntermediateKey" = "中級";
+"levelIntermediateTitleKey" = "進入難度高一些的運動";
+"levelIntermediateDescriptionKey" = "為那些曾經進行強度訓練與有瑜伽經驗的學員而設。";
+
+"levelAdvancedKey" = "進階";
+"levelAdvancedTitleKey" = "高難度運動";
+"levelAdvancedDescriptionKey" = "為具有堅固基礎、非常專注與投入的學員而設";
+
+//DifficultyViewController
+"secondSideKey" = "側邊";
+"minutesKey" = "分鐘";
+"posesKey" = "體位";
+
+//Error messages
+"downloadErrorKey" = "下載錯誤";
+"downloadCompleteKey" = "下載完成。";
+"internetConnectionKey" = "網絡連接";
+"internetConnectionLostKey" = "失去網絡連接。";
+"videoNotFoundKey" = "無法找到視頻";
+"videoNotFoundDescriptionKey" = "是否要繼續？ \n點擊是嘗試再下載。點擊否返回。";
+
+"smtWentWrongKey" = "出現差錯。";
+"downloadErrorNoConnectionKey" = "無法下載。請檢查網絡Wi-Fi或cellular連接！ ";
+"playerNoInternetConnectivityKey" = "無法下載。請檢查網絡Wi-Fi或cellular連接！\n點擊是略過。點擊否返回。";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "下載多個視頻中";
+"downloadOneVideoKey" = "下載視頻中";
+
+//SecondPlayerViewController
+"previewKey" = "預覽";
+"secondsKey" = "秒";
+"completedKey" = "完成";
+"playerCurrentExerciseKey" = "運動名稱：";
+"playerNextExerciseKey" = "下一個：";
+
+//MoreViewController
+"moreProfileTitleKey" = "簡介\n( 瑜伽記錄 )";
+"moreProfileDescriptionKey" = "你可以儲存課程記錄並安排下一個課程。";
+
+"moreAppsTitleKey" = "其他\nVGFIT應用程序";
+"moreAppsDescriptionKey" = "從VGFIT發現新的應用程序，達成養身目標。";
+
+"moreSocialTitleKey" = "社交\n媒體 VGFIT";
+"moreSocialDescriptionKey" = "與朋友們分享以獲得動力。加入vgfit.com社群。";
+
+"moreSettingsTitleKey" = "設定";
+"moreSettingsDescriptionKey" = "複雜的設定為你提供最佳體驗。";
+
+"moreRateUsTitleKey" = "給予我們評價";
+
+"historyTitleKey" = "歷史記錄";
+"historyNoExerciseKey" = "未完成任何鍛煉";
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "六塊腹肌";
+"otherAppFitnessAndBodyBuildingKey" = "養身與健身";
+"otherAppFemaleFitnessKey" = "女性養身";
+"otherAppGoPedometerKey" = "計步器";
+"otherAppSmartCycleAlarmProKey" = "智能循環鬧鐘專業版";
+"otherAppTimerKey" = "專業計時器";
+"otherApp7minKey" = "7分操";
+"Water Reminder" = "水提醒";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "完整預覽";
+"settingsPreviewShortKey" = "部分預覽";
+"settingsPreviewNoneKey" = "無預覽";
+"settingsbreathCycleLenghtKey" = "呼吸週期";
+
+//Speech to Text messages
+
+"beginKey" = "開始";
+"xMoreSeconds" = "%@ 更多秒數";
+"halfWayThereKey" = "完成一半了";
+
+//Rate Us messages
+
+"Love our %@ app?" = "愛上我們的 %@ 應用程序?";
+"Your feedback will help us to get better" = "您的反饋讓我們更進步";
+"Oh Dear!" = "啊，親愛的！";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "如果您願意給予我們一些改進應用程序的點子，我們會非常感激的。謝謝！";
+
+"5-Stars" = "5顆星";
+"To improve the app, please Leave a Rating or Review." = "請留下評級或意見，幫助我們改善應用程序。";
+
+"Rate Us" = "對我們進行評級";
+"Email Us" = "電郵我們";
+"Not now" = "不是現在";
+
+//Reminder
+
+"Reminder" = "提醒";
+"Edit notification permission in IOS settings" = "在IOS設定中編輯通知允許";
+"Daily reminder" = "每日提醒";
+"Frequency" = "頻率";
+"It's time to workout!" = "是時候鍛煉了！";
+"After %ld days of inactivity" = "在 %ld 天的不活躍後";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "嗨！您已經幾天沒有鍛煉了，快回來鍛煉！";
+"Days" = "天";
+
+//Audio Player
+
+"Voice Guide" = "聲音指導";
+"Background Music" = "背景音樂";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "瑜伽-體位與課程";
+"Upgrade" = "升級";
+"Buy" = "訂購";
+"Restore Purchases" = "恢復訂購";
+"Premium" = "高級";
+"Nutrition" = "營養";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "解鎖所有由頂級教練設計的計劃。更輕易地達成目標。";
+"Ads free experience" = "無廣告體驗";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "去除所有的廣告，享受無廣告的瑜伽之旅。";
+"Unlock all music" = "解鎖所有的音樂";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "獨有的音頻讓你更能進入到練習中。 \n+ 選擇你的通知聲調，不要錯過任何訊息。";
+"Yoga Classes" = "瑜伽課程";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "所有等級都有10項新課程，正面的鍛煉和動力\n+ 減重的均衡營養計劃。";
+
+//Select Sound
+
+"Sounds" = "聲音";
+"Sound" = "聲音";
+
+"Default" = "默認";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "瑜伽快速休整";
+"Quick Yoga Fix_details" = "把瑜伽融入到繁忙的一天中，練習基本又充滿活力的瑜伽。";
+
+"Getting Toned" = "設定聲調";
+"Getting Toned_details" = "在關鍵區域發展肌肉張力，包括手臂、肩膀、核心、臀部和腿部。";
+
+"Morning Yoga" = "早晨瑜伽";
+"Morning Yoga_details" = "以生氣勃勃的瑜伽練習，開始你的一天，讓脊椎向各個方向運動，加強站立的姿勢。";
+
+"Daily Yoga for ABS" = "每日腹肌瑜伽";
+"Daily Yoga for ABS_details" = "針對並加深腹部肌肉的鍛煉。";
+
+"Yoga for Runners" = "運動員的瑜伽";
+"Yoga for Runners_details" = "瑜伽是平衡、柔韌性、力量和正面訓練的獨特的結合，改善運動員的表現，避免受傷。透過這種交叉訓練，精明奔跑。";
+
+"Boost Your Energy" = "提升你的能量";
+"Boost Your Energy_details" = "這個計劃為調整你的身、心、靈而設，為你充電。";
+
+"Deep Stretching Exercises" = "深度伸展運動";
+"Deep Stretching Exercises_details" = "恢復疲勞的肌肉，改善活動度並促進循環。";
+
+"Improve Your Balance" = "提升平衡感";
+"Improve Your Balance_details" = "改善協調、反應時間、姿勢和身體意識。";
+
+"Challenge Your Flexibility" = "挑戰你的柔韌性";
+"Challenge Your Flexibility_details" = "通過一系列深度伸展，練習進階瑜伽姿勢，鍛煉你的柔韌性。";
+
+"Core Muscle Sculptor" = "核心肌肉塑造";
+"Core Muscle Sculptor_details" = "從基礎開始，鍛煉腿部、腹部、腰部和側身的力量。";
+
+"Food Nutrition" = "食物營養";
+"Food Nutrition_details" = "保持最佳身段！了解應該吃些什麼、燃脂食物有哪些、哪些好吃的食物也能加速新陳代謝。";
+
+//Other
+
+"In-App purchases were restored" = " App 內購買已修復";
+"Sorry we didn't find your previous purchases" = "抱歉，我們未找到您之前的購買記錄";
+"Alert" = "警報";
+"No internet connection" = "無網路連接！";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription options: &&3 days of free trial followed by $3.99 per Week. 3 days of free trial followed by $12.99 per Month. 3 days of free trial followed by $35.99 per Year++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+"Restore" = "恢復";
+
+"Subscription Info" = "訂購信息";
+"More info about subscriptions and Premium membership" = "更多有關訂閱和進階會員的信息";
+"%d days of free trial followed by %@ per %@" = "%d 天免費試用，之後要付 %@ 每 %@"; //ex:3 days of free trial followed by $3.99 per week
+"month"="月";
+"year"="年";
+"week"="星期";
+"after"="之後";
+"Privacy Policy"="隱私政策";
+"Terms of Service"="服務條款";
+"Nutrition plan"="營養計劃";
+"and"="以及";
+"Subscription"="訂購";
+"By continuing you accept our"="選擇繼續表示您接受我們的";
+
+"Start your positive\ntransformation today!"="今天就開啟您的\n積極轉型!";
+"Get 100% ready workouts courses with powerful support!"="獲取 100% 準備好的鍛煉課程以及強力支援!";
+"Only now"=" 只限現在 ";
+"GET LIFETIME ACCESS"="獲取終身使用權";
+"one-time payment"="一次性付款";
+
+//Yoga
+"%d poses and %d yoga classes"="%d 姿勢與 %d 瑜伽課程";
+"3 days for FREE"="3天免費";
+"Ads FREE\nexperience"="無廣告\n體驗";
+"Yoga"="瑜伽";
+"Yoga\nClasses"="瑜伽\n課程";
+"UNLOCK\nall music"="解鎖\n所有音樂";
+"76% off"="76%優惠"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="%@ 每月按年繳費即 %@ 每年";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="減重營養計劃";
+
+//VGFIT WORKOUT
+"Nutrition plan for building muscle"="建立肌群";
+"Nutrition plan for weight loss"="精瘦的身體";
+"Challenges"="挑戰";
+"Ads FREE experience"="無廣告\n體驗";
+"Nutrition plans"="營養 \n計劃";
+"New Workouts"="新\n鍛煉";
+"ARMS | ABS"="手臂 | 腹肌";
+"CLOSE"="關閉";
+"Workout challenges"="鍛煉挑戰";
+"Challenge"="挑戰";
+"Exercises"="運動";
+"Restore purchase"="恢復購買";
+"SHARE"="分享";
+"%d-day\nFree Trial"="%d-天\n免費試用 ";
+"Try it Now"="立即試用";
+"GET LIFETIME ACCESS"="獲取終身使用權";
+"SKIP"="略過";
+"%@ WORKOUTS"="%@ 鍛煉";// ex: 25 workouts
+"3-day \nFree trial"="3-天 \n免費試用";
+"7-day \nFree trial"="7-天 \n免費試用";
+"startKey"="開始";
+
+
+//Exercise name
+
+"exerciseName1" = "山式";
+
+"exerciseName2" = "半荷花式";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "椅子式";
+
+"exerciseName5" = "側前屈伸展";
+
+"exerciseName6" = "天堂鳥式";
+
+"exerciseName7" = "手抓大腳趾式";
+
+"exerciseName8" = "船式";
+
+"exerciseName9" = "弓式";
+
+"exerciseName10" = "橋式";
+
+"exerciseName11" = "駱駝式";
+
+"exerciseName12" = "貓式";
+
+"exerciseName13" = "後身伸展";
+
+"exerciseName14" = "座椅式";
+
+"exerciseName15" = "瑜伽椅式";
+
+"exerciseName16" = "扭轉幻椅式";
+
+"exerciseName17" = "嬰兒式";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "眼鏡蛇式";
+
+"exerciseName20" = "仰臥式";
+
+"exerciseName21" = "犢牛式";
+
+"exerciseName22" = "牛面式";
+
+"exerciseName23" = "牛面直式";
+
+"exerciseName24" = "後仰支架式";
+
+"exerciseName25" = "起重機式";
+
+"exerciseName26" = "海豚式";
+
+"exerciseName27" = "獅子式";
+
+"exerciseName28" = "前臂平板式";
+
+"exerciseName29" = "下犬式";
+
+"exerciseName30" = "犬式扭轉式";
+
+"exerciseName31" = "蛙式";
+
+"exerciseName32" = "至善雙臂扭側式";
+
+"exerciseName33" = "老鷹式";
+
+"exerciseName34" = "側膝碰耳梨式";
+
+"exerciseName35" = "半魚式";
+
+"exerciseName36" = "雙盤腳伸展坐式";
+
+"exerciseName37" = "八角式";
+
+"exerciseName38" = "胸展式";
+
+"exerciseName39" = "仰臥角式";
+
+"exerciseName40" = "加強側身手展式";
+
+"exerciseName41" = "側下三角";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "單盤前曲伸展式";
+
+"exerciseName44" = "魚式";
+
+"exerciseName45" = "門閂式";
+
+"exerciseName46" = "馬式";
+
+"exerciseName47" = "虎式";
+
+"exerciseName48" = "駱駝扭轉式";
+
+"exerciseName49" = "半蛙式";
+
+"exerciseName50" = "蝗蟲式";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "半蓮花立式";
+
+"exerciseName53" = "半哈努曼式";
+
+"exerciseName54" = "半月伸展式";
+
+"exerciseName55" = "半月式";
+
+"exerciseName56" = "肩立式";
+
+"exerciseName57" = "聖哲瑪里琪第三式";
+
+"exerciseName58" = "頭倒式";
+
+"exerciseName59" = "支撐頭倒立式";
+
+"exerciseName60" = "快樂嬰兒式";
+
+"exerciseName61" = "蒼鷺式";
+
+"exerciseName62" = "扭轉衝刺式";
+
+"exerciseName63" = "高衝刺式";
+
+"exerciseName64" = "舉臂式";
+
+"exerciseName65" = "全眼鏡蛇式";
+
+"exerciseName66" = "舞者式";
+
+"exerciseName67" = "排氣式變體";
+
+"exerciseName68" = "八點式";
+
+"exerciseName69" = "蜥蜴式";
+
+"exerciseName70" = "蝗蟲式變體";
+
+"exerciseName71" = "扭轉新月衝刺式";
+
+"exerciseName72" = "新月衝刺式";
+
+"exerciseName73" = "美人魚式";
+
+"exerciseName74" = "單腿輪式";
+
+"exerciseName75" = "兔子式";
+
+"exerciseName76" = "鴿王式";
+
+"exerciseName77" = "金字塔式";
+
+"exerciseName78" = "半鴿式";
+
+"exerciseName79" = "天平式";
+
+"exerciseName80" = "橋式";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "祈禱式變體";
+
+"exerciseName83" = "板式";
+
+"exerciseName84" = "仰臥手抓腳指B式";
+
+"exerciseName85" = "犁式";
+
+"exerciseName86" = "老虎弓式變體";
+
+"exerciseName87" = "和平戰士";
+
+"exerciseName88" = "扭轉半月式";
+
+"exerciseName89" = "頭碰膝式";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "仰臥鴿式";
+
+"exerciseName92" = "扭轉頭碰膝式";
+
+"exerciseName93" = "扭轉三角式";
+
+"exerciseName94" = "低衝刺式";
+
+"exerciseName95" = "扭轉手抓腳指立式變體";
+
+"exerciseName96" = "脊柱扭轉式";
+
+"exerciseName97" = "仰臥束角式";
+
+"exerciseName98" = "仰臥手抓腳指A式";
+
+"exerciseName99" = "背部前屈伸展坐式";
+
+"exerciseName100" = "手抓腳指立式D";
+
+"exerciseName101" = "側板式";
+
+"exerciseName102" = "牛面式";
+
+"exerciseName103" = "側彎坐式";
+
+"exerciseName104" = "肩倒立式變體";
+
+"exerciseName105" = "站立後彎式";
+
+"exerciseName106" = "手抓腳指立式B";
+
+"exerciseName107" = "手指交錯蝗蟲式變體";
+
+"exerciseName108" = "手杖式";
+
+"exerciseName109" = "人面獅身式";
+
+"exerciseName110" = "改進側板式";
+
+"exerciseName111" = "上雙角式";
+
+"exerciseName112" = "蹲式";
+
+"exerciseName113" = "坐角式";
+
+"exerciseName114" = "上雙角C式";
+
+"exerciseName115" = "扭轉頭碰膝式變體";
+
+"exerciseName116" = "下蹲捆綁式";
+
+"exerciseName117" = "兒童式";
+
+"exerciseName118" = "扭轉上雙角式";
+
+"exerciseName119" = "側伸展上雙角式";
+
+"exerciseName120" = "毘濕奴式";
+
+"exerciseName121" = "上束角式";
+
+"exerciseName122" = "戰士二式";
+
+"exerciseName123" = "手指交錯側彎立式";
+
+"exerciseName124" = "分腿立式";
+
+"exerciseName125" = "站立前曲式";
+
+"exerciseName126" = "站立手抓腳指式A";
+
+"exerciseName127" = "擴肩站立前曲式變體";
+
+"exerciseName128" = "戰士一式";
+
+"exerciseName129" = "戰士三式";
+
+"exerciseName130" = "側彎立式";
+
+"exerciseName131" = "支撐肩倒立式";
+
+"exerciseName132" = "反台式";
+
+"exerciseName133" = "站立前曲手抓腳指式C";
+
+"exerciseName134" = "扭轉站立前曲式";
+
+"exerciseName135" = "支撐站立輪式";
+
+"exerciseName136" = "四柱式";
+
+"exerciseName137" = "桌子式 & 四柱式";
+
+"exerciseName138" = "輪式";
+
+//Exercise description
+
+"exerciseDescription1" = "雙腳分開站立，與臀同寬，雙腳外緣保持平行。伸長脊椎並縮腹。從頭頂向下壓，把尾骨往腳跟的方向向下拉。 ";
+
+"exerciseDescription2" = "坐在地上並彎曲你的左膝，左腳頂在右腿內側、右坐骨的前側。接著抓住右腳放到左大腿上。將你的手掌向下放在膝蓋上，雙肩放鬆端坐。左腳在上重複以上動作。";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = "雙腳分開站立，與臀同寬。將手臂往前伸直，手掌向下。屈膝並提起腳後跟。 ";
+
+"exerciseDescription5" = "仰躺在地，手掌放在腦後，左腳踝交叉在右腳踝上。上半身與雙腳側彎到右邊。然後回到中心，左右腳踝位置交換，讓右腿在上方，再側彎到左邊。";
+
+"exerciseDescription6" = "雙腳與臀同寬。雙膝微曲，右臂在前，穿過雙腿，將右手放在右大腿外。左手從後背伸到右大腿後方，右手抓住左手腕。（如果你無法抓住手腕，試著讓十指交扣）\n \n 一旦雙手交接，就可以提起右腳跟，將身體重心移到左腳，以左腳站立。右膝保持彎曲並伸直左腳與延伸脊椎。最後右腳伸直向側面伸展，右臂壓住右腳。\n \n左右位置對換重複以上動作。";
+
+"exerciseDescription7" = "屈膝坐在地上，雙腳併攏在身體前方。雙手置於大腿外側，雙腳離地提起，以坐骨平衡身體。盡可能地伸直雙腳，同時不要移動后腰。隨著練習，你的柔韌度也將加強，並且能夠讓雙手觸碰到雙腳，最終能夠用首三根手指抓住腳的拇指頭。";
+
+"exerciseDescription8" = "屈膝坐在地上，雙腳併攏在身體前方，雙臂伸直。雙腳離地提起，小腿與天花板平行，雙臂在大腿旁伸展。坐在坐骨上保持平衡，維持姿勢至少5個呼吸的時長。 ";
+
+"exerciseDescription9" = "俯臥在地，屈膝並用雙手抓住腳踝。離地抬起頭、胸和雙腳。頭與小腿朝向天花板時，雙腿相距不應超過臀部的寬度。";
+
+"exerciseDescription10" = "屈膝仰臥在地，雙腳平行並且相距與臀同寬。雙手抓住腳踝，骨盆離地抬起，胸部向上拱起。";
+
+"exerciseDescription11" = "小腿平行跪在地上，大腿與肩膀和膝蓋垂直。胸部朝天抬起，雙手往後抓住腳跟，同時保持大腿在膝蓋上方的位置。";
+
+"exerciseDescription12" = "以四柱式的姿勢開始，肩膀位於手腕上方，大腿位於膝蓋上方。呼氣時，彎曲背脊讓頭部貼地，縮腹，尾骨朝地彎曲。";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "雙腳與臀同寬站立，雙腳保持平行。吸氣時雙臂在耳朵旁邊伸展，手掌相對。膝蓋彎曲與收回臀部時，手臂保持與肩膀同寬。在提起小腹和胸部時，試著讓大腿與地面保持平行。 ";
+
+"exerciseDescription15" = "兩腳腳趾拇指頭併攏站立，雙腳平行。雙膝彎曲，雙掌合十放在胸前。吸氣時伸展脊椎，臀部保持低位。呼氣時，轉動上半身並讓左手肘放置在右大腿上。再吸氣時，身體回到中心，雙手在胸前保持祈禱的姿勢。呼氣時上半身扭向左邊。";
+
+"exerciseDescription16" = "兩腳腳趾拇指頭併攏站立，雙腳平行。雙膝彎曲，雙掌合十放在胸前。吸氣時伸展脊椎，臀部保持低位。呼氣時，轉動上半身並讓左手肘放置在右大腿上。雙臂展開成\"T\"形，讓左手手指朝向右腳腳踝的地板，右手臂朝天伸展。眼睛往右手手掌看。\n\n 再吸氣時，身體回到中心，雙手在胸前保持祈禱的姿勢。呼氣時上半身扭向左邊，右手肘放置在左大腿外緣，伸展雙臂。這次換成右手手指朝向左腳踝的地板，左手臂朝天伸展。眼睛看著左手手掌。";
+
+"exerciseDescription17" = "雙手與雙膝以四柱式的姿勢開始。兩腳腳趾拇指頭併攏，坐在腳後跟上，同時讓額頭往下貼地。雙臂擺放在身旁，掌心朝上。";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = "俯臥在地，手掌朝下放在肋骨下方、腹部旁邊的位置。雙手支撐上半身離地抬起，膝蓋、小腿和腳貼地不動。尾骨朝腳跟方向伸展，刺激小腹的運動。手臂盡量伸直但是不要造成后腰不舒服。 \n\n 左手掌著地，胸部和頭部轉向右方，右手滑向右大腿後方。回到中心並轉向左方重複以上動作。 ";
+
+"exerciseDescription20" = "雙腳打開、雙臂在側，掌心朝上，仰臥地上。閉上眼睛放鬆肌肉，將身體的重量釋放到地板上。";
+
+"exerciseDescription21" = "以四柱式的姿勢開始。吸氣時，弓背抬高下巴並往上看。";
+
+"exerciseDescription22" = "坐在地上彎曲膝蓋，將右膝跨在左膝上放在身前，身體位於兩腳腳後跟之間。左手臂朝天伸展，彎曲左手肘，手指往身體後背垂下。右臂從右方穿過後背，掌心朝向後背，左右兩手相連接。更換左右膝蓋和手臂的上下位置，重複以上動作。";
+
+"exerciseDescription23" = "坐在地上彎曲膝蓋，將右膝跨在左膝上放在身前，身體位於兩腳腳後跟之間。手臂在旁邊伸展，同時伸展脊椎。左膝和右膝互換位置重複以上動作。 ";
+
+"exerciseDescription24" = "屈膝坐在地上，雙腳與臀同寬在身前。手掌放在身後，肩膀的寬度，同時指尖指向前方。骨盆離地提起，讓膝蓋保持90度彎曲。膝蓋應該再腳踝上方，肩膀在手腕上方。壓力施在食指和拇指上。開始時，請保持頸項與脊椎平行，鼻子朝向天花板。如果沒有頸椎問題，你可以讓頭部輕輕下垂，這樣能夠讓頭骨安枕於肩胛骨上。";
+
+"exerciseDescription25" = "雙腳併攏身體往前彎曲。屈膝並把手掌放在雙腳前方大約一尺的位置。兩手距離與肩同寬，手指緊抓地面。兩腳腳跟離地舉起，抬高臀部同時膝蓋趨近上臂，形成貝殼的樣子。將手肘彎曲成90度角，手肘位置再手腕上方。看著雙手並慢慢地將身體重心移到雙手。當你的肩膀輕微地往前傾，重心都壓在雙手上時，練習抬起一隻腳或兩腳離地。練習一段時間後，嘗試將腳趾收進坐骨的方向。";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = "俯臥並用手肘支撐身體，雙手前臂相互平行，與肩同寬。將手肘拖向臀部的方向，胸部穿過手臂往前傾。腳趾指向腳跟，尾骨向腳跟方向伸展。 ";
+
+"exerciseDescription28" = "俯臥並用手肘支撐身體，雙手前臂相互平行，與肩同寬。抬起大腿和盆骨，成俯衝的姿勢。肩膀應該位於手肘上方，腹部縮進。運用大腿的肌肉，讓恥骨往小腹的方向用力，保持臀部在空中的姿勢。";
+
+"exerciseDescription29" = "以四柱式開始，手腕在肩膀下方，手指張開。雙腳往後擺成板式，運用雙腿和腹部的俯臥撑。將腳跟伸向地板，同時提起臀部並將胸部靠向雙腿。利用雙手推向地板的力量，讓上半身貼近雙腳。用食指和拇指穩固重心，雙腳與臀同寬，腳跟與第二、三隻腳趾對齊。";
+
+"exerciseDescription30" = "以四柱式開始，手腕在肩膀下方，手指張開。雙腳往後擺成板式，運用雙腿和腹部的俯臥撑。將腳跟伸向地板，同時提起臀部並將胸部靠向雙腿。利用雙手推向地板的力量，讓上半身貼近雙腳。用食指和拇指穩固重心，雙腳與臀同寬，腳跟與第二、三隻腳趾對齊。 \n\n 左手臂著地，右手臂穿過雙腳之間的空間，抓住左腳踝或小腿肚。繼續伸向臀部後方，並用左手掌推開地板。變換方向重複動作。";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = "雙腳腳板在恥骨前，雙膝彎曲在兩旁坐在地上。彎曲手肘，將右手肘勾在左手肘下。手腕交叉讓手掌朝內。舉起手肘，按壓手掌。換成右腳在前，左手肘在下重複以上動作。 ";
+
+"exerciseDescription33" = "雙腳併攏然後提起右腳跟。彎曲手肘，將右手肘勾在左手肘下。手腕交叉讓手掌朝內。舉起手肘，按壓手掌。 \n\n 左膝彎曲並將右膝跨在上面，左腳保持平衡，右腳腳趾勾住左腳踝。當你收回臀部時，保持胸部挺立並繼續舉起手肘。";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = "舒服地盤腿而坐，手掌朝下放在膝蓋上。吸氣時，延伸脊椎。呼氣時，向左扭腰把左手放到身後的地上，右手掌放在左膝上。吸氣時轉回中心，呼氣時扭向右邊，右手放到身後的地上，左手掌放在右膝上。 ";
+
+"exerciseDescription36" = "舒服地盤腿而坐。將手掌放在身前的地板上，手掌往前移動直到你的手臂能夠伸直。如果額頭不能碰地，那麼把頭憩息在折疊的被子或毛巾上，讓頸部得到支撐。交換雙腳的上下位置並重複以上動作。";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = "以四柱式的位置開始。臀部的位置維持在膝蓋上方，手與肩同寬，手掌盡可能地貼地往前移動，直到胸部觸地。 ";
+
+"exerciseDescription39" = "雙腳張開平行站立。右膝向外轉90度並且90度彎曲，讓右腿大腿與地板平行。右膝應在右腳踝上方，左腳腳趾稍微向內轉，伸展左腳。伸展身體右側於右大腿上方，然後將右手臂放入右腿。 \n\n 右手臂穿過大腿，彎曲手肘，讓手伸向右臀外側。左手臂從背後伸向右臀部外側。用右手握緊左手手腕。 (如果你無法抓住手腕，試著讓兩手十指交扣。) \n\n 當你的手臂環繞抱住右腿後，右臀往下拉並讓身體往後傾，使得身體右側位於大腿上方。當你把頭頂從左腳移開時，延伸頸部的一側。左腳固定在地，保持右膝位於第二、三隻腳趾中心。 \n\n換成左側重複動作，讓左腿被雙手圍繞抱住。";
+
+"exerciseDescription40" = "雙腳張開平行站立。右膝向外轉90度並且90度彎曲，讓右腿大腿與地板平行。右膝應在右腳踝上方，左腳伸直。伸展身體右側於右大腿上方，然後輕輕將右手肘放在右大腿上，掌心朝上。左手臂沿著左耳伸展，目光看向左手的同時，肚臍從右腳上移開。左腳固定在地，保持右膝位於第二、三隻腳趾的中心。換成左側重複動作。 ";
+
+"exerciseDescription41" = "雙腳張開平行站立。右膝向外轉90度並且90度彎曲，讓右腿大腿與地板平行。右膝應在右腳踝上方，左腳腳趾稍微向內轉，伸展左腳。 \n\n 伸展身體右側於右大腿上方，然後右掌放在右腳內側的地板上，讓肩膀位於手腕上方。左手臂伸向天空，目光集中在左手掌。左腳固定在地，保持右膝位於第二、三隻腳趾的中心。換成左側重複動作。";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = "坐下並將左膝向左彎曲，讓左腳貼地，脛骨與地毯前端平行。右膝向右彎曲，右脛骨和左脛骨重疊，讓右膝疊放在左腳踝上，右腳踝疊放在左膝上。上半身慢慢地向前傾，盡可能地往前方伸展。左脛骨在上方，重複以上動作。 ";
+
+"exerciseDescription44" = "仰臥在地，雙手擺在身旁，掌心向下。胸部朝天抬起，頭部下垂讓頭部輕輕地靠在地板上。雙腳和地面成45度角抬起。" ;
+
+"exerciseDescription45" = "臀部位於膝蓋上方跪著，脛骨相互平行，腳部貼地。右腳向右踏出，伸直右腳，腳趾朝向右方地板。右掌置於右腳大腿上，左臂沿著左耳伸展。當身體向右伸展時，右手向右腳踝移動。對換左右方向重複以上動作。";
+
+"exerciseDescription46" = "兩腳相距至少一隻腳的寬度。當你彎曲雙膝時，腳趾朝外扭轉，雙膝位於腳踝上方。雙膝內側往腳小指的方向按壓，雙手的手肘向兩旁彎曲，形成一個仙人掌的形象。";
+
+"exerciseDescription47" = "以四柱式開始，手指張開，手腕位於肩膀下方，雙膝在臀部下方。身體重心分佈到手墊和左腳上，右腳離地抬起，在身後伸展。縮起腹部與肋骨。以右腳脛骨著地，左腳提起的姿勢重複動作。 ";
+
+"exerciseDescription48" = "雙腳脛骨平行跪著，小腿著地，臀部位於膝蓋上方，肩膀位於臀部上方。胸部朝天抬起，雙手往後握住腳跟，同時保持臀部位於膝蓋上方的位置。 \n\n吸氣時左手握住左腳踝，右臂伸向天空。當你的胸部扭向左邊時呼氣。然後右手回到右腳踝，胸部轉回朝天的方向。\n\n 吸氣並把左臂朝天延伸。呼氣時，胸部扭向右邊。雙手回到腳跟的位置，胸部朝天捲曲，然後坐在腳跟上，雙手放在大腿上，退出該姿勢。";
+
+"exerciseDescription49" = "俯臥並用手肘支撐身體，雙手前臂相互平行，與肩同寬。左手移到右邊，掌心朝下，讓左前臂與地毯前方平行。右膝彎曲並用右手握住右腳小腿，右腳跟朝臀部外緣移動。移動過程中，右手要保持在右小腿的位置。當你往前擠壓右胸時，右手肘朝右邊彎曲。左右位置互換重複以上動作。 ";
+
+"exerciseDescription50" = "俯臥在地讓下巴擱在地上，手臂放在身旁掌心向下。手臂在身體下方移動，兩手緊扣。雙腳離地抬起，腳尖伸直。\n\n 雙腿放下並解開雙手，掌心朝下。舉起右腳，然後放下右腳再提起左腳。把左腳放回地板上。";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = "雙腳併攏站立，重心移向左腳，把右膝抬到胸部。左手抱住右腳外側，放在左腿皺褶中。雙臂沿著雙耳伸展。右腳站立左膝彎曲，重複以上動作。";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = "雙腳伸直坐下。彎左膝，將左腳放到右腿內側。左手掌放到身後的地板上。吸氣時右臂沿著右耳舉起，同時伸展脊椎。呼氣時，身體轉向左邊並把右手肘放置到左大腿外側。左右位置互換，重複以上動作。";
+
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = "仰臥在地，雙膝彎曲，抓住雙腳腳板。雙手施力把膝蓋推向腋下，伸展大腿的內側。盡量保持后腰貼地。 ";
+
+"exerciseDescription61" = "坐在兩腳腳跟之間，膝蓋相連，小腿貼地。右腳移到身前，兩手手指在右腳腳板下交扣。右腳在空中伸展，延伸脊椎並將胸部朝右腳方向提起。";
+
+"exerciseDescription62" = "左腳在前，以沖刺式開始。確保左腳呈90度彎曲，膝蓋位於腳踝上方，右腳在身後伸直，腳前掌貼地。腹部從左大腿上移開，雙手成祈禱式放在胸前。吸氣時延伸脊椎，呼氣時扭向左方，右手肘擱在左膝外側。左手掌按壓右手掌。目光穿過左肩，右腳踝朝天。左右腳位置互換重複以上動作。";
+
+"exerciseDescription63" = "以沖刺式開始，右膝呈90度彎曲，膝蓋位於腳踝上方，左腳在身後伸直，腳前掌貼地。肩膀挺直於臀部之上，右臀往後移，左臀往前傾。雙手在耳朵旁伸展。左右腳位置互換重複以上動作。 ";
+
+"exerciseDescription64" = "以沖刺式開始，右膝呈90度彎曲，膝蓋位於腳踝上方，左腳在身後伸直，腳前掌貼地。肩膀挺直於臀部之上，雙手手指在身後交扣。身體往右腳方向前屈，頭頂朝向地板，手掌從后腰離開。抱住右臀同時左腳跟朝天。左右腳位置互換，以及手指交扣的位置互換（例如食指和拇指的上下），重複以上動作。";
+
+"exerciseDescription65" = "俯臥在地，兩手手掌放在胸部左右兩旁的位置。雙手用力支撐上半身離地挺起。屈膝伸腳尖，讓腳和頭部圈在一起。";
+
+"exerciseDescription66" = "雙腳併攏站立，右臂向前舉起至肩膀的位置。身體重心轉移到右腳上，同時彎曲左膝，左腳往左坐骨的方向提起，左手握著左腳的內側。左大腿往後拉，胸部往前挺，往身體中線的位置抱住左膝。右臂朝天舉起，將胸部移開左大腿挺起。以左腳站立重複動作。";
+
+"exerciseDescription67" = "仰臥在地並伸展雙腳。左膝拉近胸部，雙手手指在左腳外側交扣。左右腳位置互換重複動作。 ";
+
+"exerciseDescription68" = "以四柱式開始，手腕位於肩膀下方，膝蓋再臀部下方，腳趾縮在底下。吸氣時弓起後背。呼氣時保持坐骨挺起，雙手手肘彎曲，胸部和下巴往地板方向移動。在做相對的姿勢時，你可以仰臥在地，在胸前抱住雙膝，放鬆后腰。";
+
+"exerciseDescription69" = "右腳在前，以沖刺式開始。確保右膝呈90度彎曲，膝蓋位於腳踝之上。左膝往下壓，小腿貼地。右手手掌放在右腳內側，兩手手肘放在地上，相互平行。右膝貼近右肩膀，延伸脊椎，胸部與頭部往前傾。在左邊的位置重複動作。";
+
+"exerciseDescription70" = "俯臥在地，兩手擺在身旁。手掌朝外舉起兩隻手臂，手臂向後伸。胸、頭和雙腳離地向上抬，雙腳向後伸。";
+
+"exerciseDescription71" = "右腳在前，以沖刺式開始。確保右膝呈90度彎曲，膝蓋位於腳踝之上。左膝往下壓，小腿貼地。當你抬起胸部與肩膀對齊時，雙手放到右大腿上。 \n\n 吸氣時，伸展脊椎並扭轉右邊，左手掌放到右膝外側，右手掛在左大腿後側。目光看向右肩，動作完成。 \n\n 左右位置互換重複動作。 ";
+
+"exerciseDescription72" = "右腳在前，以沖刺式開始。確保右膝呈90度彎曲，膝蓋位於腳踝之上。左膝往下壓，小腿貼地。右邊臀部往後擺，左邊臀部往右腿內側施力。雙臂在耳邊舉起，腹部從右腿上移開，胸部朝天彎曲。目光注視在手掌之間。";
+
+"exerciseDescription73" = "以四柱式開始。左膝放在左手腕後方，左腳外側放在右手腕後方。右腳在身後伸直，肩膀位於臀部上方，右腳外側放在右臀前方，右膝彎曲，右手抓住右腳，把腳往右臀外側的方向拉。把腳放入右手肘彎曲的位置。左臂在耳邊舉起，然後彎曲手肘，手指朝地。抬胸時，左右手指交扣。";
+
+"exerciseDescription74" = "仰臥在地，手臂放在身旁，雙腳與臀同寬。雙腳外側相互平行，手指抓住腳跟。彎曲手肘，雙手手掌放在肩膀上方的位置。骨盆、胸部和頭部離地抬起。扭轉大腿讓大腿外側轉向大腿內側。胸部通過手臂抬起。 \n\n 雙腳併攏，重心移到左腳，右膝向胸部彎曲。右腳在空中伸展。右腳放回地上，換成左腳抬起。";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = "以四柱式開始。左膝放在左手腕後方，左腳外側放在右手腕後方。右腳在身後伸展，腳趾夾在地上，右腿盡量往後延伸，再把右膝和前腿放在地上。肩膀位於臀部上方，左腳外側放在右臀前方，雙手手掌放置在身旁，抬起脊椎。左右膝蓋位置互換，重複以上動作。 ";
+
+"exerciseDescription77" = "雙腳併攏站立。左腳以一隻腳的距離站開，腳的角度呈30度。吸氣時，往左腳跟施壓，伸展脊椎。呼氣時，上半身往右腳前傾，雙手固定右腳。左右腳位置互換重複動作。";
+
+"exerciseDescription78" = "以四柱式開始。右膝直接放在右臀前方，右腳放在左手腕後方，盡可能貼近手腕，同時重心移到兩側。左腳在身後儘量伸展，腳尖伸直，左膝與前腿貼地。在右腳脛骨向前折疊前，確保你的左腳腳趾伸直，身體重心維持在中心（如：不要傾向右邊）。左膝在前重複以上動作。";
+
+"exerciseDescription79" = "坐在地上，雙腳在前伸展。彎曲右膝，右腳放在左腿皺褶處。彎曲左膝，左腳與右腳交叉，左腳放在右腿皺褶處。 （如果做不到這個動作，千萬不要強硬嘗試。你只要做一個簡單的盤腿坐姿。）\n\n 雙手手掌放在大腿外側的地板上，距離臀部幾英寸的地方。呼氣縮腹，雙手用力，將骨盆和大腿離地舉起。左右腳位置互換重複以上動作。 ";
+
+"exerciseDescription80" = "仰臥在地，手臂放在身旁，雙腳與臀同寬。雙腳外側相互平行，手指抓住腳跟。離地抬起骨盆，上臂在你的身體底下相對著，手指相互交扣。手臂施力舉起胸膛。\n\n 雙腳併攏，右膝靠近胸部，然後在空中伸直右腳。右腳回到地上，抬起左腳重複動作。";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = "雙腳與臀同寬站立。雙手手指交扣放在身前，手掌翻開向外，手臂向上伸展。左右手的上下位置交換（例如另一隻手的食指和拇指在上）。 ";
+
+"exerciseDescription83" = "以四柱式開始。肩膀位於手腕上方，腳往後踏，形成高俯臥撑的姿勢。只有你的雙手與腳墊觸地。指墊施力，腹部朝后腰提起，腳跟朝天。頭部往前壓以伸展頸部。切記不要翹起臀部，恥骨應向腹部下壓。";
+
+"exerciseDescription84" = "仰躺在地，雙腳伸直，腳跟著地，腳趾朝上。左膝拉近胸口的位置，左臂放在左腳內側。左手前三根手指環繞左腳大拇指，成為 \"瑜伽士腳趾鎖\" 的姿勢。右屁股保持著地，右大腿朝地板按壓，左腿則向左邊伸展。換成握著右腳大拇指，重複以上動作。";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = "以四柱式開始，手指張開，手腕位於肩膀下方，右腳離地抬起，彎曲右膝像是朝天踩踏。左手往後握著右腳小腿。抬胸時左腳向手臂施力。用另一個方向重複動作。 ";
+
+"exerciseDescription87" = "雙腳張開平行站立。右膝向外轉90度並且90度彎曲，讓右腿大腿與地板平行。右膝應在右腳踝上方，左腳腳趾稍微向內轉，伸直左腳。左掌輕放在左腳大腿上，右臂沿著右耳伸展。當你朝左腳方向伸展側彎時，左手從大腿上往下滑。在右膝往腳小指的方向輕輕施壓，同時右臀往下拉。換成左邊重複以上動作。";
+
+"exerciseDescription88" = "身體往前彎曲，手指觸地。身體重心移向左腳，臀部位置不變，右腳往身後伸直。胸部扭向左邊時，右掌著地同時左臂朝天伸展。目光朝左手看。";
+
+"exerciseDescription89" = "坐在地上，雙腳在身前伸展。左腳腳板靠在右大腿內側。吸氣時彎曲右腳，同時雙臂沿著耳朵伸展。呼氣時，身體朝右腳彎曲。利用臀部的肌肉而不是腰部彎身。切記不要扭動后腰。換成左腳伸展右腳彎曲的姿勢，重複動作。";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = "坐在地上，雙腳在身前伸展。右腳腳板靠在左大腿內側。上半身扭向右邊，左手肘放在左膝內側的地上，然後用左手抓住左腳。右臂在耳邊伸展，右手抓住左腳。右邊屁股固定在地，胸口轉向上方。換成左膝彎曲，右腳伸直，朝右腳側彎，重複以上動作。 ";
+
+"exerciseDescription93" = "雙腳併攏站立。右腳以一隻腳的距離站開，腳的角度呈30度。雙手放在臀部外側，在伸展脊椎時吸氣，胸部前傾與地平行。身體扭向左邊時呼氣，右掌放在左腳外面，左臂朝天伸直。左右腳位置互換重複動作。";
+
+"exerciseDescription94" = "身體往前彎曲站立，雙膝彎曲並把雙手放在雙腳兩旁的地板上。左腳傾斜，右膝繼續呈90度彎曲，以右腳踝為中心。胸部往前傾，右腳跟朝上。以左膝在前的位置重複以上動作。";
+
+"exerciseDescription95" = "雙腳與臀同寬站立。左手放在左腰，重心移向右腳，左膝往胸口方向抬起。右手首三隻手指圍繞左腳拇趾，左腳向右伸展，同時上半身扭向左邊。 ";
+
+"exerciseDescription96" = "仰臥在地，雙臂向左右兩旁伸展呈\"T\" 字形。雙膝往胸口的方向縮，雙膝靠在一起往左轉，同時眼睛看向右邊。把雙膝帶回中心，頭部靠在地上，之後再把膝蓋轉向右邊，眼睛看向左邊。";
+
+"exerciseDescription97" = "仰躺在地，腳板靠在一起，膝蓋往左右兩旁放。手肘維持在頭部上方。";
+
+"exerciseDescription98" = "仰躺在地，雙腳伸直，腳跟著地，腳趾朝上。左膝拉近胸口的位置，左臂放在左腳內側。左手前三根手指環繞左腳大拇指。右屁股保持著地，右大腿朝地板按壓，左腿則向上伸展。將左腿拉回腹部的位置。左右位置互換，重複以上動作。";
+
+"exerciseDescription99" = "坐在地上，雙腳在身前伸展，腳跟著地腳趾朝天。吸氣時，雙臂在耳邊伸展，同時伸展脊椎。呼氣時，身體往前彎曲，腹部碰到大腿。雙腳保持位置，如果還有空間，你可以向左右兩旁彎曲手肘，讓上半身的彎曲更深入。 ";
+
+"exerciseDescription100" = "雙腳併攏站立，雙手叉腰。右腳往前伸展並伸直腳尖，在臀部不動的情況下，盡可能抬高右腳。右腳放下，重心移到右腳，抬起左腳重複以上動作。";
+
+"exerciseDescription101" = "以板式開始- 高俯臥撑的姿勢。身體重心移向右邊，轉動身體一側。左腳疊放在右腳上，左肩在右肩上。左臂朝天伸展。右手施力，特別是食指和拇指。 \n\n 左膝朝左肩彎曲，左手首三根手指圍繞左腳拇趾呈\"瑜伽士腳趾鎖\" 。左腳朝天伸展，左臀保持在右臀上方。\n\ n 左右位置互換重複以上動作。";
+
+"exerciseDescription102" = "左腳在上盤腿舒服地坐著。雙臂在耳邊伸展，彎曲手肘讓手指指向後背。左手握著右手肘並輕輕地推向左邊，後腦勺枕在右臂上。接著左臂向左伸展，拇指向下，轉動左臂。左手肘在身後彎曲，手肘在下，收支朝上。可能的話，兩手可以交扣在一起。 \n\n 左右位置互換重複以上動作。 ";
+
+"exerciseDescription103" = "左腳在上盤腿舒服地坐著。右前臂放在身體右側，手指指向右邊。左屁股維持不動，左臂在左耳邊伸展。\n\n左右位置互換重複以上動作。";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = "雙腳與臀同寬站立。吸氣時，雙臂在耳邊伸展。呼氣時，胸口朝天彎曲，身體往後傾。雙腳固定在地，大腿內側朝身後空間提起。每一次呼吸都伸長脊椎前端，每次呼氣就把肋骨前段拉向後背。當你的胸口彎曲時，重心移向骨盆。 ";
+
+"exerciseDescription106" = "雙腳併攏站立。身體重心移向左腳，右膝靠向胸口。右臂穿過右腿內側，首三根手指圍繞腳拇趾呈\"瑜伽士腳趾鎖\" 保持臀部的位置，右腳向右45度伸展。\n\n 左右位置互換重複以上動作。";
+
+"exerciseDescription107" = "俯臥在地，額頭貼地同時兩手手指在身後交扣。踮起腳尖提起胸口和頭部。舉起交扣的雙手在身後伸展。下巴離胸口抬起，視線集中在鼻頭。 \n\n手指交扣的位置互換（例如食指和拇指的上下），重複以上動作。";
+
+"exerciseDescription108" = "坐在地上雙腳在身前伸展，腳跟著地。雙手放在身旁，掌心朝下。吸氣時伸展脊椎，呼氣時縮腹。";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "以四柱式開始，手腕在肩膀上方，膝蓋在臀部上方。左腳往後移動，腳趾指向左邊。右腳前腳貼地，腳趾指向右邊。左肩位於右肩之上，左臂朝天伸展。左右位置互換重複以上動作。 ";
+
+"exerciseDescription111" = "兩腳相距至少一隻腳的寬度站立，腳趾稍微內轉。用臀部的肌肉彎身，胸口朝地，雙掌在肩膀下方放在地上。頭部放鬆向下時，降低手肘的位置，同時保持它們與肩同寬。";
+
+"exerciseDescription112" = "雙腳距離稍微比臀部寬，腳趾朝外。屈膝降低姿勢。雙手合十放在胸前，手肘靠在大腿內側。手肘向大腿施壓，大腿也會向手肘施壓。伸展脊椎以便頭部能​​夠抬起。最終，你將能讓雙腳相互平行。";
+
+"exerciseDescription113" = "坐在地上，雙腳向兩邊伸展腳趾朝天。吸氣時伸展脊椎，呼氣時，雙手往前移動讓身體彎曲。在你的身體前傾時，腳跟著地，骨盆也跟著前傾。";
+
+"exerciseDescription114" = "兩腳相距至少一隻腳的寬度站立，腳趾稍微內轉。雙手手指在身後交扣。上半身前傾，頭部朝兩腿之間的地板下垂，雙手朝地交扣。 \n\n 手指交扣的位置互換（例如食指和拇指的上下），重複以上動作。 ";
+
+"exerciseDescription115" = "坐在地上，雙腳向兩邊伸展腳趾朝天。上半身扭向右邊，左手肘放在左腳內側的地板上，用左手抓著左腳。右臂沿著耳朵伸展，右手抓著左腳前段。右屁股與右腳固定在地，胸口轉向上方。左右位置互換重複以上動作。";
+
+"exerciseDescription116" = "雙腳距離稍微比臀部寬，腳趾朝外。屈膝降低姿勢。雙手合十放在胸前，手肘靠在大腿內側。 \n\n 吸氣時伸展脊椎，呼氣時扭向左邊，雙臂張開。拇指朝下轉動雙臂。左手肘在身後彎曲，右手肘圍繞右脛骨彎曲。能夠的話，雙手在靠近右臀部的位置交扣。 \n\n 左右位置互換重複以上動作。";
+
+"exerciseDescription117" = "以四柱式開始。腳趾大拇指靠攏，膝蓋分開相距比臀部寬的距離。手掌往前移動，身體在兩腿之間，額頭靠在地板上。";
+
+"exerciseDescription118" = "兩腳相距至少一隻腳的寬度站立，腳趾稍微內轉。上半身彎曲，胸口面向地板，手掌位於肩膀之下放在地上。吸氣時，伸展脊椎挺直身體。呼氣時，身體扭向左邊，左臂朝天伸展。 \n\n 左掌放回地上。吸氣時伸展脊椎，呼氣時身體扭向右邊，右臂朝天伸展。 ";
+
+"exerciseDescription119" = "兩腳相距至少一隻腳的寬度站立，腳趾稍微內轉。上半身彎曲，胸口面向地板，手掌位於肩膀之下放在地上。雙手移動到右邊並握住右腳踝外側，下巴移動到右腳脛骨的位置。回到中心然後再往左移動，握住左腳踝外側，下巴移動到左腳脛骨的位置。";
+
+"exerciseDescription120" = "仰臥在地。左臂沿著左耳伸展，身體翻向左側。左手肘彎曲，頭側放在左手掌。右膝朝右肩方向彎曲，右手首三根手指圍繞右腳拇趾。盡可能地伸展右腳，身體左側著地，右臀朝左大腿內側靠緊。\n\n 左右位置互換重複以上動作。";
+
+"exerciseDescription121" = "坐在地上，雙腳腳板併攏放在身體前方，膝蓋向兩旁垂下。左右兩手首三根手指圍繞左右腳拇趾。身體後傾讓重心移向坐骨。保持脊椎伸展與膝蓋彎曲，雙腳分開離地抬起，靠坐骨平衡身體。挺胸同時慢慢地朝兩旁伸展雙腳。 ";
+
+"exerciseDescription122" = "雙腳分開站立，相互平行。右腳向外轉90度，右膝90度彎曲以讓右大腿和地面平行。右膝位於右腳踝上方，左腳腳趾稍微內轉並伸展左腳。雙臂往相反方向伸展時，保持肩膀與臀部對齊，同時看向你的右手掌。\n\n 左右位置互換重複以上動作。";
+
+"exerciseDescription123" = "雙腳拇指靠攏站立，雙腳相互平行。兩手食指相對，其他手指交織在一起，放在胸前。吸氣時，保持雙手交扣，並把手臂高舉過頭。呼氣時，向左邊側彎。右腳跟固定在地，左邊肋骨下半部往右邊肋骨上半部提。 \n\n 再次吸氣時，身體回到中心雙手交扣。再次呼氣時，側彎向右邊。";
+
+"exerciseDescription124" = "身體往前彎曲站立，腳趾拇指併攏，雙腳相互平行，雙手放在地上。身體重心移向右腳，左腳往後移動，拇指觸地。右掌靠著右邊小腿，左腳懸浮在空中。左右臀部對齊，右臀往中心靠近時盡可能地提起。右掌按壓小腿以讓下巴靠向脛骨 \n\n左右位置互換重複以上動作。 ";
+
+"exerciseDescription125" = "身體往前彎曲站立，腳趾拇指併攏，雙腳相互平行。吸氣伸展脊椎，上半身彎曲雙手手指頭放在地上。呼氣時雙手抓住雙腿小腿。手掌在小腿上施力以讓額頭靠向你的脛骨。腳跟靠地，提起坐骨同時大腿內側轉向雙腿後側。切記不要扭動后腰，而是在臀部皺褶處彎身，腹部放在大腿上。";
+
+"exerciseDescription126" = "雙腳併攏站立。重心移到左腳上，右膝提起靠胸。右臂穿過右腳內側，右手前三根手指環繞右腳大拇指，成為\"瑜伽士腳趾鎖\"的姿勢。左腳跟在地，抬起頭來。右腳在身前伸展，肩膀維持在臀部上方的位置。";
+
+"exerciseDescription127" = "雙手手指在身後交扣。雙腳拇指靠攏站立，雙腳相互平行。雙手手指在身後交扣。吸氣伸展脊椎，呼氣往前彎曲，頭部朝地下垂，雙手交扣著地。";
+
+"exerciseDescription128" = "雙腳分開站立，相互平行。右腳向外轉90度。提起左腳跟，以腳墊為中心，腳跟轉向左邊再放到地方。你的胸口與左臀應該和右腳保持同一方向。雙手放到臀部外側，彎曲右膝。雙臂沿著耳朵伸展並提起胸口。對左腳跟施力，右膝繼續與腳踝保持一致。 \n\n 左右位置互換重複以上動作。 ";
+
+"exerciseDescription129" = "雙腳併攏站立，雙臂沿著耳朵伸展。右腳伸直胸膛挺起，左腳往後移動，以腳墊觸地。慢慢地將重心移到右腳，左腳提起懸浮在身後，同時以右臀為中心，上半身往前彎曲。縮腹夾臀。 \n\n 左右位置互換重複以上動作。";
+
+"exerciseDescription130" = "腳趾拇指併攏站立，雙腳相互平行。吸氣時右臂在耳朵旁舉起。呼氣時，身體向左側彎，左手沿著左腳滑下。右腳跟施力並提起左邊腰部。\n\n 左右位置互換重複以上動作。";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = "坐在地上，雙腳在身前伸展，手掌放在身後，手指朝前。伸直腳尖，手上施力提起臀部。肩胛骨靠攏，提起胸部時落下。左右大腿內側相對，大拇指朝地。如果你的脊椎健康，輕輕地把頭部放在肩胛骨上面。 ";
+
+"exerciseDescription133" = "雙腳併攏站立。重心移到右腳，左膝提起靠胸。雙手握住左腳足弓。身體往前彎曲時伸展左腳，額頭靠向脛骨。\n\n 左右位置互換重複以上動作。";
+
+"exerciseDescription134" = "往前彎曲站立。雙膝彎曲，右手位於胸口下方放在地上，左手放在左臀。吸氣時身體扭向左邊，伸展左腳，左臂朝天伸展。看向你的左手，同時伸長脖子。\n\n 身體回到中心。左手位於胸口下方放在地上，右手放在右臀。吸氣伸展脊椎，呼氣扭向右邊，伸展右腳，右臂朝天伸展。看向你的右手，同時伸長脖子。";
+
+"exerciseDescription135" = "腳趾拇指併攏站立，雙腳相互平行。手掌放在臀部上，手指朝著腳跟。吸氣時伸展脊椎，呼氣時，雙手按壓臀部，胸部朝天彎曲。肩胛骨靠攏，兩手手肘相互靠攏。";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = "仰躺在地雙膝彎曲，雙腳與臀同寬，相互平行。雙臂在身旁伸展，調整雙腳的位置，讓你的手指可以碰到腳後跟。手臂往上放。手肘彎曲並把手掌放在肩膀上方，手掌朝下。手腳施力提起身體，讓骨盆、胸部和頭部離地。切記不要讓雙腳距離超過臀部寬度。 \n\n 放下前，下巴拉向胸口，臀部拉向腳跟，放低身體回到地上。";

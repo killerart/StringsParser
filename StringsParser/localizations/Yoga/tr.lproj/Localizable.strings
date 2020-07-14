@@ -1,0 +1,903 @@
+/*
+ Localizable.strings
+ Yoga
+ 
+ Created by Alex Overseer on 4/4/16.
+ Copyright © 2016 SOFTINTERCOM. All rights reserved.
+ */
+
+//Intro
+
+"Choose Your Goals" = "Hedeflerinizi Belirleyin";
+"Increase Flexibility" = "Esnekliğinizi Arttırın";
+"Get Toned" = "Vücudunuzu Şekle Sokun";
+"Lose Weight" = "Kilo Verin";
+"Reduce Stress" = "Stresi Azaltın";
+"Continue" = "Devam Et";
+"Yearly" = "yıllık";
+
+"Enter Your Parameters" = "Parametrelerinizi Girin";
+"Height" = "Boy";
+"Current weight" = "Mevcut kilo";
+"Target weight" = "Hedef kilo";
+"Pick Your Height" = "Boyunuzu Seçin";
+"Pick Your Weight" = "Ağırlığınızı Seçin";
+"Pick Your Target Weight" = "Hedef Ağırlığınızı Seçin";
+"lbs" = "lbs";
+"kg" = "kg";
+"ft, in" = "ft, in"; //feet, inch
+"cm" = "cm"; //centimeter
+"Save" = "Kaydet";
+
+"Join Millions\nof happy users" = "Milyonlarca Mutlu\nkullanıcıya katılın";
+"No Annoying Ads" = "Sinir Bozucu Reklamlar Yok";
+"Not sure yet?" = "Henüz emin değil misiniz?";
+"Enable free trial" = "Ücretsiz Dene";
+"Discount %d%%" = "İndirim %d%%"; //example Discount 60%
+"Just Now! Limited Offer!" = "Hemen Şimdi! Sınırlı Süreli Teklif!";
+"Join with our best offer" = "En iyi Teklifimizle Katılın";
+"Weekly plan" = "Haftalık plan";
+"Monthly plan" = "Aylık plan";
+
+"Not now" = "Henüz Değil";
+"Save %d%%" = "Tasarrufunuz %d%%"; //Example: Save 60%
+"year\nBilled annually" = "yıl\nYıllık faturalandırılır"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "ücretsiz 7\ngünlük deneme süresi sonunda";
+"healthAppPermisionKey" = "Uygulamanın, Sağlık uygulamasına veri yazmasına izin verilmiyor. Bunu Sağlık uygulaması üzerinden kapatabilirsiniz";
+"Open" = "Açık";
+
+
+//Presentation
+
+"Balance Flexibility" = "Esnekliği Dengeleyin";
+"100+ Poses" = "100+ Duruş";
+"19 Classes" = "19 Sınıf";
+"Tons of Classes" = "Tonlarca Sınıf";
+"Anywhere Anytime" = "İstediğiniz Zaman, İstediğiniz Yerde";
+"Nutrition Plans" = "Beslenme Planları";
+
+
+
+//Buttons keys
+"backButtonKey" = " Geri";
+"doneButtonKey" = "Bitti";
+"editButtonKey" = "Düzenle";
+"cancelButtonKey" = "İptal";
+"yesButtonKey" = "Evet";
+"startButtonKey" = "Başlat";
+"skipButtonKey" = "atla";
+
+//MainScreenViewController
+"posesNameKey" = "Pozlar";
+"posesDescriptionKey" = "Dilediğiniz an, dilediğiniz yerde egzersiz yapma özgürlüğü.";
+
+"classesNameKey" = "Dersler";
+"classesDescriptionKey" = "Esneklik, güç ve dengeye odaklanın. Favori dersinizi bulun.";
+
+"moreNameKey" = "Daha fazlası";
+"moreDescriptionKey" = "VGFIT topluluğuna katılın. Daha fazla egzersize ulaşın.";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "Egzersiz ara ";
+"noResultsLabelKey" = "Hiçbir sonuç bulunamadı";
+
+//ClassesViewController
+"classBalanceKey" = "Denge";
+"classBalanceDescriptionKey" = "Dengenizi arttırmaya odaklı farklı yoga stilleri birleştirilmiştir.";
+
+"classStrengthKey" = "Güç";
+"classStrengthDescriptionKey" = "Vücut gücünüzü geliştirmenize yardımcı olacak etkili yoga pozlarının bir birleşimidir.";
+
+"classFlexibilityKey" = "Esneklik";
+"classFlexibilityDescriptionKey" = "Nefes alma verme biçiminize, kas onarımınıza ve vücudunuzun esnekliğine odaklanacaksınız.";
+
+//LevelViewController
+"levelBegginerKey" = "Başlangıç";
+"levelBegginerTitleKey" = "Hafif bir egzersizle başlayalım ";
+"levelBegginerDescriptionKey" = "Sağlam bir temel oluşturarak güç ve dayanıklılığı geliştirmeye odaklanır.";
+
+"levelIntermediateKey" = "Orta Seviye";
+"levelIntermediateTitleKey" = "Daha zor bir egzersize adım atın";
+"levelIntermediateDescriptionKey" = "Güçlü egzersiz ve geçmiş yoga deneyimine sahip kişiler içindir.";
+
+"levelAdvancedKey" = "İleri Seviye";
+"levelAdvancedTitleKey" = "Zor egzersizler";
+"levelAdvancedDescriptionKey" = "Güçlü egzersiz deneyimi olan ve adanmış kişiler katılmalıdır.";
+
+//DifficultyViewController
+"secondSideKey" = "ikinci kısım";
+"minutesKey" = "dakika";
+"posesKey" = "poz";
+
+//Error messages
+"downloadErrorKey" = "İndirme hatası";
+"downloadCompleteKey" = "İndirme tamamlandı.";
+"internetConnectionKey" = "internet bağlantısı";
+"internetConnectionLostKey" = "internet bağlantısı kesildi.";
+"videoNotFoundKey" = "Video bulunamadı";
+"videoNotFoundDescriptionKey" = "Devam etmek istiyor musunuz? \n Evete basın ve tekrar indirmeyi deneyelim. Geri gitmek için iptale basın.";
+
+"smtWentWrongKey" = "Bir terslik oldu.";
+"downloadErrorNoConnectionKey" = "İndirilemiyor. Lütfen Wi-Fi veya cep telefonu internet bağlantınızı kontrol edin !";
+"playerNoInternetConnectivityKey" = " İndirilemiyor. Lütfen Wi-Fi veya cep telefonu internet bağlantınızı kontrol edin !\n Atlamak için evet’e basın. Geri gitmek için iptale basın.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Videolar indiriliyor";
+"downloadOneVideoKey" = "Video indiriliyor";
+
+//SecondPlayerViewController
+"previewKey" = "Önizleme";
+"secondsKey" = "saniye";
+"completedKey" = "Tamamlandı";
+"playerCurrentExerciseKey" = "Egzersiz adı:";
+"playerNextExerciseKey" = "Sonraki:";
+
+//MoreViewController
+"moreProfileTitleKey" = "Profil\n( Yoga Geçmişi )";
+"moreProfileDescriptionKey" = "Derslerinizin geçmişini kaydedebilir ve bir sonraki dersinizi planlayabilirsiniz.";
+
+"moreAppsTitleKey" = "Diğer \nVGFIT Uygulamaları";
+"moreAppsDescriptionKey" = "VGFIT’in yeni uygulamalarını keşfedin ve fitness hedeflerinize ulaşın.";
+
+"moreSocialTitleKey" = "VGFIT Sosyal\n medya";
+"moreSocialDescriptionKey" = "Motivasyon kazanın ve arkadaşlarınızla paylaşın. VGFIT topluluğuna katılın.";
+
+"moreSettingsTitleKey" = "Ayarlar";
+"moreSettingsDescriptionKey" = "En iyi deneyimi sunmaya yönelik kapsamlı ayarlar.";
+
+"moreRateUsTitleKey" = "Bizi değerlendirin";
+
+"historyTitleKey" = "Geçmiş";
+"historyNoExerciseKey" = "Henüz hiçbir egzersiz yapılmadı";
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "Altılı Karın Kası";
+"otherAppFitnessAndBodyBuildingKey" = "Fitness ve Vücut Geliştirme";
+"otherAppFemaleFitnessKey" = "Kadınlar için Fitness";
+"otherAppGoPedometerKey" = "Go Adım Ölçer";
+"otherAppSmartCycleAlarmProKey" = "Akıllı Döngü Alarm PRO ";
+"otherAppTimerKey" = "Kronometre Pro";
+"otherApp7minKey" = "7 Dakika";
+"Water Reminder" = "Su Alarmı";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "Tam ön izleme";
+"settingsPreviewShortKey" = "Kısa ön izleme";
+"settingsPreviewNoneKey" = "Sıfır ön izleme";
+"settingsbreathCycleLenghtKey" = "Nefes döngüsü uzunluğu";
+
+//Speech to Text messages
+
+"beginKey" = "başlamak";
+"xMoreSeconds" = "%@ saniye daha";
+"halfWayThereKey" = "Yarısı bitti";
+
+//Rate Us messages
+
+"Love our %@ app?" = "%@ Uygulamamızı Beğenin?";
+"Your feedback will help us to get better" = "Geribildiriminiz, daha iyi olmamızı sağlayacaktır";
+"Oh Dear!" = "Aman Tanrım!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Uygulamayı geliştirmek için bize fikirler verirseniz çok sevineceğiz. Teşekkürler!";
+
+"5-Stars" = "5 Yıldız";
+"To improve the app, please Leave a Rating or Review." = "Uygulamayı daha iyi hale getirmek için lütfen bir Yorum veya İnceleme yazın.";
+
+"Rate Us" = "Bizi Puanlayın";
+"Email Us" = "Bize E-posta Gönderin";
+"Not now" = "Şimdi değil";
+
+//Reminder
+
+"Reminder" = "Hatırlatma";
+"Edit notification permission in IOS settings" = "IOS ayarlarında bildirim iznini düzenleyin";
+"Daily reminder" = "Günlük hatırlatma";
+"Frequency" = "Sıklık";
+"It's time to workout!" = "Antrenman zamanı!";
+"After %ld days of inactivity" = " %ld günlük hareketsizlik sonrası";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Hey! Birkaç gündür egzersiz yapmıyorsun, buraya gel ve antrenmana başla!";
+"Days" = "Günler";
+
+//Audio Player
+
+"Voice Guide" = "Sesli Kılavuz";
+"Background Music" = "Arka Plan Müziği";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "Yoga – hareketler ve sınıflar";
+"Upgrade" = "Yükselt";
+"Buy" = "Satın Alın";
+"Restore Purchases" = "Satın Alınanları Yenile";
+"Premium" = "AYRICALIKLI";
+"Nutrition" = "Beslenme";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "En iyi hocalar tarafından planlanan bütün yeni planların kilitlerini açın. Hedeflerinize daha kolay ulaşın.";
+"Ads free experience" = "Reklamsız deneyim";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "Bütün reklamlardan kurtulun. Reklamsız bir yoga yolculuğunun tadını çıkarın.";
+"Unlock all music" = "Bütün müzikleri kilidini kaldırın";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "Hareketlerinizde daha derine inmek için özel seslerin tadını çıkarın. \n+ Bir şey kaçırmamak için özel bildirim tonunuzu belirleyin.";
+"Yoga Classes" = "Yoga Sınıfları";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "Pozitif bakış açısı ve motivasyonla daha iyi bir şekle girmek için her seviyede 10 Yeni Sınıf \n+ Kilo vermek için dengeli beslenme planı.";
+
+//Select Sound
+
+"Sounds" = "Sesler";
+"Sound" = "Ses";
+
+"Default" = "Varsayılan";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "Hızlı Yoga ";
+"Quick Yoga Fix_details" = "Yoğun günlük programınıza hem sakinleştiren hem de enerji veren bir dersle ara verin.";
+
+"Getting Toned" = "Şekle Girmek";
+"Getting Toned_details" = "Kollar, omuzlar, karın bölgesi, kalçalar ve bacaklar dahil olmak üzere önemli bölgelerdeki kaslarınızı ortaya çıkarın.";
+
+"Morning Yoga" = "Sabah Yogası";
+"Morning Yoga_details" = "Güne, omurganızı her yönde hareket ettirmeye ve ayakta güçlü hareketlere odaklanan canlandırıcı bir yoga dersiyle başlayın.";
+
+"Daily Yoga for ABS" = "Karın Bölgesi için Günlük Yoga ";
+"Daily Yoga for ABS_details" = "Derin karın kaslarını hedefleyin ve çalıştırın.";
+
+"Yoga for Runners" = "Koşucular için Yoga ";
+"Yoga for Runners_details" = "Yoga, koşucuların performansını arttıran ve sakatlıkları önleyen; dengeyi, esnekliği, kuvveti ve farkındalığı eşsiz bir şekilde harmanlayan bir dünya sunar. Bu çapraz antrenman hareketleriyle daha akıllı bir şekilde koşun.";
+
+"Boost Your Energy" = "Enerjinizi Arttırın";
+"Boost Your Energy_details" = "Vücudunuzu, zihninizi ve ruhunuzu canlandırmayı amaçlayan bu hareketlerle yeniden şarj olun.";
+
+"Deep Stretching Exercises" = "Derin Esneme Egzersizleri ";
+"Deep Stretching Exercises_details" = "Bu hareketlerle yorulan kasları canlandırın, hareket açıklığınızı arttırın ve kan dolaşımınızı düzenleyin.";
+
+"Improve Your Balance" = "Dengenizi Arttırın ";
+"Improve Your Balance_details" = "Bu zorlu dengeleyici duruşlarla koordinasyonunuzu, tepki sürenizi ve vücut farkındalığınızı arttırın.";
+
+"Challenge Your Flexibility" = "Esnekliğinize Meydan Okuyun";
+"Challenge Your Flexibility_details" = "Yoğun esneme hareketleri eşliğinde esneklik kazanın ve bunu daha zor yoga hareketlerinde uygulayın.";
+
+"Core Muscle Sculptor" = "Karın Kası Şekillendiricisi ";
+"Core Muscle Sculptor_details" = "Bacaklar, karın kasları, bel kasları ve yan kasları geliştirmek için sıfırdan başlayın.";
+
+"Food Nutrition" = "Gıda ve Beslenme";
+"Food Nutrition_details" = "Hiç olmadığınız kadar fit olun! Neleri yiyebileceğinizi öğrenin, yağ yakan gıdaları keşfedin, metabolizmanızı hızlandıracak lezzetli öğünler yaratın.";
+
+//Other
+
+"In-App purchases were restored" = "Uygulama içi satın almalar geri yüklendi";
+"Sorry we didn't find your previous purchases" = "Üzgünüz, daha önceki satın almalarınızı bulamadık";
+"Alert" = "Uyarı";
+"No internet connection" = "İnternet bağlantısı yok!";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription options: &&3 days of free trial followed by $3.99 per Week. 3 days of free trial followed by $12.99 per Month. 3 days of free trial followed by $35.99 per Year++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+"Restore" = "Geri yükle";
+
+"Subscription Info" = "Abonelik Bilgisi";
+"More info about subscriptions and Premium membership" = "Abonelikler ve Premium üyelik hakkında daha fazla bilgi";
+"%d days of free trial followed by %@ per %@" = "%d günlük ücretsiz deneme sonrasında %@ / %@"; //ex:3 days of free trial followed by $3.99 per week
+"month"="ay";
+"year"="yıl";
+"week"="hafta";
+"after"="sonra";
+"Privacy Policy"="Gizlilik Politikası";
+"Terms of Service"="Hizmet Koşulları";
+"Nutrition plan"="Beslenme planı";
+"and"="ve";
+"Subscription"="Abonelik";
+"By continuing you accept our"="Devam ederek şunları kabul edersiniz";
+
+"Start your positive\ntransformation today!"="Pozitif dönüşümünüze \nbugün başlayın!";
+"Get 100% ready workouts courses with powerful support!"="Güçlü destek ile 100% hazır antrenmanlara erişim sağlayın!";
+"Only now"=" Sadece şimdi ";
+"GET LIFETIME ACCESS"="YAŞAM BOYU ERİŞİM ELDE EDİN";
+"one-time payment"="tek seferlik ödeme";
+
+//Yoga
+"%d poses and %d yoga classes"="%d hareke ve %d yoga sınıfı";
+"3 days for FREE"="3 gün ÜCRETSİZ";
+"Ads FREE\nexperience"="REKLAMSIZ \ndeneyim";
+"Yoga"="Yoga";
+"Yoga\nClasses"="Yoga\nSınıfları";
+"UNLOCK\nall music"="Tüm müziklerin\nKİLİDİNİ KALDIRIN";
+"76% off"="%76 indirim"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="aylık %@ faturalandırma, bu yıllık %@ eder";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="Kilo vermek için beslenme planı";
+
+//VGFIT WORKOUT
+"Nutrition plan for building muscle"="Kas yapın";
+"Nutrition plan for weight loss"="Şekilli vücut";
+"Challenges"="Zorluklar";
+"Ads FREE experience"="REKLAMSIZ \ndeneyim";
+"Nutrition plans"="Beslenme \nplanları";
+"New Workouts"="Yeni \nantrenmanlar";
+"ARMS | ABS"="KOLLAR | KARIN KASLARI";
+"CLOSE"="KAPAT";
+"Workout challenges"="Antrenman zorlukları";
+"Challenge"="Zorluk";
+"Exercises"="Egzersizler";
+"Restore purchase"="Satın alınanları yenile";
+"SHARE"="PAYLAŞ";
+"%d-day\nFree Trial"="%d-gün\nÜcretsiz Deneme";
+"Try it Now"="Şimdi Deneyin";
+"GET LIFETIME ACCESS"="YAŞAM BOYU ERİŞİM ELDE EDİN";
+"SKIP"="SKIP";
+"%@ WORKOUTS"="%@ ANTRENMAN";// ex: 25 workouts
+"3-day \nFree trial"="3-günlük \nÜcretsiz deneme";
+"7-day \nFree trial"="7-günlük \nÜcretsiz deneme";
+"startKey"="Başla";
+//Exercise name
+
+"exerciseName1" = "Dağ";
+
+"exerciseName2" = "Yarım Lotus";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "Sandalye Pozu Varyasyonu";
+
+"exerciseName5" = "Uzanarak Yana Esneme";
+
+"exerciseName6" = "Cennet Kuşu";
+
+"exerciseName7" = "Büyük Ayak Parmağı Pozu Varyasyonu";
+
+"exerciseName8" = "Tekne";
+
+"exerciseName9" = "Yay";
+
+"exerciseName10" = "Köprü Pozu Varyasyonu";
+
+"exerciseName11" = "Deve";
+
+"exerciseName12" = "Kedi";
+
+"exerciseName13" = "Sırt Esnetme";
+
+"exerciseName14" = "Sandalye";
+
+"exerciseName15" = "Burgulu Sandalye";
+
+"exerciseName16" = "Kollar Açık Vaziyette Burgulu Sandalye ";
+
+"exerciseName17" = "Çocuk Pozu";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "Kobra";
+
+"exerciseName20" = "Ceset Pozu";
+
+"exerciseName21" = "İnek";
+
+"exerciseName22" = "İnek Suratı";
+
+"exerciseName23" = "İnek Suratı Pozu Varyasyonu";
+
+"exerciseName24" = "Ters Masa Üstü";
+
+"exerciseName25" = "Karga";
+
+"exerciseName26" = "Yunus";
+
+"exerciseName27" = "Sfenks";
+
+"exerciseName28" = "Ön Kol Tahta";
+
+"exerciseName29" = "Yere Bakan Köpek";
+
+"exerciseName30" = "Burgulu Yere Bakan Köpek";
+
+"exerciseName31" = "Kurbağa";
+
+"exerciseName32" = "Kartal Kollarıyla Mükemmel Duruş";
+
+"exerciseName33" = "Kartal";
+
+"exerciseName34" = "Kulak Bastırma Pozu";
+
+"exerciseName35" = "Oturarak Omurga Burgusu";
+
+"exerciseName36" = "Bağdaş Kurarak Öne Katlanma";
+
+"exerciseName37" = "Eğri Poz";
+
+"exerciseName38" = "Kalp Pozu";
+
+"exerciseName39" = "Bağlı Yan Açı";
+
+"exerciseName40" = "Modifiye Genişletilmiş Yan Açı";
+
+"exerciseName41" = "Yan Açı";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "Ateş Giriş Pozu";
+
+"exerciseName44" = "Balık";
+
+"exerciseName45" = "Kapı";
+
+"exerciseName46" = "At";
+
+"exerciseName47" = "Kaplan";
+
+"exerciseName48" = "Burgulu Deve";
+
+"exerciseName49" = "Yarım Kurbağa";
+
+"exerciseName50" = "Çekirge";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "Ayakta Yarım Lotus";
+
+"exerciseName53" = "Yarım Bacak Açma";
+
+"exerciseName54" = "Eğilerek Yarım Ay Varyasyonu";
+
+"exerciseName55" = "Yarım Ay";
+
+"exerciseName56" = "Omuz Duruşu";
+
+"exerciseName57" = "Bilge Marichi Pozu III";
+
+"exerciseName58" = "Baş Üstü Duruş";
+
+"exerciseName59" = "Tripod Baş Üstü Duruş";
+
+"exerciseName60" = "Mutlu Bebek";
+
+"exerciseName61" = "Balıkçıl Pozu";
+
+"exerciseName62" = "Dönmüş Hamle";
+
+"exerciseName63" = "Yüksek Hamle";
+
+"exerciseName64" = "Eğilen Savaşçı";
+
+"exerciseName65" = "Tam Kobra";
+
+"exerciseName66" = "Dansçı";
+
+"exerciseName67" = "Rüzgâr Dindirme Pozu Varyasyonu";
+
+"exerciseName68" = "Güneşe Selam";
+
+"exerciseName69" = "Kertenkele Pozu";
+
+"exerciseName70" = "Çekirge Pozu Varyasyonu";
+
+"exerciseName71" = "Burgulu Hilal Hamlesi";
+
+"exerciseName72" = "Hilal Hamlesi";
+
+"exerciseName73" = "Denizkızı";
+
+"exerciseName74" = "Tek Ayakla Yukarı Bakan Yay";
+
+"exerciseName75" = "Tavşan";
+
+"exerciseName76" = "Kraliyet Güvercini Hazırlık";
+
+"exerciseName77" = "Piramit";
+
+"exerciseName78" = "Yarım Güvercin";
+
+"exerciseName79" = "Terazi Pozu";
+
+"exerciseName80" = "Köprü";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "Yüksek Dua Varyasyonu";
+
+"exerciseName83" = "Tahta";
+
+"exerciseName84" = "Uzanarak Ayaktan Parmağa B";
+
+"exerciseName85" = "Saban";
+
+"exerciseName86" = "Yaylı Kaplan Varyasyonu";
+
+"exerciseName87" = "Barışçı Savaşçı";
+
+"exerciseName88" = "Burgulu Yarım Ay";
+
+"exerciseName89" = "Baş Dize Pozu";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "Uzanarak Güvercin";
+
+"exerciseName92" = "Baş Dize Burgulu Poz";
+
+"exerciseName93" = "Burgulu Üçgen";
+
+"exerciseName94" = "Alçak Hamle";
+
+"exerciseName95" = "Ayakta Durur Vaziyette Ayak Parmağa Burgulu Varyasyon";
+
+"exerciseName96" = "Sırt Üstü Yatarak Omurga Burgusu";
+
+"exerciseName97" = "Uzanarak Bağlı Açı";
+
+"exerciseName98" = "Uzanarak Ayak Parmağa A";
+
+"exerciseName99" = "Oturarak Öne Katlanma";
+
+"exerciseName100" = "Ayakta Durur Vaziyette Ayak Parmağa D ";
+
+"exerciseName101" = "Yan Tahta";
+
+"exerciseName102" = "Kollarla İnek Suratı";
+
+"exerciseName103" = "Oturarak Yana Eğilme";
+
+"exerciseName104" = "Omuz Duruşu Varyasyonu";
+
+"exerciseName105" = "Ayakta Geri Eğilme";
+
+"exerciseName106" = "Ayakta Durur Vaziyette Ayak Parmağa B";
+
+"exerciseName107" = "Parmaklar Birbirine Geçirilmiş Vaziyette Çekirge Varyasyonu";
+
+"exerciseName108" = "Asa Pozu";
+
+"exerciseName109" = "Sfenks";
+
+"exerciseName110" = "Modifiye Yan Tahta";
+
+"exerciseName111" = "Bacaklar Açık Öne Eğilme";
+
+"exerciseName112" = "Yoga Çömelme";
+
+"exerciseName113" = "Oturarak Geniş Açılı Öne Eğilme";
+
+"exerciseName114" = "Bacaklar Açık Öne Eğilme C";
+
+"exerciseName115" = "Baş Dize Burgulu Poz Varyasyonu";
+
+"exerciseName116" = "Bağlı Yoga Çömelme";
+
+"exerciseName117" = "Yere Bakan Kahraman Pozu";
+
+"exerciseName118" = "Bacaklar Açık Burgulu Öne Eğilme ";
+
+"exerciseName119" = "Yana Esnemeyle Bacaklar Açık Öne Eğilme";
+
+"exerciseName120" = "Uyuyan Vishnu";
+
+"exerciseName121" = "Yukarı Bakan Bağlı Açı Duruşu";
+
+"exerciseName122" = "Savaşçı 2";
+
+"exerciseName123" = "Parmaklar Birbirine Geçirilmiş Vaziyette Ayakta Yana Eğilme";
+
+"exerciseName124" = "Ayakta Bacak Açma";
+
+"exerciseName125" = "Ayakta Öne Katlanma";
+
+"exerciseName126" = "Ayakta Durur Vaziyette Ayak Parmağa A";
+
+"exerciseName127" = "Omuz Açma Varyasyonuyla Ayakta Öne Katlanma";
+
+"exerciseName128" = "Savaşçı 1";
+
+"exerciseName129" = " Savaşçı 3";
+
+"exerciseName130" = "Ayakta Yana Eğilme";
+
+"exerciseName131" = "Destekli Omuz Duruşu";
+
+"exerciseName132" = "Ters Tahta";
+
+"exerciseName133" = "Ayakta Durur Vaziyette Öne Katlanarak Ayak Parmağa C";
+
+"exerciseName134" = "Ayakta Burgulu Öne Katlanma";
+
+"exerciseName135" = "Ayakta Destekli Geri Eğilme";
+
+"exerciseName136" = "Dört Uzuvlu Asa Pozu";
+
+"exerciseName137" = "Masa Üstü ve Dört Uzuvlu Asa Pozu";
+
+"exerciseName138" = "Yukarı Bakan Yay";
+
+
+//Exercise description
+
+"exerciseDescription1" = "Ayaklarınızı kalçalarınızla aynı hizada olacak şekilde birbirinden ayırın ve ayaklarınızın dış kısımları birbirine paralel olacak vaziyette ayakta durun. Omurganızı uzatın ve göbeğinizi omurganıza doğru çekin. Başınızın üstüne bastırın ve kuyruk kemiğinizi topuklarınıza doğru çekin.";
+
+"exerciseDescription2" = "Yere oturun ve sol ayağınızın dış kısmını sağ uyluğunuzun altına ve oturma kemiğinizin önüne yerleştirerek sol dizinizi bükün. Ardından sağ ayağınızın dış kısmını kavrayın ve sol kalça kıvrımınıza yerleştirin. Avuç içlerinizi yere bakar şekilde diz kapaklarınızın üzerine yerleştirin ve omuzlarını gevşeterek dik oturun. Sol bacak yukarıda olacak şekilde tekrarlayın.";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = "Ayaklarınızı kalçalarınızla aynı hizada olacak şekilde birbirinden ayırın. El ayalarınız yere bakar şekilde kollarınızı doğrudan önünüze uzatın. Dizlerinizi bükün ve ayağınızın arkasının parmakların altında kalan kısmı üzerinde yükselin.";
+
+"exerciseDescription5" = "Avuç içlerinizle başınızın arkasını kavrayarak sırt üstü yatın. Sol ayak bileğinizi sağ ayak bileğinizin üstüne atın. Vücudunuzun üst kısmını ve bacaklarınızı sağa hareket ettirerek yana doğru eğilin. Merkeze dönün, ayak bileğinizi bu kez sağ bacak yukarıda olacak şekilde diğer bileğin üstüne atın ve sola doğru yana eğilin.";
+
+"exerciseDescription6" = "Ayaklarınızı kalçalarınızla aynı hizada olacak şekilde birbirinden ayırın ve öne katlanmış vaziyette ayakta durun. Dizlerinizi bükün ve sağ kolunuzu önünüze alın, bacaklarınızın arasından geçirin, dirseğinizi bükün ve sağ elinizi sağ kalçanızın dışına doğru uzatın. Sol dirseğinizi sırtınızın arkasında bükün ve sol elinizi sağ kalçanızın dışına doğru uzatın. Sol bileğinizi sağ elinizle tutun. (Eğer bileğe ulaşamıyorsanız, her iki el parmak uçlarınızı birbirine geçirmeyi deneyin.) \n \n Elleriniz sağ kalçanızın dışının yanında kavuştuğunda, sağ topuğunuzu kaldırın, ağırlığınızı sol ayağınıza verin ve sol bacağınız üzerine kalkın. Sol bacağınızı düzleştirip omurganızı uzatırken sağ dizinizi bükülü tutun. Son olarak, sağ bacağınızı yana doğru uzatırken sağ kolunuzu sağ bacağınıza bastırın. \n \n Kollarınız sol bacağa dolanmış vaziyette sağ bacağınız üzerinde durarak tekrarlayın.";
+
+"exerciseDescription7" = "Dizleriniz bükülü ve ayak tabanlarınız önünüze yerleşmiş vaziyette oturun. Ellerinizi uyluklarınızın altına yerleştirin ve oturma kemiklerinizi dengeleyebilmek için ayaklarınızı yerden kaldırın. Belinizi döndürmeden bacaklarınızı uzatabildiğiniz kadar uzatın. Zamanla esnekliğiniz arttığında, ellerinizi ayaklarınıza doğru bacaklarınıza kaydırabilir ve nihayetinde ayak başparmaklarınızı her elin ilk üç parmağıyla tutabilirsiniz.";
+
+"exerciseDescription8" = " Dizleriniz bükülü, ayak tabanlarınız önünüze yerleşmiş ve kollarınız uzanmış vaziyette oturun. Ayaklarınızı yerden kaldırın ve kollarınız bacaklarınızın yanına uzatılmış vaziyette kaval kemiklerinizi tavana paralel konuma getirin. Oturma kemiklerinizi dengeleyerek, en az 5 nefes boyunca sürdürün.";
+
+"exerciseDescription9" = "Göbeğinizin üstüne yatın, dizlerinizi bükün ve ayak bileklerinizin dış kısımlarını tutmak için geriye uzanın. Başınızı, göğsünüzü ve bacaklarınızı yerden kaldırın. Başınızın üst kısmını ve kaval kemiklerinizi tavana doğru kaldırırken bacaklarınızın kalçalarınızla aynı hizada olması için gereken aralıktan daha fazla açık olmamasını sağlayın.";
+
+"exerciseDescription10" = "Dizleriniz bükülü, ayak tabanlarınız kalçalarınızla aynı hizada olacak şekilde aralıklı ve ayakların dış kısmı birbirine paralel vaziyette sırt üstü yatın. Ayak bileklerinizin dış kısmını ellerinizle tutun, pelvisinizi yerden kaldırın ve göğsünüzü yukarıya doğru eğin.";
+
+"exerciseDescription11" = "Kaval kemikleriniz birbirine paralel ve ayaklarınızın üst kısmı yerde olacak şekilde diz çökün. Kalçalarınızı dizlerinizin üzerinde ve omuzlarınızı kalçalarınızın üzerinde konumlandırın. Göğsünüzü gökyüzüne doğru kaldırın ve topuklarınızı tutmak için geri uzandığınızda kalçalarınızı dizlerinizin üzerinde tutun.";
+
+"exerciseDescription12" = "Omuzlarınız bileklerinizin üzerinde ve kalçalarınız dizlerinizin üzerinde olacak şekilde dört uzuv üzerinde masa üstü pozisyonuyla başlayın. Nefes verirken, başınızı yere doğru serbest bırakacak, göbeğiniz omurganıza doğru çıkacak ve kuyruk sokumunuz yere doğru aşağıya kıvrılacak şekilde omurganızı yuvarlaklaştırın.";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "Ayaklarınız kalçalarınızla aynı hizada olacak şekilde birbirinden ayrılmış ve ayaklarınızın dış kısımları birbirine paralel vaziyette ayakta durun. Nefes alın ve avuç içleri birbirine bakar vaziyette kollarınızı kulaklarınızın yanına uzatın. Dizlerinizi büküp, kalçalarınızı geri çekerken kollarınızı omuzlarla aynı hizada olacak şekilde birbirinden ayrı tutun. Uyluklarınızı yere paralel konuma getirmeye ve alt göbeğiniz ile göğsünüzü kaldırırken aynı konumda tutmaya çalışın.";
+
+"exerciseDescription15" = "Ayak başparmaklarınız bitişik ve ayaklarınızın dış kısımları birbirine paralel vaziyette ayakta durun. Dizlerinizi bükün ve avuç içlerinizi göğsünüzün önünde birleştirin. Omurganızı uzatıp, kalçalarınızı aşağıda tutarken nefes alın. Nefes verirken, sağa burgu yapın ve sol dirseğinizi sağ uyluğunuzun dış kısmına kıvırın. Avuç içleriniz göğsünüzün önünde dua pozisyonda merkeze geri nefes alın. Sol tarafa ters burgu yaparken nefes verin.";
+
+"exerciseDescription16" = " Ayak başparmaklarınız bitişik ve ayaklarınızın dış kısımları birbirine paralel vaziyette ayakta durun. Dizlerinizi bükün ve avuç içlerinizi göğsünüzün önünde birleştirin. Omurganızı uzatıp, kalçalarınızı aşağıda tutarken nefes alın. Nefes verirken, sağa burgu yapın ve sol dirseğinizi sağ uyluğunuzun dış kısmına kıvırın. Sol el parmaklarınızın ucu sağ ayak bileğiniz dışından yere uzanacak ve sağ kolunuz gökyüzüne doğru uzanacak şekilde kollarınızı \"T\" şeklinde açın. Yukarı sağ avuç içinize bakın. \n\n Avuç içleriniz göğsünüzün önünde dua pozisyonda merkeze dönmek için nefes alın. Sol tarafa ters burgu yaparken, sağ dirseğinizi sol uyluğunuzun dış kısmına kıvırarak nefes verin. Bu sefer sağ el parmak uçlarınızı sol ayak bileğinizin dış kısmına uzatarak ve sol kolunuzu gökyüzüne doğru esnetirken kollarınızı açın. Yukarı sol avuç içinize bakın.";
+
+"exerciseDescription17" = "Elleriniz ve dizleriniz masa üstü pozisyonunda başlayın. Ayak başparmaklarınızı bir araya getirin ve alnınızı yere doğru serbest bırakırken topuklarınız üzerinde geri oturun. Avuç içleri yukarıya bakacak şekilde, kollarınızla vücudunuzun yanına uzatın.";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = "Göbeğinizin üzerine uzanın ve avuç içlerinizi hemen belinizin üzerinde alt kaburga kemiklerinizin yanına yere dönük şekilde yerleştirin. Ellerinizi bastırarak üst vücudunuzu yerden kaldırın ve dizlerinizi, kaval kemiklerinizi ve ayaklarınızın üst kısmını yerde bırakın. Alt karnınızı devreye sokmak için kuyruk sokumunuzu topuklarınıza doğru uzatın ve kollarınızı sadece belinizi zorlamayacak şekilde bunu yapabilmenizi sağlayacak ölçüde düzleştirin. \n\n Sol avuç içiniz yerde kalmaya devam ederken, göğsünüzü ve başınızı sağa çevirin ve sağ elinizi sağ uyluğunuzun arkasına doğru aşağıya kaydırın. Merkeze dönün ve sol tarafa doğru tekrarlayın.";
+
+"exerciseDescription20" = "Bacaklarınız uzatılmış ve kollarınız yanınızda, avuç içleriniz yukarı bakar vaziyette sırt üstü yatın. Gözlerinizi kapatın ve vücudunuzun ağırlığını yere bırakarak kaslarınızı gevşetin.";
+
+"exerciseDescription21" = "Dört uzuv üzerinde masa üstü pozisyonuyla başlayın. Nefes alırken, arkaya doğru köprü kurun, çenenizi kaldırın ve yukarı bakın.";
+
+"exerciseDescription22" = "Yere oturun, dizlerinizi bükün ve her iki diz de göbeğinizin önünde ve topuklarınızın arasında oturacak şekilde sağ dizinizi sol dizinizin üstüne atın. Sol kolunuzu tavana doğru uzatın, sol dirseğinizi bükün ve parmak uçlarınızı sırtınıza işaret edecek şekilde aşağıya doğru konumlandırın. Sağ kolunuzu sağ tarafınıza uzatın, sağ avuç içinizi arkanıza bakacak şekilde çevirin ve parmak uçlarınız sırtınıza işaret edecek şekilde yukarıya bakar vaziyette sağ dirseğinizi bükün. Sol ve sağ el parmak uçlarınızı birbirine kenetleyin. Sol diziniz üstte ve sağ kolunuz üstte ikinci tarafa tekrarlayın.";
+
+"exerciseDescription23" = "Yere oturun, dizlerinizi bükün ve her iki diz de göbeğinizin önünde ve topuklarınızın arasında oturacak şekilde sağ dizinizi sol dizinizin üstüne atın. Kollarınızı kulaklarınızın yazına uzatırken, omurganızı uzatın. Sol diziniz sağ dizinizin üstünde ikinci tarafa tekrarlayın.";
+
+"exerciseDescription24" = "Dizleriniz bükük ve ayaklarınız önünüzde kalçalarınızla aynı hizada olacak şekilde birbirinden ayrılmış vaziyette oturun. Avuç içlerinizi omuzlarınızla aynı hizada olacak şekilde birbirinden ayrılmış vaziyette ve parmak uçlarınız ileriye işaret eder şekilde arkanıza yerleştirin. Dizleriniz 90 derecelik açıyla bükülü olacak şekilde pelvisinizi yerden kaldırın. Dizlerinizi ayak bileklerinizin üzerinde ve omuzlarınızı bileklerinizin üzerinde birleştirin. Her iki elin işaret ve başparmaklarını aşağıya doğru bastırın. Başlamak için, burnunuz tavana işaret eder şekilde boynunuzu omurganızın geri kalan kısmıyla aynı hizada tutun. Herhangi bir servikal omur sorununuz yoksa kafa kaideniz kürek kemiklerinizin hemen üzerinde tutacak şekilde başınızı nazikçe geriye sarkıtın.";
+
+"exerciseDescription25" = "Ayaklarınız bitişik olacak şekilde öne katlanarak ayakta durun. Dizlerinizi bükün, elleriniz omuzlarınızla aynı hizada olacak şekilde birbirinden ayrılmış ve parmak uçlarınızın etli kısmıyla yere bastırırken avuç içlerinizi ayaklarınızın yaklaşık 30 cm önüne yerleştirin. Kalçalarınızı kaldırmak için topuklarınızı yerden yükseğe kaldırın ve dizlerinizi üst kollarınızın gerisine alçaltarak kollarınızla bir raf oluşturun. Dirseklerinizi yaklaşık 90 derece bükün ve bileklerinizin üzerinde birleştirin. Yerde ellerinizin ötesine bakın ve yavaşça ağırlığınızı ellerinize verin. Omuzlarınız hafif ileriye çevrildiğinde ve tüm ağırlığınızı ellerinize verdiğinizde, tek veya iki ayağınızı yerden kaldırma alıştırması yapın. Zamanla, ayak başparmaklarınızı göstererek oturma kemiklerinize doğru getirme alıştırması yapın.";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = "Göbeğinizin üstüne yatın ve ön kollarınız birbirine paralel ve dirsekleriniz omuzlarınızla aynı hizada olacak şekilde birbirinden ayrı vaziyette kendinizi dirseklerinizin üzerinde destekleyin. Göğsünüzü kollarınızla ileriye doğru iterken, dirseklerinizi kalçalarınıza doğru sürükleyin. Ayak parmaklarınızı gösterin ve kuyruk sokumunuzu topuklarınıza doğru kaydırın.";
+
+"exerciseDescription28" = "Göbeğinizin üstüne yatın ve ön kollarınız birbirine paralel ve dirsekleriniz omuzlarınızla aynı hizada olacak şekilde birbirinde ayrı vaziyette kendinizi dirseklerinizin üzerinde destekleyin. Ayak parmaklarınızı alta sokun ve uyluklarınızı ve pelvisinizi yerden kaldırın. Omuzlarınızı dirseklerinizin üzerinde ortalayın ve göbeğinizi belinize doğru kaldırın. Uyluklarınızın ön kısımlarını devreye sokun ve kalçalarınızın havada pike yapmasını engellemek için kasık kemiğinizi göbeğinize doğru çekin.";
+
+"exerciseDescription29" = "Bilekleriniz omuzlarınızın altında ve parmaklarınız açık vaziyette dört uzuv üzerinde masa üstü pozisyonuyla başlayın. Ayaklarınızı tahta pozisyonuna getirin ve bacaklarınızla göbeğinizi devreye sokarak yukarıya doğru şınav çekin. Buradan itibaren, kalçalarınızı kaldırın ve topuklarınızı yere doğru esnetirken göğsünüzü bacaklarınıza bastırın. Üst vücudunuzu bacaklarınıza doğru getirmek için ellerinizle yere bastırın. Her iki elinizin işaret ve başparmağını sıkıca bastırın ve topuklarınızı ikinci ve üçüncü ayak parmaklarıyla aynı hizada tutarak ayaklarınızı kalçalarınızla aynı hizaya gelecek şekilde birbirinden ayrı vaziyette yerleştirin.";
+
+"exerciseDescription30" = " Bilekleriniz omuzlarınızın altında ve parmaklarınız açık vaziyette dört uzuv üzerinde masa üstü pozisyonuyla başlayın. Ayaklarınızı tahta pozisyonuna getirin ve bacaklarınızla göbeğinizi devreye sokarak yukarıya doğru şınav çekin. Buradan itibaren, kalçalarınızı kaldırın ve topuklarınızı yere doğru esnetirken göğsünüzü bacaklarınıza bastırın. Üst vücudunuzu bacaklarınıza doğru getirmek için ellerinizle yere bastırın. Her iki elinizin işaret ve başparmağını sıkıca bastırın ve topuklarınızı ikinci ve üçüncü ayak parmaklarıyla aynı hizada tutarak ayaklarınızı kalçalarınızla aynı hizaya gelecek şekilde birbirinden ayrı vaziyette yerleştirin. \n\n Sol bileğinizin veya baldırınızın arkasını tutmak için sağ kolunuzu bacaklarınızın arasındaki boşluktan uzatırken, sol avuç içinizi yere bastırın. Kalçalarınızın dış kısmına uzanmak için devam edin ve sol avuç içinizle yere basın. İkinci tarafta tekrarlayın.";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = "Dizleriniz herhangi bir tarafa bükülü, ayaklarınız kasık kemiğinizin önünde ve sol ayağınız sağ ayağınızın önünde olacak vaziyette oturun. Dirseklerinizi bükün ve sağ dirseğinizi sol dirseğinizin altına kıvırın. Avuç içlerinizin içe bakması için bileklerinizi üst üste atın. Dirseklerinizi kaldırın ve avuç içlerinizi ileri bastırın. Sağ ayak önde ve sol dirsek altta olacak şekilde ikinci tarafta tekrarlayın.";
+
+"exerciseDescription33" = "Ayaklarınız bitişik olacak şekilde ayakta durun ve sağ topunuzu yerden kaldırın. Dirseklerinizi bükün ve sağ dirseğinizi sol dirseğinizin altına kıvırın. Avuç içlerinizin içe bakması için bileklerinizi üst üste atın. Dirseklerinizi kaldırın ve avuç içlerinizi ileri bastırın. \n\n Sol dizinizi bükün, sol bacağınız üzerinde denge kurarak ve sağ ayak başparmağınızı sol bileğinizin iç kısmına kıvırarak sağ dizinizi sol dizin üstüne atın. Kalçalarınızın dış kısmını geri çekerken göğsünüzü kalkık vaziyette tutun ve dirseklerinizi kaldırmaya devam edin.";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = "Avuç içleriniz diz kapaklarınıza doğru aşağı bakarken bağdaş kurarak rahat bir şekilde oturun. Nefes alırken, omurganızı uzatın. Nefes verirken ise sol parmak uçarınızı arkanızda yere koyarak ve sağ avuç içinizi sol dizkapağınıza yerleştirerek sola burgu yapın. Merkeze geri nefes alın ve nefes verirken, sağ parmak uçlarınızı arkanızda yere koyarak ve sol avuç içinizi sağ dizkapağınız üzerine koyarak sağa burgu yapın.";
+
+"exerciseDescription36" = " Bağdaş kurarak rahat bir şekilde oturun. Avuç içlerinizi önünüzde yere koyun ve kollarınız düz hale gelinceye dek avuç içlerinizi ileri doğru yürütün. Eğer alnınız yere değmezse, boynunuzun desteklenmesi için alnınızı katlanmış bir battaniye veya havluya yaslayın. Diğer bacak yukarıda tekrarlayın.";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = "Dört uzuv üzerinde masa üstü pozisyonuyla başlayın. Ellerinizi gidebildiği kadar ileriye yürütürken kalçalarınızı dizlerinizin üzerinde ve ellerinizi omuzlarla aynı hizada olacak şekilde birbirinden ayrılmış vaziyette tutun. Göğsünüzü yere yapıştırın.";
+
+"exerciseDescription39" = "Ayaklarınız birbirine paralel vaziyette bacaklarınız açık bir şekilde durun. Sağ ayağınızı 90 derece çevirin ve sağ uyluğunuzun yere paralel olması için sağ dizinizi 90 derece açıyla bükün. Sağ dizinizi ve sol bacağınızı ayak parmaklarınızı hafif içeri çevirerek sağ ayak bileğinizin üzerinde tutun. Gövdenizin sağ tarafını sağ uyluğunuzun üzerine uzatın ve sağ kolunuzu sağ bacağınızın içine getirin. \n\n Sağ kolunuzu uyluğunuzun altına geçirin, dirseğinizi bükün ve elinizi sağ kalçanızın dış kısmına doğru uzatın. Sol dirseğinizi sırtınızın arkasına bükün ve sol elinizi sağ kalçanızın dış kısmına doğru uzatın. Sol bileğinizi kavramak için sağ elinizi kullanın. (Eğer bileğinize ulaşamıyorsanız, her iki el parmak uçlarınızı birbirine geçirmeyi deneyin.) \n\n Kollarınız sağ bacağınızın etrafında bağlıyken, sağ kalçanızı altınıza alın ve gövdenizin sağ kısmı uyluğunuz üzerinde duracak şekilde arkanıza yaslanın. Başınızın üstünü sol ayağınızdan bastırırken boynunuzun kenarlarını uzatın. Sol ayağınızı yere bastırın ve sağ dizinizi ikinci ve üçüncü ayak parmaklarınız üzerinde ortalayın. \n\n Ellerinizin sol kalçanızın dış kısmında birleşmesi için kollarınızı sol bacağınızın etrafında bağlayarak sol tarafta tekrarlayın.";
+
+"exerciseDescription40" = "Ayaklarınız birbirine paralel vaziyette bacaklarınız açık bir şekilde durun. Sağ ayağınızı 90 derece çevirin ve sağ uyluğunuzun yere paralel olması için sağ dizinizi 90 derece açıyla bükün. Sağ dizinizi sağ ayak bileğinizin üzerinde tutun ve sol bacağınızı düz tutun. Gövdenizin sağ kısmını sağ uyluğunuz üzerine uzatın ve avuç içiniz yukarı bakar vaziyette sağ dirseğinizi sağ uyluğunuzun üzerine hafifçe koyun. Sol kolunuzu sol kulağınızın yanına uzatın ve sol elinize doğru bakarken göbeğinizi sağ ayağınızdan uzağa döndürün. Sol ayağınızı yere basın ve sağ dizinizi ikinci ve üçüncü ayak parmaklarınız üzerinde ortalayın. Sol tarafta tekrarlayın.";
+
+"exerciseDescription41" = " Ayaklarınız birbirine paralel vaziyette bacaklarınız açık bir şekilde durun. Sağ ayağınızı 90 derece çevirin ve sağ uyluğunuzun yere paralel olması için sağ dizinizi 90 derece açıyla bükün. Sağ dizinizi sağ ayak bileğinizin üzerinde tutun ve ayak parmaklarınızı hafif içeri döndürerek sol bacağınızı uzatın. \n\n Gövdenizin sağ kısmını sağ uyluğunuzun üzerine uzatın ve omzunuz bileğinizin üzerinde olacak şekilde yerdeki sağ avuç içinizi sağ ayağınıza yerleştirin. Sol kolunuzu düz bir şekilde gökyüzüne doğru uzatın. Sol ayağınızı yere basın ve sağ dizinizi ikinci ve üçüncü ayak parmaklarınız üzerinde ortalayın. Sol tarafta tekrarlayın.";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = "Oturun, ayağınızın dış kısmı yerde ve kavalkemiğiniz minderinizin önüne paralel olacak şekilde sol dizinizi sola doğru bükün. Sağ dizinizi sağa bükün ve sağ diziniz sol ayak bileğinizin üzerinde ve sağ ayak bileğiniz sol dizin üzerinde olacak şekilde sağ kavalkemiğinizi sol kavalkemiğinizin üzerine yerleştirin. Yavaşça gidebildiğiniz kadar ileri katlanın. Sol kavalkemiği yukarıda tekrarlayın.";
+
+"exerciseDescription44" = "Kollarınız yanınızda, avuç içleri yere bakar vaziyette sırt üstü uzanın. Göğsünüzü tavana doğru çekin ve başınızın tepesi yerde hafifçe dinlenecek şekilde başınızı geri sarkıtın. Bacaklarınızı yerden 45 derecelik açıyla yukarı kaldırın.";
+
+"exerciseDescription45" = "Kalçalarınız dizlerinizin üstünde, kavalkemikleri birbirine paralel ve ayakların üst kısmı yerde olacak şekilde diz çökün. Bacağınızın uzanması ve ayak parmaklarınızın sağa ve yere doğru işaret etmesi için sağ ayağınızla sağ tarafa adım atın. Sağ avuç içinizi sağ uyluğunuza yerleştirin ve sol kolunuzu sol kulağınızın yanına uzatın. Sağa doğru yan eğilirken, sağ elinizi sağ ayak bileğinize doğru kaydırın. Sol tarafta tekrarlayın.";
+
+"exerciseDescription46" = "Ayağa kalkın ve ayaklarınızı bir bacak uzunluğu kadar ayırın. Dizlerinizi büküp dizlerinizi ayak bileklerinizin üstünde toplarken ayak parmaklarınızı dışa çevirin. Dizlerinizin iç kısmını küçük ayak parmaklarınıza doğru geri bastırın ve kollarınızla kaktüs şekli oluşturarak dirseklerinizi diğer tarafa bükün.";
+
+"exerciseDescription47" = "Parmaklarınız açık, bilekleriniz omuzlarınız altında ve dizleriniz kalçalarınızın altında olacak şekilde dört uzuv üzerinde başlayın. Sağ bacağınızı yerden havaya kaldırırken parmak uçlarınızın altındaki etli kısma ve sol ayağınızın üst kısmına bastırın ve sağ bacağınızı geri tarafınıza doğru uzatın. Göbeğinizi ve ön kaburgalarınızı sırtınıza doğru kaldırın. Sağ kavalkemiği yerde ve sol bacak havada tekrarlayın.";
+
+"exerciseDescription48" = "Kavalkemikleriniz birbirine paralel, ayaklarınızın üst kısmı yerde, kalçalar dizlerin üzerinde ve omuzlar kalçaların üzerinde olacak şekilde diz çökün. Göğsünüzü tavana doğru kaldırın ve topuklarınızı tutmak için geri uzandığınızda kalçalarınızı dizlerinizin üzerinde tutun. \n\n Nefes alırken sol elinizi sol topuğunuzda tutun ve sağ kolunuzu gökyüzüne doğru uzatın. Göğsünüzle sola burgu yaparken nefes verin. Ardından sağ elinizi sağ topuğunuza geri getirin ve göğsünüzü gökyüzüne doğru çevirin. \n\n Nefes alın ve kolunuzu gökyüzüne doğru uzatın. Nefes verirken göğsünüzle sağa burgu yapın. Her iki elinizi topuklarınıza geri getirin ve duruştan çıkmak için elleriniz uyluklarınızdayken topuklarınızın üzerine oturmadan önce göğsünüzü tavana doğru eğin.";
+
+"exerciseDescription49" = "Göbeğinizin üstüne yatın ve ön kollarınız birbirine paralel ve dirsekleriniz omuzlarınızla aynı hizada olacak şekilde birbirinden ayrı vaziyette kendinizi dirseklerinizin üzerinde destekleyin. Sol ön kolunuz minderinizin önüne paralel olacak şekilde ve avuç içleri yere bakar vaziyette sol elinizi sağa hareket ettirin. Sağ dizinizi bükün ve sağ topuğunuzu kalçanızın dış kısmına doğru çekerek sağ ayağınızın üstünü sağ elinizle tutun. Sağ el parmak uçlarınızı sağa döndürürken elinizin ayasını ayağınızın üstünde tutun ve ardından sağ el parmak uçlarınızla sağ topuğunuza doğru işaret edin. Sağ göğsünüzü ileriye doğrulturken sağ dirseğinizi sağa doğru bükün. Sol tarafta tekrarlayın.";
+
+"exerciseDescription50" = "Çenenizde yerde, kollar yanınızda ve avuç içleri yere bakar vaziyette göbeğinizin üstüne yatın. Kollarınızı gövdenizin altında birbirine hareket ettirin ve ellerinizi kavuşturun. Her iki bacağınızı yerden kaldırın ve ayak parmaklarınızı gösterin. \n\n Her iki bacağı yere bırakın ve avuç içlerinizi aşağıya bakacak şekilde çevirerek ellerinizi ayırın. Sağ bacağınızı havaya kaldırın. Sağ bacağınızı alçaltın ve sol bacağınızı kaldırın. Sol bacağı yere geri koyun.";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = " Ayaklarınız bitişik vaziyette ayakta durun ve sağ dizinizi göğsünüze getirerek ağırlığınızı sol ayağınıza verin. Sağ ayağınızın dış kısmını sol elinizle tutun ve sol kalça kıvrımınıza yerleştirin. Her iki kolunuzu kulaklarınızın yanına uzatın. Sol diz bükük ve sol ayağın dış kısmı sağ kalça kıvrımında olacak şekilde sağ bacağınızın üzerinde durarak tekrarlayın.";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = "Bacaklarınız önünüze uzanmış vaziyette oturun. Sol dizinizi bükün ve sol ayağınızı sağ bacağınızın içine yerleştirin. Sol avuç içinizi arkanızda yere yerleştirin. Kulağınızın yanına sağ kolunuzla burgu yaparken nefes alın ve omurganızı uzatın. Sola burgu yaparken nefes verin ve sağ dirseğinizi sol uyluğunuzun dış kısmına kıvırın. Sağ diz bükülü şekilde sağa burgu yaparak tekrarlayın.";
+
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = "Sırt üstü uzanın, dizlerinizi bükün ve ayaklarınızın dış kısımlarına tutunun. Dizlerinizi koltukaltlarınıza doğru getirmek için ellerinizi ayaklarınıza bastırın ve iç uyluklarınızı esnetin. Belinizin mümkün olan en çok kısmını yerde tutun.";
+
+"exerciseDescription61" = "Dizleriniz bitişik, ayaklarınızın üst kısmı yerde olacak şekilde topuklarınızın arasına oturun. Sağ ayağınızı önünüzde yere yerleştirin ve sağ ayak tabanızın altında parmaklarını birbirine geçirin. Omurganızı uzatırken sağ bacağınızı havaya uzatın ve göğsünüzü sağ ayağınızın üstüne doğru kaldırın.";
+
+"exerciseDescription62" = "Sol ayağınız ileride ve parmak uçlarınız yerde sol ayağınızı çevreleyecek şekilde bir hamleyle başlayın. Sol dizinizin 90 derecelik açıyla bükülü olduğundan ve ayak bileğinizin üzerinde olduğundan ve sağ ayak tabanınızın parmakların altındaki kısmı yerdeyken sağ bacağınızın arkanıza uzandığından emin olun. Göbeğinizi sol uyluğunuzdan kaldırın ve avuç içlerinizi göğsünüzün önünde dua konumuna getirin. Omurganızı uzatırken nefes alın ve sağ dirseğinizi sol dizinizin dışına kıvırarak sola burgu yaparken nefes verin. Sol avuç içinizi sağ avuç içinize bastırın, sol omzunuzun üzerinden yukarıya bakın ve sağ topuğunuzu gökyüzüne doğru bastırın. Sağ bacak önde, sağa burgu yaparak tekrarlayın.";
+
+"exerciseDescription63" = "Sağ diziniz 90 derecelik açıyla bükülü ve ayak bileğinizin üzerinde, sol bacağınız arkanıza uzatılmış ve sol ayak tabanınızın parmakların altındaki kısmı yerde olacak şekilde hamle adımı atın. Omuzlarınızı kalçalarınızın üzerine kaldırın, ellerinizi kalçalarınıza koyun, sağ kalçanızı arka yöne verin ve sol kalçanızı ileriye doğru konumlandırın. Kollarınızı kulaklarınızın yanına uzatın. Sol bacak ileride olacak şekilde tekrarlayın.";
+
+"exerciseDescription64" = " Sağ diziniz 90 derecelik açıyla bükülü ve ayak bileğinizin üzerinde, sol bacağınız arkanıza uzatılmış ve sol ayak tabanınızın parmakların altındaki kısmı yerde olacak şekilde hamle adımı atın. Omuzlarınızı kalçalarınızın üzerine kaldırın ve parmaklarınızı sırtınızın arkasında birbirine geçirin. Sağ bacağınızın içinde öne katlanın, başınızın tepe kısmını yere doğru serbest bırakın ve avuç içlerinizi belinizden öteye uzatın. Sol topuğunuzu tavana doğru bastırırken sağ kalçanızı tutun. Sol bacak ileride ve parmakları ters şekilde birbirine geçirerek (örneğin: ters işaret parmağı ve başparmak yukarıda olacak şekilde) tekrarlayın.";
+
+"exerciseDescription65" = "Göbeğinizin üstüne uzanın ve avuç içlerinizi göğsünüzün herhangi bir tarafına yerleştirin. Üst vücudunuzu yerden kaldırmak için ellerinize bastırın. Dizlerinizi bükün, ayak parmaklarınızı gösterin ve ayaklarınıza uzanırken göğsünüzü ve başınızın tepesini birbirine doğru kıvırın.";
+
+"exerciseDescription66" = " Ayaklarınız bitişik vaziyette ayakta durun ve sağ kolunuzu omuz uzunluğu mesafesinde ileriye uzatın. Sol dizinizi bükerken ağırlığınızı sağ ayağınıza verin, sol ayağınızı sol oturma kemiğinize doğru kaldırın ve sol ayağınızın iç kısmını sol elinizle tutun. Sol dizinizi vücudunuzun orta çizgisine doğru çekerek, göğsünüzü ileriye götürürken sol uyluğunuzu geri çekin Sağ kolunuzu tavana doğru kaldırın ve göğsünüzü sol uyluğunuzun üstünden öteye kaldırın. Sol bacak üstünde durarak tekrarlayın.";
+
+"exerciseDescription67" = "Bacaklarınız yere uzatılmış vaziyette sırt üstü uzanın. Sol dizinizi göğsünüze doğru çekin ve parmaklarınızı bacağınızın dışında birbirine geçirin. Sol bacak uzatılmış ve sağ diz bükülü şekilde tekrarlayın.";
+
+"exerciseDescription68" = "Bilekleriniz omuzlarınızın altında, dizleriniz kalçalarınızın altında ve ayak parmaklarınız içe kıvrık vaziyette dört uzvunuz üzerinde durarak başlayın. Nefes alırken sırtınızı eğin. Nefes verirken oturma kemiklerinizi havada tutun, dizlerinizi bükün ve göğsünüz ve çenenizle yere alçaltın. Bir ters poz olarak, sırt üstü yatabilir ve belinizi serbest bırakmak için dizlerinizi göğsünüze doğru sarabilirsiniz.";
+
+"exerciseDescription69" = "Sağ ayağınız ileride ve parmak uçlarınız yerde sağ ayağınızı çevreleyecek şekilde bir hamleyle başlayın. Sağ dizinizin 90 derecelik açıyla bükülü olduğundan ve ayak bileğinizin üzerinde olduğundan emin olun. Sol dizinizi ve sol ayağınızın üstünü yere alçaltın. Sağ avuç içinizi sağ ayağınızın içine yerleştirin ve ardından dirseklerinizi, sağ topuğunuz ve ön kollarınızla aynı hizada ve birbirine paralel olacak şekilde yere doğru alçaltın. Sağ dizinizi sağ omzunuza doğru sarın, omurganızı uzatın ve göğsünüzle başınızın tepesini ileriye uzatın. Sol tarafta tekrarlayın.";
+
+"exerciseDescription70" = "Kollarınız yanınızda göbeğinizin üstüne uzanın. Kollarınızı yerden kaldırın, avuç içlerinizi dışarıya bakacak şekilde çevirin ve başparmaklarınızla geriye uzanın. Göğsünüzü, başınızı ve bacaklarınızı yerden kaldırın. Ayak parmaklarınızı gösterin ve ayaklarınızı geri uzatın.";
+
+"exerciseDescription71" = "Sağ ayağınız ileride ve parmak uçlarınız yerde sağ ayağınızı çevreleyecek şekilde bir hamleyle başlayın. Sağ dizinizin 90 derecelik açıyla bükülü ve ayak bileğinizin üzerinde olduğundan emin olun. Sol dizinizi ve sol ayağınızın üstünü yere alçaltın. Göğsünüzü yukarı kaldırırken ellerinizi sağ uyluğunuza yükseltin ve omuzlarınızı kalçalarınızın üzerinde aynı hizaya getirin. \n\n Nefes alırken omurganızı uzatın, sol avuç içinizi sağ dizinizin dışına yerleştirerek ve sağ elinizi sol uyluğunuzun arkasına çekerek sağa burgu yapın. Burguyu tamamlamak için, sağ omzunuzun üzerinden ileriye bakın. \n\n Sol tarafta tekrarlayın.";
+
+"exerciseDescription72" = "Sağ ayağınız ileride ve sağ diziniz sağ ayak bileğinizin üzerinde bir hamleyle başlayın. Sol dizinizi yerde arkanıza alçaltın ve sol ayağınızın üstünü yere yerleştirin. Sağ kalçanızı geriye kaydırarak ve sol kalçanızı sağ uyluğun içine doğru ileriye sararak kalçalarınızı hizaya getirin. Kollarınızı kulaklarınızın yanına uzatın ve göğsünüzü gökyüzüne doğru eğerek sağ uyluğun tepesinden öteye göbeğinizi kaldırın. Yukarı avuç içlerinizin arasına bakın.";
+
+"exerciseDescription73" = " Dört uzuv üzerinde masa üstü pozisyonuyla başlayın.  Sol dizinizi sol bileğinizin arkasına yerleştirin ve sol ayağınızın dış kısmını sağ bileğinizin arkasına yerleştirin. Ayak parmaklarınız içeri kıvrılmış vaziyette sağ bacağınızı arkanıza uzatın ve sağ dizinizi ve ayağınızın üstünü yere yerleştirmeden önce sağ bacağınızı geriye doğru çekebildiğiniz kadar çekin. Omuzlarınızı kalçalarınızın üzerine kaldırın ve sol ayağınızın dış kısmını sağ kalçanızın önüne yerleştirin. Sağ dizinizi bükün ve sağ elinizle sağ ayağınızı tutarak ayağı sağ dış uyluğa doğru getirin. Ayağı sağ dirseğinizin kıvrımına kaydırın. Sol kolunuzu kulağınızın yanına uzatın ve parmak uçlarınız yere bakacak şekilde sol dirseğinizi bükün. Göğsünüzü kaldırırken sağ parmak uçlarınızla sol parmak uçlarınızı birbirine kenetleyin.";
+
+"exerciseDescription74" = "Kollarınız yanınızda ve ayak tabanlarınız kalçalarınızla aynı hizada olacak şekilde birbirinden ayrılmış vaziyette sırt üstü yatın. Ayaklarınızın dış kısımları birbirine paralel olmalı ve parmak uçlarınız topuklarınızın kenarlarına değmelidir. Dirseklerinizi bükün ve avuç içlerinizi omuzlarınızın üzerine yerleştirin. Pelvis, göğüs ve başınızı yerden kaldırın. Dış uylukların iç uyluklara doğru sarmal hareket yapması için uyluklarınızı içe doğru döndürün. Kollarınızı kullanarak göğsünüzü kaldırın. \n\n Ayaklarınızı birleştirin ve ağırlığınızı sol ayağınıza vererek, sağ dizinizi göğsünüze doğru kıvırın. Sağ bacağı havaya düz bir şekilde uzatın. Sağ ayağınızı yere geri getirin ve sol bacak kalkık vaziyette tekrarlayın.";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = " Dört uzuv üzerinde masa üstü pozisyonuyla başlayın.  Sol dizinizi sol bileğinizin arkasına yerleştirin ve sol ayağınızın dış kısmını sağ bileğinizin arkasına yerleştirin. Ayak parmaklarınız içeri kıvrılmış vaziyette sağ bacağınızı arkanıza uzatın ve sağ dizinizi ve ayağınızın üstünü yere yerleştirmeden önce sağ bacağınızı geriye doğru çekebildiğiniz kadar çekin. Omuzlarınızı kalçalarınızın üzerine kaldırın, sol ayağınızın dış kısmını sağ kalçanızın önüne yerleştirin ve omurga arkanızı kaldırırken avuç içlerinizi yanda dinlendirin. Sağ diziniz önde bükülü şekilde tekrarlayın.";
+
+"exerciseDescription77" = " Ayaklarınız bitişik vaziyette ayakta durun. Sol ayağınızla yaklaşık bir bacak uzunluğu mesafesinde geriye adım atın ve sol ayağınızı 30 derece sola doğru konumlandırın. Sol topuğunuza bastırırken nefes alın ve omurganızı uzatın ve sağ ayağınızı ellerinizle çevreleyerek sağ bacağınız üzerine katlanırken nefes verin. Sol ayak ileride olacak şekilde tekrarlayın.";
+
+"exerciseDescription78" = " Dört uzuv üzerinde masa üstü pozisyonuyla başlayın.  Sağ dizinizi doğrudan sağ kalçanızın önüne yerleştirin ve ağırlık merkeziniz iki tarafınız arasında olacak vaziyette sol bileğinizin arkasına, bileğe mümkün olduğunca yakın olacak şekilde yerleştirin. Ayak parmaklarınız içe kıvrık şekilde sol bacağınızı arkanıza uzatın ve sol dizinizle sol ayağınızın üstünü yere yerleştirmeden önce sol bacağınızı mümkün olduğunca geriye çekin. Ayak başparmaklarınızın dümdüz geriye baktığından ve sağ kavalkemiğinizin üzerine ileri doğru katlanmadan önce ağırlığınızın merkez olduğundan (yani yan tarafınıza eğilmediğinizden) emin olun. Sol diz ileride olacak şekilde tekrarlayın.";
+
+"exerciseDescription79" = "Bacaklarınız önünüze uzanmış vaziyette oturun. Sağ dizinizi bükün ve ayağınızın dış kısmını sol kalça kıvrımına yerleştirin. Sol dizinizi bükün ve sol ayağınızı sağ kalça kıvrımına yerleştirmek için sol kavalkemiğinizi sağ kavalkemiğinizin üstüne atın.  (Eğer bu şekil sizin için erişilebilir değilse, zorlama girişiminde bulunarak dizlerinizin sağlığını TEHLİKEYE ATMAYIN. Bunun yerine, sadece sol ayak bileğinizi sağ ayak bileğinizin üstüne atın.) \n\n Yerde avuç içlerinizi uyluklarınızın dışına, kalçalarınızın birkaç inç ilerisine yerleştirin. Nefes verirken, göbeğinizi omurganıza doğru çekin, parmaklarınızın altındaki etli kısma bastırın ve pelvisinizle uyluklarınızı yerden kaldırın. Sağ kavalkemiğiniz veya ayak bileğiniz sol taraftakinin üstünde olacak şekilde tekrarlayın.";
+
+"exerciseDescription80" = "Kollarınız yanınızda ve ayak tabanlarınız kalçalarınızın hizasında olacak şekilde birbirinden ayrılmış vaziyette sırt üstü yatın. Ayaklarınızın dış kısımları birbirine paralel olmalı ve parmak uçlarınız topuklarınızın kenarlarına değmelidir. Pelvisinizi yerden kaldırın ve üst kollarınızı altınızda bir araya getirerek yerde parmaklarınızı birbirine geçirin. Göğsünüzü kaldırmak için kollarınızın arka kısımlarına bastırın. \n\n Ayaklarınızı birleştirin, sağ dizinizi göğsünüze doğru çekin ve sağ bacağınızı havaya düz bir şekilde uzatın. Sağ ayağınızı yere geri getirin ve sol bacak kalkık vaziyette tekrarlayın.";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = " Ayaklarınızı kalçalarınızla aynı hizada olacak şekilde birbirinden ayırın. Parmaklarınızı önünüzde birbirine geçirin, parmak içlerinizi dışarı bakacak şekilde çevirin ve avuç içleri tavana bakar vaziyette kollarınızı kulaklarınızın yanına uzatın. Elleri ters şekilde birbirine geçirerek (yani diğer işaret parmağı ve başparmak yukarıda olacak şekilde) tekrarlayın.";
+
+"exerciseDescription83" = " Dört uzuv üzerinde masa üstü pozisyonuyla başlayın.  Omuzlarınızı bileklerinizin üzerinde tutarak, yüksek şınav pozisyonunda olacak şekilde ayaklarınızla arkaya adım atın. Sadece elleriniz ve ayak tabanlarınızın parmakların altındaki kısımları yere dokunmalıdır. El parmaklarınızın altındaki etli kısma bastırın, göbeğinizi sırtınıza doğru kaldırın ve topuklarınızı gökyüzüne doğru uzatın. Boynunuzu uzatmak için başınızın tepesine bastırın. Kalçalarınıza havada pike ettirmemeye özen gösterin; bunun yerine, kasık kemiğinizi göbeğinize doğru kaldırın.";
+
+"exerciseDescription84" = "Bacaklarınız uzatılmış, topuklar yerde ve ayak parmakları tavana doğru bükülmüş şekilde sırt üstü uzanın. Sol dizinizi göğsünüze doğru çekin ve \"yogi toe lock\" pozisyonu için sol elinizin ilk üç parmağını sol ayağınızın başparmağı etrafına dolayarak, sol kolunuzu sol bacağınızın içine getirin. Poponuzun sağ kısmını yerde tutun ve sol bacağınızı sol tarafa uzatırken sağ uyluğunuzu yere doğru bastırın. Sağ ayak başparmağını tutarak tekrarlayın.";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = " Dört uzuv üzerinde masa üstü pozisyonuyla başlayın.  Omuzlarınızı bileklerinizin üzerinde tutarak sağ bacağınızı yerden kaldırın ve sağ dizinizi sanki ayağınızla tavana adım atacakmışçasına bükün. Sol elinizle sağ ayağınızın üstünü tutmak için geri uzanın. Göğsünüzü kaldırırken ayağınızı elinize bastırın. İkinci tarafta tekrarlayın.";
+
+"exerciseDescription87" = "Ayaklarınız birbirine paralel vaziyette bacaklarınız açık bir şekilde durun. Sağ ayağınızı 90 derece çevirin ve sağ uyluğunuz yere paralel olacak şekilde sağ dizinizi 90 derecelik bir açıyla bükün. Sağ dizinizi sağ ayak bileğinizin üzerinde tutun; sol ayak parmakları hafif çevrilmiş şekilde sol bacağınızı düz tutun. Sol avuç içinizi hafifçe sol uyluğunuzun üzerinde dinlendirin ve sağ kolunuzu sağ kulağınızın yanına uzatın. Sol bacağınıza doğru yana eğilirken, sol elinizin bacağın aşağısına doğru kaymasına izin verin. Sağ dizinizi nazikçe küçük ayak parmağınıza doğru bastırırken sağ kalçanızı aşağınıza çekin. Sol tarafta tekrarlayın.";
+
+"exerciseDescription88" = "Öne katlı şekilde ayakta durun ve parmak uçlarınızı yerde omuzlarınızın altına yerleştirirken göğsünüzü ileri uzatın. Ağırlığınızı sol ayağınıza verin; kalçalarınızın seviyesini koruyarak, sağ bacağınızı arkanızda düz bir şekilde havaya kaldırın. Göğsünüzle sola burgu yaparken sağ avuç içinizi yere koyun ve sol kolunuzu gökyüzüne doğru uzatın. Yukarıya sol elinize bakın.";
+
+"exerciseDescription89" = "Bacaklarınız önünüzde uzatılmış şekilde oturun. Sol ayak tabanınızı sağ uyluğunuzun içine karşı yerleştirin. Sağ ayağınızı esnetin ve nefes alırken, kollarınızı kulaklarınızın yanından uzatın. Nefes verirken sağ bacağın üstüne katlanın ve belden değil, kalça kıvrımlarına eğilin. Belinizi yuvarlamamaya dikkat edin. Sol bacağınız uzatılmış ve sağ diziniz bükülü olarak tekrarlayın.";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = " Bacaklarınız önünüzde uzatılmış şekilde oturun. Sağ ayak tabanınızı sol uyluğunuzun içine karşı yerleştirin. Üst vücudunuzla sağa burgu yapın, yerde sol dirseğinizi sol dizinizin içine yerleştirin ve sol elinizle sol ayağınızın iç kısmını tutun. Sağ kolunuzu kulağınızın yanına uzatın ve sağ elinizle sol ayağınızın üstünü tutun. Göğsünüzü gökyüzüne doğru çevirirken poponuzun sağ kısmını yere sabitleyin. Sol diz bükülü ve sağ bacak düz vaziyetteyken sağ bacağın üzerine yan eğilerek tekrarlayın.";
+
+"exerciseDescription93" = " Ayaklarınız bitişik vaziyette ayakta durun. Sağ ayağınızla yaklaşık bir bacak uzunluğunda geriye adım atın ve sağ ayağınızı 30 derece sağa doğru konumlandırın. Ellerimizi kalçalarınızın dış kısımları üzerine yerleştirin ve omurganızı uzatırken ve göğsünüzü yere paralel olarak ileri doğru uzatırken nefes alın. Sağ avuç içinizi sol ayağınızın dışına yerleştirerek ve sol kolunuzu tavana doğru uzatarak sola burgu yaparken nefes verin. Sağ bacağınız ileride, sağa burgu yaparak tekrarlayın.";
+
+"exerciseDescription94" = "Öne doğru katlanarak ayakta dururken, dizlerinizi bükün ve parmak uçlarınızı yerde ayaklarınızın herhangi bir tarafına sabitleyin. Sol ayağınızla geri adım atın ve sağ dizinizi sağ ayak bileğinizin üzerinde ortalayacak şekilde 90 derecelik bir açıyla bükülü tutun. Göğsünüzü ileri itin ve sol topuğunuzu tavana doğru bastırın. Sol diz ileride olacak şekilde tekrarlayın.";
+
+"exerciseDescription95" = " Ayaklarınızı kalçalarınızla aynı hizada olacak şekilde birbirinden ayırın. Sol elinizi belinizin sol tarafı üzerine yerleştirin, ağırlığınızı sağ ayağınıza verin ve sol dizinizi göğsünüze doğru kaldırın. Sağ elinizin ilk üç parmağını sol ayak başparmağınızın etrafında çevreleyin ve üst vücudunuzu sola doğru çevirirken sol bacağınızı sağ bacağınızın üzerine uzatın.";
+
+"exerciseDescription96" = "Kollarınız \"T\" şeklinde herhangi bir tarafa uzanmış vaziyette sırt üstü yatın. Dizlerinizi göğsünüze doğru sarın ve dizleri birlikte tutarak sol tarafa doğru çekin ve sağ tarafa bakın. Dizleri sağa serbest bırakmadan ve sol tarafa bakmadan önce dizlerinizi merkeze ve başınızı yere getirin.";
+
+"exerciseDescription97" = "Sırt üstü uzanın, ayaklarınızın tabanlarını bitişik olarak getirin ve dizlerinizin herhangi bir tarafa çekilmesine izin verin. Başınızın üzerinde dirseklerinize tutunun.";
+
+"exerciseDescription98" = "Bacaklarınız uzatılmış, topuklar yerde ve ayak parmakları tavana doğru esnetilmiş şekilde sırt üstü yatın. Sol dizinizi göğsünüze doğru çekin ve sol elinizin ilk üç parmağıyla sol ayak başparmağınızı çevreleyerek sol kolunuzu sol bacağınızın içine getirin. Poponuzun sağ kısmını yerde tutun ve sol bacağınızı uzatırken sağ uyluğunuzu yere doğru bastırın. Sol uyluğunuzu göbeğinize doğru çekin. Sağ tarafta tekrarlayın.";
+
+"exerciseDescription99" = " Bacaklarınız uzatılmış, topuklar yerde ve ayak parmakları tavana doğru esnetilmiş şekilde oturun. Nefes alırken kollarınızı kulaklarınızın yanına uzatın ve omurganızı uzatın. Nefes verirken, kalça kıvrımlarınıza doğru ileriye dayanın ve göbeğinizi uyluklarınıza sarkıtın. Ayaklarınızı tutun ve eğer yeriniz varsa kendinizi mümkün olduğu kadar daha çok öne katlamak için dirseklerinizi herhangi bir tarafa bükün.";
+
+"exerciseDescription100" = "Ayaklarınız bitişik ve elleriniz belinizde ayakta dik durun. Sağ bacağınızı önünüze uzatırken sağ ayak parmaklarınızı gösterin ve kalçalarınızı oynatmadan sağ bacağınızı mümkün olduğunca yükseğe uzatın. Sağ ayağınızla geri bir adım atın, ağırlığınızı sağ ayağınıza verin ve sol bacağınız önünüzde uzatılmış şekilde tekrarlayın.";
+
+"exerciseDescription101" = "Kollar düz, omuzlar bileklerinizin üzerinde konumlanmış ve topuklar gökyüzüne doğru bastırır vaziyette bir yüksek şınav pozisyonu olan tahta pozuyla başlayın. Ağırlığınızı sağ tarafınıza vererek, sağ ayağınızın dış kısmına yuvarlanın. Sol ayağınızı sağ ayağınızın üzerinde ve sol omzunuzu sağ omzunuzun üzerinde olmasını sağlayın. Sol kolunuzu gökyüzüne uzatın. Ayak parmaklarınızı başınıza doğru yukarı esnetin ve sağ elinizin, özellikle de işaret parmağınız ve başparmağınızın altındaki etli kısımla aşağıya doğru sıkıca bastırın. \n\n Sol dizinizi sol omzunuza doğru bükün ve \"yogi toe lock.\ konumunda sol elinizin ilk üç parmağıyla ayak başparmağınızı çevreleyin. Sol bacağınızı gökyüzüne doğru uzatın ve sol kalçanızın sağ kalçanızın üzerinde durmasını sağlayın. \n\n Sağ bacak uzatılmış şekilde sol tarafta tekrarlayın.";
+
+"exerciseDescription102" = "Sol bacak üstte olacak şekilde bağdaş kurarak rahat bir şekilde oturun. Kollarınızı kulaklarınızın yanına uzatın ve parmak uçlarınız sırtınızın aşağısına işaret edecek şekilde dirseklerinizi bükün. Sağ dirseğinizi sol elinizle tutun ve Başınızın arkasını sağ kolunuza doğru bastırarak sağ dirseğinizi nazikçe sola doğru itin. Ardından sol kolunuzu sol tarafınıza doğru uzatın ve sol kolunuzu içten çevirerek başparmağınızı aşağı çevirin. Sol parmak uçlarınız sırtınızın yukarısına işaret edecek ve dirsekleriniz aşağıya işaret edecke şekilde sol dirseğinizi bükün. Mümkünse, parmak uçlarınızı birbirinize kavuştururak ellerinizi birleştirin. \n\n Sağ bacak ğstte ve sol kol üstte olacak şekilde tekrarlayın.";
+
+"exerciseDescription103" = " Sol bacak üstte olacak şekilde bağdaş kurarak rahat bir şekilde oturun. Parmak uçlarınız sağa doğru işaret edecek şekilde sağ ön kolunuzu sağ tarafınıza yerleştirin. Sol kolunuzu sol kulağınızın yanına uzatırken poponuzun sol kısmını yere sabitleyin. \n\n Sağ bacak üstte ve sağ kol kulağınızın yanına uzatılmış şekilde tekrarlayın.";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = "Bacaklarınız kalçalarınızla aynı hizada olacak şekilde birbirinden ayrılmış vaziyette ayakta durun. Kollarınızı kulaklarınızın yanına uzatırken nefes alın. Göğsünüzü gökyüzüne doğru yukarıya eğerken nefes verin ve arkanıza yaslanın. Ayaklarınızın iç kısımlarını yere sağlam basın ve iç uyluklarınızı arkanızdaki boşluğa doğru kaldırın. Sonraki her nefes alışta, omurganızın önünü uzatın ve her nefes verişte, ön kaburgalarınızı sırtınıza doğru çekin. Göğsünüz kıvrıldığında, pelvisinizin ağırlığını yere doğru verin.";
+
+"exerciseDescription106" = " Ayaklarınız bitişik vaziyette ayakta durun. Sağ dizinizi göğsünüze doğru çekerken ağırlığınızı sol ayağınıza verin. Sağ kolunuzu sağ bacağınızın içinden geçirin ve \"yogi toe lock.\ konumunda ilk üç parmağınızla ayak başparmağınızı çevreleyin. Kalçalarınızı dik tutarak sağ bacağınızı sağ tarafa doğru yaklaşık 45 derece açın. \n\n Sol bacak uzatılmış şekilde sağ bacağınızın üzerinde durarak tekrarlayın.";
+
+"exerciseDescription107" = "Alnınız yerde olacak şekilde göbeğinizin üstüne yatın ve parmaklarınızı arkanızda birbirine geçirin. Ayak parmaklarınızı gösterin ve göğsünüzle başınızı yerden kaldırın. Birbirine dolanmış ellerinizi kaldırın ve arkanıza uzatın. Çenenizi göğsünüzden ayırın ve burnunuzun ucuna bakışınızı sabitleyin. \n\n Parmaklarınızı ters şekilde birbirine geçirerek (yani diğer işaret parmağınız ve başparmağınız üstte olacak şekilde) tekrarlayın.";
+
+"exerciseDescription108" = "Bacaklarınız önünüze uzatılmış, topuklar yerde ve ayaklar esnek şekilde dik oturun. Dirseklerinizi omuzlarınızın altına yerleştirin ve avuç içlerinizi her iki yanınızda yere bakar şekilde dinlendirin. Omurganızı uzatırken nefes alın ve Göbeğinizi omurganıza doğru çekerken nefes verin.";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "Bilekleriniz omuzlarınızın üzerinde ve dizleriniz kalçalarınızın üzerinde dört uzuvlu masa üstü pozisyonuyla başlayın. Sol ayağınızla geri adım atın ve sol ayak parmaklarınız sola işaret edecek şekilde sol topuğunuzu yere basın. Sağ ayağınızın üstü yere basılı ve parmakları sağa işaret edecek şekilde sağ ayağınızı arkanıza doğru döndürün. Sol kolunuzu gökyüzüne uzatırken sol omzunuzu sağ omzunuzun üzerinde konumlandırın. Sağ bacak uzatılmış ve sol kavalkemiği yerde olacak şekilde tekrarlayın.";
+
+"exerciseDescription111" = "Ayaklarınız en az bir bacak uzunluğunda aralıklı ve ayak parmakları hafif içe çevrilmiş şekilde ayaklarınızın üzerinde durun. Kalça kıvrımlarını bükerek göğsünüzü yere bakacak şekilde uzatın ve avuç içlerinizi omuzlarınızın altında yere yerleştirin. Başınızın tepesini yere doğru serbest bırakırken dirseklerinizi yere doğru alçaltın ve dirsekleriniz arasında omuz genişliği kadar aralık olmasını sağlayın.";
+
+"exerciseDescription112" = "Ayaklarınız kalçalarınızdan hafif daha geniş ve ayak parmaklarınız dışa çevrilmiş şekilde ayaklarınızın üzerinde durun. Dizlerinizi bükün ve oturuşunuzu yere doğru topuklarınızın arasına alçaltın. Avuç içlerinizi göğsünüzün önünde dua pozisyonunda birleştirin ve dirseklerinizi uyluklarınızın iç kısımlarına yerleştirin. Uyluklar dirsekleri geri iterken dirseklerinizi uyluklarınızın iç kısımlarına bastırın. Başınızın tepesi kalkacak ve kuyruksokumu alçalacak şekilde omurganızı uzatın. Nihayetinde, ayaklarınızın dış kısımlarını birbirine paralel hale getirebilirsiniz.";
+
+"exerciseDescription113" = "Bacaklarınız herhangi bir tarafa uzatılmış ve ayak parmaklarınız gökyüzüne doğru esnetilmiş vaziyette oturun. Omurganızı uzatırken nefes alın, kalça kıvrımlarınıza dayanırken nefes verin ve ellerinizi önünüze doğru yürütün. Katlanırken topuklarınızın merkezini yere basılı tutun ve pelvis çanağınızı ileriye doğru yatırın.";
+
+"exerciseDescription114" = "Ayaklarınız en az bir bacak uzunluğunda aralıklı ve ayak parmakları hafif içe çevrilmiş şekilde ayaklarınızın üzerinde durun. Parmaklarınızı sırtınızın arkasında birbirine geçirin. Başınızın tepesini yere ayaklarınızın arasına serbest bırakarak ve kavuşturulmuş ellerinizi yere doğru uzatırken kalça kıvrımlarınızdan öne katlanın. \n\n Parmaklarınızı ters şekilde birbirine geçirerek (yani diğer işaret parmağınız ve başparmağınız üstte olacak şekilde) tekrarlayın.";
+
+"exerciseDescription115" = "Bacaklarınız herhangi bir tarafa uzatılmış ve ayak parmaklarınız gökyüzüne doğru esnetilmiş vaziyette oturun. Üst vücudunuzla sağa burgu yapın, sol dirseğinizi sol bacağınızın içine yere yerleştirin ve sol ayağınızın iç kısmını sol elinizle tutun. Sağ kolunuzu kulağınızın yanına uzatın ve sol ayağınızın üstünü sağ elinizle tutun. Göğsünüzü gökyüzüne doğru döndürürken poponuzun sağ kısmını ve sağ bacağınızı yere sabitleyin. Sağ bacak üzerinden yana eğilerek tekrarlayın.";
+
+"exerciseDescription116" = "Ayaklarınız kalçalarınızdan hafif daha geniş ve ayak parmaklarınız dışa çevrilmiş şekilde ayaklarınızın üzerinde durun. Dizlerinizi bükün ve oturuşunuzu yere doğru topuklarınızın arasına alçaltın. Avuç içlerinizi göğsünüzün önünde dua pozisyonunda birleştirin ve dirseklerinizi uyluklarınızın iç kısımlarına yerleştirin. \n\n Omurganızı uzatırken nefes alın ve kollarınızı yana açarak sola burgu yaparken nefes verin. Her iki kolunuzu da içten döndürmek için el başparmaklarınızı aşağıya çevirin. Sol dirseğinizi sırtınızın arkasına bükün ve sağ dirseğinizi sağ kavalkemiğinin dışına bükün. Mümkünse, parmak uçlarınızı sağ kalçanızın dış kısmının yanında kavuşturun. \n\n Sağa burgu yaparak ve kolları sol bacağın etrafına sararak tekrarlayın.";
+
+"exerciseDescription117" = "Dört uzuvlu masa üstü pozisyonuyla başlayın. Ayak başparmaklarınızı birleştirin ve dizlerinizi kalçalarınızdan daha geniş olacak şekilde ayırın. Gövdenizi bacaklarınızın arasında dinlendirirken ve alnınızı yere serbest bırakırken avuç içlerinizi ileri yürütün.";
+
+"exerciseDescription118" = " Ayaklarınız en az bir bacak uzunluğunda aralıklı ve ayak parmakları hafif içe çevrilmiş şekilde ayaklarınızın üzerinde durun. Kalça kıvrımlarından eğilerek, yere bakacak vaziyette göğsünüzü ileri uzatın ve avuç içlerinizi omuzlarınızın altında yere yerleştirin. Nefes alırken, başınızın tepesini kalçalarınızdan öteye hareket ettirerek omurganızı uzatın. Nefes verirken, sola burgu yapın ve sol kolunuzu gökyüzüne doğru yukarıya esnetin. \n\n Sol avuç içinizi sol omzunuzun altında yere geri getirin. Omurganızı uzatırken nefes alın ve sağ kolunuzu gökyüzüne doğru yukarıya serbest bırakarak sağa burgu yaparken nefes verin.";
+
+"exerciseDescription119" = "Ayaklarınız en az bir bacak uzunluğunda aralıklı ve ayak parmakları hafif içe çevrilmiş şekilde ayaklarınızın üzerinde durun. Kalça kıvrımlarından eğilerek, yere bakacak vaziyette göğsünüzü ileri uzatın ve avuç içlerinizi omuzlarınızın altında yere yerleştirin. Ellerinizi sağa yürütün ve çenenizi sağ kavalkemiğinize doğru getirerek sağ ayak bileğinizin dış kısmına tutunun. Çenenizi sol kavalkemiğinize doğru getirirken sol ayak bileğinizin dış kısmına tutunarak ellerinizi önce merkeze geri yürütün ve ardından sola yürütün.";
+
+"exerciseDescription120" = "Sırt üstü yatın. Sol tarafınıza doğru yuvarlanırken sol kolunuzu sol kulağınızın yanına uzatın. Sol dirseğinizi bükün ve başınızın yan tarafını sol avuç içinizin üzerinde dinlendirin. Sağ dizinizi sağ omzunuza doğru bükün ve sağ elinizin ilk üç parmağıyla sağ ayak başparmağınızı çevreleyin. Sol tarafınızı sabit tutarak ve poponuzun sağ kısmını sol uyluğunuza doğru sararken sağ bacağınızı uzatabildiğiniz kadar çok uzatın. \n\n Sağ tarafınıza yatarak ve sol ayak başparmağınızı tutarak tekrarlayın.";
+
+"exerciseDescription121" = "Ayaklarınızın tabanları birlikte pelvisinizin önünde ve dizler herhangi bir tarafa çekilmiş vaziyette oturun. Her bir elinizin ilk üç parmağıyla her iki ayağınızın başparmağını çevreleyin. Ağırlığınızın oturma kemiklerine verilebilmesi için arkaya yaslanın. Omurgayı uzun ve dizleri bükülü tutarak, ayaklarınızı ayırın ve oturma kemiklerinizin üzerinde denge kurabilmeniz için ayaklarınızı yerden kaldırın. Göğsünüzü kaldırırken bacaklarınızı aşamalı olarak herhangi bir tarafa uzatın.";
+
+"exerciseDescription122" = " Ayaklarınız birbirine paralel vaziyette bacaklarınız açık bir şekilde durun. Sağ ayağınızı 90 derece sağa çevirin ve sağ uyluğunuz yere paralel olacak şekilde sağ dizinizi 90 derecelik bir açıyla bükün. Sağ dizinizi sağ ayak bileğinizin üstünde tutun ve ayak parmaklarınız hafif dönmüş vaziyette sol bacağınızı uzatın. Kollarınızı ters yönlere uzatırken omuzlarınızı kalçalarınızın üzerinde hizada tutun ve sağ avuç içinizin ötesine bakın. \n\n Sol avuç içinizin ötesine bakarak, sol diz bükülü ve sağ ayak düz olacak şekilde tekrarlayın.";
+
+"exerciseDescription123" = " Ayak başparmaklarınız bitişik ve ayaklarınızın dış kısımları birbirine paralel vaziyette ayakta durun. İşaret parmaklarınızı birleştirin ve diğer parmaklarınızı göğsünüzün önünde birbirine geçirin. Nefes alırken, ellerinizi birbirine kavuşturulmuş halde tutun ve kollarınızı başınızın üstüne uzatın. Nefes verirken, sola doğru yana eğilin. Sağ topuğunuzu sabitleyin ve sol alt kaburgalarınızı sağ üst kaburgalarınıza doğru kaldırın. \n\n Nefes alın ve elleriniz başınızın üzerinde birbirine kavuşturulmuş vaziyette merkeze dönün. Nefes verin ve sağa doğru yana eğilin.";
+
+"exerciseDescription124" = " Ayak başparmaklarınız bitişik, ayaklarınızın dış kısmı birbirine paralel ve avuç içleriniz omuzlarınızın altında yere yerleştirilmiş şekilde öne katlı vaziyette ayakta durma pozisyonuyla başlayın. Sol ayak başparmağınızı hafifçe yerde dinlendirerek sol ayağınızla geri adım atarken ağırlığınızın çoğunu sağ ayağınıza verin. Sağ avuç içinizi sağ baldırınıza karşı yerleştirin ve sol bacağınızı gökyüzüne doğru havaya kaldırın. Sağ kalçanızı merkeze doğru sararken kaldırabildiğiniz kadar kaldırarak sol kalça seviyenizi sağ kalça seviyesinde tutun. Çenenizi kavalkemiğinize doğru kaldırmak için sağ avuç içinizi sağ baldırınıza karşı ileriye bastırın. \n\n Sağ bacağınız uzatılmış şekilde sol bacağınızın üstünde durarak tekrarlayın.";
+
+"exerciseDescription125" = "Ayak başparmaklarınız bitişik, ayaklarınızın dış kısmı birbirine paralel şekilde öne katlı vaziyette ayakta durma pozisyonuyla başlayın. Parmaklarınızın üst kısmını yere sabitlerken göğsünüzü ileri uzatarak omurganızı uzatmak için nefes alın. Baldırlarınızı tutmak için kollarınızı bacaklarınızın dış kısmına uzatarak öne katlanırken nefes verin. Alnınızı kavalkemiklerinize doğru kaldırmak için avuç içlerinizi baldırlarınıza karşı bastırın. Topuklarınızı yere bastırın ve iç uyluklarınızı bacaklarınızın gerisine doğru döndürürken oturma kemiklerinizi kaldırın. Belinizin yuvarlanmamasına dikkat edin. Bunu yerine, kalça kıvrımlarına dayanın ve göbeğinizi uyluklarınızın üstüne sarkıtın.";
+
+"exerciseDescription126" = " Ayaklarınız bitişik vaziyette ayakta durun. Sağ dizinizi göğsünüze doğru çekerken ağırlığınızı sol ayağınıza verin. Sağ kolunuzu sağ bacağınızın iç kısmına uzatın ve \"yogi toe lock.\" konumunda ilk üç parmağınızla ayak başparmağınızı çevreleyin. Sol topuğunuzu yere karşı bastırırken ve başınızın teğesini tavana doğru kaldırırken dik durun. Omuzlarınızın kalçalarınızın üzerinde bulunmasını sağlamak için sağ kolu vücuda geri almaya dikkat ederek sağ bacağınızı önünüze uzatın.";
+
+"exerciseDescription127" = " Ayak başparmaklarınız bitişik ve ayaklarınızın dış kısımları birbirine paralel vaziyette ayakta durun. Parmaklarınızı sırtınızın arkasında birbirine geçirin. Omurganızı uzatmak için nefes alın ve başınızın tepesini yere serbest bırakarak ve kavuşturulmuş ellerinizi yere doğru uzatırken kalça kıvrımlarınızı ileri doğru dayamak için nefes verin.";
+
+"exerciseDescription128" = " Ayaklarınız birbirine paralel vaziyette bacaklarınız açık bir şekilde durun. Sağ ayağınızı 90 derece çevirin. Sol topuğunuzu kaldırın ve sol ayak tabanınızın parmakların altında kalan kısmını döndürerek topuğunuzu yere yerleştirmeden önce sola doğru çevirin. Göğsünüz ve sol kalçanız sağ ayağınızla aynı yöne bakıyor olmalıdır. Ellerinizi kalçalarınızın dışına getirin ve sağ kalçanızı geri doğrulturken sol kalçanızı ileri sarın. Ayak bileğinizin üzerinde durması için sağ dizinizi bükün. Kollarınızı kulaklarınızın yanına uzatın ve göğsünüzü kaldırın. Sağ dizinizi ayak bileğinizin üzerinde ortalanmış bir şekilde tutarken sol topuğunuza bastırın. \n\n Sol ayak ileride olacak şekilde tekrarlayın.";
+
+"exerciseDescription129" = "Ayaklarınız bitişik vaziyette ayakta durun ve kollarınızı kulaklarınızın yanına kaldırın. Sağ bacağınızı düz ve göğsünüzü kalkık tutarken, ayağınızın parmakların altında kalan taban kısmı yerde hafifçe dinlenecek şekilde sol ayağınızla geri bir adım atın. Ağırlığınızı yavaşça sağ ayağınıza verin, sağ kalça kıvrımınızı ileri dayandırın ve sol bacağınızı arkanızda havaya kaldırırken göğsünüzü ileriye uzatın. Kalçalarınızın dış kısımlarını birbirine birleştirin ve göbeğinizi/ön kaburgalarınızı sırtınıza doğru çekin. \n\n Sağ ayağınızı arkanıza uzatarak sol bacağınız üzerinde denge kurarak tekrarlayın.";
+
+"exerciseDescription130" = "Ayak başparmaklarınız bitişik ve ayaklarınızın dış kısımları birbirine paralel vaziyette ayakta durun. Nefes alırken, sağ kolunuzu kulağınızın yanına kaldırın. Nefes verirken, sol elinizin sol bacağınızın dışına kaymasına izin vererek sola doğru yana eğilin. Sağ topuğunuza bastırın ve belinizin sol kısmını kaldırın. \n\n Sağa yan eğilerek tekrarlayın.";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = "Bacaklarınız önünüzde uzatılmış, avuç içleriniz arkanıza yerleştirilmiş ve parmak uçları ileriye bakar vaziyette oturun. Ayak parmaklarınızı gösterin, el parmaklarınızın altındaki etli kısımlara bastırın ve kalçalarınızı yerden kaldırın. Kürek kemiklerinizi birlikte çekin ve göğsünüzü kaldırırken kürek kemiklerinizi sırtınızdan aşağıya doğru kaydırın. İç uyluklarınızla karşılıklı sarmal hareket yapın ve ayak başparmaklarınızı yere doğru uzatın. Servikal omurunuz sağlıklıysa, kafa kaideniz kürek kemiklerinizin üzerinde dinlecek şekilde başınızı nazikçe geriye çekin.";
+
+"exerciseDescription133" = "Ayaklarınız bitişik vaziyette ayakta durun. Ağırlığınızı sağ ayağınıza verin ve sol dizinizi göğsünüze doğru çekin. Sol ayağınızın tabanını her iki elinizle tutun. Üzerine katlanırken sol bacağınızı uzatın ve alnınızı kavalkemiğinize doğru getirin. \n\n Sol bacağınız üzerinde durarak ve sağ ayağınızı tutarak tekrarlayın.";
+
+"exerciseDescription134" = "Ayakta öne katlanmış şekilde başlayın. Her iki dizi de bükerek, yerde sağ elinizi göğsünüzün altına yerleştirin ve sol elinizi sol kalçanızın üstüne yerleştirin. Omurganızı uzatırken nefes alın. Sadece sol bacağı uzatarak ve sol kolunuzu gökyüzüne doğru bırakarak sola doğru burgu yaparken nefes verin. Sol elinize doğru yukarı bakarken boynunuzun yanlarını uzun tutun. \n\n Ayakta öne katlanma konumuna geri dönün. Her iki dizi de bükerek, yerde sol elinizi göğsünüzün altına yerleştirin ve sağ elinizi sağ kalçanızın üstüne yerleştirin. Omurganızı uzatırken nefes alın. Sadece sağ bacağı uzatarak ve sağ kolunuzu gökyüzüne doğru bırakarak sağa burgu yaparken nefes verin. Sağ elinize doğru yukarı bakarken boynunuzun yanlarını uzun tutun.";
+
+"exerciseDescription135" = " Ayak başparmaklarınız bitişik ve ayaklarınızın dış kısımları birbirine paralel vaziyette ayakta durun. Parmak uçlarınız topuklarınıza işaret edecek şekilde avuç içlerinizi poponuza yerleştirin. Nefes alırken, omurganızı uzatın. Nefes verirken ise poponuzu topuklara doğru aşağı bastırmak için ellerinizi kullanın ve göğsünüzü tavana doğru kıvırın. Dirseklerinizi birbirine çekerek kürek kemiklerinizi birlikte ve sırtınızdan aşağı kaydırın.";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = "Dizler bükük, ayaklar ise kalçayla aynı hizada olacak şekilde birbirinden ayrık ve ayaklarınızın dış kısımları birbirine paralel vaziyette sırt üstü yatın. Kollarınızı yana açın ve ayaklarınızı parmak uçlarınızın topuklarınızın uç kısmına değmesini sağlayacak şekilde konumlandırın. Kollarınızı tavana doğru kaldırın ve bileklerinizi esnetin. Dirseklerinizi bükün ve parmak uçlarınız omzunuza işaret edecek şekilde avuç içlerinizi omuzlarınızın üstüne yerleştirin. Pelvis, göğüs ve başınızı yerden kaldırırken ellerinizin iç kısmını ve topuklarınızı yere bastırın. Bacaklarınızın dış kısmını iç kısmına doğru döndürün ve kollarınızla göğsünüze basın. Ayaklarınızın kalçalarla aynı hizada olması için gereken aralıktan daha fazla bir aralıkta olmamasına izin vermeye gayret edin. \n\n Bırakmak için, yere doğru geri alçalırken çenenizi göğsünüze ve poponuzu topuklarınıza doğru çekin.";

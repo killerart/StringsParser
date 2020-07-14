@@ -8,32 +8,38 @@ namespace StringsParser
 {
     class Program
     {
-        const string APP_NAME = "VGFIT";
         const string APP_PATH = "https://localhost:5001";
         static void Main(string[] args) {
-            var languages = Directory.GetDirectories("../../../localizations");
-            var clientHandler = new HttpClientHandler {
-                ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; }
-            };
-            using (var client = new HttpClient(clientHandler)) {
-                var response = client.PostAsync($"{APP_PATH}/api/app?name={APP_NAME}", new StringContent("")).Result;
-                Console.WriteLine($"Post {APP_NAME} creation: {response.StatusCode}");
-            }
-            var keys = new HashSet<string>();
-            foreach (var language in languages) {
-                var ext = language.LastIndexOf(".lproj");
-                var slash = language.LastIndexOf('/') + 1;
-                if (ext != -1 && slash != -1) {
-                    var name = language[slash..ext];
-                    keys.UnionWith(ParseLanguage(name, language));
+            var apps = Directory.GetDirectories("../../../localizations");
+            foreach (var app in apps) {
+                var nameStart = app.LastIndexOf('/') + 1;
+                if (nameStart != -1) {
+                    var appName = app[nameStart..];
+                    //var clientHandler = new HttpClientHandler {
+                    //    ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; }
+                    //};
+                    //using (var client = new HttpClient(clientHandler)) {
+                    //    var response = client.PostAsync($"{APP_PATH}/api/app?name={appName}", new StringContent("")).Result;
+                    //    Console.WriteLine($"Post {appName} creation: {response.StatusCode}");
+                    //}
+                    var languages = Directory.GetDirectories($"{app}");
+                    var keys = new HashSet<string>();
+                    foreach (var language in languages) {
+                        var ext = language.LastIndexOf(".lproj");
+                        var slash = language.LastIndexOf('/') + 1;
+                        if (ext != -1 && slash != -1) {
+                            var name = language[slash..ext];
+                            keys.UnionWith(ParseLanguage(name, language));
+                        }
+                    }
+                    //clientHandler = new HttpClientHandler {
+                    //    ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; }
+                    //};
+                    //using (var client = new HttpClient(clientHandler)) {
+                    //    var response = client.PutAsJsonAsync($"{APP_PATH}/api/app/{appName}", keys).Result;
+                    //    Console.WriteLine($"Put {appName}: {response.StatusCode} {response.Content.ReadAsStringAsync().Result}");
+                    //}
                 }
-            }
-            clientHandler = new HttpClientHandler {
-                ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => { return true; }
-            };
-            using (var client = new HttpClient(clientHandler)) {
-                var response = client.PutAsJsonAsync($"{APP_PATH}/api/app/{APP_NAME}", keys).Result;
-                Console.WriteLine($"Put {APP_NAME}: {response.StatusCode} {response.Content.ReadAsStringAsync().Result}");
             }
         }
         static HashSet<string> ParseLanguage(string langName, string directory) {
@@ -87,10 +93,10 @@ namespace StringsParser
                     key = line[1..keyEnd];
                     if (valueEnd == -1) {
                         valueEnd = line.Length;
-                        end = "\n";
+                        end = "n";
                         isMultiLineValue = true;
                     }
-                    value = line[valueStart..valueEnd].Replace("\\n", "\n").Replace("\\", string.Empty) + end;
+                    value = line[valueStart..valueEnd] + end;
                     if (!isMultiLineValue) {
                         if (!translations.ContainsKey(key))
                             translations.Add(key, value);
@@ -110,7 +116,9 @@ namespace StringsParser
                         } else {
                             isMultiLineValue = false;
                         }
-                        var newValue = line[0..valueEnd].Replace("\\n", "\n").Replace("\\", string.Empty) + "\n";
+                        var newValue = line[0..valueEnd];
+                        if (isMultiLineValue)
+                            newValue += "n";
                         value += newValue;
                     } else {
                         isMultiLineValue = false;

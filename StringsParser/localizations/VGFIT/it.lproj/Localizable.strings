@@ -1,0 +1,224 @@
+
+"exercises" = "esercizi";
+"social follow" = "Rimani connesso con VGFIT";
+"Exercises" = "Esercizi";
+"Workouts" = "Allenamento";
+"Custom" = "Personalizzato";
+"Done" = "Fatto";
+"Back" = "Indietro";
+"Title" = "Titolo";
+"Downloading video" = "Download del video";
+"Please wait..." = "Attendi, per favore...";
+"Cancel" = "Annulla";
+"Bodybuilding" = "Bodybuilding";
+"Fitness" = "Fitness";
+"Powerlifting" = "Sollevamento pesi";
+"2 Days per week" = "2 giorni alla settimana";
+"3 Days per week" = "3 giorni alla settimana";
+"4 Days per week" = "4 giorni alla settimana";
+"Day 1" = "Giorno 1";
+"4 sets and 12/10/8/6 reps" = "4 serie e 12/10/8/6 ripetizioni";
+"Day 2" = "Giorno 2";
+"Day 3" = "Giorno 3";
+"Day 4" = "Giorno 4";
+"Day" = "Giorno";
+"Days" = "Giorni";
+"4 sets and 15 reps" = "4 serie e 15 ripetizioni";
+"5 sets and 3/3/3/2/1 reps" = "5 serie e 3/3/3/2/1 ripetizioni";
+"Edit" = "Modifica";
+"My Workout" = "Il mio allenamento";
+"To create new workout press +" = "Per creare un nuovo allenamento, premi +";
+"Save" = "Salva";
+"Workout Name:" = "Nome allenamento:";
+"Days Number:" = "Numero giorno:";
+"Delete" = "Cancella";
+"Workout Title:" = "Titolo allenamento:";
+"Options:" = "Opzioni:";
+"Camera/Gallery" = "Fotocamera/Galleria";
+"Exercise's Photos" = "Foto dell’esercizio";
+"Name, Description, Repetitions" = "Nome, descrizione, ripetizioni";
+"Exercise Name:" = "Nome dell’esercizio:";
+"Description:" = "Descrizione:";
+"Description" = "Descrizione";
+"Repetitions:" = "Ripetizioni:";
+"Error!" = "Errore!";
+"Error" = "Errore";
+"Please fill up the text field!" = "Riempi il campo di testo!";
+"Ok" = "Ok";
+"Do you really want to cancel the download process? All progress will be lost!" = "Vuoi cancellare il processo di download? Tutti i progressi verranno persi!";
+"Download all videos" = "Scarica tutti i video";
+"Unzipping Files" = "Decompressione file";
+"Files" = "File";
+"Downloading Videos" = "Download dei video";
+"All videos were saved successfully!" = "Tutti i video sono stati salvati con successo!";
+"Add" = "Aggiungi";
+"No Camera Support!" = "Nessun supporto per la fotocamera!";
+"Camera feature is not supported by your device !" = "La fotocamera non è supportata dal tuo dispositivo!";
+"Please fill up the exercise name field!" = "Riempi il campo nome dell’esercizio!";
+"Please check your wi-fi or cellular internet connection!" = "Controlla la tua connessione Wi-Fi o quella del tuo telefono";
+"Your video is downloading already! Wait until it's done!" = "Il tuo video è già in download! Attendi finché è finito!";
+"Warning!" = "Avviso!";
+"For" = "Per";
+
+"History" =	"Cronologia";
+"More" =	"Altro";
+"Start" =	"Avvia";
+"Weight(kg)" =	"Peso (kg)";
+"Weight(lbs)" =	"Peso (lb)";
+"Weight" = "Peso";
+"Repetitions" =	"Ripetizioni";
+"Save" =	"Salva";
+"Last values" =	"Ultimi valori";
+"Cancel" =	"Annulla";
+
+"Attention" =	"Attenzione";
+"Would you like to leave without saving?" =	"Vuoi uscire senza salvare?";
+"Ok" =	"Ok";
+
+"No exercises have been done yet" =	"Non è stato fatto ancora nessun esercizio";
+"Performance" =	"Prestazioni";
+"Send Feedback" =	"Invia feedback";
+"Report a Bug" =	"Segnala un Bug";
+"Tell a Friend" =	"Dillo a un amico";
+"Gift this App" =	"Regala quest'app";
+"Rate us" =	"Valutaci";
+"Set seconds" =	"Imposta i secondi";
+"Stop" =	"Stop";
+"Check out iBodybuilding-Update" =	"Controlla aggiornamenti iBodybuilding";
+"Check out this application on the App Store:" =	"Controlla quest'applicazione sull'App Store:";
+"Please note that you have not been added to any email lists." =	"Nota che non sono sei stato aggiunto a nessuna lista di posta elettronica.";
+
+"Fill up all the blank repetitions boxes." = "Riempi tutte le caselle di ripetizioni vuote.";
+"You can't use values bigger than 500." = "Non è possibile utilizzare i valori più grandi di 500.";
+"You can't input data for future dates." = "Non puoi inserire dati per le date future!";
+
+
+"4 sets and 15 reps" = "4 serie e 15 ripetizioni";
+"4 sets and 12/10/8/6 reps" = "4 serie e 12/10/8/6 ripetizioni";
+"5 sets and 3/3/3/2/1 reps" = "5 serie e 3/3/3/2/1 ripetizioni";
+
+"Sets"  = "Serie";
+"Enter workout name :" = "Inserire il nome di allenamento :";
+"Days number :" = "Numero di giorni :";
+"sets and" = "serie e";
+"reps" = "ripetizioni";
+
+"You can't delete current selection" = "Non è possibile cancellare la selezione corrente";
+
+
+
+//new localization
+
+"Extra" = "Extra";
+
+"Forgot your password?" = "Hai dimenticato la password?";
+
+"Alert" = "Alert";
+"somethingWentWrongAlert" = "Qualcosa è andato storto";
+"An account already exists for this email address" = "Esiste già un account associato a questo indirizzo email";
+"Incorrect email address or password" = "Indirizzo email o password errata";
+"Notification" = "Notifica";
+"In-App purchases were restored" = "Gli acquisti in-app sono stati ripristinati";
+"Sorry we didn't find your previous purchases" = "Ci spiace, non abbiamo trovato il tuo acquisto precedente";
+"You don't have purchases for this account" = "Non hai effettuato alcun acquisto con questo account";
+"You have purchased this item for another account" = "Hai acquistato questo oggetto con un altro account";
+"You have already purchased this item." = "Hai già acquistato questo oggetto";
+"Do you want to restore it for current account?" = "Vuoi ripristinarlo per il tuo account attuale?";
+"Enter a valid email address" = "Inserisci un indirizzo email valido";
+"Enter a valid password" = "Inserisci una password valida";
+
+"Password doesn't match" = "La password non corrisponde";
+"Password must be minimum 4 characters" = "La password deve avere una lunghezza di almeno 4 caratteri";
+"Success!" = "Successo!";
+"An email has been sent. Please check your Inbox or Spam folders." = "E' stata inviata una email. Controlla la tua Posta in arrivo o la cartella di Spam.";
+
+"Login with Email" = "Accedi con email";
+"Login with Facebook" = "Accedi con Facebook";
+"By continuing, you accept our Privacy Policy and Terms of Service" = "Continuando, accetti i Termini del Servizio e la Politica sulla Riservatezza";
+"Continue" = "Continua";
+"Login" = "Accedi";
+"Create Account" = "Crea un account";
+"Sign Up" = "Registrati";
+"Email" = "Email";
+"Password" = "Password";
+"Confirm Password" = "Conferma password";
+"No internet connection" = "Nessuna connessione ad internet!";
+"Restore" = "Ripristina";
+"My profile" = "Il mio profilo";
+"Sign Out" = "Esci";
+
+"30 sec. without rest time" = "30 secondi senza riposo";
+"3 sets and 12/11/10 reps"  = "3 serie e 12/11/10 ripetizioni";
+"35 s. work time 15 s. rest time" = "35 secondi di lavoro 15 secondi di riposo";
+"30 s. work time 15 s. rest time" = "30 secondi di lavoro 15 secondi di riposo";
+"2 rounds 15 reps" = "2 turni 15 ripetizioni";
+
+
+
+"Round" = "Turno";
+"Rounds" = "Turni";
+"Reset" = "Reset";
+"Intervals" = "Intervalli";
+"Current settings" = "Impostazioni attuali";
+"My workouts" = "I miei allenamenti";
+"Work time" = "Tempo di allenamento";
+"Rest time" = "Tempo di riposo";
+
+"Instagram application is not installed" = "Instagram non è installato";
+
+
+
+
+
+"Skip" = "Salta";
+"Guest" = "Ospite";
+"Training plans" = "Schede d'allenamento";
+"Downloading content" = "Download del contenuto";
+"Content is downloading, please wait" = "Contenuto in download, attendere";
+"Share application" = "Condividi l'applicazione";
+"Share app on Facebook" = "Condividi l'applicazione su Facebook";
+"Share app on Instagram" = "Condividi l'applicazione su Instagram";
+"Follow VGFIT on Instagram" = "Segui VGFIT su Instagram";
+"Follow VGFIT on Facebook" = "Segui VGFIT su Facebook";
+"tweetAboutUsKey" = "Tweettaci";
+"Backup" = "Backup";
+"Export backup file" = "Esporta il file di backup";
+"Backup on email or print your workout history" = "Backup tramite email o stampa la cronologia di allenamento";
+"Import backup file" = "Importa il file di backup";
+"To import history tap on the file in your mail" = "Per importare la cronologia fai clic sul file nella tua email";
+"History by Exercise" = "Cronologia per Esercizi";
+"History by Date" = "Cronologia per Data";
+"youCantSendTwitt" = "L’applicazione non può inviare un tweet al momento. Questo perché non riesce a raggiungere Twitter o perché non esiste alcun account Twitter associate su questo dispositivo";
+"pleaseLogToFB" = "Accedi al tuo account Facebook dalle impostazioni del tuo dispositivo.";
+//reminder
+
+"Reminder" = "Promemoria";
+"Edit notification permission in IOS settings" = "Modifica le autorizzazioni delle notifiche nelle impostazioni di iOS ";
+"Daily reminder" = "Promemoria giornaliero";
+"Frequency" = "Frequenza";
+"It's time to workout!" = "È il momento di allenarsi!";
+"After %ld days of inactivity" = "Dopo %ld giorni di inattività";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Ehi! Non ti alleni da qualche giorni, ritorna ad allenarti! ";
+
+//Rate us Button
+
+//"Love our %@ app" = "Ti piace la nostra app %@"; //%@ - is the name of the app to be inserted
+//"Your feedback will help us to get better" = "Il tuo feedback ci aiuterà a migliorare";
+"Oh Dear!" = "Oh caspita!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Ti saremmo grati se potessi prendere in considerazione l’idea di segnalarci alcuni spunti per migliorare l’app. Grazie!";
+
+
+"Email Us" = "Mandaci un’email";
+"Not now" = "Non adesso";
+
+"5-Stars" = "5 stelle";
+"To improve the app, please Leave a Rating or Review." = "Per migliorare l’app, lascia una valutazione o una recensione.";
+
+//Watch
+"Download" = "Scaricare";
+"Download all images" = "Scarica tutti image";
+"Oops!" = "Ops!";
+"You have to unlock this workout on your iPhone." = "Devi sbloccare questo workout sul tuo iPhone.";
+"There are no custom workouts to show." = "Non ci sono workout personalizzati da mostrare.";
+"There is no history, yet." = "Non vi è ancora nulla nella cronologia.";
+"Please, Download the images." = "Scarica le immagini.";

@@ -1,0 +1,179 @@
+//Plan names
+
+"%ld days plan" = "%ld 天計劃";
+
+//Other
+
+"Meal %ld" = "第%ld餐";
+"Day %ld" = "第%ld天";
+
+"Ingredients" = "材料";
+"Steps" = "步驟";
+
+//Days
+//Day 1
+"Healthy recipes that are awesome to prepare and try out" = "非常推薦準備並嘗試的健康食譜";
+"To keep your metabolism running strong, you must eat your first meal within 1 hour of rising." = "要讓新陳代謝變得快速，你一定要在起床後的1小時內吃東西。";
+//Day 2
+"Good nutrition is the foundation of good health" = "營養充足是健康的基礎";
+"The solution is to eat within 1 hour of waking up so that you move your metabolism." = "解決方案就是在睡醒後的1個小時內吃東西，讓新陳代謝變得順暢。";
+//Day 3
+"Plan ahead to eat breakfast" = "預先安排吃早餐的方式";
+"To the highest fat burning speed breakfast is so important to your weight-loss success." = "以達到最快的脂肪燃燒速度，早餐對於減重的成功與否非常重要。";
+//Day 4
+"Carbs supply the body with energy" = "碳水化合物提供身體的能量";
+"Studies show that 5 meals a day are important in maintaining a healthy body weight." = "研究顯示，一天5餐對於維持健康的體重，是非常重要的。";
+//Day 5
+"Protein is essential for growth and development" = "蛋白質對於成長和發育是十分重要的";
+"Nutrition plays a key role in maintaining a healthy lifestyle." = "營養是維持健康生活的關鍵。";
+//Day 6
+"You are what you eat" = "人如其食";
+"Is literally true, if you want your body to perform at a peak level." = "說得真的沒錯，特別是對想要身體保持在頂尖狀態的人而言。";
+//Day 7
+"Controlling portion size use smaller plates" = "使用較小的盤子來控制份量的大小";
+"Eliminate emotional eating by healing your hungry heart." = "治愈飢餓的心靈，可以消除情緒化進食。";
+
+//Content: Title, Ingridients, Instructions
+
+"Strawberries and Creme Oatmeal_Title" = "草莓乳酪燕麥";
+"Strawberries and Creme Oatmeal_Ingredients" = "◆\t1/2杯燕麥 \n\n◆\t1/3杯脫脂牛奶 \n\n◆\t1/3杯香草希臘乳酪 \n\n◆\t1/2杯切片草莓 \n\n◆\t2湯匙的香草無脂希臘乳酪 \n\n◆\t1湯匙的烤杏仁";
+"Strawberries and Creme Oatmeal_Instructions" = "傍晚時分，將燕麥、牛奶和1/3杯乳酪，放入罐子或碗裡攪拌均勻，蓋上蓋子然後放進冰箱過夜。請慢慢享用！";
+
+"Golden Glow Elixir_Title" = "黃金水";
+"Golden Glow Elixir_Ingredients" = "◆\t2粒蘋果 \n\n◆\t4粒中等的橙子，去皮 \n\n◆\t1粒檸檬，去皮 \n\n◆\t2-3寸新鮮薑塊，去皮 \n\n◆\t2寸新鮮薑黃塊，去皮 \n\n◆\t2杯冷水 \n\n◆\t1把冰塊";
+"Golden Glow Elixir_Instructions" = "用高速攪拌器，把所有材料攪拌成奶昔，如有需要加入額外的水。如果想要飲料變得更順滑，可以去除水果的纖維。請慢慢享用！";
+
+"Tso’s Chicken Stir Fry_Title" = "左宗棠雞";
+"Tso’s Chicken Stir Fry_Ingredients" = "◆\t4塊雞胸，切丁 \n\n◆\t1杯麵粉 \n\n◆\t植物油 \n\n◆\t鹽 \n\n◆\t新鮮黑胡椒粉 \n\n◆\t2瓣蒜瓣，切碎 \n\n◆\t1/2罐雞湯 \n\n◆\t3湯匙蜜糖 \n\n◆\t4湯匙醬油 \n\n◆\t4湯匙酸甘汁 \n\n◆\t2罐西蘭花，小朵 \n\n◆\t2罐白飯";
+"Tso’s Chicken Stir Fry_Instructions" = "在大碗中，在雞肉上撒上一些玉米粉。把雞肉放到另一個裝了麵粉的大碗，讓雞肉沾上麵粉，然後放在一邊。在一個大的平底深鍋放入1/2植物油，中高火加熱。為雞肉調味並瀝乾，放在一旁。加入2湯匙的玉米粉並攪拌。醬汁方面，加入西蘭花和蘿蔔，煮5分鐘讓它變軟。請慢慢享用！";
+
+"Herbal Tea_Title" = "涼茶";
+"Herbal Tea_Ingredients" = "◆\t1杯水 \n\n◆\t1茶匙生薑粉 \n\n◆\t1茶匙酸甘粉 \n\n◆\t1茶匙酸甘汁 \n\n◆\t3片新鮮薄荷";
+"Herbal Tea_Instructions" = "把水煮沸，再把材料放進去攪拌烹煮。請慢慢享用！";
+
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Title" = "檸檬第戎烤雞配芝麻菜沙拉";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Ingredients" = "◆\t4（2盎司）去皮去骨的雞腿 \n\n◆\t1/2湯匙鹽 \n\n◆\t1/4茶匙黑胡椒粉 \n\n◆\t2.5湯匙橄欖油 \n\n◆\t2茶匙檸檬汁 \n\n◆\t1茶匙蒜末 \n\n◆\t烹飪噴劑 \n\n◆\t1湯匙意大利香醋 \n\n◆\t1茶匙蜜糖 \n\n◆\t1杯熟番茄，切半 \n\n◆\t1（5盎司）包嫩芝麻菜";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Instructions" = "雞肉撒上1/4茶匙鹽和1/8茶匙胡椒粉。雞肉混合1-1.5茶匙的油、檸檬汁、芥末和蒜末，均勻混合。靜置4分鐘。中火加熱烤盤，噴上烹飪噴劑，把雞肉放入鍋中，烤5分鐘直到雞肉熟透。把雞肉切成1/4寸厚的肉塊。請慢慢享用！";
+
+"Cottage Berry Crunch_Title" = "乾酪莓果脆餅";
+"Cottage Berry Crunch_Ingredients" = "◆\t1/2杯2%低脂乾酪 \n\n◆\t2湯匙格蘭諾拉麥片 \n\n◆\t1/2杯切片香蕉 \n\n◆\t1/2杯各類混合漿果";
+"Cottage Berry Crunch_Instructions" = "將乾酪盛入小碗，加上其他材料就完成了。請慢慢享用！";
+
+"Pineapple Kiwi_Title" = "鳳梨奇異果";
+"Pineapple Kiwi_Ingredients" = "◆\t4湯匙的水 \n\n◆\t1/2杯牛奶 \n\n◆\t1/2杯乳酪 \n\n◆\t1.5湯匙的蜜糖 \n\n◆\t1粒奇異果，去皮 \n\n◆\t1杯鳳梨塊 \n\n◆\t1/2粒芒果 \n\n◆\t2塊冰塊";
+"Pineapple Kiwi_Instructions" = "用低速攪拌所有材料直到變成厚厚的奶昔。請慢慢享用！";
+
+"Lemon Chicken Skillet_Title" = "檸檬雞";
+"Lemon Chicken Skillet_Ingredients" = "◆\t4塊雞胸 \n\n◆\t1/4杯牛油 \n\n◆\t2湯匙橄欖油 \n\n◆\t1粒檸檬 \n\n◆\t1粒檸檬切片 \n\n◆\t1/4杯白酒 \n\n◆\t1茶匙鹽 \n\n◆\t1茶匙黑胡椒粉 \n\n◆\t1/2茶匙辣椒 \n\n◆\t1/2茶匙幹芫荽";
+"Lemon Chicken Skillet_Instructions" = "將麵粉、鹽、胡椒、辣椒和芫荽混合在一起。用中高火加熱油和牛油。每塊雞胸都沾上麵粉，然後放到熱鍋中。加入檸檬汁、白酒、檸檬和迷迭香。把雞肉各邊都煮熟。請慢慢享用！";
+
+"Zucchini Quinoa Cookies_Title" = "西葫蘆藜麥餅乾";
+"Zucchini Quinoa Cookies_Ingredients" = "◆\t1/2杯奶油花生醬 \n\n◆\t1/4杯蜜糖 \n\n◆\t1條香蕉 \n\n◆\t1粒雞蛋 \n\n◆\t1茶匙香草精 \n\n◆\t1/2杯燕麥 \n\n◆\t1/2杯藜麥片 \n\n◆\t1茶匙肉桂 \n\n◆\t1/4茶匙的鹽 \n\n◆\t1杯切碎的西葫蘆，壓扁";
+"Zucchini Quinoa Cookies_Instructions" = "以350°F預熱烤箱。加入花生醬、蜜糖、香蕉、雞蛋和香草到碗裡攪拌。加入燕麥、藜麥片、烘培粉、辣椒和鹽攪拌。參入切碎的西葫蘆和奇亞籽。將麵團挖放到烤盤，在中心的烤架烤15-18分鐘，直到邊緣呈金黃色。請慢慢享用！";
+
+"Savory Shrimp with Fresh Herbs_Title" = "香草蝦";
+"Savory Shrimp with Fresh Herbs_Ingredients" = "◆\t1磅大蝦 \n\n◆\t2顆紅辣椒 \n\n◆\t1根韭蔥 \n\n◆\t0.5-1湯匙續隨子，洗乾淨瀝乾 \n\n◆\t2瓣蒜瓣，切薄片 \n\n◆\t1/2杯切細的芫荽 \n\n◆\t3湯匙檸檬汁 \n\n◆\t2湯匙橄欖油";
+"Savory Shrimp with Fresh Herbs_Instructions" = "中火加熱炒鍋，放油加熱。放入蝦、辣椒、韭蔥、蒜、鹽和胡椒，烹煮4分鐘直到蝦肉呈粉紅色。關火。加上檸檬汁，用勺子從鍋底挖起食物。最後用新鮮芫荽和九層塔葉裝飾。請慢慢享用！";
+
+"Flaxseed Oatmeal with Blueberries_Title" = "藍莓亞麻籽燕麥";
+"Flaxseed Oatmeal with Blueberries_Ingredients" = "◆\t3杯水 \n\n◆\t2杯燕麥 \n\n◆\t3湯匙的亞麻籽粉 \n\n◆\t1/8茶匙的鹽 \n\n◆\t1/4杯全脂牛奶 \n\n◆\t1杯藍莓 \n\n◆\t1湯匙的藍莓醬 \n\n◆\t1/2茶匙的檸檬皮碎片 \n\n◆\t1湯匙的檸檬汁";
+"Flaxseed Oatmeal with Blueberries_Instructions" = "將3杯水煮沸，拌入燕麥，加上亞麻籽和鹽。把爐火調到中火，把燕麥煮至柔軟，過程中要時常攪拌。拌入牛奶和牛油。與此同時，把藍莓和剩下的4種材料，放進微波爐高火微波1.5分鐘，每30秒攪拌一下。將燕麥分別盛入4個碗中，放上燕麥和核桃。請慢慢享用！";
+
+"Coconut Milk Smoothie With Blueberries_Title" = "藍莓椰奶奶昔";
+"Coconut Milk Smoothie With Blueberries_Ingredients" = "◆\t1包冰凍藍莓（10盎司） \n\n◆\t3條熟香蕉 \n\n◆\t1杯乳酪 \n\n◆\t1杯不加糖椰奶 \n\n◆\t2湯匙蜜糖";
+"Coconut Milk Smoothie With Blueberries_Instructions" = "用攪拌器把藍莓、香蕉、乳酪、椰奶和蜜糖攪成泥狀。請慢慢享用！";
+
+"Chicken and Asparagus Stir-Fry_Title" = "雞肉炒蘆筍";
+"Chicken and Asparagus Stir-Fry_Ingredients" = "◆\t1湯匙醬油 \n\n◆\t1湯匙蜜糖 \n\n◆\t2塊雞胸，切小 \n\n◆\t1湯匙橄欖油 \n\n◆\t1把蘆筍，切小 \n\n◆\t4瓣蒜瓣，切薄片 \n\n◆\t2茶匙芝麻油";
+"Chicken and Asparagus Stir-Fry_Instructions" = "在密封袋中混合醬油和蜜糖，加入雞肉攪​​拌以沾上醬汁。之後放入冰箱待用。與此同時，中火加熱一個大平底深鍋。拿出蘆筍放在一旁。拿出雞肉放到鍋中，然後加入蒜、青蔥和醃製材料。煮好後放上一些芝麻油。請慢慢享用！";
+
+"Lavender Mint Tea_Title" = "薰衣草薄荷茶";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4杯新鮮薰衣草花瓣 \n\n◆\t1杯新鮮薄荷葉 \n\n◆\t4杯水";
+"Lavender Mint Tea_Instructions" = "薰衣草花瓣和薄荷葉放入平底鍋中，倒水煮沸。關小火燉15到20分鐘。請慢慢享用！";
+
+"Chili Fajitas_Title" = "辣肉捲";
+"Chili Fajitas_Ingredients" = "◆\t1磅去皮雞胸 \n\n◆\t1/2粒青、紅和黃燈籠椒，切成薄片 \n\n◆\t1/3杯水 \n\n◆\t2茶匙醬油 \n\n◆\t少許鹽 \n\n◆\t少許黑胡椒 \n\n◆\t2湯匙橄欖油";
+"Chili Fajitas_Instructions" = "將雞肉醃製好放在冰箱至少2小時。拿出雞肉後，用中火烤4-5分鐘。將肉切成厚條。醬料方面，混合2湯匙水、1茶匙醬油、1/4茶匙酸甘汁、鹽少許、黑胡椒少許和1湯匙橄欖油。請慢慢享用！";
+
+"Healthy Fruity Oatmeal_Title" = "健康水果燕麥";
+"Healthy Fruity Oatmeal_Ingredients" = "◆\t1/2杯燕麥 \n\n◆\t1杯水 \n\n◆\t1湯匙的蜜糖 \n\n◆\t1湯匙的香草精 \n\n◆\t1/2茶匙的肉桂粉 \n\n◆\t1/4杯藍莓 \n\n◆\t4顆切片草莓 \n\n◆\t1/2條香蕉，切成片狀";
+"Healthy Fruity Oatmeal_Instructions" = "把水和燕麥放入可微波的碗中，高火微波直到燕麥吸收了水份。拌入蜜糖、香草精和肉桂粉。加上藍莓、香蕉和草莓就行了。請慢慢享用！";
+
+"Coffee Smoothie_Title" = "咖啡奶昔";
+"Coffee Smoothie_Ingredients" = "◆\t1茶匙即溶咖啡粉 \n\n◆\t1湯匙熱水 \n\n◆\t1條小香蕉，剝皮、切片、冷凍 \n\n◆\t1/4杯無脂牛奶 \n\n◆\t1湯匙蜜糖 \n\n◆\t1/2杯冰塊 \n\n◆\t肉桂粉";
+"Coffee Smoothie_Instructions" = "攪拌器內攪拌咖啡粉和熱水，靜置一分鐘。加入香蕉、牛奶和蜜糖。蓋上蓋子攪拌直到變成奶昔。逐步加入冰塊直到達到想要的濃度。撒上一些肉桂粉就完成了。請慢慢享用！";
+
+"Chicken & Pineapple Stir-Fry_Title" = "雞肉炒鳳梨";
+"Chicken & Pineapple Stir-Fry_Ingredients" = "◆\t110克雞胸，4盎司 \n\n◆\t40克鳳梨，1.4盎司 \n\n◆\t \n\n◆\t120克糙米，4.4盎司 \n\n◆\t1/3湯匙的橄欖油 \n\n◆\t1/2茶匙布朗芥末 \n\n◆\t1/6湯匙煙熏辣椒粉 \n\n◆\t海鹽 \n\n◆\t胡椒";
+"Chicken & Pineapple Stir-Fry_Instructions" = "把生雞肉切成小塊，以煙熏辣椒粉和布朗芥末調味。在平底深鍋中加入橄欖油，再放入雞肉。烹煮4分鐘，讓雞肉80%熟，然後加入切片燈籠椒，再煮2或3分鐘，最後放入鳳梨。請慢慢享用！";
+
+"Raw Chocolate Truffles_Title" = "原味巧克力松露";
+"Raw Chocolate Truffles_Ingredients" = "◆\t1/2杯核桃、腰果和杏仁，浸水過一夜 \n\n◆\t3-4湯匙的杏仁牛奶 \n\n◆\t1/4杯葵花籽 \n\n◆\t1/4杯南瓜子 \n\n◆\t2湯匙豆莢粉 \n\n◆\t3湯匙椰子片";
+"Raw Chocolate Truffles_Instructions" = "把所有材料除了椰子片，放入攪拌器攪拌。用冰淇淋勺子挖出混合物做出小球。將小球放到椰子片。當作冷盤來吃。請慢慢享用！";
+
+"Baked Salmon with Veggies_Title" = "烤三文魚配蔬菜";
+"Baked Salmon with Veggies_Ingredients" = "◆\t2片三文魚片 \n\n◆\t1杯切片西葫蘆 \n\n◆\t1杯西蘭花 \n\n◆\t1/2杯櫻桃番茄 \n\n◆\t鹽 \n\n◆\t胡椒 \n\n◆\t橄欖油";
+"Baked Salmon with Veggies_Instructions" = "將烤箱預熱到375°F。把蔬菜放在一個大烤盤上，以鹽、胡椒和橄欖油調味。將魚片放在蔬菜旁邊，烤18-20分鐘直到三文魚烤熟、蔬菜變嫩。請慢慢享用！";
+
+"Banana Nut Oatmeal_Title" = "香蕉核桃燕麥";
+"Banana Nut Oatmeal_Ingredients" = "◆\t1/2杯燕麥 \n\n◆\t1杯水 \n\n◆\t1條切片香蕉 \n\n◆\t1湯匙的碎核桃 \n\n◆\t1茶匙的肉桂粉";
+"Banana Nut Oatmeal_Instructions" = "把一杯水和燕麥放入可微波的碗中，高火微波3分鐘。然後加上切片的香蕉、核桃和肉桂粉就行了。請慢慢享用！";
+
+"Pink Power_Title" = "粉紅力量";
+"Pink Power_Ingredients" = "◆\t1.5杯新鮮花椰菜小朵 \n\n◆\t2杯西瓜切丁（去除種子和果皮） \n\n◆\t1.5杯草莓 \n\n◆\t1盒（6盎司）草莓希臘乳酪 \n\n◆\t2湯匙的草莓蜜餞";
+"Pink Power_Instructions" = "用一個平底深鍋烹煮花椰菜，沸水蓋著花椰菜，直到變軟。在攪拌器內放入花椰菜、西瓜、草莓、乳酪，如果想要的話可以加入草莓蜜餞。請慢慢享用！";
+
+"BBQ Chicken-Wrapped Asparagus_Title" = "烤雞包蘆筍";
+"BBQ Chicken-Wrapped Asparagus_Ingredients" = "◆\t2塊雞胸切塊，每塊3盎司 \n\n◆\t12枝蘆筍 \n\n◆\t2湯匙燒烤醬 \n\n◆\t1撮煙熏辣椒粉 \n\n◆\t1撮蒜粉 \n\n◆\t1撮胡椒";
+"BBQ Chicken-Wrapped Asparagus_Instructions" = "把烤箱設定在400°F / 200°C。用木錘弄平雞肉，以1湯匙的燒烤醬調味（每一塊）。雞肉開口處朝下放在燒烤架上燒烤，或放在烤爐烤約8到10分鐘。請慢慢享用！";
+
+"Ginger Turmeric Herbal Tea_Title" = "薑黃涼茶";
+"Ginger Turmeric Herbal Tea_Ingredients" = "◆\t2杯水 \n\n◆\t1/2茶匙生薑切碎 \n\n◆\t1/2茶匙肉桂粉 \n\n◆\t1湯匙蜜糖 \n\n◆\t1片檸檬";
+"Ginger Turmeric Herbal Tea_Instructions" = "在小平底鍋中煮沸水，加入薑黃、薑和肉桂。關小火併浸泡10分鐘。把茶倒入大杯子中，加入蜜糖和檸檬。請慢慢享用！";
+
+"Grilled Shrimp & Avocado Kabobs_Title" = "烤蝦與鱷梨串燒";
+"Grilled Shrimp & Avocado Kabobs_Ingredients" = "◆\t450克/1磅大蝦 \n\n◆\t1.5粒鱷梨 \n\n◆\t1粒紅燈籠椒 \n\n◆\t1粒橙燈籠椒 \n\n◆\t1粒黃燈籠椒 \n\n◆\t1粒紅蔥 \n\n◆\t1茶匙蒜泥 \n\n◆\t1/2湯匙特級初榨橄欖油 \n\n◆\t1粒酸甘 \n\n◆\t鹽、胡椒";
+"Grilled Shrimp & Avocado Kabobs_Instructions" = "把烤箱設定在400°F/200°C。把蔬菜和鱷梨切成大塊串燒。去掉蝦的殼並調味。選擇較有纖維的蔬菜，因為它們更有飽足感，而且在高溫下能維持串燒的形狀。將串燒放在烤架上，烤8-10分鐘，翻面再烤8-10分鐘。請慢慢享用！";
+
+"Morning Parfait_Title" = "乾酪百匯";
+"Morning Parfait_Ingredients" = "◆\t1/4杯葡萄乾和1茶匙的橘皮絲條 \n\n◆\t1茶匙的香草精 \n\n◆\t半包減脂奶油紐沙特爾乾酪（8盎司） \n\n◆\t麵包屑 \n\n◆\t2杯新鮮的山莓、藍莓、切片草莓和/或切碎的桃子 \n\n◆\t1/2杯低脂格蘭諾拉麥片 \n\n◆\t蜜糖 \n\n◆\t橘皮絲條";
+"Morning Parfait_Instructions" = "把麵包屑和奶酪混合在一起，灑在烤盆上。淋上一些油，烘烤20到25分鐘。在4個玻璃杯放上一層中奶油乾酪的混合，一層水果和一層格蘭諾拉麥片。重複擺放直到填滿杯子。淋上一些蜜糖並放上一些橘子皮絲。 4份甜點就準備好了。請慢慢享用！";
+
+"Green Tea Kiwi and Mango_Title" = "奇異果和芒果綠茶";
+"Green Tea Kiwi and Mango_Ingredients" = "◆\t2.5杯切丁冰凍芒果 \n\n◆\t3/4杯香草乳酪 \n\n◆\t2湯匙蜜糖 \n\n◆\t2湯匙水 \n\n◆\t3粒熟奇異果 \n\n◆\t2杯冰塊 \n\n◆\t1/2杯嫩菠菜 \n\n◆\t2湯匙瓶裝綠茶";
+"Green Tea Kiwi and Mango_Instructions" = "把芒果、1/2杯杯乳酪、2湯匙蜜糖、2湯匙水和去皮酸甘放入攪拌機攪拌。攪拌成奶昔後，放入1/4杯乳酪、2湯匙蜜糖、奇異果和另3個材料，再攪拌成奶昔。請慢慢享用！";
+
+"Citrus Chicken Stir-Fry_Title" = "柑橘雞";
+"Citrus Chicken Stir-Fry_Ingredients" = "◆\t140克/5盎司雞胸，小塊 \n\n◆\t34克/0.25盎司西蘭花 \n\n◆\t25克/0.875盎司波托貝羅嫩蘑菇 \n\n◆\t1/4紅燈籠椒 \n\n◆\t20克/0.7盎司紅蔥 \n\n◆\t椰油噴劑 \n\n◆\t芝麻 \n\n◆\t1/4茶匙葛粉 \n\n◆\t1/8湯匙的蒜泥 \n\n◆\t1/4茶匙的薑粉";
+"Citrus Chicken Stir-Fry_Instructions" = "在碗中攪拌所有翻炒的醬料。在平底深鍋噴上椰油，中火加熱。放入雞肉煮至85%完成，然後放入蔬菜翻炒。請慢慢享用！";
+
+"Grilled Mexican Corn_Title" = "烤墨西哥玉米";
+"Grilled Mexican Corn_Ingredients" = "◆\t4根玉米 \n\n◆\t1.5杯酸奶油 \n\n◆\t1杯帕瑪森乾酪碎 \n\n◆\t1粒酸甘汁 \n\n◆\t辣椒粉 \n\n◆\t2粒酸甘，當裝飾";
+"Grilled Mexican Corn_Instructions" = "玉米在烤架上烤，稍微烤焦時轉動玉米。在一個小碗中，把蛋黃醬、酸奶油和芫荽混合在一起。在玉米淋上酸甘汁，以帕瑪森乾酪碎調味，再撒上辣椒粉就行了。請慢慢享用！";
+
+"Salmon Burger with Avocado_Title" = "鱷梨三文魚漢堡";
+"Salmon Burger with Avocado_Ingredients" = "◆\t1磅三文魚魚片 \n\n◆\t1杯麵包屑 \n\n◆\t1粒雞蛋 \n\n◆\t1湯匙檸檬汁 \n\n◆\t鹽和胡椒 \n\n◆\t橄欖油 \n\n◆\t1粒大鱷梨，切丁 \n\n◆\t1/3杯切碎紅蔥 \n\n◆\t酸甘汁";
+"Salmon Burger with Avocado_Instructions" = "把三文魚魚片切小，放到一個碗裡。加入並稍微攪拌其餘的材料，靜置5-10分鐘。用中火加熱大鍋裡的油。用三文魚魚肉弄成整齊的餅狀，每面各煎4分鐘。請慢慢享用！";
+
+"Strawberry and Banana Nut Bread Oatmeal_Title" = "草莓香蕉堅果麵包燕麥";
+"Strawberry and Banana Nut Bread Oatmeal_Ingredients" = "◆\t150克的燕麥，5.3盎司（煮熟的） \n\n◆\t1/2條香蕉泥 \n\n◆\t50克/1.8盎司的草莓 \n\n◆\t2湯匙的杏仁牛奶 \n\n◆\t1湯匙的香草精 \n\n◆\t2湯匙的切碎核桃 \n\n◆\t\"原味\"包裝甜菊 \n\n◆\t檸檬風味裝飾 \n\n◆\t1湯匙的希臘乳酪 \n\n◆\t1/2湯匙的切碎核桃 \n\n◆\t罌粟籽";
+"Strawberry and Banana Nut Bread Oatmeal_Instructions" = "按指示烹煮燕麥，然後放在一邊。把所有材料放入碗中，除了草莓，充分攪拌。在燕麥上放上切片草莓。用希臘乳酪、切碎核桃和罌粟籽裝飾。請慢慢享用！";
+
+"Strawberry Banana_Title" = "草莓香蕉";
+"Strawberry Banana_Ingredients" = "◆\t2杯草莓 \n\n◆\t1條新鮮剝皮的香蕉 \n\n◆\t1杯牛奶 \n\n◆\t1塊冰塊 \n\n◆\t1湯匙的蜜糖";
+"Strawberry Banana_Instructions" = "把所有材料加入攪拌器內，攪拌到所有材料混合在一起。如果奶昔太厚，加入更多牛奶。如果太稀薄，加入更多水果和/或冰塊。請慢慢享用！";
+
+"Spicy & Light Kung Pao Chicken Meal Prep_Title" = "麻辣宮保雞丁餐前準備";
+"Spicy & Light Kung Pao Chicken Meal Prep_Ingredients" = "◆\t150克/0.3磅雞胸肉 \n\n◆\t1/6瓣蒜瓣 \n\n◆\t33克/1.17盎司荷蘭豆 \n\n◆\t150克/5.17盎司燈籠椒 \n\n◆\t2/3湯匙的水 \n\n◆\t1/3湯匙的番茄醬 \n\n◆\t1/6湯匙的新鮮生薑 \n\n◆\t1/6湯匙的紅辣椒醬 \n\n◆\t1/6湯匙的米醋 \n\n◆\t切碎的青蔥";
+"Spicy & Light Kung Pao Chicken Meal Prep_Instructions" = "在碗中攪拌醬料的材料。中火加熱平底深鍋並噴上橄欖油。當鍋子熱了以後爆香蒜頭約2分鐘，然後加入雞胸塊。將雞肉煮至皮焦，約6到8分鐘。放入燈籠椒炒約3分鐘。慢慢倒入醬料並攪拌。請慢慢享用！";
+
+"Lavender Mint Tea_Title" = "薰衣草薄荷茶";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4杯新鮮薰衣草花瓣 \n\n◆\t1杯新鮮薄荷葉 \n\n◆\t4杯水";
+"Lavender Mint Tea_Instructions" = "薰衣草花瓣和薄荷葉放入平底鍋中，倒水煮沸。關小火燉15到20分鐘。請慢慢享用！";
+
+"Foil Fish Packets with Spinach and Tomato_Title" = "菠菜與番茄紙包魚";
+"Foil Fish Packets with Spinach and Tomato_Ingredients" = "◆\t1包蘆筍 \n\n◆\t2粒切片番茄 \n\n◆\t2片羅非魚片 \n\n◆\t橄欖油 \n\n◆\t1/2茶匙辣椒蒜頭醬 \n\n◆\t鹽 \n\n◆\t1粒切片檸檬";
+"Foil Fish Packets with Spinach and Tomato_Instructions" = "將烤箱預熱到375°F。在一個小碗混合橄欖油、辣椒醬和鹽。把蘆筍放在鋁箔紙中央，平均放上切片番茄，調味。每一包的番茄上面，放上一片魚片，塗上橄欖油，最後加上檸檬片。放進烤箱烤25-30分鐘。請慢慢享用！";
+
+
+

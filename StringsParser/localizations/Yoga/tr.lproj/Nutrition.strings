@@ -1,0 +1,179 @@
+//Plan names
+
+"%ld days plan" = "%ld günlük plan";
+
+//Other
+
+"Meal %ld" = "Öğün %ld";
+"Day %ld" = "Gün %ld";
+
+"Ingredients" = "Malzemeler";
+"Steps" = "Adımlar";
+
+//Days
+//Day 1
+"Healthy recipes that are awesome to prepare and try out" = "Hazırlaması ve denemesi kolay olan sağlıklı tarifler";
+"To keep your metabolism running strong, you must eat your first meal within 1 hour of rising." = "Metabolizmanızı çalışır durumda tutmak için ilk öğününüzü kalktıktan 1 saat içerisinde yemeniz gerekiyor.";
+//Day 2
+"Good nutrition is the foundation of good health" = "İyi beslenme, iyi sağlığın temelidir";
+"The solution is to eat within 1 hour of waking up so that you move your metabolism." = "Çözüm, metabolizmanızı harekete geçirmek için kalktıktan 1 saat içerisinde yemek yemektir.";
+//Day 3
+"Plan ahead to eat breakfast" = "Kahvaltınızı önceden planlayın";
+"To the highest fat burning speed breakfast is so important to your weight-loss success." = "En hızlı yağ yakımı açısından kahvaltı, kilo vermeniz için çok önemlidir.";
+//Day 4
+"Carbs supply the body with energy" = "Karbonhidratlar vücuda enerji verir";
+"Studies show that 5 meals a day are important in maintaining a healthy body weight." = "Araştırmalar, günde 5 öğün yemek yemenin sağlıklı bir vücut ağırlığını korumak açısından önemli olduğunu göstermektedir.";
+//Day 5
+"Protein is essential for growth and development" = "Protein, büyüme ve gelişim için vazgeçilmez bir unsurdur";
+"Nutrition plays a key role in maintaining a healthy lifestyle." = "Beslenme, sağlıklı bir yaşam tarzı sürdürmede kilit bir rol oynar.";
+//Day 6
+"You are what you eat" = "Yediğin neyse, osun";
+"Is literally true, if you want your body to perform at a peak level." = "Vücudunuzun en iyi performansa sahip olmasını istiyorsanız bu gerçekten doğrudur.";
+//Day 7
+"Controlling portion size use smaller plates" = "Porsiyon boyutlarını kontrol etmek için daha küçük tabaklar kullanın";
+"Eliminate emotional eating by healing your hungry heart." = "Aç kalbinizi iyileştirerek duygusal yeme alışkanlıklarınızı ortadan kaldırın.";
+
+//Content: Title, Ingridients, Instructions
+
+"Strawberries and Creme Oatmeal_Title" = "Çilek ve Yulaf Kreması";
+"Strawberries and Creme Oatmeal_Ingredients" = "◆\t1/2 su bardağı yulaf ezmesi \n\n◆\t1/3 su bardağı yağsız süt \n\n◆\t1/3 su bardağı vanilyalı Ysüzme yoğurt \n\n◆\t1/2 su bardağı dilimlenmiş çilek \n\n◆\t2 yemek kaşığı vanilyalı yağsız süzme yoğurt \n\n◆\t1 yemek kaşığı kızarmış badem";
+"Strawberries and Creme Oatmeal_Instructions" = "Akşam yulaf ezmesi, süt ve 1/3 su bardağı yoğurdu iyice özdeşleşinceye kadar bir kavanoz veya kase içerisinde karıştırın. Üzerini kapayıp gece buzdolabında soğumaya bırakın. Afiyet olsun!";
+
+"Golden Glow Elixir_Title" = "Altın Işıltı İksiri";
+"Golden Glow Elixir_Ingredients" = "◆\t2 elma \n\n◆\t4 orta boy kabuğu soyulmuş portakal  \n\n◆\t1 kabuğu soyulmuş limon  \n\n◆\t6-7 cmlik kabuğu soyulmuş taze zencefil  \n\n◆\t5 cmlik kabuğu soyulmuş taze zerdeçal   \n\n◆\t2 su bardağı soğuk su  \n\n◆\t1 avuç buz";
+"Golden Glow Elixir_Instructions" = "Yüksek hızlı blenderda, gerekirse ekstra su ekleyerek, pürüzsüz hale gelinceye dek tüm malzemeleri karıştırın. Yüksek güçlü iyi bir blender bu karışımı pürüzsüz bir içeceğe dönüştürecektir. Daha da pürüzsüz hale getirmek için malzemelerin suyunu sıkmayı tercih ederseniz, tüm lif ve besleyici öğeleri muhafaza edemeyecek olsanız da, malzemelerin suyunu sıkmak da yeterince iyi olacaktır. Afiyet olsun!";
+
+"Tso’s Chicken Stir Fry_Title" = "Tso’nun Wokta Kızarmış Tavuğu";
+"Tso’s Chicken Stir Fry_Ingredients" = "◆\t4 küp küp doğranmış tavuk göğsü  \n\n◆\t1 su bardağı un  \n\n◆\tbitkisel sıvıyağ \n\n◆\ttuz \n\n◆\ttaze toz karabiber  \n\n◆\t2 diş kıyılmış sarımsak  \n\n◆\t1/2 kutu tavuk suyu  \n\n◆\t3 yemek kaşığı bal \n\n◆\t4 yemek kaşığı soya sosu  \n\n◆\t2 yemek kaşığı misket limonu suyu  \n\n◆\t2 kutu brokolinin sadece çiçekçikleri  \n\n◆\t2 kutu pişmiş beyaz pirinç, servis için";
+"Tso’s Chicken Stir Fry_Instructions" = "Geniş bir kase içerisinde tavuğu hafifçe mısır nişastasına daldırın. Parçaları unla kaplı geniş bir kaseye alın ve una bulanması için kaseyi hafif sallayın ve bir kenara koyun. Geniş, derin bir tavayı 1/2  bitkisel sıvıyağla doldurun ve ocağı orta-yüksek ateşe ayarlayın. Tavuğu çeşnilendirip, suyunu süzün ve bir kenara koyun. 2 yemek kaşığı mısır nişastasını ekleyip, dağılması için karıştırın. Sosa brokoli ve havuçları ekleyin ve 5 dakika boyunca yumuşayıncaya kadar pişirin. Afiyet olsun!";
+
+"Herbal Tea_Title" = "Bitki Çayı";
+"Herbal Tea_Ingredients" = "◆\t1 su bardağı su  \n\n◆\t1 çay kaşığı rendelenmiş taze zencefil  \n\n◆\t1 çay kaşığı rendelenmiş limon kabuğu  \n\n◆\t1 çay kaşığı misket limonu suyu  \n\n◆\t3 taze nane yaprağı";
+"Herbal Tea_Instructions" = "Bir tencerede suyu kaynatıp, diğer malzemeleri ekleyip karıştırın. Çay demlenene kadar kaynatın ve karıştırın. Afiyet olsun!";
+
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Title" = "Limonlu Dijon Hardallı Izgara Tavuk But ve Roka Salatası";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Ingredients" = "◆\t4 derisi ve kemikleri alınmış tavuk but  \n\n◆\t1/2 çay kaşığı tuz  \n\n◆\t1/4 çay kaşığı toz karabiber  \n\n◆\t2.5 yemek kaşığı zeytinyağı  \n\n◆\t2 çay kaşığı limon suyu  \n\n◆\t1 çay kaşığı kıyılmış sarımsak \n\n◆\tpişirme spreyi  \n\n◆\t1 yemek kaşığı balzamik sirke  \n\n◆\t1 çay kaşığı bal \n\n◆\t1 su bardağı ikiye kesilmiş şeker domates  \n\n◆\t1 paket (140 gr) bebek roka";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Instructions" = "Tavuğun üzerine 1/4 çay kaşığı tuz ve 1/8 çay kaşığı pul biber serpin. Bir kase içerisine tavuk, 1-1.5 çay kaşığı yağ, limon suyu, hardal ve sarımsağı ekleyip karışması için sallayın. 4 dakika boyunca bekletin. Izgara tavasını orta ateşte ısıtın. Pişirme spreyi sıkın. Tavuğu tavaya ekleyip, her bir yüzünü 5 dakika boyunca veya tamamen pişene kadar pişirin. Tavuğu 6 mm kalınlığında dilimler halinde kesin. Afiyet olsun!";
+
+"Cottage Berry Crunch_Title" = "Süzme Peynirli Meyveli Çıtır";
+"Cottage Berry Crunch_Ingredients" = "◆\t1/2 su bardağı %2 az yağlı sahip süzme peynir \n\n◆\t12 yemek kaşığı granola \n\n◆\t1/2 su bardağı dilimlenmiş muz \n\n◆\t1/2 su bardağı karışık meyve";
+"Cottage Berry Crunch_Instructions" = "Süzme peyniri kaşıkla küçük bir kasenin içine koyun. Diğer malzemelerle üzerini süsleyin. Afiyet olsun!";
+
+"Pineapple Kiwi_Title" = "Ananas Kivi";
+"Pineapple Kiwi_Ingredients" = "◆\t4 yemek kaşığı su \n\n◆\t1/2 su bardağı süt \n\n◆\t1/2 su bardağı yoğurt \n\n◆\t1.5 yemek kaşığı bal \n\n◆\t1 kabuğu soyulmuş kivi  \n\n◆\t1 su bardağı ananas parçaları  \n\n◆\t1/2 mango \n\n◆\t2 buz küpü";
+"Pineapple Kiwi_Instructions" = "Tüm malzemeleri düşük hızda yoğun ve pürüzsüz hale gelinceye dek karıştırın. Afiyet olsun!";
+
+"Lemon Chicken Skillet_Title" = "Tavada Limonlu Tavuk";
+"Lemon Chicken Skillet_Ingredients" = "◆\t4 tavuk göğsü  \n\n◆\t1/4 su bardağı tereyağı \n\n◆\t2 yemek kaşığı zeytinyağı  \n\n◆\t1 limon \n\n◆\t1 dilimlenmiş limon  \n\n◆\t1/4 su bardağı beyaz şarap  \n\n◆\t1 çay kaşığı tuz \n\n◆\t1 çay kaşığı toz karabiber  \n\n◆\t1/2 çay kaşığı tatlı kırmızıbiber  \n\n◆\t1/2 çay kaşığı kurutulmuş maydanoz";
+"Lemon Chicken Skillet_Instructions" = "Un, tuz, tatlı kırmızıbiber ve maydanozu sığ bir kase içerisinde karıştırın. Orta-yüksek ateşte yağı ve tereyağını ısıtın. Her bir tavuk göğsünü unlu karışımla kaplayın ve sıcak tavaya ekleyin. Tavaya limon suyu, beyaz şarap, limon kabuğu rendesi ve biberiyeyi ekleyin. Her iki tarafı da pişene dek tavuğu pişirin. Afiyet olsun!";
+
+"Zucchini Quinoa Cookies_Title" = "Kabaklı Kinoalı Kurabiye";
+"Zucchini Quinoa Cookies_Ingredients" = "◆\t1/2 su bardağı kremalı fıstık ezmesi  \n\n◆\t1/4 su bardağı bal \n\n◆\t1 muz  \n\n◆\t1 yumurta \n\n◆\t1 çay kaşığı vanilya özütü  \n\n◆\t1/2 su bardağı yulaf ezmesi  \n\n◆\t1/2 su bardağı kinoa gevreği  \n\n◆\t1 çay kaşığı tarçın \n\n◆\t1/4 çay kaşığı tuz  \n\n◆\t1 su bardağı küçük küçük kesilmiş ve ezilmiş kabak";
+"Zucchini Quinoa Cookies_Instructions" = "Fırınınızı önceden 175 dereceye ayarlayığ ısıtın. Fıstık ezmesi, bal, muz, yumurta ve vanilyayı geniş bir kase içerisine koyup karıştırın. Yulaf, kinoa gevreği, kabartma tozu, baharatlar ve tuzu kaseye ekleyip karıştırın. Küçük küçük kesilmiş kabağı ve chia tohumlarını kıvırın. Hamuru fırın tepsisine kaşık yardımıyla koyun. Kurabiyeleri kenarları altın sarısı renge gelene dek 15-18 dakika boyunca fırının orta gözünde pişirin. Afiyet olsun!";
+
+"Savory Shrimp with Fresh Herbs_Title" = "Taze Baharatlı Karides";
+"Savory Shrimp with Fresh Herbs_Ingredients" = "◆\t450 gr büyük boy karides  \n\n◆\t2 acı kırmızı biber  \n\n◆\t1 ince dilimlenmiş pırasa  \n\n◆\t0.5-1 yemek kaşığı yıkanmış ve süzülmüş kapari  \n\n◆\t2 diş ince doğranmış sarımsak  \n\n◆\t1/2 su bardağı kalın doğranmış maydanoz  \n\n◆\t3 yemek kaşığı limon suyu \n\n◆\t2 yemek kaşığı zeytinyağı";
+"Savory Shrimp with Fresh Herbs_Instructions" = "Sote tavasını orta ateşe koyup, yağ ekleyin. Karides, biber, pırasa, kapari, sarımsak, tuz ve pul biberi ekleyip, karidesler pembeleşinceye kadar 4 dakika boyunca pişirip ocaktan alın. Limon suyu ekleyin, tavanın dibini kaşıklı sıyırın. Karidesleri üzerine maydanoz ve fesleğen serpiştirip servis edin. Afiyet olsun!";
+
+"Flaxseed Oatmeal with Blueberries_Title" = "Keten Tohumlu Yaban Mersinli Yulaf";
+"Flaxseed Oatmeal with Blueberries_Ingredients" = "◆\t3 su bardağı su \n\n◆\t2 su bardağı yulaf ezmesi  \n\n◆\t3 yemek kaşığı öğütülmüş keten tohumu \n\n◆\t1/8 çay kaşığı tuz \n\n◆\t1/4 su bardağı tam yağlı süt \n\n◆\t1 su bardağı yaban mersini  \n\n◆\t1 yemek kaşığı yaban mersini reçeli \n\n◆\t1/2 çay kaşığı rendelenmiş limon kabuğu \n\n◆\t1 yemek kaşığı limon suyu";
+"Flaxseed Oatmeal with Blueberries_Instructions" = "3 su bardağı suyu kaynatın. Yulaf, keten tohumu ve tuzu ekleyip karıştırın. Ateşi kısıp orta ateşte sık sık karıştırarak yumuşayıncaya kadar pişirin. Süt ve tereyağını ekleyip karıştırın. Bu arada, yaban mersini ve sonraki 4 malzemeyi bir mikrodalga kasesine ekleyip, her 30 saniyede bir karıştırarak 1,5 dakika boyunca yüksek ayarda mikrodalgada pişirin. Yulafı 4 kaseye paylaştırın. Yaban mersini ve fındıkla üzerlerini süsleyin. Afiyet olsun!";
+
+"Coconut Milk Smoothie With Blueberries_Title" = "Yaban Mersinli Hindistan Cevizi Sütlü Smoothie";
+"Coconut Milk Smoothie With Blueberries_Ingredients" = "◆\t1 torba (280 gr) donmuş yaban mersini  \n\n◆\t3 olgunlaşmış muz  \n\n◆\t1 su bardağı sade yoğurt  \n\n◆\t1 su bardağı şekersiz hindistan cevizi sütü  \n\n◆\t2 yemek kaşığı bal";
+"Coconut Milk Smoothie With Blueberries_Instructions" = "Blenderda yaban mersini, muz, yoğurt, hindistan cevizi sütü ve balı püre haline getirin. Afiyet olsun!";
+
+"Chicken and Asparagus Stir-Fry_Title" = "Wokta Kızarmış Tavuk ve Kuşkonmaz";
+"Chicken and Asparagus Stir-Fry_Ingredients" = "◆\t1 yemek kaşığı soya sosu  \n\n◆\t1 yemek kaşığı bal \n\n◆\t2 doğranmış tavuk göğsü  \n\n◆\t1 yemek kaşığı zeytinyağı  \n\n◆\t1 demet doğranmış kuşkonmaz  \n\n◆\t4 diş ince dilimlenmiş sarımsak  \n\n◆\t2 çay kaşığı kavrulmuş susam yağı";
+"Chicken and Asparagus Stir-Fry_Instructions" = "Kilitli bir poşet içerisinde soya sosu ve balı karıştırın. Tavuğu ekleyip, sosla kaplanması için karıştırın. Hazır olana dek buzdolabında bekletin. Bu arada, geniş bir tavayı orta ateşte ısıtın. Kuşkonmazı ayırıp bir kenara koyun. Üzerindeki terbiye sosunu giderdikten sonra tavuğu tavaya ekleyin. Ardından sarımsak, taze soğan ve bir kenara ayırdığınız terbiye sosunu tavaya ekleyin. Tavayı ateşten alın ve susam yağı ekleyip karıştırın. Afiyet olsun!";
+
+"Lavender Mint Tea_Title" = "Lavantalı ve Naneli Çay";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 su bardağı taze lavanta yaprağı  \n\n◆\t1 su bardağı taze nane yaprağı \n\n◆\t4 su bardağı su";
+"Lavender Mint Tea_Instructions" = "Lavanta ve nane yapraklarını tencereye koyun, üzerine su dökün ve kaynatın. Ateşi düşürün ve çay arzu ettiğiniz deme ulaşıncaya dek 15-20 dakika kadar ağır ateşte kaynatın. Afiyet olsun!";
+
+"Chili Fajitas_Title" = "Çili Fajita";
+"Chili Fajitas_Ingredients" = "◆\t325 gr derisi alınmış tavuk göğsü  \n\n◆\t1/2 ince dilimlenmiş yeşil, kırmızı ve sarı dolmalık biber  \n\n◆\t1/3 su bardağı su \n\n◆\t2 çay kaşığı soya sosu  \n\n◆\t1 tutam tuz  \n\n◆\t1 tutam karabiber \n\n◆\t2 yemek kaşığı zeytinyağı  \n\n◆\t1 ince doğranmış soğan";
+"Chili Fajitas_Instructions" = "Tüm terbiye malzemelerini bir kap içerisinde tavukla karıştırıp, en az 2 saat boyunca buzdolabında bekletin. Eti terbiye karışımından çıkarıp, her iki yüzünü orta ateşte yaklaşık 4-5 dakika boyunca ızgarada pişirin. Eti ince şeritler halinde kesin. Sos için 2 yemek kaşığı su, 1 çay kaşığı soya sosu, 1/4 çay kaşığı misket limonu suyunu, bir tutam tuz ve karabiber ile 1 yemek kaşığı zeytinyağını ekleyip karıştırın. Afiyet olsun!";
+
+"Healthy Fruity Oatmeal_Title" = "Sağlıklı Meyveli Yulaf";
+"Healthy Fruity Oatmeal_Ingredients" = "◆\t1/2 su bardağı yulaf \n\n◆\t1 su bardağı su \n\n◆\t1 yemek kaşığı bal \n\n◆\t1 yemek kaşığı vanilya özütü \n\n◆\t1/2 çay kaşığı toz tarçın  \n\n◆\t1/4 su bardağı yaban mersini \n\n◆\t4 dilimlenmiş çilek \n\n◆\t1/2 dilimlenmiş muz";
+"Healthy Fruity Oatmeal_Instructions" = "Su ve yulafı mikrodalga kasesi içerisinde karıştırın. Su yulafları eminceye dek yüksek ayarda mikrodalgada pişirin. Bal, vanilya özütü ve toz tarçını ekleyip karıştırın. Yaban mersinlerini ekleyin ve üzerini muz ve çilek dilimleriyle süsleyin. Afiyet olsun!";
+
+"Coffee Smoothie_Title" = "Kahveli Smoothie";
+"Coffee Smoothie_Ingredients" = "◆\t1 çay kaşığı çözünebilir espresso kahve tozu  \n\n◆\t1 yemek kaşığı sıcak su  \n\n◆\t1 küçük soyulmuş, doğranmış ve dondurulmuş muz  \n\n◆\t1/4 su bardağı yağsız süt  \n\n◆\t1 yemek kaşığı bal \n\n◆\t1/2 su bardağı buz küpü \n\n◆\t toz tarçın";
+"Coffee Smoothie_Instructions" = "Blendera espresso tozu ve sıcak suyu ekleyip, bir dakika bekletin. Muz, süt ve balı ekleyin. Ağzını kapatıp pürüzsüz hale gelinceye dek karıştırın. Azar azar buz ekleyerek arzu edilen kıvama gelinceye dek karıştırın. Üzerine biraz tarçın serpin. Afiyet olsun!";
+
+"Chicken & Pineapple Stir-Fry_Title" = "Wokta Kızarmış Tavuk ve Ananas";
+"Chicken & Pineapple Stir-Fry_Ingredients" = "◆\t110 gr tavuk göğsü \n\n◆\t40 gr ananas  \n\n◆\t120 gr esmer pirinç \n\n◆\t1/3 yemek kaşığı zeytinyağı  \n\n◆\t1/2 çay kaşığı kahverengi hardal  \n\n◆\t1/6 yemek kaşığı tütsülenmiş tatlı kırmızıbiber  \n\n◆\tdeniz tuzu \n\n◆\tpul biber";
+"Chicken & Pineapple Stir-Fry_Instructions" = "Çiğ tavuk göğüslerini küçük parçalara doğrayın. Tavuk parçalarını tütsülenmiş tatlı kırmızıbiber ve kahverengi hardalla çeşnilendirin. Tavaya zeytinyağı ekleyin ve ardından tavuk göğsü parçalarını ekleyin. Tavuk yaklaşık %80 pişene kadar yaklaşık 4 dakika boyunca pişirin, ardından doğranmış dolmalık biberi ekleyin. Küp küp doğranmış ananası eklemeden önce 2-3 dakika kadar daha pişirin. Afiyet olsun!";
+
+"Raw Chocolate Truffles_Title" = "Çiğ Çikolata Topları";
+"Raw Chocolate Truffles_Ingredients" = "◆\t1/2 su bardağı ceviz, kaju ve geceden suya konmuş badem  \n\n◆\t3-4 yemek kaşığı badem sütü  \n\n◆\t1/4 su bardağı ayçekirdeği  \n\n◆\t1/4 su bardağı kabak çekirdeği  \n\n◆\t2 yemek kaşığı keçiboynuzu tozu \n\n◆\t3 yemek kaşığı hindistan cevizi gevreği";
+"Raw Chocolate Truffles_Instructions" = "Hindistan cevizi gevreği hariç tüm malzemeleri blendera koyup karıştırın. Dondurma kepçesi ile karışımdan küçük toplar oluşturmaya başlayın. Her bir şekerlemeyi hindistan cevizi gevreğine bulayın. Soğuk servis edin. Afiyet olsun!";
+
+"Baked Salmon with Veggies_Title" = "Baked Salmon with Veggies";
+"Baked Salmon with Veggies_Ingredients" = "◆\t2 somon fileto  \n\n◆\t1 su bardağı doğranmış kabak  \n\n◆\t1 su bardağı brokoli \n\n◆\t1/2 su bardağı çeri domates  \n\n◆\ttuz  \n\n◆\tpul biber  \n\n◆\tzeytinyağı";
+"Baked Salmon with Veggies_Instructions" = "Fırınınızı önceden 190 derecede ısıtın. Sebzeleri geniş bir pişirme tepsisinde karıştırın. Sebzeleri tuz, pul biber ve zeytinyağıyla çeşnilendirin. Filetoları sebzelerin yanına koyup, somon pişene ve sebzeler yumuşayıncaya kadar 18-20 dakika boyunca pişirin. Afiyet olsun!";
+
+"Banana Nut Oatmeal_Title" = "Muzlu Cevizli Yulaf";
+"Banana Nut Oatmeal_Ingredients" = "◆\t1/2 su bardağı yulaf ezmesi \n\n◆\t1 su bardağı su \n\n◆\t1 dilimlenmiş muz \n\n◆\t1 yemek yaşığı kıyılmış ceviz \n\n◆\t1 çay kaşığı toz tarçın";
+"Banana Nut Oatmeal_Instructions" = "Yulaf ve 1 su bardağı suyu küçük bir mikrodalga kasesi içerisine ekleyip karıştırın. 3 dakika boyunca yüksek ayarda mikrodalgada pişirin. Üzerini muz dilimleri, ceviz ve tarçınla süsleyin. Afiyet olsun!";
+
+"Pink Power_Title" = "Pembe Güç";
+"Pink Power_Ingredients" = "◆\t1.5 su bardağı küçük taze karnabahar çiçeği  \n\n◆\t2 su bardağı karpuz küpü (çekirdekleri ve kabuğu çıkarılmış)  \n\n◆\t1.5 su bardağı bütün çilek  \n\n◆\t1 kase (170 gr) çilekli süzme yoğurt  \n\n◆\t2 yemek kaşığı çilek reçeli (isteğe bağlı)";
+"Pink Power_Instructions" = "Küçük bir tencerede karnabaharı iyice yumuşayıncaya dek sıcak suda kaynatarak pişirin. Blenderda pişmiş karnabahar, karpuz, çilek, yoğurt ve arzu edilirse çilek reçelini karıştırın. Afiyet olsun!";
+
+"BBQ Chicken-Wrapped Asparagus_Title" = "Kuşkonmazlı Barbekü Soslu Tavuk Sarması";
+"BBQ Chicken-Wrapped Asparagus_Ingredients" = "◆\t2 ince kesilmiş tavuk göğsü, her biri 85 gr  \n\n◆\t12 dal kuşkonmaz  \n\n◆\t2 yemek kaşığı barbekü sos \n\n◆\t1 tutam tütsülenmiş tatlı kırmızıbiber  \n\n◆\t1 tutam sarımsak tozu  \n\n◆\t1 tutam pul biber";
+"BBQ Chicken-Wrapped Asparagus_Instructions" = "Fırınınızı 200 dereceye ayarlayın. Tavuğu bir tokmakla düzleştirin. Tavuk parçalarını birer yemek kaşığı barbekü sos ve dilediğiniz baharatlarla çeşnilendirin. Tavuğu aşağı bakacak şekilde ızgaraya yerleştirin. Fırında pişirin veya ızgarada yaklaşık 8-10 dakika kadar fümeleyin. Afiyet olsun!";
+
+"Ginger Turmeric Herbal Tea_Title" = "Zencefilli ve Zerdeçallı Bitki Çayı";
+"Ginger Turmeric Herbal Tea_Ingredients" = "◆\t2 su bardağı su  \n\n◆\t1/2 çay kaşığı doğranmış taze zencefil  \n\n◆\t1/2 çay kaşığı toz tarçın  \n\n◆\t1 yemek kaşığı bal  \n\n◆\t1 limon dilimi";
+"Ginger Turmeric Herbal Tea_Instructions" = "Küçük bir tencerede suyu kaynatıp zerdeçal, zencefil ve tarçını ekleyin. Ateşin derecesini düşürün ve 10 dakika boyunca ağır ateşte kaynatın. Çayı büyük bir bardağa döküp bal ve limon ekleyin. Afiyet olsun!";
+
+"Grilled Shrimp & Avocado Kabobs_Title" = "Izgara Karides ve Avokadolu Kebap";
+"Grilled Shrimp & Avocado Kabobs_Ingredients" = "◆\t450 gr jumbo karides  \n\n◆\t1.5 avokado \n\n◆\t1 kırmızı dolmalık biber  \n\n◆\t1 turuncu dolmalık biber  \n\n◆\t1 sarı dolmalık biber  \n\n◆\t1 kırmızı soğan \n\n◆\t1 çay kaşığı sarımsak macunu  \n\n◆\t1/2 yemek kaşığı ekstra rafine zeytinyağı  \n\n◆\t1 misket limonu \n\n◆\ttuz, pul biber";
+"Grilled Shrimp & Avocado Kabobs_Instructions" = "Izgaranızı 200 dereceye ayarlayın. Kebap için sebzeleri ve avokadoyu iri parçalar halinde kesin. Karidesleri soyup, çeşnilendirin. Lifli sebzeler daha doyurucu olduğundan ve yoğun ateş altında kebap şişi üzerinde daha rahat dengede duracağından bu tarz sebzeleri tercih edin. Kebapları ızgaraya koyup yaklaşık 8-10 dakika kadar pişirin ve ters yüz edip bir 8-10 dakika kadar daha pişirin. Afiyet olsun!";
+
+"Morning Parfait_Title" = "Sabah Parfesi";
+"Morning Parfait_Ingredients" = "◆\t1/4 su bardağı kuru üzüm ve 1 çay kaşığı rendelenmiş portakal kabuğu \n\n◆\t1 çay kaşığı vanilya \n\n◆\tyarım paket yağı azaltılmış krem peynir (225 gram) \n\n◆\tekmek kırıntıları \n\n◆\t2 su bardağı taze ahududu, yaban mersini, dilimlenmiş çilek ve/veya doğranmış şeftali \n\n◆\t1/2 su bardağı az yağlı granola \n\n◆\tbal \n\n◆\trendelenmiş portakal kabuğu";
+"Morning Parfait_Instructions" = "Ekmek kırıntılarını ve peyniri karıştırıp borcama dökün. Üzerine yağ serpin. 20-25 dakika kadar fırında pişirin. 4 su bardağına birer kat kremalı peynir karışımı ve birer kat granola koyun. Bardakların ağız kısmına kadar kat ekleme işlemini gerçekleştirin. Üzerlerine bal serpin ve ayrıca portakal kabuğuyla süsleyin. 4 porsiyonluktur. Afiyet olsun!";
+
+"Green Tea Kiwi and Mango_Title" = "Yeşil Çay Kivi ve Mango";
+"Green Tea Kiwi and Mango_Ingredients" = "◆\t2.5 su bardağı dondurulmuş küp küp doğranmış mango  \n\n◆\t3/4 su bardağı vanilyalı yoğurt \n\n◆\t2 yemek kaşığı bal \n\n◆\t2 yemek kaşığı su \n\n◆\t3 olgun kivi  \n\n◆\t2 su bardağı buz küpü  \n\n◆\t1/2 su bardağı bebek ıspanak  \n\n◆\t2 yemek kaşığı şişelenmiş yeşil çay";
+"Green Tea Kiwi and Mango_Instructions" = "Mango, 1/2 su bardağı yoğurt, 2 yemek kaşığı bal, 2 yemek kaşığı su ve misket limonu kabuğunu blenderda pürüzsüz hale gelinceye dek karıştırın. 1/4 su bardağı yoğurt, 2 yemek kaşığı bal, kivi ve sonraki 3 malzemeyi pürüzsüz hale gelinceye dek blenderda karıştırın. Afiyet olsun!";
+
+"Citrus Chicken Stir-Fry_Title" = "Wokta Kızarmış Narenciye Soslu Tavuk";
+"Citrus Chicken Stir-Fry_Ingredients" = "◆\t140 gr küçük parçalara doğranmış tavuk göğsü   \n\n◆\t34 gr bebek brokoli   \n\n◆\t25 gr bebek portobello mantarı   \n\n◆\t1/4 kırmızı dolmalık biber  \n\n◆\t20 gr kırmızı soğan  \n\n◆\thindistan cevizi yağı spreyi  \n\n◆\tsusam tohumları    \n\n◆\t1/4 çay kaşığı ararot nişastası  \n\n◆\t1/8 yemek kaşığı sarımsak macunu \n\n◆\t1/4 çay kaşığı zencefil macunu";
+"Citrus Chicken Stir-Fry_Instructions" = "Bir kase içerisinde wokta pişirilecek sosun tüm malzzemelerini karıştırın. Tavayı hindistan cevizi yağıyla spreyleyin ve ocağı orta ateşe ayarlayın. Tavuk parçalarını ekleyin ve yaklaşık %85 pişmiş hale gelinceye dek pişirin. Ardından sebzeleri ekleyin ve bir spatulayla karıştırın. Afiyet olsun!";
+
+"Grilled Mexican Corn_Title" = "Kızarmış Meksika Mısırı";
+"Grilled Mexican Corn_Ingredients" = "◆\t4 mısır başağı  \n\n◆\t1.5 su bardağı ekşi krema  \n\n◆\t1 su bardağı rendelenmiş parmesan peyniri  \n\n◆\t1 misket limonunun suyu  \n\n◆\tkırmızı toz biber  \n\n◆\t2 dilimlenmiş misket limonu, garnitür için";
+"Grilled Mexican Corn_Instructions" = "Birer kez döndürerek mısırı hafif közlenmeye başlayana kadar sıcak bir ızgarada pişirin. Küçük bir kase içerisinde mayonez, ekşi krema ve kişnişi karıştırın. Mısırın üzerine misket limonunun suyunu sıkın ve parmesan peyniriyle çeşnilendirin. Üzerine kırmızı toz bibe serpin. Afiyet olsun!";
+
+"Salmon Burger with Avocado_Title" = "Avokadolu Somon Burger";
+"Salmon Burger with Avocado_Ingredients" = "◆\t325 gr somon fileto  \n\n◆\t1 su bardağı ekmek kırıntısı  \n\n◆\t1 yumurta \n\n◆\t1 yemek kaşığı limon suyu  \n\n◆\ttuz ve pul biber  \n\n◆\tzeytinyağı \n\n◆\t1 doğranmış büyük avokado \n\n◆\t1/3 su bardağı doğranmış kırmızı soğan  \n\n◆\t1 limmisket limonunun suyu";
+"Salmon Burger with Avocado_Instructions" = "Somon filetoyu küçük parçalar halinde kesin ve bir karıştırma kasesine alın. Diğer malzemelerle birlikte nazikçe karıştırın. Karışımı 5-10 dakika kadar dinlendirin. Geniş bir ızgara tavasında orta ateşte bir miktar yağı ısıtın. Somon karışımından düzgün köfteler yapın. Köfteleri her iki yüzü kahverengileşinceye kadar yaklaşık 4er dakika kızartın. Afiyet olsun!";
+
+"Strawberry and Banana Nut Bread Oatmeal_Title" = "Çilek, Muz, Ceviz ve Yulaflı Kek";
+"Strawberry and Banana Nut Bread Oatmeal_Ingredients" = "◆\t150 gr pişmiş yulaf ezmesi  \n\n◆\t1/2 muz püresi \n\n◆\t50 gr çilek \n\n◆\t2 yemek kaşığı badem sütü \n\n◆\t1 yemek kaşığı vanilya özütü \n\n◆\t2 yemek kaşığı kıyılmış ceviz \n\n◆\tbir paket \"In The Raw\" marka stevia  \n\n◆\tLimon kabuğu rendesi \n\n◆\t1 yemek kaşığı süzme yoğurt (%2 yağlı) \n\n◆\t1/2 yemek kaşığı kıyılmış badem \n\n◆\thaşhaş tohumları";
+"Strawberry and Banana Nut Bread Oatmeal_Instructions" = "Yulaf ezmesini talimatlara göre pişirin ve bir kenara koyun. Çilek hariç tüm malzemeleri bir kasenin içerisine koyun ve iyice karıştırın. Yulafın üzerini yeni doğranmış çileklerle süsleyin. Süzme yoğurdu, kıyılmış ceviz ve haşhaş tohumlarıyla çeşnilendirin. Afiyet olsun!";
+
+"Strawberry Banana_Title" = "Çilek Muz";
+"Strawberry Banana_Ingredients" = "◆\t2 su bardağı çilek  \n\n◆\t1 dilimlenmiş taze muz  \n\n◆\t1 su bardağı süt \n\n◆\t1 buz küpü  \n\n◆\t1 yemek kaşığı bal";
+"Strawberry Banana_Instructions" = "Tüm malzemeleri blendera koyup, özdeşleşinceye dek karıştırın. Smoothie fazla yoğun kıvamlı olursa daha fazla süt ekleyin. Kıvamı yeterince yoğun olmazsa daha fazla meyve ve/veya buz ekleyin. Afiyet olsun!";
+
+"Spicy & Light Kung Pao Chicken Meal Prep_Title" = "Baharatlı ve Hafif Kung Poa Tavuk Yemeği";
+"Spicy & Light Kung Pao Chicken Meal Prep_Ingredients" = "◆\t150 gr tavuk göğsü  \n\n◆\t1/6 diş sarımsak   \n\n◆\t33 gr sultani bezelye  \n\n◆\t150 gr dolmalık biber  \n\n◆\t2/3 yemek kaşığı su  \n\n◆\t1/3 yemek kaşığı domates sosu  \n\n◆\t1/6 yemek kaşığı taze zencefil  \n\n◆\t1/6 yemek kaşığı acı kırmızı biber sosu  \n\n◆\t1/6 yemek kaşığı pirinç sirkesi  \n\n◆\tdoğranmış yeşil soğan";
+"Spicy & Light Kung Pao Chicken Meal Prep_Instructions" = "Bir kase içerisine tüm sos malzemelerini ekleyip çırpın. Tavanın altını orta ateşe ayarlayıp, zeytinyağıyla spreyleyin. Tava ısındığında sarımsağı ekleyip yaklaşık 2 dakika boyunca kavurun. Ardından doğranmış tavuk göğsünü ekleyin. Tavuğun dışı kızara kadar yaklaşık 6-8 dakika kadar pişirin. Doğranmış dolmalık biberi ekleyin ve yaklaşık 3 dakika kadar kavurun. Yavaşça sosu ekleyin ve sık sık karıştırın. Afiyet olsun!";
+
+"Lavender Mint Tea_Title" = "Lavantalı ve Naneli Çay";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 su bardağı taze lavanta yaprağı  \n\n◆\t1 su bardağı taze nane yaprağı \n\n◆\t4 su bardağı su";
+"Lavender Mint Tea_Instructions" = "Lavanta ve nane yapraklarını tencereye koyun, üzerine su dökün ve kaynatın. Ateşi düşürün ve çay arzu ettiğiniz deme ulaşıncaya dek 15-20 dakika kadar ağır ateşte kaynatın. Afiyet olsun!";
+
+"Foil Fish Packets with Spinach and Tomato_Title" = "Ispanak ve Domatesli Folyoda Balık";
+"Foil Fish Packets with Spinach and Tomato_Ingredients" = "◆\t1 demet kuşkonmaz  \n\n◆\t2 dilimlenmiş domates  \n\n◆\t2 tatlısu çipurası fileto \n\n◆\tzeytinyağı  \n\n◆\t1/2 çay kaşığı çili sarımsak sosu \n\n◆\ttuz  \n\n◆\t1 dilimlenmiş limon";
+"Foil Fish Packets with Spinach and Tomato_Instructions" = "Fırınınızı önceden 190 derecede ısıtın. Küçük bir kase içerisinde zeytinyağı, çili sos ve tuzu karıştırın. Aluminyum folyonun ortasına kuşkonmaz dallarını koyup, üzerlerine eşit bir şekilde domatesleri yerleştirin ve ardından çeşnilendirin. Her bir folyodaki domatesin üzerine bir balık filetosu koyun ve balığın üzerine zeytinyağı karışımından dökün. Balığın üstüne limon dilimlerini yerleştirin. Balığı 25-30 dakika boyunca fırında pişirin. Afiyet olsun!";
+
+
+

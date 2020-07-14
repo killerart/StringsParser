@@ -1,0 +1,178 @@
+//Plan names
+
+"%ld days plan" = "%ld Tage Plan";
+
+//Other
+
+"Meal %ld" = "Mahlzeit %ld";
+"Day %ld" = "Tag %ld";
+
+"Ingredients" = "Zutaten";
+"Steps" = "Schritte";
+
+//Days
+//Day 1
+"Healthy recipes that are awesome to prepare and try out" = "Großartige, gesunde Rezepte für die Zubereitung und zum Ausprobieren";
+"To keep your metabolism running strong, you must eat your first meal within 1 hour of rising." = "Um Ihren Stoffwechsel aufrecht zu erhalten, müssen Sie Ihre erste Mahlzeit innerhalb von 1 Stunde nach dem Aufstehen zu sich nehmen.";
+//Day 2
+"Good nutrition is the foundation of good health" = "Eine gute Ernährung ist die Grundlage für eine gute Gesundheit";
+"The solution is to eat within 1 hour of waking up so that you move your metabolism." = "Die Lösung ist, innerhalb von 1 Stunde nach dem Aufwachen zu essen, so dass Sie Ihren Stoffwechsel in Schwung bringen.";
+//Day 3
+"Plan ahead to eat breakfast" = "Planen Sie Ihr Frühstück im Voraus";
+"To the highest fat burning speed breakfast is so important to your weight-loss success." = "Für die beste Fettverbrennung und Ihren erfolgreichen Gewichtsverlust ist das Frühstück so wichtig.";
+//Day 4
+"Carbs supply the body with energy" = "Kohlenhydrate versorgen den Körper mit Energie";
+"Studies show that 5 meals a day are important in maintaining a healthy body weight." = "Studien zeigen, dass 5 Mahlzeiten pro Tag wichtig sind, um ein gesundes Körpergewicht zu erhalten.";
+//Day 5
+"Protein is essential for growth and development" = "Eiweiß ist essentiell für das Wachstum und die Entwicklung";
+"Nutrition plays a key role in maintaining a healthy lifestyle." = "Die Ernährung spielt eine Schlüsselrolle bei der Aufrechterhaltung eines gesunden Lebensstils.";
+//Day 6
+"You are what you eat" = "Sie sind, was Sie essen";
+"Is literally true, if you want your body to perform at a peak level." = "Das ist im wahrsten Sinne des Wortes wahr, wenn Sie möchten, dass Ihr Körper Spitzenleistungen erbringt.";
+//Day 7
+"Controlling portion size use smaller plates" = "Kontrollieren Sie die Portionsgrößen mit kleineren Tellern";
+"Eliminate emotional eating by healing your hungry heart." = "Eliminieren Sie Frustessen, indem Sie Ihr hungriges Herz heilen.";
+
+//Content: Title, Ingridients, Instructions
+
+"Strawberries and Creme Oatmeal_Title" = "Erdbeeren und Creme-Haferflocken";
+"Strawberries and Creme Oatmeal_Ingredients" = "◆\t1/2 Tasse Haferflocken \n\n◆\t1/3 Tasse Magermilch \n\n◆\t1/3 Tasse Vanille griechischer Joghurt \n\n◆\t1/2 Tasse geschnittene Erdbeeren \n\n◆\t2 EL griechischer Vanille-Joghurt \n\n◆\t1 EL geröstete Mandeln";
+"Strawberries and Creme Oatmeal_Instructions" = "Verrühren Sie am Abend die Haferflocken, die Milch und 1/3 Tasse Joghurt in einem Glas oder einer Schüssel. Abdecken und über Nacht im Kühlschrank kühlen. Guten Appetit!";
+
+"Golden Glow Elixir_Title" = "Golden-Glow-Elixier";
+"Golden Glow Elixir_Ingredients" = "◆\t2 Äpfel \n\n◆\t4 mittlere geschälte Orangen \n\n◆\t1 geschälte Zitrone \n\n◆\t5 – 7 cm langer geschälter frischer Ingwer \n\n◆\t5 cm lange frische geschälte Kurkuma, \n\n◆\t2 Tassen kaltes Wasser \n\n◆\t1 Handvoll Eis";
+"Golden Glow Elixir_Instructions" = "In einem High-Speed-Mixer alle Zutaten zu einem Smoothie pürieren, geben Sie wenn nötig noch etwas Wasser dazu. Ein hochleistungsfähiger Mixer macht daraus einen cremigen Saft. Wenn Sie statt einem Smoothie lieber einen Saft daraus machen möchten, dann können Sie das gerne tun, die Ballast- und Nährstoffe bleiben erhalten. Guten Appetit!";
+
+"Tso’s Chicken Stir Fry_Title" = "Tso's gebratenes Hähnchen";
+"Tso’s Chicken Stir Fry_Ingredients" = "◆\t4 gewürfelte Hühnerbrüste \n\n◆\t1 Tasse Mehl \n\n◆\tPflanzenöl \n\n◆\tSalz \n\n◆\tfrisch gemahlener schwarzer Pfeffer \n\n◆\t2 gehackte Knoblauchzehen \n\n◆\t1/2 Dose Hühnerbrühe \n\n◆\t3 EL Honig \n\n◆\t4 EL Sojasoße \n\n◆\t2 EL Limettensaft \n\n◆\t2 Dosen Brokkoli, nur Rosen \n\n◆\t2 Dosen gekochter weißer Reis als Beilage";
+"Tso’s Chicken Stir Fry_Instructions" = "In einer großen Schüssel Hähnchen leicht in Maisstärke wenden. Die Stücke in eine große, mit Mehl gefüllte Schüssel geben und leicht zum Bedecken schütteln, dann auf die Seite geben. Eine große, tiefe Pfanne zur Hälfte mit Pflanzenöl bei mittlerer Hitze füllen. Das Hühnchen würzen, dann abtropfen lassen und beiseite legen. 2 Esslöffel Maisstärke hinzugeben und umrühren. Geben Sie Brokkoli und Karotten in die Sauce, 5 Minuten kochen bis weich. Guten Appetit!";
+
+"Herbal Tea_Title" = "Kräutertee";
+"Herbal Tea_Ingredients" = "◆\t1 Tasse Wasser \n\n◆\t1 Teelöffel geriebener frischer Ingwer \n\n◆\t1 Teelöffel geriebene Zitronenschale \n\n◆\t1 Teelöffel Limettensaft \n\n◆\t3 Blätter frische Minze";
+"Herbal Tea_Instructions" = "Bringen Sie Wasser in einem Topf zum Kochen und geben Sie die restlichen Zutaten dazu. Kochen und rühren, bis der Tee infundiert ist. Guten Appetit!";
+
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Title" = "Gegrillte Zitrone-Dijon-Hähnchenschenkel mit Rucola-Salat";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Ingredients" = "◆\t4 (110 g) hautlose, knochenlose Hähnchenschenkel \n\n◆\t1/2 TL Salz \n\n◆\t1/4 TL gemahlener schwarzer Pfeffer \n\n◆\t2,5 EL Olivenöl \n\n◆\t2 TL Zitronensaft \n\n◆\t1 TL gehackter Knoblauch \n\n◆\tKochspray \n\n◆\t1 EL Balsamico-Essig \n\n◆\t1 TL Honig \n\n◆\t1 Tasse Traubentomaten, halbiert \n\n◆\t1 (150 g) Paket Baby-Rucola";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Instructions" = "Hühnchen mit 1/4 Teelöffel Salz und 1/8 Teelöffel Pfeffer bestreuen. Mischen Sie das Hähnchen mit 1 - 1,5 Teelöffel Öl, Zitronensaft, Senf und Knoblauch in einer Schüssel, gut darin marinieren. 4 Minuten stehen lassen. Eine Grillpfanne bei mittlerer Hitze erhitzen. Pfanne mit Kochspray einsprühen. Hühnchen in die Pfanne geben, für 5 Minuten oder bis durch auf jeder Seite braten. Hähnchen in ½ cm dicke Scheiben schneiden. Guten Appetit!";
+
+"Cottage Berry Crunch_Title" = "Hütten-Beeren-Crunch";
+"Cottage Berry Crunch_Ingredients" = "◆\t1/2 Tasse 2% fettarmer Hüttenkäse \n\n◆\t2 EL Müsli \n\n◆\t1/2 Tasse geschnittene Bananen \n\n◆\t1/2 Tasse sortierte gemischte Beeren";
+"Cottage Berry Crunch_Instructions" = "Den Hüttenkäse in eine kleine Schüssel geben. Restliche Zutaten darüber geben. Guten Appetit!";
+
+"Pineapple Kiwi_Title" = "Ananas-Kiwi";
+"Pineapple Kiwi_Ingredients" = "◆\t4 EL Wasser \n\n◆\t1/2 Tasse Milch \n\n◆\t1/2 Tasse Joghurt \n\n◆\t1,5 EL Honig \n\n◆\t1 Kiwi-Frucht, geschält \n\n◆\t1 Tasse Ananasstücke \n\n◆\t1/2 Mango \n\n◆\t2 Eiswürfel";
+"Pineapple Kiwi_Instructions" = "Alle Zutaten bei niedriger Geschwindigkeit mixen, bis alles dick und glatt ist. Guten Appetit!";
+
+"Lemon Chicken Skillet_Title" = "Zitronen-Hähnchen-Pfanne";
+"Lemon Chicken Skillet_Ingredients" = "◆\t4 Hühnerbrüste \n\n◆\t1/4 Tasse Butter \n\n◆\t2 EL Olivenöl \n\n◆\t1 Zitrone \n\n◆\t1 Zitrone in Scheiben geschnitten \n\n◆\t1/4 Tasse Weißwein \n\n◆\t1 TL Salz \n\n◆\t1 TL gemahlener schwarzer Pfeffer \n\n◆\t1/2 TL Paprika \n\n◆\t1/2 TL getrocknete Petersilie";
+"Lemon Chicken Skillet_Instructions" = "Mehl, Salz, Pfeffer, Paprika und Petersilie in eine flache Schüssel geben. Öl und Butter bei mittlerer Hitze erhitzen. Jede Hähnchenbrust in der Mehlmischung wenden und in die heiße Pfanne geben. Fügen Sie Zitronensaft, Weißwein, Zitronenschale und Rosmarin zur Pfanne hinzu. Hühnchen auf jeder Seite durchkochen. Guten Appetit!";
+
+"Zucchini Quinoa Cookies_Title" = "Zucchini-Quinoa-Kekse";
+"Zucchini Quinoa Cookies_Ingredients" = "◆\t1/2 Tasse cremige Erdnussbutter \n\n◆\t1/4 Tasse Honig \n\n◆\t1 Banane \n\n◆\t1 Ei \n\n◆\t1 TL Vanille-Extrakt \n\n◆\t1/2 Tasse Haferflocken \n\n◆\t1/2 Tasse Quinoa-Flocken \n\n◆\t1 TL Zimt \n\n◆\t1/4 TL Salz \n\n◆\t1 Tasse zerkleinerte, gepresste Zucchini";
+"Zucchini Quinoa Cookies_Instructions" = "Backofen auf 350 °C vorheizen. Erdnussbutter, Honig, Banane, Ei und Vanille in eine große Schüssel geben und umrühren. Haferflocken, Quinoa-Flocken, Backpulver, Gewürze und Salz in die Schüssel geben und verrühren. Zerkleinerte Zucchini und Chia-Samen darunterziehen. Den Teig mit einem Löffel auf eine Backform geben. Kekse auf dem mittleren Backblech für 15 - 18 Minuten backen, bis die Ecken goldbraun sind. Guten Appetit!";
+
+"Savory Shrimp with Fresh Herbs_Title" = "Gebratene Garnelen mit frischen Kräutern";
+"Savory Shrimp with Fresh Herbs_Ingredients" = "◆\t1 Pfund große Garnelen \n\n◆\t2 rote Paprika \n\n◆\tLauch, dünn geschnitten \n\n◆\t0,5-1 EL Kapern, gespült und entwässert \n\n◆\tKnoblauchzehen, dünn geschnitten \n\n◆\t1/2 Tasse grob gehackte Petersilie \n\n◆\t3 EL Zitronensaft \n\n◆\t2 EL Olivenöl";
+"Savory Shrimp with Fresh Herbs_Instructions" = "Setzen Sie eine Pfanne auf mittlere Hitze und fügen Sie Öl hinzu. Garnelen, Paprika, Lauch, Kapern, Knoblauch, Salz und Pfeffer hineingeben und für 4 Minuten anbraten, bis die Garnelen rosa sind. Von der Hitze entfernen. Fügen Sie Zitronensaft hinzu und schaben Sie den Boden der Pfanne mit einem Löffel. Garnelen mit frischer Petersilie und Basilikum bestreuen und servieren. Guten Appetit!";
+
+"Flaxseed Oatmeal with Blueberries_Title" = "Leinsamen-Hafermehl mit Heidelbeeren";
+"Flaxseed Oatmeal with Blueberries_Ingredients" = "◆\t3 Tassen Wasser \n\n◆\t2 Tassen Haferflocken \n\n◆\t3 EL Boden Leinsamen \n\n◆\t1/8 TL Salz \n\n◆\t1/4 Tasse Vollmilch \n\n◆\t1 Tasse Heidelbeeren \n\n◆\t1 EL Heidelbeerkonserven \n\n◆\t1/2 TL geriebene Zitronenschale \n\n◆\t1 EL Zitronensaft";
+"Flaxseed Oatmeal with Blueberries_Instructions" = "Bringen Sie 3 Tassen Wasser zum Kochen. Rühren Sie die Haferflocken ein und fügen Sie die Leinsamen und Salz hinzu. Reduzieren Sie die Hitze auf mittel-niedrig, weich kochen bei häufigem Umrühren. Milch und Butter einrühren. Geben Sie inzwischen die Blaubeeren und nächsten 4 Zutaten in eine Mikrowellenschüssel, bei hoher Wattzahl für 1,5 Minuten in die Mikrowelle geben, alle 30 Sekunden umrühren. Die Haferflocken auf 4 Schüsseln aufteilen, mit Heidelbeeren und Pekannüssen garnieren. Guten Appetit!";
+
+"Coconut Milk Smoothie With Blueberries_Title" = "Kokosmilch-Smoothie mit Heidelbeeren";
+"Coconut Milk Smoothie With Blueberries_Ingredients" = "◆\t1 Beutel gefrorene Heidelbeeren, (300 g) \n\n◆\t3 reife Bananen \n\n◆\t1 Tasse einfacher Joghurt \n\n◆\t1 Tasse ungesüßte Kokosmilch \n\n◆\t2 EL Honig";
+"Coconut Milk Smoothie With Blueberries_Instructions" = "In einem Mixer die Heidelbeeren, Bananen, Joghurt, Kokosmilch und Honig pürieren. Guten Appetit!";
+
+"Chicken and Asparagus Stir-Fry_Title" = "Gebratenes Huhn mit Spargel";
+"Chicken and Asparagus Stir-Fry_Ingredients" = "◆\t1 EL Sojasoße \n\n◆\t1 EL Honig \n\n◆\t2 in Stücke geschnittene Hähnchenbrüste \n\n◆\t1 EL Olivenöl \n\n◆\t1 Bund Spargel, in Stücke geschnitten \n\n◆\t4 Knoblauchzehen, dünn geschnitten \n\n◆\t2 TL geröstetes Sesamöl";
+"Chicken and Asparagus Stir-Fry_Instructions" = "Sojasauce und Honig in einen Reißverschlussbeutel geben. Hühnchen dazugeben und zum Abdecken gut schütteln. In den Kühlschrank stellen bis fertig. Mittlerweile Öl in einer großen Pfanne bei mittlerer Hitze erhitzen. Den Spargel entfernen und beiseite stellen. Hähnchen aus der Marinade entfernen und in die Pfanne geben. Dann Knoblauch, Schalotten und die übrige Marinade in die Pfanne geben. Von der Hitze entfernen und in Sesamöl braten. Guten Appetit!";
+
+"Lavender Mint Tea_Title" = "Lavendel-Minze-Tee";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 Tasse frische Lavendelblüten \n\n◆\t1 Tasse frische Minzeblätter \n\n◆\t4 Tassen Wasser";
+"Lavender Mint Tea_Instructions" = "Lavendelblüten und Minze in einen Topf geben, Wasser dazu gießen und zum Kochen bringen. Hitze zurückdrehen und den Tee 15 bis 20 Minuten bis zur gewünschten Stärke kochen. Guten Appetit!";
+
+"Chili Fajitas_Title" = "Chili Fajitas";
+"Chili Fajitas_Ingredients" = "◆\t1 Pfund hautlose Hühnerbrust \n\n◆\t1/2 grüner, roter und gelber Paprika, dünn geschnitten \n\n◆\t1/3 Tasse Wasser \n\n◆\t2 TL Sojasoße \n\n◆\t1 Prise Salz \n\n◆\t1 Prise schwarzer Pfeffer \n\n◆\t2 EL Olivenöl \n\n◆\t1 große Zwiebel, dünn geschnitten";
+"Chili Fajitas_Instructions" = "Alle Zutaten für die Marinade sowie das Huhn in einen Behälter geben und mindestens 2 Stunden kühlen. Das Fleisch aus der Marinade nehmen und bei mittlerer Flamme für 4 – 5 Minuten auf jeder Seite grillen. Fleisch in dünne Streifen schneiden. Für die Sauce 2 EL Wasser, 1 TL Sojasoße, 1/4 TL Limettensaft, eine Prise Salz, eine Prise schwarzer Pfeffer und 1 EL Olivenöl vermengen. Guten Appetit!";
+
+"Healthy Fruity Oatmeal_Title" = "Gesunde fruchtige Haferflocken";
+"Healthy Fruity Oatmeal_Ingredients" = "◆\t1/2 Tasse Hafer \n\n◆\t1 Tasse Wasser \n\n◆\t1 EL Honig \n\n◆\t1 EL Vanilleextrakt \n\n◆\t1/2 TL gemahlener Zimt \n\n◆\t1/4 Tasse Heidelbeeren \n\n◆\t4 geschnittene Erdbeeren \n\n◆\t1/2 Banane, in Scheiben geschnitten";
+"Healthy Fruity Oatmeal_Instructions" = "Wasser und Hafer in einer Mikrowellenschüssel verrühren. Mikrowelle auf Hoch, bis die Haferflocken das Wasser absorbiert haben. Honig, Vanilleextrakt und gemahlenen Zimt einrühren. Geben Sie die Blaubeeren dazu, mit Bananen- und Erdbeerscheiben garnieren. Guten Appetit!";
+
+"Coffee Smoothie_Title" = "Kaffee-Smoothie";
+"Coffee Smoothie_Ingredients" = "◆\t1 TL Instant-Espresso-Kaffeepulver \n\n◆\t1 EL warmes Wasser \n\n◆\t1 kleine Banane, geschält, geschnitten und gefroren \n\n◆\t1/4 Tasse fettfreie Milch \n\n◆\t1 EL Honig \n\n◆\t1/2 Tasse Eiswürfel \n\n◆\tZimt";
+"Coffee Smoothie_Instructions" = "Kombinieren Sie in einem Mixer das Espressopulver und heißes Wasser, eine Minute ruhen lassen. Banane, Milch und Honig dazugeben. Zudecken und zu einem Smoothie mixen. Geben Sie schrittweise Eis dazu, bis Sie die gewünschte Konsistenz erreichen. Mit Zimt leicht bestreuen. Guten Appetit!";
+
+"Chicken & Pineapple Stir-Fry_Title" = "Gebratenes Huhn & Ananas";
+"Chicken & Pineapple Stir-Fry_Ingredients" = "◆\t110 g Hühnerbrust, 4 \n\n◆\t40 g Ananas \n\n◆\t120 g brauner Reis \n\n◆\t1/3 EL Olivenöl \n\n◆\t1/2 TL brauner Senf \n\n◆\t1/6 EL geräucherter Paprika \n\n◆\tMeersalz \n\n◆\tPfeffer";
+"Chicken & Pineapple Stir-Fry_Instructions" = "Die rohen Hühnerbrüste in kleine Stücke hacken. Die Hühnerstücke mit geräuchertem Paprika und braunem Senf würzen. Olivenöl in eine Pfanne geben und Hühnerbruststücke dazu geben. Für ca. 4 Minuten anbraten, bis Huhn zu 80 % durch ist, dann gehackte Paprika hinzufügen. Weitere 2 – 3 Minuten braten und dann die gewürfelte Ananas hinzufügen. Guten Appetit!";
+
+"Raw Chocolate Truffles_Title" = "Rohe Schokolade-Trüffel";
+"Raw Chocolate Truffles_Ingredients" = "◆\t1/2 Tasse Walnüsse, Cashewnüsse und Mandeln, über Nacht im Wasser \n\n◆\t3-4 EL Mandelmilch \n\n◆\t1/4 Tasse Sonnenblumenkerne \n\n◆\t1/4 Tasse Kürbiskerne \n\n◆\t2 EL Karottenpulver \n\n◆\t3 EL Kokosflocken";
+"Raw Chocolate Truffles_Instructions" = "Geben Sie alles mit Ausnahme der Kokosflocken in den Mixer und pürieren. Machen Sie mit einer Eiskugelzange kleine Kugeln aus der Mischung. Jede Praline in Kokosflocken rollen. Kalt servieren. Guten Appetit!";
+
+"Baked Salmon with Veggies_Title" = "Gebackener Lachs mit Gemüse";
+"Baked Salmon with Veggies_Ingredients" = "◆\t2 Lachsfilets \n\n◆\t1 Tasse geschnittene Zucchini \n\n◆\t1 Tasse Brokkoli \n\n◆\t1/2 Tasse Kirschtomaten \n\n◆\tSalz \n\n◆\tPfeffer \n\n◆\tOlivenöl";
+"Baked Salmon with Veggies_Instructions" = "Ofen auf 375 Grad °F vorheizen. Kombinieren Sie das Gemüse in einer großen Pfanne. Das Gemüse mit Salz, Pfeffer und Olivenöl würzen. Legen Sie die Filets neben das Gemüse und braten Sie alles für 18 - 20 Minuten oder bis der Lachs durch und das Gemüse zart ist. Guten Appetit!";
+
+"Banana Nut Oatmeal_Title" = "Bananen-Nuss-Haferflocken";
+"Banana Nut Oatmeal_Ingredients" = "◆\t1/2 Tasse Haferflocken \n\n◆\t1 Tasse Wasser \n\n◆\t1 geschnittene Banane \n\n◆\t1 EL gehackte Walnüsse \n\n◆\t1 TL gemahlener Zimt";
+"Banana Nut Oatmeal_Instructions" = "Mischen Sie die Haferflocken und 1 Tasse Wasser in einer kleinen Mikrowellenschüssel. Bei hoher Temperatur für 3 Minuten in die Mikrowelle geben. Mit Bananenscheiben, Walnüssen und Zimt garnieren. Guten Appetit!";
+
+"Pink Power_Title" = "Rosa Macht";
+"Pink Power_Ingredients" = "◆\t1,5 Tassen kleine frische Blumenkohlblüten \n\n◆\t2 Tassen Wassermelonenwürfel (Samen und Rinden entfernt) \n\n◆\t1,5 Tassen ganze Erdbeeren \n\n◆\t1 Becher (6 Unzen) griechischer Erdbeerjoghurt  \n\n◆\t2 EL Erdbeer-Konserven (optional)";
+"Pink Power_Instructions" = "In einem kleinen Kochtopf Blumenkohl kochen, mit kochendem Wasser bedecken, bis er sehr weich ist. In einem Mixer gekochten Blumenkohl, Wassermelone, Erdbeeren, Joghurt und nach Wunsch Erdbeer-Konserven mixen. Guten Appetit!";
+
+"BBQ Chicken-Wrapped Asparagus_Title" = "BBQ Hühnchen mit Spargel umhüllt";
+"BBQ Chicken-Wrapped Asparagus_Ingredients" = "◆\t2 Hühnerbrüste dünn geschnitten, je 100 g. \n\n◆\t12 Spargelspitzen  \n\n◆\t2 EL BBQ-Sauce \n\n◆\t1 Prise geräucherter Paprika \n\n◆\t1 Prise Knoblauchpulver \n\n◆\t1 Prise Pfeffer";
+"BBQ Chicken-Wrapped Asparagus_Instructions" = "Backofen auf 400 °F/200 °C vorheizen. Das Hühnchen mit einem Schlägel flachklopfen. Hähnchenschnitzel mit 1 EL BBQ-Sauce (für jedes Stück) und Gewürzen nach Wunsch würzen. Hühnchen nach oben auf den Grill geben. Im Ofen backen oder auf einem Grill ca. 8 bis 10 Minuten räuchern. Guten Appetit!";
+
+"Ginger Turmeric Herbal Tea_Title" = "Ingwer-Kurkuma-Kräutertee";
+"Ginger Turmeric Herbal Tea_Ingredients" = "◆\t2 Tassen Wasser \n\n◆\t1/2 Teelöffel gehackter frischer Ingwer \n\n◆\t1/2 Teelöffel gemahlener Zimt \n\n◆\t1 Esslöffel Honig \n\n◆\t1 Zitronenschnitz";
+"Ginger Turmeric Herbal Tea_Instructions" = "Wasser in einem kleinen Topf zum Kochen bringen, Kurkuma, Ingwer und Zimt dazu geben. Hitze auf niedrig stellen und für 10 Minuten kochen. Gießen Sie den Tee in ein großes Glas, fügen Sie Honig und Zitrone hinzu. Guten Appetit!";
+
+"Grilled Shrimp & Avocado Kabobs_Title" = "Gegrillte Garnelen- & Avocado-Spieße";
+"Grilled Shrimp & Avocado Kabobs_Ingredients" = "◆\t450 g Jumbo-Garnelen \n\n◆\t1,5 Avocados \n\n◆\t1 roter Paprika \n\n◆\t1 orange Paprika \n\n◆\t1 gelber Paprika \n\n◆\t1 rote Zwiebel \n\n◆\t1 TL Knoblauchpaste \n\n◆\t1/2 EL extra natives Olivenöl \n\n◆\t1 Limette \n\n◆\tSalz, Pfeffer";
+"Grilled Shrimp & Avocado Kabobs_Instructions" = "Stellen Sie Ihren Grill auf ca. 400 °F/ 200 °C. Hacken Sie das Gemüse und die Avocado in große Stücke für die Spieße. Garnelen schälen und würzen. Wählen Sie faseriges Gemüse, da es satter macht und eher gut auf einem Spieß bei intensiver Hitze hält. Legen Sie die Spieße auf den Grill und braten Sie sie für ca. 8-10 Minuten, dann umdrehen und weitere 8 bis 10 Minuten braten. Guten Appetit!";
+
+"Morning Parfait_Title" = "Morgen-Parfait";
+"Morning Parfait_Ingredients" = "◆\t1/4 Tasse Rosinen und 1 TL fein zerkleinerte Orangenschalen \n\n◆\t1 TL Vanille \n\n◆\tHalbe Packung fettreduzierten Neuchâtel-Frischkäse (250 g) \n\n◆\tSemmelbrösel \n\n◆\t2 Tassen frische Himbeeren, Heidelbeeren, geschnittene Erdbeeren und/oder geschnittene Pfirsiche \n\n◆\t1/2 Tasse fettarmes Müsli \n\n◆\tHonig \n\n◆\tzerkleinerte Orangenschalen";
+"Morning Parfait_Instructions" = "Mischen Sie die Semmelbrösel unter den Käse, in die Backform geben. Mit Öl bestäuben. 10 bis 25 Minuten backen. In vier Gläser legen Sie eine Schicht aus der Frischkäse-Mischung, eine Schicht Obst und eine Schicht Müsli. Wiederholen Sie diese Schichten bis zur Oberseite Schüssel. Honig darüber geben und mit zusätzlichen Orangenschalen garnieren. Ergibt 4 Portionen. Guten Appetit!";
+
+"Green Tea Kiwi and Mango_Title" = "Grüner Tee Kiwi und Mango";
+"Green Tea Kiwi and Mango_Ingredients" = "◆\t2,5 Tassen gefrorene gewürfelte Mango \n\n◆\t3/4 Tasse Vanille-Joghurt \n\n◆\t2 EL Honig \n\n◆\t2 EL Wasser \n\n◆\t3 reife Kiwi \n\n◆\t2 Tassen Eiswürfel \n\n◆\t1/2 Tasse Babyspinat \n\n◆\t2 EL abgefüllter grüner Tee";
+"Green Tea Kiwi and Mango_Instructions" = "Mango, 1/2 Tasse Joghurt, 2 Esslöffel Honig, 2 Esslöffel Wasser und Limettenschale in einem Mixer cremig pürieren. 1/4 Tasse Joghurt, 2 Esslöffel Honig, Kiwis und die nächsten 3 Zutaten in einem Mixer cremig schlagen. Guten Appetit!";
+
+"Citrus Chicken Stir-Fry_Title" = "Gebratenes Zitronen-Hähnchen";
+"Citrus Chicken Stir-Fry_Ingredients" = "◆\t140 g Hühnerbrust in kleinen Stücken  \n\n◆\t34 g Broccolini \n\n◆\t25 g Baby Portobello Pilz \n\n◆\t1/4 rote Paprika \n\n◆\t20 g rote Zwiebel \n\n◆\tKokosölspray \n\n◆\tSesamsamen \n\n◆\t1/4 TL Pfeilwurzelstärke \n\n◆\t1/8 EL Knoblauchpaste \n\n◆\t1/4 TL Ingwerpaste";
+"Citrus Chicken Stir-Fry_Instructions" = "In einer Schüssel alle Zutaten für die Bratsauce mischen. Eine Pfanne mit Kokosöl einsprühen und auf mittlere Hitze erhitzen. Hühnerstücke dazugeben und braten, bis sie ca. 85 % durch sind. Dann Gemüse dazugeben und mit einem Spatel umrühren. Guten Appetit!";
+
+"Grilled Mexican Corn_Title" = "Gegrillter mexikanischer Mais";
+"Grilled Mexican Corn_Ingredients" = "◆\t4 Maiskolben \n\n◆\t1,5 Tassen saure Sahne \n\n◆\t1 Tasse geriebener Parmesan \n\n◆\t1 Limetten, Saft \n\n◆\trotes Chilipulver \n\n◆\t2 in Keile geschnittene Limetten zum Garnieren";
+"Grilled Mexican Corn_Instructions" = "Den Mais auf einem heißen Grill bei einmal Umdrehen grillen, bis er leicht verkohlt. In einer kleinen Schüssel die Mayonnaise, Sauerrahm und Koriander mischen. Limettensaft über dem Mais auspressen und mit Parmesan würzen. Mit Chili-Pulver bestreuen. Guten Appetit!";
+
+"Salmon Burger with Avocado_Title" = "Lachs-Burger mit Avocado";
+"Salmon Burger with Avocado_Ingredients" = "◆\t1 Pfund Lachsfilet \n\n◆\t1 Tasse Paniermehl \n\n◆\t1 Ei \n\n◆\t1 EL Zitronensaft \n\n◆\tSalz und Pfeffer \n\n◆\tOlivenöl \n\n◆\t1 große Avocado, gehackt \n\n◆\t1/3 Tasse gehackte rote Zwiebeln \n\n◆\t1 Limettensaft";
+"Salmon Burger with Avocado_Instructions" = "Das Lachsfilet in kleine Stücke schneiden und in eine Rührschüssel geben. Den Rest der Zutaten vorsichtig einrühren. Lassen Sie die Mischung 5 - 10 Minuten ruhen. Ein wenig Öl in einer großen Grillpfanne bei mittlerer Hitze erhitzen. Aus der Lachsmischung ordentliche Frikadellen formen. Braten Sie die Frikadellen etwa 4 Minuten auf jeder Seite, bis sie auf beiden Seiten gut gebräunt sind. Guten Appetit!";
+
+"Strawberry and Banana Nut Bread Oatmeal_Title" = "Erdbeer-Bananen-Nuss-Brot-Haferflocken";
+"Strawberry and Banana Nut Bread Oatmeal_Ingredients" = "◆\t150 g Haferflocken (gekocht) \n\n◆\t1/2 zerkleinerte Banane \n\n◆\t50 g Erdbeeren \n\n◆\t2 EL Mandelmilch \n\n◆\t1 EL Vanilleextrakt \n\n◆\t2 EL gehackte Walnüsse \n\n◆\t1 Paket Stevia der Marke \"In The Raw\" \n\n◆\tZitronenschalengarnitur \n\n◆\t1 EL griechischer Joghurt (2% Fett) \n\n◆\t1/2 EL gehackte Walnüsse \n\n◆\tMohn";
+"Strawberry and Banana Nut Bread Oatmeal_Instructions" = "Kochen Sie die Haferflocken nach Anleitung, dann beiseite legen. Geben Sie alle Zutaten mit Ausnahme der Erdbeeren in eine Schüssel und mischen Sie sie gründlich. Haferflocken mit frisch gehackten Erdbeeren dazugeben. Mit griechischem Joghurt, gehackten Walnüssen und Mohn garnieren. Guten Appetit!";
+
+"Strawberry Banana_Title" = "Erdbeer – Banane";
+"Strawberry Banana_Ingredients" = "◆\t2 Tassen Erdbeeren \n\n◆\t1 frisch geschälte Banane \n\n◆\t1 Tasse Milch \n\n◆\t1 Eiswürfel \n\n◆\t1 EL Honig";
+"Strawberry Banana_Instructions" = "Alle Zutaten in einen Mixer geben und mixen. Wenn der Smoothie etwas zu dick ist, geben Sie mehr Milch hinzu. Wenn er zu dünn ist, geben Sie noch Obst und/oder Eis dazu. Guten Appetit!";
+
+"Spicy & Light Kung Pao Chicken Meal Prep_Title" = "Würzige & leichte Kung Pao Hühnchen-Mahlzeit";
+"Spicy & Light Kung Pao Chicken Meal Prep_Ingredients" = "◆\t150 g Hühnerbrust \n\n◆\t1/6 Knoblauchzehe \n\n◆\t33 g gefrorene Erbsen \n\n◆\t150 g Paprika \n\n◆\t2/3 EL Wasser \n\n◆\t1/3 EL Tomatensoße \n\n◆\t1/6 EL frischer Ingwer \n\n◆\t1/6 EL rote Paprikapfeffersoße \n\n◆\t1/6 EL Reisessig \n\n◆\tgehackte grüne Zwiebel";
+"Spicy & Light Kung Pao Chicken Meal Prep_Instructions" = "Zutaten für die Soße in eine Schüssel geben und mit einem Schneebesen verrühren. Eine Pfanne auf mittlere Hitze erhitzen und mit Olivenöl besprühen. Wenn die Pfanne heiß ist, geben Sie Knoblauch dazu und braten ihn für ca. 2 Minuten an. Dann gehackte Hähnchenbrust hinzufügen. Hähnchen braten, bis die Außenseite braun ist, ca. 6 bis 8 Minuten. Gehackte Paprika dazu geben und für ca. 3 Minuten anbraten. Langsam in die Sauce gießen und häufig umrühren. Guten Appetit!";
+
+"Lavender Mint Tea_Title" = "Lavendel-Minze-Tee";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 Tasse frische Lavendelblüten \n\n◆\t1 Tasse frische Minzeblätter \n\n◆\t4 Tassen Wasser";
+"Lavender Mint Tea_Instructions" = "Lavendelblüten und Minze in einen Topf geben, Wasser dazu gießen und zum Kochen bringen. Hitze zurückdrehen und den Tee 15 bis 20 Minuten bis zur gewünschten Stärke kochen. Guten Appetit!";
+
+"Foil Fish Packets with Spinach and Tomato_Title" = "Folien-Fischpakete mit Spinat und Tomate";
+"Foil Fish Packets with Spinach and Tomato_Ingredients" = "◆\t1 Bund Spargel \n\n◆\t2 geschnittene Tomaten \n\n◆\t2 Tilapia-Filets \n\n◆\tOlivenöl \n\n◆\t1/2 TL Chili-Knoblauchsauce \n\n◆\tSalz \n\n◆\t1 geschnittene Zitrone";
+"Foil Fish Packets with Spinach and Tomato_Instructions" = "Backofen auf 190 °C vorheizen. In einer kleinen Schüssel mischen Sie Olivenöl, Chili-Sauce und Salz. Geben Sie die Spargelspitzen in die Mitte auf ein Stück Aluminium-Folie und legen Sie die Tomatenscheiben gleichmäßig darauf, dann alles würzen. Legen Sie ein Fischfilet auf die Tomaten in jedem Paket, und bestreichen Sie den Fisch mit der Olivenöl-Mischung. Zitronenscheiben über den Fisch anordnen. Den Fisch im Ofen für 25 - 30 Minuten backen. Guten Appetit!";
+
+

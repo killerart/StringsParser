@@ -1,0 +1,179 @@
+//Plan names
+
+"%ld days plan" = "Piano da %ld giorni";
+
+//Other
+
+"Meal %ld" = "Pasto %ld";
+"Day %ld" = "Giorno %ld";
+
+"Ingredients" = "Ingredienti";
+"Steps" = "Passi";
+
+//Days
+//Day 1
+"Healthy recipes that are awesome to prepare and try out" = "Ricette salutari fantastiche da preparare e da provare";
+"To keep your metabolism running strong, you must eat your first meal within 1 hour of rising." = "Per tenere il tuo metabolismo allenato devi mangiare il primo pasto entro 1 ora dal risveglio.";
+//Day 2
+"Good nutrition is the foundation of good health" = "Una buona alimentazione è fondamentale per un corpo in buona salute";
+"The solution is to eat within 1 hour of waking up so that you move your metabolism." = "La soluzione è mangiare entro 1 ora dal risveglio, in modo da stimolare il metabolismo.";
+//Day 3
+"Plan ahead to eat breakfast" = "Organizzati in anticipo per fare colazione";
+"To the highest fat burning speed breakfast is so important to your weight-loss success." = "Una colazione che ti farà bruciare velocemente i grassi è molto importante per perdere peso con successo.";
+//Day 4
+"Carbs supply the body with energy" = "I carboidrati forniscono energia al corpo";
+"Studies show that 5 meals a day are important in maintaining a healthy body weight." = "Studi scientifici dimostrano che è importante fare 5 pasti al giorno per mantenere un peso corporeo sano.";
+//Day 5
+"Protein is essential for growth and development" = "Le proteine sono indispensabili per la crescita e lo sviluppo";
+"Nutrition plays a key role in maintaining a healthy lifestyle." = "La nutrizione gioca un ruolo importante nel mantenere uno stile di vita sano.";
+//Day 6
+"You are what you eat" = "Sei quelli che mangi";
+"Is literally true, if you want your body to perform at a peak level." = "È proprio vero, se vuoi che il tuo corpo sia al massimo della forma.";
+//Day 7
+"Controlling portion size use smaller plates" = "Controlla la dimensione delle porzioni, usa piatti più piccoli";
+"Eliminate emotional eating by healing your hungry heart." = "Non mangiare più spinto dall’emotività prendendoti cura del tuo cuore affamato.";
+
+//Content: Title, Ingridients, Instructions
+
+"Strawberries and Creme Oatmeal_Title" = "Fragole e Crema di Farina D'avena";
+"Strawberries and Creme Oatmeal_Ingredients" = "◆\t70 g fiocchi d'avena \n\n◆\t80 ml latte scremato \n\n◆\t75 g yogurt greco alla vaniglia \n\n◆\t125 g di fragole pulite e tagliate \n\n◆\t2 cucchiai di yogurt greco magro alla vaniglia \n\n◆\t1 cucchiaino di mandorle tostate" ;
+"Strawberries and Creme Oatmeal_Instructions" = "Durante il pomeriggio, mischiare l'avena, il latte e lo yogurt in un barattolo o una ciotola finché non saranno ben mischiati. Coprire e raffreddare la notte in frigorifero. E ora buon appetito!";
+
+"Golden Glow Elixir_Title" = "Elisir oro brillante";
+"Golden Glow Elixir_Ingredients" = "◆\t2 mele \n\n◆\t4 arance medie, sbucciate \n\n◆\t1 limone, sbucciato \n\n◆\t2 o 3 pezzi di zenzero sbucciato \n\n◆\t2 o 3 pezzi di curcuma fresca sbucciata \n\n◆\t450 ml di acqua fredda \n\n◆\t1 manciata di ghiaccio";
+"Golden Glow Elixir_Instructions" = "Frullare ad alta velocità tutti gli ingredienti fino a che non saranno cremosi, aggiungere acqua se necessario. Un buon frullatore potente vi permetterà di preparare un buon frullato. Se invece preferite fare un succo, fate pure, gli ingredienti avranno meno fibre ma non saranno meno buoni. Buon appetito!";
+
+"Tso’s Chicken Stir Fry_Title" = "Pollo saltato di Tso";
+"Tso’s Chicken Stir Fry_Ingredients" = "◆\t4 petti di pollo a cubetti \n\n◆\t225 gr di farina \n\n◆\tOlio di semi \n\n◆\tSale \n\n◆\tPepe macinato fresco \n\n◆\t2 spicchi di aglio, tagliato fino \n\n◆\t½ barattolo di brodo di pollo \n\n◆\t3 cucchiai di miele \n\n◆\t4 cucchiai di salsa di soia \n\n◆\t2 cucchiai di succo di lime \n\n◆\t400 gr di broccoli, solo i fiori \n\n◆\t250 gr di riso bianco cotto, per servire";
+"Tso’s Chicken Stir Fry_Instructions" = "In una ciotola grande, passare leggermente il pollo in amido di mais. Trasferire i pezzi in una grande ciotola con la farina e scuotere con delicatezza, poi mettere da parte. Riempire una grande e profonda padella con metà dell’olio e mettere sul fuoco a fuoco medio alto. Condire il pollo con gli ingredienti liquidi, scolare l’eccesso e mettere da parte. Aggiungere 2 cucchiai di amido di mais e girare per incorporare. Per la salsa, aggiungere i broccoli e carote e cucinare finché non saranno morbidi, per circa 5 minuti. Buon appetito!";
+
+"Herbal Tea_Title" = "Tè alle erbe";
+"Herbal Tea_Ingredients" = "◆\t1 tazza di acqua \n\n◆\t1 cucchiaino di zenzero macinato fresco \n\n◆\t1 cucchiaino di scorza di lime \n\n◆\t1 cucchiaino di succo di lime \n\n◆\t3 foglie di menta fresca";
+"Herbal Tea_Instructions" = "Far bollire l’acqua e aggiungere il resto degli ingredienti. Lasciar bollire e girare finché il tè non sarà infuso.";
+
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Title" = "Cosce di pollo grigliate al limone e salsa dijon con insalata di rucola";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Ingredients" = "◆\t4 cosce di pollo senza pelle e disossate \n\n◆\t½ cucchiaino di sale \n\n◆\t¼ di cucchiaino di pepe nero macinato \n\n◆\t2 cucchiai e mezzo di olio d'oliva \n\n◆\t2 cucchiaini di succo di limone \n\n◆\t1 cucchiaino di aglio tagliato fine \n\n◆\tOlio per ungere la padella \n\n◆\t1 cucchiaio di aceto balsamico \n\n◆\t1 cucchiaio di miele \n\n◆\t200 gr di pomodorini tagliati a metà \n\n◆\t1 pacco (150 gr) di rucola";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Instructions" = "Condire il pollo con ¼ di cucchiaino di sale e ⅛ di pepe. Unire al pollo 1 o 1,5 cucchiai di olio, succo di limone, mostarda e aglio, mischiare in una ciotola per amalgamare e rivestire bene. Lasciare riposare per 4 minuti. Riscaldare una piastra a fuoco medio e ungerla con olio. Mettere il pollo in padella, grigliare per 5 minuti su ogni lato o finché cotto. Tagliare il pollo in fettine da mezzo centimetro.";
+
+"Cottage Berry Crunch_Title" = "Crunch ai frutti di bosco";
+"Cottage Berry Crunch_Ingredients" = "◆\t125 gr di fiocchi di latte magri \n\n◆\t2 cucchiai di muesli  \n\n◆\t100 gr di banane tagliate \n\n◆\t100 gr di frutti di bosco" ;
+"Cottage Berry Crunch_Instructions" = "Mettere i fiocchi di latte dentro una piccola ciotola. Mischiare con gli altri ingredienti. Buon appetito!";
+
+"Pineapple Kiwi_Title" = "Ananas e kiwi";
+"Pineapple Kiwi_Ingredients" = "◆\t4 cucchiai di acqua \n\n◆\t125 ml di latte \n\n◆\t125 ml di yogurt \n\n◆\t½ cucchiaio di miele \n\n◆\t1 kiwi sbucciato \n\n◆\t200 gr di pezzi di ananas \n\n◆\t½ mango \n\n◆\t2 cubetti di ghiaccio";
+"Pineapple Kiwi_Instructions" = "Mischiare tutto a bassa velocità nel frullatore finché non sarà denso e cremoso. Buon appetito!";
+
+"Lemon Chicken Skillet_Title" = "Pollo al limone in padella";
+"Lemon Chicken Skillet_Ingredients" = "◆\t4 petti di pollo \n\n◆\t115 gr di burro \n\n◆\t2 cucchiai di olio di oliva \n\n◆\t1 limone \n\n◆\t1 limone a fettine \n\n◆\t60 ml vino bianco \n\n◆\t1 cucchiaino di sale \n\n◆\t1 cucchiaino di pepe nero macinato \n\n◆\t½ cucchiaino di paprika \n\n◆\t½ cucchiaino di prezzemolo essiccato \n\n◆\tFarina quanto basta";
+"Lemon Chicken Skillet_Instructions" = "Unire farina, sale, pepe, paprika e prezzemolo in una ciotola fonda. Riscaldate l'olio e il burro a fuoco medio-alto. Ricoprite ogni petto di pollo nella mistura di farina e collocare nella padella calda. Aggiungere succo di limone, vino bianco, buccia grattugiata del limone e rosmarino alla padella. Cucinare il pollo su ogni lato finché non sarà cotto. Buon appetito!";
+
+"Zucchini Quinoa Cookies_Title" = "Biscotti di zucchini e quinoa";
+"Zucchini Quinoa Cookies_Ingredients" = "◆\t115 gr di burro di noccioline cremoso \n\n◆\t60 gr di miele \n\n◆\t1 banana \n\n◆\t1 uovo \n\n◆\t1 cucchiaino di estratto di vaniglia \n\n◆\t113 gr di fiocchi d’avena \n\n◆\t113 gr di fiocchi di quinoa \n\n◆\t1 cucchiaino di cannella \n\n◆\tUn pizzico di sale \n\n◆\t225 gr di zucchine grattugiate e pressate";
+"Zucchini Quinoa Cookies_Instructions" = "Riscaldare il forno a 180°. Versare il burro di noccioline, il miele, la banana, l’uomo e la vaniglia in una grande ciotola e girare. Aggiungere i fiocchi d’avena e quinoia, il lievito, spezie e sale alla ciotola e mischiare il tutto. Infine aggiungere le zucchine e dei semi di chia. Collocare delle cucchiaiate di impasto su una teglia rivestita di carta forno. Infornare al centro del forno per 15 o 18 minuti, finché i bordi non saranno dorati. Buon appetito!";
+
+"Savory Shrimp with Fresh Herbs_Title" = "Gamberi saporiti con erbe fresche";
+"Savory Shrimp with Fresh Herbs_Ingredients" = "◆\t450 gr di gamberi grandi \n\n◆\t2 peperoncini piccanti \n\n◆\t1 porro finemente tagliato \n\n◆\t1 cucchiaio di capperi, lavati e scolati \n\n◆\t2 spicchi di aglio, tagliato finemente \n\n◆\t30 gr di prezzemolo tagliato \n\n◆\t3 cucchiai di succo di limone \n\n◆\t3 cucchiai di olio d’oliva";
+"Savory Shrimp with Fresh Herbs_Instructions" = "Collocare una padella su fuoco medio e aggiungere olio. Aggiungere i gamberi, i peperoncini, il porro, i capperi, l’aglio, il sale e il pepe. Cucinare per 4 minuti finché i gamberi non saranno rosa. Togliere dal fuoco. Aggiungere succo di limone, grattare il fondo della padella con un cucchiaio. Servire i gamberi con del basilico e del prezzemolo fresco. Buon appetito!";
+
+"Flaxseed Oatmeal with Blueberries_Title" = "Avena con semi di Lino e Mirtilli";
+"Flaxseed Oatmeal with Blueberries_Ingredients" = "◆\t700 ml di acqua \n\n◆\t500 gr di avena  \n\n◆\t3 cucchiai di semi di lino macinati \n\n◆\tun pizzico di sale \n\n◆\t¼ tazza di latte intero \n\n◆\t200 grdi mirtilli \n\n◆\t1 cucchiaio di marmellata di mirtilli \n\n◆\t1/2 tsp grated lemon rind \n\n◆\t1 cucchiaio di succo di limone";
+"Flaxseed Oatmeal with Blueberries_Instructions" = "Portare l’acqua ad ebollizione. Aggiungere l’avena, i semi di lino e il sale. Ridurre a fuoco medio-basso, cucinare finché non saranno morbidi, girare con frequenza. Versare nella pentola il latte e il burro. Intanto, unire i mirtilli e gli altri 4 ingredienti in una ciotola e cuocere al microonde alla massima potenza per 30 secondi. Dividere l’avena in 4 ciotole. Decorare con mirtilli e noci pecan. Buon appetito!";
+
+"Coconut Milk Smoothie With Blueberries_Title" = "Smoothie di latte di cocco con mirtilli";
+"Coconut Milk Smoothie With Blueberries_Ingredients" = "◆\t1 busta di mirtilli congelati (280 gr) \n\n◆\t3 banane mature \n\n◆\t230 gr di yogurt bianco \n\n◆\t230 ml di latte di cocco senza zucchero \n\n◆\t2 cucchiai di miele";
+"Coconut Milk Smoothie With Blueberries_Instructions" = "Frullare i mirtilli, le banane, lo yogurt, il latte e il miele. Buon appetito!";
+
+"Chicken and Asparagus Stir-Fry_Title" = "Pollo e asparagi saltati";
+"Chicken and Asparagus Stir-Fry_Ingredients" = "◆\t1 cucchiaio salsa di soia \n\n◆\t1 cucchiaio miele \n\n◆\t2 petti di pollo, tagliati a fettine \n\n◆\t1 cucchiaio olio d'oliva \n\n◆\t1 mazzetto di asparagi tagliati a tocchetti \n\n◆\t4 spicchi d'aglio, finemente affettati \n\n◆\t2 cucchiaini di olio di sesamo tostato";
+"Chicken and Asparagus Stir-Fry_Instructions" = "In una busta per il congelato, mischiare la salsa di soia e il miele. Aggiungere il pollo e mischiare finché non sarà per imbevuto. Mettere in frigo finché non è pronto. Nel frattempo, riscaldare l'olio in una grande padella a fuoco medio. Rimuovere gli asparagi e mettere da parte. Rimuovere il pollo dalla marinatura, e aggiungere alla padella. Poi aggiungere in padella l'aglio, gli asparagi e la marinatura che avrete conservato. Togliere dal fuoco e aggiungere l'olio di semi di sesamo. Buon appetito! ";
+
+"Lavender Mint Tea_Title" = "Tè lavanda e menta";
+"Lavender Mint Tea_Ingredients" = "◆\t40 gr di petali di lavanda freschi \n\n◆\t1 tazza di foglie di menta \n\n◆\t1 litro d’acqua";
+"Lavender Mint Tea_Instructions" = "Collocare i petali di lavanda e le foglie di menta nella pentola, versare l’acqua e portare a bollore. Abbassare la fiamma e lasciare sobbollire finché raggiungerà il sapore da voi desiderato, per circa 15 o 20 minuti. Buon appetito!";
+
+"Chili Fajitas_Title" = "Fajitas con chili";
+"Chili Fajitas_Ingredients" = "◆\t500 gr di petto di pollo senza pelle \n\n◆\t½ di un peperone verde, uno rosso e uno giallo, finemente tagliati \n\n◆\t80 ml di acqua \n\n◆\t2 cucchiai di salsa di soia \n\n◆\t1 pizzico di sale \n\n◆\t1 pizzico di pepe nero \n\n◆\t2 cucchiai di olio d'oliva \n\n◆\t1 cipolla grande, tagliata finemente";
+"Chili Fajitas_Instructions" = "Combinare tutti gli ingredienti della marinata con il pollo in un contenitore e mettere in frigo per almeno 2 ore. Rimuovere la carne dalla marinata e grigliare su fuoco medio per 4 o 5 minuti per lato. Tagliare la carne in strisce fini. Per la salsa, unire i 2 cucchiai di acqua, 1 cucchiaino di salsa di soia, ¼ di cucchiaino di succo di lime, un pizzico di sale, il pepe nero e 1 cucchiaio di olio d'oliva. Buon appetito!";
+
+"Healthy Fruity Oatmeal_Title" = "Avena con Frutta";
+"Healthy Fruity Oatmeal_Ingredients" = "◆\t125 gr di avena \n\n◆\t250 ml di acqua \n\n◆\t1 cucchiaio di miele \n\n◆\t1 cucchiaio di estratto di vaniglia \n\n◆\t½ cucchiaino di cannella macinata \n\n◆\t50 gr di mirtilli \n\n◆\t4 fragole tagliate \n\n◆\t½ banana, tagliata a fette" ;
+"Healthy Fruity Oatmeal_Instructions" = "Combinare l’acqua e l’avena in una ciotola e cuocere in microonde alla temperatura massima finché l’avena non avrà assorbito l’acqua. Aggiungere il miele, l’estratto di vaniglia e la cannella macinata. Aggiungere i mirtilli, la banana e le fette di fragola. Buon appetito!";
+
+"Coffee Smoothie_Title" = "Smoothie di caffè";
+"Coffee Smoothie_Ingredients" = "◆\t1 cucchiaino di polvere istantanea di caffè \n\n◆\t1 cucchiaio di acqua calda \n\n◆\t1 banana piccola, tagliata e congelata \n\n◆\t60 ml di latte scremato \n\n◆\t1 cucchiaio di miele \n\n◆\t120 gr di cubetti di ghiaccio \n\n◆\tCannella in polvere";
+"Coffee Smoothie_Instructions" = "Unire in un frullatore il caffè istantaneo e l’acqua calda, lasciar riposare un minuto. Aggiungere la banana, il latte e il miele. Coprire e frullare finché non sarà ben cremoso. Aggiungere gradualmente i cubetti di ghiaccio fino alla densità desiderata. Spargere un po’ di cannella dopo averlo versato nel bicchiere. Buon appetito!";
+
+"Chicken & Pineapple Stir-Fry_Title" = "Pollo saltato con ananas";
+"Chicken & Pineapple Stir-Fry_Ingredients" = "◆\t110 gr di petto di pollo \n\n◆\t40 gr di ananas \n\n◆\t120 gr di riso integrale \n\n◆\t1/3 cucchiaio di olio d'oliva \n\n◆\t½ cucchiaino di mostarda \n\n◆\t1/6 cucchiaio di paprika affumicata \n\n◆\tsale \n\n◆\tpepe";
+"Chicken & Pineapple Stir-Fry_Instructions" = "Tagliare il petto di pollo crudo in piccoli pezzi. Condire i pezzi di pollo con la paprika e la mostarda. Aggiungere l'olio d'oliva in una padella e cuocere i pezzetti di pollo. Lasciare cuocere per almeno 4 minuti, finché non sarà quasi pronto, poi aggiungere un peperone tagliato a pezzi. Cucinare per altri 2 o 3 minuti prima di aggiungere l'ananas tagliata a cubetti. Buon appetito!";
+
+"Raw Chocolate Truffles_Title" = "Tartufi al cioccolato vegano";
+"Raw Chocolate Truffles_Ingredients" = "◆\t125 gr di noci, nocciole e mandorle lasciate in acqua durante la notte \n\n◆\t3 o 4 cucchiai di latte di mandorla \n\n◆\t40 gr di semi di girasole \n\n◆\t40 gr di semi di zucca \n\n◆\t2 cucchiai di polvere di carrube \n\n◆\t3 cucchiai di scaglie di cocco";
+"Raw Chocolate Truffles_Instructions" = "Mettere tutto nel frullatore tranne le scaglie di cocco e frullare. Iniziate a fare delle piccole sfere con l'impasto usando un cucchiaio per il gelato. Rotolare ogni dolcetto nelle scaglie di cocco. Servite e buon appetito!";
+
+"Baked Salmon with Veggies_Title" = "Salmone al forno con verdure";
+"Baked Salmon with Veggies_Ingredients" = "◆\t2 filetti di salmone \n\n◆\t200 gr di zucchine affettate \n\n◆\t200 gr di broccoli \n\n◆\t125 gr di pomodorini \n\n◆\tSale \n\n◆\tPepe  \n\n◆\tOlio d’oliva";
+"Baked Salmon with Veggies_Instructions" = "Scaldare il forno a 190°. Unire le verdure in una teglia grande. Condirle con sale, pepe e olio d’oliva. Mettere i filetti vicino alle verdure e infornare per 18 – 20 minuti o finché il salmone non sarà cotto e le verdure morbide. Buon appetito!";
+
+"Banana Nut Oatmeal_Title" = "Avena con banana e nocciole";
+"Banana Nut Oatmeal_Ingredients" = "◆\t125 gr di avena \n\n◆\t250 ml di acqua \n\n◆\t1 banana a fette \n\n◆\t1 cucchiaio di noci tagliate \n\n◆\t1 cucchiaino di cannella macinata" ;
+"Banana Nut Oatmeal_Instructions" = "Unire l’avena e l’acqua in una ciotola e mettere in microonde, cuocere alla massima potenza per 3 minuti. Infine, guarnire con la banana, le nocciole e la cannella. Buon appetito!";
+
+"Pink Power_Title" = "Potere rosa";
+"Pink Power_Ingredients" = "◆\t200 gr di fiori di cavolfiore \n\n◆\t400 gr di cubetti di cocomero, senza semi \n\n◆\t200 gr di fragole intere \n\n◆\t1 barattolo di yogurt alla fragola \n\n◆\t2 cucchiai di marmellata di fragole (facoltativo)";
+"Pink Power_Instructions" = "In una padella piccola cuocere il cavolfiore, coprirlo con acqua bollente, finché diventerà molto morbido. In un frullatore unire il cavolfiore cotto, il cocomero, le fragole, lo yogurt e, a scelta, anche la marmellata. Frullare e servire. Buon appetito!";
+
+"BBQ Chicken-Wrapped Asparagus_Title" = "Pollo BBQ con asparagi";
+"BBQ Chicken-Wrapped Asparagus_Ingredients" = "◆\t2 petti di pollo tagliati finemente. \n\n◆\t12 asparagi \n\n◆\t2 cucchiaini di salsa barbecue \n\n◆\t1 pizzico di paprika \n\n◆\t1 pizzico di polvere d'aglio \n\n◆\t1 pizzico di pepe";
+"BBQ Chicken-Wrapped Asparagus_Instructions" = "Accendere il forno a 200°C. Battere il pollo con un batti carne, condirlo con 1 cucchiaio di salsa barbecue (per ogni fetta) e condimenti a scelta. Mettere il pollo sul grill. Cuocere in forno o sul grill per circa 8 o 10 min. Buon appetito!";
+
+"Ginger Turmeric Herbal Tea_Title" = "Tè alle erbe di zenzero e curcuma";
+"Ginger Turmeric Herbal Tea_Ingredients" = "◆\t500 ml di acqua \n\n◆\t½ cucchiaino di zenzero fresco tagliato \n\n◆\t½ cucchiaino di cannella in polvere e di curcuma \n\n◆\t1 cucchiaino di miele \n\n◆\t1 fetta di limone";
+"Ginger Turmeric Herbal Tea_Instructions" = "Far bollire l’acqua in una piccola pentola e aggiungere la curcuma, lo zenzero e la cannella. Abbassare la fiamma al minimo e lasciar sobbollire per 10 minuti. Versare il tè in un grande bicchiere, aggiungere miele e limone. Buon appetito!";
+
+"Grilled Shrimp & Avocado Kabobs_Title" = "Spiedini di gamberi grigliati e avocado";
+"Grilled Shrimp & Avocado Kabobs_Ingredients" = "◆\t450 gr di gamberi grandi \n\n◆\tMezzo avocado \n\n◆\t1 peperone rosso \n\n◆\t1 peperone arancione \n\n◆\t1 peperone giallo \n\n◆\t1 cipolla rossa \n\n◆\t1 cucchiaio di pasta d’aglio \n\n◆\t½ cucchiaio di olio extra vergine \n\n◆\t1 lime \n\n◆\tSale e pepe";
+"Grilled Shrimp & Avocado Kabobs_Instructions" = "Mettere il grill a circa 200°- Tagliare le verdure e l’avocado a pezzi grandi per gli spiedini. Pelare i gamberi e condire. Scegliere dei vegetali fibrosi poiché riempiono di più e saranno più adatti allo spiedino. Mettere gli spiedini sul grill e cucinare per circa 8 o 10 minuti poi girarli e cucinare per altri 8 o 10 minuti. Buon appetito!";
+
+"Morning Parfait_Title" = "Parfait del Mattina";
+"Morning Parfait_Ingredients" = "◆\t55 gr di uvetta e 1 cucchiaino di arancia finemente grattata \n\n◆\t1 cucchiaino di vaniglia \n\n◆\t250 gr di brie \n\n◆\tMolliche di pane \n\n◆\t250 gr di lamponi freschi, mirtilli, fragole tagliate e/o pesche \n\n◆\t125 gr di muesli con pochi grassi \n\n◆\tmiele \n\n◆\tBuccia d’arancia grattata" ;
+"Morning Parfait_Instructions" = "Mischiare le molliche di pane e il formaggio, spargere su una teglia da forno con un po’ di olio. Cuocere per 20-25 minuti. Dividere il composto in 4 bicchieri, collocarvi sopra uno strato di frutta e uno di muesli. Ripetere gli strati fino ad arrivare in cima al bicchiere. Guarnire con miele e altra buccia d’arancia. Ingredienti per 4 porzioni. Buon appetito!";
+
+"Green Tea Kiwi and Mango_Title" = "Tè verde, kiwi e mango";
+"Green Tea Kiwi and Mango_Ingredients" = "◆\t500 gr di mango a cubetti \n\n◆\t177 gr di yogurt alla vaniglia \n\n◆\t2 cucchiai di miele \n\n◆\t2 cucchiai di acqua \n\n◆\t3 kiwi maturi \n\n◆\t400 gr di ghiaccio \n\n◆\t125 gr di spinacini \n\n◆\t2 cucchiai di tè verde in bottiglia";
+"Green Tea Kiwi and Mango_Instructions" = "Mettere il mango, 125 gr lo yogurt, i 2 cucchiai di miele e l’acqua, più il succo di un lime, in un frullatore finché non saranno cremosi. Mettere il restante yogurt, 2 cucchiaini di miele, il kiwi e agli altri ingredienti in un frullatore e frullare fino a che non saranno cremosi. Buon appetito.";
+
+"Citrus Chicken Stir-Fry_Title" = "Pollo saltato agli agrumi";
+"Citrus Chicken Stir-Fry_Ingredients" = "◆\t140 gr di petto di pollo, tagliato a cubetti \n\n◆\t34 gr di broccoletti \n\n◆\t25 gr di funghi champignon \n\n◆\t¼ di peperone rosso \n\n◆\t20 gr di cipolla rossa \n\n◆\tOlio di cocco \n\n◆\tSemi di sesamo \n\n◆\t¼ cucchiaino di fecola di patate \n\n◆\t1/8 di cucchiaio di pasta d'aglio \n\n◆\t¼ cucchiaino pasta di zenzero";
+"Citrus Chicken Stir-Fry_Instructions" = "In una ciotola mischiare tutti gli ingredienti per la salsa dove salterete il pollo. Ungere poi la padella con olio di cocco e mettere a fuoco medio. Collocare i petti di pollo e lasciare cuocere finché non saranno quasi pronti, poi aggiungere le verdure, la salsa e girate. Buon appetito!";
+
+"Grilled Mexican Corn_Title" = "Mais Grigliato Messicano";
+"Grilled Mexican Corn_Ingredients" = "◆\t4 pannocchie \n\n◆\t1.5 tazze di panna \n\n◆\t200 gr di parmigiano grattugiato \n\n◆\tSucco di 1 lime \n\n◆\tPolvere di peperoncino rosso \n\n◆\t2 lime tagliati a spicchi, per guarnire";
+"Grilled Mexican Corn_Instructions" = "Grigliare il mais girandolo sulla griglia calda finché non si brucia leggermente. In una piccola ciotola mischiare la maionese, la panna acida e il coriandolo. Spremere il lime sul mais e condire con parmigiano. Spolverare con polvere di peperoncino. Buon appetito!";
+
+"Salmon Burger with Avocado_Title" = "Hamburger di salmone con avocado";
+"Salmon Burger with Avocado_Ingredients" = "◆\t450 gr di filetti di salmone \n\n◆\t200 gr di pan grattato \n\n◆\t1 uovo \n\n◆\t1 cucchiaio di succo di limone \n\n◆\tSale e pepe \n\n◆\tOlio d’oliva \n\n◆\t1 avocado grande, tagliato \n\n◆\t90 gr di cipolla rossa tagliata \n\n◆\tIl succo di un lime";
+"Salmon Burger with Avocado_Instructions" = "Tagliare il filetto di salmone in piccoli pezzi e collocare in una ciotola. Versare delicatamente gli altri ingredienti. Lasciare riposare per 5-10 minuti. Riscaldare l’olio in una padella grande a fuoco medio. Formare degli hamburger con l’impasto. Cuocerli finché non saranno dorati su entrambi i lati, circa 4 minuti per lato. Buon appetito!";
+
+"Strawberry and Banana Nut Bread Oatmeal_Title" = "Pane d’avena con fragole, banana e noci";
+"Strawberry and Banana Nut Bread Oatmeal_Ingredients" = "◆\t150 gr di avena \n\n◆\t½ banana schiacciata \n\n◆\t50 gr di fragole \n\n◆\t2 cucchiai di latte di mandorle \n\n◆\t1 cucchiaio di estratto di vaniglia \n\n◆\t2 cucchiai di noci tritate \n\n◆\t1 bustina di stevia \n\n◆\tScorza di limone per guarnire \n\n◆\t1 cucchiaio di yogurt greco (2% di grassi) \n\n◆\t½ cucchiaio di noci tritate \n\n◆\tSemi di papavero ";
+"Strawberry and Banana Nut Bread Oatmeal_Instructions" = "Cucinare l’avena come da istruzioni della confezione, poi mettere da parte. Aggiungere tutti gli ingredienti in una ciotola, tranne le fragole, e mischiare bene. Sull’avena collocare le fragole. Guarnire con yogurt greco, noci tritate e semi di papavero. Buon appetito!";
+
+"Strawberry Banana_Title" = "Banana e fragola";
+"Strawberry Banana_Ingredients" = "◆\t450 gr di fragole \n\n◆\t1 banana sbucciata \n\n◆\t250 ml di latte \n\n◆\t1 cubetto di ghiaccio \n\n◆\t1 cucchiaio di miele";
+"Strawberry Banana_Instructions" = "Aggiungere tutti gli ingredienti nel frullatore e farlo andare finché non saranno cremosi. Se lo smoothie è troppo denso, aggiungere più latte. Se è troppo liquido, più frutta o ghiaccio. Buon appetito!";
+
+"Spicy & Light Kung Pao Chicken Meal Prep_Title" = "Pollo Kung Pao piccante e leggero";
+"Spicy & Light Kung Pao Chicken Meal Prep_Ingredients" = "◆\t150 gr di petto di pollo \n\n◆\t1/6 di spicchio d’aglio \n\n◆\t33 gr di piselli \n\n◆\t150 gr di peperoni \n\n◆\t⅔ di cucchiaio di acqua \n\n◆\t⅓ di cucchiaio di pasta di pomodori \n\n◆\t1/6 di cucchiaio di zenzero fresco \n\n◆\t1/6 di cucchiaio di pasta di peperoncino rosso \n\n◆\t1/6 cucchiaio di aceto di riso \n\n◆\tCipollotto tagliato";
+"Spicy & Light Kung Pao Chicken Meal Prep_Instructions" = "In una ciotola aggiungere gli ingredienti per la salsa e mischiare. Mettere la pentola su fuoco medio e ungere con olio d’oliva. Quando la pentola sarà calda, unire l’aglio e lasciar insaporire per circa 2 minuti. Poi aggiungere il pollo tagliato. Cucinare il pollo finché non sarà cotto all’esterno, per 6 o 8 minuti. Aggiungere i peperoni tagliati e lasciare cuocere per 3 minuti. Aggiungere lentamente la salsa che avete preparato precedentemente e mischiare con frequenza. Buon appetito!";
+
+"Lavender Mint Tea_Title" = "Tè lavanda e menta";
+"Lavender Mint Tea_Ingredients" = "◆\t40 gr di petali di lavanda freschi \n\n◆\t1 tazza di foglie di menta \n\n◆\t1 litro d’acqua";
+"Lavender Mint Tea_Instructions" = "Collocare i petali di lavanda e le foglie di menta nella pentola, versare l’acqua e portare a bollore. Abbassare la fiamma e lasciare sobbollire finché raggiungerà il sapore da voi desiderato, per circa 15 o 20 minuti. Buon appetito!";
+
+"Foil Fish Packets with Spinach and Tomato_Title" = "Cartocci di pesce con asparagi e pomodori";
+"Foil Fish Packets with Spinach and Tomato_Ingredients" = "◆\t1 mazzetto di asparagi \n\n◆\t2 pomodori a fette \n\n◆\t2 filetti di salmone (o tilapia) \n\n◆\tOlio d’oliva \n\n◆\t½ cucchiaio di pasta d’aglio \n\n◆\tSale \n\n◆\t1 limone tagliato";
+"Foil Fish Packets with Spinach and Tomato_Instructions" = "Riscaldare il forno a 190°. In una piccola ciotola mischiare l’olio, l’aglio e il sale. Mettere gli asparagi al centro di un foglio di alluminio e ricoprire uniformemente con pomodori, poi condire. Mettere il filetto di pesce sui pomodori, uno per cartoccio, e ungere il pesce con olio d’oliva. Disporre le fette di limone sul pesce. Cuocere in forno per 25-30 minuti. Buon appetito.";
+
+
+

@@ -1,0 +1,905 @@
+/*
+ Localizable.strings
+ Yoga
+ 
+ Created by Alex Overseer on 4/4/16.
+ Copyright © 2016 SOFTINTERCOM. All rights reserved.
+ */
+
+//Intro
+
+"Choose Your Goals" = "Escolha os seus objetivos";
+"Increase Flexibility" = "Aumentar a flexibilidade";
+"Get Toned" = "Tonificar";
+"Lose Weight" = "Perder peso";
+"Reduce Stress" = "Reduzir o stress";
+"Continue" = "Continuar";
+"Yearly" = "Anual";
+
+"Enter Your Parameters" = "Insira os seus parâmetros";
+"Height" = "Altura";
+"Current weight" = "Peso atual";
+"Target weight" = "Peso desejado";
+"Pick Your Height" = "Selecione a sua altura";
+"Pick Your Weight" = "Selecione o seu peso";
+"Pick Your Target Weight" = "Selecione o seu peso desejado";
+"lbs" = "lbs";
+"kg" = "kg";
+"ft, in" = "pés, pol"; //feet, inch
+"cm" = "cm"; //centimeter
+"Save" = "Guardar";
+
+"Join Millions\nof happy users" = "Junte-se a milhões\nde utilizadores satisfeitos";
+"No Annoying Ads" = "Sem anúncios irritantes";
+"Not sure yet?" = "Ainda não tem a certeza?";
+"Enable free trial" = "Ativar avaliação gratuita";
+"Discount %d%%" = "Desconto %d%%"; //example Discount 60%
+"Just Now! Limited Offer!" = "Só agora! Oferta limitada!";
+"Join with our best offer" = "Adira com a nossa melhor oferta";
+"Weekly plan" = "Plano semanal";
+"Monthly plan" = "Plano mensal";
+
+"Not now" = "Agora não";
+"Save %d%%" = "Poupe %d%%"; //Example: Save 60%
+"year\nBilled annually" = "ano\nFaturado anualmente"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "após o período de avaliação\ngratuita de 7 dias";
+"healthAppPermisionKey" = "A aplicação não tem permissão para escrever dados na aplicação Saúde. Pode ativar esta função na aplicação Saúde";
+"Open" = "Aberto";
+
+
+//Presentation
+
+"Balance Flexibility" = "Equilíbrio da flexibilidade";
+"100+ Poses" = "100+ Posturas";
+"19 Classes" = "19 Aulas";
+"Tons of Classes" = "Imensas aulas";
+"Anywhere Anytime" = "Em qualquer altura, em qualquer lugar";
+"Nutrition Plans" = "Planos nutricionais";
+
+
+
+//Buttons keys
+"backButtonKey" = " Voltar";
+"doneButtonKey" = "Concluído";
+"editButtonKey" = "Editar";
+"cancelButtonKey" = "Cancelar";
+"yesButtonKey" = "Sim";
+"startButtonKey" = "Iniciar";
+"skipButtonKey" = "saltar";
+
+//MainScreenViewController
+"posesNameKey" = "Poses";
+"posesDescriptionKey" = "Liberdade para praticar onde e quando quiser.";
+
+"classesNameKey" = "Aulas";
+"classesDescriptionKey" = "Foco na flexibilidade, força e equilíbrio. Descubra a sua aula favorita.";
+
+"moreNameKey" = "Mais";
+"moreDescriptionKey" = "Junte-se à comunidade VGFIT. Obtenha mais exercícios.";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "Procurar exercício";
+"noResultsLabelKey" = "Sem Resultados";
+
+//ClassesViewController
+"classBalanceKey" = "Equilíbrio";
+"classBalanceDescriptionKey" = "Diferentes estilos de ioga combinados com foco na melhoria do seu equilíbrio.";
+
+"classStrengthKey" = "Força";
+"classStrengthDescriptionKey" = "Uma combinação de posturas de Power Yoga que vai ajudar a fortalecer o seu corpo.";
+
+"classFlexibilityKey" = "Flexibilidade";
+"classFlexibilityDescriptionKey" = "Foque-se na sua respiração, na sua recuperação muscular e na flexibilidade do seu corpo.";
+
+//LevelViewController
+"levelBegginerKey" = "Principiante";
+"levelBegginerTitleKey" = "Vamos começar com exercícios ligeiros";
+"levelBegginerDescriptionKey" = "Focado no treino de força e resistência através da criação de uma fundação firme.";
+
+"levelIntermediateKey" = "Intermédio";
+"levelIntermediateTitleKey" = "Exercícios com maior grau de dificuldade";
+"levelIntermediateDescriptionKey" = "Para quem tem alguma prática e experiência anterior de ioga.";
+
+"levelAdvancedKey" = "Avançado";
+"levelAdvancedTitleKey" = "Exercícios difíceis";
+"levelAdvancedDescriptionKey" = "Para pessoas dedicadas e muito empenhadas numa prática forte.";
+
+//DifficultyViewController
+"secondSideKey" = "segundo lado";
+"minutesKey" = "min";
+"posesKey" = "poses";
+
+//Error messages
+"downloadErrorKey" = "Erro na transferência";
+"downloadCompleteKey" = "Transferência concluída.";
+"internetConnectionKey" = "Ligação de Internet";
+"internetConnectionLostKey" = "Ligação de Internet perdida.";
+"videoNotFoundKey" = "Vídeo não encontrado";
+"videoNotFoundDescriptionKey" = "Pretende continuar? \nClique sim e tentaremos transferir de novo. Clique cancelar para voltar.";
+
+"smtWentWrongKey" = "Algo correu mal.";
+"downloadErrorNoConnectionKey" = "Não é possível transferir. Por favor verifique a sua ligação de internet Wi-Fi ou de rede móvel!";
+"playerNoInternetConnectivityKey" = " Não é possível transferir. Por favor verifique a sua ligação de internet Wi-Fi ou de rede móvel!\nClique sim para saltar. Clique cancelar para voltar.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "A transferir vídeos";
+"downloadOneVideoKey" = "A transferir vídeo";
+
+//SecondPlayerViewController
+"previewKey" = "Antever";
+"secondsKey" = "segundos";
+"completedKey" = "Concluído";
+"playerCurrentExerciseKey" = "Nome do exercício:";
+"playerNextExerciseKey" = "Seguinte:";
+
+//MoreViewController
+"moreProfileTitleKey" = "Perfil\n( Histórico de Ioga )";
+"moreProfileDescriptionKey" = "Pode guardar o histórico das suas aulas e planear a próxima aula.";
+
+"moreAppsTitleKey" = "Outras\nAplicações VGFIT";
+"moreAppsDescriptionKey" = "Descubra novas Aplicações da VGFIT e atinja os seus objetivos de boa forma.";
+
+"moreSocialTitleKey" = "Redes\nsociais VGFIT";
+"moreSocialDescriptionKey" = "Obtenha motivação e partilhe-a com amigos. Junte-se à comunidade VGFIT.";
+
+"moreSettingsTitleKey" = "Definições";
+"moreSettingsDescriptionKey" = "Definições complexas para proporcionar a melhor experiência.";
+
+"moreRateUsTitleKey" = "Avaliar";
+
+"historyTitleKey" = "Histórico";
+"historyNoExerciseKey" = "Nenhum exercício feito até agora";
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "Abdominais Definidos";
+"otherAppFitnessAndBodyBuildingKey" = "Fitness e Musculação";
+"otherAppFemaleFitnessKey" = "Fitness Feminino";
+"otherAppGoPedometerKey" = "Ir Podómetro";
+"otherAppSmartCycleAlarmProKey" = "Alarme de Ciclo Inteligente";
+"otherAppTimerKey" = "Temporizador Pro";
+"otherApp7minKey" = "7 Minutos";
+"Water Reminder" = "Lembrete de água";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "Antevisão completa";
+"settingsPreviewShortKey" = "Antevisão curta";
+"settingsPreviewNoneKey" = "Sem antevisão";
+"settingsbreathCycleLenghtKey" = "Duração do ciclo de respiração";
+
+//Speech to Text messages
+
+"beginKey" = "início";
+"xMoreSeconds" = "mais %@ segundos";
+"halfWayThereKey" = "Metade já está";
+
+//Rate Us messages
+
+"Love our %@ app?" = "Apaixone-se pela nossa aplicação %@?";
+"Your feedback will help us to get better" = "Os seus comentários vão ajudar-nos a melhorar";
+"Oh Dear!" = "Meu Deus!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Ficaríamos agradecidos se nos pudesse dar algumas ideias para melhorar a aplicação. Obrigado!";
+
+"5-Stars" = "5 Estrelas";
+"To improve the app, please Leave a Rating or Review." = "Para melhorar a aplicação, por favor Deixe uma Classificação ou Avaliação.";
+
+"Rate Us" = "Avalie-nos";
+"Email Us" = "Envie-nos um Email";
+"Not now" = "Agora não";
+
+//Reminder
+
+"Reminder" = "Lembrete";
+"Edit notification permission in IOS settings" = "Editar permissão de notificações nas definições IOS";
+"Daily reminder" = "Lembrete diário";
+"Frequency" = "Frequência";
+"It's time to workout!" = "Está na hora de treinar!";
+"After %ld days of inactivity" = "Após %ld dias de inatividade";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Ei! Não treina há alguns dias, volte e vamos treinar!";
+"Days" = "Dias";
+
+//Audio Player
+
+"Voice Guide" = "Guia de Voz";
+"Background Music" = "Música de Fundo";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "Ioga - Posturas e Aulas";
+"Upgrade" = "Atualizar";
+"Buy" = "Comprar";
+"Restore Purchases" = "Restaurar compras";
+"Premium" = "PREMIUM";
+"Nutrition" = "Nutrição";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "Desbloqueie todos os novos planos concebidos pelos melhores treinadores. Alcance os seus objetivos mais facilmente.";
+"Ads free experience" = "Experiência sem anúncios";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "Livre-se de todos os anúncios. Desfrute de uma alegre jornada de ioga sem anúncios.";
+"Unlock all music" = "Desbloqueie todas as músicas";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "Desfrute de músicas exclusivas para uma prática mais aprofundada. \n+ Escolha o seu toque especial de notificação para não perder nada.";
+"Yoga Classes" = "Aulas de Ioga";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "10 Novas Aulas para todos os níveis para ficar em forma com treinos positivos e motivação \n+ Plano nutricional equilibrado para perda de peso.";
+
+//Select Sound
+
+"Sounds" = "Sons";
+"Sound" = "Som";
+
+"Default" = "Predefinido";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "Solução de Ioga Rápido";
+"Quick Yoga Fix_details" = "Encaixe o ioga num dia ocupado com uma sequência equilibrante e energizante.";
+
+"Getting Toned" = "Tonificação";
+"Getting Toned_details" = "Desenvolva tónus muscular em áreas chave, incluindo braços, ombros, núcleo, glúteos e pernas.";
+
+"Morning Yoga" = "Ioga Matinal";
+"Morning Yoga_details" = "Comece o seu dia com uma prática de ioga revigorante que enfatiza o movimento da coluna em todas as direções e incorpora poses de força em pé.";
+
+"Daily Yoga for ABS" = "Ioga Diário para ABS";
+"Daily Yoga for ABS_details" = "Tonifique de forma direcionada os músculos abdominais profundos.";
+
+"Yoga for Runners" = "Ioga para Corredores";
+"Yoga for Runners_details" = "O Ioga oferece uma combinação única de equilíbrio, flexibilidade, força e treino de mindfulness que pode ajudar corredores a melhorar o seu desempenho e evitar lesões. Corra de forma mais inteligente com esta sequência de cross-training.";
+
+"Boost Your Energy" = "Potencie a Sua Energia";
+"Boost Your Energy_details" = "Recarregue com esta sequência concebida para revigorar o seu corpo, mente e espírito.";
+
+"Deep Stretching Exercises" = "Exercícios de Alongamento Profundo";
+"Deep Stretching Exercises_details" = "Rejuvenesça os músculos cansados, melhore a amplitude dos movimentos e ative a circulação com estes alongamentos de ioga.";
+
+"Improve Your Balance" = "Melhore o Seu Equilíbrio";
+"Improve Your Balance_details" = "Melhore a sua coordenação, o seu tempo de reação, postura e consciência corporal com esta desafiante sequência de poses equilibrantes.";
+
+"Challenge Your Flexibility" = "Desafie a Sua Flexibilidade";
+"Challenge Your Flexibility_details" = "Desenvolva flexibilidade através de uma série de alongamentos intensos e aplique os resultados nas poses de ioga mais avançadas.";
+
+"Core Muscle Sculptor" = "Escultor de Músculos do Núcleo";
+"Core Muscle Sculptor_details" = "Comece do zero para desenvolver força nas pernas, abdominais, fundo das costas e laterais do corpo.";
+
+"Food Nutrition" = "Nutrição Alimentar";
+"Food Nutrition_details" = "Fique na melhor forma de sempre! Saiba o que comer, descubra alimentos que queimam gordura, coma refeições saborosas para acelerar o seu metabolismo.";
+
+//Other
+
+"In-App purchases were restored" = "Compras do aplicativo restauradas";
+"Sorry we didn't find your previous purchases" = "Sinto muito, não encontramos suas compras anteriores";
+"Alert" = "Alerta";
+"No internet connection" = "Sem conexão com a internet!";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription options: &&3 days of free trial followed by $3.99 per Week. 3 days of free trial followed by $12.99 per Month. 3 days of free trial followed by $35.99 per Year++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+//"Restore" = "Restaurar";
+
+
+"Subscription Info" = "Informação de Subscrição";
+"More info about subscriptions and Premium membership" = "Mais informação sobre subscrições e adesões Premium";
+"%d days of free trial followed by %@ per %@" = "%d dias de avaliação gratuita seguidos por %@ por %@"; //ex:3 days of free trial followed by $3.99 per week
+"month"="mês";
+"year"="ano";
+"week"="semana";
+"after"="após";
+"Privacy Policy"="Política de Privacidade";
+"Terms of Service"="Termos de Serviço";
+"Nutrition plan"="Plano nutricional";
+"and"="e";
+"Subscription"="Subscrição";
+"By continuing you accept our"="Ao continuar está a aceitar os nossos";
+
+"Start your positive\ntransformation today!"="Comece hoje mesmo\na sua transformação positiva!";
+"Get 100% ready workouts courses with powerful support!"="Receba treinos 100% prontos com um suporte eficaz!";
+"Only now"=" Só agora ";
+"GET LIFETIME ACCESS"="OBTENHA ACESSO VITALÍCIO";
+"one-time payment"="pagamento único";
+
+//Yoga
+"%d poses and %d yoga classes"="%d poses e %d aulas de ioga";
+"3 days for FREE"="3 dias GRATUITAMENTE";
+"Ads FREE\nexperience"="Experiência SEM\nanúncios";
+"Yoga"="Ioga";
+"Yoga\nClasses"="Aulas\nde Ioga";
+"UNLOCK\nall music"="DESBLOQUEIE\ntodas as músicas";
+"76% off"="76% de desconto"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="%@ por mês cobrado anualmente, são %@ por ano";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="Plano nutricional de perda de peso";
+
+//VGFIT WORKOUT
+"Nutrition plan for building muscle"="Criar massa muscular";
+"Nutrition plan for weight loss"="Corpo magro";
+"Challenges"="Desafios";
+"Ads FREE experience"="Experiência SEM \nanúncios";
+"Nutrition plans"="Planos \nnutricionais";
+"New Workouts"="Novos \nexercícios";
+"ARMS | ABS"="BRAÇOS | ABDOMINAIS";
+"CLOSE"="FECHAR";
+"Workout challenges"="Desafios de treino";
+"Challenge"="Desafio";
+"Exercises"="Exercícios";
+"Restore purchase"="Restaurar compra";
+"SHARE"="PARTILHAR";
+"%d-day\nFree Trial"="%d dias\nde Avaliação Gratuita ";
+"Try it Now"="Experimente Já";
+"GET LIFETIME ACCESS"="OBTENHA ACESSO VITALÍCIO";
+"SKIP"="IGNORAR";
+"%@ WORKOUTS"="%@ TREINOS";// ex: 25 workouts
+"3-day \nFree trial"="3 dias \ nde Avaliação Gratuita ";
+"7-day \nFree trial"="7dias \ nde Avaliação Gratuita ";
+"startKey"="Começar";
+
+//Exercise name
+
+"exerciseName1" = "Montanha";
+
+"exerciseName2" = "Meio Lótus";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "Variação de Pose da Cadeira";
+
+"exerciseName5" = "Alongamento Lateral Reclinado";
+
+"exerciseName6" = "Ave do Paraíso";
+
+"exerciseName7" = "Variação da Pose dos Dedos Grandes dos Pés";
+
+"exerciseName8" = "Barco";
+
+"exerciseName9" = "Arco";
+
+"exerciseName10" = "Variação da Pose de Ponte";
+
+"exerciseName11" = "Camelo";
+
+"exerciseName12" = "Gato";
+
+"exerciseName13" = "Alongamento Lombar";
+
+"exerciseName14" = "Cadeira";
+
+"exerciseName15" = "Cadeira Torcida";
+
+"exerciseName16" = "Cadeira Torcida com Braços Estendidos";
+
+"exerciseName17" = "Pose de Criança";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "Cobra";
+
+"exerciseName20" = "Pose de Cadáver";
+
+"exerciseName21" = "Vaca";
+
+"exerciseName22" = "Cabeça de Vaca";
+
+"exerciseName23" = "Variação da Pose de Cabeça de Vaca";
+
+"exerciseName24" = "Mesa";
+
+"exerciseName25" = "Corvo";
+
+"exerciseName26" = "Golfinho";
+
+"exerciseName27" = "Esfinge";
+
+"exerciseName28" = "Prancha de Antebraços";
+
+"exerciseName29" = "Cão a Olhar para Baixo";
+
+"exerciseName30" = " Cão a Olhar para Baixo com variação";
+
+"exerciseName31" = "Sapo";
+
+"exerciseName32" = "Pose Perfeita com Braços de Águia";
+
+"exerciseName33" = "Águia";
+
+"exerciseName34" = "Pose de Joelhos nas Orelhas";
+
+"exerciseName35" = "Torção de Coluna Sentada";
+
+"exerciseName36" = "Pernas Cruzadas e Dobrada para a Frente";
+
+"exerciseName37" = "Pose de 8 Curvas";
+
+"exerciseName38" = "Pose do Coração";
+
+"exerciseName39" = "Ângulo Lateral com Variação";
+
+"exerciseName40" = "Ângulo Lateral Estendido Modificado";
+
+"exerciseName41" = "Ângulo Lateral";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "Postura do Joelho e Tornozelo";
+
+"exerciseName44" = "Peixe";
+
+"exerciseName45" = "Cancela";
+
+"exerciseName46" = "Cavalo";
+
+"exerciseName47" = "Tigre";
+
+"exerciseName48" = "Camelo com Variação";
+
+"exerciseName49" = "Meio Sapo";
+
+"exerciseName50" = "Gafanhoto";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "Meio Lótus em Pé";
+
+"exerciseName53" = "Meia Espargata ";
+
+"exerciseName54" = "Variação de Meia Lua";
+
+"exerciseName55" = "Meia Lua";
+
+"exerciseName56" = "Inversão sobre os ombros";
+
+"exerciseName57" = "Postura do Sábio Marichi III";
+
+"exerciseName58" = "Inversão sobre a cabeça";
+
+"exerciseName59" = " Inversão sobre a cabeça em tripé";
+
+"exerciseName60" = "Bebé Feliz";
+
+"exerciseName61" = "Postura da Garça";
+
+"exerciseName62" = "Postura do Corredor com Torção";
+
+"exerciseName63" = "Corredor Elevado";
+
+"exerciseName64" = "Guerreiro Humilde";
+
+"exerciseName65" = "Cobra Integral";
+
+"exerciseName66" = "Bailarina";
+
+"exerciseName67" = "Variação de Pose de Libertação de Gases";
+
+"exerciseName68" = "Saudação de Oito Apoios";
+
+"exerciseName69" = "Pose de Lagarto";
+
+"exerciseName70" = "Variação da Pose de Gafanhoto";
+
+"exerciseName71" = "Postura Crescente com Torção";
+
+"exerciseName72" = "Postura Crescente";
+
+"exerciseName73" = "Sereia";
+
+"exerciseName74" = "Roda com Uma Perna para Cima";
+
+"exerciseName75" = "Coelho";
+
+"exerciseName76" = "Preparação para Pombo Real";
+
+"exerciseName77" = "Pirâmide";
+
+"exerciseName78" = "Meio Pombo";
+
+"exerciseName79" = "Pose de Lótus em Elevação";
+
+"exerciseName80" = "Ponte";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "Variação de Oração Elevada";
+
+"exerciseName83" = "Prancha";
+
+"exerciseName84" = "Reclinação Pé-Dedo B";
+
+"exerciseName85" = "Arado";
+
+"exerciseName86" = "Tigre com Variação em Arco";
+
+"exerciseName87" = "Guerreiro da Paz";
+
+"exerciseName88" = "Meia Lua com Rotação";
+
+"exerciseName89" = "Pose de Cabeça no Joelho";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "Pombo Reclinado";
+
+"exerciseName92" = "Pose de Cabeça no Joelho com Torção";
+
+"exerciseName93" = "Triângulo com Torção";
+
+"exerciseName94" = "Corredor em Baixo";
+
+"exerciseName95" = "Variação de Pé-Dedo com Torção";
+
+"exerciseName96" = "Torção de Coluna Deitada";
+
+"exerciseName97" = "Deusa Reclinada";
+
+"exerciseName98" = " Reclinação Pé-Dedo A";
+
+"exerciseName99" = "Estiramento Posterior Sentado";
+
+"exerciseName100" = "Pé-Dedo de Pé D";
+
+"exerciseName101" = "Prancha Lateral";
+
+"exerciseName102" = "Braços em Cabeça de Vaca";
+
+"exerciseName103" = "Ângulo Lateral Sentada";
+
+"exerciseName104" = "Variação de Inversão sobre os Ombros";
+
+"exerciseName105" = "Flexão de Costas em Pé";
+
+"exerciseName106" = " Pé-Dedo de Pé B";
+
+"exerciseName107" = "Variação de Gafanhoto com Dedos Entrelaçados";
+
+"exerciseName108" = "Pose de Bastão";
+
+"exerciseName109" = "Esfinge";
+
+"exerciseName110" = "Prancha Lateral Modificada";
+
+"exerciseName111" = "Extensão Posterior em Triângulo";
+
+"exerciseName112" = "Agachamento Ioga";
+
+"exerciseName113" = "Postura Sentada Inclinada para a Frente em Ângulo Aberto";
+
+"exerciseName114" = "Extensão Posterior de Triângulo C";
+
+"exerciseName115" = "Variação de Pose de Cabeça no Joelho com Torção";
+
+"exerciseName116" = "Agachamento Ioga com União";
+
+"exerciseName117" = "Pose do Herói Virado para Baixo";
+
+"exerciseName118" = "Extensão Posterior em Triângulo com Torção";
+
+"exerciseName119" = " Extensão Posterior de Triângulo com Extensão Lateral";
+
+"exerciseName120" = "Sofá de Vishnu";
+
+"exerciseName121" = "Pose de Borboleta Virada para Cima";
+
+"exerciseName122" = "Guerreiro 2";
+
+"exerciseName123" = "Flexão Lateral em Pé com Dedos Entrelaçados";
+
+"exerciseName124" = "Espargata de Pé";
+
+"exerciseName125" = "Estiramento Intenso Posterior";
+
+"exerciseName126" = "Postura Pé-Dedo A";
+
+"exerciseName127" = "Estiramento Intenso Posterior com Variação de Abertura de Ombros";
+
+"exerciseName128" = "Guerreiro 1";
+
+"exerciseName129" = "Guerreiro 3";
+
+"exerciseName130" = " Flexão Lateral em Pé";
+
+"exerciseName131" = "Inversão sobre os Ombros com Apoio";
+
+"exerciseName132" = "Prancha Invertida";
+
+"exerciseName133" = "Pé-Dedo C com Estiramento Posterior";
+
+"exerciseName134" = " Estiramento Intenso Posterior c/ Torção";
+
+"exerciseName135" = "Flexão de Costas com Apoio";
+
+"exerciseName136" = "Pose de Bastão com 4 Apoios";
+
+"exerciseName137" = " Pose de Mesa e Bastão com 4 Apoios ";
+
+"exerciseName138" = "Postura da Roda";
+
+//Exercise description
+
+"exerciseDescription1" = "Em pé, coloque os pés à mesma distância das ancas e o lado exterior dos pés paralelos entre si. Alongue a coluna e eleve o umbigo em direção à coluna. Eleve o topo da cabeça e puxe o cóccix para baixo em direção aos calcanhares.";
+
+"exerciseDescription2" = "Sente-se no chão e dobre o joelho esquerdo, colocando a parte exterior do seu pé esquerdo debaixo da sua coxa direita mesmo junto à anca. Depois agarre na parte exterior do seu pé direito e coloque-o na dobra da anca esquerda. Coloque as palmas das mãos viradas para baixo sobre os joelhos e alongue a coluna com os ombros relaxados. Repita com a perna esquerda por cima.";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = "Em pé, coloque os pés à mesma distância das ancas. Estique os braços para a frente com as palmas das mãos viradas para baixo. Dobre os joelhos e eleve os calcanhares sobre a parte dianteira dos pés.";
+
+"exerciseDescription5" = "Deite-se de costas com as palmas das mãos na parte de trás da cabeça. Cruze o seu tornozelo esquerdo por cima do tornozelo direito. Torça lateralmente para a direita movendo a parte superior do corpo e as pernas para a direita. Regresse ao centro, troque a posição dos tornozelos de forma a que o tornozelo direito fique por cima e torça lateralmente para a esquerda.";
+
+"exerciseDescription6" = "De pé, dobre-se para a frente com os pés à mesma distância das ancas. Dobre os joelhos e, começando com o braço direito à sua frente, coloque-o por entre as pernas, dobre o cotovelo e coloque a mão direita na direção da parte exterior da sua anca direita. Dobre o cotovelo esquerdo por trás das costas e coloque a mão esquerda na direção da parte exterior da sua anca direita. Agarre o pulso esquerdo com a mão direita. (Se não conseguir chegar ao pulso, tente agarrar as pontas dos dedos.) \n \n Quando as suas mãos se tiverem unido perto do exterior da sua anca direita, levante o calcanhar direito, desloque o seu peso para o seu pé esquerdo e mantenha-se de pé sobre a perna esquerda. Mantenha o joelho direito dobrado à medida que estica a perna esquerda e endireita a coluna. Finalmente, pressione o seu braço direito contra a perna direita à medida que a estica para o lado. \n \n Repita mantendo-se sobre a perna direita, com os braços em torno da perna esquerda.";
+
+"exerciseDescription7" = "Sente-se de pernas estendidas com os joelhos dobrados e as plantas dos pés bem verticais. Coloque as mãos debaixo das coxas e levante os pés do chão de forma a equilibrar-se sobre o rabo. Estique as pernas o máximo que conseguir sem curvar o fundo das costas. Ao longo do tempo, à medida que a sua flexibilidade aumentar, poderá conseguir fazer deslizar as mãos pelas suas pernas em direção aos pés e eventualmente segurar os dedos grandes dos pés com os três primeiros dedos de cada mão.";
+
+"exerciseDescription8" = "Sente-se com os joelhos dobrados, plantas dos pés esticadas à sua frente e braços esticados para a frente. Levante os pés do chão e coloque as canelas paralelas ao teto, com os braços esticados ao lado das pernas. Equilibrando-se sobre o rabo, mantenha a posição durante pelo menos 5 ciclos de respiração.";
+
+"exerciseDescription9" = "Deite-se de barriga para baixo, com os joelhos fletidos e curve-se para trás para agarrar a parte exterior dos seus tornozelos. Levante a cabeça, o peito e as pernas do chão. Mantenha as suas pernas com uma distância não superior à largura das ancas à medida que estica a cabeça e as canelas na direção do teto.";
+
+"exerciseDescription10" = "Deite-se de costas com os joelhos fletidos, pés esticados à distância da largura das ancas e paralelos entre si. Segure a parte de fora dos seus tornozelos com as mãos, levante a pélvis do chão e curve o peito para cima.";
+
+"exerciseDescription11" = "Ajoelhe-se com as canelas paralelas entre si e o peito dos pés no chão. Alinhe as ancas por cima dos joelhos e os ombros por cima das ancas. Levante o peito na direção do céu e mantenha as ancas por cima dos joelhos à medida que se dobra para trás para agarrar nos calcanhares.";
+
+"exerciseDescription12" = "Comece de gatas em posição de mesa com os ombros por cima dos pulsos e ancas por cima dos joelhos. Ao expirar, enrole a sua coluna de forma a que a cabeça se liberte em direção ao chão, o umbigo se eleve na direção da coluna e o cóccix se curve na direção do chão.";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "Em pé, afaste os pés à largura das ancas e mantenha-os paralelos entre si. Inspire e estique os braços junto às orelhas, com as palmas das mãos viradas uma para a outra. Mantenha os braços à largura dos ombros à medida que flete os joelhos e desloca as ancas para trás. Tente colocar as coxas paralelas ao chão e mantê-las nessa posição enquanto eleva a barriga e o peito.";
+
+"exerciseDescription15" = "Em pé, una os dedos grandes dos pés e mantenha os pés paralelos entre si. Flita os joelhos e una as palmas das mãos em frente ao seu peito. Inspire à medida que alonga a sua coluna, mantendo as ancas em baixo. Quando expirar, torça o tronco para a direita e prenda o seu cotovelo esquerdo do lado de fora da sua coxa direita. Inspire e volte de novo ao centro com as mãos em posição de oração em frente ao peito. Expire enquanto repete a torção para a esquerda.";
+
+"exerciseDescription16" = "Em pé, una os dedos grandes dos pés e mantenha os pés paralelos entre si. Flita os joelhos e una as palmas em frente ao peito. Inspire e alongue a coluna, mantendo as ancas em baixo. À medida que expira, torça o tronco para a direita e prenda o seu cotovelo esquerdo do lado de fora da sua coxa direita. Estique os braços em forma de \"T\", de modo a que os seus dedos da mão esquerda cheguem ao chão do lado de fora do seu tornozelo direito e o seu braço direito fique esticado na direção do céu. Olhe para a sua palma direita lá em cima. \n\n Inspire para regressar ao centro com as palmas em posição de oração em frente ao peito. Expire enquanto torce da mesma forma para a esquerda, prendendo o seu cotovelo direito do lado de fora da sua coxa esquerda. Estique os braços, desta vez estendendo os dedos da mão direita na direção do lado de fora do tornozelo esquerdo e esticando o braço esquerdo na direção do céu. Olhe para cima para a sua palma esquerda.";
+
+"exerciseDescription17" = "Comece de gatas em posição de mesa. Una os dedos grandes dos pés e sente-se sobre os seus calcanhares à medida que solta a sua cabeça e a pousa no chão. Coloque os braços ao longo do corpo com as palmas das mãos viradas para cima.";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = "Deite-se de barriga para baixo e coloque as palmas das mãos viradas para baixo junto às suas costelas inferiores, mesmo acima da cintura. Levante a parte superior do corpo do chão, fazendo pressão nas mãos e deixe os joelhos, canelas e peitos dos pés colados ao chão. Empurre o cóccix na direção dos calcanhares para trabalhar os seus abdominais inferiores e apenas estique os braços até ao ponto em que consiga fazê-lo sem causar desconforto no fundo das costas. \n\n Deixando a palma esquerda no chão, vire o peito e a cabeça para a direita e deslize a sua mão direita ao longo da parte de trás da coxa direita. Volte ao centro e repita para o lado esquerdo.";
+
+"exerciseDescription20" = "Deite-se de costas com as pernas estendidas e braços ao longo do corpo, com as palmas das mãos para cima. Feche os olhos e relaxe os músculos, soltando todo o peso do corpo no chão.";
+
+"exerciseDescription21" = "Comece de gatas em posição de mesa. Ao inspirar, arqueie as costas, levante o queixo e olhe para cima.";
+
+"exerciseDescription22" = "Sente-se no chão, dobre os joelhos e cruze o seu joelho direito sobre o esquerdo, de forma a que os dois joelhos estejam empilhados em frente ao seu umbigo e esteja sentado/a entre os seus calcanhares. Estique o braço esquerdo em direção ao teto, dobre o cotovelo esquerdo e aponte os dedos para o fundo das costas. Estique o seu braço direito para o lado direito, vire as costas da mão para as suas costas e dobre o cotovelo direito de forma a que os seus dedos apontem para o cimo das suas costas. Una os dedos das duas mãos. Repita do segundo lado com o joelho esquerdo por cima e o braço direito em cima.";
+
+"exerciseDescription23" = "Sente-se no chão, dobre os joelhos e cruze o seu joelho direito sobre o esquerdo, de forma a que os dois joelhos estejam empilhados em frente ao seu umbigo e esteja sentado/a entre os seus calcanhares. Alongue a coluna enquanto estica os braços ao lado das orelhas. Repita do segundo lado com o joelho esquerdo por cima do direito.";
+
+"exerciseDescription24" = "Sente-se com os joelhos fletidos e os pés fixos no chão à sua frente alinhados com as ancas. Fixe as palmas das mãos atrás de si, alinhadas com os ombros e com os dedos a apontar para a frente. Eleve a pélvis do chão de forma a que os seus joelhos estejam dobrados num ângulo de 90 graus. Alinhe verticalmente os joelhos sobre os tornozelos e os ombros sobre os pulsos. Faça pressão sobre os seus dedos polegar e indicador de cada mão. Para começar, mantenha o pescoço alinhado com a coluna e o nariz apontado para o teto. Se não tiver problemas cervicais, pode deixar a cabeça descair suavemente para trás de forma a que a base da sua cabeça esteja aninhada entre as omoplatas.";
+
+"exerciseDescription25" = "De pé dobre-se para a frente com os pés juntos.  Dobre os joelhos e coloque as palmas das mãos aproximadamente 30 cm à frente dos seus pés, alinhadas com os ombros e com os dedos bem fixos no chão. Eleve os calcanhares do chão para levantar as ancas e encaixar os joelhos na parte de trás dos seus braços, criando com eles uma prateleira. Dobre os cotovelos quase até 90 graus e alinhe-os por cima dos pulsos. Fixe o olhar à frente das suas mãos e lentamente desloque o seu peso para as suas mãos. Assim que os seus ombros se tiverem deslocado ligeiramente para a frente e todo o seu peso estiver sobre as suas mãos, tente levantar um ou os dois pés do chão. Ao longo do tempo, treine apontando os dedos dos pés e trazendo-os para mais perto do rabo.";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = "Deite-se de barriga para baixo e apoie-se nos seus cotovelos de forma a ter os antebraços paralelos entre si e os cotovelos alinhados com a largura dos ombros. Arraste os cotovelos na direção das ancas enquanto puxa o peito para a frente através dos braços. Estique os dedos dos pés e deslize o cóccix na direção dos seus calcanhares.";
+
+"exerciseDescription28" = "Deite-se de barriga para baixo e apoie-se nos seus cotovelos de forma a ter os antebraços paralelos entre si e os cotovelos alinhados com a largura dos ombros. Usando os dedos dos pés, levante as coxas e a pélvis do chão. Alinhe os ombros acima dos cotovelos e levante a barriga na direção do fundo das costas. Contraia os músculos da frente das coxas e puxe o osso púbico na direção do umbigo para evitar que as suas ancas subam.";
+
+"exerciseDescription29" = "Comece de gatas em posição de mesa com os pulsos por baixo dos ombros e os dedos das mãos afastados. Coloque os pés atrás em posição de prancha – uma flexão de braços subida com contração de pernas e barriga. A partir dessa posição, eleve as ancas e empurre o peito contra as pernas enquanto estica os calcanhares na direção do chão. Empurre o chão com as mãos para trazer a parte superior do corpo para junto das pernas. Fixe firmemente com os dedos polegares e indicadores de cada mão e alinhe os pés pela distância das ancas, com os calcanhares centrados em relação aos dedos dos pés.";
+
+"exerciseDescription30" = "Comece de gatas em posição de mesa com os pulsos por baixo dos ombros e os dedos das mãos afastados. Coloque os pés atrás em posição de prancha – uma flexão de braços subida com contração de pernas e barriga. A partir dessa posição, eleve as ancas e empurre o peito contra as pernas enquanto estica os calcanhares na direção do chão. Empurre o chão com as mãos para trazer a parte superior do corpo para junto das pernas. Fixe firmemente com os dedos polegares e indicadores de cada mão e alinhe os pés pela distância das ancas, com os calcanhares centrados em relação aos dedos dos pés. \n\n Mantenha a palma da mão esquerda fixa no chão enquanto estica o braço direito pelo espaço entre as pernas para agarrar a parte de trás do seu tornozelo ou perna esquerda. Continue a esticar na direção da parte exterior de trás da anca e empurre o chão com a palma da mão esquerda. Repita do segundo lado.";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = "Sente-se com os joelhos dobrados para fora e os pés em frente ao osso púbico, o pé esquerdo em frente ao direito. Dobre os cotovelos e prenda o cotovelo direito por baixo do esquerdo. Cruze nos pulsos para que as palmas fiquem viradas uma para a outra. Levante os cotovelos e empurre as palmas para a frente. Repita do segundo lado com o pé direito à frente e o cotovelo esquerdo por baixo.";
+
+"exerciseDescription33" = "De pé com os pés juntos, levante o calcanhar direito do chão. Dobre os cotovelos e prenda o cotovelo direito por baixo do esquerdo. Cruze nos pulsos para que as palmas fiquem viradas uma para a outra. Levante os cotovelos e empurre as palmas para a frente. \n\n Dobre o joelho esquerdo e cruze o joelho direito por cima do esquerdo, equilibrando-se sobre a perna esquerda e prendendo o dedo grande do pé direito no lado de dentro do tornozelo esquerdo. Enquanto puxa a parte exterior das ancas para trás, mantenha o peito elevado e continue a levantar os cotovelos.";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = "Sente-se confortavelmente de pernas cruzadas com as palmas das mãos pousadas nos joelhos com as palmas para baixo. Ao inspirar, alongue a coluna. Ao expirar, torça para a esquerda, trazendo os dedos da mão esquerda para o chão atrás de si e colocando a palma da mão direita sobre o seu joelho esquerdo. Inspire e volte ao centro e ao expirar, torça para a direita, colocando os dedos da mão direita no chão atrás de si e repousando a mão esquerda sobre o seu joelho direito.";
+
+"exerciseDescription36" = "Sente-se confortavelmente de pernas cruzadas.  Coloque as palmas das mãos no chão à sua frente e caminhe com elas para a frente até ter os braços esticados. Se a sua testa não chegar ao chão, mantenha-a apoiada num cobertor ou toalha dobrada para que o pescoço não esteja em esforço. Repita com a perna oposta por cima.";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = "Comece de gatas em posição de mesa. Mantenha as ancas por cima dos joelhos e as mãos à largura dos ombros enquanto caminha com elas para a frente até onde lhes for possível. Deixe o peito repousar em direção ao chão.";
+
+"exerciseDescription39" = "Assuma uma postura de pernas abertas com os pés paralelos entre si. Vire o pé direito para fora a 90 graus e dobre o joelho direito num ângulo de 90 graus de forma a que o topo da sua coxa direita fique paralelo ao chão. Mantenha o joelho direito por cima do tornozelo e a perna esquerda esticada com os dedos do pé ligeiramente virados para dentro. Alongue o lado direito do tronco para cima da sua coxa direita e passe o seu braço direito pela dobra da perna direita. \n\n Passe o braço direito por baixo da coxa, dobre o cotovelo e estenda a mão em direção à parte exterior da sua anca direita. Dobre o cotovelo esquerdo atrás das costas e estenda a mão esquerda em direção à parte exterior da sua anca direita. Use a mão direita para agarrar o pulso esquerdo (se não chegar ao pulso, tente agarrar as pontas dos dedos das duas mãos.) \n\n Quando os seus braços estiverem unidos à volta da sua perna direita, coloque a anca direita debaixo de si e incline-se para trás para que o lado direito do seu tronco fique acima da sua coxa. Alongue o pescoço à medida que afasta o topo da cabeça do seu pé esquerdo. Faça pressão com o pé esquerdo no chão e mantenha o joelho direito centrado em relação aos seus dedos do pé. \n\n Repita do lado esquerdo, unindo os braços em torno da perna esquerda para que as mãos se juntem no lado exterior da anca esquerda.";
+
+"exerciseDescription40" = "Coloque-se numa posição de pernas abertas com os pés paralelos entre si. Vire o pé direito para fora a 90 graus e dobre o seu joelho direito num ângulo de 90 graus de forma a que o topo da sua coxa direita fique paralelo ao chão. Mantenha o joelho direito alinhado sobre o tornozelo direito e a perna esquerda esticada. Alongue o lado direito do tronco para cima da coxa direita e repouse ligeiramente o seu cotovelo direito sobre a coxa direita com a palma da mão virada para cima. Estique o braço esquerdo junto à orelha esquerda e vire o umbigo na direção contrária à do pé direito ao mesmo tempo que olha para a sua mão esquerda. Exerça pressão sobre o pé esquerdo no chão e mantenha o joelho direito centrado em relação aos dedos do pé. Repita para o lado esquerdo.";
+
+"exerciseDescription41" = "Coloque-se numa posição de pernas abertas com os pés paralelos entre si. Vire o pé direito para fora a 90 graus e dobre o seu joelho direito num ângulo de 90 graus de forma a que o topo da sua coxa direita fique paralelo ao chão. Mantenha o joelho direito alinhado sobre o tornozelo direito e a perna esquerda esticada e a perna esquerda esticada com os dedos do pé ligeiramente virados para dentro. \n\n Alongue o lado direito do tronco para cima da coxa direita e coloque a palma da mão direita no chão no lado interior do seu pé direito, de forma a que o seu ombro fique alinhado por cima do seu pulso. Estique o braço esquerdo em direção ao céu e olhe para a palma da mão esquerda lá em cima. Exerça pressão sobre o pé esquerdo no chão e mantenha o joelho direito centrado em relação aos dedos do pé. Repita para o lado esquerdo.";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = "Sente-se e dobre o joelho esquerdo de forma a que o lado exterior do seu pé fique no chão e a sua canela fique paralela à frente do seu tapete. Dobre o joelho direito da mesma forma e coloque a canela direita sobre a esquerda de forma a que o joelho direito fique sobre o tornozelo esquerdo e o tornozelo direito fique sobre o joelho esquerdo. Dobre-se lentamente para a frente até onde puder. Repita com a canela esquerda por cima.";
+
+"exerciseDescription44" = "Deite-se de costas com os braços ao longo do corpo, palmas das mãos viradas para baixo. Levante o peito em direção ao teto e pendure a cabeça para trás de forma a que o topo da cabeça repouse ligeiramente no chão. Levante as pernas a um ângulo de 45 graus em relação ao chão.";
+
+"exerciseDescription45" = "Ajoelhe-se com as ancas por cima dos joelhos, canelas paralelas entre si e peitos dos pés no chão. Coloque o pé direito para fora e para a direita de forma a que a perna fique esticada e os dedos dos pés apontem para a direita e na direção do chão. Coloque a palma da mão direita sobre a coxa direita e estique o braço esquerdo junto à orelha esquerda. Enquanto se curva para a direita, deslize a sua mão direita na direção do tornozelo direito. Repita para o lado esquerdo.";
+
+"exerciseDescription46" = "De pé, afaste os pés na distância equivalente a pelo menos o comprimento de uma perna. Vire os dedos dos pés para fora enquanto dobra os joelhos e os coloca por cima dos tornozelos. Pressione o lado de dentro dos joelhos na direção dos dedos mindinhos de cada pé e dobre os cotovelos para fora e para cima, fazendo uma forma de cato com os seus braços.";
+
+"exerciseDescription47" = "Comece de gatas com os dedos das mãos abertos, pulsos debaixo dos ombros e joelhos debaixo das ancas. Faça pressão sobre os dedos e sobre o peito do pé esquerdo à medida que faz flutuar a sua perna direita do chão e a estica atrás de si. Eleve a barriga e as costelas frontais na direção das costas. Repita com a perna direita no chão e a perna esquerda elevada.";
+
+"exerciseDescription48" = "De joelhos com as canelas paralelas entre si e os peitos dos pés no chão, coloque as ancas alinhadas sobre os joelhos e os ombros alinhados sobre as ancas. Eleve o peito na direção do teto e mantenha as ancas sobre os joelhos à medida que se dobra para trás para agarrar nos calcanhares. \n\n Mantenha a mão esquerda no calcanhar esquerdo enquanto inspira e estique o seu braço direito em direção ao céu. Expire enquanto torce o peito para o lado esquerdo. Depois volte a colocar a mão direita no calcanhar direito e vire o peito em direção ao céu. \n\n Inspire e estique o braço esquerdo m direção ao céu. À medida que expira, torça o peito para a direita. Volte a colocar as duas mãos nos calcanhares e curve o peito em direção ao teto antes de se sentar sobre os calcanhares com as mãos sobre as coxas para se soltar da postura.";
+
+"exerciseDescription49" = "Deite-se de barriga para baixo e apoie-se nos cotovelos de forma a que os seus antebraços fiquem paralelos entre si e os cotovelos estejam à mesma distância que os ombros. Desloque a sua mão esquerda para a direita, com a palma virada para baixo, de forma a que o seu antebraço esquerdo fique paralelo ao topo do seu tapete. Dobre o joelho esquerdo e agarre na ponta do seu pé direito com a sua mão direita, puxando o seu calcanhar direito na direção do exterior da sua anca. Mantenha a palma da mão na ponta do pé enquanto gira os dedos da mão direita para a direita e os aponta na direção do seu calcanhar direito. Dobre o cotovelo direito para a direita enquanto volta o seu peito para a frente. Repita do lado esquerdo.";
+
+"exerciseDescription50" = "Deite-se de barriga para baixo com o queixo no chão e os braços ao longo do corpo, com as palmas das mãos viradas para baixo. Coloque os seus braços juntos debaixo do seu tronco e una as suas mãos. Levante ambas as pernas do chão e estique os dedos dos pés. \n\n Liberte ambas as pernas para o chão e solte as mãos, virando as palmas para baixo. Levante a perna direita no ar. Baixe a perna direita e levante a perna esquerda. Pouse a perna esquerda no chão.";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = "De pé com os pés juntos, desloque o seu peso para o pé esquerdo, trazendo o joelho direito para junto do peito. Segure na parte de fora do seu pé direito com a mão esquerda e coloque-o na dobra da anca esquerda. Estique ambos os braços junto às orelhas. Repita mantendo-se sobre a perna direita com o joelho esquerdo dobrado e parte de fora do pé esquerdo na dobra da anca direita.";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = "Sente-se com as pernas estendidas à sua frente. Dobre o joelho esquerdo e coloque o seu pé esquerdo junto ao exterior da perna direita. Coloque a palma da mão esquerda no chão atrás de si. Inspire enquanto levanta o braço direito junto à orelha e alonga a coluna. Expire à medida que torce para a esquerda e prenda o seu cotovelo direito no lado exterior da sua coxa esquerda. Repita com o joelho direito dobrado, torcendo para a direita.";
+
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = "Deite-se de costas, dobre os joelhos e agarre a parte exterior dos seus pés. Faça pressão com as mãos nos pés para trazer os seus joelhos para mais perto das axilas e alongar o interior das coxas. Mantenha o fundo das costas apoiado no chão tanto quanto possível.";
+
+"exerciseDescription61" = "Sente-se entre os calcanhares com os joelhos juntos e peitos dos pés no chão. Coloque o pé direito no chão à sua frente e entrelace os dedos das mãos sob o arco do seu pé direito. Estique a perna direita no ar enquanto alonga a coluna e eleva o peito na direção do cimo do seu pé direito.";
+
+"exerciseDescription62" = "Comece em posição de corredor com o pé esquerdo à frente. Certifique-se de que o seu joelho esquerdo está dobrado num ângulo de 90 graus e alinhado por cima do seu tornozelo e a sua perna direita está esticada atrás de si com a parte anterior da planta do pé no chão. Levante a barriga da sua coxa esquerda e una as palmas das mãos em oração à frente do peito. Inspire enquanto alonga a coluna e expire à medida que torce para a esquerda, prendendo o cotovelo direito do lado de fora do seu joelho esquerdo. Faça pressão na sua palma esquerda contra a direita, olhe por cima do seu ombro esquerdo e empurre o seu calcanhar direito na direção do céu. Repita com a perna direita na frente, torcendo para a direita.";
+
+"exerciseDescription63" = "Coloque-se em posição de corredor com o joelho direito dobrado num ângulo de 90 graus e alinhado sobre o seu tornozelo  e perna esquerda esticada atrás de si com a parte anterior da planta do pé esquerdo no chão. Levante os ombros e, com as mãos nas ancas, conduza a anca direita para trás e ajuste a anca esquerda para a frente. Estique os braços junto às orelhas. Repita com a perna esquerda para a frente.";
+
+"exerciseDescription64" = "Coloque-se em posição de corredor com o joelho direito dobrado num ângulo de 90 graus e alinhado sobre o tornozelo e perna esquerda esticada atrás de si com a parte anterior da planta do pé no chão. Levante os ombros alinhando-os com as ancas e entrelace os dedos das mãos atrás das costas. Dobre-se para a frente pelo interior da sua perna direita, soltando o topo da cabeça em direção ao chão e afaste as mãos do fundo das costas. Abrace a anca direita enquanto empurra o calcanhar esquerdo na direção do teto. Repita com a perna esquerda à frente e o entrelaçar oposto dos dedos das mãos (ou seja, dedo indicador e polegar oposto por cima).";
+
+"exerciseDescription65" = "Deite-se de barriga para baixo e coloque as palmas das mãos de cada lado do peito. Faça pressão nas mãos para elevar a parte superior do corpo do chão. Dobre os joelhos, estique os dedos dos pés e curve o peito para cima enquanto estica os pés e o topo da cabeça na direção um do outro.";
+
+"exerciseDescription66" = "De pé com os pés juntos, estique o braço direito para a frente à altura do ombro. Desloque o seu peso para o pé direito enquanto dobra o joelho esquerdo, levanta o pé esquerdo em direção à nádega esquerda e agarra a parte interior do seu pé esquerdo com a mão esquerda. Desloque a coxa esquerda para trás à medida que traz o peito para a frente, alinhando o joelho esquerdo com o centro do seu corpo. Levante o braço direito em direção ao teto e eleve o peito em relação à coxa esquerda. Repita ficando sobre a perna esquerda.";
+
+"exerciseDescription67" = "Deite-se de costas com as pernas esticadas no chão. Puxe o joelho esquerdo para o peito e entrelace os dedos das mãos por fora da perna. Repita com a perna esquerda estendida e o joelho direito dobrado.";
+
+"exerciseDescription68" = "Comece de gatas com os pulsos debaixo dos ombros, os joelhos debaixo das ancas e os dedos dos pés apoiados no chão. Ao inspirar, arqueie as costas. Ao expirar, mantenha o rabo levantado, dobre os cotovelos e pouse o peito e o queixo no chão. Como pose contrária, pode deitar-se de costas e abraçar os joelhos junto ao peito para aliviar o fundo das costas.";
+
+"exerciseDescription69" = "Comece em pose de corredor com o pé direito à frente e dedos das mãos a enquadrar o pé direito no chão. Certifique-se de que o seu joelho direito está dobrado num ângulo de 90 graus e alinhado por cima do seu tornozelo. Baixe o joelho esquerdo e coloque o peito do pé esquerdo no chão. Coloque a palma da mão direita junto ao lado interior do pé direito e baixe ambos os cotovelos até ao chão de forma a que estejam alinhados com o seu calcanhar direito, com os antebraços paralelos entre si. Puxe o joelho direito na direção do ombro direito, alongue a coluna e estique o peito e o topo da cabeça para a frente. Repita para o lado esquerdo.";
+
+"exerciseDescription70" = "Deite-se de barriga para baixo com os braços ao longo do corpo. Levante os braços do chão, vire as palmas das mãos para cima e estique os polegares para trás. Levante o peito, a cabeça e as pernas do chão. Estique os dedos dos pés e aponte-os para trás.";
+
+"exerciseDescription71" = "Comece na posição de corredor com o pé direito à frente e os dedos das mãos a enquadrar o pé direito no chão. Certifique-se de que o joelho direito está dobrado num ângulo de 90 graus e alinhado por cima do seu tornozelo. Baixe o joelho esquerdo e coloque o peito do pé esquerdo no chão. Coloque as mãos na sua coxa direita enquanto levanta o peito e alinha os ombros por cima das ancas. \n\n Ao inspirar, alongue a coluna e torça para a direita, colocando a palma da mão esquerda na parte de fora do joelho direito e deslizando a mão direita para a parte de trás da coxa esquerda. Para completar a torção, olhe por cima do seu ombro direito. \n\n Repita para o lado esquerdo.";
+
+"exerciseDescription72" = "Comece em posição de corredor com o pé direito à frente e o joelho direito alinhado por cima do tornozelo direito. Baixe o joelho esquerdo até ao chão atrás de si e coloque o peito do pé esquerdo no chão. Nivele as suas ancas deslizando a sua anca direita para trás e aninhando a anca esquerda à frente na direção do interior da coxa direita. Estique os braços junto às orelhas e eleve a barriga afastando-a da coxa direita, curvando o peito em direção ao céu. Olhe para cima por entre as palmas das suas mãos.";
+
+"exerciseDescription73" = "Comece de gatas em posição de mesa. Coloque o joelho esquerdo atrás do pulso esquerdo e coloque a parte exterior do seu pé esquerdo atrás do pulso direito. Estique a perna direita para trás com os dedos dos pés encolhidos e arraste a perna direita o mais para trás possível antes de colocar o joelho direito e o peito do pé no chão. Levante os ombros acima das ancas e coloque a parte exterior do seu pé esquerdo em frente à sua anca direita. Dobre o joelho direito e, agarrando no pé direito com a mão direita, traga o pé para o lado de fora da sua anca direita. Encaixe o pé na obra o seu cotovelo direito. Estique o braço esquerdo junto à orelha e dobre o cotovelo esquerdo de forma a que os dedos da mão apontem para o chão. Engate os dedos das duas mãos enquanto levanta o peito.";
+
+"exerciseDescription74" = "Deite-se de costas com os braços ao longo do corpo e plantas dos pés no chão alinhadas com as ancas. As partes exteriores dos seus pés devem estar paralelas entre si e os seus dedos das mãos devem tocar nos calcanhares. Dobre os cotovelos e coloque as palmas das mãos no chão acima dos ombros. Levante a pélvis, o peito e a cabeça do chão. Rode internamente as suas coxas de forma a que a parte exterior das coxas passe a ser a interior. Estique o peito através dos braços. \n\n Una os pés e, deslocando o seu peso para o pé esquerdo, dobre o joelho direito em direção ao peito. Estique a perna direita no ar. Volte a apoiar o pé direito no chão e repita com elevação da perna esquerda.";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = "Comece de gatas em posição de mesa. Coloque o joelho esquerdo atrás do pulso esquerdo e coloque o pé esquerdo atrás do seu pulso direito. Estique a perna direita para trás com os dedos dos pés encolhidos e puxe a perna direita tão para trás quanto possível antes de colocar o joelho direito e o peito do pé no chão. Levante os ombros em cima das ancas, coloque o pé esquerdo em frente à sua anca direita e pouse as mãos ao lado do corpo enquanto levanta a parte de trás da sua coluna. Repita com o joelho direito dobrado à frente.";
+
+"exerciseDescription77" = "Posicione-se em pés com os pés juntos. Coloque o pé esquerdo para trás à distância aproximada do comprimento da perna e coloque esse pé num ângulo de 30 graus para fora e para a esquerda. Inspire enquanto exerce pressão sobre o calcanhar esquerdo e alonga a coluna. Expire à medida que se dobra sobre a sua perna direita, enquadrando o pé direito com as suas mãos. Repita com o pé esquerdo à frente.";
+
+"exerciseDescription78" = "Comece de gatas em posição de mesa. Coloque o joelho direito diretamente à frente da sua anca direita e o pé direito atrás do pulso esquerdo, tão perto do pulso quanto possível, ao mesmo tempo que mantém o seu peso centrado entre os seus dois lados. Estique a perna esquerda para trás com os dedos dos pés encolhidos e puxe essa perna tão para trás quanto possível antes de colocar o joelho esquerdo e o peito do pé esquerdo no chão. Certifique-se de que o seu dedo grande do pé esquerdo aponta para trás e que o seu peso permanece centrado (ou seja, não se incline para o seu lado direito) antes de se dobrar sobre a sua canela direita. Repita com o joelho esquerdo à frente.";
+
+"exerciseDescription79" = "Sente-se com as pernas esticadas à sua frente. Dobre o joelho direito e coloque a parte exterior do seu pé na dobra da anca esquerda. Dobre o joelho esquerdo e cruze a canela esquerda sobre a direita para colocar o seu pé esquerdo na dobra da anca direita. (Se esta posição não lhe for acessível, NÃO arrisque a saúde dos seus joelhos a tentar forçá-la. Em vez disso, simplesmente cruze o tornozelo esquerdo sobre o direito). \n\n Plante as palmas das mãos no chão do lado de fora das suas coxas, alguns centímetros à frente das suas ancas. Ao expirar, puxe o umbigo em direção à coluna, faça pressão sobre os dedos e eleve a sua pélvis e as coxas do chão. Repita com a canela direita ou o tornozelo direito por cima do esquerdo.";
+
+"exerciseDescription80" = "Deite-se de costas com os braços ao longo do corpo e as plantas dos pés assentes no chão alinhadas com a distância das ancas. Os lados de fora dos seus pés devem ficar paralelos entre si e os seus dedos das mãos devem tocar nas pontas dos seus calcanhares. Eleve a pélvis do chão e junte os braços debaixo de si, entrelaçando os dedos no chão. Faça pressão sobre os braços para elevar o peito. \n\n Junte os pés, puxe o joelho direito em direção ao peito e estique a perna direita para cima. Coloque novamente o pé direito no chão e repita com a perna esquerda levantada.";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = "De pé, afaste os pés à distância das ancas. Entrelace os dedos das mãos à sua frente, vire as palmas para fora e estique os braços junto às orelhas com as palmas viradas para o teto. Repita com a posição das mãos invertida (isto é, com o outro dedo indicador e polegar por cima).";
+
+"exerciseDescription83" = "Comece de gatas em posição de mesa. Mantendo os ombros por cima dos pulsos, caminhe com os pés para trás de forma a ficar numa posição elevada de flexão de braços. Apenas as suas mãos e a parte anterior das plantas dos pés devem tocar no chão. Faça pressão sobre os dedos, eleve a barriga na direção do fundo das costas e estique os calcanhares na direção do céu. Puxe o topo da cabeça para a frente para alongar o pescoço. Cuidado para não espetar as ancas para cima; em vez disso, eleve o osso púbico na direção do umbigo.";
+
+"exerciseDescription84" = "Deite-se de costas com as pernas estendidas, calcanhares no chão e dedos dos pés esticados na direção do teto. Puxe o joelho esquerdo na direção do peito e passe o braço esquerdo pelo lado de dentro da perna esquerda, segurando com os três primeiros dedos da mão esquerda o dedo grande do pé esquerdo na posição de \"polegar no pé iogue\". Mantenha a nádega direita ancorada e faça pressão com a coxa direita na direção do chão à medida que estica a perna esquerda para fora e para a esquerda. Repita segurando o dedo grande do pé direito.";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = "Comece de gatas em posição de mesa. Mantenha os ombros por cima dos pulsos, levante a perna direita do chão e dobre o joelho direito como se tentasse colocar o pé no teto. Estique a mão esquerda para trás para agarrar o peito do pé direito. Pressione o pé contra a mão à medida que eleva o peito. Repita do outro lado.";
+
+"exerciseDescription87" = "Assuma uma postura de pernas abertas com os pés paralelos entre si. Vire o pé direito para fora a 90 graus e dobre o seu joelho direito num ângulo de 90 graus de forma a que o cimo da sua coxa direita fique paralelo ao chão. Mantenha o joelho direito alinhado por cima do tornozelo direito e a perna esquerda esticada, com os dedos do pé esquerdo ligeiramente virados para dentro. Pouse ligeiramente a palma da mão esquerda na coxa esquerda e estique o braço direito junto à orelha direita. À medida que se dobra lateralmente na direção da perna esquerda, permita que a sua mão esquerda deslize pela perna abaixo. Alinhe a anca direita debaixo de si à medida que pressiona gentilmente o joelho direito na direção do dedo mindinho. Repita para o lado esquerdo.";
+
+"exerciseDescription88" = "De pé em estiramento posterior, empurre o peito para a frente e coloque os dedos das mãos no chão mesmo por baixo dos ombros. Desloque o seu peso para o pé esquerdo e, mantendo as ancas niveladas, estique a sua perna direita para trás. Ancore a palma da sua mão direita à medida que torce o seu peito para a esquerda e estica o braço esquerdo em direção ao céu. Olhe para cima para a sua mão esquerda.";
+
+"exerciseDescription89" = "Sente-se com as pernas esticadas á sua frente. Coloque a planta do pé esquerdo contra o interior da sua coxa direita. Flita o pé direito e, ao inspirar, estique os braços junto às orelhas. Ao expirar, dobre-se sobre a perna direita, dobrando-se pelas ancas e não pela cintura. Cuidado para não curvar o fundo das costas. Repita com a perna esquerda esticada e o joelho direito dobrado.";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = "Sente-se com as pernas esticadas à sua frente. Coloque a planta do pé direito contra o interior da sua coxa esquerda. Torça o tronco para a direita, coloque o cotovelo esquerdo no chão junto ao interior do seu joelho esquerdo e agarre na parte de dentro do seu pé esquerdo com a mão direita. Estique o braço direito junto à orelha e segure o peito do pé esquerdo com a mão direita. Ancore a nádega direita no chão à medida que roda o tronco em direção ao céu. Repita com o joelho esquerdo dobrado e a perna direita esticada, dobrando-se sobre a perna direita.";
+
+"exerciseDescription93" = "De pé com os pés juntos, coloque o seu pé direito atrás à distância aproximada do comprimento de uma perna e coloque esse pé num ângulo de 30 graus para fora e para a esquerda. Coloque as mãos nas ancas e inspire à medida que alonga a coluna e inclina o peito para a frente até ficar paralelo ao chão. Expire enquanto torce para a esquerda, apoiando a palma da mão direita do lado de fora do pé esquerdo e esticando o braço esquerdo na direção do teto. Repita com a perna direita para a frente, torcendo para o lado direito.";
+
+"exerciseDescription94" = "A partir da posição de pé dobrada para a frente, dobre os joelhos e apoie os dedos das mãos no chão de cada lado dos pés. Coloque o pé esquerdo atrás, mantendo o joelho direito dobrado num ângulo de 90 graus e centrado sobre o tornozelo direito. Puxe o peito para a frente e pressione o calcanhar esquerdo para cima em direção ao teto. Repita com o joelho esquerdo para a frente.";
+
+"exerciseDescription95" = "De pé, coloque os pés à distância das ancas. Coloque a mão esquerda na cintura, desloque o seu peso para o pé direito e levante o joelho esquerdo na direção do seu peito. Passe os três primeiros dedos da sua mão direita em torno do seu dedo grande do pé esquerdo e estique a perna esquerda para a direita enquanto vira o seu tronco para a esquerda.";
+
+"exerciseDescription96" = "Deite-se de costas com os braços esticados para cada lado em forma de \"T\". Abrace os joelhos junto ao peito e, mantendo-os juntos, deixe-os descair para a esquerda e olhe para a direita. Traga os joelhos de novo para o centro e a parte de trás da cabeça para o chão antes de descair os joelhos para a direita e olhar para a esquerda.";
+
+"exerciseDescription97" = "Deite-se de costas, una as plantas dos pés e deixe os joelhos descair cada um para o seu lado. Segure os cotovelos acima da sua cabeça.";
+
+"exerciseDescription98" = "Deite-se de costas com as pernas esticadas, calcanhares no chão e dedos dos pés apontados para o teto. Puxe o joelho esquerdo na direção do seu peito e passe o seu braço esquerdo pela dobra da perna esquerda, agarrando com os três primeiros dedos da mão esquerda o dedo grande do pé esquerdo. Mantenha a nádega direita ancorada e pressione a coxa direita na direção do chão enquanto estica a perna esquerda. Puxe a coxa esquerda na direção da sua barriga. Repita para o lado direito.";
+
+"exerciseDescription99" = "Sente-se com as pernas esticadas à sua frente, calcanhares no chão e dedos dos pés apontados para o teto. Ao inspirar, levante os braços junto às orelhas e alongue e coluna. Ao expirar, dobre-se para a frente pela anca e pouse a barriga nas coxas. Agarre os pés e, se tiver alcance suficiente, dobre os cotovelos para fora para conseguir aprofundar o estiramento.";
+
+"exerciseDescription100" = "Em pé com o corpo bem esticado, una os pés e coloque as mãos na cintura. Aponte os dedos do pé direito para a frente à medida que estica a perna direita para a frente e a levanta o mais alto possível sem mover as ancas. Pouse novamente o pé direito, desloque o seu peso para o esse pé e repita com a perna esquerda estendida para a frente.";
+
+"exerciseDescription101" = "Comece em posição de prancha – uma pose de flexão de braços elevada com os braços esticados, os ombros alinhados sobre os pulsos e os calcanhares puxados para cima em direção ao céu. Deslocando o seu peso para o lado direito, rode para o lado de fora do pé direito. Coloque o pé esquerdo sobre o direito e o ombro esquerdo alinhado sobre o direito. Estique o braço esquerdo para o céu. Dobre os dedos dos pés na direção da sua cabeça e pressione firmemente os dedos da mão direita, sobretudo o dedo indicador e polegar. \n\n Dobre o joelho esquerdo na direção do ombro esquerdo e passe os três primeiros dedos da sua mão esquerda em torno do dedo grande do pé esquerdo em posição de \"polegar no pé iogue.\" Estique a perna esquerda em direção ao céu e mantenha a anca esquerda alinhada sobre a direita. \n\n Repita para o lado esquerdo com a perna direita esticada.";
+
+"exerciseDescription102" = "Sente-se confortavelmente de pernas cruzadas com a perna esquerda por cima. Estique os braços junto às orelhas e dobre ambos os cotovelos de forma a que os dedos das mãos apontem para o fundo das suas costas. Segure no cotovelo direito com a sua mão esquerda e puxe-o suavemente para a esquerda, pressionando a parte de trás da sua cabeça contra o seu braço direito. Depois estique o braço esquerdo para a esquerda e vire o polegar para baixo, rodando internamente o braço esquerdo. Dobre o cotovelo esquerdo atrás de si de forma a que os dedos da mão esquerda apontem para o cimo das suas costas e o cotovelo aponte para baixo. Se possível, una as mãos com os dedos em forma de garra. \n\n Repita com a perna direita por cima e o braço esquerdo em cima.";
+
+"exerciseDescription103" = "Sente-se confortavelmente de pernas cruzadas com a perna esquerda por cima. Apoie o antebraço direito do seu lado direito com os dedos da mão a apontar para a direita. Mantenha a sua nádega esquerda ancorada no chão à medida que estica o braço esquerdo junto à orelha esquerda. \n\n Repita com a perna direita por cima e o braço direito esticado junto à orelha direita.";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = "De pé, coloque os pés a uma distância não superior à das ancas. Inspire ao esticar os braços junto às orelhas. Ao expirar, curve o peito para cima em direção ao céu e incline-se para trás. Mantenha o lado de dentro dos seus pés bem ancorado e eleve o lado de dentro das coxas em direção ao espaço atrás de si. Com cada inspiração subsequente, alongue a frente da coluna e com cada expiração subsequente, puxe as costelas da frente na direção das suas costas. À medida que o seu peito se curva, pressione a pélvis em direção ao chão.";
+
+"exerciseDescription106" = "Comece de pé com os pés juntos. Desloque o seu peso para o pé esquerdo à medida que puxa o joelho direito na direção do peito. Estique o braço direito e agarre com os três primeiros dedos o dedo grande do pé em posição de \"polegar no pé iogue.\" Mantendo as ancas niveladas, estique a perna direita a cerca de 45 graus para a direita. \n\n Repita ficando sobre a perna direita com a esquerda estendida.";
+
+"exerciseDescription107" = "Deite-se de barriga para baixo com a testa no chão e entrelace os dedos das mãos atrás das costas. Estique os dedos dos pés e eleve o peito e a testa do chão. Levante as mãos entrelaçadas e estique-as para trás. Afaste o queixo do peito e fixe o olhar na ponta do seu nariz. \n\n Repita com o entrelaçado oposto das mãos (ou seja, o dedo indicador e polegar oposto por cima).";
+
+"exerciseDescription108" = "Sente-se com as costas bem direitas e as pernas estendidas à sua frente, os calcanhares bem ancorados e os pés dobrados para trás. Coloque os cotovelos debaixo dos ombros e repouse as mãos com as palmas para baixo ao lado do corpo. Inspire à medida que alonga a coluna e expire puxando o umbigo em direção à sua coluna.";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "Comece em posição de mesa sobre quatro apoios com os pulsos alinhados debaixo dos ombros e os joelhos sob as ancas. Coloque o pé esquerdo atrás e ancore o seu calcanhar de forma a que os dedos apontem para a esquerda. Gire o pé direito atrás de si de forma a que o peito do pé fique pousado no chão e os dedos apontem para a direita. Alinhe o ombro esquerdo em cima do ombro direito à medida que estica o braço esquerdo na direção do céu. Repita com a perna direita esticada e a canela esquerda apoiada no chão.";
+
+"exerciseDescription111" = "De pé, coloque os pés a uma distância equivalente ao comprimento de uma perna com os dedos dos pés ligeiramente virados para dentro. Dobrando-se pelas ancas, incline o peito para a frente em direção ao chão e plante as palmas das mãos no chão debaixo dos ombros. À medida que liberta o topo da cabeça em direção ao chão, baixe os cotovelos em direção ao chão e tente mantê-los à mesma distância que os ombros.";
+
+"exerciseDescription112" = "De pé, coloque os pés a uma distância um pouco maior que a das ancas com os dedos virados para fora. Dobre os joelhos e baixe o rabo em direção ao chão por entre os calcanhares. Una as palmas das mãos em frente ao peito em posição de oração e coloque os cotovelos contra o interior das suas coxas. Pressione os cotovelos contra o interior das coxas enquanto as coxas fazem também pressão contra os cotovelos. Alongue a coluna de forma a que o topo da cabeça se eleve e o cóccix desça. Eventualmente, conseguirá colocar os lados de fora dos pés paralelos entre si.";
+
+"exerciseDescription113" = "Sente-se com as pernas esticadas para cada lado e os dedos dos pés esticados a apontar para cima. Inspire à medida que alonga a coluna e expire à medida que se dobra para a frente pelas ancas e caminhe com as mãos para a frente. Mantenha os centros dos calcanhares ancorados no chão e o pavimento pélvico a inclinar-se para a frente à medida que se dobra.";
+
+"exerciseDescription114" = "De pé, coloque os pés a uma distância equivalente ao comprimento de uma perna com os dedos dos pés ligeiramente virados para dentro. Entrelace os dedos atrás de si. Dobre-se para a frente pelas ancas, soltando o topo da cabeça em direção ao chão entre os seus pés e esticando as mãos unidas em direção ao chão. \n\n Repita entrelaçando as mãos de forma oposta (isto é, dedo indicador e polegar oposto por cima).";
+
+"exerciseDescription115" = "Sente-se com as pernas esticadas para cada lado e os dedos dos pés a apontar para cima. Torça o tronco para a direita, coloque o cotovelo esquerdo no chão do lado de dentro da sua perna esquerda e agarre no lado de dentro do seu pé esquerdo com a mão esquerda. Estique o braço direito junto à orelha e agarre no peito do pé esquerdo com a mão direita. Ancore a nádega direita e a perna direita no chão à medida que roda o peito em direção ao céu. Repita dobrando-se para cima da perna direita.";
+
+"exerciseDescription116" = "De pé, coloque os pés a uma distância um pouco maior que a das ancas com os dedos virados para fora. Dobre os joelhos e baixe o rabo em direção ao chão por entre os calcanhares. Una as palmas das mãos em frente ao peito em posição de oração e coloque os cotovelos contra o interior das suas coxas. \n\n Inspire ao alongar a coluna e expire ao torcer para a esquerda, abrindo os braços. Vire os polegares para baixo para rodar internamente ambos os braços. Dobre o cotovelo esquerdo atrás das costas e dobre o cotovelo direito pelo lado de fora da canela direita. Se possível, una os dedos perto do lado de fora da anca direita. \n\n Repita torcendo para a direita e unindo os braços em torno da perna esquerda.";
+
+"exerciseDescription117" = "Comece de gatas em posição de mesa. Junte os dedos grandes dos pés e separe os joelhos a uma distância maior que a das ancas. Caminhe com as palmas para a frente, repousando o tronco entre as pernas e soltando a testa até ao chão.";
+
+"exerciseDescription118" = "De pé, coloque os pés a uma distância equivalente ao comprimento de uma perna com os dedos dos pés ligeiramente virados para dentro. Dobrando pelas ancas, incline o peito para a frente e plante as palmas das mãos no chão por baixo dos ombros. Ao inspirar, alongue a coluna de forma a que o topo da cabeça se afaste das ancas. Ao expirar, torça para a esquerda e estique o braço esquerdo na direção do céu. \n\n Volte a colocar a palma da mão esquerda no chão por baixo do seu ombro esquerdo. Inspire ao mesmo tempo que alonga a coluna e expire ao mesmo tempo que se torce para a direita, estendendo o braço direito para o céu.";
+
+"exerciseDescription119" = "De pé, coloque os pés a uma distância equivalente ao comprimento de uma perna com os dedos dos pés ligeiramente virados para dentro. Dobrando pelas ancas, incline o peito para a frente e plante as palmas das mãos no chão por baixo dos ombros. Caminhe com as mãos para a direita e agarre a parte de fora do tornozelo direito, trazendo o seu queixo para junto da canela direita. Volte com as mãos ao centro e depois caminhe para a esquerda, agarrando a parte de fora do tornozelo esquerdo, trazendo o seu queixo para junto da canela esquerda.";
+
+"exerciseDescription120" = "Deite-se de costas. Estique o braço esquerdo junto à orelha esquerda ao mesmo tempo que se deita sobre o seu lado esquerdo. Dobre o cotovelo esquerdo e pouse a cabeça na palma da mão esquerda. Dobre o joelho direito na direção do ombro direito e com os três primeiros dedos da sua mão direita agarre o seu dedo grande do pé. Estique a perna direita o máximo que puder, ancorando o seu lado esquerdo e fixando a nádega direita no interior da coxa esquerda. \n\n Repita deitando-se sobre o lado direito, segurando no dedo do pé esquerdo.";
+
+"exerciseDescription121" = "Sente-se com as plantas dos pés unidas em frente à sua pélvis e com os joelhos descaídos para cada lado. Com os três primeiros dedos de cada mão agarre os dedos grandes de cada pé. Incline-se para trás de modo a que o seu peso se desloque para os ossos do rabo. Mantendo a coluna alongada e os joelhos dobrados, separe os pés e levante-os do chão de forma a ficar em equilíbrio sobre os ossos do rabo. Gradualmente estique as pernas, uma para cada lado, enquanto eleva o peito.";
+
+"exerciseDescription122" = "De pé, assuma uma postura de pernas abertas com os pés paralelos um ao outro. Vire o pé direito para fora a 90 graus e dobre o joelho direito num ângulo de 90 graus de modo a que o cimo da sua coxa direita fique paralelo ao chão. Mantenha o joelho direito alinhado sobre o tornozelo direito e a perna esquerda esticada com os dedos dos pés ligeiramente virados para dentro. Mantenho os ombros alinhados sobre as ancas à medida que estica os braços em direções opostas e olha para cima da palma da mão direita. \n\n Repita com o joelho esquerdo dobrado e a perna direita esticada, olhando para cima da palma da mão esquerda.";
+
+"exerciseDescription123" = "De pé, una os dedos grandes dos pés e coloque os pés paralelos um ao outro. Una os dedos indicadores e entrelace todos os outros dedos em frente ao seu peito. Ao inspirar, mantenha as mãos juntas e eleve os braços acima da cabeça. Ao expirar, curve-se para a esquerda. Ancore o calcanhar direito e eleve as suas costelas inferiores esquerdas na direção das costelas superiores direitas. \n\n Numa inspiração, regresse ao centro com as mãos unidas acima da cabeça. Numa expiração, curve-se para a direita.";
+
+"exerciseDescription124" = "Comece na posição de pé dobrada para a frente com os dedos grandes dos pés unidos, pés paralelos entre si e palmas das mãos plantadas no chão por baixo dos ombros. Desloque a maior parte do seu peso para o seu pé direito ao mesmo tempo que coloca o pé esquerdo atrás, repousando ligeiramente o dedo grande esquerdo no chão. Coloque a palma da mão direita contra a canela direita e eleve a perna esquerda na direção do céu. Mantenha a anca esquerda nivelada com a direita, elevando a anca direita o máximo possível ao mesmo tempo que a puxa para o centro. Pressione a palma da mão direita para a frente contra a canela direita para levar o queixo até à canela. \n\n Repita ficando sobre a perna esquerda com a perna direita esticada.";
+
+"exerciseDescription125" = "Comece na posição de pé dobrada para a frente com os dedos grandes dos pés unidos e pés paralelos entre si. Inspire para alongar a coluna, inclinando o peito para a frente e apoiando as pontas dos dedos abertos no chão. Expire ao dobrar-se para a frente, esticando os braços para a parte de fora das suas pernas para agarrar as canelas. Pressione as palmas das mãos contra as canelas para aproximar a testa das canelas. Pressione os calcanhares contra o chão e eleve os ossos do rabo ao mesmo tempo que gira o interior das coxas no sentido da parte de trás das pernas. Cuidado para não curvar o fundo das costas. Em vez disso, dobre-se pelas ancas e cole a barriga ao cimo das coxas.";
+
+"exerciseDescription126" = "Comece de pé com os pés juntos. Desloque o seu peso para o pé esquerdo ao mesmo tempo que puxa o joelho direito em direção ao peito. Passe o braço direito pelo interior da perna direita e com os três primeiros dedos agarre o dedo grande do pé em posição de \"polegar no pé iogue.\" Mantenha-se esticado, pressionando o calcanhar esquerdo contra o chão e elevado o topo da cabeça em direção ao teto. Estique a perna direita à sua frente, tendo o cuidado de fixar o braço direito atrás do corpo para que os ombros continuem alinhados sobre as suas ancas.";
+
+"exerciseDescription127" = "Comece na posição de pé com os dedos grandes dos pés unidos e pés paralelos entre si. Entrelace os dedos das mãos atrás das costas. Inspire para alongar a coluna e expire para se dobrar para a frente pelas ancas, soltando o topo da cabeça em direção ao chão e esticando as mãos unidas em direção ao chão.";
+
+"exerciseDescription128" = "Assuma uma postura de pernas abertas com os pés paralelos entre si, vire o pé direito para fora a 90 graus. Levante o calcanhar esquerdo e, girando sobre a parte anterior da planta do pé esquerdo, gire o calcanhar para a esquerda antes de o fixar no chão. O seu peito e a sua anca esquerda não devem estar virados na mesma direção que o seu pé direito. Coloque as mãos nas ancas e oriente a anca esquerda para a frente e a anca direita para trás. Dobre o joelho direito de forma a que fique alinhado por cima do tornozelo. Estique os braços junto às orelhas e levante o peito. Faça pressão sobre o calcanhar esquerdo ao mesmo tempo que mantém o joelho direito centrado sobre o tornozelo. \n\n Repita com o pé esquerdo para a frente.";
+
+"exerciseDescription129" = "Em pé, una os pés e levante os braços junto às orelhas. Mantenha a perna direita esticada e o peito levantado, coloque o pé esquerdo atrás de modo a que a parte anterior da planta do pé fique ligeiramente apoiada no chão. Lentamente desloque o seu peso para o pé direito, dobre-se para a frente pela dobra da anca direita e incline o peito para a frente enquanto eleva a perna esquerda para trás. Mantenha as ancas unidas e niveladas e pressione a barriga/costelas frontais na direção das costas. \n\n Repita equilibrando-se na perna esquerda com a perna direita esticada atrás de si.";
+
+"exerciseDescription130" = " Comece na posição de pé com os dedos grandes dos pés unidos e pés paralelos entre si. Ao inspirar, levante o braço direito junto à orelha. Ao expirar, curve-se para a esquerda, permitindo à sua mão esquerda deslizar pela parte de fora da sua perna esquerda. Faça pressão sobre o calcanhar direito e eleve o lado esquerdo da sua cintura. \n\n Repita curvando-se para a direita.";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = "Sente-se com as pernas esticadas à sua frente, com as palmas das mãos plantadas atrás de si e dedos virados para a frente. Estique os dedos dos pés, faça pressão sobre os dedos das mãos e eleve as suas ancas do chão. Una as omoplatas e faça-as deslizar mais para baixo nas costas ao elevar o peito. Junte as coxas e fixe os dedos grandes dos pés no chão. Se a sua cervical for saudável, descaia suavemente a cabeça para trás para que a base do crânio repouse sobre as omoplatas.";
+
+"exerciseDescription133" = "Comece de pé com os pés juntos. Desloque o seu peso para o pé direito e puxe o joelho esquerdo em direção ao peito. Segure no arco do pé esquerdo com ambas as mãos. Estique a perna esquerda ao mesmo tempo que se dobra sobre ela, trazendo a testa para junto da canela. \n\n Repita ficando sobre a perna esquerda e segurando no pé direito.";
+
+"exerciseDescription134" = "Comece em posição de pé dobrada para a frente. Dobrando os dois joelhos, plante a mão direita no chão debaixo do peito e coloque a mão esquerda na sua anca esquerda. Inspire ao mesmo tempo que alonga a coluna. Expire torcendo para a esquerda, esticando a perna esquerda e apontando o braço esquerdo para o céu. Mantenha as laterais do pescoço alongadas enquanto olha para cima para a sua mão esquerda. \n\n Volte à posição de pé dobrada para a frente. Dobrando os dois joelhos, plante a mão esquerda no chão debaixo do peito e coloque a mão direita na sua anca direita. Inspire ao mesmo tempo que alonga a coluna. Expire torcendo para a direita, esticando a perna direita e apontando o braço direito para o céu. Mantenha as laterais do pescoço alongadas enquanto olha para cima para a sua mão direita.";
+
+"exerciseDescription135" = "De pé, junte os dedos grandes dos pé e coloque os pés paralelos entre si. Coloque as palmas das mãos nas nádegas com os dedos a apontar para os calcanhares. Ao inspirar, alongue a coluna. Ao expirar, use as mãos para pressionar as nádegas para baixo na direção dos calcanhares e curve o peito para cima em direção ao teto. Una as omoplatas e deslize-as para baixo, puxando os cotovelos um para o outro.";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = "Deite-se de costas com os joelhos dobrados, pés plantados à distância das ancas e os pés paralelos entre si. Estique os braços de cada lado e posicione os pés de modo a que os seus dedos toquem na ponta dos calcanhares. Levante os braços em direção ao teto e flita os pulsos. Dobre os cotovelos e plante as palmas das mãos acima dos ombros com os dedos a apontar para os ombros. Faça pressão sobre a parte interior das suas mãos e dos calcanhares à medida que eleva a pélvis, o peito e a cabeça do chão. Rode a parte de fora das coxas na direção da parte interior e empurre o peito para cima através dos braços. Cuidado para não permitir que os seus pés deslizem para fora do limite da distância das ancas. \n\n Para libertar, traga o queixo para junto do peito e as nádegas para junto dos calcanhares à medida que desce o corpo até ao chão.";
+

@@ -1,0 +1,857 @@
+/* 
+  Localizable.strings
+  Yoga
+
+  Created by Alex Overseer on 4/4/16.
+  Copyright © 2016 SOFTINTERCOM. All rights reserved.
+*/
+
+//INTRO
+"Choose Your Goals" = "Choose Your Goals";
+"Increase Flexibility" = "Increase Flexibility";
+"Get Toned" = "Get Toned";
+"Lose Weight" = "Lose Weight";
+"Reduce Stress" = "Reduce Stress";
+"Continue" = "Continue";
+
+"Enter Your Parameters" = "Enter Your Parameters";
+"Height" = "Height";
+"Current weight" = "Current weight";
+"Target weight" = "Target weight";
+"Pick Your Height" = "Pick Your Height";
+"Pick Your Weight" = "Pick Your Weight";
+"Pick Your Target Weight" = "Pick Your Target Weight";
+"lbs" = "lbs";
+"kg" = "kg";
+"ft, in" = "ft, in"; //feet, inch
+"cm" = "cm"; //centimeter
+"Save" = "Save";
+
+"Join Millions\nof happy users" = "Join Millions of happy users";
+"No Annoying Ads" = "No Annoying Ads";
+"Not sure yet?" = "Not sure yet?";
+"Discount %d%%" = "Discount %d%%"; //example Discount 60%
+"Just Now! Limited Offer!" = "Just Now! Limited Offer!";
+"Join with our best offer" = "Join with our best offer";
+"Weekly plan" = "Weekly plan";
+"Monthly plan" = "Monthly plan";
+
+"Not now" = "Not now";
+"Save %d%%" = "Save %d%%"; //Example: Save 60%
+"year\nBilled annually" = "year\nBilled annually"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "after free 7-day\ntrial period";
+"healthAppPermisionKey" = "App is not allowed to write data to the Health app. You can turn it on in the Health app";
+
+//Buttons keys
+"backButtonKey" = " Back";
+"doneButtonKey" = "Done";
+"editButtonKey" = "Edit";
+"cancelButtonKey" = "Cancel";
+"yesButtonKey" = "Yes";
+"startButtonKey" = "Start";
+"skipButtonKey" = "skip";
+
+//MainScreenViewController
+"posesNameKey" = "Poses";
+"posesDescriptionKey" = "Freedom to practice wherever and whenever you want.";
+
+"classesNameKey" = "Classes";
+"classesDescriptionKey" = "Focus on flexibility, strength, balance. Find your favorite class.";
+
+"moreNameKey" = "More";
+"moreDescriptionKey" = "Join VGFIT community. Get more workouts.";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "Search exercise";
+"noResultsLabelKey" = "No Results";
+
+//ClassesViewController
+"classBalanceKey" = "Balance";
+"classBalanceDescriptionKey" = "Different yoga styles are combined that are focused to improve your balance.";
+
+"classStrengthKey" = "Strength";
+"classStrengthDescriptionKey" = "A combination of power yoga poses that will help you to build your body strength.";
+
+"classFlexibilityKey" = "Flexibility";
+"classFlexibilityDescriptionKey" = "You focus how you breath, on your muscle recovery and flexibility of your body.";
+
+//LevelViewController
+"levelBegginerKey" = "Beginner";
+"levelBegginerTitleKey" = "Let's start with light exercise";
+"levelBegginerDescriptionKey" = "Focuses on building strength and endurance by creating a firm foundation.";
+
+"levelIntermediateKey" = "Intermediate";
+"levelIntermediateTitleKey" = "Step a more difficult exercise";
+"levelIntermediateDescriptionKey" = "Is for those who have strong practice and prior yoga experience.";
+
+"levelAdvancedKey" = "Advanced";
+"levelAdvancedTitleKey" = "Difficult exercises";
+"levelAdvancedDescriptionKey" = "Is for dedicated and very committed who have strong practice to participate.";
+
+//DifficultyViewController
+"secondSideKey" = "second side";
+"minutesKey" = "min";
+"posesKey" = "poses";
+
+//Error messages
+"downloadErrorKey" = "Download error";
+"downloadCompleteKey" = "Download complete.";
+"internetConnectionKey" = "Internet connection";
+"internetConnectionLostKey" = "Internet connection lost.";
+"videoNotFoundKey" = "Video not found";
+"videoNotFoundDescriptionKey" = "Do you want to continue ? \nHit yes and we try to download it again. Hit cancel to go back.";
+
+"smtWentWrongKey" = "Something went wrong.";
+"downloadErrorNoConnectionKey" = "Can't download. Please check your internet Wi-Fi or cellular connection !";
+"playerNoInternetConnectivityKey" = "Can't download. Please check your internet Wi-Fi or cellular connection !\nHit yes to skip. Hit cancel to go back.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Downloading videos";
+"downloadOneVideoKey" = "Downloading video";
+
+//SecondPlayerViewController
+"previewKey" = "Preview";
+"secondsKey" = "seconds";
+"completedKey" = "Completed";
+"playerCurrentExerciseKey" = "Exercise name:";
+"playerNextExerciseKey" = "Next:";
+
+//MoreViewController
+"moreProfileTitleKey" = "Profile\n( History Yoga )";
+"moreProfileDescriptionKey" = "You can save the history of your classes and plan your next one.";
+
+"moreAppsTitleKey" = "Other\nApps VGFIT";
+"moreAppsDescriptionKey" = "Discover new Apps from VGFIT and achieve your fitness goals.";
+
+"moreSocialTitleKey" = "Social\nmedia VGFIT";
+"moreSocialDescriptionKey" = "Get motivation and share it with friends Join VGFIT community.";
+
+"moreSettingsTitleKey" = "Settings";
+"moreSettingsDescriptionKey" = "Complex settings to offer best experience.";
+
+"moreRateUsTitleKey" = "Rate us";
+
+"historyTitleKey" = "History";
+"historyNoExerciseKey" = "No exercises have been done yet";
+
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "Six Pack Abs";
+"otherAppFitnessAndBodyBuildingKey" = "Fitness and Bodybuilding";
+"otherAppFemaleFitnessKey" = "Female Fitness";
+"otherAppGoPedometerKey" = "Go Pedometer";
+"otherAppSmartCycleAlarmProKey" = "Smart Cycle Alarm PRO";
+"otherAppTimerKey" = "Timer Pro";
+"otherApp7minKey" = "7 Minutes";
+"Water Reminder" = "Water Reminder";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "Full preview";
+"settingsPreviewShortKey" = "Short preview";
+"settingsPreviewNoneKey" = "No preview";
+"settingsbreathCycleLenghtKey" = "Breath cycle length";
+
+//Speech to Text messages
+
+"beginKey" = "begin";
+"xMoreSeconds" = "%@ more seconds";
+"halfWayThereKey" = "Halfway there";
+
+//Rate Us messages
+
+"Love our %@ app?" = "Love our %@ app?";
+"Your feedback will help us to get better" = "Your feedback will help us to get better";
+"Oh Dear!" = "Oh Dear!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "We would be grateful if you could consider giving us some ideas to improve the app. Thank you!";
+
+"5-Stars" = "5-Stars";
+"To improve the app, please Leave a Rating or Review." = "To improve the app, please Leave a Rating or Review.";
+
+"Rate Us" = "Rate Us";
+"Email Us" = "Email Us";
+"Not now" = "Not now";
+
+//Reminder
+
+"Reminder" = "Reminder";
+"Edit notification permission in IOS settings" = "Edit notification permission in IOS settings";
+"Daily reminder" = "Daily reminder";
+"Frequency" = "Frequency";
+"It's time to workout!" = "It's time to workout!";
+"After %ld days of inactivity" = "After %ld days of inactivity";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Hey! You didn't workout for few days, come back and do it!";
+"Days" = "Days";
+
+//Reminder
+
+"Reminder" = "Reminder";
+"Edit notification permission in IOS settings" = "Edit notification permission in IOS settings";
+"Daily reminder" = "Daily reminder";
+"Frequency" = "Frequency";
+"It's time to workout!" = "It's time to workout!";
+"After %ld days of inactivity" = "After %ld days of inactivity";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Hey! You didn't workout for few days, come back and do it!";
+"Days" = "Days";
+
+//Audio Player
+
+"Voice Guide" = "Voice Guide";
+"Background Music" = "Background Music";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "Yoga - Poses & Classes";
+"Upgrade" = "Upgrade";
+"Buy" = "Buy";
+"Restore Purchases" = "Restore Purchases";
+"Premium" = "Premium";
+"Nutrition" = "Nutrition";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "Unlock all new plans designed by top coaches. Achieve your goals more easily.";
+"Ads free experience" = "Ads free experience";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "Get rid of all ads. Enjoy a joyful yoga journey with ads free.";
+"Unlock all music" = "Unlock all music";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything.";
+"Yoga Classes" = "Yoga Classes";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss.";
+
+//Select Sound
+
+"Sounds" = "Sounds";
+"Sound" = "Sound";
+
+"Default" = "Default";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "Quick Yoga Fix";
+"Quick Yoga Fix_details" = "Fit yoga into a busy day with a sequence that is both grounding and energizing.";
+
+"Getting Toned" = "Getting Toned";
+"Getting Toned_details" = "Develop muscle tone in key areas, including arms, shoulders, core, glutes, and legs.";
+
+"Morning Yoga" = "Morning Yoga";
+"Morning Yoga_details" = "Start your day with an invigorating yoga practice that emphasizes moving the spine in all directions and incorporates strong standing poses.";
+
+"Daily Yoga for ABS" = "Daily Yoga for ABS";
+"Daily Yoga for ABS_details" = "Target and tone deep abdominal muscles.";
+
+"Yoga for Runners" = "Yoga for Runners";
+"Yoga for Runners_details" = "Yoga offers a unique combination of balance, flexibility, strength, and mindfulness training that can help runners to improve performance and avoid injury.  Run smarter with this cross-training sequence.";
+
+"Boost Your Energy" = "Boost Your Energy";
+"Boost Your Energy_details" = "Recharge with this sequence designed to invigorate your body, mind, and spirit.";
+
+"Deep Stretching Exercises" = "Deep Stretching Exercises";
+"Deep Stretching Exercises_details" = "Rejuvenate tired muscles, improve range of motion, and boost circulation with these yoga stretches.";
+
+"Improve Your Balance" = "Improve Your Balance";
+"Improve Your Balance_details" = "Improve coordination, reaction time, posture, and body awareness with this challenging sequence of balancing poses.";
+
+"Challenge Your Flexibility" = "Challenge Your Flexibility";
+"Challenge Your Flexibility_details" = "Develop flexibility through a series of intense stretches and apply the results to more advanced yoga postures.";
+
+"Core Muscle Sculptor" = "Core Muscle Sculptor";
+"Core Muscle Sculptor_details" = "Build from the ground up to develop strength in the legs, abdominals, lower back, and side body.";
+
+"Food Nutrition" = "Weight Loss Nutrition Plan";
+"Food Nutrition_details" = "Be in the best shape, ever! Learn what to eat, discover fat burning foods, eat tasty meals to speed up your metabolism.";
+
+//Other
+
+"In-App purchases were restored" = "In-App purchases were restored";
+"Sorry we didn't find your previous purchases" = "Sorry we didn't find your previous purchases";
+"Alert" = "Alert";
+"No internet connection" = "No internet connection";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription options: &&3 days of free trial followed by $3.99 per Week. 3 days of free trial followed by $12.99 per Month. 3 days of free trial followed by $35.99 per Year++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+"Restore" = "Restore";
+"startKey"="Start";
+"%d poses and %d yoga classes"="%d poses and %d yoga classes";
+"3 days for FREE"="3 days for FREE";
+"Ads FREE\nexperience"="Ads FREE\nexperience";
+"Yoga"="Yoga";
+"Yoga\nClasses"="Yoga\nClasses";
+"UNLOCK\nall music"="UNLOCK\nall music";
+"76% off"="76% off"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="%@ per month billed annually thats’s a %@ a year";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="Weight loss nutrition plan";
+"startKey"="Start";
+
+//Exercise name
+
+"exerciseName1" = "Mountain";
+
+"exerciseName2" = "Half-Lotus";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "Chair Pose Variation";
+
+"exerciseName5" = "Reclining Side Stretch";
+
+"exerciseName6" = "Bird of Paradise";
+
+"exerciseName7" = "Big Toes Pose Variation";
+
+"exerciseName8" = "Boat";
+
+"exerciseName9" = "Bow";
+
+"exerciseName10" = "Bridge Pose Variation";
+
+"exerciseName11" = "Camel";
+
+"exerciseName12" = "Cat";
+
+"exerciseName13" = "Back Body Stretch";
+
+"exerciseName14" = "Chair";
+
+"exerciseName15" = "Twisted Chair";
+
+"exerciseName16" = "Twisted Chair with Arms Extended";
+
+"exerciseName17" = "Child's Pose";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "Cobra";
+
+"exerciseName20" = "Corpse Pose";
+
+"exerciseName21" = "Cow";
+
+"exerciseName22" = "Cow Face";
+
+"exerciseName23" = "Cow Face Pose Variation";
+
+"exerciseName24" = "Reverse Tabletop";
+
+"exerciseName25" = "Crow";
+
+"exerciseName26" = "Dolphin";
+
+"exerciseName27" = "Sphinx";
+
+"exerciseName28" = "Forearm Plank";
+
+"exerciseName29" = "Downward Facing Dog";
+
+"exerciseName30" = "Downward Dog with Twist";
+
+"exerciseName31" = "Frog";
+
+"exerciseName32" = "Accomplished Pose with Eagle Arms";
+
+"exerciseName33" = "Eagle";
+
+"exerciseName34" = "Ear Pressing Pose";
+
+"exerciseName35" = "Seated Spinal Twist";
+
+"exerciseName36" = "Cross-Legged Forward Fold";
+
+"exerciseName37" = "Crooked Pose";
+
+"exerciseName38" = "Heart Pose";
+
+"exerciseName39" = "Bound Side Angle";
+
+"exerciseName40" = "Modified Extended Side Angle";
+
+"exerciseName41" = "Side Angle";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "Fire Log Pose";
+
+"exerciseName44" = "Fish";
+
+"exerciseName45" = "Gate";
+
+"exerciseName46" = "Horse";
+
+"exerciseName47" = "Tiger";
+
+"exerciseName48" = "Camel with Twist";
+
+"exerciseName49" = "Half-Frog";
+
+"exerciseName50" = "Locust";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "Standing Half-Lotus";
+
+"exerciseName53" = "Half-Split";
+
+"exerciseName54" = "Bowed Half Moon Variation";
+
+"exerciseName55" = "Half Moon";
+
+"exerciseName56" = "Shoulderstand";
+
+"exerciseName57" = "Sage Marichi's Pose III";
+
+"exerciseName58" = "Headstand";
+
+"exerciseName59" = "Tripod Headstand";
+
+"exerciseName60" = "Happy Baby";
+
+"exerciseName61" = "Heron's Pose";
+
+"exerciseName62" = "Revolved Lunge";
+
+"exerciseName63" = "High Lunge";
+
+"exerciseName64" = "Bowing Warrior";
+
+"exerciseName65" = "Full Cobra";
+
+"exerciseName66" = "Dancer";
+
+"exerciseName67" = "Wind-Relieving Pose Variation";
+
+"exerciseName68" = "Eight-Point Salute";
+
+"exerciseName69" = "Lizard Pose";
+
+"exerciseName70" = "Locust Pose Variation";
+
+"exerciseName71" = "Crescent Lunge with Twist";
+
+"exerciseName72" = "Crescent Lunge";
+
+"exerciseName73" = "Mermaid";
+
+"exerciseName74" = "One-Legged Upward-Facing Bow";
+
+"exerciseName75" = "Rabbit";
+
+"exerciseName76" = "Royal Pigeon Prep";
+
+"exerciseName77" = "Pyramid";
+
+"exerciseName78" = "Half-Pigeon";
+
+"exerciseName79" = "Scale Pose";
+
+"exerciseName80" = "Bridge";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "High Prayer Variation";
+
+"exerciseName83" = "Plank";
+
+"exerciseName84" = "Reclining Foot-to-Finger B";
+
+"exerciseName85" = "Plow";
+
+"exerciseName86" = "Tiger with Bow Variation";
+
+"exerciseName87" = "Peaceful Warrior";
+
+"exerciseName88" = "Revolved Half-Moon";
+
+"exerciseName89" = "Head-to-Knee Pose";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "Reclining Pigeon";
+
+"exerciseName92" = "Revolved Head-to-Knee Pose";
+
+"exerciseName93" = "Revolved Triangle";
+
+"exerciseName94" = "Low Lunge";
+
+"exerciseName95" = "Revolved Standing Foot-to-Finger Variation";
+
+"exerciseName96" = "Supine Spinal Twist";
+
+"exerciseName97" = "Reclining Bound Angle";
+
+"exerciseName98" = "Reclining Foot-to-Finger A";
+
+"exerciseName99" = "Seated Forward Fold";
+
+"exerciseName100" = "Standing Foot-to-Finger D";
+
+"exerciseName101" = "Side Plank";
+
+"exerciseName102" = "Cow-Face Arms";
+
+"exerciseName103" = "Seated Side Bend";
+
+"exerciseName104" = "Shoulderstand Variation";
+
+"exerciseName105" = "Standing Backbend";
+
+"exerciseName106" = "Standing Foot-to-Finger B";
+
+"exerciseName107" = "Locust Variation with Fingers Interlaced";
+
+"exerciseName108" = "Staff Pose";
+
+"exerciseName109" = "Sphinx";
+
+"exerciseName110" = "Modified Side Plank";
+
+"exerciseName111" = "Wide-Legged Forward Bend";
+
+"exerciseName112" = "Yoga Squat";
+
+"exerciseName113" = "Wide-Angle Seated Forward Bend";
+
+"exerciseName114" = "Wide-Legged Forward Bend C";
+
+"exerciseName115" = "Revolved Head-to-Knee Pose Variation";
+
+"exerciseName116" = "Yoga Squat with Bind";
+
+"exerciseName117" = "Downward Facing Hero's Pose";
+
+"exerciseName118" = "Wide-Legged Forward Bend with Twist";
+
+"exerciseName119" = "Wide-Legged Forward Bend with Side Stretch";
+
+"exerciseName120" = "Vishnu's Couch";
+
+"exerciseName121" = "Upward-Facing Bound Angle Posture";
+
+"exerciseName122" = "Warrior 2";
+
+"exerciseName123" = "Standing Side Bend with Fingers Interlaced";
+
+"exerciseName124" = "Standing Split";
+
+"exerciseName125" = "Standing Forward Fold";
+
+"exerciseName126" = "Standing Foot-to-Finger A";
+
+"exerciseName127" = "Standing Forward Fold with Shoulder-Opening Variation";
+
+"exerciseName128" = "Warrior 1";
+
+"exerciseName129" = "Warrior 3";
+
+"exerciseName130" = "Standing Side Bend";
+
+"exerciseName131" = "Supported Shoulderstand";
+
+"exerciseName132" = "Reverse Plank";
+
+"exerciseName133" = "Standing Foot-to-Finger C with Forward Fold";
+
+"exerciseName134" = "Standing Forward Fold w/ Twist";
+
+"exerciseName135" = "Supported Standing Backbend";
+
+"exerciseName136" = "Four-Limbed Staff Pose";
+
+"exerciseName137" = "Tabletop & Four-Limbed Staff Pose";
+
+"exerciseName138" = "Upward Facing Bow";
+
+//Exercise description
+
+"exerciseDescription1" = "Stand with your feet hips distance apart and the outer edges of your feet parallel to each other. Lengthen your spine and lift your navel towards the spine.  Press up through the crown of your head and draw your tailbone down towards your heels.";
+
+"exerciseDescription2" = "Sit on the ground and bend your left knee, placing the outer edge of your left foot under your right thigh and in front of your right sitting bone.  Then take hold of the outer edge of your right foot and place it in the crease of your left hip. Place your palms face down on your kneecaps and sit tall with your shoulders relaxed. Repeat with left leg on top.";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = "Stand with your feet hips distance apart.  Reach your arms straight out in front of you, palms face down.  Bend your knees and lift your heels over the balls of your feet.";
+
+"exerciseDescription5" = "Lie down on your back with your palms cupping the back of your head.  Cross your left ankle over the right ankle.   Side bend to the right by moving your upper body and legs to the right.  Return to center, switch the cross of the ankles so that the right leg is on top, and side bend to the left.";
+
+"exerciseDescription6" = "Stand in a forward fold with your feet hips distance apart. Bend your knees and, starting with the right arm in front of you, thread it between your legs, bend the elbow, and reach your right hand towards your outer right hip.  Bend the left elbow behind your back and reach the left hand towards your outer right hip.  Hold your left wrist in your right hand.  (If you can't reach the wrist, trying latching the fingertips of both hands together.) \n \n Once your hands have connected near your outer right hip, raise your right heel, shift your weight into your left foot, and stand up on your left leg.  Keep the right knee bent as you straighten the left leg and lengthen your spine.  Finally, press your right arm against the right leg as you extend the right leg out to the side. \n \n Repeat standing on your right leg, with arms wrapped around the left leg.";
+
+"exerciseDescription7" = "Sit with your knees bent and soles of the feet planted in front of you.  Place your hands under your thighs and lift your feet off of the ground so that you are balancing on your sitting bones.  Extend your legs as much as you can without rounding your lower back.  Over time, as your flexibility increases, you may be able to slide your hands up your legs towards your feet and eventually hold your big toes with the first three fingers of each hand.";
+
+"exerciseDescription8" = "Sit with your knees bent, soles of the feet planted in front of you, and arms outstretched.  Lift your feet off the ground and bring your shins to parallel the ceiling, arms extended next to your legs.  Balancing on your sitting bones, hold for at least 5 breaths.";
+
+"exerciseDescription9" = "Lie on your belly, bend your knees, and reach back to hold on to the outsides of your ankles.  Lift your head, chest, and legs off of the ground.  Keep your legs no wider than hips distance from each other as you reach the crown of your head and your shins towards the ceiling.";
+
+"exerciseDescription10" = "Lie on your back with your knees bent, soles of the feet planted hips distance apart and outer edges of the feet parallel to each other.  Hold the outsides of your ankles in your hands, lift your pelvis off of the ground, and curve your chest up.";
+
+"exerciseDescription11" = "Kneel with your shins parallel to each other and tops of the feet on the floor.  Stack your hips above your knees and your shoulders above your hips.  Lift your chest towards the sky and keep the hips over the knees as you reach back to hold your heels.";
+
+"exerciseDescription12" = "Start on all fours in a tabletop position with your shoulders above your wrists and your hips above your knees.  As you exhale, round your spine so that your head releases towards the floor, your navel lifts towards your spine, and your tailbone curls down towards the floor.";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "Stand with your feet hips distance apart and outer edges of the feet parallel to each other.  Inhale and extend your arms alongside your ears, palms facing each other.  Keep the arms shoulders width apart as you bend your knees and draw the hips back.  Try to bring your thighs parallel to the ground and keep them there as you lift your lower belly and your chest.";
+
+"exerciseDescription15" = "Stand with your big toes together and outer edges of the feet parallel to each other.  Bend your knees and join your palms in front of your chest.  Inhale as you lengthen your spine, keeping the hips low.  As you exhale, twist to the right and hook your left elbow outside of your right thigh.  Inhale back to center with your palms in a prayer position in front of your chest.  Exhale as you counter-twist to the left.";
+
+"exerciseDescription16" = "Stand with your big toes together and outer edges of the feet parallel to each other.  Bend your knees and join your palms in front of your chest.  Inhale as you lengthen your spine, keeping the hips low.  As you exhale, twist to the right and hook your left elbow outside of your right thigh.  Spread your arms in a \"T\" shape, so that your left fingertips reach towards the ground outside of your right ankle and your right arm reaches up towards the sky.  Look up at your right palm. \n\n Inhale to return to center with your palms in a prayer position in front of your chest.  Exhale as you counter-twist to the left, hooking your right elbow outside of your left thigh.  Spread the arms, this time reaching right fingertips towards the outside of the left ankle and stretching the left arm towards the sky.  Look up at your left palm.";
+
+"exerciseDescription17" = "Start on your hands and knees in a tabletop position.  Bring your big toes together and sit back on your heels as you release your forehead to the floor.  Reach your arms alongside your body, palms face up.";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = "Lie on your belly and place your palms face down next to your bottom ribs, just above your waist.  Lift your upper body off of the ground, pressing into your hands, and leave your knees, shins, and tops of the feet grounded.  Reach your tailbone towards your heels to engage your lower abdominals and only straighten your arms to the extent that you can do so without discomfort to your lower back. \n\n Leaving your left palm grounded, turn your chest and head to the right and slide your right hand down the back of your right thigh.  Return to center and repeat on the left side.";
+
+"exerciseDescription20" = "Lie on your back with your legs extended and arms at your sides, palms face up.  Close your eyes and relax your muscles, releasing your body's weight into the ground.";
+
+"exerciseDescription21" = "Start on all fours in a tabletop position.  As you inhale, arch your back, lift your chin, and look up.";
+
+"exerciseDescription22" = "Sit on the ground, bend your knees, and cross your right knee over your left so that both knees are stacked in front of your navel and you are seated in between your heels.  Extend your left arm towards the ceiling, bend your left elbow, and point your fingertips down your back.  Extend your right arm out to the right side, turn the right palm to face behind you, and bend the right elbow so that your fingertips point up your back.  Clasp the left and right fingertips together.  Repeat on second side with left knee on top and right arm on top.";
+
+"exerciseDescription23" = "Sit on the ground, bend your knees, and cross your right knee over your left so that both knees are stacked in front of your navel and you are seated in between your heels.   Lengthen your spine as your extend your arms alongside your ears.  Repeat on second side with left knee over right.";
+
+"exerciseDescription24" = "Sit with your knees bent and feet planted hips distance apart in front of you.  Plant your palms behind you, shoulders distance apart with fingertips pointing forward.  Lift your pelvis off of the ground so that your knees are bent at a 90 degree angle.  Stack your knees above your ankles and your shoulders above your wrists.  Press down into the index finger and thumb of each hand.  To start, keep your neck in line with the rest of your spine and nose pointed up at the ceiling.  If you don't have any cervical spine issues, you can let the head gently drape back so that the base of your skull is cradled right above the shoulder blades.";
+
+"exerciseDescription25" = "Stand in a forward fold with your feet together.  Bend your knees and plant your palms approximately one foot in front of your feet with your hands shoulders distance apart and finger pads gripping the ground.   Raise your heels high off of the ground to lift your hips and lower your knees onto the backs of your upper arms, creating a shelf with your arms.  Bend your elbows to nearly 90 degrees and stack them over your wrists.   Look past your hands on the floor and slowly shift your weight into your hands.   Once your shoulders have shifted slightly forward and all of your weight is in your hands, practice lifting one or both feet off of the floor.  Over time, practice pointing your toes and bringing them towards your sitting bones.";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = "Lie on your belly and prop yourself up on your elbows so that your forearms are parallel to each other and elbows are shoulders width apart.  Drag your elbows towards your hips as you pull your chest forward through your arms.  Point your toes and slide your tailbone towards your heels.";
+
+"exerciseDescription28" = "Lie on your belly and prop yourself up on your elbows so that your forearms are parallel to each other and elbows are shoulders width apart.   Tuck your toes under and lift your thighs and pelvis off of the floor.  Center your shoulders above your elbows and lift your belly towards your lower back.  Engage the fronts of your thighs and draw your pubic bone towards your navel to keep your hips from piking in the air.";
+
+"exerciseDescription29" = "Start on all fours in a tabletop position with your wrists under your shoulders and fingers spread.  Step your feet back into a plank - a high push-up with legs and belly engaged.  From there, lift your hips and press your chest towards your legs as you stretch your heels towards the floor.  Push the floor away with your hands in order to bring your upper body towards your legs.  Root down firmly with the index finger and thumb of each hand and place your feet hips distance apart, with your heels lined up behind your second and third toes.";
+
+"exerciseDescription30" = "Start on all fours in a tabletop position with your wrists under your shoulders and fingers spread.  Step your feet back into a plank - a high push-up with legs and belly engaged.  From there, lift your hips and press your chest towards your legs as you stretch your heels towards the floor.  Push the floor away with your hands in order to bring your upper body towards your legs.  Root down firmly with the index finger and thumb of each hand and place your feet hips distance apart, with your heels lined up behind your second and third toes. \n\n Keep your left palm grounded as you reach your right arm through the space between your legs to hold the back of your left ankle or calf.  Continue to reach the outer hips back and press the ground away with your left palm.  Repeat on second side.";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = "Sit with your knees bent out to eitherside and feet in front of your pubic bone, left foot in front of right.   Bend your elbows and hook the right elbow underneath the left.  Cross at the wrists so that your palms face in.  Lift your elbows and press your palms forward.  Repeat on second side with right foot in front and left elbow underneath.";
+
+"exerciseDescription33" = "Stand with your feet together and lift your right heel off of the ground.  Bent your elbows and hook the right elbow underneath the left.  Cross at the wrists so that your palms face in.  Lift your elbows and press your palms forward. \n\n Bend your left knee and cross the right knee over the left, balancing on your left leg and hooking the big right toe inside of the left ankle.  As you draw your outer hips back, keep the chest lifted and continue to lift the elbows.";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = "Take a comfortable cross-legged seat with your palms face down on your kneecaps.  As you inhale, lengthen your spine.  As you exhale, twist to the left, bringing your left fingertips to the floor behind you and placing your right palm on your left kneecap.    Inhale back to center, and as you exhale twist to the right, placing your right fingertips on the floor behind you and resting your left palm on your right kneecap.";
+
+"exerciseDescription36" = "Take a comfortable cross-legged seat.  Place your palms on the floor in front of you and walk them forward until your arms are straight.  If your forehead does not come to the ground, then rest it on a folded blanket or towel so that the neck is supported.  Repeat with opposite leg on top.";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = "Start on all fours in a tabletop position.  Keep the hips above the knees and hands shoulders width apart as you walk your hands as far forward as they can go.  Melt your chest towards the ground.";
+
+"exerciseDescription39" = "Take a wide-legged stance with your feet parallel to each other.  Turn the right foot out 90 degrees and bend your right knee to a 90 degree angle so that the top of your right thigh is parallel to the ground.   Keep your right knee stacked over your right ankle and the left leg extended with toes turned in slightly.  Extend the right side of your torso over your right thigh and bring your right arm inside of your right leg. \n\n Thread your right arm under your thigh, bend the elbow, and reach your hand towards your outer right hip.  Bend the left elbow behind your back and reach the left hand towards your outer right hip.  Use your right hand to take hold of the left wrist.   (If you can't reach the wrist, trying latching the fingertips of both hands together.) \n\n Once your arms are bound around your right leg, draw your right hip underneath you and lean back so that the right side of your torso hovers over your thigh.  Lengthen the sides of your neck as you press the crown of your head away from your left foot.  Press the left foot into the ground and keep the right knee centered over your second and third toes. \n\n Repeat on the left side, binding arms around the left leg so that the hands connect by the outer left hip.";
+
+"exerciseDescription40" = "Take a wide-legged stance with your feet parallel to each other.  Turn the right foot out 90 degrees and bend your right knee to a 90 degree angle so that the top of your right thigh is parallel to the ground.   Keep your right knee stacked over your right ankle and the left leg straight.  Extend the right side of your torso over your right thigh and lightly rest your right elbow on your right thigh with your palm facing up.  Extend your left arm alongside your left ear and turn your navel away from your right foot as you look towards your left hand.  Press the left foot into the ground and keep the right knee centered over your second and third toes.   Repeat on left side.";
+
+"exerciseDescription41" = "Take a wide-legged stance with your feet parallel to each other.  Turn the right foot out 90 degrees and bend your right knee to a 90 degree angle so that the top of your right thigh is parallel to the ground.   Keep your right knee stacked over your right ankle and the left leg extended with toes turned in slightly. \n\n Extend the right side of your torso over your right thigh and place your right palm on the ground inside of your right foot, so that your shoulder stacks over your wrist.  Reach the left arm straight up to the sky and look up at your left palm.  Press the left foot into the ground and keep the right knee centered over your second and third toes.  Repeat on left side.";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = "Sit down and bend your left knee out to the left so that the outer edge of your foot is on the ground and your shin is parallel to the front of your mat.  Bent the right knee out to the right and place the right shin above the left one so that the right knee stacks over the left ankle and the right ankle stacks above the left knee.  Slowly fold forward to the extent that you can.   Repeat with left shin on top.";
+
+"exerciseDescription44" = "Lie on your back with your arms at your sides, palms face down.  Lift your chest towards the ceiling and drape your head back so that the crown of your head rests lightly on the ground.  Lift your legs to a 45 degree angle with the floor.";
+
+"exerciseDescription45" = "Kneel with your hips above your knees, shins parallel to each other, and tops of the feet on the ground.  Step your right foot out to the right side so that the leg is extended and toes point to the right and towards the floor.  Place your right palm on your right thigh and extend your left arm alongside the left ear.  As you side bend to the right, slide your right hand towards your right ankle.  Repeat on left side.";
+
+"exerciseDescription46" = "Stand up and step your feet at least one leg's length apart.  Turn your toes out as you bend your knees and stack knees above ankles.  Press the inner knees back towards their pinky toes and bend your elbows out to either side, making a cactus shape with your arms.";
+
+"exerciseDescription47" = "Start on all fours with your fingers spread, wrists under your shoulders and knees under your hips.  Press into your finger pads and the top of your left foot as you float your right leg off of the floor and extend it behind you.   Lift your belly and your front ribs towards your back.  Repeat with right shin grounded and left leg lifted.";
+
+"exerciseDescription48" = "Kneel with your shins parallel to each other, tops of the feet on the floor, hips above knees, and shoulders stacked over hips.  Lift your chest towards the ceiling and keep the hips over the knees as you reach back to hold your heels. \n\n Keep your left hand on your left heel as you inhale and extend your right arm towards the sky.  Exhale as you twist your chest to the left.  Then return the right hand to the right heel and turn your chest towards the sky. \n\n Inhale and extend your left arm towards the sky.  As you exhale, twist your chest to the right.  Return both hands to your heels and curl your chest towards the ceiling before sitting down on your heels with your hands on your thighs to release out of the posture.";
+
+"exerciseDescription49" = "Lie on your belly and prop yourself up on your elbows so that your forearms are parallel to each other and elbows are shoulders width apart.  Move your left hand to the right, palm face down, so that your left forearm is parallel to the front of your mat.  Bend your right knee and hold the top of your right foot in your right hand, drawing your right heel towards your outer hip.  Keep the heel of your hand on the top of your foot as you pivot your right fingertips to the right and then point them towards your right heel.  Bend your right elbow out to the right side as you square your right chest forward.  Repeat on left side.";
+
+"exerciseDescription50" = "Lie on your belly with your chin on the ground and arms at your sides, palms face down.  Wiggle your arms towards each other underneath your torso and clasp your hands together.  Lift both legs off of the ground and point your toes. \n\n Release both legs to the floor and unclasp your hands, turning the palms to face down.  Lift your right leg in the air.  Lower the right leg and lift the left leg.  Return the left leg to the floor.";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = "Stand with your feet together and shift your weight into your left foot, bringing your right knee into your chest.  Hold the outer edge of your right foot in your left hand and place it in the crease of the left hip.  Extend both arms alongside your ears.  Repeat standing on right leg with left knee bent and outer edge of the left foot in the crease of the right hip.";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = "Sit with your legs extended out in front of you.  Bent your left knee and plant your left foot inside of the right leg.  Place your left palm on the ground behind you.  Inhale as you raise your right arm alongside your ear and lengthen your spine.  Exhale as you twist to the left and hook your right elbow outside of your left thigh.   Repeat with right knee bent, twisting to the right.";
+
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = "Lie on your back, bend your knees, and hold on to the outside edges of your feet.  Press your hands into your feet to bring your knees towards your armpits and stretch your inner thighs.  Keep as much of the lower back on the ground as possible.";
+
+"exerciseDescription61" = "Sit in between your heels with your knees together and tops of the feet on the floor.  Plant your right foot on the ground in front of you and interlace your fingers under the arch of your right foot.  Extend your right leg in the air as you lengthen your spine and lift your chest towards the top of your right foot.";
+
+"exerciseDescription62" = "Start in a lunge with your left foot forward and your fingertips framing your left foot on the ground.  Make sure that your left knee is bent at a 90 degree angle and stacked over your ankle and your right leg is extended behind you with the ball of your right foot on the floor.  Lift your belly off of your left thigh and join your palms in prayer in front of your chest.   Inhale as you lengthen your spine and exhale as you twist to the left, hooking your right elbow outside of your left knee.  Press your left palm against the right one, look up over your left shoulder, and press your right heel towards the sky.  Repeat with the right leg in front, twisting to the right.";
+
+"exerciseDescription63" = "Step into a lunge with your right knee bent at a 90 degree angle and stacked over your ankle and your left leg extended behind you with the ball of your left foot on the floor.  Lift your shoulders above your hips and, with your hands on the hips, steer the right hip back and square the left hip forward.  Extend your arms alongside your ears.  Repeat with the left leg forward.";
+
+"exerciseDescription64" = "Step into a lunge with your right knee bent at a 90 degree angle and stacked over your ankle and your left leg extended behind you with the ball of your left foot on the floor.  Lift your shoulders above your hips and interlace your fingers behind your back.  Fold forward inside of your right leg, release the crown of your head towards the floor, and reach your palms away from your lower back.  Hug the right hip in as you press your left heel up towards the ceiling.  Repeat with the left leg forward and the opposite interlace of the fingers (i.e., the opposite index finger and thumb on top).";
+
+"exerciseDescription65" = "Lie on your belly and plant your palms on either side of your chest.  Press into your hands to lift your upper body off of the ground.  Bend your knees, point your toes, and curl your chest up as you reach your feet and the top of your head towards each other.";
+
+"exerciseDescription66" = "Stand with your feet together and reach your right arm forward at shoulder height.   Shift your weight into your right foot as you bend your left knee, lift your left foot towards your left sitting bone, and hold the inside edge of your left foot in your left hand.  Draw your left thigh back as you bring your chest forward, hugging your left knee in towards the midline of your body.  Raise your right arm towards the ceiling and lift your chest away from the top of your left thigh.  Repeat standing on the left leg.";
+
+"exerciseDescription67" = "Lie on your back with your legs extended on the ground.  Draw your left knee in towards your chest and interlace your fingers outside of your leg.  Repeat with left leg extended and right knee bent.";
+
+"exerciseDescription68" = "Start on all fours with your wrists under your shoulders, knees under your hips, and toes tucked under.  As you inhale arch your back.  As you exhale, keep your sitting bones lifted, bend your elbows, and dive your chest and chin to the floor.  As a counter-pose, you may lie on your back and hug your knees into your chest to release the lower back.";
+
+"exerciseDescription69" = "Start in a lunge with your right foot forward and your fingertips framing the right foot on the ground.  Make sure that your right knee is bent at a 90 degree angle and stacked over your ankle.  Lower your left knee and the top of your left foot to the floor.  Place your right palm inside of your right foot and then lower both elbows to the ground so that they are in line with your right heel, forearms parallel to each other.  Hug your right knee in towards your right shoulder, lengthen your spine, and reach your chest and the crown of your head forward.  Repeat on the left side.";
+
+"exerciseDescription70" = "Lie on your belly with your arms at your sides.  Lift your arms off of the ground, turn your palms to face out, and reach back with your thumbs.  Lift your chest, head, and legs off of the ground.  Point your toes and reach your feet back.";
+
+"exerciseDescription71" = "Start in a lunge with your right foot forward and your fingertips framing the right foot on the ground.  Make sure that your right knee is bent at a 90 degree angle and stacked over your ankle.  Lower your left knee and the top of your left foot to the floor.  Climb your hands onto your right thigh as you lift your chest and align your shoulders above your hips. \n\n As you inhale, lengthen your spine and twist to the right, placing your left palm outside of your right knee and draping y our right hand down the back of your left thigh.  To complete the twist, look over your right shoulder. \n\n Repeat on left side.";
+
+"exerciseDescription72" = "Start in a lunge with your right foot forward and your right knee stacked over your right ankle.  Lower your left knee to the floor behind you and place the top of your left foot on the floor.  Level your hips by sliding your right hip back and wrapping your left hip forward towards the inside of the right thigh.  Extend your arms alongside your ears and lift your belly away from the top of the right thigh, curving your chest towards the sky.  Look up in between your palms.";
+
+"exerciseDescription73" = "Start on all fours in a tabletop position.  Place your left knee behind your left wrist and place the outer edge of your left foot behind your right wrist.  Extend the right leg behind you with the toes tucked under, and drag the right leg as far back as you can before placing the right knee and top of the foot on the ground.  Lift your shoulders above your hips and place the outer edge of your left foot in front of your right hip.  Bend your right knee and, holding your right foot in your right hand, bring the foot towards your outer right hip.  Slip the foot into the crook of your right elbow.  Extend your left arm alongside your ear and bend your left elbow so that your fingertips point towards the floor.  Latch your right fingertips and left fingertips together as you lift your chest.";
+
+"exerciseDescription74" = "Lie on your back with your arms at your sides and the soles of your feet planted hips distance apart.  The outer edges of your feet should be parallel to each other and your fingertips should graze the edges of your heels.  Bend your elbows and plant your palms on the ground above your shoulders.  Lift your pelvis, chest, and head off of the ground.  Internally rotate your thighs so that the outer thighs spiral towards the inner thighs.  Reach your chest through your arms. \n\n Bring your feet together and, shifting your weight into your left foot, curl your right knee in towards your chest.  Extend the right leg straight in the air.  Return the right foot to the floor and repeat with left leg lifted.";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = "Start on all fours in a tabletop position.  Place your left knee behind your left wrist and place the outer edge of your left foot behind your right wrist.  Extend the right leg behind you with the toes tucked under, and drag the right leg as far back as you can before placing the right knee and top of the foot on the ground.  Lift your shoulders above your hips, place the outer edge of your left foot in front of your right hip, and rest your palms at your sides as you lift the back of your spine.   Repeat with right knee bent in front.";
+
+"exerciseDescription77" = "Stand with your feet together.  Step your left foot approximately one leg's length back and angle that foot 30 degrees out to the left.  Inhale as you press into the left heel and lengthen your spine and exhale as you fold over your right leg, framing your right foot with your hands.  Repeat with the left foot forward.";
+
+"exerciseDescription78" = "Start on all fours in a tabletop position.  Place your right knee directly in front of your right hip and place your right foot behind the left wrist, as close to the wrist as possible while keeping your weight centered between your two sides.  Extend the left leg behind you with the toes tucked under, and drag that leg as far back as you can before placing the left knee and top of the left foot on the ground.  Make sure that your big left toe points straight back and your weight remains centered (i.e., don't lean onto your right side) before folding forward over your right shin.  Repeat with left knee forward.";
+
+"exerciseDescription79" = "Sit with your legs extended in front of you.  Bend your right knee and place the outer edge of your foot in the left hip crease.  Bend the left knee and cross the left shin over the right shin to place your left foot in the right hip crease.  (If this shape is not accessible to you, DO NOT risk the health of your knees by attempting to force it.  Instead, simply cross the left ankle over the right.) \n\n Plant your palms on the ground outside of your thighs, several inches forward of your hips.  As you exhale, draw your navel in towards your spine, press into your finger pads, and lift your pelvis and thighs off of the ground.  Repeat with the right shin or ankle on top of the left.";
+
+"exerciseDescription80" = "Lie on your back with your arms at your sides and the soles of your feet planted hips distance apart.  The outer edges of your feet should be parallel to each other and your fingertips should graze the edges of your heels.   Lift your pelvis off of the floor and bring your upper arms towards each other underneath you, interlacing your fingers on the floor.  Press into the backs of your arms to lift your chest. \n\n Bring your feet together, draw your right knee in towards your chest, and extend the right leg straight up in the air.  Return your right foot to the floor and repeat with the left leg lifted.";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = "Stand with your feet hips distance apart.  Interlace your fingers in front of you, flip your palms to face out, and extend your arms alongside your ears with palms facing the ceiling.  Repeat with opposite clasp of the hands (i.e., with the other index finger and thumb on top).";
+
+"exerciseDescription83" = "Start on all fours in a tabletop position.  Keeping your shoulders above your wrists, step your feet behind you so that you are in a high push-up position.  Only your hands and the balls of your feet should touch the ground.  Press into your finger pads, lift your belly towards your lower back, and reach your heels towards the sky.  Press the crown of your head forward to lengthen the neck.  Be careful not to pike your hips in the air; instead, lift your pubic bone towards your navel.";
+
+"exerciseDescription84" = "Lie on your back with your legs extended, heels on the ground, and toes flexed up towards the ceiling.  Draw your left knee in towards your chest and bring your left arm inside of the left leg, circling the first three fingers of the left hand around your left big toe for \"yogi toe lock\" position.  Keep your right buttock grounded and press the right thigh towards the floor as you extend your left leg out to the left side.   Repeat holding the right big toe.";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = "Start on all fours in a tabletop position.  Keeping your shoulders above your wrists, lift your right leg off of the ground and bend your right knee as if to step your foot on the ceiling.  Reach back with your left hand to hold the top of the right foot.  Press your foot into your hand as you lift your chest.  Repeat on second side.";
+
+"exerciseDescription87" = "Take a wide-legged stance with your feet parallel to each other.  Turn the right foot out 90 degrees and bend your right knee to a 90 degree angle so that the top of your right thigh is parallel to the ground.   Keep your right knee stacked over your right ankle and the left leg straight, left toes turned in slightly.  Lightly rest your left palm on your left thigh and extend your right arm alongside your right ear.  As you side bend towards your left leg, allow your left hand to slide down the leg.  Draw your right hip underneath you as you press your right knee gently towards your pinky toe.  Repeat on the left side.";
+
+"exerciseDescription88" = "Stand in a forward fold and reach your chest forward as you place your fingertips on the ground under your shoulders.  Shift your weight into your left foot and, keeping your hips level, float your right leg straight behind you.  Ground your right palm as you twist your chest to the left and extend your left arm towards the sky.  Look up at your left hand.";
+
+"exerciseDescription89" = "Sit with your legs extended in front of you.  Place the sole of your left foot against the inside of your right thigh.  Flex your right foot and, as you inhale, extend your arms alongside your ears.  As you exhale, fold over the right leg, bending at the hip creases and not at the waist.   Be careful not to round your lower back.  Repeat with the left leg extended and right knee bent.";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = "Sit with your legs extended in front of you.  Place the sole of your right foot against the inside of your left thigh.  Twist your upper body to the right, place your left elbow on the floor inside of your left knee, and hold the inner edge of your left foot in your left hand.  Extend your right arm alongside your ear and hold the top of the left foot in your right hand.  Anchor your right buttock to the floor as you rotate your chest towards the sky.  Repeat with the left knee bent and right leg straight, side bending over the right leg.";
+
+"exerciseDescription93" = "Stand with your feet together.  Step your right foot approximately one leg's length back and angle that foot 30 degrees out to the right side.  Place your hands on your outer hips and inhale as you lengthen your spine and reach your chest forward to parallel the ground.  Exhale as you twist to the left, planting your right palm outside of your left foot and reaching your left arm up towards the ceiling.   Repeat with right leg forward, twisting to the right side.";
+
+"exerciseDescription94" = "From a standing forward fold, bend your knees and tent your fingertips on the ground on either side of your feet.  Step the left foot bank, keeping your right knee bent at a 90 degree angle and centered over your right ankle.  Pull your chest forward and press your left heel up towards the ceiling.  Repeat with the left knee forward.";
+
+"exerciseDescription95" = "Stand with your feet hips width apart.  Place your left hand on your left waist, shift your weight into your right foot, and lift your left knee in towards your chest.  Circle the first three fingers of your right hand around your big left toe and extend your left leg over to the right as you turn your upper body to the left.";
+
+"exerciseDescription96" = "Lie on your back with your arms extended out to either side in a \"T\" shape.  Hug your knees in towards your chest and, keeping the knees together, drape them over to the left and look to the right.  Bring your knees back to center and the back of your head to the ground before releasing the knees to the right and looking to the left.";
+
+"exerciseDescription97" = "Lie on your back, bring the soles of your feet together, and let your knees drape out to either side.  Hold on to your elbows above your head.";
+
+"exerciseDescription98" = "Lie on your back with your legs extended, heels on the ground, and toes flexed up towards the ceiling.  Draw your left knee in towards your chest and bring your left arm inside of your left leg, circling the first three fingers of the left hand around your left big toe.  Keep your right buttock grounded and press the right thigh towards the floor as you extend your left leg.  Draw your left thigh towards your belly.  Repeat on the right side.";
+
+"exerciseDescription99" = "Sit with your legs extended in front of you, heels on the ground and toes flexed up towards the sky.  As you inhale, raise your arms alongside your ears and lengthen your spine.  As you exhale, hinge forward at the hip creases and drape your belly onto your thighs.  Hold your feet and, if you have the range, bend your elbows out to either side to leverage yourself deeper into the forward fold.";
+
+"exerciseDescription100" = "Stand tall with your feet together and your hands on your waist.  Point your right toes as you extend your right leg in front of you and lift it as high as possible without moving your hips.  Step the right foot back down, shift your weight into your right foot, and repeat with left leg extended in front of you.";
+
+"exerciseDescription101" = "Start in a plank - a high push-up position with arms straight, shoulders stacked over wrists, and heels pressing up towards the sky.  Shifting your weight to your right side, roll to the outside edge of the right foot.  Stack the left foot above the right and the left shoulder above the right.  Extend your left arm to the sky.  Flex your toes up towards your head and press down firmly into the finger pads of your right hand, especially your index finger and thumb. \n\n Bend your left knee towards your left shoulder and circle the first three fingers of your left hand around your big left toe in a \"yogi toe lock.\"  Extend the left leg towards the sky and keep the left hip stacked above the right one. \n\n Repeat on the left side with the right leg extended.";
+
+"exerciseDescription102" = "Take a comfortable cross-legged seat with the left leg on top.  Extend your arms alongside your ears and bend both elbows so that your fingertips point down your back.  Hold your right elbow in your left hand and gently pull it towards the left, pressing the back of your head against your right arm.  Then extend the left arm out to your left and turn the thumb down, internally rotating the left arm.  Bend the left elbow behind you so that your left fingertips point up your back and the elbow points down.  If possible, join your hands by clasping the fingertips together. \n\n Repeat with right leg on top and left arm on top.";
+
+"exerciseDescription103" = "Take a comfortable cross-legged seat with your left leg on top.  Plant your right forearm at your right side with fingertips pointing to the right.  Keep your left buttock anchored on the ground as you extend your left arm alongside your left ear. \n\n Repeat with right leg on top and right arm extended alongside your ear.";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = "Stand with your feet no wider than hips distance apart.  Inhale as you extend your arms alongside your ears.  Exhale as you curve your chest up towards the sky and lean back.  Keep the inner edges of your feet firmly grounded and lift your inner thighs towards the space behind you.  With each subsequent inhale, lengthen the front of your spine and with each subsequent exhale, draw your front ribs towards your back.  As your chest curls up, weight your pelvis towards the ground.";
+
+"exerciseDescription106" = "Stand with your feet together.  Shift your weight into your left foot as you draw your right knee in towards your chest.  Reach your right arm through the inside of the right leg and circle the first three fingers around your big toe in \"yogi toe lock.\"  Keeping the hips square, extend your right leg about 45 degrees out to the right side. \n\n Repeat standing on right leg with left leg extended.";
+
+"exerciseDescription107" = "Lie on your belly with your forehead on the ground and interlace your fingers behind you.  Point your toes and lift your chest and head off of the ground.  Lift your intertwined hands and reach them behind you.  Peel your chin off of your chest and fix your gaze at the tip of your nose. \n\n Repeat with opposite interlace of the fingers (i.e., opposite index finger and thumb on top).";
+
+"exerciseDescription108" = "Sit tall with your legs extended in front of you, heels grounded, and feet flexed.  Place your elbows under your shoulders and rest your palms face down at your sides.  Inhale as you lengthen your spine and exhale as you draw your navel towards your spine.";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "Start in a tabletop position on all fours with wrists over shoulders and knees above hips.  Step your left foot back and ground its heel so that the toes point to the left.  Pivot the right foot behind you so that the top of the foot is grounded and toes point to the right.  Stack the left shoulder above the right one as you extend your left arm to the sky. Repeat with right leg extended and left shin grounded.";
+
+"exerciseDescription111" = "Stand with your feet at least one leg's distance apart and toes slightly turned in.  Bending at the hip creases, reach your chest forward to face the ground and plant your palms on the floor under your shoulders.  As you release the crown of your head towards the floor, lower your elbows towards the ground and try to keep them shoulders width apart.";
+
+"exerciseDescription112" = "Stand with your feet slightly wider than your hips, toes turned out.  Bend your knees and lower your seat towards the floor in between your heels.  Join your palms in front of your chest in a prayer position and place your elbows against the insides of your thighs.  Press the elbows against the inner thighs as the thighs push back against the elbows.  Lengthen your spine so that the crown of the head lifts and the tailbone descends.   Eventually, you may be able to bring the outer edges of the feet parallel to each other.";
+
+"exerciseDescription113" = "Sit with your legs extended out to either side and toes flexed up to the sky.  Inhale as you lengthen your spine and exhale as you hinge at the hip creases and walk your hands out in front of you.  Keep the centers of your heels grounded and your pelvic bowl tipping forward as you fold.";
+
+"exerciseDescription114" = "Stand with your feet at least one leg's distance apart and toes slightly turned in.   Interlace your fingers behind you.  Fold forward at the hip creases, releasing the crown of your head towards the floor between your feet and reaching your clasped hands towards the ground. \n\n Repeat with opposite interlace of the fingers (i.e., opposite index finger and thumb on top).";
+
+"exerciseDescription115" = "Sit with your legs extended out to either side and toes flexed up to the sky.  Twist your upper body to the right, place your left elbow on the floor inside of your left leg and hold the inner edge of your left foot in your left hand.  Extend your right arm alongside your ear and hold the top of the left foot in your right hand.  Anchor your right buttock and right leg to the floor as you rotate your chest towards the sky.  Repeat side bending over the right leg.";
+
+"exerciseDescription116" = "Stand with your feet slightly wider than your hips, toes turned out.  Bend your knees and lower your seat towards the floor in between your heels.  Join your palms in front of your chest in a prayer position and place your elbows against the insides of your thighs. \n\n Inhale as you lengthen your spine and exhale as you twist to the left, spreading the arms open.  Turn your thumbs down to internally rotate both arms.  Bend your left elbow behind your back and bend your right elbow around the outside of the right shin.  If possible, clasp the fingertips together near the outside of the right hip. \n\n Repeat twisting to the right and wrapping the arms around the left leg.";
+
+"exerciseDescription117" = "Start in a tabletop position on all fours.  Bring your big toes together and separate your knees wider than your hips.   Walk your palms forward, resting your torso in between your legs and releasing your forehead to the floor.";
+
+"exerciseDescription118" = "Stand with your feet at least one leg's distance apart and toes slightly turned in.  Bending at the hip creases, reach your chest forward to face the ground and plant your palms on the floor under your shoulders.  As you inhale, lengthen your spine so that the crown of your head moves away from your hips.  As you exhale, twist to the left and stretch your left arm up to the sky. \n\n Return the left palm to the ground underneath your left shoulder.  Inhale as you lengthen the spine and exhale as you twist to the right, releasing the right arm up to the sky.";
+
+"exerciseDescription119" = "Stand with your feet at least one leg's distance apart and toes slightly turned in.  Bending at the hip creases, reach your chest forward to face the ground and plant your palms on the floor under your shoulders.  Walk your hands to the right and hold on to the outside of the right ankle, bringing your chin towards the right shin.  Walk the hands back to center and then over to the left, holding on to the outside of the left ankle as you bring your chin towards the left shin.";
+
+"exerciseDescription120" = "Lie on your back.  Extend your left arm alongside your left ear as you roll onto your left side.  Bend your left elbow and rest the side of your head on your left palm.   Bend your right knee towards your right shoulder and circle the first three fingers of your right hand around your big right toe.  Extend your right leg as much as you can, grounding your left side and hugging your right buttock towards your left inner thigh. \n\n Repeat lying on your right side, holding your big left toe.";
+
+"exerciseDescription121" = "Sit with the soles of your feet together in front of your pelvis and knees draped out to either side.  Circle the first three fingers of each hand around each big toe.  Lean back so that your weight shifts into your sitting bones.  Keeping the spine long and the knees bent, separate your feet and lift them off of the ground so that you are balancing on your sitting bones.  Gradually extend the legs out to either side as you lift your chest.";
+
+"exerciseDescription122" = "Take a wide-legged stance with your feet parallel to each other.  Turn the right foot out 90 degrees and bend your right knee to a 90 degree angle so that the top of your right thigh is parallel to the ground.   Keep your right knee stacked over your right ankle and the left leg extended with toes turned in slightly.  Keep your shoulders aligned above your hips as you extend your arms in opposite directions and look over your right palm. \n\n Repeat with left knee bent and right leg straight, gazing over your left palm.";
+
+"exerciseDescription123" = "Stand with your big toes together and outer edges of the feet parallel to each other.  Bring your index fingers together and interlace all other fingers in front of your chest.  As you inhale, keep the hands clasped and raise your arms overhead.  As you exhale, side bend to the left.  Anchor your right heel and lift your bottom left ribs towards the top right ribs. \n\n On an inhale, return to center with hands clasped overhead.  On an exhale, side bend to the right.";
+
+"exerciseDescription124" = "Begin in a standing forward fold with your big toes together, outer edges of the feet parallel to each other, and palms planted on the ground underneath your shoulders.  Shift most of your weight into your right foot as you step the left foot back, lightly resting the big left toe on the ground.  Place your right palm against your right calf and float the left leg up to the sky.  Keep the left hip level with the right hip, lifting the right hip as much as you can while hugging it in towards center.  Press the right palm forward against the right calf to leverage your chin towards your shin. \n\n Repeat standing on left leg with right leg extended.";
+
+"exerciseDescription125" = "Begin in a standing forward fold with your big toes together and outer edges of the feet parallel to each other.  Inhale to lengthen your spine, reaching your chest forward as you tent your finger tops on the floor.  Exhale as you fold forward, reaching your arms around the outsides of your legs to hold your calves.  Press your palms against your calves to leverage your forehead towards your shins.  Press your heels against the ground and lift your sitting bones as you rotate the inner thighs towards the backs of the legs.  Be careful not to round the lower back.  Instead, hinge at the hip creases and drape your belly onto the tops of your thighs.";
+
+"exerciseDescription126" = "Stand with your feet together.  Shift your weight into your left foot as you draw your right knee in towards your chest.  Reach your right arm through the inside of the right leg and circle the first three fingers around your big toe in \"yogi toe lock.\"  Stand tall, pressing the left heel against the ground and lifting the crown of your head towards the ceiling.  Extend the right leg in front of you, being careful to plug the right arm into the back of the body so that your shoulders remain stacked above your hips.";
+
+"exerciseDescription127" = "Stand with your big toes together and outer edges of the feet parallel to each other.  Interlace your fingers behind your back.  Inhale to lengthen your spine and exhale to hinge forward at the hip creases, releasing the crown of your head towards the ground and reaching your clasped hands towards the floor.";
+
+"exerciseDescription128" = "Take a wide-legged stance with your feet parallel to each other.  Turn the right foot out 90 degrees.  Raise the left heel and, pivoting on the ball of the left foot, spin the heel out to the left before planting it on the floor.  Your chest and left hip should now be facing the same direction as your right foot.  Bring your hands to your outer hips and wrap the left hip forward as you steer the right hip back.  Bend your right knee so that it stacks above the ankle.  Extend your arms alongside your ears and lift your chest.  Press into your left heel while keeping the right knee centered over the ankle. \n\n Repeat with left foot forward.";
+
+"exerciseDescription129" = "Stand with your feet together and raise your arms alongside your ears.  Keeping your right leg straight and your chest lifted, step the left foot back so that the ball of the foot is lightly resting on the floor.  Slowly shift your weight into your right foot, hinge forward at the right hip crease, and reach your chest forward as you float the left leg behind you.  Hug your outer hips towards each other and lift your belly/front ribs in towards your back. \n\n Repeat balancing on left leg with right leg extended behind you.";
+
+"exerciseDescription130" = "Stand with your big toes together and outer edges of the feet parallel to each other.  As you inhale, raise your right arm alongside your ear.  As you exhale, side bend to the left, allowing your left hand to slide down the outside of the left leg.  Press into the right heel and lift your left waist. \n\n Repeat by side bending to the right.";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = "Sit with your legs extended in front of you, palms planted behind you, and fingertips facing forward.  Point your toes, press into your finger pads, and lift your hips off of the ground.  Draw your shoulder blades together and slide them down your back as you lift your chest.  Spiral the inner thighs towards each other and reach your big toes towards the floor.  If your cervical spine is healthy, gently drape the head back so that the base of the skull rests above the shoulder blades.";
+
+"exerciseDescription133" = "Stand with your feet together.  Shift your weight into your right foot and draw your left knee in towards your chest.  Hold the arch of the left foot in both hands.  Extend the left leg as you fold over it, bringing your forehead towards your shin. \n\n Repeat standing on left leg and holding right foot.";
+
+"exerciseDescription134" = "Begin in a standing forward fold.  Bending both knees, plant your right hand on the ground under your chest and place your left hand on your left hip.  Inhale as you lengthen your spine.   Exhale as you twist to the left, extending the left leg only and releasing the left arm up towards the sky.  Keep the sides of the neck long as you look up at your left hand. \n\n Return to a standing forward fold.  Bending both knees, plant your left hand on the ground under your chest and place your right hand on your right hip.  Inhale as you lengthen your spine.  Exhale as you twist to the right, extending just the right leg and releasing the right arm up towards the sky.  Keep the sides of the neck long as you look up at your right hand.";
+
+"exerciseDescription135" = "Stand with your big toes together and outer edges of the feet parallel to each other.  Place your palms on your buttocks with the fingertips pointing towards your heels.  As you inhale, lengthen your spine.  As you exhale, use your hands to press your buttocks down towards the heels and curl your chest up towards the ceiling.  Slide your shoulder blades together and down your back, drawing the elbows towards each other.";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = "Lie on your back with knees bent, feet planted hips distance apart, and outer edges of the feet parallel to each other.  Extend your arms at your sides and position your feet so that your fingertips graze the edges of your heels.  Lift your arms towards the ceiling and flex your wrists.  Bend your elbows and plant your palms at your shoulder tops with the fingertips pointing towards the shoulders.  Press into the inner edges of your hands and inner heels as you lift your pelvis, chest, and head off of the ground.  Rotate your outer thighs towards your inner thighs and press your chest through your arms.  Be careful not to allow your feet to slide wider than hips distance apart. \n\n To release, draw your chin towards your chest and your buttocks towards your heels as you lower back down to the floor.";
+

@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Yoga
+
+  Created by Alex Overseer on 11/28/16.
+  Copyright © 2016 SOFTINTERCOM. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "ヨガ";
+"CFBundleName" = "ヨガ";
+"CFBundleExecutable" = "Yoga";

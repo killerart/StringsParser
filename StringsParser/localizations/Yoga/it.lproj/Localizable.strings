@@ -1,0 +1,903 @@
+/*
+ Localizable.strings
+ Yoga
+ 
+ Created by Alex Overseer on 4/4/16.
+ Copyright © 2016 SOFTINTERCOM. All rights reserved.
+ */
+
+//Intro
+
+
+"Choose Your Goals" = "Scegli i tuoi obiettivi";
+"Increase Flexibility" = "Aumenta flessibilità";
+"Get Toned" = "Rassoda";
+"Lose Weight" = "Perdi peso";
+"Reduce Stress" = "Riduci lo stress";
+"Continue" = "Continua";
+"Yearly" = "Annuale";
+
+"Enter Your Parameters" = "Inserisci i tuoi dati";
+"Height" = "Altezza";
+"Current weight" = "Peso attuale";
+"Target weight" = "Peso desiderato";
+"Pick Your Height" = "Seleziona la tua altezza";
+"Pick Your Weight" = "Seleziona il tuo peso";
+"Pick Your Target Weight" = "Seleziona il peso che desideri raggiungere ";
+"lbs" = "lb";
+"kg" = "kg";
+"ft, in" = "ft, in"; //feet, inch
+"cm" = "cm"; //centimeter
+"Save" = "Salva";
+
+"Join Millions\nof happy users" = "Unisciti a milioni\ndi utenti felici";
+"No Annoying Ads" = "Nessuna pubblicità invasiva";
+"Not sure yet?" = "Hai ancora dubbi?";
+"Enable free trial" = "Attiva la prova gratuita";
+"Discount %d%%" = "Sconto del %d%%"; //example Discount 60%
+"Just Now! Limited Offer!" = "Solo ora! Offerta limitata!";
+"Join with our best offer" = "Attiva la nostra offerta migliore";
+"Weekly plan" = "Piano settimanale";
+"Monthly plan" = "Piano mensile";
+
+"Not now" = "Non ora";
+"Save %d%%" = "Risparmia il %d%%"; //Example: Save 60%
+"year\nBilled annually" = "l’anno\nPagamento annuale"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "dopo 7 giorni gratuiti\ndi prova";
+"healthAppPermisionKey" = "All'app non è consentito di sovrascrivere dati sull'app Salute. Puoi abilitare la funzionalità nell'app Salute";
+"Open" = "Aperto";
+
+
+//Presentation
+
+"Balance Flexibility" = "Equilibrio e flessibilità";
+"100+ Poses" = "Oltre 100 posizioni";
+"19 Classes" = "19 Lezioni";
+"Tons of Classes" = "Tante lezioni";
+"Anywhere Anytime" = "Dove vuoi e quando vuoi";
+"Nutrition Plans" = "Piani alimentari";
+
+
+//Buttons keys
+"backButtonKey" = " Indietro";
+"doneButtonKey" = "Fatto";
+"editButtonKey" = "Crea";
+"cancelButtonKey" = "Cancella";
+"yesButtonKey" = "SI";
+"startButtonKey" = "Start";
+"skipButtonKey" = "Avanti";
+
+//MainScreenViewController
+"posesNameKey" = "Posizioni";
+"posesDescriptionKey" = "Libertà di esercitarti dove e quando vuoi.";
+
+"classesNameKey" = "Lezioni";
+"classesDescriptionKey" = "Focus su flessibilità, forza, equilibrio. Trova la tua lezione preferita.";
+
+"moreNameKey" = "Altro";
+"moreDescriptionKey" = "Unisciti alla VGFIT community. Ottieni altri esercizi.";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "Cerca esercizio";
+"noResultsLabelKey" = "Nessun risultato";
+
+//ClassesViewController
+"classBalanceKey" = "Equilibrio";
+"classBalanceDescriptionKey" = "Differenti stili di yoga conbinati con l’obiettivo di migliorare il tuo equilibrio.";
+
+"classStrengthKey" = "Forza";
+"classStrengthDescriptionKey" = "Una combinazione di posizioni yoga che ti aiuteranno a costruire la forza del tuo corpo.";
+
+"classFlexibilityKey" = "Flessibilità";
+"classFlexibilityDescriptionKey" = "Focus sul tuo respiro, recupero muscolare e flessibilità del tuo corpo.";
+
+//LevelViewController
+"levelBegginerKey" = "Principiante";
+"levelBegginerTitleKey" = "Iniziamo con un esercizio leggero";
+"levelBegginerDescriptionKey" = "Focus su costruzione di forza e resistenza per creare stabili fondamenta.";
+
+"levelIntermediateKey" = "Intermedio";
+"levelIntermediateTitleKey" = "Passiamo ad un esercizio più difficile";
+"levelIntermediateDescriptionKey" = "Per coloro che hanno una forte esperienza di yoga precedente.";
+
+"levelAdvancedKey" = "Esperto";
+"levelAdvancedTitleKey" = "Esercizi difficili";
+"levelAdvancedDescriptionKey" = "Dedicato ad esperti e avanzati che hanno una forte pratica alle spalle.";
+
+//DifficultyViewController
+"secondSideKey" = "secondo lato";
+"minutesKey" = "min";
+"posesKey" = "posizioni";
+
+//Error messages
+"downloadErrorKey" = "Errore Download";
+"downloadCompleteKey" = "Download completo.";
+"internetConnectionKey" = "Connessione Internet";
+"internetConnectionLostKey" = "Connessione Internet persa.";
+"videoNotFoundKey" = "Video non trovato";
+"videoNotFoundDescriptionKey" = "Vuoi continuare ?  Clicca si e proveremo a scaricarlo di nuovo. Clicca Cancella per tornare indietro.";
+
+"smtWentWrongKey" = "Qualcosa non ha funzionato.";
+"downloadErrorNoConnectionKey" = "Impossibile effettuare il download. Per cortesia controlla la tua connessione internet Wi-Fi o Dati!";
+"playerNoInternetConnectivityKey" = "Impossibile effettuare il download Per cortesia controlla la tua connessione Internet Wi_Fi o Dati !. Hit Clicca si per andare Avanti. Clicca cancella per tornare indietro.";
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Video in Download";
+"downloadOneVideoKey" = "Video in Download";
+
+//SecondPlayerViewController
+"previewKey" = "Anteprima";
+"secondsKey" = "secondi";
+"completedKey" = "Completato";
+"playerCurrentExerciseKey" = "Nome esercizio:";
+"playerNextExerciseKey" = "Prossimo:";
+
+//MoreViewController
+"moreProfileTitleKey" = "Profilo\n(Cronologia Yoga )";
+"moreProfileDescriptionKey" = "Puoi salvare la cronologia delle tue lezioni e pianificare la prossima.";
+
+"moreAppsTitleKey" = "Altre\nApp VGFIT";
+"moreAppsDescriptionKey" = "Scopri le nuove App di VGFIT e raggiungi I tuoi obiettivi di fitness.";
+
+"moreSocialTitleKey" = "Social\nmedia VGFIT";
+"moreSocialDescriptionKey" = "Trova motivazione e condividila con gli amici Unisciti alla VGFIT community.";
+
+"moreSettingsTitleKey" = "Impostazioni";
+"moreSettingsDescriptionKey" = "Impostazioni avanzate che offrono una migliore esperienza.";
+
+"moreRateUsTitleKey" = "Votaci";
+
+"historyTitleKey" = "Cronologia";
+"historyNoExerciseKey" = "Non è stato fatto ancora nessun esercizio";
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "Addominali six pack";
+"otherAppFitnessAndBodyBuildingKey" = "Fitness e Bodybuilding";
+"otherAppFemaleFitnessKey" = " Fitness femminile";
+"otherAppGoPedometerKey" = "Go Pedometer";
+"otherAppSmartCycleAlarmProKey" = "Smart Cycle Alarm PRO";
+"otherAppTimerKey" = "Timer pro";
+"otherApp7minKey" = "7 Minuti";
+"Water Reminder" = "Promemoria acqua";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "Anteprima completa";
+"settingsPreviewShortKey" = "Anteprima corta";
+"settingsPreviewNoneKey" = "Nessuna anteprima";
+"settingsbreathCycleLenghtKey" = "Lunghezza ciclo di respirazione";
+
+//Speech to Text messages
+
+"beginKey" = "inizio";
+"xMoreSeconds" = "altri %@ secondi";
+"halfWayThereKey" = "Sei a metà";
+
+//Rate Us messages
+
+"Love our %@ app?" = "Ti piace la nostra app %@?";
+"Your feedback will help us to get better" = "Il tuo feedback ci aiuterà a migliorare";
+"Oh Dear!" = "Oh caspita!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Ti saremmo grati se potessi prendere in considerazione l’idea di segnalarci alcuni spunti per migliorare l’app. Grazie!";
+
+"5-Stars" = "5 stelle";
+"To improve the app, please Leave a Rating or Review." = "Per migliorare l’app, lascia una valutazione o una recensione.";
+
+"Rate Us" = "Valutaci";
+"Email Us" = "Mandaci un’email";
+"Not now" = "Non adesso";
+
+//Reminder
+
+"Reminder" = "Promemoria";
+"Edit notification permission in IOS settings" = "Modifica le autorizzazioni delle notifiche nelle impostazioni di iOS ";
+"Daily reminder" = "Promemoria giornaliero";
+"Frequency" = "Frequenza";
+"It's time to workout!" = "È il momento di allenarsi!";
+"After %ld days of inactivity" = "Dopo %ld giorni di inattività";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Ehi! Non ti alleni da qualche giorni, ritorna ad allenarti! ";
+"Days" = "Giorni";
+
+//Audio Player
+
+"Voice Guide" = "Guida Vocale";
+"Background Music" = "Musica di Sottofondo";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "Yoga – posizioni e corsi";
+"Upgrade" = "Aggiornamento";
+"Buy" = "Acquista";
+"Restore Purchases" = "Ripristina acquisti";
+"Premium" = "Premium";
+"Nutrition" = "Nutrizione";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "Sblocca tutte le nuove tabelle progettate da grandi allenatori. Raggiungi i tuoi obiettivi con maggiore facilità.";
+"Ads free experience" = "Esperienza priva di pubblicità ";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "Elimina tutte le pubblicità. Goditi un bellissimo percorso yoga senza le pubblicità.";
+"Unlock all music" = "Sblocca tutta la musica";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "Goditi degli audio esclusivi per immergerti meglio nella tua pratica. \n+ Scegli il tuo tono speciale per le notifiche, così non perderai mai nulla.";
+"Yoga Classes" = "Lezioni di Yoga";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "10 nuove lezioni per tutti i livelli per mettersi in forma con degli allenamenti positivi e motivazionali \n+ Piano alimentare bilanciato per la perdita di peso.";
+
+//Select Sound
+
+"Sounds" = "Suoni";
+"Sound" = "Suono";
+
+"Default" = "Predefinito";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "Lezione veloce di Yoga";
+"Quick Yoga Fix_details" = "Integra lo yoga anche nelle tue giornate più impegnative, questa sequenza è sia stabilizzante che energizzante.";
+
+"Getting Toned" = "Sviluppa la tonicità";
+"Getting Toned_details" = "Sviluppa tono muscolare nelle zone più importanti, comprese braccia, tronco, glutei e gambe.";
+
+"Morning Yoga" = "Yoga del mattino";
+"Morning Yoga_details" = "Inizia la giornata con una rinvigorente pratica di yoga che enfatizzerà i movimenti della spina dorsale in tutte le direzioni, comprende anche delle forti posizioni in piedi.";
+
+"Daily Yoga for ABS" = "Yoga quotidiano per gli addominali";
+"Daily Yoga for ABS_details" = "Focalizzati sugli addominali profondi e tonificali.";
+
+"Yoga for Runners" = "Yoga for amanti della corsa";
+"Yoga for Runners_details" = "Lo yoga offre una combinazione unica di allenamento all’equilibrio, flessibilità, forza e concentrazione, può aiutare i corridori a migliorare le prestazioni ed evitare gli infortuni. Corri in maniera intelligente con questa sequenza di cross-training. ";
+
+"Boost Your Energy" = "Aumenta l’energia";
+"Boost Your Energy_details" = "Ricarica le energie con questa sequenza progettata appositamente per rinvigorire il corpo, la mente e lo spirito.";
+
+"Deep Stretching Exercises" = "Esercizi per uno stretching profondo ";
+"Deep Stretching Exercises_details" = "Ringiovanisci i muscoli più stanchi, migliora i movimenti e la circolazione con questi esercizi di yoga per l’allungamento.";
+
+"Improve Your Balance" = "Migliora l’equilibrio";
+"Improve Your Balance_details" = "Migliora la coordinazione, la postura, i tempi di reazione e la consapevolezza del tuo corpo con questa impegnativa sequenza di pose di equilibrio.";
+
+"Challenge Your Flexibility" = "Sfida la tua flessibilità";
+"Challenge Your Flexibility_details" = "Sviluppa la flessibilità attraverso una serie di intensivi esercizi di allungamento e applica i risultati provando delle posizioni yoga più avanzate.";
+
+"Core Muscle Sculptor" = "Scolpisci i muscoli fondamentali";
+"Core Muscle Sculptor_details" = "Inizia dalle fondamenta per sviluppare forza nelle gambe, gli addominali, la parte bassa della schiena e i muscoli laterali.";
+
+"Food Nutrition" = "Nutrizione";
+"Food Nutrition_details" = "Non sarai mai stato così in forma in tutta la tua vita! Impara cosa mangiare, scopri i cibi che fanno bruciare i grassi, mangia pasti deliziosi per accelerare il metabolismo. ";
+
+//Other
+
+"In-App purchases were restored" = "Gli acquisti in-app sono stati ripristinati";
+"Sorry we didn't find your previous purchases" = "Ci spiace, non abbiamo trovato il tuo acquisto precedente";
+"Alert" = "Alert";
+"No internet connection" = "Nessuna connessione ad internet!";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription options: &&3 days of free trial followed by $3.99 per Week. 3 days of free trial followed by $12.99 per Month. 3 days of free trial followed by $35.99 per Year++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+//"Restore" = "Ripristina";
+
+
+"Subscription Info" = "Informazioni abbonamento";
+"More info about subscriptions and Premium membership" = "Maggiori informazioni riguardo gli abbonamenti e l’iscrizione Premium ";
+"%d days of free trial followed by %@ per %@" = "%d giorni di prova gratuita seguiti da %@ a %@"; //ex:3 days of free trial followed by $3.99 per week
+"month"="mese";
+"year"="anno";
+"week"="settimana";
+"after"="dopo";
+"Privacy Policy"="Informativa sulla privacy";
+"Terms of Service"="Termini di utilizzo";
+"Nutrition plan"="Piano alimentare";
+"and"="e";
+"Subscription"="Abbonamento";
+"By continuing you accept our"="Procedendo accetterai i nostri";
+
+"Start your positive\ntransformation today!"="Inizia oggi \nla tua trasformazione!";
+"Get 100% ready workouts courses with powerful support!"="Ottieni allenamenti pronti al 100% con una solida assistenza!";
+"Only now"=" Solo ora ";
+"GET LIFETIME ACCESS"="OTTIENI ACCESSO ILLIMITATO ";
+"one-time payment"="pagamento unico";
+
+//Yoga
+"%d poses and %d yoga classes"="%d posizioni e %d lezioni di yoga";
+"3 days for FREE"="3 giorni GRATUITI";
+"Ads FREE\nexperience"="esperienza SENZA\npubblicità";
+"Yoga"="Yoga";
+"Yoga\nClasses"="Lezioni di\nYoga";
+"UNLOCK\nall music"="SBLOCCA\ntutta la musica";
+"76% off"="76% di sconto"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="%@ al mese in un unico pagamento annuale per un totale di %@ l’anno";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="Programma nutrizionale per perdere peso";
+
+//VGFIT WORKOUT
+"Nutrition plan for building muscle"="Sviluppa massa muscolare";
+"Nutrition plan for weight loss"="Corpo snello";
+"Challenges"="Sfide";
+"Ads FREE experience"="Esperienza SENZA \npubblicità";
+"Nutrition plans"="Programmi \nnutrizionali";
+"New Workouts"="Nuovi \nallenamenti";
+"ARMS | ABS"="BRACCIA | ADDOMINALI";
+"CLOSE"="CHIUDI";
+"Workout challenges"="Sfide allenamenti";
+"Challenge"="Sfida";
+"Exercises"="Esercizi";
+"Restore purchase"="Ripristina acquisto";
+"SHARE"="CONDIVIDI";
+"%d-day\nFree Trial"="%d-giorno\nProva gratuita ";
+"Try it Now"="Provalo ora";
+"GET LIFETIME ACCESS"="OTTIENI ACCESSO ILLIMITATO";
+"SKIP"="SKIP";
+"%@ WORKOUTS"="%@ ALLENAMENTI";// ex: 25 workouts
+"3-day \nFree trial"="3-giorni \nProva gratuita";
+"7-day \nFree trial"="7-giorni \nProva gratuita";
+"startKey"="Inizia";
+//Exercise name
+
+"exerciseName1" = "Montagna";
+
+"exerciseName2" = "Mezzo-Loto";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "Variazione della sedia";
+
+"exerciseName5" = "Ripiegamento laterale";
+
+"exerciseName6" = "Uccello del paradiso";
+
+"exerciseName7" = "Variazione pollici";
+
+"exerciseName8" = "Barca";
+
+"exerciseName9" = "Arco";
+
+"exerciseName10" = "Variazione Ponte";
+
+"exerciseName11" = "Camello";
+
+"exerciseName12" = "Gatto";
+
+"exerciseName13" = "Allungamento posteriore";
+
+"exerciseName14" = "Sedia";
+
+"exerciseName15" = "Sedia storta";
+
+"exerciseName16" = "Sedia storta con Braccia Distese";
+
+"exerciseName17" = "Posizione del bambino";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "Cobra";
+
+"exerciseName20" = "Posizione del cadavere";
+
+"exerciseName21" = "Mucca";
+
+"exerciseName22" = "Muso di vacca";
+
+"exerciseName23" = "Variazione muso di vacca";
+
+"exerciseName24" = "Tavolo inverso";
+
+"exerciseName25" = "Corvo";
+
+"exerciseName26" = "Delfino";
+
+"exerciseName27" = "Sfinge";
+
+"exerciseName28" = "Posizione della plancia dell’avambraccio";
+
+"exerciseName29" = "Cane a testa in giù";
+
+"exerciseName30" = "Cane a testa in giù con torsione";
+
+"exerciseName31" = "Rana";
+
+"exerciseName32" = "Posizione Esperta con Braccia ad aquila";
+
+"exerciseName33" = "Aquila";
+
+"exerciseName34" = "Posizione pressione orecchie";
+
+"exerciseName35" = "Torsione spinale";
+
+"exerciseName36" = "Piegamento in Avanti a gambe incrociate";
+
+"exerciseName37" = "Posizione storta";
+
+"exerciseName38" = "Posizione del cuore";
+
+"exerciseName39" = "Angolo laterale legato";
+
+"exerciseName40" = "Angolo laterale allungato modificato";
+
+"exerciseName41" = "Angolo laterale";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "Posizione fuoco acceso";
+
+"exerciseName44" = "Pesce";
+
+"exerciseName45" = "Cancello";
+
+"exerciseName46" = "Cavallo";
+
+"exerciseName47" = "Tigre";
+
+"exerciseName48" = "Cammello con torsione";
+
+"exerciseName49" = "Mezza Rana";
+
+"exerciseName50" = "Locusta";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "Mezzo loto";
+
+"exerciseName53" = "Mezzo-Split";
+
+"exerciseName54" = "Variazione mezza luna chinata";
+
+"exerciseName55" = "Mezza luna";
+
+"exerciseName56" = "Posizione sulle spalle";
+
+"exerciseName57" = "Posizione Sage Marichi's III";
+
+"exerciseName58" = "Posizione sulla testa";
+
+"exerciseName59" = "Posizione sulla testa tripode";
+
+"exerciseName60" = "Bambino felice";
+
+"exerciseName61" = "Posizione di Heron";
+
+"exerciseName62" = "Passo in Avanti con affondo";
+
+"exerciseName63" = "Passo in Avanti alto";
+
+"exerciseName64" = "Guerriero ad arco";
+
+"exerciseName65" = "Full Cobra";
+
+"exerciseName66" = "Danzatore";
+
+"exerciseName67" = "Variazione sollevamento del vento";
+
+"exerciseName68" = "Saluto agli otto punti";
+
+"exerciseName69" = "Posizione della lucertola";
+
+"exerciseName70" = "Variazione posizione della Locusta";
+
+"exerciseName71" = "Affondo mezzaluna con torsione";
+
+"exerciseName72" = "Affondo mezzaluna";
+
+"exerciseName73" = "Sirena";
+
+"exerciseName74" = "Muso di vacca con gamba verso l’alto";
+
+"exerciseName75" = "Coniglio";
+
+"exerciseName76" = "Piccione Reale";
+
+"exerciseName77" = "Piramide";
+
+"exerciseName78" = "Mezzo piccione";
+
+"exerciseName79" = "Posizione della scala";
+
+"exerciseName80" = "Ponte";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "Variazione Preghiera Alta";
+
+"exerciseName83" = "Tavola";
+
+"exerciseName84" = "Inclinazione piede dito B";
+
+"exerciseName85" = "Aratro";
+
+"exerciseName86" = "Tigre con variazione ad arco";
+
+"exerciseName87" = "Guerriero pacifico";
+
+"exerciseName88" = "Mezza luna ruotata";
+
+"exerciseName89" = "Posizione testa al ginocchio";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "Piccione reclinato";
+
+"exerciseName92" = "Posizione testa al ginocchio reclinata";
+
+"exerciseName93" = "Triangolo reclinato";
+
+"exerciseName94" = "Low Lunge";
+
+"exerciseName95" = "Variazione piede dito reclinata in piedi";
+
+"exerciseName96" = "Torsione spinale supina";
+
+"exerciseName97" = "Angolo inclinato";
+
+"exerciseName98" = "Inclinazione piede dito A";
+
+"exerciseName99" = "Piegamento in Avanti seduti";
+
+"exerciseName100" = "Inclinazione Piede dito D";
+
+"exerciseName101" = "Asse laterale";
+
+"exerciseName102" = "Braccia Muso di vacca";
+
+"exerciseName103" = "Piegamento laterale da seduti";
+
+"exerciseName104" = "Variazione spalla in piedi";
+
+"exerciseName105" = "Inclinazione posterior in piedi";
+
+"exerciseName106" = "Posizione piede dito in piedi B";
+
+"exerciseName107" = "Variazione Locusta con dita incrociate";
+
+"exerciseName108" = "Posizione seduti";
+
+"exerciseName109" = "Sfinge";
+
+"exerciseName110" = "Asse laterale modificata";
+
+"exerciseName111" = "Piegamento ampio in avanti";
+
+"exerciseName112" = "Yoga Squat";
+
+"exerciseName113" = "Piegamento angolare in Avanti seduti";
+
+"exerciseName114" = "Piegamento ampio in avanti C";
+
+"exerciseName115" = "Variazione testa ginocchio inclinata";
+
+"exerciseName116" = "Yoga Squat con rassodamento";
+
+"exerciseName117" = "Posizione dell’eroe che guarda verso il basso";
+
+"exerciseName118" = "Ampio piegamento in Avanti con torsione";
+
+"exerciseName119" = "Ampio piegamento in Avanti con allungamento laterale";
+
+"exerciseName120" = "Divano di Vishnu";
+
+"exerciseName121" = "Posizione salto in Avanti a faccia in su";
+
+"exerciseName122" = "Guerriero 2";
+
+"exerciseName123" = "Saltolaterale in piedi con dita incrociate";
+
+"exerciseName124" = "Spaccata in piedi";
+
+"exerciseName125" = "Piegamento in Avanti in piedi";
+
+"exerciseName126" = "Piede ditto in piedi A";
+
+"exerciseName127" = "Variazione piegamento in Avanti con Apertura Spalla";
+
+"exerciseName128" = "Guerriero1";
+
+"exerciseName129" = "Guerriero 3";
+
+"exerciseName130" = "Curva laterale in piedi";
+
+"exerciseName131" = "Cavalletto sostegno spalla";
+
+"exerciseName132" = "Plancia rovesciata";
+
+"exerciseName133" = "Piede ditto in piedi C con piegamento in avanti";
+
+"exerciseName134" = "Piegamento in Avanti in piedi con torsione";
+
+"exerciseName135" = "Curvatura schieda in piedi con supporto";
+
+"exerciseName136" = "Posizione delle Quattro membra";
+
+"exerciseName137" = "Posizione Tavolo & Quattro membra";
+
+"exerciseName138" = "Arco a faccia in su";
+
+//Exercise description
+
+"exerciseDescription1" = "Stando con i piedi alla distanza dei fianchi con i bordi esterni dei piedi paralleli tra loro allungare la colonna vertebrale e tendere l'ombelico verso la colonna vertebrale. Spingere verso l'alto attraverso la sommità della testa e postare il coccige verso i talloni";
+
+"exerciseDescription2" = "Sedersi per terra e piegare il ginocchio sinistro, mettendo il bordo esterno del piede sinistro sotto la coscia destra e di fronte al vostro coccige. Poi afferrare il bordo esterno del piede destro e posizionarlo nella piega dell'anca sinistra. Inserite i palmi delle mani rivolti verso il basso sulle ginocchia e sedersi con le spalle rilassate. Ripetere con la gamba sinistra ";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = "Stando con i piedi perpendicolari ai fianchi, stendere le braccia dritte di fronte a voi, con i palmi rivolti verso il basso piegare le ginocchia e sollevare i talloni sulle punte dei piedi.";
+
+"exerciseDescription5" = "Sdraiati sulla schiena con i palmi delle mani a coppa sulla parte posteriore della testa. Poggiare la caviglia sinistra sopra la caviglia destra. Fare una curva laterale spostando la parte superiore del corpo e le gambe a destra. Rientrare al centro, cambiare l’incrocio delle caviglie in modo che la gamba destra sia sopra, effettuare la curva a sinistra. ";
+
+"exerciseDescription6" = "Stando in piedi fare una piega in avanti con i piedi a distanza dei fianchi. Piegate le ginocchia e stendere braccio destro di fronte a voi, infilarlo tra le gambe, piegare il gomito, e raggiungere la mano destra verso il fianco esterno destro. Teneteil gomito sinistro dietro la schiena e raggiungere la mano sinistra verso il fianco esterno destro. Tenere il polso sinistro con la mano destra. (Se non è possibile raggiungere il polso, cercare di agganciare la punta delle dita di entrambe le mani.) \n\n Una volta che le mani sono vicino l'anca esterna destra, sollevare il tallone destro, spostare il peso sul suo piede sinistro, e alzarsi sulla gamba sinistra. Mantenere il ginocchio piegato a destra tendendo la gamba sinistra e allungare la colonna vertebrale. Infine, premere il braccio destro contro la gamba destra mentre si estende la gamba destra di lato. \n\n Ripetere in piedi sulla gamba destra, con le braccia avvolte attorno alla gamba sinistra. ";
+
+"exerciseDescription7" = "Sedetevi con le ginocchia piegate e le piante dei piedi di fronte a voi. Mettete le mani sotto le cosce e sollevate i piedi in modo da bilanciarci sull’osso sacro. Stendere le gambe, il più possibile, senza piegare schiena. Nel corso del tempo, una volta aumentata la flessibilità, si potranno far scivolare le mani in alto le gambe verso i piedi e, infine, tenere gli alluci con le prime tre dita di ogni mano. ";
+
+"exerciseDescription8" = "Sedetevi con le ginocchia piegate, le piante dei piedi piantati di fronte a voi e le braccia distese. Sollevare i piedi da terra e portare gli stinchi in parallelo in alto, le braccia estese accanto alle gambe. Bilanciamento sull’osso sacro, tenere per almeno 5 respiri. ";
+
+"exerciseDescription9" = "Sdraiatevi sulla pancia, piegate le ginocchia, e aggrapparsi ai lati esterni delle caviglie. Sollevare la testa, petto e gambe sollevati. Tenere le gambe non più larghe della distanza dei fianchi, spingere la sommità della testa e gli stinchi verso il soffitto. ";
+
+"exerciseDescription10" = "Sdraiatevi sulla schiena con le ginocchia piegate, le piante dei piedi a distanza dei fianchi , i bordi esterni dei piedi paralleli l'uno all'altro. Tenere l'esterno delle caviglie nelle vostre mani, sollevare il bacino, e la curvarle fino al petto. ";
+
+"exerciseDescription11" = "Inginocchiatevi con gli stinchi paralleli tra loro e le parti superiori dei piedi sul pavimento. Allinea i fianchi con le ginocchia e le spalle con i fianchi. Sollevare il petto verso in alto mantenendo i fianchi sopra le ginocchia, fino a raggiungere i talloni. ";
+
+"exerciseDescription12" = "Stando a quattro zampe , nella posizione del tavolo con le spalle sopra i polsi e le vostre anche sopra le ginocchia. Durante l'espirazione, oiegare la colonna vertebrale in modo da spingere la testa verso il pavimento, l'ombelico verso la colonna vertebrale, e il coccige in basso verso il pavimento.";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "In piedi con i piedi a distanza fianchi e i bordi dei piedi paralleli l'uno all'altro. Inspirate ed estendete le braccia sulle orecchie, i palmi uno di fronte all'altro. Mantenere le braccia alla larghezza delle spalle, piegarsi sulle ginocchia e spingendo i fianchi indietro. Provare a portare le cosce parallele al suolo sollevando il basso ventre e il petto.";
+
+"exerciseDescription15" = "In piedi con gli alluci e i bordi esterni dei piedi paralleli tra loro. Piegate le ginocchia e unite i palmi delle mani davanti al petto. Inspirate mentre allungate la colonna vertebrale, mantenendo i fianchi bassi. Durante l'espirazione, portare il gomito sinistro al di fuori della coscia destra. Inspirate di nuovo portando al centro i palmi delle mani in una posizione di preghiera davanti al petto espirate mentre effettuate una contro-torsione a sinistra.";
+
+"exerciseDescription16" = "In piedi con gli alluci e i bordi esterni dei piedi paralleli tra loro. Piegate le ginocchia e unite i palmi delle mani davanti al petto. Inspirate mentre allungate la colonna vertebrale, mantenendo i fianchi bassi. Durante l'espirazione, portare il gomito sinistro al di fuori della coscia destra. Apri le braccia a forma di \"T\", in modo che la punta delle dita di sinistra raggiungano il terreno esterno della caviglia destra e il braccio destro verso l’alto. Guardate il palmo della mano destra.\n\n Inspirate per tornare al centro, con i palmi delle mani in una posizione di preghiera davanti al petto. Espirate mentre effettuate una contro-torsione a sinistra, portando il gomito destro al di fuori della coscia sinistra. Stendere le braccia, questa volta raggiungendo con la mano destra l'esterno della caviglia sinistra e allungando il braccio sinistro verso il cielo. Guardate il palmo della mano sinistra. ";
+
+"exerciseDescription17" = " Stando sulle mani e sulle ginocchia in posizione del tavolo, unite gli alluci e sedetevi sui talloni, spingere la fronte verso il basso e portare le braccia lungo il corpo, con i palmi rivolti verso l'alto.";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = " Sdraiati sul ventre e posizionare i palmi delle mani rivolti verso il basso accanto alle costole inferiori, appena sopra la vita. Sollevare il busto, spingendosi sulle mani, e lasciare ginocchia, stinchi, e parti superiori dei piedi a terra. Spingere il coccige verso i talloni per coinvolgere gli addominali inferiori e raddrizzare le braccia nella misura in cui è possibile farlo senza disagi per la parte bassa della schiena. \n\n Lasciando il palmo della mano sinistra a terra, girare il petto e la testa a destra e far scivolare la mano destra verso il basso nella parte posteriore della coscia destra. Rientro al centro e ripetere sul lato sinistro. ";
+
+"exerciseDescription20" = " Sdraiatevi sulla schiena con le gambe estese e le braccia lungo i fianchi, con i palmi rivolti verso l'alto. Chiudete gli occhi e rilassate i muscoli, liberando il peso del vostro a terra.";
+
+"exerciseDescription21" = " Stando a quattro zampe nella posizione del tavolo inspirate, inarcate la schiena, sollevate il mento, e guardate in alto";
+
+"exerciseDescription22" = " Sedetevi a terra, piegate le ginocchia, e portate il ginocchio destro sopra il sinistro in modo che entrambe le ginocchia siano impilati davanti al tuo ombelico tra i talloni. Estendere il braccio sinistro verso il soffitto, piegare il gomito sinistro , e puntare la punta delle dita giù per la schiena. Estendere il braccio destro verso il lato destro, ruotare il palmo della mano destra dietro di voi, e piegare il gomito destro in modo che la punta delle dita punti lungo la schiena. Stringere la mano destra e sinistra insieme. Ripetere sul secondo lato con il ginocchio sinistro sul braccio a destra e in alto. ";
+
+"exerciseDescription23" = " Sedetevi a terra, piegate le ginocchia, e portateil ginocchio destro sopra la sinistra in modo che entrambe le ginocchia siano impilate davanti al tuo ombelico tra i talloni. Allungare la colonna vertebrale e estendere le braccia toccando le orecchie. Ripetere sul secondo lato con il ginocchio sinistro sopra al destro. ";
+
+"exerciseDescription24" = " Sedetevi con le ginocchia piegate e i piedi piantati distanti tra loro di fronte a voi. Piantate i palmi delle mani dietro di voi, a distanza spalle con le dita rivolte in avanti. Sollevare il bacino in modo che le ginocchia siano piegate ad un angolo di 90 gradi. Sollevare le ginocchia sopra le caviglie e le spalle sopra i polsi. Premere sul dito indice e sul pollice di ciascuna mano. Per iniziare, mantenere il collo in linea con il resto della colonna vertebrale e il naso puntato verso il soffitto. Se non avete problemi della colonna cervicale, è possibile lasciare che il capo penzoli dolcemente indietro in modo che la base del cranio penda sopra le scapole.";
+
+"exerciseDescription25" = " Stando in piedi effettuare una piega in avanti con i piedi uniti. Piegate le ginocchia e piantate i palmi delle mani a circa un piede di distanza dai piedi con le mani a distanza spalle e i polpastrelli a terra. Alzare i talloni per sollevare il fianchi e abbassare le ginocchia fino alla parte superiore delle braccia, creando una mensola con le braccia. Piegare i gomiti per quasi 90 gradi e porli sopra i polsi. Guardare oltre le mani sul pavimento e lentamente spostare il peso sulle mani. Una volta che le spalle sono spostate leggermente in avanti e tutto il vostro peso è sulle mani, sollevare uno o entrambi i piedi dal pavimento, puntare le dita dei piedi e portarli verso il coccige ";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = " Sdraiatevi sulla pancia sollevati sui gomiti in modo che gli avambracci siano paralleli tra loro e i gomiti siano a larghezza spalle. Trascinare i gomiti verso i fianchi tirando il petto in avanti attraverso le braccia. Puntare le dita dei piedi e far scorrere il coccige verso i talloni.";
+
+"exerciseDescription28" = " Sdraiatevi sulla pancia sollevati sui gomiti in modo che gli avambracci siano paralleli tra loro e i gomiti siano a larghezza spalle. Infilare le dita dei piedi sotto e sollevare le cosce e il bacino dal pavimento. Il centro le spalle sopra i gomiti e sollevare la pancia verso la parte bassa della schiena unire le cosce e spingere l’ osso pubico verso l’ ombelico per mantenere i fianchi in aria.";
+
+"exerciseDescription29" = " Stando a quattro zampe nella posizione del tavolo con i polsi sotto le spalle spingendo sui piedi, sollevare il bacino e premere il petto verso le gambe allungando i talloni verso il pavimento. Spingere il piano con le mani al fine di portare il busto verso le gambe. Spingi con forza con il dito indice e il pollice di ciascuna mano e mettere i piedi a distanza fianchi, con i talloni dietro il secondo e terzo dito. ";
+
+"exerciseDescription30" = " Stando a quattro zampe nella posizione del tavolo con i polsi sotto le spalle spingendo sui piedi, sollevare il bacino e premere il petto verso le gambe allungando i talloni verso il pavimento. Spingere il piano con le mani al fine di portare il busto verso le gambe. Spingi con forza con il dito indice e il pollice di ciascuna mano e mettere i piedi a distanza fianchi, con i talloni dietro il secondo e terzo dito.  \n\n Tenere il palmo della mano sinistra a terra, raggiungere il braccio destro attraverso lo spazio tra le gambe per tenere la parte posteriore della caviglia sinistra. Continuare a raggiungere i fianchi esterni e premere a terra con il palmo della mano sinistra. Ripetere sul secondo lato.";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = " Sedetevi con le ginocchia piegate verso entrambi i lati e i piedi di fronte al vostro osso pubico, piede sinistro davanti a destra. Piegate i gomiti e agganciate il gomito destro sotto il sinistra. Far scendere i gomiti e premere i palmi delle mani in avanti .Ripetere sul secondo lato con il piede destro nella parte anteriore e il gomito sinistro sotto.";
+
+"exerciseDescription33" = " In piedi con i piedi uniti sollevare il tallone destro. Avvicinarei gomiti e agganciare il gomito destro sotto il sinistro. Portare i palmi delle mani in faccia. Sollevare i gomiti e premere i palmi delle mani in avanti. \n\n Piegate il ginocchio sinistro e attraversate il ginocchio destro sulla sinistra, bilanciatevi sulla gamba sinistra e portando l'alluce destro alla caviglia sinistra. Portare i fianchi esterni indietro, tenere il petto sollevato e continuare a sollevare i gomiti. ";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = " Sedersi comodamente a gambe incrociate con i palmi delle mani rivolti verso il basso sulle rotule. Quando inspirate, allungate la colonna vertebrale. Durante l'espirazione, fare una torsione a sinistra, portando la punta delle dita a sinistra sul pavimento dietro di voi e mettendo il palmo della mano destra sulla rotula sinistra. Inspirate di nuovo, tornando al centro e durante l'espirazione effettuate una torsione verso destra, mettendo la punta delle dita a destra sul pavimento dietro di voi e il palmo della mano sinistra sulla rotula destra. ";
+
+"exerciseDescription36" = " Sedersi comodamente a gambe incrociate. Mettere i palmi delle mani sul pavimento di fronte a voi e spostarsi in avanti fino a quando le braccia sono dritte. Se la fronte non arriva a terra, puoi appoggiarla su una coperta ripiegata o un asciugamano in modo che il collo sia sostenuto. Ripetere con la gamba opposta ";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = " Stando a quattro zampe nella posizione da tavolo .Tenere i fianchi sopra le ginocchia e le mani a larghezza delle spalle, spostando le mani il più avanti far scivolare il petto verso il suolo";
+
+"exerciseDescription39" = " In piedi con i piedi paralleli l'uno all'altro. Girare il piede destro di 90 gradi e piegare il ginocchio destro ad un angolo di 90 gradi in modo che la parte superiore della coscia destra sia parallela al terreno. Mantenere il ginocchio destro allineato sulla la caviglia destra e la gamba sinistra estesa '. Estendere il lato destro del busto sopra la coscia destra e portare il braccio destro all’interno della gamba destra. \n\n Infilare il braccio destro sotto la coscia, piegare il gomito, e raggiungere la vostra mano verso il fianco esterno destro. Piegare il gomito sinistro dietro la schiena e raggiungere la mano sinistra verso il fianco esterno destro. Usare la mano destra per afferrare il polso sinistro. (Se non è possibile raggiungere il polso, cercare di agganciarsi alla punta delle dita di entrambe le mani.) \n\n Una volta che le braccia sono legati intorno alla gamba destra, attirare la vostra anca destra sotto di voi e andare indietro in modo che il lato destro del busto sia sopra la coscia. Allungare i lati del collo, spingendo la testa lontano dal piede sinistro. Premere il piede sinistro in terra e mantenere il ginocchio destro centrato sul secondo e terzo dito. \n\n Ripetere sul lato sinistro, con le braccia intorno alla gamba sinistra in modo che le mani si colleghino dal fianco esterno sinistro..";
+
+"exerciseDescription40" = " In piedi con i piedi paralleli l'uno all'altro. Girare il piede destro di 90 gradi e piegare il ginocchio destro ad un angolo di 90 gradi in modo che la parte superiore della coscia destra sia parallela al terreno.  Mantenere il ginocchio destro allineato sulla la caviglia destra e la gamba sinistra estesa '.. Estendere il lato destro del busto sopra la coscia destra e leggermente riposare il gomito destro sulla coscia destra con il palmo rivolto verso l'alto. Estendere il braccio sinistro accanto al vostro orecchio sinistro e girare l'ombelico lontano dal piede destro guardando verso la mano sinistra. Premere il piede sinistro a terra e mantenere il ginocchio destro centrato sul secondo e terzo dito. Ripeti sul lato sinistro ";
+
+"exerciseDescription41" = " In piedi con i piedi paralleli l'uno all'altro. Girare il piede destro di 90 gradi e piegare il ginocchio destro ad un angolo di 90 gradi in modo che la parte superiore della coscia destra sia parallela al terreno.  Mantenere il ginocchio destro allineato sulla la caviglia destra e la gamba sinistra estesa ' \n\n Estendere il lato destro del busto sopra la coscia destra e posizionare il palmo della mano destra a terra all'interno del piede destro, in modo che la spalla sia sopra il vostro polso. Stendere il braccio sinistro dritto e guardare al vostro palmo della mano sinistra. Premere il piede sinistro a terra e mantenere il ginocchio destro centrato sul secondo e terzo dito. Ripetere sul lato sinistro. ";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = " Sedetevi e piegate il ginocchio sinistro verso sinistra in modo che il bordo esterno del piede sia a terra ed il vostro stinco sia parallelo alla parte anteriore del tappetino. Piegate il ginocchio destro verso destra e posizionare lo stinco destro sopra il sinistro in modo che il ginocchio destro sia sopra la caviglia sinistra e la caviglia destra sopra il ginocchio sinistro. Lentamente piegarsi in avanti nella misura in cui è possibile. Ripetere con lo stinco sinistro in alto.";
+
+"exerciseDescription44" = " Sdraiatevi sulla schiena con le braccia lungo i fianchi, con i palmi rivolti verso il basso. Sollevare il petto e ripiegare la testa indietro in modo che la sommità della testa poggi delicatamente sul terreno. Sollevare le gambe ad un angolo di 45 gradi rispetto al pavimento.";
+
+"exerciseDescription45" = " Inginocchiati con i fianchi sopra le ginocchia, stinchi paralleli tra loro, e le parti superiori dei piedi per terra. Passa il piede destro verso il lato destro in modo che la gamba sia estesa e le dita dei piedi puntino verso destra e verso il pavimento. Posizionare il palmo della mano destra sulla coscia destra ed estendere il braccio sinistro verso l'orecchio sinistro .Piegandosi  sulla destra, fa scorrere la mano destra verso la caviglia destra. Ripetere sul lato sinistro ";
+
+"exerciseDescription46" = " Alzatevi e allargate i piedi almeno alla lunghezza di una gamba .Girare le dita dei piedi vero fuori, piegate le ginocchia e allineatele alle caviglie. Premere le ginocchia interne indietro verso i mignoli dei piedi e piegate i gomiti fuori da entrambi i lati, assumendo una forma da cactus con le braccia. ";
+
+"exerciseDescription47" = " Inizia a quattro zampe con le dita aperte, polsi sotto le spalle e le ginocchia sotto i fianchi. Spingere con i polpastrelli e la parte superiore del piede sinistro, alzare la gamba destra dal pavimento ed estenderla dietro di voi. Sollevate il ventre e le costole anteriori verso la schiena. Ripetere con stinco destro a terra e la gamba sinistra sollevata.";
+
+"exerciseDescription48" = " Inginocchiatevi con gli stinchi paralleli tra loro, punta dei piedi sul pavimento, anche sopra le ginocchia e le spalle allineate ai fianchi. Sollevare il petto verso il soffitto e mantenere i fianchi sopra le ginocchia, mantenersi sui talloni. \n\n Tenere la mano sinistra sul tallone sinistro, mentre inspirate ed estendere il braccio destro verso l’alto. Espirare girando il petto a sinistra. Poi riportare la mano destra al tallone destro e girare il petto verso l’alto. \n\n Inspirate ed estendete il braccio sinistro verso l’alto. Durante l'espirazione, ruotare il petto a destra. Rientrare entrambe le mani verso i talloni e piegare il petto verso il soffitto prima di sedersi sui talloni con le mani sulle cosce per liberarsi dalla postura.";
+
+"exerciseDescription49" = " Sdraiatevi sulla pancia e poggiatevi sui gomiti in modo che gli avambracci siano paralleli tra loro e gomiti siano a larghezza delle spalle. Muovere la mano sinistra verso destra, con il palmo rivolto verso il basso, in modo che il vostro avambraccio sinistro sia parallelo al fronte del tappetino. Piegate il ginocchio destro e tenete la parte superiore del piede destro con la mano destra, spingendo il tallone destro verso il fianco esterno. Tenere il palmo della mano sulla parte superiore del piede, tenendola retta rispetto alla a destra e poi puntare verso il tallone piegando a destra il gomito destro verso il lato destro, tenendo il petto destro in avanti .Ripetere sul lato sinistro ";
+
+"exerciseDescription50" = " Sdraiatevi sulla pancia con il mento a terra e le braccia lungo i fianchi, palmi delle mani a faccia in giù. Muovete le braccia verso l'altro sotto il busto e stringete le mani. Sollevare entrambe le gambe da terra e puntare le dita dei piedi. \n\n Rilasciare entrambe le gambe a terra e rilasciate le mani, girando i palmi a faccia in giù. Sollevare la gamba destra in aria. Abbassare la gamba destra e sollevare la gamba sinistra. Riportare la gamba sinistra a terra.";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = " In piedi con i piedi uniti spostate il peso sul piede sinistro, portando il ginocchio destro verso il petto. Tenere il bordo esterno del piede destro con la mano sinistra e posizionarlo nella piega del fianco sinistro. Estendere entrambe le braccia . Ripetere in piedi sulla gamba destra piegata con il ginocchio sinistro e il bordo esterno del piede sinistro nella piega del fianco destro. ";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = " Seduti con le gambe distese davanti a voi. Piegate il ginocchio sinistro e piantate il piede sinistro all'interno della gamba destra. Posizionate il palmo della mano sinistra a terra dietro di voi. Inspirate mentre sollevate il braccio destro accanto al vostro orecchio e allungate la colonna vertebrale. Espirate girandoti a sinistra e agganciate il gomito destro al di fuori della coscia sinistra. Ripetere con ginocchio piegato a destra, girando a destra";
+
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = " Sdraiatevi sulla schiena, piegate le ginocchia e tenetevi sui di bordi esterni dei piedi. Premete le mani per portare le ginocchia verso le ascelle e allungare le cosce. Mantenere la schiena più bassa possibile.";
+
+"exerciseDescription61" = " Seduti tra i talloni con le ginocchia insieme e le parti superiori dei piedi sul pavimento. Piantate il piede destro a terra di fronte a voi e intrecciate le dita sotto l'arco del piede destro. Estendere la gamba destra in aria allungando la colonna vertebrale e sollevare il petto verso la parte superiore del piede destro.";
+
+"exerciseDescription62" = " Iniziate affondando il piede sinistro in avanti e la punta delle dita che incorniciano il piede sinistro a terra. Assicurarsi che il ginocchio sinistro sia piegato ad un angolo di 90 gradi e allineato sopra la caviglia e la gamba destra stesa dietro di voi con il piede destro sul pavimento. Sollevare la pancia fuori della coscia sinistra e unire i palmi delle mani in preghiera davanti al petto. Inspirate mentre allungate la colonna vertebrale ed espirare, girandoti a sinistra, agganciando il gomito destro al di fuori del vostro ginocchio sinistro, premere il palmo della mano sinistra contro la destra, guardare in alto sopra la spalla sinistra, e premere il tallone destro verso l’alto. Ripetere con la gamba destra di fronte, girando a destra.";
+
+"exerciseDescription63" = " Fare un affondo con il ginocchio destro piegato ad un angolo di 90 gradi e allineato sopra la caviglia con la gamba sinistra estesa dietro di voi con la pianta del piede sinistro sul pavimento. Sollevare le spalle sopra i fianchi e, con le mani su i fianchi, guidare l'anca destra indietro e l'anca sinistra in avanti .Estendere le braccia lungo le orecchie ripetere con la gamba sinistra in avanti ";
+
+"exerciseDescription64" = " Fare un affondo con il ginocchio destro piegato ad un angolo di 90 gradi e allineato sopra la caviglia con la gamba sinistra estesa dietro di voi con la pianta del piede sinistro sul pavimento. Sollevare le spalle sopra i fianchi e intrecciare le dita dietro la indietro. Piegare in avanti all'interno della gamba destra, rilasciare la sommità della testa verso il pavimento, e portare i palmi delle mani lontano dal tuo parte bassa della schiena. Abbracciare il fianco destro mentre si preme il tallone sinistro verso il soffitto. Ripetere con la gamba sinistra gamba in avanti e l'intreccio opposto delle dita (cioè, il dito indice e il pollice opposto sopra). ";
+
+"exerciseDescription65" = " Sdraiatevi sulla pancia e piantate i palmi delle mani su entrambi i lati del petto. Spingere mani per sollevare il busto da terra. Piegate le ginocchia, puntare le dita dei piedi, e piegare il petto in su mentre raggiungete i piedi con la parte superiore della testa verso l'altro.";
+
+"exerciseDescription66" = " In piedi con i piedi uniti portare il braccio destro in avanti all'altezza delle spalle. Spostare il peso sul suo piede destro, piegando il ginocchio sinistro, sollevare il piede sinistro verso l’anca sinistra, e tenere premuto il bordo interno del piede sinistro con la mano sinistra. Portare la coscia sinistra indietro e il petto in avanti, abbracciando il ginocchio sinistro verso la linea mediana del corpo. Alzare il braccio destro verso il soffitto e sollevare il petto dalla parte superiore della coscia sinistra. Ripetere in piedi sulla gamba sinistra. ";
+
+"exerciseDescription67" = "Sdraiatevi sulla schiena con le gambe distese a terra. Portare il ginocchio sinistro verso il petto e intrecciare le dita fuori dalla gamba. Ripetere con la gamba sinistra estesa e ginocchio destro piegato";
+
+"exerciseDescription68" = " Stando a quattro zampe con i polsi sotto le spalle, le ginocchia sotto i fianchi, e le dita nascoste sotto. Quando inspirate inarcate la schiena. Durante l'espirazione, mantenere l’osso sacro sollevato, piegare i gomiti, e portare il petto e il mento a il pavimento in opposto, è possibile sdraiarsi sulla schiena e abbracciare le ginocchia verso il petto per liberare la parte bassa della schiena..";
+
+"exerciseDescription69" = " Iniziare con un affondo con il piede destro in avanti e la punta delle dita che raggiungono il piede destro a terra. Assicurarsi che il ginocchio destro sia piegato ad un angolo di 90 gradi e allineato sopra la caviglia. Abbassare il ginocchio sinistro e la parte superiore del piede sinistro a terra. Posizionare il palmo della mano destra all'interno del piede destro e quindi abbassare i gomiti a terra in modo che siano in linea con il tallone destro, le braccia parallele l'una all'altra. Portare il ginocchio destro verso la spalla destra, allungare la colonna vertebrale, e portare il petto e la corona della testa in avanti. Ripetere sul lato sinistro ";
+
+"exerciseDescription70" = " Sdraiatevi sulla pancia con le braccia lungo i fianchi. Sollevare le braccia da terra, girare i palmi delle mani e raggiungere di nuovo i pollici. Sollevare il petto, la testa e le gambe da terra. Puntare le dita dei piedi e raggiungere i piedi. ";
+
+"exerciseDescription71" = " Iniziare con un affondo con il piede destro in avanti e la punta delle dita che raggiungono il piede destro a terra. Assicurarsi che il ginocchio destro sia piegato ad un angolo di 90 gradi e allineato sopra la caviglia. Abbassare il ginocchio sinistro e la parte superiore del piede sinistro a terra.  Salite le mani sulla coscia destra mentre sollevate il petto e allineare le spalle sopra i fianchi. \n\n Quando inspirate, allungate la colonna vertebrale e girare a destra, mettendo il palmo della mano sinistra al di fuori del ginocchio destro e far pendere la mano destra verso il basso la parte posteriore della coscia sinistra. Per completare il twist, guardare oltre la spalla destra. \n\n Ripetere sul lato sinistro.";
+
+"exerciseDescription72" = " Iniziare con un affondo del piede destro in avanti e il ginocchio destro allineato sopra la caviglia destra. Abbassare il ginocchio sinistro a terra dietro di voi e posizionare la parte superiore del piede sinistro sul pavimento. Livellare i fianchi facendo scorrere il fianco destro indietro e portando l'anca sinistra in avanti verso l'interno della coscia destra estendere le braccia sulle orecchie e sollevare la pancia dalla parte superiore della coscia destra, curvando il petto verso il cielo .Guardare tra i palmi delle mani ";
+
+"exerciseDescription73" = "Inizia a quattro zampe nella posizione del tavolo. Posiziona il ginocchio sinistro dietro il polso sinistro e p il bordo esterno del piede sinistro dietro il polso destro. Estendere la gamba destra dietro di voi con le dita dei piedi infilati sotto, e trascinare la gamba destra, e mettere il ginocchio destro e la parte superiore del piede a terra. Sollevare le spalle sopra i fianchi e posizionare il bordo esterno del piede sinistro di fronte al vostro fianco destro. Piegate il ginocchio destro e, tenendo il piede destro con la mano destra, portare il piede verso il fianco esterno destro. Scivolare il piede nella piega del gomito destro. Estendete il braccio sinistro accanto al vostro orecchio e piegare il gomito sinistro in modo che la punta delle dita puntino verso il pavimento. Premere la punta delle dita , mentre si solleva il petto";
+
+"exerciseDescription74" = " Sdraiatevi sulla schiena con le braccia lungo i fianchi e le piante dei piedi alla stessa distanza dei fianchi. I bordi esterni dei piedi dovrebbero essere paralleli e la punta delle dita dovrebbe sfiorare i bordi dei talloni. Piega i gomiti e i palmi delle mani a terra sopra le spalle. Sollevate bacino, torace, e la testa da terra. Internamente ruotare le cosce in modo che le cosce esterne vadano verso l'interno coscia. Raggiungere il petto con le braccia. \n\n Unite i piedi e, spostando il peso sul suo piede sinistro, piegareil ginocchio destro verso il petto. Estendere la gamba destra dritta nell'aria. Riportare il piede destro a terra e ripetere con la gamba sinistra sollevata. ";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = "Inizia a quattro zampe nella posizione del tavolo. Posiziona il ginocchio sinistro dietro il polso sinistro e il bordo esterno del piede sinistro dietro il polso destro. Estendete la gamba destra dietro di voi con le dita dei piedi infilati sotto, e trascinare la gamba destra più lontano possibile prima di mettere il ginocchio destro e la parte superiore del piede a terra. Sollevare le spalle sopra i fianchi, posizionare il bordo esterno del piede sinistro di fronte al vostro fianco destro, e far riposare le mani lungo i fianchi, mentre si sollevare la parte posteriore della colonna vertebrale. Ripetere con il ginocchio piegato di fronte";
+
+"exerciseDescription77" = " In piedi con i piedi uniti. Portare il piede sinistro indietro e fare un’ angolo di 30 gradi verso sinistra. Inspirate mentre premete sul tallone sinistro e allungate la colonna vertebrale ,espirate si piega sopra la gamba destra. Incorniciare il piede destro con le mani ripetere con il piede sinistro in avanti.";
+
+"exerciseDescription78" = " Iniziare a quattro zampe nella posizione del tavolo. Posiziona il ginocchio destro direttamente di fronte al fianco destro e posizionare il piede destro dietro il polso sinistro, il più vicino al polso possibile, mantenendo il peso centrato tra le due parti. Estendere il gamba sinistra dietro di voi con le dita dei piedi infilate sotto, e trascinare la gamba il più lontano possibile prima di mettere il ginocchio sinistro e la parte superiore del piede sinistro a terra. Assicurarsi di avere la schiena dritta e il peso r centrato (cioè, non appoggiarsi sulla destra) prima di piegarsi in avanti sopra la tibia destra .Ripetere con il ginocchio sinistro in avanti ";
+
+"exerciseDescription79" = " Sedersi con le gambe distese davanti a voi. Piegate il ginocchio destro e posizionate il bordo esterno del piede nella piega del fianco sinistro. Piegare il ginocchio sinistro e attraversare lo stinco sinistro sopra lo stinco destro per inserire il vostro piede sinistro nella piega dell’anca destra. (Se questa posizione non vi riesce, non rischiate la salute delle ginocchia tentando di forzare, al contrario, è sufficiente attraversare la caviglia sinistra sopra la destra.) \n\n Piantare i palmi delle mani a terra al di fuori delle cosce, avanti rispetto ai fianchi. Durante l'espirazione, richiamare l'ombelico i verso la colonna vertebrale, premere sui polpastrelli, e sollevare il bacino e le cosce da terra. Ripetere con la tibia destra o con la caviglia in cima a sinistra.";
+
+"exerciseDescription80" = " Sdraiatevi sulla schiena con le braccia lungo i fianchi e le piante dei piedi alla stessa distanza dei fianchi. I bordi esterni dei piedi devono essere paralleli tra loro e la punta delle dita dovrebbe sfiorare i bordi dei talloni. Sollevare il bacino dal pavimento e portare le braccia sotto di voi, intrecciando le dita sul pavimento. Premere nel la parte posteriore delle braccia per sollevare il petto. \n\n Unite i piedi, portando il ginocchio destro verso il petto, ed estendere la gamba destra in aria. Riportare il piede destro a terra e ripetere con la gamba sinistra sollevata. ";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = " In piedi con i piedi alla stessa distanza dei fianchi. Intrecciate le dita di fronte a voi, capovolgere i palmi delle mani spingendoli, ed estendere le braccia lungo le orecchie con i palmi rivolti al soffitto. Ripetere con chiusura opposta delle mani (ad esempio, con l’indice e il pollice in alto)..";
+
+"exerciseDescription83" = " Stando a quattro zampe nella posizione del tavolo. Mantenendo le spalle sopra i polsi, passare i piedi dietro di voi in modo che ci si trovi in una posizione di spinta in alto. Solo le mani e le palle dei vostri piedi devono toccare il suolo. Spingere i vostri polpastrelli, sollevare il ventre verso la parte bassa della schiena, e i talloni verso il cielo .Premere la corona della testa in avanti per allungare il collo .Fare attenzione a non spingere i fianchi in su, invece, sollevare l'osso pubico verso l'ombelico.";
+
+"exerciseDescription84" = " Sdraiatevi sulla schiena con le gambe distese, i talloni a terra, e le dita dei piedi flesse verso il soffitto. Portare il ginocchio sinistro verso il petto e portare il braccio sinistro interno della gamba sinistra, girando le prime tre dita della mano sinistra intorno all’alluce sinistro per la posizione \"Blocco punta Yogi\". Tenere la natica destra a terra e premere la coscia destra verso il pavimento mentre si estende la gamba sinistra verso il lato sinistro. Ripetere tenendo l'alluce destro.";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = " Inizia a quattro zampe nella posizione del tavolo. Mantenendo le spalle sopra i polsi, sollevare la gamba destra e piegare il ginocchio destro, come se fare un passo sul soffitto. Risalire con la mano sinistra per tenere la punta del piede destro .Premere il piede in mano mentre si solleva il petto. Ripetere sul secondo lato.";
+
+"exerciseDescription87" = " Prendere una posizione a livello di gambe con i piedi paralleli l'uno all'altro. Girare il piede destro di 90 gradi e piegare il ginocchio destro ad un angolo di 90 gradi in modo che la parte superiore della coscia destra sia parallela al terreno. Mantenere il ginocchio destro allineato sopra la caviglia destra e la gamba sinistra, le dita dei piedi a sinistra leggermente girate. Posare il palmo della mano sinistra sulla coscia sinistra ed estendere il braccio destro accanto al vostro orecchio destro. Mentre si piega verso la gamba sinistra, permettere alla mano sinistra di scivolare sulla gamba. Portare l'anca destra sotto di voi mentre si preme leggermente il ginocchio destro verso la punta del piede mignolo .Ripetere sul lato sinistro ";
+
+"exerciseDescription88" = " Stando in piedi piegarsi in avanti e portareil petto in avanti mentre si posiziona la punta delle dita a terra sotto le spalle. Spostare il peso sul piede sinistro e, mantenendo il livello dei fianchi, sollevare la gamba destra dritta dietro. Con il palmo della mano destra a terra girare il petto a sinistra e estendere il braccio sinistro verso il cielo .Guardate in alto alla vostra sinistra. ";
+
+"exerciseDescription89" = " Seduti con le gambe distese davanti a voi. Mettere la pianta del piede sinistro contro l'interno della coscia destra. Piegare il piede destro e, mentre inspirate, estendere le braccia lungo le orecchie. Durante l'espirazione, piegare la gamba destra, verso l'anca e non in vita .Fare attenzione a non piegare la schiena .Ripetere con la gamba sinistra estesa e il ginocchio piegato a destra ";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = " Seduti con le gambe distese davanti a voi. Mettere la pianta del piede destro contro la parte interna della coscia sinistra. Ruotare il busto verso destra, inserire il gomito sinistro sul pavimento all'interno del ginocchio sinistro, e tenere premuto il bordo interno del piede sinistro con la mano sinistra. Estendere il braccio destro accanto al vostro orecchio e tenere la parte superiore del piede sinistro con la mano destra. Tenere la natica destra sul pavimento mentre si ruota il petto verso l’alto. Ripetere con la sinistra piegata al ginocchio e la gamba destra dritta e flessione laterale sulla gamba destra.";
+
+"exerciseDescription93" = " In piedi con i piedi uniti. Piede destro indietro a circa la lunghezza della gamba con angolo a 30 gradi verso il lato destro. Mettete le mani sui fianchi esterni e inspirare allungando la colonna vertebrale e portare il petto in avanti in parallelo rispetto al pavimento.  Espirare girando a sinistra, piantando il palmo della mano destra al di fuori del piede sinistro e portare il braccio sinistro verso il soffitto. Ripetere con la gamba destra in avanti, girando a destra ";
+
+"exerciseDescription94" = " Con un piede in avanti, piegare le ginocchia e tendere la punta delle dita a terra su entrambi i lati dei piedi. Piegare piede sinistro, mantenendo il ginocchio destro piegato ad un angolo di 90 gradi e centrato sopra la caviglia destra. Tirare il petto in avanti e portare il tallone sinistro verso il soffitto. Ripetere con il ginocchio sinistro in avanti.";
+
+"exerciseDescription95" = " In piedi con i piedi a larghezza dei fianchi. Mettere la mano sinistra sulla vita di sinistra, spostare il peso sul suo piede destro, e sollevare il ginocchio sinistro verso il petto. Girare le prime tre dita della mano destra intorno all’ alluce sinistro ed estendere la gamba sinistra verso destra mentre si ruota il busto verso sinistra. ";
+
+"exerciseDescription96" = " Sdraiatevi sulla schiena con le braccia stese a formare una \"T\". Abbracciare le ginocchia verso il petto e, tenendo insieme le ginocchia, guardate a destra. Portare le ginocchia di nuovo al centro e la parte posteriore della testa a terra prima di rilasciare le ginocchia a destra  guardando a sinistra. ";
+
+"exerciseDescription97" = " Sdraiatevi sulla schiena, unire le piante dei piedi, e lasciare che le ginocchia pendere da entrambi i lati. Portare i gomiti sopra la testa.";
+
+"exerciseDescription98" = " Sdraiatevi sulla schiena con le gambe distese, i talloni a terra, e le dita dei piedi flesse verso il soffitto. Portare il ginocchio sinistro verso il petto e portare il braccio sinistro interno della gamba sinistra, girando le prime tre dita della sinistra . La mano intorno vostro alluce sinistro. Tenere la natica destra a terra e premere il coscia destra verso il pavimento mentre si estende la gamba sinistra .Portare la coscia sinistra verso la pancia. Ripetere sul lato destro ";
+
+"exerciseDescription99" = " Seduti con le gambe distese davanti a voi, i talloni a terra e le dita dei piedi flesse verso il cielo. Quando inspirate, alzate le braccia lungo le orecchie e allungare la colonna vertebrale. Durante l'espirazione, portate in avanti le pieghe dell'anca e portate la pancia sulle cosce. Tenere i piedi e, se riuscite, piegate i gomiti fuori da entrambi i lati per piegarvi il più possibile in avanti. ";
+
+"exerciseDescription100" = " In piedi con i piedi uniti e le mani sui fianchi. Puntare le dita del piede destro mentre si estende la gamba destra di fronte a voi e sollevarlo più in alto possibile senza muovere i fianchi. Portareil piede destro indietro, spostare il peso nel vostro piede destro, e ripetere con la gamba sinistra estesa di fronte a voi. ";
+
+"exerciseDescription101" = " Iniziare in posizione del tavolo – spingersi in su con le braccia diritte, spalle allineate ai polsi, talloni verso l’alto. Spostando il peso sul lato destro, tirare il bordo esterno del piede destro a sinistra sopra la destra e la spalla sinistra sopra la destra. Estendere il braccio sinistro verso il cielo. Piegare le dita dei piedi verso la testa e premere con decisione nei polpastrelli della mano destra, in particolare il dito indice e il pollice. \n\n Piegate il ginocchio sinistro verso la spalla sinistra e le prime tre dita della mano sinistra intorno al vostro alluce sinistro in un \"yogi blocco punta.\"  Estendere la gamba sinistra verso il cielo e mantenere l'anca sinistra allineata. \n\n Ripetere sul lato sinistro con la gamba destra stesa. ";
+
+"exerciseDescription102" = " Sedersi comodamente a gambe incrociate con la gamba sinistra in alto. Stendere le braccia al fianco le orecchie e piegare i gomiti in modo che la punta delle dita punti verso la parte bassa della schiena. Tenere il gomito destro con la mano sinistra e tirare delicatamente verso sinistra, premendo la parte posteriore della testa contro il braccio destro, quindi estendere il braccio sinistro a sinistra e girare il pollice verso il basso, ruotare del braccio sinistro verso l’interno. Piegate il gomito sinistro dietro di voi in modo che la punta delle dita a sinistra indichino lungo la schiena e il gomito punti verso il basso. Se possibile, unire le mani dai stringendo la punta delle dita insieme. \n\n Ripetere con la gamba destra sul braccio superiore e la sinistra in alto.";
+
+"exerciseDescription103" = " Sedersi comodamente  a gambe incrociate con la gamba sinistra sulla parte superiore. Portare l’ avambraccio destro al fianco destro con le dita che puntano a destra. Tenere la natica sinistra a terra mentre si estende il braccio sinistro accanto all'orecchio sinistro. \n\n Ripetere con la gamba destra sul braccio in alto e la destra stesa accanto al vostro orecchio.";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = " In piedi con i piedi non più larghi dei fianchi. Inspirate mentre estendete le braccia accanto alle orecchie. Espirate piegando il petto verso il cielo e mettetevi comodi. Tenere i bordi interni dei piedi saldamente a terra e sollevare le cosce verso lo spazio dietro a ogni successiva inspirazione, allungare la parte anteriore della colonna vertebrale e con ogni successiva espirazione, piegare le costole anteriori verso la schiena mentre piegate il petto, portate il peso delbacino verso il suolo.";
+
+"exerciseDescription106" = " In piedi con i piedi uniti. Spostare il peso sul piede sinistro mentre si piega il ginocchio destro verso il petto. Raggiungere il braccio destro attraverso l'interno della gamba destra e agganciare le prime tre dita intorno al vostro alluce in \"yogi blocco punta.\"  Mantenere i fianchi, estendere la gamba destra di circa 45 gradi verso il lato destro. \n\n Ripetere in piedi sulla gamba destra con la gamba sinistra estesa. ";
+
+"exerciseDescription107" = " Sdraiatevi sulla pancia con la fronte a terra e intrecciate le dita dietro di voi. Puntare le dita dei piedi e sollevare il petto e la testa da terra. Sollevare le mani intrecciate e portatele dietro di voi. Staccare il mento dal petto e fissate lo sguardo sulla punta del naso. \n\n Ripetere con intreccio delle dita di fronte (vale a dire, il dito indice e pollice opposto in alto). ";
+
+"exerciseDescription108" = " Seduti con le gambe estese di fronte a voi, i tacchi a terra, ed i piedi flessi. Posizionare i gomiti sotto le spalle e i palmi delle mani rivolti verso il basso lungo i fianchi. Inspirate mentre allungate la colonna vertebrale ed espirate mentre si spinge l'ombelico verso la vostra colonna vertebrale";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "Iniziare nella posizione del tavolo, a quattro zampe con i polsi oltre le spalle e le ginocchia sopra le anche. Portare indietro il piede sinistro e mettere a terra il suo tallone in modo che le dita dei piedi puntino verso sinistra. Ruotare il piede destro dietro di voi in modo che la parte superiore del piede sia a terra e le dita dei piedi puntino verso destra Sollevare la spalla sinistra sopra quella destra mentre si estende il braccio sinistro verso il cielo. Ripetere con la gamba destra stesa e lo stinco sinistro a terra ";
+
+"exerciseDescription111" = " In piedi con i piedi ad almeno una distanza di gamba e le dita dei piedi leggermente girato Piegare l’anca fino a  raggiungere il petto in avanti e piantare i palmi delle mani sul pavimento sotto le spalle. Mentre si rilascia la corona della vostra testa verso il pavimento, abbassare i gomiti verso il terreno e cercare di tenerli a larghezza spalle. ";
+
+"exerciseDescription112" = " In piedi con i piedi leggermente più ampi rispetto ai fianchi, le dita dei piedi sollevate. Piegate le ginocchia e abbassate il sedere verso il pavimento tra i talloni. Portare i palmi delle mani davanti al petto in posizione di preghiera e mettere i gomiti contro l'interno delle le cosce. Premere i gomiti contro le cosce mentre le cosce spingono contro i gomiti. Allungare la colonna vertebrale in modo che il coccige discenda. Alla fine, si si sarà in grado di portare i bordi esterni dei piedi paralleli. ";
+
+"exerciseDescription113" = " Sedetevi con le gambe stese ad entrambi i lati delle dita dei piedi flesse verso il cielo. Inspirate mentre allungate la colonna vertebrale ed espirate mentre piegate l’anca e portate le mani di fronte a voi. Mantenere i centri di talloni a terra e la zona pelvica piegata in avanti. ";
+
+"exerciseDescription114" = " In piedi con i piedi almeno a distanza di una gamba e le dita dei piedi leggermente girato. Intrecciate le dita dietro di voi. Piegate in avanti le i fianchi, rilasciando la sommità della testa verso il pavimento tra i piedi e raggiungere le mani giunte verso il suolo . \n\n Ripetere con dita intrecciate di fronte (vale a dire, indice e pollice opposto in alto). ";
+
+"exerciseDescription115" = " Sedetevi con le gambe stese e le dita dei piedi flesso verso il cielo. Piegare il busto verso destra, inserire il gomito sinistro sul pavimento all'interno della gamba sinistra e tenere premuto il bordo interno del piede sinistro  sulla mano sinistra. Stendere il braccio destro accanto al vostro orecchio e tenere la parte superiore del piede sinistro con la mano destra. Tenere il gluteo destro e la gamba destra a terra mentre si ruota il petto verso il cielo. l Ripetere chinandosi sulla gamba destra.";
+
+"exerciseDescription116" = " In piedi con i piedi leggermente più ampi rispetto ai fianchi, le dita dei piedi all’insù. Piegate le ginocchia e abbassate il sedere verso il pavimento tra i talloni. Portare i palmi delle mani davanti al petto in posizione di preghiera e mettere i gomiti contro l'interno delle le cosce. \n\n Inspirate mentre allungate la colonna vertebrale ed espirate, girandovi a sinistra, allargando le braccia. Portare i pollici verso il basso per ruotare internamente entrambe le braccia. Portareil gomito sinistro dietro la schiena e piegare il gomito destro intorno alla parte esterna della tibia destra. Se possibile, stringere le dita insieme vicino all'esterno del fianco destro. \n\n Ripetere piegando a destra e avvolgendo le braccia attorno alla gamba sinistra. ";
+
+"exerciseDescription117" = " Iniziare nella posizione del tavolo , a quattro zampe. Unire gli alluci e separare le ginocchia più largo rispetto ai fianchi piedi e palmi delle mani in avanti, appoggiando il busto in tra le gambe e rilasciando la fronte a terra.";
+
+"exerciseDescription118" = " In piedi con i piedi ad almeno una distanza di gamba e le dita dei piedi leggermente girate. Piegando l’anca, portare il petto in avanti verso il terreno e piantare i palmi delle mani sul pavimento sotto le spalle. Quando inspirate, allungate la colonna vertebrale in modo che la sommità della testa si allontani dalle vostre anche. Durante l'espirazione, girarsia sinistra e allungare il braccio sinistro verso il cielo. \n\n Riportare il palmo della mano sinistra a terra sotto la spalla sinistra. Inspirate mentre allungate la colonna vertebrale ed espirate mentre girate a destra, portando il braccio destro in alto.";
+
+"exerciseDescription119" = " In piedi con i piedi ad almeno una distanza di gamba e le dita dei piedi leggermente girato a. Piegando l’anca, portare il petto in avanti verso terra e piantare i palmi delle mani sul pavimento sotto le spalle. Portare le mani a destra e tenere sull'esterno della caviglia destra, portando il mento verso lo stinco destro. Portare le mani di nuovo al centro e poi verso sinistra, aggrappandosi alla parte esterna della caviglia sinistra, portando il mento verso lo stinco sinistro.";
+
+"exerciseDescription120" = " Sdraiatevi sulla schiena. Stendete il braccio sinistro accanto al vostro orecchio sinistro. Piegare il gomito sinistro e posare il lato della testa sul palmo della mano sinistra. Piegate il ginocchio destro verso la spalla destra portare le prime tre dita della mano destra intorno al vostro alluce destro. estendere la gamba destra per quanto è possibile, portarla a terra sul lato sinistro e abbracciare la natica destra verso la parte interna della coscia sinistra. \n\n Ripetere sdraiati sul fianco destro, tenendo l’ alluce sinistro. ";
+
+"exerciseDescription121" = " Sedetevi con le piante dei piedi uniti di fronte al bacino e le ginocchia piegate verso l’esterno . Stringere le prime tre dita di ogni mano intorno ad ogni alluce. Rilassatevi in modo che il peso si sposti sull’osso sacro.. Mantenere la colonna vertebrale dritta e le ginocchia piegate, separare i piedi e sollevarli in modo da bilanciarvi sull’osso sacro e gradualmente estendere le gambe su entrambi i lati, mentre si solleva il petto ";
+
+"exerciseDescription122" = " Posizionarsi con i piedi paralleli l'uno all'altro. Girare il piede destro di 90 gradi e piegare il ginocchio destro a un angolo di 90 gradi in modo che la parte superiore della coscia destra sia parallela al terreno. Mantenere il ginocchio destro allineato sopra la caviglia destra e la gamba sinistra stesa con le dita leggermente piegate'. Tenete le spalle allineate sopra i fianchi, mentre stendete le braccia in direzioni opposte e guardate oltre il palmo della mano destra. \n\n Ripetere con ginocchio sinistro piegato e la gamba destra dritta, guardando oltre il palmo della mano sinistra. ";
+
+"exerciseDescription123" = " In piedi con alluci uniti e bordi esterni dei piedi paralleli tra loro. Unite gli indici e intrecciate tutte le altre dita davanti al petto. Quando inspirate, tenete le mani giunte e sollevate le braccia sopra la testa. Mentre espirate, piegatevi sulla sinistra. Ancorare il tallone destro e sollevare le costole in basso a sinistra verso la parte superiore delle costole a destra. \n\n Inspirate, tornare a centrare le mani giunte in testa. Espirate, e piegatevi sulla destra..";
+
+"exerciseDescription124" = " Iniziare in una posizione in avanti ,unire gli alluci,  e portare i bordi esterni dei piedi paralleli l'uno all'altro, i palmi delle mani piantati a terra sotto le spalle. Spostare la maggior parte del peso sul piede destro appoggiando leggermente l'alluce sinistro a terra. Posizionare il palmo della mano destra contro il polpaccio destro e sollevare la gamba sinistra in alto. Mantenere il livello dell'anca sinistra con l'anca destra, sollevando il fianco destro, per quanto è possibile. Premere il palmo della mano destra in avanti contro il polpaccio destro e portare il mento verso lo stinco. \n\n Ripetere in piedi sulla gamba sinistra con la gamba destra tesa. ";
+
+"exerciseDescription125" = " Iniziare in una posizione in avanti unire gli alluci e posizionare i bordi esterni dei piedi paralleli tra loro. Inspirate per allungare la colonna vertebrale, portando il petto in avanti, mentre si spinge il dito contro il pavimento. Espirare mentre ci si piega in avanti, portando le braccia intorno l'esterno delle gambe per tenere i polpacci. Premere i palmi delle mani contro i polpacci e spingere la fronte verso i vostri stinchi. Premere i talloni contro il terreno e sollevare il bacino mentre si ruota l'interno coscia verso la parte posteriore delle gambe . Attenzione a non piegare la parte bassa della schiena, portare la pancia sulle parte alta delle cosce ";
+
+"exerciseDescription126" = " In piedi con i piedi uniti. Spostare il peso sul piede sinistro mentre si porta il ginocchio destro verso il petto. Raggiungere il braccio destro attraverso l'interno della gamba destra e incrociare le prime tre dita intorno al vostro alluce in \"yogi blocco punta.\"  Puntare in alto, premendo il tallone sinistro contro il terreno e sollevando la sommità della testa verso il soffitto. Stendere la gamba destra di fronte a voi, facendo attenzione a collegare il braccio destro nella parte posteriore del corpo in modo che le spalle restino allineate sopra i fianchi. ";
+
+"exerciseDescription127" = " In piedi con gli alluci uniti e bordi esterni dei piedi paralleli tra loro. Intrecciate le dita dietro la schiena. Inspirate per allungare la colonna vertebrale ed espirate piegandovi in avanti, rilasciando la sommità della testa verso il suolo e portando le mani giunte verso il pavimento..";
+
+"exerciseDescription128" = " A gambe divaricate con i piedi paralleli tra loro. Ruotare il piede destro di 90 gradi. Sollevare il tallone sinistro e, facendo perno sulla pianta del piede sinistro, ruotare il tallone verso sinistra e portarlo sul petto l’anca sinistra dovrebbe essere rivolta nella stessa direzione del piede destro. Portate le mani ai fianchi esterni e avvolgere il fianco sinistro in avanti mentre si piega il fianco destro. Piegate il ginocchio destro in modo che si allinei sopra la caviglia. Stendere le braccia lungo le orecchie e sollevare il petto. Spingere tallone sinistro, mantenendo il ginocchio destro centrato sopra la caviglia. \n\n Ripetere con il piede sinistro in avanti. ";
+
+"exerciseDescription129" = " In piedi con i piedi uniti, alzare le braccia lungo le orecchie. Mantenere la gamba destra dritta e il petto sollevato, posizionare il piede sinistro in modo che la pianta del piede sia leggermente appoggiata sul pavimento. Lentamente spostare il peso sul piede destro, anca in avanti a destra, e portare il petto in avanti mentre portate la gamba sinistra dietro di voi. Abbracciare i fianchi esterni verso l'altro e sollevare la pancia / costole anteriori verso la schiena. \n\n Ripetere in equilibrio sulla gamba sinistra con la gamba destra estesa dietro di voi. ";
+
+"exerciseDescription130" = " In piedi con gli alluci uniti e i bordi esterni dei piedi paralleli tra loro. Quando inspirate, alzate il braccio destro accanto al vostro orecchio. Durante l'espirazione, piegatevi a sinistra, permettendo alla mano sinistra a scivolare verso il basso verso la parte esterna del la gamba sinistra. Premere sul tallone destro e sollevare l’anca sinistra. \n\n Ripetere piegando verso destra..";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = " Seduti con le gambe distese davanti a voi, palmi a terra dietro di voi, e punte delle dita rivolte in avanti. Puntare le dita dei piedi, e spingendo sui polpastrelli, sollevare i fianchi da terra. Unire le scapole e farle scorrere verso il basso sollevando il petto .Spingere la parte interna delle cosce verso l’interno e spingere gli alluci verso il pavimento .Se la colonna vertebrale cervicale è sana, far ricadere delicatamente la testa all'indietro in modo che la base del cranio poggi sopra le scapole.";
+
+"exerciseDescription133" = " In piedi con i piedi uniti. Spostare il peso sul piede destro e piegare il ginocchio sinistro verso il petto. Tenere l'arco del piede sinistro con entrambe le mani. Stendere la gamba sinistra, portando la fronte verso il vostro stinco. \n\n Ripetere in piedi sulla gamba sinistra tenendo il piede destro. ";
+
+"exerciseDescription134" = " Iniziare affondando un piede in avanti. Tenere entrambe le ginocchia, posizionando  la mano destra a terra sotto il petto e mettere la mano sinistra sul fianco sinistro. Inspirate mentre allungate la colonna vertebrale. Espirate mentre vi piegate a  sinistra, stendendo la gamba sinistra e rilasciando il braccio sinistro verso l’alto. Tenere i lati del collo fino guardando alla vostra sinistra. \n\n Tornare alla posizione iniziale piegando entrambe le ginocchia, piantare la mano sinistra a terra sotto il petto e mettere la mano destra sul fianco destro. Inspirate mentre allungate la colonna vertebrale. Espirate mentre piegate verso destra, si stende solo la gamba destra portando il braccio destro verso il cielo. Tenere i lati del collo guardando a destra. ";
+
+"exerciseDescription135" = " In piedi con gli alluci uniti e  bordi esterni dei piedi paralleli tra loro. Mettere i palmi delle mani sui glutei con la punta delle dita che punta verso i talloni. Quando inspirate, allungate la colonna vertebrale. Durante l'espirazione, usare le mani per premere sui glutei verso i talloni e piegare il petto verso il soffitto far scorrere le scapole e giù per la schiena, portando i gomiti verso l'altro ";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = " Sdraiatevi sulla schiena con le ginocchia piegate, i piedi piantati a distanza dei fianchi e bordi esterni dei piedi paralleli tra loro. Stendere le braccia lungo i fianchi e posizionare i piedi in modo che la punta delle dita sfiori i bordi dei talloni. Alzare le braccia verso il soffitto e flettere i polsi. Piegare i gomiti e piantare i palmi delle mani sulla spalla con la punta delle dita che punta verso le spalle. Premere sui bordi interni delle mani e sollevare bacino, torace e testa da terra. Ruotare le cosce verso l’interno e premere il petto con le braccia. Fare attenzione a non consentire ai piedi di scivolare portandosi ad una distanza maggiore di quella dei fianchi. \n\n Portare il mento verso il petto e le natiche verso i talloni e abbassarsi di nuovo verso il pavimento.";
+

@@ -1,0 +1,179 @@
+//Plan names
+
+"%ld days plan" = "Plano de %ld dias";
+
+//Other
+
+"Meal %ld" = "Refeição %ld";
+"Day %ld" = "Dia %ld";
+
+"Ingredients" = "Ingredientes";
+"Steps" = "Passos";
+
+//Days
+//Day 1
+"Healthy recipes that are awesome to prepare and try out" = "Receitas saudáveis que são espetaculares de preparar e experimentar";
+"To keep your metabolism running strong, you must eat your first meal within 1 hour of rising." = "Para manter o seu metabolismo a funcionar bem, deve comer a sua primeira refeição no espaço de 1 hora depois de se levantar.";
+//Day 2
+"Good nutrition is the foundation of good health" = "Uma boa nutrição é o alicerce de uma boa saúde";
+"The solution is to eat within 1 hour of waking up so that you move your metabolism." = "A solução é comer no espaço de 1 hora depois de acordar para acionar o seu metabolismo.";
+//Day 3
+"Plan ahead to eat breakfast" = "Planeie antecipadamente o seu pequeno-almoço";
+"To the highest fat burning speed breakfast is so important to your weight-loss success." = "Para uma maior velocidade de queima de gordura, o pequeno-almoço é importantíssimo para o sucesso da sua perda de peso.";
+//Day 4
+"Carbs supply the body with energy" = "Os hidratos de carbono fornecem energia ao corpo";
+"Studies show that 5 meals a day are important in maintaining a healthy body weight." = "Estudos revelam que 5 refeições por dia são importantes para manter um peso corporal saudável.";
+//Day 5
+"Protein is essential for growth and development" = "A proteína é essencial para o crescimento e desenvolvimento";
+"Nutrition plays a key role in maintaining a healthy lifestyle." = "A nutrição desempenha um papel crucial na manutenção de um estilo de vida saudável.";
+//Day 6
+"You are what you eat" = "Somos o que comemos";
+"Is literally true, if you want your body to perform at a peak level." = "É literalmente verdade, se quiser que o seu corpo tenha um desempenho de alto nível.";
+//Day 7
+"Controlling portion size use smaller plates" = "Para controlar o tamanho das porções, use pratos mais pequenos";
+"Eliminate emotional eating by healing your hungry heart." = "Elimine o ato emocional de comer curando o seu coração faminto.";
+
+//Content: Title, Ingridients, Instructions
+
+"Strawberries and Creme Oatmeal_Title" = "Papa de Aveia com Morangos e Creme";
+"Strawberries and Creme Oatmeal_Ingredients" = "◆\t1/2 chávena de flocos de aveia\n\n◆\t1/3 chávena de leite magro\n\n◆\t1/3 chávena de iogurte Grego de baunilha\n\n◆\t1/2 chávena de morangos picados\n\n◆\t2 colheres de sopa de iogurte Grego magro de baunilha\n\n◆\t1 colher de sopa de amêndoas torradas";
+"Strawberries and Creme Oatmeal_Instructions" = "À noite, misture bem a aveia, o leite e 1/3 de chávena do iogurte num frasco ou numa taça. Cubra e deixe arrefecer no frigorífico durante a noite. Bom apetite!";
+
+"Golden Glow Elixir_Title" = "Elixir do Brilho Dourado";
+"Golden Glow Elixir_Ingredients" = "◆\t2 maçãs \n\n◆\t4 laranjas médias descascadas \n\n◆\t1 limão descascado \n\n◆\t1 pedaço de 5-7,5 cm de gengibre fresco descascado \n\n◆\t1 pedaço de 5 cm de curcuma descascada \n\n◆\t2 chávenas de água fria  \n\n◆\t1 mão cheia de gelo";
+"Golden Glow Elixir_Instructions" = "Num liquidificador de alta velocidade, passe todos os ingredientes até que a mistura fique uniforme, adicionando água fria se necessário. Um liquidificador de alta potência irá transformar isto numa bebida suave. Se preferir usar o sumo dos ingredientes para que a bebida fique ainda mais suave, pode fazê-lo, embora o ideal seja manter todas as fibras e todos os nutrientes na bebida. Bom apetite!";
+
+"Tso’s Chicken Stir Fry_Title" = "Refogado de Frango Tso";
+"Tso’s Chicken Stir Fry_Ingredients" = "◆\t4 peitos de frango cortados em cubos  \n\n◆\t1 chávena de farinha  \n\n◆\tóleo vegetal \n\n◆\tsal \n\n◆\tpimenta preta acabada de moer  \n\n◆\t2 dentes de alho picados  \n\n◆\t1/2 lata de caldo de galinha  \n\n◆\t3 colheres de sopa de mel  \n\n◆\t4 colheres de sopa de molho de soja  \n\n◆\t2 colheres de sopa de sumo de lima  \n\n◆\t2 latas de brócolos, apenas os ramos  \n\n◆\t2 latas de arroz branco cozido, para servir";
+"Tso’s Chicken Stir Fry_Instructions" = "Numa taça grande, passe o frango ligeiramente por amido de milho. Transfira os pedaços para uma taça maior com farinha e passe ligeiramente para revestir novamente e reserve. Encha uma frigideira grande até meio com óleo vegetal e leve a lume médio-alto. Tempere o frango, depois escorra e reserve. Adicione 2 colheres de sopa de amido de milho e misture para incorporar. Para o molho, adicione brócolos e cenouras e coza até ficarem tenros, cerca de 5 minutos. Bom apetite!";
+
+"Herbal Tea_Title" = "Chá de Ervas";
+"Herbal Tea_Ingredients" = "◆\t1 chávena de água  \n\n◆\t1 colher de chá de gengibre fresco ralado  \n\n◆\t1 colher de chá de raspa de lima  \n\n◆\t1 colher de chá de sumo de lima  \n\n◆\t3 folhas de menta fresca";
+"Herbal Tea_Instructions" = "Ferva água num tacho e misture os restantes ingredientes. Deixe ferver e mexa até a infusão estar pronta. Bom proveito!";
+
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Title" = "Coxas de Frango Dijon e Limão com Salada de Rúcula";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Ingredients" = "◆\t4 coxas de frango sem pele e sem osso  \n\n◆\t1/2 colher de chá de sal  \n\n◆\t1/4 colher de chá de pimenta preta moída  \n\n◆\t2,5 colheres de sopa de azeite \n\n◆\t2 colheres de chá de sumo de limão  \n\n◆\t1 colher de chá de alho picado \n\n◆\tspray de cozinha \n\n◆\t1 colher de sopa de vinagre balsâmico  \n\n◆\t1 colher de chá de mel  \n\n◆\t1 chávena de tomates cereja cortados ao meio \n\n◆\t1 embalagem de rúcula pequena";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Instructions" = "Polvilhe o frango com 1/4 colher de chá de sal e 1/8 colher de chá de pimenta. Tempere o frango com 1-1,5 colher de chá de azeite, sumo de limão, mostarda e alho numa taça e envolva bem a carne nos temperos. Deixe ficar durante 4 minutos. Aqueça um grelhador de fogão em lume médio e unte-o com spray de cozinha. Coloque o frango e cozinhe durante 5 minutos de cada lado ou até ficar bem passado. Corte o frango em tiras de 0,6 cm de espessura. Bom apetite!";
+
+"Cottage Berry Crunch_Title" = "Crocante de cottage e bagas";
+"Cottage Berry Crunch_Ingredients" = "◆\t1/2 chávena de queijo cottage magro com 2% de gordura \n\n◆\t2 colheres de sopa de granola  \n\n◆\t1/2 chávena de rodelas de banana \n\n◆\t1/2 chávena de bagas sortidas";
+"Cottage Berry Crunch_Instructions" = "Coloque o queijo cottage numa taça pequena. Cubra com os restantes ingredientes. Bom apetite!";
+
+"Pineapple Kiwi_Title" = "Ananás e Kiwi";
+"Pineapple Kiwi_Ingredients" = "◆\t4 colheres de sopa de água  \n\n◆\t1/2 chávena de leite  \n\n◆\t1/2 chávena de iogurte \n\n◆\t1,5 colher de sopa de mel \n\n◆\t1 kiwi descascado \n\n◆\t1 chávena de pedaços de ananás  \n\n◆\t1/2 manga \n\n◆\t2 cubos de gelo";
+"Pineapple Kiwi_Instructions" = "Misture todos os ingredientes a baixa velocidade até ficar espesso e uniforme. Bom apetite!";
+
+"Lemon Chicken Skillet_Title" = "Frigideira de Frango com Limão";
+"Lemon Chicken Skillet_Ingredients" = "◆\t4 peitos de frango  \n\n◆\t1/4 chávena de manteiga  \n\n◆\t2 colheres de sopa de azeite  \n\n◆\t1 limão  \n\n◆\t1 limão às rodelas  \n\n◆\t1/4 chávena de vinho branco  \n\n◆\t1 colher de chá de sal  \n\n◆\t1 colher de chá de pimenta preta moída  \n\n◆\t1/2 colher de chá de paprika  \n\n◆\t1/2 colher de chá de salsa seca";
+"Lemon Chicken Skillet_Instructions" = "Junte a farinha, o sal, a pimenta, a paprika e a salsa numa taça rasa. Aqueça o azeite e a manteiga em lume médio-alto. Pane os peitos de galinha com a mistura de farinha e coloque na frigideira quente. Adicione sumo de limão, vinho branco, raspa de limão e alecrim na frigideira. Cozinhe bem o frango dos dois lados. Bom apetite!";
+
+"Zucchini Quinoa Cookies_Title" = "Bolachas de Curgete e Quinoa";
+"Zucchini Quinoa Cookies_Ingredients" = "◆\t1/2 chávena de manteiga de amendoim cremosa \n\n◆\t1/4 chávena de mel  \n\n◆\t1 banana  \n\n◆\t1 ovo  \n\n◆\t1 colher de chá de extrato de baunilha  \n\n◆\t1/2 chávena de flocos de aveia  \n\n◆\t1/2 chávena de quinoa \n\n◆\t1 colher de chá de canela  \n\n◆\t1/4 colher de chá de sal  \n\n◆\t1 chávena de curgete picada, bem espremida";
+"Zucchini Quinoa Cookies_Instructions" = "Pré-aqueça o forno a 175ºC. junte a manteiga de amendoim, o mel, a banana, o ovo e a baunilha numa taça grande e misture. Acrescente a aveia, a quinoa, fermento em pó, especiarias e sal e misture bem. Envolva a curgete e sementes de chia. Com uma colher coloque a massa num tabuleiro. Coza as bolachas no tabuleiro do meio durante 15 – 18 minutos até as beiras estarem douradas. Bom apetite!";
+
+"Savory Shrimp with Fresh Herbs_Title" = "Camarão Delicioso com Ervas Frescas";
+"Savory Shrimp with Fresh Herbs_Ingredients" = "◆\t450 g camarão grande  \n\n◆\t2 malaguetas  \n\n◆\t1 alho francês cortado fino  \n\n◆\t0,5-1 colher de sopa alcaparras, lavadas e escorridas  \n\n◆\t2 dentes de alho picadinhos  \n\n◆\t1/2 chávena salsa picadinha  \n\n◆\t3 colheres de sopa de sumo de limão \n\n◆\t2 colheres de sopa de azeite";
+"Savory Shrimp with Fresh Herbs_Instructions" = "Coloque um tacho em lume médio com azeite. Acrescente o camarão, pimentos, alho francês, alcaparras, alho, sal e pimenta e cozinhe durante 4 minutos até os camarões ficarem rosados. Retire do lume. Adicione o sumo de limão, raspando o fundo da panela com uma colher. Sirva os camarões polvilhados com salsa fresca e manjericão. Bom apetite!";
+
+"Flaxseed Oatmeal with Blueberries_Title" = "Papa de Aveia com Sementes de Linhaça e Mirtilos";
+"Flaxseed Oatmeal with Blueberries_Ingredients" = "◆\t3 chávenas de água  \n\n◆\t2 chávenas de flocos de aveia \n\n◆\t3 colheres de sopa de sementes de linhaça moída \n\n◆\t1/8 colher de chá de sal  \n\n◆\t1/4 cháv. de leite gordo \n\n◆\t1 cháv. de mirtilos  \n\n◆\t1 colher de sopa geleia de mirtilo \n\n◆\t1/2 colher de chá de casca de limão ralada  \n\n◆\t1 colher de sopa de sumo de limão";
+"Flaxseed Oatmeal with Blueberries_Instructions" = "Ferva as 3 chávenas de água. Misture a aveia e depois acrescente as sementes de linhaça e o sal. Reduza para lume médio-baixo, deixe cozer até ficar macio, mexendo frequentemente. Junte o leite e a manteiga. Entretanto, junte os mirtilos e os 3 ingredientes seguintes numa tigela para micro-ondas e aqueça na temperatura máxima durante 1,5 minutos, mexendo a cada 30 segundos. Divida a mistura de aveia por 4 taças. Cubra com os mirtilos e as nozes pecã. Bom apetite!";
+
+"Coconut Milk Smoothie With Blueberries_Title" = "Smoothie de Leite de Coco com Mirtilos";
+"Coconut Milk Smoothie With Blueberries_Ingredients" = "◆\t1 embalagem de mirtilos congelados (300 ml)  \n\n◆\t3 bananas maduras \n\n◆\t1 chávena de iogurte natural  \n\n◆\t1 chávena de leite de coco sem açúcar  \n\n◆\t2 colheres de sopa de mel";
+"Coconut Milk Smoothie With Blueberries_Instructions" = "Num liquidificador, passe os mirtilos, as bananas, o iogurte, o leite de coco e o mel. Bom apetite!";
+
+"Chicken and Asparagus Stir-Fry_Title" = "Refogado de Frango e Espargos";
+"Chicken and Asparagus Stir-Fry_Ingredients" = "◆\t1 colher de sopa de molho de soja  \n\n◆\t1 colher de sopa de mel  \n\n◆\t2 peitos de frango cortados em pedaços  \n\n◆\t1 colher de sopa de azeite  \n\n◆\t1 molho de espargos cortado em pedaços  \n\n◆\t4 dentes de alho picados finamente  \n\n◆\t2 colheres de chá de óleo de sésamo torrado";
+"Chicken and Asparagus Stir-Fry_Instructions" = "Num saco com fecho de deslizar, junte o molho de soja e o mel. Adicione o frango e agite para envolver. Reserve no frigorífico até ao momento de usar. Entretanto, aqueça o azeite numa frigideira grande em lume médio. Remova os espargos e reserve. Remova o frango da marinada e coloque-o na frigideira. Depois acrescente alho, cebolinha e a marinada. Remova do calor e junte o óleo de sésamo mexendo bem. Bom apetite!";
+
+"Lavender Mint Tea_Title" = "Chá de Menta e Lavanda";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 chávena de pétalas de lavanda fresca  \n\n◆\t1 chávena de folhas de menta fresca \n\n◆\t4 chávenas de água";
+"Lavender Mint Tea_Instructions" = "Coloque as pétalas de lavanda e as folhas de menta num tacho com água e leve a ferver. Baixe o lume e deixe apurar o chá até o sabor ter a intensidade pretendida, 15 a 20 minutos. Bom proveito!";
+
+"Chili Fajitas_Title" = "Fajitas de Chili";
+"Chili Fajitas_Ingredients" = "◆\t450 g de peito de frango sem pele  \n\n◆\t1/2 pimento verde vermelho e amarelo cortado em tiras finas  \n\n◆\t1/3 chávena de água \n\n◆\t2 colheres de chá de molho de soja  \n\n◆\t1 pitada de sal  \n\n◆\t1 pitada de pimenta preta \n\n◆\t2 colheres de sopa de azeite  \n\n◆\t1 cebola grande finamente picada";
+"Chili Fajitas_Instructions" = "Combine todos os ingredientes da marinada com o frango num recipiente e leve ao frigorífico durante pelo menos 2 horas. Retire a carne da marinada e grelhe em fogo médio durante 4-5 minutos de cada lado. Corte a carne às tiras. Para o molho, junte 2 colheres de sopa de água, uma colher de chá de milho de soja, 1/4 colher de chá de sumo de lima, uma pitada de sal, uma pitada de pimenta preta e 1 colher de sopa de azeite. Bom apetite!";
+
+"Healthy Fruity Oatmeal_Title" = "Papa de Aveia Frutada Saudável";
+"Healthy Fruity Oatmeal_Ingredients" = "◆\t1/2 chávena de aveia \n\n◆\t1 chávena de água  \n\n◆\t1 colher de sopa de mel  \n\n◆\t1 colher de sopa de extrato de baunilha  \n\n◆\t1/2 colher de chá de canela em pó  \n\n◆\t1/4 chávena de mirtilos  \n\n◆\t4 morangos picados \n\n◆\t1/2 banana às rodelas";
+"Healthy Fruity Oatmeal_Instructions" = "Junte a água e a aveia numa taça de microondas. Aqueça no máximo até a aveia ter absorvido a água. Misture o mel, o extrato de baunilha e a canela em pó. Acrescente os mirtilos e cubra com a banana e os morangos. Bom apetite!";
+
+"Coffee Smoothie_Title" = "Smoothie de Café";
+"Coffee Smoothie_Ingredients" = "◆\t1 colher de chá de café expresso em pó  \n\n◆\t1 colher de sopa de água quente  \n\n◆\t1 banana pequena, descascada, cortada e congelada \n\n◆\t1/4 chávena de leite magro  \n\n◆\t1 colher de sopa de mel  \n\n◆\t1/2 chávena de cubos de gelo \n\n◆\t canela em pó";
+"Coffee Smoothie_Instructions" = "Num liquidificador junte o café em pó e a água quente e deixe repousar durante um minuto. Adicione a banana, o leite e o mel. Cubra e passe até ficar homogéneo. Acrescente gradualmente gelo até à consistência desejada. Salpique levemente com canela. Bom apetite!";
+
+"Chicken & Pineapple Stir-Fry_Title" = "Refogado de Frango e Ananás";
+"Chicken & Pineapple Stir-Fry_Ingredients" = "◆\t110 g peitos de frango \n\n◆\t40 g ananás  \n\n◆\t120 g arroz integral \n\n◆\t1/3 colheres de sopa de azeite  \n\n◆\t1/2 colheres de chá de mostarda castanha  \n\n◆\t1/6 colheres de sopa de paprika fumada \n\n◆\tsal marinho \n\n◆\tpimenta";
+"Chicken & Pineapple Stir-Fry_Instructions" = "Corte os peitos de frango crus em pedaços pequenos. Tempere os pedaços com a paprika fumada e a mostarda castanha. Adicione azeite a uma frigideira e coloque os pedaços de peito de frango. Cozinhe durante cerca de 4 minutos, até o frango estar cerca de 80% concluído, e então adicione o pimento picado. Cozinhe mais 2 ou 3 minutos antes de acrescentar as fatias de ananás. Bom apetite!";
+
+"Raw Chocolate Truffles_Title" = "Trufas de Chocolate Cru";
+"Raw Chocolate Truffles_Ingredients" = "◆\t1/2 chávena de nozes, cajus e amêndoas demolhadas durante a noite \n\n◆\t3-4 colheres de sopa de leite de amêndoa \n\n◆\t1/4 chávena de sementes de girassol  \n\n◆\t1/4 chávena de sementes de abóbora  \n\n◆\t2 colheres de sopa de farinha de alfarroba  \n\n◆\t3 colheres de sopa de flocos de coco";
+"Raw Chocolate Truffles_Instructions" = "Coloque tudo no liquidificador, exceto os flocos de coco, e passe tudo. Comece a formar bolas pequenas com a mistura usando uma colher de gelado. Passe as bolinhas pelos flocos de coco. Sirva bem frios. Bom apetite!";
+
+"Baked Salmon with Veggies_Title" = "Salmão Cozido com Legumes";
+"Baked Salmon with Veggies_Ingredients" = "◆\t2 filetes de salmão  \n\n◆\t1 chávena de curgete partida  \n\n◆\t1 chávena de brócolos  \n\n◆\t1/2 chávena de tomates cherry  \n\n◆\tsal \n\n◆\tpimenta \n\n◆\tazeite";
+"Baked Salmon with Veggies_Instructions" = "Pré-aqueça o forno a 190ºC. junte os legumes numa travessa grande. Tempere os legumes com sal, pimenta e azeite. Coloque os filetes junto aos legumes e asse durante 18-20 minutos ou até o salmão estar cozinhado e os legumes estarem tenros. Bom apetite!";
+
+"Banana Nut Oatmeal_Title" = "Papa de Aveia com Banana e Noz";
+"Banana Nut Oatmeal_Ingredients" = "◆\t1/2 chávena de flocos de aveia  \n\n◆\t1 chávena de água  \n\n◆\t1 banana às rodelas \n\n◆\t1 colher de sopa de nozes picadas  \n\n◆\t1 colher de chá de canela em pó";
+"Banana Nut Oatmeal_Instructions" = "Misture a aveia e 1 chávena de água numa taça pequena de micro-ondas. Aqueça na temperatura máxima durante 3 minutos. Cubra com a banana, as nozes e a canela. Bom apetite!";
+
+"Pink Power_Title" = "Pó Rosa";
+"Pink Power_Ingredients" = "◆\t1,5 chávena de caules pequenos de couve-flor  \n\n◆\t2 chávenas de cubos de melancia (sem casca ou sementes)  \n\n◆\t1,5 chávena de morangos inteiros \n\n◆\t1 iogurte grego de morango  \n\n◆\t2 colheres de sopa de geleia de morango (opcional) ";
+"Pink Power_Instructions" = "Num tacho pequeno, coza a couve-flor cobrindo-a com água a ferver até ficar muito tenra. No liquidificador junte a couve-flor cozida, a melancia, os morangos, o iogurte e, se desejar, a geleia de morango. Bom apetite!";
+
+"BBQ Chicken-Wrapped Asparagus_Title" = "Barbecue de Frango Embrulhado em Espargos";
+"BBQ Chicken-Wrapped Asparagus_Ingredients" = "◆\t2 peitos de frango cortados em bifes finos  \n\n◆\t12 turiões de espargos  \n\n◆\t2 colheres de sopa de molho barbecue \n\n◆\t1 pitada de paprika fumada \n\n◆\t1 pitada de alho em pó  \n\n◆\t1 pitada de pimenta";
+"BBQ Chicken-Wrapped Asparagus_Instructions" = "Ligue o forno a 200ºC. Bata os bifes com um martelo para alisar. Tempere o frango com 1 colher de sopa de molho barbecue (para cada pedaço) e a sua opção de temperos. Coloque o frango numa grelha com a abertura virada para baixo durante 8 a 10 minutos. Bom apetite!";
+
+"Ginger Turmeric Herbal Tea_Title" = "Chá de Gengibre e Açafrão";
+"Ginger Turmeric Herbal Tea_Ingredients" = "◆\t2 chávenas de água  \n\n◆\t1/2 colher de chá de gengibre fresco picado  \n\n◆\t1/2 colher de chá de canela em pó  \n\n◆\t1 colher de chá de mel  \n\n◆\t1 casca de limão";
+"Ginger Turmeric Herbal Tea_Instructions" = "Ferva água num tacho pequeno e junte-lhe açafrão, gengibre e canela. Reduza o lume e deixe apurar durante 10 minutos. Deite o chá num copo grande, adicione mel e limão. Bom proveito!";
+
+"Grilled Shrimp & Avocado Kabobs_Title" = "Kebabs de Camarão Grelhado e Abacate";
+"Grilled Shrimp & Avocado Kabobs_Ingredients" = "◆\t450 g de camarão jumbo \n\n◆\t1,5 abacate \n\n◆\t1 pimento vermelho \n\n◆\t1 pimento laranja \n\n◆\t1 pimento amarelo \n\n◆\t1 cebola vermelha \n\n◆\t1 colher de chá de pasta de alho  \n\n◆\t1/2 colher de sopa de azeite  \n\n◆\t1 lima \n\n◆\tsal, pimenta";
+"Grilled Shrimp & Avocado Kabobs_Instructions" = "Ligue o grill a 200°C. Pique os legumes e o abacate em pedaços grandes para o kebab. Descasque o camarão e tempere-o. escolha vegetais fibrosos, já que são mais saciantes e deverão aguentar-se bem no espeto sob calor intenso. Coloque os kebabs no grill e cozinhe durante cerca de 8-10 minutos, depois vire-os e cozinhe outros 8 a 10 minutos. Bom apetite!";
+
+"Morning Parfait_Title" = "Parfait Matinal";
+"Morning Parfait_Ingredients" = "◆\t 1/4 chávena de passas e 1 colher de chá de raspa fina de casca de laranja  \n\n◆\t1 colher de chá de baunilha \n\n◆\t200 ml de queijo creme Neufchatel magro  \n\n◆\tpão ralado \n\n◆\t2 chávenas de framboesas frescas, mirtilos, morangos picados e/ou pêssegos cortados  \n\n◆\t1/2 chávena de granola magra \n\n◆\tmel \n\n◆\tcasca de laranja picada";
+"Morning Parfait_Instructions" = "Misture pão ralado e queijo e espalhe sobre um refratário. Salpique com azeite. Coza durante 20 a 25 minutos. Em quatro copos coloque uma camada de queijo creme, uma camada de fruta e uma camada de granola. Repita as camadas até encher os copos. Bom apetite!";
+
+"Green Tea Kiwi and Mango_Title" = "Chá Verde, Kiwi e Manga";
+"Green Tea Kiwi and Mango_Ingredients" = "◆\t2,5 chávenas de manga congelada picada \n\n◆\t3/4 chávenas de iogurte de baunilha \n\n◆\t2 colheres de sopa de mel \n\n◆\t2 colheres de sopa de água \n\n◆\t3 kiwi picado  \n\n◆\t2 chávenas de cubos de gelo  \n\n◆\t1/2 chávena de espinafres pequenos  \n\n◆\t2 colheres de chá de chá verde engarrafado";
+"Green Tea Kiwi and Mango_Instructions" = "Coloque a manga, 1/2 chávena de iogurte, 2 colheres de sopa de mel, 2 colheres de sopa de água e casca de lima no liquidificador e passe tudo até ficar uniforme. Coloque 1/4 de chávena de iogurte, 2 colheres de sopa de mel, kiwi e os 3 ingredientes seguintes no liquidificador e passe até ficar uniforme. Bom apetite!";
+
+"Citrus Chicken Stir-Fry_Title" = "Refogado de Frango Cítrico";
+"Citrus Chicken Stir-Fry_Ingredients" = "◆\t140 g peitos de frango cortados em pedaços pequenos \n\n◆\t34 g broccolini   \n\n◆\t25 g cogumelos portobello pequenos  \n\n◆\t1/4 pimento vermelho  \n\n◆\t20 cebola vermelha  \n\n◆\tspray de óleo de coco \n\n◆\tsementes de sésamo    \n\n◆\t1/4 colher de chá de amido de araruta \n\n◆\t1/8 colher de sopa de pasta de alho \n\n◆\t1/4 colher de chá de pasta de gengibre";
+"Citrus Chicken Stir-Fry_Instructions" = "Numa taça, misture todos os ingredientes para o molho do refogado. Coloque spray numa frigideira com óleo de coco e leve a lume médio. Coloque os pedaços de frango e cozinhe-os até estarem cerca de 85% concluídos. Depois junte os legumes e mexa usando uma espátula. Bom apetite!";
+
+"Grilled Mexican Corn_Title" = "Milho Grelhado Mexicano";
+"Grilled Mexican Corn_Ingredients" = "◆\t4 maçarocas de milho  \n\n◆\t1,5 nata ácida  \n\n◆\t1 chávena de parmesão ralado  \n\n◆\tsumo de 1 lima \n\n◆\tmalagueta em pó \n\n◆\t2 lima cortadas em gomos, para decorar";
+"Grilled Mexican Corn_Instructions" = "Grelhe o milho numa grelha bem quente até começar a ficar ligeiramente esturricado. Numa taça pequena misture a maionese, a nata ácida e coentros. Junte o milho, o sumo de lima e tempere com o parmesão. Polvilhe com a malagueta em pó. Bom apetite!";
+
+"Salmon Burger with Avocado_Title" = "Hambúrguer de Salmão com Abacate";
+"Salmon Burger with Avocado_Ingredients" = "◆\t450 g filetes de salmão \n\n◆\t1 chávena de pão ralado \n\n◆\t1 ovo \n\n◆\t1 colher de sopa de sumo de limão  \n\n◆\tsal e pimenta  \n\n◆\tazeite  \n\n◆\t1 abacate grande picado  \n\n◆\t1/3 chávena de cebola vermelha picada  \n\n◆\t1 sumo de lima";
+"Salmon Burger with Avocado_Instructions" = "Corte os filetes de salmão em pedaços pequenos e transfira-os para uma tigela. Misture suavemente o resto dos ingredientes. Deixe a mistura repousar durante 5-10 minutos. Aqueça um pouco de óleo numa sertã grande em lume médio. Forme hambúrgueres com a mistura do salmão. Frite-os até alourar dos dois lados, cerca de 4 minutos de cada lado. Bom apetite!";
+
+"Strawberry and Banana Nut Bread Oatmeal_Title" = "Papa de Aveia com Banana, Noz e Morango";
+"Strawberry and Banana Nut Bread Oatmeal_Ingredients" = "◆\t150 g de flocos de aveia (cozidos) \n\n◆\t1/2 banana amassada  \n\n◆\t50 g morangos  \n\n◆\t2 colheres de sopa de leite de amêndoa  \n\n◆\t1 colher de sopa de extrato de baunilha  \n\n◆\t2 colheres de sopa de noz picada \n\n◆\tpacote de stevia da marca \"In The Raw\"  \n\n◆\traspa de limão  \n\n◆\t1 colher de sopa de iogurte Grego (2% de gordura) \n\n◆\t1/2 colheres de sopa de noz picada  \n\n◆\tsementes de papoila";
+"Strawberry and Banana Nut Bread Oatmeal_Instructions" = "Coza os flocos de aveia conforme as instruções e reserve. Adicione todos os ingredientes numa taça exceto os morangos e misture bem. Cubra a papa de aveia com os morangos acabados de cortar. Acompanhe com iogurte Grego, nozes picadas e sementes de papoila. Bom apetite!";
+
+"Strawberry Banana_Title" = "Morango e Banana";
+"Strawberry Banana_Ingredients" = "◆\t2 chávenas de morangos  \n\n◆\t1 banana acabada de descascar \n\n◆\t1 chávena de leite \n\n◆\t1 cubo de gelo  \n\n◆\t1 colher de sopa de mel";
+"Strawberry Banana_Instructions" = "Junte todos os ingredientes no liquidificador e passe até ficar homogéneo. Se o smoothie ficar demasiado espesso, adicione mais leite. Se ficar muito líquido, adicione mais fruta e/ou gelo. Bom apetite!";
+
+"Spicy & Light Kung Pao Chicken Meal Prep_Title" = "Frango Kung Pao Leve e Picante";
+"Spicy & Light Kung Pao Chicken Meal Prep_Ingredients" = "◆\t150 g peitos de frango \n\n◆\t1/6 dentes de alho   \n\n◆\t33 g ervilha torta \n\n◆\t150 g pimento  \n\n◆\t2/3 colheres de sopa de água  \n\n◆\t1/3 colheres de sopa de molho de tomate  \n\n◆\t1/6 colheres de sopa de gengibre fresco  \n\n◆\t1/6 colheres de sopa de molho de malagueta  \n\n◆\t1/6 colheres de sopa de vinagre de arroz  \n\n◆\tcebola verde picada";
+"Spicy & Light Kung Pao Chicken Meal Prep_Instructions" = "Numa taça, junte os ingredientes do molho e mexa. Coloque uma frigideira em lume médio com azeite. Quando a frigideira estiver quente, coloque o alho a alourar durante 2 minutos. Cozinhe o frango até o lado de fora estar dourado, cerca de 6 a 8 minutos. Junte os pimentos e salteie durante 3 minutos. Junte lentamente o molho e mexa com frequência. Bom apetite!";
+
+"Lavender Mint Tea_Title" = "Chá de Menta e Lavanda";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 chávena de pétalas de lavanda fresca  \n\n◆\t1 chávena de folhas de menta fresca \n\n◆\t4 chávenas de água";
+"Lavender Mint Tea_Instructions" = "Coloque as pétalas de lavanda e as folhas de menta num tacho com água e leve a ferver. Baixe o lume e deixe apurar o chá até o sabor ter a intensidade pretendida, 15 a 20 minutos. Bom proveito!";
+
+"Foil Fish Packets with Spinach and Tomato_Title" = "Peixe em Cartucho de Folha de Alumínio com Espinafre e Tomate";
+"Foil Fish Packets with Spinach and Tomato_Ingredients" = "◆\t1 molho de espargos  \n\n◆\t2 tomates cortados  \n\n◆\t2 filetes de tilápia \n\n◆\tazeite  \n\n◆\t1/2 colher de chá de molho chili com alho  \n\n◆\tsal \n\n◆\t1 limão fatiado";
+"Foil Fish Packets with Spinach and Tomato_Instructions" = "Pré-aqueça o forno a 190ºC. Numa taça pequena, junte azeite, molho de chili e sal. Coloque os turiões dos espargos no centro de uma folha de alumínio e cubra-os com as fatias de tomate, depois tempere-as. Coloque um filete de peixe por cima dos tomates em cada cartucho e pincele os peixes com a mistura do azeite. Distribua os gomos de limão sobre o peixe. Asse o peixe no forno durante 25-30 minutos. Bom apetite!";
+
+
+

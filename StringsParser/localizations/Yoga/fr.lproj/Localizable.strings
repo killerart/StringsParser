@@ -1,0 +1,904 @@
+/*
+ Localizable.strings
+ Yoga
+ 
+ Created by Alex Overseer on 4/4/16.
+ Copyright © 2016 SOFTINTERCOM. All rights reserved.
+ */
+
+//Intro
+
+
+"Choose Your Goals" = "Choisissez vos objectifs";
+"Increase Flexibility" = "Augmenter la flexibilité";
+"Get Toned" = "Se tonifier";
+"Lose Weight" = "Perdre du poids";
+"Reduce Stress" = "Réduire le stress";
+"Continue" = "Continuer";
+"Yearly" = "Annuel";
+
+"Enter Your Parameters" = "Entrez vos paramètres";
+"Height" = "Taille";
+"Current weight" = "Poids actuel";
+"Target weight" = "Poids ciblé";
+"Pick Your Height" = "Choisissez votre taille";
+"Pick Your Weight" = "Choisissez votre poids";
+"Pick Your Target Weight" = "Choisissez votre poids ciblé";
+"lbs" = "lbs";
+"kg" = "kg";
+"ft, in" = "ft, in"; //feet, inch
+"cm" = "cm"; //centimeter
+"Save" = "Enregistrer";
+
+"Join Millions\nof happy users" = "Rejoignez des millions\nd’utilisateurs satisfaits";
+"No Annoying Ads" = "Pas de pubs ennuyeuses";
+"Not sure yet?" = "Pas encore sûr ?";
+"Enable free trial" = "Activez l’essai gratuit";
+"Discount %d%%" = "Remise de %d%%"; //example Discount 60%
+"Just Now! Limited Offer!" = "Offre limitée et unique !";
+"Join with our best offer" = "Rejoignez-nous avec notre meilleure offre";
+"Weekly plan" = "Plan hebdomadaire";
+"Monthly plan" = "Plan mensuel";
+
+"Not now" = "Pas maintenant";
+"Save %d%%" = "Économisez %d%%"; //Example: Save 60%
+"year\nBilled annually" = "an\nFacturé annuellement"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "après la période d’essai\ngratuit de 7 jours";
+"healthAppPermisionKey" = "L'appli n'est pas autorisée à écrire des données dans l'appli Santé. Vous pouvez l'activer dans l'appli Santé";
+"Open" = "Ouvrir";
+
+
+//Presentation
+
+"Balance Flexibility" = "Flexibilité de l’équilibre";
+"100+ Poses" = "100+ poses";
+"19 Classes" = "19 cours";
+"Tons of Classes" = "Des tonnes de cours";
+"Anywhere Anytime" = "Partout et à tout moment";
+"Nutrition Plans" = "Plans nutritionnels";
+
+
+
+
+//Buttons keys
+"backButtonKey" = " Retour";
+"doneButtonKey" = "Fait";
+"editButtonKey" = "Éditer";
+"cancelButtonKey" = "Annuler";
+"yesButtonKey" = "Oui";
+"startButtonKey" = "Commencer";
+"skipButtonKey" = "passer";
+
+//MainScreenViewController
+"posesNameKey" = "Postures";
+"posesDescriptionKey" = "Liberté de pratiquer où et quand vous voulez.";
+
+"classesNameKey" = "Classes";
+"classesDescriptionKey" = "Focus sur la flexibilité, la force, l'équilibre. Trouvez votre classe favorite.";
+
+"moreNameKey" = "Plus";
+"moreDescriptionKey" = "Se joindre à la communauté VGFIT. Découvrir plus d'exercices.";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "Rechercher des exercices";
+"noResultsLabelKey" = "Aucun résultat";
+
+//ClassesViewController
+"classBalanceKey" = "Équilibre";
+"classBalanceDescriptionKey" = "Différents styles de yoga sont combinés pour se focaliser sur l'amélioration de votre équilibre.";
+
+"classStrengthKey" = "Force";
+"classStrengthDescriptionKey" = "Une combinaison de puissantes postures de yoga qui vous aideront à renforcer la force de votre.";
+
+"classFlexibilityKey" = "Flexibilité";
+"classFlexibilityDescriptionKey" = "Vous vous concentrez sur votre respiration, sur la récupération musculaire et la flexibilité de votre corps.";
+
+//LevelViewController
+"levelBegginerKey" = "Débutant";
+"levelBegginerTitleKey" = "Commençons avec une exercice léger";
+"levelBegginerDescriptionKey" = "Focus sur l'amélioration de la force et de l'endurance en créant un base solide.";
+
+"levelIntermediateKey" = "Intermédiaire";
+"levelIntermediateTitleKey" = "Passons à un exercice plus difficile";
+"levelIntermediateDescriptionKey" = "Pour ceux qui pratiquent beaucoup et qui ont une expérience préalable en yoga.";
+
+"levelAdvancedKey" = "Avancé";
+"levelAdvancedTitleKey" = "Exercices difficiles";
+"levelAdvancedDescriptionKey" = "Pour ceux qui sont très impliqués et qui ont une importante pratique afin de participer.";
+
+//DifficultyViewController
+"secondSideKey" = "deuxième côté";
+"minutesKey" = "min";
+"posesKey" = "postures";
+
+//Error messages
+"downloadErrorKey" = "Erreur de téléchargement";
+"downloadCompleteKey" = "Téléchargement terminé.";
+"internetConnectionKey" = "Connexion internet";
+"internetConnectionLostKey" = "Connexion internet perdue.";
+"videoNotFoundKey" = "Vidéo non trouvée";
+"videoNotFoundDescriptionKey" = "Souhaitez-vous continuer ? \nChoisir oui et nous allons télécharger à nouveau. Choisir annuler pour revenir en arrière.";
+
+"smtWentWrongKey" = "Une erreur est survenue.";
+"downloadErrorNoConnectionKey" = "Téléchargement impossible. Veuillez vérifier votre connexion à internet via le Wi-Fi ou le réseau mobile !";
+"playerNoInternetConnectivityKey" = "Téléchargement impossible. Veuillez vérifier votre connexion à internet via le Wi-Fi ou le réseau mobile !\nChoisir oui pour passer. Choisir annuler pour revenir en arrière.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Téléchargement des vidéos";
+"downloadOneVideoKey" = "Téléchargement de la vidéo";
+
+//SecondPlayerViewController
+"previewKey" = "Aperçu";
+"secondsKey" = "secondes";
+"completedKey" = "Terminé";
+"playerCurrentExerciseKey" = "Nom de l'exercice :";
+"playerNextExerciseKey" = "Suivant :";
+
+//MoreViewController
+"moreProfileTitleKey" = "Profil\n(Historique de yoga)";
+"moreProfileDescriptionKey" = "Vous pouvez enregistrer l'historique de vos classes et planifier la suivante.";
+
+"moreAppsTitleKey" = "Autres\napplis VGFIT";
+"moreAppsDescriptionKey" = "Découvrir les nouvelles applis de VGFIT et atteindre vos objectifs de fitness.";
+
+"moreSocialTitleKey" = "Médias\nsociaux VGFIT";
+"moreSocialDescriptionKey" = "Se motive et partager avec des amis. Se joindre à la communauté VGFIT.";
+
+"moreSettingsTitleKey" = "Paramètres";
+"moreSettingsDescriptionKey" = "Paramètres complexes pour une meilleure expérience.";
+
+"moreRateUsTitleKey" = "Évaluez nous";
+
+"historyTitleKey" = "Historique";
+"historyNoExerciseKey" = "Aucun exercice n’a été encore fait";
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "Packs Six Abdos";
+"otherAppFitnessAndBodyBuildingKey" = "Fitness et bodybuilding";
+"otherAppFemaleFitnessKey" = "Fitness pour femme";
+"otherAppGoPedometerKey" = "Le podomètre";
+"otherAppSmartCycleAlarmProKey" = "Alarme Cycle Smart PRO";
+"otherAppTimerKey" = "Chronomètre Pro";
+"otherApp7minKey" = "7 Minutes";
+"Water Reminder" = "Rappel d'eau";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "Aperçu complet";
+"settingsPreviewShortKey" = "Bref aperçu";
+"settingsPreviewNoneKey" = "Pas d'aperçu";
+"settingsbreathCycleLenghtKey" = "Durée du cycle de respiration";
+
+//Speech to Text messages
+
+"beginKey" = "commencer";
+"xMoreSeconds" = "%@ secondes de plus";
+"halfWayThereKey" = "La moitié du temps est écoulée";
+
+//Rate Us messages
+
+"Love our %@ app?" = "Vous aimez notre appli %@?";
+"Your feedback will help us to get better" = "Votre avis nous aidera à nous améliorer.";
+"Oh Dear!" = "Cher ami !";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Nous vous serions reconnaissant si vous pouviez partager des idées avec nous afin d'améliorer l'appli. Merci !";
+
+"5-Stars" = "5 étoiles";
+"To improve the app, please Leave a Rating or Review." = "Pour améliorer l'appli, merci de donner une note ou de laisser un avis.";
+
+"Rate Us" = "Evaluez nous";
+"Email Us" = "Envoyer un email";
+"Not now" = "Pas maintenant";
+
+//Reminder
+
+"Reminder" = "Rappel";
+"Edit notification permission in IOS settings" = "Éditer les paramètres de permission de notification dans iOS";
+"Daily reminder" = "Rappel quotidien";
+"Frequency" = "Fréquence";
+"It's time to workout!" = "C'est l'heure de l'exercice !";
+"After %ld days of inactivity" = "Après %ld jours d'inactivité";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Hé! Vous n'avez pas fait d'exercice depuis quelques jours. Il est temps de s'y mettre !";
+"Days" = "Jours";
+
+//Audio Player
+
+"Voice Guide" = "Guide vocal";
+"Background Music" = "Musique en arrière-plan";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "Yoga – postures et classes";
+"Upgrade" = "Surclassement";
+"Buy" = "Acheter";
+"Restore Purchases" = "Restaurez les achats";
+"Premium" = "PREMIUM";
+"Nutrition" = "Nutrition";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "Débloquez tous les nouveaux plans conçus par les meilleurs coachs. Atteignez vos objectifs plus facilement.";
+"Ads free experience" = "Expérience sans pub";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "Débarrassez-vous de toutes les pubs. Profitez de vos séances de yoga sans pub.";
+"Unlock all music" = "Débloquez toute la musique";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "Profitez d'une bande audio exclusive pour vous immerger encore plus pendant les exercices. \n+ Choisissez votre tonalité spécifique pour les notifications afin de ne rien rater.";
+"Yoga Classes" = "Cours de yoga";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "10 nouveaux cours pour tous les niveaux afin d'être en forme avec de la motivation et des exercices positifs. \n+ Plan nutritionnel équilibré pour perdre du poids.";
+
+//Select Sound
+
+"Sounds" = "Sons";
+"Sound" = "Son";
+
+"Default" = "Défaut";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "Séance rapide de yoga";
+"Quick Yoga Fix_details" = "Incluez une séance de yoga dans une journée chargée avec une séquence qui est aussi relaxante qu'énergisante.";
+
+"Getting Toned" = "Gagnez en tonicité";
+"Getting Toned_details" = "Développez la tonicité musculaire, y compris pour les bras, les épaules, le buste, le fessier et les jambes.";
+
+"Morning Yoga" = "Yoga matinal";
+"Morning Yoga_details" = "Commencez votre journée avec une séance revigorante de yoga centrée sur le mouvement de votre colonne vertébrale dans toutes les directions et qui inclut d'efficaces postures de maintien.";
+
+"Daily Yoga for ABS" = "Yoga quotidien pour les abdos";
+"Daily Yoga for ABS_details" = "Ciblez et tonifiez les muscles abdominaux profonds.";
+
+"Yoga for Runners" = "Yoga pour les joggeurs";
+"Yoga for Runners_details" = "Le yoga offre une combinaison unique d'équilibre, de flexibilité, de force et de pleine conscience qui peut aider les joggeurs à améliorer leur performance et éviter les blessures. Courrez plus intelligemment grâce à cette séquence d'entraînement croisé.";
+
+"Boost Your Energy" = "Boostez votre énergie";
+"Boost Your Energy_details" = "Rechargez-vous avec cette séquence conçue pour revigorer votre corps et votre esprit.";
+
+"Deep Stretching Exercises" = "Exercices d'étirement";
+"Deep Stretching Exercises_details" = "Rajeunissez vos muscles fatigués, améliorez votre amplitude de mouvement et boostez la circulation avec ces étirements de yoga.";
+
+"Improve Your Balance" = "Améliorez votre équilibre";
+"Improve Your Balance_details" = "Améliorez la coordination, le temps de réaction, la posture et la conscience de votre corps avec cette séquence avancée de postures d'équilibre.";
+
+"Challenge Your Flexibility" = "Stimulez votre flexibilité";
+"Challenge Your Flexibility_details" = "Développez votre flexibilité grâce à une série d'étirements intenses et appliquez les résultats à des postures de yoga plus avancées.";
+
+"Core Muscle Sculptor" = "Sculptez la musculature";
+"Core Muscle Sculptor_details" = "Partez du bas pour développer la force dans les jambes, les abdominaux, le bas du dos et tout le buste.";
+
+"Food Nutrition" = "Plan nutritionnel";
+"Food Nutrition_details" = "Soyez en forme, pour toujours ! Apprenez comment bien manger, découvrez les aliments bruleurs de graisse, les plats sains et goûteux pour stimuler votre organisme.";
+
+//Other
+
+"In-App purchases were restored" = "Les achats intégrés ont été restaurés";
+"Sorry we didn't find your previous purchases" = "Désolé, nous n’avons pas retrouvé vos achats précédents";
+"Alert" = "Alerte";
+"No internet connection" = "Aucune connexion internet !";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription options: &&3 days of free trial followed by $3.99 per Week. 3 days of free trial followed by $12.99 per Month. 3 days of free trial followed by $35.99 per Year++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+//"Restore" = "Restaurer";
+
+"Subscription Info" = "Infos abonnement";
+"More info about subscriptions and Premium membership" = "Plus d'infos sur les abonnements, dont le Premium";
+"%d days of free trial followed by %@ per %@" = "%d jours d'essai gratuit, et ensuite %@ par %@"; //ex:3 days of free trial followed by $3.99 per week
+"month"="mois";
+"year"="année";
+"week"="semaine";
+"after"="après";
+"Privacy Policy"="Politique de confidentialité";
+"Terms of Service"="Conditions générales";
+"Nutrition plan"="Plan de nutrition";
+"and"="et";
+"Subscription"="Abonnement";
+"By continuing you accept our"="En continuant, vous acceptez nos";
+
+"Start your positive\ntransformation today!"="Commencez votre transformation\npositive aujourd'hui !";
+"Get 100% ready workouts courses with powerful support!"="Des cours avec des exercices prêts à 100 % avec un support en béton !";
+"Only now"=" Seulement maintenant ";
+"GET LIFETIME ACCESS"="ACCÈS À VIE";
+"one-time payment"="paiement unique";
+
+"%d poses and %d yoga classes"="%d poses et %d cours de yoga";
+"3 days for FREE"="3 jours GRATUITS";
+"Ads FREE\nexperience"="Expérience \nSANS pub";
+"Yoga"="Yoga";
+"Yoga\nClasses"="Cours\nde yoga";
+"UNLOCK\nall music"="DÉBLOQUER\ntoute la musique";
+"76% off"="76 % de remise"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="%@ par mois facturé une fois par an, soit %@ par an";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="Plan nutritionnel pour perdre du poids";
+
+//VGFIT WORKOUT
+"Nutrition plan for building muscle"="Développer la masse musculaire";
+"Nutrition plan for weight loss"="Un corps affiné";
+"Challenges"="Défis";
+"Ads FREE experience"="Expérience \nSANS pub";
+"Nutrition plans"="Plans \nnutritionnels";
+"New Workouts"="Nouveaux \nexercices";
+"ARMS | ABS"="BRAS | ABDOS";
+"CLOSE"="FERMER";
+"Workout challenges"="Défis Exercice";
+"Challenge"="Défi";
+"Exercises"="Exercices";
+"Restore purchase"="Restaurer les achats";
+"SHARE"="PARTAGER";
+"%d-day\nFree Trial"="Essai gratuit\n%d jours";
+"Try it Now"="Essayer maintenant";
+"GET LIFETIME ACCESS"="ACCÈS À VIE";
+"SKIP"="PASSER";
+"%@ WORKOUTS"="%@ EXERCICES";// ex: 25 workouts
+"3-day \nFree trial"="Essai gratuit\n3 jours";
+"7-day \nFree trial"="Essai gratuit\n7 jours";
+"startKey"="Commencer";
+//Exercise name
+
+"exerciseName1" = "Montagne";
+
+"exerciseName2" = "Demi-lotus";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "Variation de la posture de la chaise";
+
+"exerciseName5" = "Étirement du flanc";
+
+"exerciseName6" = "Oiseau du Paradis";
+
+"exerciseName7" = "Variation de la posture du gros orteil";
+
+"exerciseName8" = "Bateau";
+
+"exerciseName9" = "Arc";
+
+"exerciseName10" = "Variation de la posture du pont";
+
+"exerciseName11" = "Chameau";
+
+"exerciseName12" = "Chat";
+
+"exerciseName13" = "Corps étendu sur le dos";
+
+"exerciseName14" = "Chaise";
+
+"exerciseName15" = "Chaise en torsion";
+
+"exerciseName16" = "Chaise en torsion avec bras allongés";
+
+"exerciseName17" = "Posture de l'enfant";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "Cobra";
+
+"exerciseName20" = "Posture du cadavre";
+
+"exerciseName21" = "Vache";
+
+"exerciseName22" = "Tête de vache";
+
+"exerciseName23" = "Variation de la tête de vache";
+
+"exerciseName24" = "Dessus de table inversé";
+
+"exerciseName25" = "Corbeau";
+
+"exerciseName26" = "Dauphin";
+
+"exerciseName27" = "Sphinx";
+
+"exerciseName28" = "Planche sur avant-bras";
+
+"exerciseName29" = "Chien tête en bas";
+
+"exerciseName30" = "Chien tête en bas avec torsion";
+
+"exerciseName31" = "Grenouille";
+
+"exerciseName32" = "Posture accomplie avec les bras en aigle";
+
+"exerciseName33" = "Aigle";
+
+"exerciseName34" = "Posture de pression de l'oreille";
+
+"exerciseName35" = "Torsion vertébrale assis";
+
+"exerciseName36" = "Plié avant jambes croisées";
+
+"exerciseName37" = "Posture courbée";
+
+"exerciseName38" = "Posture du cœur";
+
+"exerciseName39" = "Angle latéral lié";
+
+"exerciseName40" = "Angle latéral étendu modifié";
+
+"exerciseName41" = "Angle latéral";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "Posture de la bûche";
+
+"exerciseName44" = "Poisson";
+
+"exerciseName45" = "Porte";
+
+"exerciseName46" = "Cheval";
+
+"exerciseName47" = "Tigre";
+
+"exerciseName48" = "Chameau avec torsion";
+
+"exerciseName49" = "Demi-grenouille";
+
+"exerciseName50" = "Sauterelle";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "Demi-lotus debout";
+
+"exerciseName53" = "Demi-grand écart";
+
+"exerciseName54" = "Posture de la demi-lune arquée";
+
+"exerciseName55" = "Demi-lune";
+
+"exerciseName56" = "Chandelle";
+
+"exerciseName57" = "Posture du sage Marichi III";
+
+"exerciseName58" = "Poirier";
+
+"exerciseName59" = "Poirier tripode";
+
+"exerciseName60" = "Bébé heureux";
+
+"exerciseName61" = "Posture du héron";
+
+"exerciseName62" = "Plongeon inversé";
+
+"exerciseName63" = "Plongeon haut";
+
+"exerciseName64" = "Archer";
+
+"exerciseName65" = "Cobra entier";
+
+"exerciseName66" = "Danseur";
+
+"exerciseName67" = "Variation de la posture relaxation par le vent";
+
+"exerciseName68" = "Salut en huit points";
+
+"exerciseName69" = "Posture du lézard";
+
+"exerciseName70" = "Variation de la posture de la sauterelle";
+
+"exerciseName71" = "Plongeon en croissant avec torsion";
+
+"exerciseName72" = "Plongeon en croissant";
+
+"exerciseName73" = "Sirène";
+
+"exerciseName74" = "Arc tête haute sur une jambe";
+
+"exerciseName75" = "Lapin";
+
+"exerciseName76" = "Pigeon royal";
+
+"exerciseName77" = "Pyramide";
+
+"exerciseName78" = "Demi-pigeon";
+
+"exerciseName79" = "Posture de l'échelle";
+
+"exerciseName80" = "Pont";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "Variation prière haute";
+
+"exerciseName83" = "Planche";
+
+"exerciseName84" = "Pied au doigt incliné B";
+
+"exerciseName85" = "Charrue";
+
+"exerciseName86" = "Variation tigre avec arc";
+
+"exerciseName87" = "Guerrier pacifique";
+
+"exerciseName88" = "Demi-lune retournée";
+
+"exerciseName89" = "Posture tête sur genou";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "Pigeon incliné";
+
+"exerciseName92" = "Posture tête sur genou retournée";
+
+"exerciseName93" = "Triangle retourné";
+
+"exerciseName94" = "Petit plongeon";
+
+"exerciseName95" = "Variation pied au doigt debout retourné";
+
+"exerciseName96" = "Torsion vertébrale couché";
+
+"exerciseName97" = "Angle lié incliné";
+
+"exerciseName98" = "Pied au doigt incliné A";
+
+"exerciseName99" = "Plié avant assis";
+
+"exerciseName100" = "Pied au doigt debout D";
+
+"exerciseName101" = "Planche latérale";
+
+"exerciseName102" = "Bras sur tête de vache";
+
+"exerciseName103" = "Penché latéral assis";
+
+"exerciseName104" = "Variation chandelle";
+
+"exerciseName105" = "Penché en arrière debout";
+
+"exerciseName106" = "Pied au doigt debout B";
+
+"exerciseName107" = "Variation sauterelle avec doigts entrecroisés";
+
+"exerciseName108" = "Posture du bâton";
+
+"exerciseName109" = "Sphinx";
+
+"exerciseName110" = "Planche latérale modifiée";
+
+"exerciseName111" = "Penché en avant avec jambes écartées";
+
+"exerciseName112" = "Accroupi Yoga";
+
+"exerciseName113" = "Penché en avant assis angle large";
+
+"exerciseName114" = "Penché en avant avec jambes écartées C";
+
+"exerciseName115" = "Variation de la posture tête au genou retournée";
+
+"exerciseName116" = "Accroupi Yoga avec liaison";
+
+"exerciseName117" = "Posture du héros tête en avant";
+
+"exerciseName118" = "Penché en avant avec jambes écartées et torsion";
+
+"exerciseName119" = "Penché en avant avec jambes écartées et étirement latéral";
+
+"exerciseName120" = "Couche de Vishnu'";
+
+"exerciseName121" = "Posture angle lié tête en bas";
+
+"exerciseName122" = "Guerrier 2";
+
+"exerciseName123" = "Penché sur le côté debout avec doigts entrecroisés";
+
+"exerciseName124" = "Grand écart debout";
+
+"exerciseName125" = "Penché en avant debout";
+
+"exerciseName126" = "Pied au doigt debout A";
+
+"exerciseName127" = "Penché en avant plié avec variation ouverture épaule";
+
+"exerciseName128" = "Guerrier 1";
+
+"exerciseName129" = "Guerrier 3";
+
+"exerciseName130" = "Penché latéral debout";
+
+"exerciseName131" = "Chandelle supportée";
+
+"exerciseName132" = "Planche inversée";
+
+"exerciseName133" = "Pied au doigt debout C avec plié en avant";
+
+"exerciseName134" = "Plié en avant debout avec torsion";
+
+"exerciseName135" = "Penché en arrière debout supporté";
+
+"exerciseName136" = "Posture du bâton à quatre pieds";
+
+"exerciseName137" = "Posture du bâton à quatre pieds & dessus de table";
+
+"exerciseName138" = "Arc tête en haut";
+
+//Exercise description
+
+"exerciseDescription1" = "Se tenir avec les pieds ramenés près des hanches et le bord extérieur des pieds parallèle. Étirer la colonne vertébrale et ramener le nombril vers la colonne vertébrale. Pousser sur l'arrière de la tête et ramener le coccyx vers les talons.";
+
+"exerciseDescription2" = "S'asseoir sur le sol et plier le genou gauche en plaçant le bord extérieur du pied gauche sous la cuisse droite et devant votre os iliaque droit. Ensuite, prendre le côté extérieur du pied droit et le placer dans la pliure de la hanche gauche. Placer les paumes vers le bas sur les rotules et se redresser avec les épaules relâchées. Répéter avec la jambe gauche sur le dessus.";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = "Se tenir avec les pieds ramenés près des hanches. Tendre les bras droit devant soi, paumes tournées vers le bas. Plier les genoux et soulever les talons pour les décoller en appui sur la plante des pieds.";
+
+"exerciseDescription5" = "S'allonger sur le dos avec les paumes enveloppant l'arrière de votre tête. Croiser la cheville gauche sur la cheville droite. Se pencher vers la droite en bougeant la partie haute du corps et les jambes vers la droite. Revenir au centre, interchanger la position des chevilles pour que la droite soit au-dessus et se pencher vers la gauche.";
+
+"exerciseDescription6" = "Se tenir en position pliée vers l'avant avec les pieds ramenés près des hanches. Incliner les genoux et, en commençant avec le bras droit en avant, le placer entre les jambes, plier le coude et diriger la main droite vers la hanche droite. Plier le coude gauche derrière le dos et diriger la main gauche vers la hanche droite (si vous ne pouvez pas atteindre le poignet, essayez en attrapant le bout des doigts des deux mains). \n \n Dès que les mains sont liées à proximité de la hanche droite, soulever le talon droit, basculer le poids sur le pied gauche et se tenir debout sur la jambe gauche. Maintenir le genou droit plié tout en maintenant droite la jambe gauche et en étirant la colonne vertébrale. Finalement, appuyer le bras droit contre la jambe droite tout en étirant la jambe droite vers le côté. \n \n Répéter en se tenant sur la jambe droite, avec les bras enroulés autour de la jambe gauche.";
+
+"exerciseDescription7" = "Se tenir assis avec les genoux pliés et la plante des pieds posée à plat en avant. Placer les mains sous les cuisses et décoller les pieds du sol de manière à pouvoir se balancer sur les os iliaques. Étirer les jambes autant que possible sans arrondir le bas du dos. Au fil du temps, avec l'amélioration de la flexibilité, vous pourriez être en mesure de glisser les mains sur le dessus des jambes vers les pieds et éventuellement tenir les gros orteils avec les trois premiers doigts de chaque main.";
+
+"exerciseDescription8" = "Se tenir assis avec les genoux pliés, la plante des pieds posée à plat en avant et les bras tendus. Décoller les pieds du sol et positionner les tibias parallèles au plafond, les bras tendus le long des jambes. En se balançant sur les os iliaques, maintenir la posture pendant au moins 5 respirations.";
+
+"exerciseDescription9" = "S'allonger sur le ventre, plier les genoux et toucher en gardant le contact l'extérieur des chevilles. Décoller du sol la tête, la poitrine et les jambes. Ne pas écarter les jambes et les garder aligner tout en atteignant l'arrière de la tête avec les tibias en direction du plafond.";
+
+"exerciseDescription10" = "S'allonger sur le dos avec les genoux pliés, la plante des pieds ramenée vers les hanches et le bord extérieur des pieds parallèle. Tenir l'extérieur des chevilles avec les mains, décoller le pelvis du sol et incurver la poitrine vers le haut.";
+
+"exerciseDescription11" = "S'agenouiller avec les tibias parallèles l'un à l'autre et le dessus des pieds au contact du sol. Positionner les hanches au-dessus des genoux et les épaules au-dessus des hanches. Soulever la poitrine vers le ciel et maintenir les hanches au-dessus des genoux tout en s'appuyant sur les talons.";
+
+"exerciseDescription12" = "Commencer à quatre pattes dans la position de la table avec les épaules au-dessus des poignets et les hanches au-dessus des genoux. Tout en expirant, arrondir la colonne vertébrale afin que la tête se dirige vers le sol, le nombril se soulève vers la colonne vertébrale et le coccyx se courbe en direction du sol.";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "Se tenir avec les pieds ramenés vers les hanches et le bord extérieur des pieds parallèles l'un à l'autre. Inspirer et allonger les bras vers le haut près des oreilles et les paumes faisant face. Conserver l'espace entre les bras tout en pliant les genoux et en ramenant les hanches vers l'arrière. Essayer de positionner les cuisses parallèles au sol et de les maintenir dans cette position tout en soulevant le bas ventre et la poitrine.";
+
+"exerciseDescription15" = "Se tenir debout avec les gros orteils l'un contre l'autre et le bord extérieur des pieds parallèle. Plier les genoux et joindre les paumes en avant de la poitrine. Inspirer pendant l'étirement de la colonne vertébrale, en gardant les hanches basses. Tout en expirant, faire une torsion vers la droite et positionner le coude gauche près de la cuisse droite. Inspirer pour revenir en position avec les paumes dans la position du prieur devant votre poitrine. Expirer en faisant une torsion vers la gauche.";
+
+"exerciseDescription16" = "Se tenir debout avec les gros orteils l'un contre l'autre et le bord extérieur des pieds parallèle. Plier les genoux et joindre les paumes en avant de la poitrine. Inspirer pendant l'étirement de la colonne vertébrale, en gardant les hanches basses. Tout en expirant, faire une torsion vers la droite et positionner le coude gauche près de la cuisse droite. Écarter les bras en forme de \"T\" de manière que le bout des doigts gauches atteigne le sol à l'extérieur de la cheville droite et que le bras droit pointe vers le ciel. Regarder vers la paume droite. \n\n Inspirer en revenant au centre avec les paumes dans la position du prieur devant la poitrine. Expirer en faisant une torsion vers la gauche en positionnant le coude droit à l'extérieur de la cuisse gauche. Écarter les bras, cette fois-ci en dirigeant le bout des doigts droits vers l'extérieur de la cheville gauche et en étirant le bras gauche vers le ciel. Regarder la paume gauche.";
+
+"exerciseDescription17" = "Commencer avec les mains et les genoux dans la position de la table. Rapprocher les gros orteils et s'asseoir sur les talons tout en décollant le front du sol. Positionner les bras le long du corps, les paumes vers le haut.";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = "S'allonger sur le ventre et tourner les paumes vers le bas près des côtes flottantes, juste au-dessus de votre taille. Décoller du sol la partie supérieure du corps en appuyant sur les mains et laisser les genoux, les tibias et le dessus des pieds au contact du sol. Diriger le coccyx vers les talons pour engager vos abdominaux inférieurs et étirer les bras autant que possible sans créer un inconfort pour le bas du dos. \n\n En laissant la paume gauche sur le sol, faire pivoter la poitrine et la tête vers la droite et faire glisser la main droite vers l'arrière de la cuisse droite. Revenir au centre et répéter vers le côté gauche.";
+
+"exerciseDescription20" = "S'allonger sur le dos avec les jambes allongées et les bras contre le corps, les paumes tournées vers le haut. Fermer les yeux et détendre les muscles en laissant le corps peser sur le sol.";
+
+"exerciseDescription21" = "Commencer à quatre pattes dans la position de la table. Pendant l'inspiration, arquer le dos, soulever le menton et regarder vers le haut.";
+
+"exerciseDescription22" = "S'asseoir sur le sol, plier les genoux et croiser le genou droit au-dessus du gauche afin qu'ils soient superposés devant le nombril et être assis entre les talons. Étirer le bras gauche vers le plafond, plier le coude gauche et pointer le bout des doigts vers le dos. Étirer le bras droit vers le côté droit, tourner la paume droite pour vous faire face et plier le coude droit de manière à ce que le bout des doigts pointe vers le dos. Croiser les doigts droits et gauches. Répéter sur l'autre côté avec le genou gauche vers le haut et le bras droit vers le haut.";
+
+"exerciseDescription23" = "S'asseoir sur le sol, plier les genoux et croiser le genou droit au-dessus du gauche afin qu'ils soient superposés devant le nombril et être assis entre les talons. Étirer la colonne vertébrale tout en allongeant les bras le long des oreilles. Répéter sur l'autre côté avec le genou gauche au-dessus du droit.";
+
+"exerciseDescription24" = "S'asseoir avec les genoux pliés et les pieds positionnés près des hanches devant vous. Poser les paumes derrière soi avec la largeur des épaules pour écartement et le bout des doigts pointant tout droit. Décoller du sol le pelvis afin que les genoux soient pliés avec un angle de 90°. Positionner les genoux au-dessus des chevilles et les épaules au-dessus des poignets. Appuyer sur l'index et le pouce de chaque main. Pour commencer, garder le cou aligné avec le reste de la colonne vertébrale et le nez pointé vers le plafond. Si vous n'avez pas de problème de colonne vertébrale, vous pouvez incliner la tête doucement en arrière afin que la base du crâne soit calée juste au-dessus des omoplates.";
+
+"exerciseDescription25" = "Se tenir en position pliée vers l'avant avec les pieds joints. Plier les genoux et poser les paumes approximativement 30cm devant les pieds avec une largeur d'épaules comme écartement entre les mains et les doigts poser sur le sol. Décoller du sol les talons pour soulever les hanches et abaisser les genoux vers le dos des mains, créant ainsi une étagère avec les mains. Plier les coudes à environ 90° et les superposer au-dessus des poignets. Regarder vers les mains sur le sol et basculer lentement le poids vers les mains. Dès que les épaules ont basculé légèrement vers l'avant et que tout le poids est sur les mains, s'exercer à décoller un ou les deux pieds du sol. Au fil du temps, s'exercer en pointant les orteils et en les ramenant vers les os iliaques.";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = "S'allonger sur le ventre et se soulever avec les coudes afin que les avant-bras soient parallèles et avec une largeur d'épaules comme écartement entre les coudes. Tirer sur les coudes vers les hanches tout en ramenant la poitrine vers les bras. Pointer les orteils et faire glisser le coccyx vers les talons.";
+
+"exerciseDescription28" = "S'allonger sur le ventre et se soulever avec les coudes afin que les avant-bras soient parallèles et avec une largeur d'épaules comme écartement entre les coudes. Replier les orteils et décoller du sol les cuisses et le pelvis. Centrer les épaules au-dessus des coudes et soulever le ventre vers le bas du dos. Engager l'avant des cuisses et ramener le pubis vers le nombril pour empêcher les hanches de pointer vers le haut.";
+
+"exerciseDescription29" = "Commencer à quatre pattes dans la position de la table avec les poignets sous les épaules et les doigts écartés. Ramener les pieds en arrière en position de planche avec une forte poussée avec les jambes et le ventre engagé. À partir de là, soulever les hanches et presser votre poitrine vers les jambes tout en étirant les talons vers le sol. Pousser sur le sol avec les mains afin de ramener la partie haute du corps vers les jambes. Prendre fermement appui avec l'index et le pouce de chaque main et garder une largeur de hanches comme écartement entre les pieds, avec les talons alignés derrière le second et le troisième orteil.";
+
+"exerciseDescription30" = "Commencer à quatre pattes dans la position de la table avec les poignets sous les épaules et les doigts écartés. Ramener les pieds en arrière en position de planche avec une forte poussée avec les jambes et le ventre engagé. À partir de là, soulever les hanches et presser votre poitrine vers les jambes tout en étirant les talons vers le sol. Pousser sur le sol avec les mains afin de ramener la partie haute du corps vers les jambes. Prendre fermement appui avec l'index et le pouce de chaque main et garder une largeur de hanches comme écartement entre les pieds, avec les talons alignés derrière le second et le troisième orteil. \n\n Garder la paume gauche sur le sol tout en dirigeant le bras droit vers l'espace entre les jambes pour tenir l'arrière de la cheville gauche ou le mollet. Continuer pour atteindre l'extérieur de la hanche et appuyer sur le sol avec la paume gauche. Répéter sur l'autre côté.";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = "S'asseoir avec les genoux pliés et les pieds devant le pubis, le pied gauche devant le pied droit. Plier les coudes et positionner le coude droit sous le gauche. Croiser les poignets avec les paumes vous faisant face. Soulever les coudes et pousser sur les paumes vers l'avant. Répéter sur l'autre côté avec le pied droit devant et le coude gauche en dessous.";
+
+"exerciseDescription33" = "Se tenir debout les pieds joints et décoller du sol le talon droit. Plier les coudes et positionner le coude droit sous le gauche. Croiser les poignets avec les paumes vous faisant face. Soulever les coudes et pousser sur les paumes vers l'avant. \n\n Plier le genou gauche et croiser le genou droit par-dessus le gauche, en se balançant sur la jambe gauche et en positionnant le gros orteil droit à l'intérieur de la cheville gauche. Tout en tirant les hanches vers l'extérieur, maintenir la poitrine relevée et continuer à soulever les coudes.";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = "S'asseoir avec les jambes croisées de façon confortable et les paumes posées sur les rotules. En inspirant, étirer la colonne vertébrale. En expirant, faire une torsion vers la gauche en ramenant le bout des doigts gauches vers le sol derrière soi et en plaçant la paume droite sur la rotule gauche. Inspirer pour revenir au centre et, en expirant, faire une torsion vers la droite en plaçant le bout des doigts droits sur le sol derrière soi et en posant la paume gauche sur la rotule droite.";
+
+"exerciseDescription36" = "S'asseoir avec les jambes croisées de façon confortable. Placer les paumes sur le sol devant soi et les faire avancer jusqu'à ce que les bras soient tendus. Si le front ne touche pas le sol, il est possible de le poser sur une couverture ou une serviette pliée pour soutenir le cou. Répéter avec la jambe opposée sur le dessus.";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = "Commencer à quatre pattes dans la position de la table. Garder les hanches au-dessus des genoux et une largeur d'épaules comme écartement entre les mains tout en faisant avancer les mains aussi loin vers l'avant que possible. Amener la poitrine vers le sol.";
+
+"exerciseDescription39" = "Prendre une position jambes écartées avec les pieds parallèles. Tourner le pied droit de 90° et plier le genou droit avec un angle de 90° de façon à ce que le dessus de la cuisse droite soit parallèle au sol. Maintenir le genou droit avec la cheville droite surmontée par la jambe gauche allongée et les orteils légèrement tournés vers l'intérieur. Allonger le côté droit de votre torse sur la cuisse droite et ramener le bras droit à l'intérieur de votre jambe droite. \n\n Placer le bras droit sous la cuisse, plier le coude et diriger la main vers l'extérieur de la hanche droite. Plier le coude gauche derrière le dos et diriger la main gauche vers l'extérieur de la hanche droite. Utiliser la main droite pour maintenir le poignet gauche (si vous ne pouvez pas atteindre le poignet, essayez d'agripper le bout des doigts avec les deux mains). \n\n Dès que vos bras sont liés autour de votre jambe droite, ramener la hanche droite sous le corps et se pencher en arrière de manière à ce que le côté droit de votre torse recouvre la cuisse. Étirer le côté de la nuque tout en écartant l'arrière de la tête du pied gauche. Appuyer le pied gauche sur le sol et garder le pied droit centré par-dessus le second et le troisième orteil. \n\n Répéter sur le côté gauche, en réunissant les bras autour de la jambe gauche de manière à joindre les mains à l'extérieur de la hanche gauche.";
+
+"exerciseDescription40" = "Prendre une position jambes écartées avec les pieds parallèles. Tourner le pied droit de 90° et plier le genou droit avec un angle de 90° de façon à ce que le dessus de la cuisse droite soit parallèle au sol. Maintenir le genou droit avec la cheville droite surmontée par la jambe gauche allongée. Allonger le côté droit de votre torse sur la cuisse droite et reposer légèrement le coude droit sur la cuisse droite avec la paume vers le haut. Allonger le bras gauche le long de l'oreille gauche et éloigner le nombril du pied droit tout en regardant vers la main gauche. Appuyer le pied gauche sur le sol et maintenir le genou droit centré au-dessus du second et du troisième orteil. Répéter sur le côté gauche.";
+
+"exerciseDescription41" = "Prendre une position jambes écartées avec les pieds parallèles. Tourner le pied droit de 90° et plier le genou droit avec un angle de 90° de façon à ce que le dessus de la cuisse droite soit parallèle au sol. Maintenir le genou droit avec la cheville droite surmontée par la jambe gauche allongée et les orteils légèrement tournés vers l'intérieur. \n\n Allonger le côté droit de votre torse sur la cuisse droite et placer la paume droite sur le sol à l'intérieur du pied droit afin que l'épaule se superpose au poignet. Allonger le bras gauche tendu vers le ciel et regarder la paume gauche. Appuyer le pied gauche sur le sol et maintenir le genou droit centré au-dessus du second et du troisième orteil. Répéter sur le côté gauche.";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = "S'asseoir et plier le genou gauche vers la gauche de manière à ce que le côté extérieur du pied soit sur le sol et le tibia soit parallèle au rebord avant du tapis. Plier le genou droit vers la droite et placer le tibia droit au-dessus du gauche afin que le genou droit se superpose à la cheville gauche et que la cheville droite se superpose au genou gauche. Se plier lentement vers l'avant autant que possible. Répéter avec le tibia gauche sur le dessus.";
+
+"exerciseDescription44" = "S'allonger sur le dos avec les bras sur les côtés, les paumes tournées vers le sol. Soulever la poitrine vers le plafond et ramener la tête en arrière afin que l'arrière de la tête repose légèrement sur le sol. Soulever les jambes avec un angle de 45° par rapport au sol.";
+
+"exerciseDescription45" = "S'agenouiller avec les hanches au-dessus des genoux, les tibias parallèles et le dessus des pieds sur le sol. Déplacer le pied droit vers la droite afin que la jambe soit tendue et que les orteils pointent vers la droite et vers le sol. Placer la paume droite sur la cuisse droite et allonger le bras gauche le long de l'oreille gauche. Tout en se penchant sur le côté droit, glisser la main droite vers la cheville droite. Répéter sur le côté gauche.";
+
+"exerciseDescription46" = "Se tenir debout et écarter les pieds avec une longueur de jambe comme écartement. Tourner les orteils vers l'extérieur tout en pliant les genoux et superposer les genoux au-dessus des chevilles. Diriger l'intérieur des genoux vers les orteils et plier les coudes vers l'autre côté pour réaliser une figure de cactus avec les bras.";
+
+"exerciseDescription47" = "Commencer à quatre pattes avec les doigts écartés, les poignets sous les épaules et les genoux sous les hanches. Appuyer sur la pointe des doigts et sur le dessus du pied gauche tout en décollant le pied droit du sol et en l'étirant derrière soi. Soulever le ventre et les côtes flottantes vers le dos. Répéter avec le tibia droit au sol et la jambe gauche levée.";
+
+"exerciseDescription48" = "S'agenouiller avec les tibias parallèles, le dessus des pieds sur le sol, les hanches au-dessus des genoux et les épaules superposées aux hanches. Soulever la poitrine vers le plafond et maintenir les hanches au-dessus des genoux tout en parvenant à saisir les talons. \n\n Maintenir la main gauche sur le talon gauche tout en inspirant et étirer le bras droit vers le ciel. Expirer tout en effectuant une torsion de la poitrine vers la gauche. Puis ramener la main droite vers le talon droit et faire pivoter la poitrine vers le ciel. \n\n Inspirer et étirer le bras gauche vers le ciel. En expirant, faire un mouvement de torsion de la poitrine vers la droite. Ramener les deux mains vers les talons et courber la poitrine vers le plafond avant de s'asseoir sur les talons avec les mains sur les cuisses pour sortir de la posture.";
+
+"exerciseDescription49" = "S'allonger sur le ventre et se tenir sur les coudes afin que les avant-bras soient parallèles et que les coudes soient écartés d'une largeur d'épaules. Déplacer la main gauche vers la droite, paume vers le bas, afin que l'avant-bras gauche soit parallèle au rebord avant du tapis. Plier le genou droit et tenir le dessus du pied droit avec la main droite en ramenant le talon droit vers l'extérieur de la hanche. Maintenir le talon avec la main sur le dessus du pied tout en pivotant l'extrémité des doigts droits vers la droite pour ensuite les pointer vers le talon droit. Plier le coude droit vers le côté droit pour former un angle droit avec la poitrine. Répéter sur le côté gauche.";
+
+"exerciseDescription50" = "S'allonger sur le ventre avec le tibia sur le sol et les bras sur les côtés, les paumes tournées vers le bas. Ramener les bras sous votre torse et serrer les mains. Décoller du sol les deux jambes et pointer les orteils. \n\n Reposer les deux jambes sur le sol et desserrer les mains en tournant les paumes vers le bas. Soulever la jambe droite en l'air. Baisser la jambe droite et soulever la jambe gauche. Ramener la jambe gauche au sol.";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = "Se tenir debout les pieds joints et basculer le poids sur le pied gauche en ramenant le genou droit sur la poitrine. Maintenir le bord extérieur du pied droit dans la main gauche et le placer dans la pliure de la hanche gauche. Étirer les deux bras le long des oreilles. Répéter en se tenant sur la jambe droite avec le genou gauche plié et le bord extérieur du pied gauche dans la pliure de la hanche droite.";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = "S'asseoir avec les jambes tendues devant soi. Plier le genou gauche et positionner le pied gauche à l'intérieur de la jambe droite. Placer la paume gauche sur le sol derrière soi. Inspirer tout en levant le bras droit le long de l'oreille et en étirant la colonne vertébrale. Expirer tout en effectuant une torsion vers la gauche et positionner le coude droit à l'extérieur de la cuisse gauche. Répéter avec le genou droit plié et une torsion vers la droite.";
+
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = "S'allonger sur le dos, plier les genoux et tenir les bords extérieurs des pieds. Appuyer les mains sur les pieds pour ramener les genoux vers les aisselles et étirer les ischio-jambiers. Maintenir le bas du dos sur le sol autant que possible.";
+
+"exerciseDescription61" = "S'asseoir entre les talons avec les genoux joints et le dessus des pieds sur le sol. Positionner le pied droit sur le sol devant soi et entrecroiser les doigts sous la plante du pied droit. Allonger la jambe droite en l'air tout en étirant la colonne vertébrale et en soulevant la poitrine vers le haut du pied droit.";
+
+"exerciseDescription62" = "Commencer avec un plongeon avec le pied gauche en avant et la pointe des doigts enserrant le pied gauche sur le sol. S'assurer que le genou gauche est plié avec un angle de 90° et superposé à la cheville et que la jambe droite est étiré derrière soi avec la plante du pied droit sur le sol. Soulever le ventre de la cuisse gauche et joindre les paumes en position du prieur devant la poitrine. Inspirer tout en étirant la colonne vertébrale et expirer dans un mouvement de torsion vers la gauche, en positionnant le coude droit à l'extérieur du genou gauche. Appuyer la paume gauche contre celle de droite, en regardant au-dessus de l'épaule gauche et pointer le talon droit vers le ciel. Répéter avec la jambe droite en avant et une torsion vers la droite.";
+
+"exerciseDescription63" = "Prendre une position de plongeon avec le genou droit plié à 90° et superposé à la cheville et la jambe gauche tendue vers l'arrière avec le plante du pied gauche sur le sol. Soulever les épaules au-dessus des hanches et, avec les mains sur les hanches, tourner la hanche droite en arrière et amener la hanche gauche vers l'avant. Étirer les bras le longe des oreilles. Répéter avec la jambe gauche en avant.";
+
+"exerciseDescription64" = "Prendre une position de plongeon avec le genou droit plié à 90° et superposé à la cheville et la jambe gauche tendue derrière soi avec la plante du pied gauche sur le sol. Soulever les épaules au-dessus des hanches et entrecroiser les doigts derrière le dos. Se plier vers l'avant à l'intérieur de la jambe droite, positionner l'arrière de la tête vers le sol et diriger les paumes à l'écart du bas du dos. Étreindre la hanche droite tout en amenant le talon gauche vers le plafond. Répéter avec la jambe gauche en avant et l'entrecroisement opposé des doigts (i.e. l'index opposé et le pouce sur le dessus).";
+
+"exerciseDescription65" = "S'allonger sur le ventre et positionner les paumes sur chaque côté de la poitrine. Appuyer sur les mains pour décoller du sol la partie supérieure du corps. Plier les genoux, pointer les orteils et courber la poitrine tout en rapprochant vos pieds et la partie supérieure de la tête.";
+
+"exerciseDescription66" = "Se tenir debout avec les pieds joints et diriger le bras droit en avant à hauteur d'épaule. Basculer le poids du corps sur le pied droit tout en pliant le genou gauche, soulever le pied gauche vers l'os iliaque gauche et maintenir le bord intérieur du pied gauche avec la main gauche. Ramener la cuisse gauche en arrière tout en amenant la poitrine vers l'avant en étreignant le genou gauche avec la ligne médiane du corps. Lever le bras droit vers le plafond et soulever la poitrine vers le haut de la cuisse gauche. Répéter en se tenant sur la jambe gauche.";
+
+"exerciseDescription67" = "S'allonger sur le dos avec les jambes tendues sur le sol. Ramener le genou gauche vers la poitrine et entrecroiser les doigts à l'extérieur de la jambe. Répéter avec la jambe gauche tendue et le genou droit plié.";
+
+"exerciseDescription68" = "Commencer à quatre pattes avec les poignets sous les épaules, les genoux sous les hanches et les orteils repliés. En inspirant, arquer le dos. En expirant, maintenir les os iliaques soulevés, plier les genoux et plonger la poitrine et le menton vers le sol. En guise de contre-posture, il est possible de s'allonger sur le dos et d'étreindre les genoux sur la poitrine pour libérer le bas du dos.";
+
+"exerciseDescription69" = "Commencer avec un plongeon avec le pied droit en avant et la pointe des doigts enserrant le pied droit sur le sol. S'assurer que le genou droit est plié à 90° et superposé à la cheville. Abaisser le genou gauche et le dessus du pied gauche sur le sol. Placer la paume droite à l'intérieur du pied droit. Puis, abaisser les deux coudes vers le sol afin qu'ils soient alignés avec la hanche droite, les avant-bras parallèles. Étreindre le genou droit vers l'épaule droite, étirer la colonne vertébrale et amener vers l'avant la poitrine et l'arrière de la tête. Répéter sur le côté gauche.";
+
+"exerciseDescription70" = "S'allonger sur le ventre avec les bras sur les côtés. Décoller les bras du sol, tourner les paumes pour se faire face et les mettre en contact avec les pouces. Décoller du sol la poitrine, la tête et les jambes. Pointer les orteils et atteindre les pieds.";
+
+"exerciseDescription71" = "Commencer avec un plongeon avec le pied droit en avant et la pointe des doigts enserrant le pied droit sur le sol. S'assurer que le genou droit est plié à 90° et superposé à la cheville. Abaisser le genou gauche et le dessus du pied gauche sur le sol. Positionner les mains sur la cuisse droite tout en soulevant la poitrine et en alignant les épaules au-dessus des hanches. \n\n En inspirant, étirer la colonne vertébrale et faire un mouvement de torsion vers la droite en plaçant la paume gauche à l'extérieur du genou droit et en plaçant la main droite vers l'arrière de la cuisse gauche. Pour compléter la torsion, regarder par-dessus l'épaule droite. \n\n Répéter sur le côté gauche.";
+
+"exerciseDescription72" = "Commencer avec un plongeon avec le pied droit en avant et le genou droit superposé sur la cheville droite. Abaisser le genou gauche vers le sol derrière soi et placer le dessus du pied gauche sur le sol. Mettre à niveau les hanches en faisant glisser la hanche droite en arrière et en ramenant la hanche gauche vers l'avant vers l'intérieur de la cuisse droite. Étirer les bras le long des oreilles et soulever le ventre en s'écartant du dessus de la cuisse droite, en courbant la poitrine vers le ciel. Regarder vers le haut entre les paumes.";
+
+"exerciseDescription73" = "Commencer à quatre pattes avec la position de la table. Placer le genou gauche derrière le poignet gauche et placer le bord extérieur du pied gauche derrière le poignet droit. Étirer la jambe droite derrière soi avec les orteils repliés et allonger la jambe droite aussi loin que possible avant de placer le genou droit et le dessus du pied sur le sol. Soulever les épaules au-dessus des hanches et placer le bord extérieur du pied gauche en avant de la hanche droite. Plier le genou droit et, en maintenant le pied droit avec la main droite, ramener le pied vers l'extérieur de la hanche droite. Faire glisser le pied dans le pli du coude droit. Allonger le bras gauche le long de l'oreille et plier le coude gauche afin que la pointe des doigts pointe vers le sol. Entrecroiser le bout des doigts droits et gauches tout en soulevant la poitrine.";
+
+"exerciseDescription74" = "S'allonger sur le dos avec les bras sur les côtés et les plantes des pieds avec une largeur de hanche comme écartement. Les bords extérieurs des pieds doivent être parallèles et la pointe des doigts doit frôler les talons. Plier les coudes et positionner les paumes sur le sol au-dessus des épaules. Décoller du sol le pelvis, la poitrine et la tête. Pivoter vers l'intérieur les cuisses avec un mouvement de rotation de l'extérieur vers l'intérieur. Soulever la poitrine entre les bras. \n\n Rapprocher les pieds et, en basculant le poids du corps sur le pied gauche, courber le genou droit vers l'avant de votre poitrine. Allonger la jambe droite en l'air. Ramener le pied droit vers le sol et répéter avec la jambe gauche en l'air.";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = "Commencer à quatre pattes dans la position de la table. Placer le genou gauche derrière le poignet gauche et placer le bord extérieur du pied gauche derrière le poignet droit. Étirer la jambe droite derrière soi avec les orteils repliés et pousser sur la jambe droite aussi loin que possible avant de placer le genou droit et le dessus du pied sur le sol. Soulever les épaules au-dessus des hanches, placer le bord extérieur du pied gauche à l'avant de la hanche droite et reposer les paumes sur les côtés tout en soulevant la colonne vertébrale. Répéter avec le genou droit plié à l'avant.";
+
+"exerciseDescription77" = "Se tenir debout avec les pieds joints. Reculer le pied gauche approximativement d'une longueur de jambe et avec un angle pour le pied de 30° vers la gauche. Inspirer tout en appuyant sur le talon gauche et étirer la colonne vertébrale. Puis, expirer tout en se repliant sur la jambe droite en enserrant le pied droit avec les mains. Répéter avec le pied gauche en avant.";
+
+"exerciseDescription78" = "Commencer à quatre pattes dans la position de la table. Placer le genou droit directement à l'avant de la hanche droite et placer le pied droit derrière le poignet gauche aussi près que possible du poignet tout en maintenant le poids centré entre les deux côtés. Étirer la jambe gauche derrière soi avec les orteils repliés et allonger cette jambe aussi loin que possible avant de placer le genou gauche et le dessus du pied gauche sur le sol. S'assurer que le gros orteil gauche pointe droit derrière et que le poids du corps reste centré (i.e. ne pas s'appuyer sur le côté droit) avant de se plier en avant sur le tibia droit. Répéter avec le genou gauche en avant.";
+
+"exerciseDescription79" = "S'asseoir avec les jambes allongées devant vous. Plier le genou droit et placer le bord extérieur du pied dans la pliure de la hanche gauche. Plier le genou gauche et croiser le tibia gauche par-dessus le tibia droit pour placer le pied gauche dans la pliure de la hanche droite (si cette forme ne vous est pas accessible, NE prenez PAS le risque de vous blesser au genou en tentant de forcer. Au lieu de cela, il suffit simplement de croiser la cheville gauche sur celle de droite). \n\n Positionner vos paumes sur le sol à l'extérieur des cuisses avec plusieurs centimètres d'écart. En expirant, ramener le nombril vers la colonne vertébrale, appuyer sur la pointe des doigts et décoller du sol le pelvis et les cuisses. Répéter avec le tibia droit ou la cheville droite au-dessus de la gauche.";
+
+"exerciseDescription80" = "S'allonger sur le dos avec les bras sur les côtés et les plantes des pieds positionnées avec une largeur de hanches comme écartement. Les bords extérieurs des pieds doivent être parallèles et la pointe des doigts doit frôler les talons. Décoller du sol le pelvis et ramener les bras l'un vers l'autre sous le corps en entrelaçant les doigts sur le sol. Appuyer sur le revers des bras pour soulever la poitrine. \n\n Joindre les pieds, amener le genou droit vers l'avant de la poitrine et étirer la jambe droite tendue en l'air. Ramener le pied droit vers le sol et répéter avec la jambe gauche levée.";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = "Se tenir debout avec les pieds espacés d'une largeur de hanche. Entrecroiser les doigts devant soi, tourner les paumes vers l'avant et étirer les bras le long des oreilles avec les paumes face au plafond. Répéter avec la position opposée des mains (i.e. avec l'autre index et l'autre pouce sur le dessus).";
+
+"exerciseDescription83" = "Commencer à quatre pattes dans la position de la table. En maintenant les épaules au-dessus des poignets, reculer les pieds afin d'être en position de poussée. Seules les mains et les plantes des pieds doivent être en contact avec le sol. Appuyer sur la pointe des doigts, soulever le ventre vers le bas du dos et diriger les talons vers le ciel. Appuyer l'arrière de la tête en avant pour étirer la nuque. Être attentif à ne pas faire pointe les hanches vers le haut. Au lieu de cela, soulever le pubis vers le nombril.";
+
+"exerciseDescription84" = "S'allonger sur le dos avec les jambes allongées, les talons sur le sol et les orteils fléchis vers le plafond. Ramener le genou gauche vers la poitrine et ramener le bras gauche à l'intérieur de la jambe gauche, en enroulant les trois premiers doigts de la main gauche autour du gros orteil gauche pour la position du \"verrouillage de l'orteil du yogi\". Maintenir la fesse droite au sol et appuyer la cuisse droite sur le sol tout en étirant la jambe gauche vers le côté gauche. Répéter en saisissant le gros orteil droit.";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = "Commencer à quatre pattes dans la position de la table. En maintenant les épaules au-dessus des poignets, décoller du sol la jambe droite et plier le genou droit comme pour poser le pied sur le plafond. Saisir le haut du pied droit avec la main gauche. Appuyer avec le pied dans la main comme pour soulever la poitrine. Répéter sur le second côté.";
+
+"exerciseDescription87" = "Prendre une posture avec les jambes écartées et les pieds parallèles. Faire pivoter le pied droit de 90° et plier le genou droit avec un angle de 90° afin que le dessus de la cuisse droite soit parallèle au sol. Maintenir le genou droit superposé à la cheville droite et la jambe gauche tendue, les orteils gauches légèrement tournés. Reposer légèrement la paume gauche sur la cuisse gauche et étirer le bras droit le long de l'oreille droite. Tout en se penchant sur le côté vers la jambe gauche, laisser la main gauche glisser le long de la jambe. Ramener la hanche droite sous soi tout en appuyant le genou droit doucement vers l'orteil. Répéter sur le côté gauche.";
+
+"exerciseDescription88" = "Se tenir en position pliée en avant et amener la poitrine vers l'avant tout en plaçant la pointe des doigts sur le sol sous les épaules. Basculer le poids du corps sur le pied gauche et, en maintenant les hanches à niveau, faire flotter la jambe droite tendue droit derrière soi. Poser au sol la paume droite tout en effectuant un mouvement de torsion de la poitrine vers la gauche et étirer le bras gauche vers le ciel. Regarder vers la main gauche.";
+
+"exerciseDescription89" = "S'asseoir avec les jambes allongées devant soi. Placer la plantaire du pied gauche contre l'intérieur de la cuisse droite. Fléchir le pied droit et, en inspirant, étirer les bras le long des oreilles. En expirant, se pencher sur la jambe droite, en se pliant au creux des hanches et non à la taille. Être attentif de ne pas arrondir le bas du dos. Répéter avec la jambe gauche tendue et le genou droit plié.";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = "S'asseoir avec les jambes allongées devant soi. Placer la plantaire du pied droit à l'intérieur de la cuisse gauche. Faire une torsion de la partie supérieure du corps vers la droite, placer le coude gauche sur le sol à l'intérieur du genou gauche et maintenir le bord intérieur du pied gauche avec la main gauche. Étirer le bras droit le long de l'oreille et maintenir le dessus du pied gauche avec la main droite. Ancrer la fesse droite au sol tout en faisant pivoter la poitrine vers le ciel. Répéter avec le genou gauche plié et la jambe droite tendue, en se penchant sur le côté au-dessus de la jambe droite.";
+
+"exerciseDescription93" = "Se tenir debout avec les pieds joints. Reculer le pied droit approximativement d'une longueur de jambe avec le pied faisant un angle de 30° vers le côté droit. Placer les mains sur l'extérieur des hanches et inspirer tout en étirant la colonne vertébrale et amener la poitrine à être parallèle au sol. Expirer tout en effectuant un mouvement de torsion vers la gauche, en positionnant la paume droite à l'extérieur du pied gauche et en dirigeant le bras gauche vers le plafond. Répéter avec la jambe droite en avant, avec un mouvement de torsion vers le côté droit.";
+
+"exerciseDescription94" = "À partir d'une position penchée vers l'avant, plier les genoux et poser la pointe des doigts sur le sol sur chaque côté des pieds. Faire un écart avec le pied gauche en maintenant le genou droit plié à 90° et centré sur la cheville droite. Amener la poitrine vers l'avant et lever le talon gauche vers le haut. Répéter avec le genou gauche en avant.";
+
+"exerciseDescription95" = "Se tenir debout avec les pieds écartés d'une largeur de hanches. Placer la main gauche sur la taille gauche, basculer le poids du corps sur le pied droit et lever le genou gauche vers votre poitrine. Entourer le gros orteil gauche avec les trois premiers doigts de la main droite et étirer la jambe gauche au-dessus de la droite tout en faisant pivoter la partie supérieure du corps vers la gauche.";
+
+"exerciseDescription96" = "S'allonger sur le dos avec les bras tendus de chaque côté en forme de \"T\". Étreindre les genoux en avant de la poitrine et, en maintenant les genoux joints, les draper sur la gauche et regarder à droite. Ramener les genoux en arrière pour les centrer et l'arrière de la tête au sol avant de libérer les genoux vers la droite et de regarder vers la gauche.";
+
+"exerciseDescription97" = "S'allonger sur le dos, amener les plantes des pieds l'une contre l'autre et laisser les genoux pliés sur chaque côté. Maintenir les coudes au-dessus de la tête.";
+
+"exerciseDescription98" = "S'allonger sur le dos avec les jambes tendues, les talons sur le sol et les orteils fléchis vers le plafond. Ramener le genou gauche vers la poitrine et le bras gauche à l'intérieur de la jambe gauche, en entourant le gros orteil gauche avec les trois premiers doigts de la main gauche. Maintenir la fesse droite au sol et appuyer sur la cuisse droite vers le sol tout en étirant la jambe gauche. Ramener la cuisse gauche vers le ventre. Répéter sur le côté droit.";
+
+"exerciseDescription99" = "S'asseoir avec les jambes tendues devant soi, les talons sur le sol et les orteils fléchis vers le ciel. En inspirant, lever les bras le long des oreilles et étirer la colonne vertébrale. En expirant, s'articuler vers la pliure des hanches et couvrir le ventre sur les cuisses. Maintenir les pieds et, si vous avez la latitude, plier les coudes de chaque côté pour se replier d'avantage vers l'avant.";
+
+"exerciseDescription100" = "Se tenir droit avec les pieds joints et les mains sur les hanches. Pointer les orteils droits tout en étirant la jambe droite en avant de soi et la soulever aussi haut que possible sans bouger les hanches. Ramener le pied droit au sol, basculer le poids du corps sur le pied droit et répéter avec la jambe gauche tendue en avant.";
+
+"exerciseDescription101" = "Commencer avec la planche – une position avec une forte poussée sur les bras, les épaules superposées aux poignets et les talons poussant vers le ciel. En basculant le poids du corps sur le côté droit, faire un mouvement de roulement vers le côté extérieur du pied droit. Superposer le pied gauche au-dessus du droit et l'épaule gauche au-dessus de la droite. Étirer le bras gauche vers le ciel. Fléchir les orteils vers la tête et appuyer fermement sur le bout des doigts de la main droite, surtout sur l'index et le pouce. \n\n Plier le genou gauche vers l'épaule gauche et entourer le gros orteil gauche avec les trois premiers doigts de la main gauche pour la position du \"verrouillage de l'orteil du yogi\". Étirer la jambe gauche vers le ciel et maintenir la hanche gauche superposée au-dessus de celle de droite. \n\n Répéter sur le côté gauche avec la jambe droite tendue.";
+
+"exerciseDescription102" = "S'asseoir dans une position confortable avec les jambes croisées et la jambe gauche sur le dessus. Étirer vos bras le long des oreilles et plier les deux coudes afin que la pointe des doigts pointe vers le dos. Maintenir le coude droit avec la main gauche et tirer doucement vers la gauche, en appuyant l'arrière de la tête contre le bras droit. Puis, étirer le bras gauche vers la gauche et tourner le pouce vers le bas avec une rotation vers l'intérieur du bras gauche. Plier le coude gauche derrière soi afin que la pointe des doigts pointe vers le dos et que les coudes pointent vers le bas. Si possible, joindre les mains en entrecroisant les doigts. \n\n Répéter avec la jambe droite sur le dessus et le bras gauche sur le dessus.";
+
+"exerciseDescription103" = "S'asseoir dans une position confortable avec les jambes croisées et la jambe gauche sur le dessus. Positionner l'avant-bras droit sur le côté droit avec la pointe des doigts pointant vers la droite. Maintenir votre fesse gauche ancrée sur le sol tout en étirant le bras gauche le long de l'oreille gauche. \n\n Répéter avec la jambe droite sur le dessus et le bras droit tendu le long de l'oreille.";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = "Se tenir debout avec les pieds écartés d'une largeur de hanches. Inspirer tout en étirant les bars le long des oreilles. Expirer tout en incurvant la poitrine vers le ciel et se pencher en arrière. Maintenir les bords intérieurs des pieds fermement en contact avec le sol et soulever les ischio-jambiers vers l'espace derrière soi. Avec chaque inspiration supplémentaire, étirer l'avant de la colonne vertébrale et avec chaque expiration supplémentaire, ramener les côtes vers le dos. Lorsque la poitrine s'incurve, faire peser le pelvis vers le sol.";
+
+"exerciseDescription106" = "Se tenir debout avec les pieds joints. Basculer le poids du corps sur le pied gauche tout en ramenant le genou droit vers la poitrine. Diriger le bras droit vers l'intérieur de la jambe droite et entourer le gros orteil avec les trois premiers doigts en position du \"verrouillage de l'orteil du yogi\". En maintenant les hanches à niveau, étirer la jambe droite d'environ 45° vers le côté droit. \n\n Répéter en se tenant sur la jambe droite avec la jambe gauche tendue.";
+
+"exerciseDescription107" = "S'allonger sur le ventre avec le front sur le sol et entrecroiser les doigts derrière soi. Pointer les orteils et décoller du sol la poitrine et la tête. Soulever les mains entrecroisées et les diriger derrière soi. Décoller le menton de la poitrine et fixer le regard vers le bout du nez. \n\n Répéter avec l'entrecroisement opposé des doigts (i.e. l'index et le pouce opposé sur le dessus).";
+
+"exerciseDescription108" = "S'asseoir en se tenant droit avec les jambes tendues devant soi, les talons sur le sol et les pieds fléchis. Placer les coudes sous les épaules et reposer les paumes face vers le bas sur les côtés. Inspirer tout en étirant la colonne vertébrale et expirer tout en ramenant le nombril vers la colonne.";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "Commencer à quatre pattes avec la position de la table avec les poignets au-dessus des épaules et les genoux au-dessus des hanches. Reculer le pied gauche et poser le talon gauche au sol afin que les orteils pointent vers la gauche. Pivoter le pied droit derrière soi afin que le dessus du pied soit au sol et que les orteils pointent vers la droite. Superposer l'épaule gauche au-dessus de celle de droite tout en étirant le bras gauche vers le ciel. Répéter avec la jambe droite tendue et le tibia gauche au sol.";
+
+"exerciseDescription111" = "Se tenir debout avec les pieds écartés d'au moins une largeur de jambe et les orteils légèrement tournés vers l'intérieur. En se penchant au niveau de le pliure des hanches, amener la poitrine vers l'avant pour faire face au sol et positionner les paumes sur le sol sous les épaules. En libérant l'arrière de la tête vers le sol, abaisser les coudes vers le sol et essayer de maintenir entre eux un écartement d'une largeur d'épaules.";
+
+"exerciseDescription112" = "Se tenir debout avec les pieds légèrement plus écartés que les hanches, les orteils tournés vers l'extérieur. Plier les genoux et abaisser le fessier vers le sol entre les talons. Joindre les paumes devant la poitrine dans la position du prieur et placer les coudes contre l'intérieur des cuisses. Appuyer les coudes contre l'intérieur des cuisses tout en poussant avec les cuisses sur les coudes. Étirer la colonne vertébrale afin que l'arrière de la tête se soulève et que le coccyx descende. Éventuellement, vous pourriez positionner parallèlement les bords extérieurs des pieds.";
+
+"exerciseDescription113" = "S'asseoir avec les jambes tendues de chaque côté et les orteils fléchis vers le ciel. Inspirer tout en étirant la colonne vertébrale et expirer tout en s'articulant sur la pliure des hanches et faire avancer les mains devant soi. Maintenir les centres des talons au sol et le pelvis pointant vers l'avant en se penchant.";
+
+"exerciseDescription114" = "Se tenir debout avec les pieds écartés d'au moins une largeur de jambe et les orteils légèrement tournés vers l'intérieur. Entrecroiser les doigts derrière soi. Se pencher en avant au niveau de la pliure des hanches, en libérant l'arrière de la tête vers le sol entre les pieds et en dirigeant les mains jointes vers le sol. \n\n Répéter avec l'entrecroisement opposé des doigts (i.e. l'index et le pouce opposé sur le dessus).";
+
+"exerciseDescription115" = "S'asseoir avec les jambes allongées vers l'extérieur et les orteils fléchis vers le ciel. Faire un mouvement de torsion de la partie supérieure du corps, placer le coude gauche sur le sol à l'intérieur de la jambe gauche et maintenir le bord intérieur du pied gauche avec la main gauche. Étirer le bras droit le long de l'oreille et maintenir le dessus du pied gauche avec la main droite. Ancrer la fesse droite et la jambe droite au sol tout en effectuant une rotation de la poitrine vers le ciel. Répéter en se penchant sur la jambe droite.";
+
+"exerciseDescription116" = "Se tenir debout avec les pieds légèrement plus écartés que les hanches et les orteils tournés vers l'extérieur. Plier les genoux et abaisser le fessier vers le sol entre les talons. Joindre les paumes devant la poitrine dans la position du prieur et placer les coudes contre l'intérieur des cuisses. \n\n Inspirer tout en étirant la colonne vertébrale et expirer tout en effectuant une torsion vers la gauche, en écartant les bras. Tourner les pouces vers le bas avec un mouvement de rotation vers l'intérieur des deux bras. Plier le coude gauche derrière le dos et plier le coude droit autour du tibia droit. Si possible, entrecroiser le bout des doigts près de l'extérieur de la hanche droite. \n\n Répéter avec une torsion vers la droite et en enroulant les bras autour de la jambe gauche.";
+
+"exerciseDescription117" = "Commencer à quatre pattes avec la position de la table. Joindre les gros orteils et séparer les genoux avec un écart plus large que les hanches. Faire avancer les paumes vers l'avant, en reposant le torse entre les jambes et en libérant le front sur le sol.";
+
+"exerciseDescription118" = "Se tenir debout avec les pieds écartés d'au moins une longueur de jambe et les orteils légèrement tournés vers l'intérieur. En se penchant au niveau de la pliure des hanches, diriger la poitrine pour faire face au sol et positionner les paumes sur le sol sous les épaules. En inspirant, étirer la colonne vertébrale afin que l'arrière de la tête se déplace vers les hanches. En expirant, faire un mouvement de torsion vers la gauche et étirer le bras gauche vers le ciel. \n\n Ramener la paume gauche vers le sol sous l'épaule gauche. Inspirer en étirant la colonne vertébrale et expirer en effectuant une torsion vers la droite, en libérant le bras droit vers le ciel.";
+
+"exerciseDescription119" = "Se tenir debout avec les pieds écartés d'au moins une longueur de jambe et les orteils légèrement tournés vers l'intérieur. En se penchant au niveau de la pliure des hanches, diriger la poitrine pour faire face au sol et positionner les paumes sur le sol sous les épaules. Faire avancer les mains vers la droite et les maintenir à l'extérieur de la cheville droite, en amenant le menton vers le tibia droit. Ramener les mains au centre, puis sur la gauche, en les maintenant à l'extérieur de la cheville gauche et en dirigeant le menton vers le tibia gauche.";
+
+"exerciseDescription120" = "S'allonger sur le dos. Étirer le bras gauche le long de l'oreille tout en roulant sur le côté gauche. Plier le coude gauche et reposer le côté de la tête sur la paume gauche. Plier le genou droit vers l'épaule droite et entourer le gros orteil droit avec les trois premiers doigts de la main droite. Étirer la jambe droite autant que possible, en maintenant au sol le côté gauche et en étreignant la fesse droite vers l'intérieur de la cuisse gauche. \n\n Répéter en s'allongeant sur le côté droit et en maintenant le gros orteil gauche.";
+
+"exerciseDescription121" = "S'asseoir avec les plantes des pieds jointes devant le pelvis et les genoux orientés vers l'extérieur. Entourer chaque gros orteil avec les trois premiers doigts de chaque main. Se penche en arrière afin que le poids du corps bascule sur les os iliaques. En maintenant la colonne vertébrale étirée et les genoux pliés, écarter les pieds et les décoller du sol afin de balancer sur les os iliaques. Étirer progressivement les jambes de chaque côté tout en soulevant la poitrine.";
+
+"exerciseDescription122" = "Prendre une pose avec les jambes écartées et les pieds parallèles. Tourner le pied droit vers l'extérieur de 90° et plier le genou droit à 90° afin que le dessus de la cuisse droite soit parallèle au sol. Maintenir le genou droit superposé au-dessus de la cheville droite et la jambe gauche tendue avec les orteils légèrement vers l'intérieur. Maintenir les épaules alignées au-dessus des hanches tout en étirant les bras dans des directions opposées et en regardant vers la paume droite. \n\n Répéter avec le genou gauche plié et la jambe droite tendue en regardant vers la paume gauche.";
+
+"exerciseDescription123" = "Se tenir debout avec les gros orteils joints et le bord extérieur des pieds parallèle. Rapprocher les index et entrelacer tous les autres doigts devant la poitrine. En inspirant, maintenir les mains jointes et lever les bras au-dessus de la tête. En expirant, se pencher sur la gauche. Ancrer le talon droit et faire glisser les côtes inférieures gauches vers les côtes supérieures droites. \n\n En inspirant, revenir au centre avec les mains jointes au-dessus de la tête. En expirant, se pencher vers la droite.";
+
+"exerciseDescription124" = "Commencer en se penchant vers l'avant avec les gros orteils joints, le bord extérieur des pieds parallèle et les paumes positionnées sur le sol sous les épaules. Basculer la majorité du poids du corps sur le pied droit tout en reculant le pied gauche, en posant légèrement le gros orteil gauche sur le sol. Placer la paume droite contre le mollet droit et laisser flotter la jambe gauche vers le ciel. Maintenir la hanche gauche à niveau avec la hanche droite, en levant la hanche droite autant que possible tout en l'étreignant vers le centre. Appuyer la paume droite vers l'avant contre le mollet droit pour relever le menton vers le tibia. \n\n Répéter en se tenant sur la jambe gauche avec la jambe droite tendue.";
+
+"exerciseDescription125" = "Commencer en se penchant vers l'avant avec les gros orteils joints, le bord extérieur des pieds parallèle. Inspirer pour étirer la colonne vertébrale en poussant la poitrine vers l'avant tout en essayant de toucher le plafond avec les doigts. Expirer en se penchant vers l'avant et en dirigeant les bras vers l'extérieur des jambes pour tenir les mollets. Appuyer les paumes contre les mollets pour amener le front vers les tibias. Appuyer avec les talons sur le sol et soulever les os iliaques tout en pivotant l'intérieur des cuisses vers l'arrière des jambes. Être attentif à ne pas arrondir le dos. Sinon, s'articuler au niveau de la pliure des hanches et placer le ventre sur le dessus des cuisses.";
+
+"exerciseDescription126" = "Se tenir debout avec les pieds joints. Basculer le poids du corps sur le pied gauche tout en ramenant le genou droit vers la poitrine. Diriger le bras droit vers l'intérieur de la jambe droite et entourer le gros orteil avec les trois premiers doigts pour la position du \"verrouillage de l'orteil du yogi\". Se tenir bien droit en appuyant avec le talon gauche sur le sol et en levant l'arrière la tête vers le plafond. Étirer la jambe droite devant soi en étant attentif à positionner le bras droit dans le dos de façon à ce que les épaules restent superposées au-dessus des hanches.";
+
+"exerciseDescription127" = "Se tenir debout avec les gros orteils joints et le bord extérieur des pieds parallèle. Entrecroiser les doigts derrière le dos. Inspirer pour étirer la colonne vertébrale et expirer pour basculer vers l'avant au niveau de la pliure des hanches en libérant l'arrière de la tête vers le sol et en dirigeant les mains jointes vers le sol.";
+
+"exerciseDescription128" = "Prendre une pose avec les jambes écartées et les pieds parallèles. Tourner le pied droit de 90°. Lever le talon gauche et, en pivotant sur le plante du pied gauche, faire tourner le talon vers la gauche avant de le positionner sur le sol. La poitrine et la hanche gauche doivent désormais faire face à la même direction que le pied droit. Amener les mains vers l'extérieur des hanches et envelopper la hanche gauche tout en dirigeant la hanche droite en arrière. Plier le genou droit afin qu'il se superpose au-dessus de la cheville. Étirer les bras le long des oreilles et soulever la poitrine. Appuyer sur le talon gauche tout en maintenant le talon droit centré sur la cheville. \n\n Répéter avec le pied gauche en avant.";
+
+"exerciseDescription129" = "Se tenir debout avec les pieds joints et lever les bras le long des oreilles. En maintenant la jambe droite tendue et la poitrine soulevée, reculer le pied gauche afin que la plante du pied repose légèrement sur le sol. Basculer lentement le poids du corps sur le pied droit, se pencher vers l'avant au niveau de la pliure des hanches et diriger la poitrine vers l'avant tout en faisant flotter la jambe gauche derrière soi. Étreindre l'extérieur des hanches et soulever le ventre / les côtes vers le dos. \n\n Répéter en basculant sur la jambe gauche avec la jambe droite tendue derrière soi.";
+
+"exerciseDescription130" = "Se tenir debout avec les gros orteils joints et le bord extérieur des pieds parallèles. En inspirant, lever le bras droit le long de l'oreille. En expirant, se pencher sur le côté gauche en laissant glisser la main gauche à l'extérieur de la jambe gauche. Appuyer sur le talon droit et soulever la hanche gauche. \n\n Répéter en se penchant sur le côté droit.";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = "S'asseoir avec les jambes tendues devant soi, les paumes positionnées derrière soi et le pointe des doigts se faisant face. Pointer les orteils, appuyer sur le bout des doigts et décoller du sol les hanches. Rapprocher les omoplates et les laisser descendre tout en soulevant la poitrine. Faire tourner les cuisses avec un mouvement de rotation intérieure et diriger les gros orteils vers le sol. Si la colonne vertébrale est en bonne santé, diriger doucement la tête en arrière afin que la base du crâne prenne appui sur le dessus des omoplates.";
+
+"exerciseDescription133" = "Se tenir debout avec les pieds joints. Basculer le poids du corps sur le pied droit et ramener le genou gauche vers la poitrine. Tenir la voûte plantaire du pied gauche avec les deux mains. Étirer la jambe gauche tout en se penchant par-dessus, en ramenant le front vers le tibia. \n\n Répéter en se tenant sur la jambe gauche et en maintenant le pied droit.";
+
+"exerciseDescription134" = "Commencer en se tenant penché vers l'avant. En pliant les deux genoux, positionner la main droite sur le sol sous la poitrine et placer la main gauche sur la hanche gauche. Inspirer tout en étirant la colonne vertébrale. Expirer tout en faisant un mouvement de torsion vers la gauche et en étirant la jambe gauche seule et en libérant le bras gauche vers le ciel. Maintenir les côtés de la nuque en ligne tout en regardant vers la main gauche. \n\n Revenir vers la position penchée vers l'avant. En pliant les deux genoux, positionner la main gauche sur le sol sous la poitrine et placer la main droite sur la hanche droite. Inspirer tout en étirant la colonne vertébrale. Expirer tout en faisant un mouvement de torsion vers la droite et en étirant la jambe droite seule et en libérant le bras droit vers le ciel. Maintenir les côtés de la nuque en ligne tout en regardant vers la main droite.";
+
+"exerciseDescription135" = "Se tenir debout avec les gros orteils joints et le bord extérieur parallèle. Placer les paumes sur les fesses avec le bout des doigts pointant vers les talons. En inspirant, étirer la colonne vertébrale. En expirant, utiliser les mains pour appuyer sur les fesses vers le bas en direction des talons et courber la poitrine vers le plafond. Rapprocher les omoplates et baisser le dos en rapprochant les épaules.";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = "S'allonger sur le dos avec les genoux pliés, les pieds positionnés avec une largeur de hanches comme écartement et le bord extérieur des pieds parallèle. Étirer les bras sur les côtés et positionner les pieds de façon à ce que la pointe des doigts frôle les talons. Lever les bras vers le plafond et fléchir les poignets. Plier les coudes et positionner les paumes sur le dessus des épaules avec le bout des doigts pointant vers les épaules. Appuyer sur le bord intérieur des mains et l'intérieur des talons tout en décollant du sol le pelvis, la poitrine et la tête. Faire un mouvement de rotation des cuisses de l'extérieur vers l'intérieur et appuyer la poitrine sur les bras. Être attentif à ne pas laisser glisser les pieds avec un écartement plus large que celui des hanches. \n\n Pour libérer, ramener le menton vers la poitrine et les fesses vers les talons tout en s'abaissant vers le sol.";
+

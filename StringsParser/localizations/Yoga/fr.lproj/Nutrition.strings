@@ -1,0 +1,179 @@
+//Plan names
+
+"%ld days plan" = "Plan de %ld jours";
+
+//Other
+
+"Meal %ld" = "Repas %ld";
+"Day %ld" = "Jour %ld";
+
+"Ingredients" = "Ingrédients";
+"Steps" = "Étapes";
+
+//Days
+//Day 1
+"Healthy recipes that are awesome to prepare and try out" = "Des recettes saines qui sont géniales à préparer et à déguster";
+"To keep your metabolism running strong, you must eat your first meal within 1 hour of rising." = "Pour garder votre métabolisme en pleine forme, vous devez prendre votre premier repas au plus tard 1 heure après le lever.";
+//Day 2
+"Good nutrition is the foundation of good health" = "Une bonne nutrition est la base d'une bonne santé";
+"The solution is to eat within 1 hour of waking up so that you move your metabolism." = "La solution est de prendre un repas au plus tard 1 heure après le lever afin de stimuler votre métabolisme.";
+//Day 3
+"Plan ahead to eat breakfast" = "Planifier à l'avance le petit-déjeuner";
+"To the highest fat burning speed breakfast is so important to your weight-loss success." = "Pour brûler le plus vite possible les graisses, le petit-déjeuner est très important pour la réussite de votre perte de poids.";
+//Day 4
+"Carbs supply the body with energy" = "Les carbohydrates apportent de l'énergie au corps";
+"Studies show that 5 meals a day are important in maintaining a healthy body weight." = "Les études montrent que 5 repas par jour sont importants pour conserver une masse corporelle saine.";
+//Day 5
+"Protein is essential for growth and development" = "Les protéines sont essentielles pour la croissance et le développement";
+"Nutrition plays a key role in maintaining a healthy lifestyle." = "La nutrition joue un rôle clé pour garder un mode de vie sain.";
+//Day 6
+"You are what you eat" = "Vous êtes ce que vous mangez";
+"Is literally true, if you want your body to perform at a peak level." = "C'est absolument vrai si vous voulez que votre corps reste au top de sa forme.";
+//Day 7
+"Controlling portion size use smaller plates" = "Contrôler la taille des portions avec de plus petites assiettes";
+"Eliminate emotional eating by healing your hungry heart." = "Supprimer la prise d'aliments sous le coup de l'émotion en surmontant vos envies insatiables.";
+
+//Content: Title, Ingridients, Instructions
+
+"Strawberries and Creme Oatmeal_Title" = "Fraises et crème d'avoine";
+"Strawberries and Creme Oatmeal_Ingredients" = "◆\t1/2 tasse d'avoine de flocon d'avoine \n\n◆\t1/3 tasse de lait écrémé \n\n◆\t1/3 tasse de yaourt grec à la vanille \n\n◆\t1/2 tasse de fraises coupées en morceaux \n\n◆\t2 cuillères à soupe de yaourt grec allégé à la vanille \n\n◆\t1 cuillère à soupe d'amandes grillées";
+"Strawberries and Creme Oatmeal_Instructions" = "Au cours de la soirée, mélanger les flocons d’avoine, le lait et 1/3 tasse de yaourt dans un récipient ou un grand bol jusqu’à obtenir un mélange homogène. Couvrir et réserver au réfrigérateur pendant toute la nuit. Faites-vous plaisir!";
+
+"Golden Glow Elixir_Title" = "Elixir doré";
+"Golden Glow Elixir_Ingredients" = "◆\t2 pommes \n\n◆\t4 oranges moyennes, pelées \n\n◆\t1 citron, pelé \n\n◆\t5-7cm de racine de gingembre frais, pelé \n\n◆\t5cm de curcuma frais, pelé \n\n◆\t2 tasses d'eau froide \n\n◆\t1 poignée de glaçons";
+"Golden Glow Elixir_Instructions" = "Dans un blender à haute vitesse, mixer tous les ingrédients jusqu’à obtention d’un smoothie en ajoutant de l’eau si nécessaire. Un bon blender à haute vitesse vous donnera un excellent smoothie. Si vous voulez une boisson plus fluide, vous pouvez extraire les ingrédients sans la fibre et tous les nutriments si vous le souhaitez. Faites-vous plaisir !";
+
+"Tso’s Chicken Stir Fry_Title" = "Poulet frit façon Tso";
+"Tso’s Chicken Stir Fry_Ingredients" = "◆\t4 escalopes de poulet, coupées en cube \n\n◆\t1 tasse de farine \n\n◆\thuile végétale \n\n◆\tsel \n\n◆\tpoivre noir fraîchement moulu \n\n◆\t2 gousses d'ail émincées \n\n◆\t1/2 boîte de bouillon de volaille \n\n◆\t3 cuillères à soupe de miel \n\n◆\t4 cuillères à soupe de sauce de soja \n\n◆\t2 cuillères à soupe de jus de citron vert \n\n◆\t2 boîtes de fleurons de brocoli \n\n◆\t2 boîtes de riz blanc cuit, pour la garniture";
+"Tso’s Chicken Stir Fry_Instructions" = "Dans un grand bol, saupoudrer légèrement le poulet avec de la fécule de maïs. Transférer les morceaux dans un grand bol contenant la farine afin de les recouvrir sur chaque face. Remplir à moitié une grande sauteuse avec de l’huile végétale et la chauffer à feu moyen-fort. Frire le poulet, puis l’égoutter et le réserver. Ajouter 2 cuillères à soupe de fécule de maïs et agiter pour l’incorporer. Dans la sauce, ajouter les brocolis et les carottes. Faire cuire pour une consistance tendre pendant 5 minutes. Faites-vous plaisir !";
+
+"Herbal Tea_Title" = "Tisane aux plantes";
+"Herbal Tea_Ingredients" = "◆\t1 tasse d'eau \n\n◆\t1 cuillère à café de gingembre frais râpé \n\n◆\t1 cuillère à café de zeste de citron vert râpé \n\n◆\t1 cuillère à café de jus de citron vert \n\n◆\t3 feuilles de menthe fraîche";
+"Herbal Tea_Instructions" = "Porter l’eau à ébullition dans une casserole et mélanger le reste des ingrédients. Faire bouillir et agiter jusqu’à ce que la tisane soit infusée. Faites-vous plaisir !";
+
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Title" = "Cuisses de poulet grillées au citron façon Dijon avec salade Arugula";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Ingredients" = "◆\t4 cuisses de poulet désossées et sans peau \n\n◆\t1/2 cuillère à café de sel \n\n◆\t1/4 cuillère à café de poivre noir moulu \n\n◆\t2,5 cuillères à soupe d'huile d'olive \n\n◆\t2 cuillères à café de jus de citron \n\n◆\t1 cuillère à café d'ail émincé \n\n◆\tun peu d'huile pour la cuisson \n\n◆\t1 cuillère à soupe de vinaigre balsamique \n\n◆\t1 cuillère à café de miel \n\n◆\t1 tasse de tomates raisin, coupées en deux \n\n◆\t1 boîte (150g) de jeunes pousses d'Arugula";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Instructions" = "Saupoudrer le poulet avec 1/4 cuillère à café de sel et 1/8 cuillère à café de poivre. Mélanger le poulet avec 1-1,5 cuillère à café d’huile, de jus de citron, de moutarde et d’ail dans un bol. Bien mélanger pour recouvrir le poulet. Laisser reposer 4 minutes. Faire chauffer une plaque de grill à feu moyen. Badigeonner la plaque avec un peu d’huile. Ajouter le poulet sur la plaque et le faire cuire pendant 5 minutes sur chaque face ou jusqu’à ce qu’il soit à point. Couper le poulet en tranches fines. Faites-vous plaisir !";
+
+"Cottage Berry Crunch_Title" = "Crunch Cottage aux fruits rouges";
+"Cottage Berry Crunch_Ingredients" = "◆\t1/2 tasse de fromage frais allégé à 2% \n\n◆\t2 cuillère à soupe de granola \n\n◆\t1/2 tasse de bananes coupées en tranche \n\n◆\t1/2 tasse de mélange de fruits rouges assortis";
+"Cottage Berry Crunch_Instructions" = "Verser à la cuillère le fromage frais dans un petit bol. Couvrir avec les autres ingrédients. Faites-vous plaisir!";
+
+"Pineapple Kiwi_Title" = "Kiwi et ananas";
+"Pineapple Kiwi_Ingredients" = "◆\t4 cuillères à soupe d'eau \n\n◆\t1/2 tasse de lait \n\n◆\t1/2 tasse de yaourt \n\n◆\t1,5 cuillère à soupe de miel \n\n◆\t1 kiwi, pelé \n\n◆\t1 tasse d'ananas en morceaux \n\n◆\t1/2 mangue \n\n◆\t2 glaçons";
+"Pineapple Kiwi_Instructions" = "Mixer tous les ingrédients à basse vitesse jusqu'à obtention d'un smoothie épais. Faites-vous plaisir !";
+
+"Lemon Chicken Skillet_Title" = "Poulet au citron à la sauteuse";
+"Lemon Chicken Skillet_Ingredients" = "◆\t4 escalopes de poulet \n\n◆\t1/4 tasse de beurre \n\n◆\t2 cuillères à soupe d'huile d'olive \n\n◆\t1 citron \n\n◆\t1 citron coupé en tranche \n\n◆\t1/4 tasse de vin blanc \n\n◆\t1 cuillère à café de sel \n\n◆\t1 cuillère à café de poivre noir \n\n◆\t1/2 cuillère à café de paprika \n\n◆\t1/2 cuillère à café de persil séché";
+"Lemon Chicken Skillet_Instructions" = "Réunir la farine, le sel, le poivre, le paprika et le persil dans un saladier. Faire chauffer l’huile et le beurre à feu moyen-fort. Recouvrir chaque escalope de poulet dans le mélange de farine et les ajouter dans la sauteuse chaude. Ajouter le jus de citron, le vin blanc, le zeste de citron et le romarin dans la sauteuse. Faire cuire le poulet sur chaque face à point. Faites-vous plaisir !";
+
+"Zucchini Quinoa Cookies_Title" = "Cookies courgettes et quinoa";
+"Zucchini Quinoa Cookies_Ingredients" = "◆\t1/2 tasse de beurre d'arachide crémeux \n\n◆\t1/4 tasse de miel \n\n◆\t1 banane \n\n◆\t1 œuf \n\n◆\t1 cuillère à café d'extrait de vanille \n\n◆\t1/2 tasse de flocons d'avoine \n\n◆\t1/2 tasse de flocons de quinoa \n\n◆\t1 cuillère à café de cannelle \n\n◆\t1/4 cuillère à café de sel \n\n◆\t1 tasse de courgette écrasée et égouttée";
+"Zucchini Quinoa Cookies_Instructions" = "Préchauffer le four à 175°C. Ajouter le beurre d’arachide, le miel, la banane, l’œuf et la vanille dans un grand bol et mélanger. Ajouter les flocons d’avoine, de quinoa, la poudre à lever, les épices et le sel dans le bol et mélanger. Incorporer les courgettes écrasée et les graines de chia. Faire des cookies avec une cuillère sur un plat à pâtisserie. Faire cuire les cookies pendant 15 à 18 minutes jusqu’à ce que les bords soient brun doré. Faites-vous plaisir !";
+
+"Savory Shrimp with Fresh Herbs_Title" = "Crevette savoureuse avec garniture fraîche";
+"Savory Shrimp with Fresh Herbs_Ingredients" = "◆\t1 livre de grosses crevettes \n\n◆\t2 piments rouges \n\n◆\t1 poireau, finement émincé \n\n◆\t0,5-1 cuillère à soupe de câpres, rincées et égouttées \n\n◆\t2 gousses d'ail, finement émincées \n\n◆\t1/2 tasse de persil grossièrement haché \n\n◆\t3 cuillères à soupe de jus de citron \n\n◆\t2 cuillères d'huile d'olive";
+"Savory Shrimp with Fresh Herbs_Instructions" = "Faire chauffer une sauteuse à feu moyen et ajouter de l’huile. Ajouter les crevettes, les piments, le poireau, les câpres, l’ail, le sel et le poivre et faire cuire pendant 4 minutes jusqu’à ce que les crevettes soient roses. Retirer du feu. Ajouter le jus de citron en raclant le fonde la sauteuse avec une cuillère. Servir les crevettes saupoudrées de persil et de basilic frais. Faites-vous plaisir !";
+
+"Flaxseed Oatmeal with Blueberries_Title" = "Flocons d'avoine, graines de lin avec myrtilles";
+"Flaxseed Oatmeal with Blueberries_Ingredients" = "◆\t3 tasses d'eau \n\n◆\t2 tasses de flocons d'avoine \n\n◆\t3 cuillères à soupe de graines de lin moulues \n\n◆\t1/8 cuillère à café de sel \n\n◆\t1/4 tasse de lait entier \n\n◆\t1 tasse de myrtilles \n\n◆\t1 cuillère à soupe de myrtilles en conserve \n\n◆\t1/2 cuillère à soupe de zeste de citron \n\n◆\t1 cuillère à soupe de jus de citron";
+"Flaxseed Oatmeal with Blueberries_Instructions" = "Porter à ébullition 3 tasses d’eau. Mélanger les flocons d’avoine, ajouter les graines de lin et le sel. Baisser le feu à moyen-doux et faire cuire jusqu’à obtention d’une consistance tendre en mélangeant fréquemment. Incorporer le lait et le beurre. Pendant ce temps, combiner les myrtilles et les 4 ingrédients suivants dans un bol à micro-onde. Faire chauffer au four à micro-onde pendant 1,5 minute en mélangeant toutes les 30 secondes. Répartir les flocons d’avoine dans 4 bols. Couvrir avec les myrtilles et les noix de pécan. Faites-vous plaisir !";
+
+"Coconut Milk Smoothie With Blueberries_Title" = "Smoothie au lait de noix de coco avec myrtilles";
+"Coconut Milk Smoothie With Blueberries_Ingredients" = "◆\t280g de myrtilles surgelées \n\n◆\t3 bananes mûres \n\n◆\t1 tasse de yaourt nature \n\n◆\t1 tasse de lait de noix de coco non sucré \n\n◆\t2 cuillères à soupe de miel";
+"Coconut Milk Smoothie With Blueberries_Instructions" = "Dans un blender, mixer les myrtilles, les bananes, le yaourt, le lait de noix de coco et le miel. Faites-vous plaisir !";
+
+"Chicken and Asparagus Stir-Fry_Title" = "Friture de poulet de d'asperge";
+"Chicken and Asparagus Stir-Fry_Ingredients" = "◆\t1 cuillère à soupe de sauce soja \n\n◆\t1 cuillère à soupe de miel \n\n◆\t2 escalopes de poulet, coupées en morceaux \n\n◆\t1 cuillère à soupe d'huile d'olive \n\n◆\t1 poignée d'asperges, coupées en morceaux \n\n◆\t4 gousses d'ail, finement émincées \n\n◆\t2 cuillères à café d'huile de sésame toastée";
+"Chicken and Asparagus Stir-Fry_Instructions" = "Dans un sachet zippé, mélanger la sauce soja et le miel. Ajouter le poulet et mélanger pour le recouvrir. Réserver au réfrigérateur. Puis, faire chauffer l’huile dans une grande sauteuse à feu moyen. Retirer les asperges et réserver. Retirer le poulet de la marinade et l’ajouter dans la sauteuse. Puis, ajouter l’ail, les oignons verts et la marinade réservée dans une casserole. Retirer du feu et mélanger avec l’huile de sésame. Faites-vous plaisir !";
+
+"Lavender Mint Tea_Title" = "Tisane à la menthe et à la lavande";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 tasse de pétales frais de lavande \n\n◆\t1 tasse de feuilles fraîches de menthe \n\n◆\t4 tasses d'eau";
+"Lavender Mint Tea_Instructions" = "Placer les pétales de lavande et les feuilles de menthe dans une casserole, verser l’eau et porter à ébullition. Réduire le feu et laisser mijoter la tisane jusqu’à ce qu’elle soit à votre goût, 15 à 20 minutes. Faites-vous plaisir !";
+
+"Chili Fajitas_Title" = "Fajitas au chili";
+"Chili Fajitas_Ingredients" = "◆\t1 livre d'escalopes de poulet sans peau \n\n◆\t1/2 poivron rouge, vert et jaune, finement émincés \n\n◆\t1/3 tasse d'eau \n\n◆\t2 cuillères à soupe de sauce soja \n\n◆\t1 pincée de sel \n\n◆\t1 pincée de poivre noir \n\n◆\t2 cuillères à soupe d'huile d'olive \n\n◆\t1 gros oignon, finement émincé";
+"Chili Fajitas_Instructions" = "Mélanger tous les ingrédients de la marinade avec le poulet dans un récipient et réfrigérer pendant au moins 2 heures. Retirer la viande de la marinade et la faire griller à feu moyen pendant 4-5 minutes sur chaque face. Couper la viande en fins bâtonnets. Pour la sauce, mélanger 2 cuillères à soupe d’eau, 1 cuillère à café de sauce soja, 1/4 de cuillère à café de jus de citron vert, la pincée de sel et de poivre noir et 1 cuillère à soupe d’huile d’olive. Faites-vous plaisir !";
+
+"Healthy Fruity Oatmeal_Title" = "Flocons d'avoine généreux aux fruits";
+"Healthy Fruity Oatmeal_Ingredients" = "◆\t1/2 tasse de flocons d'avoine \n\n◆\t1 tasse d'eau \n\n◆\t1 cuillère à soupe de miel \n\n◆\t1 cuillère à soupe d'extrait de vanille \n\n◆\t1/2 cuillère à café de cannelle moulue \n\n◆\t1/4 tasse de myrtilles \n\n◆\t4 fraises coupées en morceaux \n\n◆\t1/2 banane coupées en tranche";
+"Healthy Fruity Oatmeal_Instructions" = "Combiner l’eau et les flocons d’avoine dans un bol à micro-onde. Faire chauffer au four à micro-onde à puissance élevée jusqu’à ce que les flocons d’avoine aient absorbé toute l’eau. Incorporer le miel, l’extrait de vanille et la cannelle moulue. Ajouter les myrtilles et couvrir avec la banane et les fraises en morceaux. Faire-vous plaisir !";
+
+"Coffee Smoothie_Title" = "Smoothie café";
+"Coffee Smoothie_Ingredients" = "◆\t1 cuillère à café de café expresso instantané en poudre \n\n◆\t1 cuillère à soupe d'eau chaude \n\n◆\t1 petite banane, pelée, coupée en morceaux et congelée \n\n◆\t1/4 tasse de lait écrémé \n\n◆\t1 cuillère à soupe de miel \n\n◆\t1/2 tasse de glaçon \n\n◆\tcannelle moulue";
+"Coffee Smoothie_Instructions" = "Dans un blender, mélanger le café en poudre et l’eau chaude. Laisser reposer pendant une minute. Ajouter la banane, le lait et le miel. Mixer jusqu’à obtention d’un smoothie. Ajouter progressivement la glace jusqu’à obtention de la consistance souhaitée. Saupoudrer avec une pointe de cannelle. Faites-vous plaisir !";
+
+"Chicken & Pineapple Stir-Fry_Title" = "Friture de poulet et ananas";
+"Chicken & Pineapple Stir-Fry_Ingredients" = "◆\t110g d'escalopes de poulet \n\n◆\t40g d'ananas \n\n◆\t120g de riz brun \n\n◆\t1/3 cuillère à soupe d'huile d'olive \n\n◆\t1/2 cuillère à café de moutarde \n\n◆\t1/6 cuillère à soupe de paprika \n\n◆\tsel de mer \n\n◆\tpoivre";
+"Chicken & Pineapple Stir-Fry_Instructions" = "Découper les escalopes de poulet crues en petits morceaux. Assaisonner les morceaux de poulet avec le paprika et la moutarde. Ajouter l’huile d’olive dans une sauteuse, puis faire revenir les morceaux d’escalope. Faire cuire pendant environ 4 minutes pour avoir 80% d’une cuisson à point. Puis, ajouter le poivron coupé en morceaux. Faire cuire pendant 2-3 minutes de plus avant d’ajouter l’ananas coupé en dés. Faites-vous plaisir !";
+
+"Raw Chocolate Truffles_Title" = "Truffes au chocolat";
+"Raw Chocolate Truffles_Ingredients" = "◆\t1/2 tasse de noix, de noix de cajou et d'amandes laissées trempées dans l'eau toute la nuit \n\n◆\t3-4 cuillères à soupe de lait d'amande \n\n◆\t1/4 tasse de graines de tournesol \n\n◆\t1/4 tasse de graines de courge \n\n◆\t2 cuillères à soupe de farine de caroube \n\n◆\t3 cuillères à soupe de flocons de noix de coco";
+"Raw Chocolate Truffles_Instructions" = "Tout ajouter dans un blender sauf les flocons de noix de coco et mélanger. Faire des petites boules avec le mélange en utilisant une cuillère à crème glacée. Rouler chaque boule dans les flocons de noix de coco. Servir frais. Faites-vous plaisir !";
+
+"Baked Salmon with Veggies_Title" = "Saumon cuit avec légumes";
+"Baked Salmon with Veggies_Ingredients" = "◆\t2 filets de saumon \n\n◆\t1 tasse de courgette émincée \n\n◆\t1 tasse de brocoli \n\n◆\t1/2 tasse de tomates cerise \n\n◆\tsel \n\n◆\tpoivre \n\n◆\thuile d'olive";
+"Baked Salmon with Veggies_Instructions" = "Préchauffer le four à 190°C. Mélanger les légumes dans une grande casserole. Assaisonner les légumes avec le sel, le poivre et l’huile d’olive. Placer les filets à côté des légumes et faire cuire pendant 18 à 20 minutes ou jusqu’à ce que le saumon soit cuit et les légumes tendres. Faites-vous plaisir !";
+
+"Banana Nut Oatmeal_Title" = "Flocons d'avoine, noix et banane";
+"Banana Nut Oatmeal_Ingredients" = "◆\t1/2 tasse de flocons d'avoine \n\n◆\t1 tasse d'eau \n\n◆\t1 banane découpée en tranche \n\n◆\t1 cuillère à soupe de noix hachées \n\n◆\t1 cuillère à soupe de cannelle moulue";
+"Banana Nut Oatmeal_Instructions" = "Combiner les noix et 1 tasse d’eau dans un petit bol à micro-onde. Faire chauffer au four à micro-onde à puissance élevée pendant 3 minutes. Couvrir avec la banane découpée en tranche, les noix et la cannelle. Faites-vous plaisir !";
+
+"Pink Power_Title" = "Puissance rose";
+"Pink Power_Ingredients" = "◆\t1,5 tasse de petits fleurons de chou-fleur frais \n\n◆\t2 tasses de cubes de pastèque (sans pépin ni peau) \n\n◆\t1,5 tasse de fraises entières \n\n◆\t1 pot de yaourt grec à la framboise \n\n◆\t2 cuillères à soupe de fraise en conserve (en option)";
+"Pink Power_Instructions" = "Dans une petite casserole, faire cuire le chou-fleur, en le couvrant d’eau bouillante, jusqu’à ce qu’il soit tendre. Dans un blender, mélanger le chou-fleur cuit, la pastèque, les fraises, le yaourt et, si souhaité, les fraises en conserve. Faites-vous plaisir !";
+
+"BBQ Chicken-Wrapped Asparagus_Title" = "Poulet farcie aux asperges façon barbecue";
+"BBQ Chicken-Wrapped Asparagus_Ingredients" = "◆\t2 escalopes de poulet fines, 85g chacune \n\n◆\t12 pointes d'asperge \n\n◆\t2 cuillères à soupe de sauce barbecue \n\n◆\t1 pincée de paprika \n\n◆\t1 pincée d'ail en poudre \n\n◆\t1 pincée de poivre";
+"BBQ Chicken-Wrapped Asparagus_Instructions" = "Préchauffer le four à 200°C. Aplatir le poulet avec un maillet. Assaisonner les escalopes de poulet avec 1 cuillère à soupe de sauce barbecue (pour chaque pièce) et l’assaisonnement de votre choix. Placer le poulet sur un grill avec la face ouverte vers le bas. Faire cuire au four ou sur un grill pendant environ 8 à 10 minutes. Faites-vous plaisir !";
+
+"Ginger Turmeric Herbal Tea_Title" = "Tisane au gingembre et au curcuma";
+"Ginger Turmeric Herbal Tea_Ingredients" = "◆\t2 tasses d'eau \n\n◆\t1/2 cuillère à café de gingembre frais haché \n\n◆\t1/2 cuillère à café de cannelle moulue \n\n◆\t1 cuillère à café de miel \n\n◆\t1 quartier de citron";
+"Ginger Turmeric Herbal Tea_Instructions" = "Porter l’eau à ébullition dans une petite casserole. Ajouter le curcuma, le gingembre et la cannelle. Réduire le feu et laisser mijoter pendant 10 minutes. Verser la tisane dans un grand verre, ajouter le miel et le citron. Faites-vous plaisir !";
+
+"Grilled Shrimp & Avocado Kabobs_Title" = "Kébabs de crevettes grillées et avocat";
+"Grilled Shrimp & Avocado Kabobs_Ingredients" = "◆\t450g de grandes crevettes \n\n◆\t1,5 avocat \n\n◆\t1 poivron rouge \n\n◆\t1 poivron orange \n\n◆\t1 poivron jaune \n\n◆\t1 oignon rouge \n\n◆\t1 cuillère à soupe de purée d'ail \n\n◆\t1/2 cuillère à soupe d'huile d'olive vierge extra \n\n◆\t1 citron vert \n\n◆\tsel, poivre";
+"Grilled Shrimp & Avocado Kabobs_Instructions" = "Préchauffer votre grill à environ 200°C. Couper les légumes et l’avocat en gros morceaux pour le kébab. Décortiquer les crevettes et assaisonner. Choisir des légumes fibreux car ils sont plus consistants et ils se tiendront mieux dans le kébab sous la chaleur intense. Placer les kébabs sur le grill et faire cuire pendant environ 8-10 minutes, puis les retourner et les aire cuire pendant encore 8 à 10 minutes. Faites-vous plaisir !";
+
+"Morning Parfait_Title" = "Le matin parfait";
+"Morning Parfait_Ingredients" = "◆\t1/4 tasse de raisins et cuillère à café de zeste d'orange émincé \n\n◆\t1 cuillère à café de vanille \n\n◆\t1/2 fromage de Neufchâtel à la crème allégée (225g) \n\n◆\tchapelure \n\n◆\t2 tasses de framboises, myrtilles, fraises découpées en morceaux et/ou poires fraîches \n\n◆\t1/2 tasse de granola allégé \n\n◆\tmiel \n\n◆\tzeste d'orange émincé";
+"Morning Parfait_Instructions" = "Mélanger la chapelure et le fromage. Saupoudrer sur un plat. Asperger avec de l’huile et faire cuire pendant 20 à 25 minutes. Dans quatre verres, placer une couche de mélange de fromage à la crème, une couche de fruit et une couche de granola. Répéter les couches jusqu’en haut du verre. Ajouter du miel et saupoudrer avec le zeste d’orange émincé. Préparer 4 portions. Faites-vous plaisir !";
+
+"Green Tea Kiwi and Mango_Title" = "Thé vert, kiwi et mangue";
+"Green Tea Kiwi and Mango_Ingredients" = "◆\t2,5 tasses de cubes de mangue surgelés \n\n◆\t3/4 tasse de yaourt à la vanille \n\n◆\t2 cuillères à soupe de miel \n\n◆\t2 cuillères à soupe d'eau \n\n◆\t3 kiwis mûrs \n\n◆\t2 tasses de glaçons \n\n◆\t1/2 tasse de jeunes pousses d'épinard \n\n◆\t2 cuillères à soupe de thé vert liquide";
+"Green Tea Kiwi and Mango_Instructions" = "Réunir la mangue, la ½ tasse de yaourt, les 2 cuillères à soupe de miel, les 2 cuillères à soupe d’eau et le zeste de citron dans un blender et mixer jusqu’à obtention d’une consistance onctueuse. Ajouter ¼ tasse de yaourt, 2 cuillères à soupe de miel, le kiwi et les 3 ingrédients suivants dans le blender et mixer jusqu’à obtention d’une consistance onctueuse. Faites-vous";
+
+"Citrus Chicken Stir-Fry_Title" = "Friture de poulet au citron";
+"Citrus Chicken Stir-Fry_Ingredients" = "◆\t140g d'escalopes de poulet, découpées en petits morceaux \n\n◆\t34g de brocoli \n\n◆\t25g de jeune champignon Portobello \n\n◆\t1/4 poivron rouge \n\n◆\t20g d'oignon rouge \n\n◆\tun peu d'huile de noix de coco \n\n◆\tgraines de sésame \n\n◆\t1/4 cuillère à café d'amidon de marante \n\n◆\t1/8 cuillère à soupe de purée d'ail \n\n◆\t1/4 cuillère à café de purée de gingembre";
+"Citrus Chicken Stir-Fry_Instructions" = "Dans un bol, mélanger tous les ingrédients de la sauce pour la friture. Ajouter un peu d’huile de noix de coco dans une sauteuse et faire chauffer à feu moyen. Faire revenir les morceaux de poulet et les cuire jusqu’à ce qu’il soit 85% à point. Puis, faire revenir les légumes et mélanger avec une spatule. Faites-vous plaisir !";
+
+"Grilled Mexican Corn_Title" = "Maïs mexicain grillé";
+"Grilled Mexican Corn_Ingredients" = "◆\t4 épis de maïs \n\n◆\t1,5 tasse de crème fermentée \n\n◆\t1 tasse de parmesan râpé \n\n◆\t1 jus de citron de vert \n\n◆\tpoudre de chili \n\n◆\t2 citrons verts découpés en quartiers pour la garniture";
+"Grilled Mexican Corn_Instructions" = "Faire griller le maïs en le tournant une fois sur un grill chaud jusqu’à ce qu’il commence à légèrement carboniser. Dans un petit bol, mélanger la mayonnaise, la crème fermentée et la coriandre. Verser sur le maïs le jus de citron vert et assaisonner avec le parmesan. Saupoudrer avec le chili en poudre. Faites-vous plaisir !";
+
+"Salmon Burger with Avocado_Title" = "Burger de saumon à l'avocat";
+"Salmon Burger with Avocado_Ingredients" = "◆\t1 livre de filet de saumon \n\n◆\t1 tasse de miettes de pain \n\n◆\t1 œuf \n\n◆\t1 cuillère à soupe de jus de citron \n\n◆\tsel et poivre \n\n◆\thuile d'olive \n\n◆\t1 gros avocat, haché \n\n◆\t1/3 tasse d'oignons rouge hachés \n\n◆\t1 jus de citron vert";
+"Salmon Burger with Avocado_Instructions" = "Couper le filet de saumon en petits morceaux et le transférer dans un saladier. Mélanger doucement avec le reste des ingrédients. Laisser reposer le mélange pendant 5-10 minutes. Faire chauffer un peu d’huile dans une grande casserole à feu moyen. Former des petits pâtés avec le mélange à base de saumon. Faire frire les pâtés jusqu’à ce que les deux faces soient brunies pendant environ 4 minutes. Faites-vous plaisir !";
+
+"Strawberry and Banana Nut Bread Oatmeal_Title" = "Flocons d'avoine, noix, banane et fraises";
+"Strawberry and Banana Nut Bread Oatmeal_Ingredients" = "◆\t150g de flocons d'avoine (cuits) \n\n◆\t1/2 banane écrasée \n\n◆\t50g de fraises \n\n◆\t2 cuillères à soupe de lait d'amande \n\n◆\t1 cuillère à soupe d'extrait de vanille \n\n◆\t2 cuillères à soupe de noix hachées \n\n◆\t1 sachet de stévia \n\n◆\tzeste de citron pour la garniture \n\n◆\t1 cuillère à soupe de yaourt grec (2% de matières grasses) \n\n◆\t1/2 cuillère à soupe de noix hachées \n\n◆\tdes graines de pavot";
+"Strawberry and Banana Nut Bread Oatmeal_Instructions" = "Faire cuire les flocons d’avoine comme indiqué, puis les réserver. Ajouter tous les ingrédients dans un bol sauf les fraises et mélanger minutieusement. Couvrir les flocons d’avoine avec les fraises fraîchement hachées. Garnir avec le yaourt grec, les noix hachés et les graines de pavot. Faites-vous plaisir !";
+
+"Strawberry Banana_Title" = "Fraise banane";
+"Strawberry Banana_Ingredients" = "◆\t2 tasses de fraise \n\n◆\t1 banane fraîche et pelée \n\n◆\t1 tasse de lait \n\n◆\t1 cube de glace \n\n◆\t1 cuillère à soupe de miel";
+"Strawberry Banana_Instructions" = "Ajouter tous les ingrédients dans un blender et les mixer jusqu’à obtention d’un smoothie. Si celui-ci est trop épais, ajouter plus de lait. S’il est trop fluide, ajouter plus de fruit et/ou de glace. Faites-vous plaisir !";
+
+"Spicy & Light Kung Pao Chicken Meal Prep_Title" = "Préparation poulet Kung Pao épicé et léger";
+"Spicy & Light Kung Pao Chicken Meal Prep_Ingredients" = "◆\t150g d'escalopes de poulet \n\n◆\t1/6 gousse d'ail \n\n◆\t33g de pois gourmant \n\n◆\t150g de poivron \n\n◆\t2/3 cuillère à soupe d'eau \n\n◆\t1/3 cuillère à soupe de sauce tomate \n\n◆\t1/6 cuillère à soupe de gingembre frais \n\n◆\t1/6 cuillère à soupe de sauce chili \n\n◆\t1/8 cuillère à soupe de vinaigre de riz \n\n◆\toignon vert émincé";
+"Spicy & Light Kung Pao Chicken Meal Prep_Instructions" = "Dans un bol, ajouter les ingrédients pour la sauce et les fouetter. Chauffer une sauteuse à feu moyen et ajouter un peu d’huile d’olive. Quand la sauteuse est chaude, faire revenir l’ail et laisser transpirer pendant environ 2 minutes. Puis, ajouter les escalopes de poulet découpées en morceaux. Faire cuire le poulet jusqu’à ce que la surface soit bien saisie, pendant environ 6 à 8 minutes. Faire revenir les poivrons pendant environ 3 minutes. Verser lentement la sauce et agiter fréquemment. Faites-vous plaisir !";
+
+"Lavender Mint Tea_Title" = "Tisane à la menthe et à la lavande";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 tasse de pétales frais de lavande \n\n◆\t1 tasse de feuilles fraîches de menthe \n\n◆\t4 tasses d'eau";
+"Lavender Mint Tea_Instructions" = "Placer les pétales de lavande et les feuilles de menthe dans une casserole, verser l’eau et porter à ébullition. Réduire le feu et laisser mijoter la tisane jusqu’à ce qu’elle soit à votre goût, 15 à 20 minutes. Faites-vous plaisir !";
+
+"Foil Fish Packets with Spinach and Tomato_Title" = "Poisson en papillotes avec épinards et tomates";
+"Foil Fish Packets with Spinach and Tomato_Ingredients" = "◆\t1 poignée d'asperges \n\n◆\t2 tomates émincées \n\n◆\t2 filets tilapia \n\n◆\thuile d'olive \n\n◆\t1/2 cuillère à café de sauce ail et chili \n\n◆\tsel \n\n◆\t1 citron émincé";
+"Foil Fish Packets with Spinach and Tomato_Instructions" = "Préchauffer le four à 190°C. Dans un petit bol, mélanger l’huile d’olive, la sauce chili et le sel. Placer les pointes d’asperge au centre d’une feuille d’aluminium et couvrir avec les tomates émincées, puis assaisonner. Placer un filet sur les tomates dans chaque papillote et arroser le poisson avec le mélange à base d’huile d’olive. Disposer les tranches de citron sur le poisson. Faire cuire le poisson au four pendant 25-30 minutes. Faites-vous plaisir !";
+
+
+

@@ -1,0 +1,895 @@
+/*
+ Localizable.strings
+ Yoga
+ 
+ Created by Alex Overseer on 4/4/16.
+ Copyright © 2016 SOFTINTERCOM. All rights reserved.
+ */
+
+//Intro
+
+"Choose Your Goals" = "Wählen Sie Ihre Ziele";
+"Increase Flexibility" = "Erhöhung der Dehnbarkeit";
+"Get Toned" = "Bessere Körperdefinition";
+"Lose Weight" = "Gewichtsverlust ";
+"Reduce Stress" = "Stress reduzieren";
+"Continue" = "Weiter";
+"Yearly" = "Jährlich";
+
+"Enter Your Parameters" = "Geben Sie Ihre Parameter ein";
+"Height" = "Größe";
+"Current weight" = "Aktuelles Gewicht";
+"Target weight" = "Zielgewicht ";
+"Pick Your Height" = "Wählen Sie Ihre Größe";
+"Pick Your Weight" = "Wählen Sie Ihr Gewicht ";
+"Pick Your Target Weight" = "Wählen Sie Ihr Zielgewicht";
+"lbs" = "lbs";
+"kg" = "kg";
+"ft, in" = "ft, in"; //feet, inch
+"cm" = "cm"; //centimeter
+"Save" = "Speichern";
+
+"Join Millions\nof happy users" = "Machen Sie es wie Millionen\nglücklicher Benutzer ";
+"No Annoying Ads" = "Ohne nervende Werbung";
+"Not sure yet?" = "Noch nicht sicher?";
+"Enable free trial" = "Kostenlose Testversion aktivieren";
+"Discount %d%%" = "Rabatt %d%%"; //example Discount 60%
+"Just Now! Limited Offer!" = "Nur jetzt! Limitiertes Angebot!";
+"Join with our best offer" = "Nutzen Sie unser bestes Angebot";
+"Weekly plan" = "Wöchentlicher Plan";
+"Monthly plan" = "Monatlicher Plan";
+
+"Not now" = "Nicht jetzt";
+"Save %d%%" = "Sparen Sie %d%%"; //Example: Save 60%
+"year\nBilled annually" = "Jahr\nJährliche Verrechnung"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "nach dem kostenlosen 7-Tages-\nTestzeitraum";
+"healthAppPermisionKey" = "App hat keine Berechtigung, Daten an die Health App zu übertragen. Sie können das in der Health App aktivieren";
+"Open" = "Öffnen";
+
+
+//Presentation
+
+"Balance Flexibility" = "Balance-Flexibilität";
+"100+ Poses" = "mehr als 100 Posen";
+"19 Classes" = "19 Kurse";
+"Tons of Classes" = "Unzählige Kurse";
+"Anywhere Anytime" = "Überall und jederzeit";
+"Nutrition Plans" = "Ernährungspläne";
+
+
+//Buttons keys
+"backButtonKey" = " Zurück";
+"doneButtonKey" = "Fertig";
+"editButtonKey" = "Bearbeiten";
+"cancelButtonKey" = "Abbrechen";
+"yesButtonKey" = "Ja";
+"startButtonKey" = "Beginnen";
+"skipButtonKey" = "Überspringen";
+
+//MainScreenViewController
+"posesNameKey" = "Positionen";
+"posesDescriptionKey" = "Freiheit zum Üben, wo und wann du möchtest.";
+
+"classesNameKey" = "Klassen";
+"classesDescriptionKey" = "Fokussiere dich auf Flexibilität, Stärke und Gleichgewicht. Finde deine Lieblingsklasse.";
+
+"moreNameKey" = "Mehr";
+"moreDescriptionKey" = "Tritt der VGFIT Community bei. Erhalte weitere Workouts.";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "Übung suchen";
+"noResultsLabelKey" = "Keine Ergebnisse";
+
+//ClassesViewController
+"classBalanceKey" = "Gleichgewicht";
+"classBalanceDescriptionKey" = "Verschiedene Yoga-Stile werden kombiniert, die sich darauf fokussieren, dein Gleichgewicht zu verbessern.";
+
+"classStrengthKey" = "Kraft";
+"classStrengthDescriptionKey" = "Eine Kombination an Yoga-Positionen für Kraft, die dir helfen werden, deine Körperkraft aufzubauen.";
+
+"classFlexibilityKey" = "Flexibilität";
+"classFlexibilityDescriptionKey" = "Du fokussierst dich auf deine Atmung, deine Muskelregeneration und die Flexibilität deines Körpers.";
+
+//LevelViewController
+"levelBegginerKey" = "Anfänger";
+"levelBegginerTitleKey" = "Lass uns mit einfachen Übungen beginnen";
+"levelBegginerDescriptionKey" = "Fokussiert sich auf Kraftaufbau und Ausdauer, um eine solide Grundlage zu bilden.";
+
+"levelIntermediateKey" = "Mittlere";
+"levelIntermediateTitleKey" = "Probiere etwas schwierigere Übungen aus";
+"levelIntermediateDescriptionKey" = "Für diejenigen, die gut geübt sind und schon Yoga-Erfahrung haben.";
+
+"levelAdvancedKey" = "Fortgeschrittener";
+"levelAdvancedTitleKey" = "Schwierige Übungen";
+"levelAdvancedDescriptionKey" = "Für diejenigen, die sehr motiviert und vertraut sind und schon sehr gut geübt sind.";
+
+//DifficultyViewController
+"secondSideKey" = "zweite Seite";
+"minutesKey" = "Min.";
+"posesKey" = "Positionen";
+
+//Error messages
+"downloadErrorKey" = "Fehler beim Download";
+"downloadCompleteKey" = "Download vollständig.";
+"internetConnectionKey" = "Internetverbindung";
+"internetConnectionLostKey" = "Keine Internetverbindung.";
+"videoNotFoundKey" = "Video konnte nicht gefunden werden";
+"videoNotFoundDescriptionKey" = "Möchtest du fortfahren? \nKlicke \"Ja\" und wir werden versuchen, es erneut herunterzuladen. Klicke \"Abbrechen\", um zurückzugelangen.";
+
+"smtWentWrongKey" = "Es ist etwas schief gelaufen.";
+"downloadErrorNoConnectionKey" = "Konnte nicht heruntergeladen werden. Bitte überprüfe deine W-LAN- oder Handyverbindung!";
+"playerNoInternetConnectivityKey" = "Konnte nicht heruntergeladen werden. Bitte überprüfe deine W-LAN- oder Handyverbindung!\nKlicke \"Ja\" zum Überspringen. Klicke \"Abbrechen\", um zurückzugelangen.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Videos werden heruntergeladen";
+"downloadOneVideoKey" = "Video wird heruntergeladen";
+
+//SecondPlayerViewController
+"previewKey" = "Vorschau";
+"secondsKey" = "Sekunden";
+"completedKey" = "Vollständig";
+"playerCurrentExerciseKey" = "Übungsname:";
+"playerNextExerciseKey" = "Nächste:";
+
+//MoreViewController
+"moreProfileTitleKey" = "Profil\n( Yoga-Verlauf )";
+"moreProfileDescriptionKey" = "Du kannst den Verlauf deiner Klassen speichern und deine nächste Klasse planen.";
+
+"moreAppsTitleKey" = "Andere\nVGFIT Apps";
+"moreAppsDescriptionKey" = "Entdecke neue Apps von VGFIT und erreiche deine Fitnessziele.";
+
+"moreSocialTitleKey" = "Soziale\nMedien VGFIT";
+"moreSocialDescriptionKey" = "Erhalte Motivation und teile sie mit Freunden. Tritt der VGFIT Community bei.";
+
+"moreSettingsTitleKey" = "Einstellungen";
+"moreSettingsDescriptionKey" = "Weitere Einstellungen für ein besseres Erlebnis.";
+
+"moreRateUsTitleKey" = "Bewerten Sie uns";
+
+"historyTitleKey" = "Verlauf";
+"historyNoExerciseKey" = "Es wurden noch keine Übungen gemacht";
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "Waschbrettbauch";
+"otherAppFitnessAndBodyBuildingKey" = "Fitness, Bodybuilding";
+"otherAppFemaleFitnessKey" = "Frauen Fitness";
+"otherAppGoPedometerKey" = "Go Schrittzähler";
+"otherAppSmartCycleAlarmProKey" = "Smart-Zyklus Wecker PRO";
+"otherAppTimerKey" = "Timer Pro";
+"otherApp7minKey" = "7 Minuten";
+"Water Reminder" = "Wassererinnerung";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "Ganze Vorschau";
+"settingsPreviewShortKey" = "Kurze Vorschau";
+"settingsPreviewNoneKey" = "Keine Vorschau";
+"settingsbreathCycleLenghtKey" = "Länge des Atemzyklus";
+
+//Speech to Text messages
+
+"beginKey" = "anfang";
+"xMoreSeconds" = "Noch %@ Sekunden";
+"halfWayThereKey" = "Fast geschafft";
+
+//Rate Us messages
+
+"Love our %@ app?" = "Zeigen Sie Ihre Liebe für unsere  %@ App?";
+"Your feedback will help us to get better" = "Ihr Feedback hilft uns dabei, besser zu werden";
+"Oh Dear!" = "Hoppla!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Wir wären sehr dankbar, wenn Sie uns ein paar Ideen zur Verbesserung der App übermitteln. Vielen Dank!";
+
+"5-Stars" = "5 Sterne";
+"To improve the app, please Leave a Rating or Review." = "Bitte hinterlassen Sie ein Rating oder eine Bewertung, damit wir die App verbessern können.";
+
+"Rate Us" = "Bewerten Sie uns";
+"Email Us" = "Schreiben Sie uns eine E-Mail";
+"Not now" = "Jetzt nicht";
+
+//Reminder
+
+"Reminder" = "Erinnerung";
+"Edit notification permission in IOS settings" = "Benachrichtigungsgenehmigung in iOS-Einstellungen bearbeiten";
+"Daily reminder" = "Tägliche Erinnerung";
+"Frequency" = "Häufigkeit";
+"It's time to workout!" = "Es ist Zeit für ein Training!";
+"After %ld days of inactivity" = "Nach %ld Tagen Inaktivität";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Hey! Sie haben schon einige Tage nicht trainiert, kommen Sie zurück und los geht’s!";
+"Days" = "Tags";
+
+//Audio Player
+
+"Voice Guide" = "Sprachführer";
+"Background Music" = "Hintergrundmusik";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "Yoga – Posen und Kurse";
+"Upgrade" = "Upgraden";
+"Buy" = "Kaufen";
+"Restore Purchases" = "Käufe wiederherstellen";
+"Premium" = "PREMIUM";
+"Nutrition" = "Ernährung";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "Entsperre alle Routinen, die von Top-Coaches entwickelt wurden. Erreiche leichter deine Ziele.";
+"Ads free experience" = "Frei von Werbung";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "Werde alle Werbeanzeigen los. Genieße eine freudige Yoga-Reise frei von Werbung.";
+"Unlock all music" = "Entsperre jede Musik";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "Genieße exklusive Musik, um tiefer in deine Übung einzutauchen. \n+ Wähle deinen besonderen Ton für Benachrichtigungen, damit du nichts verpasst.";
+"Yoga Classes" = "Yoga Classes";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "10 Neue Kurse für alle Niveaus, um mit positiven Workouts und Motivation fitter zu werden \n+ Ein ausgewogener Ernährungsplan für den Gewichtsverlust.";
+
+//Select Sound
+
+"Sounds" = "Sounds";
+"Sound" = "Sound";
+"Default" = "Standard";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "Schnelle Yoga-Routine";
+"Quick Yoga Fix_details" = "Gliedere Yoga in einen stressigen Tag mit einer Serie ein, die sowohl erdend als auch belebend ist.";
+
+"Getting Toned" = "Straffen";
+"Getting Toned_details" = "Baue Muskelspannung an wichtigen Stellen auf, einschließlich an Armen, Schultern, Rumpf, Po und Beinen.";
+
+"Morning Yoga" = "Morgen-Yoga";
+"Morning Yoga_details" = "Beginne deinen Tag mit einer belebenden Yoga-Routine, die darauf abzielt, die Wirbelsäule in alle Richtungen zu bewegen und solide Posen im Stehen beinhaltet.";
+
+"Daily Yoga for ABS" = "Tägliches Yoga für Bauchmuskeln";
+"Daily Yoga for ABS_details" = "Ziele auf die tiefen Bauchmuskeln ab und straffe sie.";
+
+"Yoga for Runners" = "Yoga für Läufer";
+"Yoga for Runners_details" = "Yoga bietet eine einzigartige Kombination an Balance, Beweglichkeit, Kraft und Achtsamkeitstraining, was Läufern helfen kann, ihre Leistung zu verbessern und Verletzungen vorzubeugen. Laufe geschickter mit dieser Cross-Training-Serie.";
+
+"Boost Your Energy" = "Steigere deine Energie";
+"Boost Your Energy_details" = "Lade deine Akkus auf mit dieser Serie, entwickelt, um deinen Körper, deinen Kopf und deinen Geist zu beleben.";
+
+"Deep Stretching Exercises" = "Übungen für tiefgründige Dehnung";
+"Deep Stretching Exercises_details" = "Regeneriere müde Muskeln, verbessere deinen Bewegungsumfang und steigere deine Durchblutung mit diesen Yoga-Dehnungen.";
+
+"Improve Your Balance" = "Verbessere deine Balance";
+"Improve Your Balance_details" = "Verbessere Koordination, Reaktionszeit, Haltung und Körperbewusstsein mit dieser herausfordernden Serie an Balance-Posen.";
+
+"Challenge Your Flexibility" = "Fordere deine Beweglichkeit heraus";
+"Challenge Your Flexibility_details" = "Verbessere deine Beweglichkeit durch eine Serie an intensiven Dehnungen und wende die Ergebnisse bei fortgeschritteneren Yoga-Posen an.";
+
+"Core Muscle Sculptor" = "Rumpfmuskulatur";
+"Core Muscle Sculptor_details" = "Baue sie von Grund auf auf, um Kraft in den Beinen, im Bauch, am unteren Rücken und an den Seiten zu bekommen.";
+
+"Food Nutrition" = "Ernährung";
+"Food Nutrition_details" = "Sei in Bestform, wie nie zuvor! Lerne, was du essen solltest, entdecke fettverbrennende Lebensmittel, iss leckere Mahlzeiten, um deinen Stoffwechsel anzukurbeln.";
+
+
+//Other
+
+"In-App purchases were restored" = "In-App Käufe wurden wiederhergestellt";
+"Sorry we didn't find your previous purchases" = "Tut uns leid, wir können Ihren vorherigen Kauf nicht finden";
+"Alert" = "Alarm";
+"No internet connection" = "Keine Internetverbindung";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription options: &&3 days of free trial followed by $3.99 per Week. 3 days of free trial followed by $12.99 per Month. 3 days of free trial followed by $35.99 per Year++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+//"Restore" = "Wiederherstellen";
+"%d poses and %d yoga classes"="%d Posen und %d Yoga-Kurse";
+"3 days for FREE"="3 Tage KOSTENLOS";
+"Ads FREE\nexperience"="Erfahrung\nOHNE Werbung";
+"Yoga"="Yoga";
+"Yoga\nClasses"="Yoga-\nKurse";
+"UNLOCK\nall music"="Die ganze Musik\nENTSPERREN";
+"76% off"="76% Rabatt"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="%@ pro Monat als jährliche Zahlung ergibt %@ pro Jahr";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="Ernährungsplan zum Gewichtsverlust";
+"Challenges"="Challenges";
+"Ads FREE experience"="Erfahrung \nOHNE Werbung";
+"Nutrition plans"="Ernährungs- \npläne";
+"New Workouts"="Neue \nWorkouts";
+"ARMS | ABS"="ARME | BAUCH";
+"CLOSE"="SCHLIEßEN";
+"Workout challenges"="Workout-Challenges";
+"Challenge"="Challenge";
+"Exercises"="Übungen";
+"Restore purchase"="Kauf wiederherstellen";
+"SHARE"="TEILEN";
+"%d-day\nFree Trial"="%d-Tage\nKostenlose Testversion";
+"Try it Now"="Jetzt testen";
+"GET LIFETIME ACCESS"="ERHALTEN SIE UNLIMITIERTEN ZUGANG";
+"SKIP"="SKIP";
+"%@ WORKOUTS"="%@ WORKOUTS";// ex: 25 workouts
+"3-day \nFree trial"="3-Tage \nTestversion";
+"7-day \nFree trial"="7-Tage \nTestversion";
+"startKey"="Start";
+
+"Subscription Info" = "Infos zum Abo";
+"More info about subscriptions and Premium membership" = "Weitere Informationen zu Abos und Premium-Mitgliedschaft";
+"%d days of free trial followed by %@ per %@" = "%d Tage Testversion gefolgt von %@ pro %@"; //ex:3 days of free trial followed by $3.99 per week
+"month"="Monat";
+"year"="Jahr";
+"week"="Woche";
+"after"="nach";
+"Privacy Policy"="Datenschutzbestimmungen";
+"Terms of Service"="Nutzungsbedingungen";
+"Nutrition plan"="Ernährungsplan";
+"and"="und";
+"Subscription"="Abo";
+"By continuing you accept our"="Wenn Sie fortfahren, akzeptieren Sie unsere";
+
+"Start your positive\ntransformation today!"="Beginnen Sie Ihre positive\nTransformation heute!";
+"Get 100% ready workouts courses with powerful support!"="Holen Sie sich 100% ausgearbeitete Workout-Kurse mit starkem Support!";
+"Only now"=" Nur jetzt ";
+"GET LIFETIME ACCESS"="ERHALTEN SIE UNLIMITIERTEN ZUGANG";
+"one-time payment"="einmalige Zahlung";
+//Exercise name
+
+"exerciseName1" = "Berg";
+
+"exerciseName2" = "Halber Lotus";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "Variation Stuhl";
+
+"exerciseName5" = "Liegende Seitendehnung";
+
+"exerciseName6" = "Paradiesvogel";
+
+"exerciseName7" = "Variation Großen-Zehen-Stellung";
+
+"exerciseName8" = "Boot";
+
+"exerciseName9" = "Bogen";
+
+"exerciseName10" = "Variation der Brücke";
+
+"exerciseName11" = "Kamel";
+
+"exerciseName12" = "Katze";
+
+"exerciseName13" = "Rückenbeugen";
+
+"exerciseName14" = "Stuhl";
+
+"exerciseName15" = "Gedrehter Stuhl";
+
+"exerciseName16" = "Gedrehter Stuhl mit ausgestreckten Armen";
+
+"exerciseName17" = "Stellung des Kindes";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "Kobra";
+
+"exerciseName20" = "Leiche";
+
+"exerciseName21" = "Kuh";
+
+"exerciseName22" = "Kuhgesicht";
+
+"exerciseName23" = "Variation Kuhgesicht";
+
+"exerciseName24" = "Umgedrehte Brettposition";
+
+"exerciseName25" = "Krähe";
+
+"exerciseName26" = "Delfin";
+
+"exerciseName27" = "Sphinx";
+
+"exerciseName28" = "Unterarmstütz";
+
+"exerciseName29" = "Hund mit Gesicht nach unten";
+
+"exerciseName30" = "Gedrehter Hund mit Gesicht nach unten";
+
+"exerciseName31" = "Frosch";
+
+"exerciseName32" = "Vollendete Position mit Adler-Armen";
+
+"exerciseName33" = "Adler";
+
+"exerciseName34" = "Ohr-Knie-Stellung";
+
+"exerciseName35" = "Rückendrehung im Sitzen";
+
+"exerciseName36" = "Vorbeuge mit gekreuzten Beinen";
+
+"exerciseName37" = "Schiefe Stellung";
+
+"exerciseName38" = "Herz";
+
+"exerciseName39" = "Gebundener Seitlicher Engel";
+
+"exerciseName40" = "Abgeänderter Gedehnter Seitlicher Engel";
+
+"exerciseName41" = "Seitlicher Engel";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "Feuerholzstellung";
+
+"exerciseName44" = "Fisch";
+
+"exerciseName45" = "Tor";
+
+"exerciseName46" = "Pferd";
+
+"exerciseName47" = "Tiger";
+
+"exerciseName48" = "Kamel mit Drehung";
+
+"exerciseName49" = "Halber Frosch";
+
+"exerciseName50" = "Heuschrecke";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "Stehender Halb-Lotus";
+
+"exerciseName53" = "Halb-Spagat";
+
+"exerciseName54" = "Gebeugte Variation des Halbmonds";
+
+"exerciseName55" = "Halbmond";
+
+"exerciseName56" = "Schulterstand";
+
+"exerciseName57" = "Sage Marichi Stellung III";
+
+"exerciseName58" = "Kopfstand";
+
+"exerciseName59" = "Dreipunkt-Kopfstand";
+
+"exerciseName60" = "Glückliches Baby";
+
+"exerciseName61" = "Reiher";
+
+"exerciseName62" = "Gedrehter Ausfallschritt";
+
+"exerciseName63" = "Hoher Ausfallschritt";
+
+"exerciseName64" = "Gebeugter Krieger";
+
+"exerciseName65" = "Ganze Kobra";
+
+"exerciseName66" = "Tänzer";
+
+"exerciseName67" = "Variation Befreiende Wind-Stellung";
+
+"exerciseName68" = "Acht-Punkte-Stellung";
+
+"exerciseName69" = "Eidechse";
+
+"exerciseName70" = "Variation Heuschrecke";
+
+"exerciseName71" = "Rückgebeugter Ausfallschritt mit Drehung";
+
+"exerciseName72" = "Rückgebeugter Ausfallschritt";
+
+"exerciseName73" = "Meerjungfrau";
+
+"exerciseName74" = "Bogen mit einem Bein und Blick nach oben";
+
+"exerciseName75" = "Hase";
+
+"exerciseName76" = "Vorbereitung Königstaube";
+
+"exerciseName77" = "Pyramide";
+
+"exerciseName78" = "Halbe Taube";
+
+"exerciseName79" = "Waage";
+
+"exerciseName80" = "Brücke";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "Variation Hohe Gebetsstellung";
+
+"exerciseName83" = "Brettposition";
+
+"exerciseName84" = "Zurückgelehnte Fuß-zum-Finger-Position B";
+
+"exerciseName85" = "Pflug";
+
+"exerciseName86" = "Tiger mit gebeugter Variation";
+
+"exerciseName87" = "Friedlicher Krieger";
+
+"exerciseName88" = "Gedrehter Halbmond";
+
+"exerciseName89" = "Kopf-zum-Knie Stellung";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "Gedrehte Taube";
+
+"exerciseName92" = "Gedrehte Kopf-Zum-Knie Stellung";
+
+"exerciseName93" = "Gedrehtes Dreieck";
+
+"exerciseName94" = "Tiefer Ausfallschritt";
+
+"exerciseName95" = "Variation Gedrehte Fuß-zum-Finger-Position im Stehen";
+
+"exerciseName96" = "Liegende Rückendrehung";
+
+"exerciseName97" = "Zurückgelehnter Gebundener Engel";
+
+"exerciseName98" = "Zurückgelehnte Fuß-zum-Finger-Position A";
+
+"exerciseName99" = "Vorbeuge im Sitzen";
+
+"exerciseName100" = "Fuß-zum-Finger-Position D im Stehen";
+
+"exerciseName101" = "Seitstütz";
+
+"exerciseName102" = "Kuhgesicht mit Armen";
+
+"exerciseName103" = "Seitenbeuge im Sitzen";
+
+"exerciseName104" = "Variation Schulterstand";
+
+"exerciseName105" = "Rückenbeuge im Stehen";
+
+"exerciseName106" = "Fuß-zum-Finger-Position B im Stehen";
+
+"exerciseName107" = "Variation Heuschrecke mit verschränkten Fingern";
+
+"exerciseName108" = "Stocksitz";
+
+"exerciseName109" = "Sphinx";
+
+"exerciseName110" = "Abgeänderter Seitstütz";
+
+"exerciseName111" = "Vorbeuge mit Grätsche";
+
+"exerciseName112" = "Yoga-Kniebeuge";
+
+"exerciseName113" = "Weite Engel-Vorbeuge im Sitzen";
+
+"exerciseName114" = "Breitbeinige Vorbeuge C";
+
+"exerciseName115" = "Variation gedrehte Kopf-zum-Knie Stellung";
+
+"exerciseName116" = "Yoga-Kniebeuge mit Bogen";
+
+"exerciseName117" = "Heldenstellung mit Blick nach unten";
+
+"exerciseName118" = "Breitbeinige Vorbeuge mit Drehung";
+
+"exerciseName119" = "Breitbeinige Vorbeuge mit Seitendehnung";
+
+"exerciseName120" = "Vishnu Liegeübung";
+
+"exerciseName121" = "Gebundener Engel mit Blick nach oben";
+
+"exerciseName122" = "Krieger 2";
+
+"exerciseName123" = "Seitenbeuge im Stehen mit verkreuzten Fingern";
+
+"exerciseName124" = "Standspagat";
+
+"exerciseName125" = "Vorbeuge aus dem Stand";
+
+"exerciseName126" = "Fuß-zum-Finger-Position A im Stehen";
+
+"exerciseName127" = "Variation Vorbeuge mit geöffneten Schultern im Stehen";
+
+"exerciseName128" = "Krieger 1";
+
+"exerciseName129" = "Krieger 3";
+
+"exerciseName130" = "Seitendehnung im Stehen";
+
+"exerciseName131" = "Gestützter Schulterstand";
+
+"exerciseName132" = "Umgedrehter Stütz";
+
+"exerciseName133" = "Fuß-zum-Finger-Position C mit Vorbeuge im Stehen";
+
+"exerciseName134" = "Vorbeuge aus dem Stand mit Drehung";
+
+"exerciseName135" = "Gestützte Rückenbeuge im Stehen";
+
+"exerciseName136" = "Stab-Position";
+
+"exerciseName137" = "Brettstellung & Stab-Position";
+
+"exerciseName138" = "Bogen mit Blick nach oben";
+
+//Exercise description
+
+"exerciseDescription1" = "Stehe mit den Füßen hüftbreit auseinander und den Außenseiten der Füße parallel zueinander. Mache deine Wirbelsäule lang und ziehe den Bauchnabel zur Wirbelsäule. Ziehe den Kopfscheitel nach oben und das Steißbein in Richtung deiner Fersen.";
+
+"exerciseDescription2" = "Setze dich auf den Boden und winkle dein linkes Knie an, mit der Außenseite deines linken Fußes unter deinem rechten Oberschenkel und vor deinem rechten Gesäßknochen. Nimm dann die Außenseite deines rechten Fußes und lege sie in die Beuge deiner linken Hüfte. Lege deine Hände mit den Handflächen nach unten auf deine Kniescheiben und mache dich groß mit entspannten Schultern. Wiederhole das Ganze mit dem linken Bein oben.";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = "Stehe mit den Füßen hüftbreit auseinander. Strecke deine Arme nach vorne aus mit den Handflächen nach unten. Beuge deine Knie und hebe deine Fersen über deinen Fußballen an.";
+
+"exerciseDescription5" = "Lege dich auf den Rücken und umschließe die Hinterseite deines Kopfs mit deinen Handflächen. Lege deinen linken Fußknöchel über deinen rechten Knöchel. Beuge dich zur rechten Seite, indem du deinen Oberkörper und deine Beine nach rechts bewegst. Komme zurück zur Mitte, kreuze die Knöchel andersherum, sodass das rechte Bein oben ist und beuge dich zur linken Seite.";
+
+"exerciseDescription6" = "Stehe nach vorne gebeugt und mit den Füßen hüftbreit auseinander. Beuge deine Knie und führe zunächst den rechten Arm nach vorne und dann durch deine Beine, beuge deinen Ellbogen und führe deine rechte Hand zur rechten, äußeren Hüfte. Beuge den linken Ellbogen hinter deinem Rücken und führe deine linke Hand zur rechten, äußeren Hüfte. Halte dein linkes Handgelenk mit deiner rechten Hand. (Wenn du nicht an das Handgelenk kommst, versuche die Fingerspitzen beider Hände zu verschließen.) \n \n Wenn deine Hände an deiner rechten, äußeren Hüfte zusammengefunden haben, hebe deine rechte Ferse, verlagere dein Gewicht auf deinen linken Fuß und stehe auf deinem linken Bein. Halte das rechte Knie gebeugt, wenn du das linke Bein streckst und mache deine Wirbelsäule lang. Drücke dann deinen rechten Arm gegen dein rechtes Bein und strecke das rechte Bein zur Seite nach außen. \n \n Wiederhole den Stand auf deinem rechten Bein mit den Armen um dein linkes Bein.";
+
+"exerciseDescription7" = "Sitze mit gebeugten Knien und den Fußsohlen vor dir. Lege deine Hände unter deine Oberschenkel und hebe deine Füße vom Boden, sodass du auf deinen Gesäßknochen balancierst. Strecke deine Beine so weit du kannst aus und mache deinen unteren Rücken rund. Im Laufe der Zeit wird sich deine Flexibilität verbessern und du wirst deine Hände über deine Beine zu deinen Füßen gleiten lassen können und schließlich mit den ersten drei Fingern jeder Hand deine großen Zehen halten können.";
+
+"exerciseDescription8" = "Sitze mit gebeugten Knien und den Fußsohlen vor dir, die Arme sind ausgestreckt. Hebe deine Füße vom Boden und hebe deine Schienbeine, sodass sie parallel zur Decke sind, die Arme an den Seiten deiner Beine ausgestreckt. Balanciere auf deinen Gesäßknochen und halte die Position für mindestens 5 Atemzüge.";
+
+"exerciseDescription9" = "Lege dich auf den Bauch, beuge deine Knie und führe sie zum Rücken, um die Außenseiten deiner Knöchel halten zu können. Hebe deinen Kopf, deine Brust und deine Beine vom Boden. Halte deine Beine nicht weiter als hüftbreit geöffnet, wenn du deinen Kopfscheitel erreichst und deine Schienbeine in Richtung Decke hältst.";
+
+"exerciseDescription10" = "Lege dich auf den Rücken mit gebeugten Knien, deinen Fußsohlen hüftbreit auseinander und den Außenseiten deiner Füße parallel zueinander. Halte die Außenseiten deiner Knöchel in deinen Händen, hebe dein Becken vom Boden und wölbe deine Brust nach oben.";
+
+"exerciseDescription11" = "Knie dich mit deinen Schienbeinen parallel zueinander und den Fußoberseiten auf dem Boden hin. Hebe deine Hüfte über deine Knie und deine Schultern über deine Hüfte. Hebe deine Brust zum Himmel und lasse die Hüfte über den Knien, während du nach hinten fasst, um deine Fersen zu berühren.";
+
+"exerciseDescription12" = "Beginne auf allen vieren in der Position eines Bretts mit deinen Schultern über deinen Handgelenken und deiner Hüfte über deinen Knien. Mache deine Wirbelsäule, sodass dein Kopf in Richtung Boden abfällt, während du ausatmest. Dein Bauchnabel zieht zur Wirbelsäule und dein Steißbein windet sich zum Boden.";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "Stehe mit den Füßen hüftbreit auseinander und den Außenflächen deiner Füße parallel zueinander. Atme ein und strecke deine Arme neben deinen Ohren aus, die Handflächen schauen zueinander. Halte die Arme schulterbreit auseinander, während du deine Knie beugst und mit deiner Hüfte zurückweichst. Versuche deine Oberschenkel parallel zum Boden zu bekommen und sie dort zu halten, während du deinen Unterbauch und deine Brust anhebst.";
+
+"exerciseDescription15" = "Stehe mit den großen Zehen zusammen und den Außenseiten deiner Füße parallel zueinander. Beuge deine Knie und führe deine Handflächen vor deiner Brust zusammen. Atme ein, während du deine Wirbelsäule lang machst und die Hüfte tief hältst. Während du ausatmest, drehe dich nach rechts und hake deinen linken Ellbogen an der Außenseite deines rechten Oberschenkels ein. Atme ein und komme zurück zur Mitte mit den Handflächen in einer betenden Position vor deiner Brust. Atem aus, während du dich zur linken Seite drehst.";
+
+"exerciseDescription16" = "Stehe mit den großen Zehen zusammen und den Außenseiten deiner Füße parallel zueinander. Beuge deine Knie und führe deine Handflächen vor deiner Brust zusammen. Atme ein, während du deine Wirbelsäule lang machst und die Hüfte tief hältst. Während du ausatmest, drehe dich nach rechts und hake deinen linken Ellbogen an der Außenseite deines rechten Oberschenkels ein. Breite deine Arme in einer \"T\" Haltung aus, sodass deine linken Fingerspitzen den Boden an der Seite deines rechten Knöchels berühren und dein rechter Arm zum Himmel zeigt. Schaue nach oben zu deiner rechten Handfläche. \n\n Atme ein und komme zurück zur Mitte mit den Handflächen in einer betenden Position vor deiner Brust. Atme aus, während du dich zur linken Seite drehst und den rechten Ellbogen an der Außenseite deines linken Oberschenkels einhakst. Breite die Arme aus, diesmal mit den rechten Fingerspitzen zur Außenseite des linken Knöchels und mit dem linken Arm gestreckt zum Himmel. Schaue nach oben zu deiner linken Handfläche.";
+
+"exerciseDescription17" = "Beginne auf deinen Händen und Knien in der Position eines Bretts. Führe deine großen Zehen zusammen und setze sich zurück auf deine Fersen, während du deine Stirn auf den Boden legst. Lege die Arme an die Seiten deines Körpers mit den Handflächen nach oben.";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = "Lege die auf den Bauch und lege deine nach unten gerichteten Handflächen neben deine unteren Rippen, genau über deiner Taille. Hebe deinen Oberkörper vom Boden, drücke deine Hände nach unten und lasse deine Knie, Schienbeine und deine Fußoberseiten auf dem Boden. Ziehe dein Steißbein in Richtung deiner Fersen, um deine unteren Bauchmuskeln mit einzubeziehen und strecke deine Arme nur so weit, dass du keine Beschwerden im unteren Rücken hast. \n\n Lasse deine linke Handfläche auf dem Boden und drehe deine Brust und deinen Kopf nach rechts und lasse deine rechte Hand an der Rückseite deines rechten Oberschenkels hinab gleiten. Komme zurück zur Mitte und wiederhole das Ganze auf der linken Seite.";
+
+"exerciseDescription20" = "Lege dich auf den Rücken mit ausgestreckten Beinen und Armen an beiden Seiten und den Handflächen nach oben. Schließe deine Augen und entspanne deine Muskeln, indem du dein Körpergewicht in den Boden sacken lässt.";
+
+"exerciseDescription21" = "Beginne auf allen vieren in der Position eines Bretts. Während du einatmest, wölbe deinen Rücken, hebe dein Kinn und schaue nach oben.";
+
+"exerciseDescription22" = "Setze dich auf den Boden, beuge deine Knie und kreuze dein rechtes Knie über das linke, sodass beide Knie vor deinem Bauchnabel aufeinander liegen und du zwischen deinen Fersen sitzt. Strecke deinen linken Arm zur Decke aus, beuge deinen linken Ellbogen und richte deine Fingerspitzen an deinem Rücken nach unten aus. Strecke deinen rechten Arm zur rechten Seite aus, drehe deine rechte Handfläche, sodass sie nach hinten schaut und beuge deinen rechten Ellbogen, sodass deine Fingerspitzen an deinem Rücken nach oben zeigen. Hake die linken und rechten Fingerspitzen ineinander. Wiederhole das Ganze auf der anderen Seite mit dem linken Knie und dem rechten Arm oben.";
+
+"exerciseDescription23" = "Setze dich auf den Boden, beuge deine Knie und kreuze dein rechtes Knie über das linke, sodass beide Knie vor deinem Bauchnabel aufeinander liegen und du zwischen deinen Fersen sitzt. Mache deine Wirbelsäule lang, während du deine Arme an der Seite deiner Ohren ausstreckst. Wiederhole das Ganze auf der anderen Seite mit dem linken Knie über dem rechten Knie.";
+
+"exerciseDescription24" = "Sitze mit gebeugten Knien und den Füßen hüftbreit auseinander auf dem Boden vor dir. Lege deine Handflächen hinter dich, schulterbreit auseinander mit den Fingerspitzen nach vorne zeigend. Hebe dein Becken vom Boden, sodass deine Knie in einem 90 Grad Winkel gebeugt sind. Hebe deine Knie über deine Knöchel und deine Schultern über deine Handgelenke. Drücke dich nach unten in den Zeigefinger und Daumen beider Hände. Um zu beginnen, halte dein Genick in einer Linie mit dem Rest deiner Wirbelsäule und die Nase zeigt hoch zur Decke. Wenn du keine Probleme mit der Halswirbelsäule hast, dann kannst du den Kopf langsam nach hinten fallen lassen, sodass deine Schädelbasis genau über den Schulterblättern wiegt.";
+
+"exerciseDescription25" = "Stehe nach vorne gebeugt mit den Füßen zusammen. Beuge deine Knie und lege deine Handflächen etwa eine Fußlänge vor deine Füße mit den Händen schulterbreit auseinander und den Fingern den Boden greifend. Hebe deine Fersen vom Boden, um deine Hüfte anzuheben und deine Knie auf die Hinterseiten deiner Oberarme abzusenken und bilde ein Brett mit deinen Armen. Beuge deine Ellbogen auf fast 90 Grad und hebe sie über deine Handgelenke. Schaue weiter als deine Hände auf dem Boden und verlagere dein Gewicht langsam auf deine Hände. Sobald deine Schultern leicht nach vorne gebeugt sind und dein ganzes Gewicht auf deinen Händen liegt, versuche, einen oder beide Füße vom Boden zu heben. Mit der Zeit kannst du versuchen, deine Zehen zu strecken und sie zu deinen Gesäßknochen zu führen.";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = "Lege dich auf den Bauch und stütze dich auf deinen Ellbogen auf, sodass deine Unterarme parallel zueinander sind und deine Ellbogen schulterbreit auseinander sind. Ziehe deine Ellbogen zu deiner Hüfte, während du deine Brust durch deine Arme nach vorne drückst. Strecke deine Zehen und schiebe dein Steißbein in Richtung deiner Fersen.";
+
+"exerciseDescription28" = "Lege dich auf den Bauch und stütze dich auf deinen Ellbogen auf, sodass deine Unterarme parallel zueinander sind und deine Ellbogen schulterbreit auseinander sind. Ziehe deine Zehen nach unten und hebe deine Oberschenkel und dein Becken vom Boden. Zentriere deine Schultern über deinen Ellbogen und hebe deinen Bauch in Richtung deines unteren Rückens. Spanne die Vorderseiten deiner Oberschenkel an und ziehe dein Schambein in Richtung deines Bauchnabels, damit deine Hüfte nicht in der Luft baumelt.";
+
+"exerciseDescription29" = "Beginne auf allen vieren in der Position eines Bretts mit deinen Handgelenken unter deinen Schultern und gespreizten Fingern. Stelle deine Füße zurück in eine Brettstellung – eine hohe Liegestützposition mit angespannten Beinen und Bauch. Hebe deine Hüfte von dort aus an und drücke deine Brust in Richtung deiner Beine, während du deine Fersen in Richtung Boden streckst. Drücke den Boden mit den Händen weg von dir, um deinen Oberkörper näher zu deinen Beinen zu bekommen. Drücke den Zeigefinger und den Daumen beider Hände stark nach unten und stelle deine Füße hüftbreit auseinander, mit den Fersen in einer Linie hinter den zweiten und dritten Zehen.";
+
+"exerciseDescription30" = "Beginne auf allen vieren in der Position eines Bretts mit deinen Handgelenken unter deinen Schultern und gespreizten Fingern. Stelle deine Füße zurück in eine Brettstellung – eine hohe Liegestützposition mit angespannten Beinen und Bauch.  Hebe deine Hüfte von dort aus an und drücke deine Brust in Richtung deiner Beine, während du deine Fersen in Richtung Boden streckst. Drücke den Boden mit den Händen weg von dir, um deinen Oberkörper näher zu deinen Beinen zu bekommen. Drücke den Zeigefinger und den Daumen beider Hände stark nach unten und stelle deine Füße hüftbreit auseinander, mit den Fersen in einer Linie hinter den zweiten und dritten Zehen. \n\n Lasse deine linke Handfläche auf dem Boden, während du deinen rechten Arm durch die Lücke zwischen deinen Beinen führst, um von hinten deinen linken Knöchel oder deine Wade zu halten. Fahre fort, um deine äußere Hüfte von hinten zu erreichen und drücke mit der linken Handfläche den Boden weg von dir. Wiederhole das Ganze auf der zweiten Seite.";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = "Sitze mit den Knien auf je eine Seite gebeugt und den Füßen vor deinem Schambein, der linke Fuß vor dem rechten Fuß. Beuge deine Ellbogen und klemme den rechten Ellbogen unter den linken. Kreuze an den Handgelenken, sodass deine Handflächen nach innen zueinander schauen. Hebe deine Ellbogen und drücke deine Handflächen nach vorne. Wiederhole das Ganze auf der anderen Seite mit dem rechten Fuß vorne und dem linken Ellbogen unten.";
+
+"exerciseDescription33" = "Stehe mit den Füßen zusammen und hebe deine rechte Ferse vom Boden. Beuge deine Ellbogen und klemme den rechten Ellbogen unter den linken. Kreuze an den Handgelenken, sodass deine Handflächen nach innen zueinander schauen. Hebe deine Ellbogen und drücke deine Handflächen nach vorne. \n\n Beuge dein linkes Knie und kreuze das rechte Knie über das linke, während du auf deinem linken Bein balancierst und den rechten großen Zeh von innen an den linken Knöchel klemmst. Während du deine äußere Hüfte nach hinten drückst, lasse die Brust oben und hebe die Ellbogen weiter hoch.";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = "Nimm einen bequemen Schneidersitz ein und lege die Hände mit den Handflächen nach unten auf deine Kniescheiben. Atme ein und mache deine Wirbelsäule lang. Während du ausatmest, drehe dich nach links und bringe die linken Fingerspitzen hinter dich auf den Boden und deine rechte Handfläche auf die linke Kniescheibe. Atme ein und komme zurück zur Mitte und während du ausatmest, drehe dich nach rechts, bringe deine rechten Fingerspitzen hinter dich auf den Boden und lege deine linke Handfläche auf deine rechte Kniescheibe.";
+
+"exerciseDescription36" = "Nimm einen bequemen Schneidersitz ein. Lege deine Handflächen vor dich auf den Boden und gehe mit ihnen nach vorne, bis deine Arme durchgestreckt sind. Wenn deine Stirn nicht auf den Boden kommt, dann lege sie auf eine gefaltete Decke oder ein Handtuch, sodass das Genick gestützt ist. Wiederhole das Ganze mit dem anderen Bein oben.";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = "Beginne auf allen vieren in der Position eines Bretts. Lasse deine Hüfte über deinen Knien und deine Hände schulterbreit auseinander, während du mit deinen Händen, so weit du kannst, nach vorne läufst. Ziehe deine Brust in Richtung Boden.";
+
+"exerciseDescription39" = "Nimm eine breitbeinige Stellung mit deinen Füßen parallel zueinander ein. Drehe deinen rechten Fuß um 90 Grad nach außen und beuge dein rechtes Knie in einen 90 Grad Winkel, sodass die Oberseite deines rechten Oberschenkels parallel zum Boden ist. Halte dein rechtes Knie über deinem rechten Knöchel und das linke Bein gestreckt mit den Zehen leicht nach innen gedreht. Strecke die rechte Seite deines Oberkörpers über deinen rechten Oberschenkel und bringe deinen rechten Arm an die Innenseite deines rechten Beins. \n\n Führe deinen rechten Arm unter deinen Oberschenkel, beuge den Ellbogen und führe deine Hand in Richtung deiner rechten, äußeren Hüfte. Beuge den linken Ellbogen hinter deinem Rücken und führe die linke Hand in Richtung deiner rechten, äußeren Hüfte. Benutze deine rechte Hand, um das linke Handgelenk zu umfassen. (Wenn du nicht an das Handgelenk kommst, versuche die Fingerspitzen beider Hände zu verschließen.) \n\n Wenn deine Arme und dein rechtes Bein geschlungen sind, führe deine rechte Hüfte unter dich und lehne dich zurück, sodass die rechte Seite deines Oberkörpers über deinem Oberschenkel schwankt. Mache die Seiten deines Nackens lang, während du den Kopfscheitel von deinem linken Fuß wegdrückst. Drücke den linken Fuß in den Boden und halte das rechte Knie mittig über deinen zweiten und dritten Zehen. \n\n Wiederhole das Ganze auf der linken Seite mit den Armen um das linke Bein geschlungen, sodass die Hände an der linken, äußeren Hüfte zusammenfinden.";
+
+"exerciseDescription40" = "Nimm eine breitbeinige Stellung mit deinen Füßen parallel zueinander ein. Drehe deinen rechten Fuß um 90 Grad nach außen und beuge dein rechtes Knie in einen 90 Grad Winkel, sodass die Oberseite deines rechten Oberschenkels parallel zum Boden ist. Halte dein rechtes Knie über deinem rechten Knöchel und das linke Bein gestreckt. Strecke die rechte Seite deines Oberkörpers über deinen rechten Oberschenkel und lege deinen rechten Ellbogen leiht auf deinem rechten Oberschenkel ab, mit der Handfläche nach oben. Strecke deinen linken Arm an der Seite deines linken Ohrs aus und drehe deinen Bauchnabel weg von deinem rechten Fuß, während du zu deiner linken Hand schaust. Drücke den linken Fuß in den Boden und halte das rechte Knie mittig über deinen zweiten und dritten Zehen. Wiederhole das Ganze auf der linken Seite.";
+
+"exerciseDescription41" = "Nimm eine breitbeinige Stellung mit deinen Füßen parallel zueinander ein. Drehe deinen rechten Fuß um 90 Grad nach außen und beuge dein rechtes Knie in einen 90 Grad Winkel, sodass die Oberseite deines rechten Oberschenkels parallel zum Boden ist. Halte dein rechtes Knie über deinem rechten Knöchel und das linke Bein gestreckt mit den Zehen leicht nach innen gedreht. \n\n Strecke die rechte Seite deines Oberkörpers über deinen rechten Oberschenkel und lege deine rechte Handfläche auf den Boden an die Innenseite deines rechten Fußes, sodass deine Schulter über deinem Handgelenk bleibt. Hebe den linken Arm gestreckt zum Himmel und schaue nach oben zu deiner linken Handfläche. Drücke den linken Fuß in den Boden und halte das rechte Knie mittig über deinen zweiten und dritten Zehen. Wiederhole das Ganze auf der linken Seite.";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = "Setze dich hin und beuge dein linkes Knie nach links, sodass die Außenseite deines Fußes auf dem Boden liegt und dein Schienbein parallel zur Vorderseite deiner Matte ist. Beuge dein rechtes Knie nach rechts außen und lege das rechte Schienbein über das linke, sodass das rechte Knie über dem linken Knöchel liegt und der rechte Knöchel über dem linken Knie liegt. Beuge dich langsam so weit du kannst nach vorne. Wiederhole das Ganze mit dem linken Schienbein oben.";
+
+"exerciseDescription44" = "Lege dich auf den Boden mit den Armen an beiden Seite und den Handflächen nach unten. Hebe deine Brust zur Decke und lege deinen Kopf zurück, sodass dein Kopfscheitel leicht auf dem Boden aufsetzt. Hebe deine Beine in einen 45 Grad Winkel zum Boden.";
+
+"exerciseDescription45" = "Knie mit der Hüfte über deinen Knien, den Schienbeinen parallel zueinander und den Fußoberflächen auf dem Boden. Stelle deinen rechten Fuß nach rechts außen, sodass das Bein gestreckt ist und die Zehen nach rechts uns zum Boden zeigen. Lege deine rechte Handfläche auf deinen rechten Oberschenkel und strecke deinen linken Arm an der Seite deines linken Ohrs aus. Während du dich zur linken Seite beugst, lässt du deine rechte Hand zu deinem rechten Knöchel gleiten.  Wiederhole das Ganze auf der linken Seite.";
+
+"exerciseDescription46" = "Stelle dich hin mit den Füßen mindestens eine Beinlänge voneinander entfernt. Drehe deine Zehen nach außen, während du deine Knie beugst und die Knie über den Knöcheln lässt. Drücke deine inneren Knie nach hinten zu den kleinen Zehen, beuge deine Ellbogen auf jeder Seite nach außen und forme eine Kaktus-Form mit deinen Armen.";
+
+"exerciseDescription47" = "Beginne auf allen vieren mit gespreizten Fingern, den Handgelenken unter deinen Schultern und den Knien unter deiner Hüfte. Stütze dich in deine Finger und die Oberfläche deines linken Fußes, während du dein rechtes Bein vom Boden hebst und es hinter dir ausstreckst. Hebe deinen Bauch und deine vorderen Rippen in Richtung deines Rückens. Wiederhole das Ganze mit dem rechten Schienbein auf dem Boden und dem linken Bein angehoben.";
+
+"exerciseDescription48" = "Knie mit den Schienbeinen parallel zueinander, den Fußoberflächen auf dem Boden, der Hüfte über deinen Knien und den Schulter über der Hüfte. Hebe deine Brust zur Decke und lasse die Hüfte über deinen Knien, während du nach hinten an deine Fersen fasst. \n\n Lasse deine linke Hand an deiner linken Ferse, während du einatmest und strecke deinen rechten Arm zum Himmel. Atme aus, während du deine Brust nach links drehst. Nimm dann die rechte Hand wieder an die rechte Ferse und drehe deine Brust zum Himmel. \n\n Atme ein und strecke deinen linken Arm zum Himmel. Während du ausatmest, drehe deine Brust nach rechts. Nimm beide Hände wieder an die Fersen und wölbe deine Brust in Richtung Decke, bevor du dich auf deine Fersen setzt mit den Händen auf deinen Oberschenkeln, um dich aus der Position zu lösen.";
+
+"exerciseDescription49" = "Lege dich auf den Bauch und stütze dich auf deine Ellbogen, sodass deine Unterarme parallel zueinander sind und die Ellbogen schulterbreit geöffnet sind. Hebe deine linke Hand nach rechts mit der Handfläche nach unten, sodass dein linker Unterarm parallel zur Vorderseite deiner Matte ist. Beuge dein rechtes Knie und halte die Oberseite deines rechten Fußes in deiner rechten Hand mit der rechten Ferse zu deiner äußeren Hüfte zeigend. Halte die Ferse in deiner Hand an der Oberseite deines Fußes, während du deine rechten Fingerspitzen nach rechts drehst und sie dann zur rechten Ferse zeigen lässt. Beuge deinen rechten Ellbogen nach außen rechts, während du deine rechte Brust nach vorne ausrichtest. Wiederhole das Ganze auf der linken Seite.";
+
+"exerciseDescription50" = "Lege dich auf den Bauch mit deinem Kinn auf dem Boden und den Armen an beiden Seiten, die Handflächen schauen nach unten. Schlängle deine Arme ineinander unter deinem Oberkörper und verschlinge deine Hände ineinander. Hebe beide Beine vom Boden und strecke deine Zehen. \n\n Lasse beide Beine wieder auf den Boden sinken, mache die Hände auseinander und drehe die Handflächen nach unten. Hebe dein rechtes Bein in die Luft. Senke das rechte Bein ab und hebe das linke Bein an. Lasse das linke Bein wieder auf den Boden sinken.";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = "Stehe mit den Füßen zusammen, verlagere dein Gewicht auf deinen linken Fuß und bringe dein rechtes Knie zur Brust. Halte die Außenseite deines rechten Fußes in deiner linken Hand und lege ihn in die Beuge deiner linken Hüfte. Strecke beide Arme an den Seiten deiner Ohren aus. Wiederhole den Stand auf dem rechten Bein mit dem linken Knie gebeugt und dem linken Fuß in der Beuge der rechten Hüfte.";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = "Sitze mit den Beinen nach vorne ausgestreckt. Beuge dein linkes Knie und lege deinen linken Fuß an die Innenseite deines rechten Beins. Lege deine linke Handfläche hinter dich auf den Boden. Atme ein, während du deinen rechten Arm an der Seite deines Ohrs nach oben nimmst und deine Wirbelsäule lang machst. Atme aus, während du dich nach links drehst und den rechten Ellbogen an die Außenseite deines linken Oberschenkels klemmst. Wiederhole das Ganze mit dem rechten Knie gebeugt und drehe dich nach rechts.";
+
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = "Lege dich auf den Rücken, beuge deine Knie und halte die Außenseiten deiner Füße. Drücke deine Hände in deine Füße, um deine Knie zu deinen Achselhöhlen zu bringen und deine inneren Oberschenkel zu dehnen. Behalte den unteren Rücken so gut es geht auf dem Boden.";
+
+"exerciseDescription61" = "Sitze zwischen deinen Fersen mit den Knien zusammen und den Oberseiten deiner Füße auf dem Boden. Stelle deinen rechten Fuß vor dich auf den Boden und verschlinge deine Finger unter dem Hohlraum deines rechten Fußes. Strecke dein rechtes Bein in die Luft, während du deine Wirbelsäule lang machst und deine Brust zur Oberseite deines rechten Fußes hebst.";
+
+"exerciseDescription62" = "Beginne mit einem Ausfallschritt mit deinem linken Fuß vorne und deinen Fingerspitzen um deinen Fuß auf dem Boden. Stelle sicher, dass dein linkes Knie in einem 90 Grad Winkel gebeugt ist und sich über deinem Knöchel befindet und dass dein rechtes Bein nach hinten ausgestreckt ist mit dem Ballen deines rechten Fußes auf dem Boden. Hebe deinen Bauch von deinem linken Oberschenkel und führe deine Handflächen in eine betende Position vor deine Brust. Atme ein, während du deine Wirbelsäule lang machst und atme aus, während du dich nach links drehst und den rechten Ellbogen an die Außenseite deines linken Knies klemmst. Drücke deine linke Handfläche gegen die rechte, schaue nach oben über deine linke Schulter und drücke deine rechte Ferse in Richtung Himmel. Wiederhole das Ganze mit dem rechten Bein vorne und drehe dich nach rechts.";
+
+"exerciseDescription63" = "Stelle dich in einen Ausfallschritt mit dem rechten Knie in einem 90 Grad Winkel gebeugt über deinem Knöchel und deinem linken Bein nach hinten ausgestreckt mit dem Ballen deines linken Fußes auf dem Boden. Hebe deine Schultern über deine Hüfte, führe deine rechte Hüfte zurück mit den Händen an der Hüfte und richte die linke Hüfte nach vorne aus. Strecke deine Arme an den Seiten deiner Ohren aus. Wiederhole das Ganze mit dem linken Bein vorne.";
+
+"exerciseDescription64" = "Stelle dich in einen Ausfallschritt mit dem rechten Knie in einem 90 Grad Winkel gebeugt über deinem Knöchel und deinem linken Bein nach hinten ausgestreckt mit dem Ballen deines linken Fußes auf dem Boden . Hebe deine Schultern über deine Hüfte und kreuze die Finger hinter deinem Rücken. Beuge dich nach vorne an die Innenseite deines Beins, lasse den Kopfscheitel in Richtung Boden fallen und führe deine Handflächen weg von deinem unteren Rücken. Umarme die rechte Hüfte, während du deine linke Ferse in Richtung Decke drückst. Wiederhole das Ganze mit dem linken Bein vorne und den Händen andersherum verschlungen (bzw. mit dem anderen Zeigefinger und Daumen oben).";
+
+"exerciseDescription65" = "Lege dich auf den Bauch und lege deine Handflächen auf je eine Seite deiner Brust. Stütze dich auf deine Hände, um deinen Oberkörper vom Boden zu heben. Beuge deine Knie, strecke deine Zehen und wölbe deine Brust nach oben, sodass du deine Füße und die Oberseite deines Kopfes zusammenbringst.";
+
+"exerciseDescription66" = "Stehe mit deinen Füßen zusammen und hebe deinen rechten Arm nach vorne auf Schulterhöhe. Verlagere dein Gewicht auf deinen rechten Fuß, während du dein linkes Knie beugst, den linken Fuß in Richtung deines linken Gesäßknochens führst und die Innenseite deines linken Fußes in deiner linken Hand hältst. Nimm den linken Oberschenkel zurück, während du deine Brust nach vorne bringst und dein linkes Knie auf der Mittellinie deines Körpers umklammerst. Hebe deinen rechten Arm in Richtung Decke und hebe deine Brust von der Oberseite deines linken Oberschenkels. Wiederhole das Ganze auf dem linken Bein stehend.";
+
+"exerciseDescription67" = "Liege auf dem Rücken mit ausgestreckten Beinen auf dem Boden. Führe dein linkes Knie zu deiner Brust und verschränke deine Finger an der Außenseite deines Beins. Wiederhole das Ganze mit dem linken Bein ausgestreckt und dem rechten Knie gebeugt.";
+
+"exerciseDescription68" = "Beginne mit allen vieren auf dem Boden, deinen Handgelenken unter deinen Schultern, den Knien unter deiner Hüfte und den Zehen nach unten geklemmt. Wölbe deinen Rücken nach unten, während du einatmest. Während du ausatmest, halte deine Gesäßknochen angehoben, beuge deine Ellbogen und lasse deine Brust und dein Kinn in Richtung Boden fallen. Als Gegenposition kannst du auf deinem Rücken liegen und deine Knie zu deiner Brust ziehen, um den unteren Rücken zu entspannen.";
+
+"exerciseDescription69" = "Beginne mit einem Ausfallschritt mit deinem rechten Fuß vorne und deinen Fingerspitzen um deinen rechten Fuß auf dem Boden. Stelle sicher, dass dein rechtes Knie in einem 90 Grad Winkel gebeugt ist und sich über deinem Knöchel befindet. Senke dein linkes Knie und die Oberseite deines linken Fußes auf den Boden ab. Lege deine rechte Handfläche auf die Innenseite deines rechten Fußes und senke dann beide Ellbogen auf den Boden, sodass sie in einer Linie mit deiner rechten Ferse sind und deine Unterarme parallel zueinander sind. Umarme dein rechtes Knie in deiner rechten Schulter, mache deine Wirbelsäule lang und führe deine Brust und deinen Kopfscheitel nach vorne. Wiederhole das Ganze auf der linken Seite.";
+
+"exerciseDescription70" = "Liege auf dem Bauch mit deinen Armen an beiden Seiten. Hebe deine Arme vom Boden, drehe deine Handflächen nach außen und ziehe deine Daumen nach hinten. Hebe deine Brust, deinen Kopf und deine Beine vom Boden. Strecke deine Zehen und ziehe deine Füße nach hinten.";
+
+"exerciseDescription71" = "Beginne mit einem Ausfallschritt mit deinem rechten Fuß vorne und deinen Fingerspitzen um deinen rechten Fuß auf dem Boden. Stelle sicher, dass dein rechtes Knie in einem 90 Grad Winkel gebeugt ist und sich über deinem Knöchel befindet. Senke dein linkes Knie und die Oberseite deines linken Fußes auf den Boden ab. Führe deine Hände zu deinem rechten Oberschenkel, während du deine Brust anhebst und deine Schultern über deiner Hüfte ausrichtest. \n\n Während du einatmest, mache deine Wirbelsäule lang und drehe dich nach rechts, lege deine linke Handfläche an die Außenseite deines rechten Knies und führe deine rechte Hand an der Hinterseite deines linken Oberschenkels hinunter. Um die Drehung abzuschließen, schaue über deine rechte Schulter. \n\n Wiederhole das Ganze auf der linken Seite.";
+
+"exerciseDescription72" = "Beginne mit einem Ausfallschritt mit deinem rechten Fuß vorne und deinem rechten Knie über deinem Knöchel. Senke dein linkes Knie und die Oberseite deines linken Fußes auf den Boden hinter dir ab. Richte deine Hüfte aus, indem du deine rechte Hüfte nach hinten schiebst und deine linke Hüfte nach vorne zur Innenseite deines rechten Oberschenkels. Strecke deine Arme an den Seiten deiner Ohren aus, hebe deinen Bauch weg von der Oberseite deines rechten Oberschenkels und wölbe deine Brust zum Himmel. Schaue zwischen deine Handflächen.";
+
+"exerciseDescription73" = "Beginne auf allen vieren in der Position eines Bretts. Stelle dein linkes Knie hinter dein linkes Handgelenk und die Außenseite deines linken Fußes hinter dein rechtes Handgelenk. Strecke dein rechtes Bein mit den Zehen nach unten geklemmt hinter dir aus und ziehe das rechte Bein, soweit du kannst, nach hinten, bevor du das rechte Knie und die Oberseite des Fußes auf den Boden legst.  Hebe deine Schultern über deine Hüfte und stelle die Außenseite deines linken Fußes vor deine rechte Hüfte. Beuge dein rechtes Knie und halte den rechten Fuß in deiner rechten Hand, bringe den Fuß zu deiner äußeren, rechten Hüfte. Lasse den Fuß in deine rechte Armbeuge gleiten. Strecke deinen linken Arm an deinem Ohr aus und beuge den linken Ellbogen, sodass deine Fingerspitzen zum Boden zeigen. Verkreuze deine rechten und linken Fingerspitzen ineinander, während du deine Brust anhebst.";
+
+"exerciseDescription74" = "Lege dich auf den Rücken mit den Armen an beiden Seiten und den Fußsohlen hüftbreit auseinander. Die Außenseiten deiner Füße sollten parallel zueinander sein und deine Fingerspitzen in Richtung der Außenseiten deiner Fersen zeigen. Beuge deine Ellbogen und lege deine Handflächen über deine Schultern auf den Boden. Hebe dein Becken, deine Brust und deinen Kopf vom Boden. Drehe deine Oberschenkel nach innen, sodass die Außenseite deiner Oberschenkel nach innen windet. Bringe deine Brust durch deine Arme hindurch. \n\n Führe deine Füße zusammen und drehe dein rechtes Knie zur Brust, indem du dein Gewicht in deinen linken Fuß bringst. Strecke das rechte Bein gerade in die Luft. Führe den rechten Fuß zurück zum Boden und wiederhole das Ganze mit dem linken Bein angehoben.";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = "Beginne auf allen vieren in der Position eines Bretts. Stelle dein linkes Knie hinter dein linkes Handgelenk und stelle die Außenseite deines linken Fußes hinter dein rechtes Handgelenk. Strecke dein rechtes Bein mit den Zehen nach unten geklemmt hinter dir aus und ziehe das rechte Bein, soweit du kannst, nach hinten, bevor du das rechte Knie und die Oberseite des Fußes auf den Boden legst. Hebe deine Schultern über deine Hüfte, stelle die Außenseite deines linken Fußes vor deine rechte Hüfte und lege deine Handflächen an beide Seiten, während du deine hintere Wirbelsäule anhebst. Wiederhole das Ganze mit dem rechten Knie vor dir gebeugt.";
+
+"exerciseDescription77" = "Stehe mit deinen Füßen zusammen. Stelle deinen linken Fuß etwa eine Beinlänge nach hinten und winkle diesen Fuß um 30 Grad nach links außen. Atme ein, während du dich auf die linke Ferse verlagerst und deine Wirbelsäule lang machst. Atme aus, während du dich über dein rechtes Bein nach vorne beugst und deinen rechten Fuß mit deinen Händen umschließt. Wiederhole das Ganze mit dem linken Fuß vorne.";
+
+"exerciseDescription78" = "Beginne auf allen vieren in der Position eines Bretts. Stelle dein rechtes Knie direkt vor deine rechte Hüfte und deinen rechten Fuß hinter das linke Handgelenk, so nah an das Handgelenk wie möglich, während du das Gewicht gleichmäßig auf beide Seiten verteilst. Stelle dein linkes Knie hinter dein linkes Handgelenk und stelle die Außenseite deines linken Fußes hinter dein rechtes Handgelenk. Strecke dein linkes Bein mit den Zehen nach unten geklemmt hinter dir aus und ziehe dieses Bein, soweit du kannst, nach hinten, bevor du das linke Knie und die Oberseite des linken Fußes auf den Boden legst. Stelle sicher, dass dein linker, großer Zeh genau nach hinten zeigt und dein Gewicht mittig bleibt (bzw. lehne dich nicht zur rechten Seite), bevor du dich nach vorne über dein rechtes Schienbein legst. Wiederhole das Ganze mit dem linken Knie vorne.";
+
+"exerciseDescription79" = "Sitze mit den Beinen nach vorne ausgestreckt. Beuge dein rechtes Knie und lege die Außenseite deines Fußes in die linke Hüftbeuge. Beuge das linke Knie und kreuze das linke Schienbein über das rechte Schienbein, um deinen linken Fuß in die rechte Hüftbeuge zu legen. (Wenn diese Position für dich nicht erreichbar ist, riskiere NICHT die Gesundheit deiner Knie, indem du versuchst, sie zu erzwingen. Kreuze stattdessen einfach den linken Knöchel über den rechten.) \n\n Lege deine Handflächen an die Außenseiten deiner Oberschenkel auf den Boden, mehrere Zentimeter vor deine Hüfte. Während du ausatmest, ziehe deinen Bauchnabel zu deiner Wirbelsäule, stütze dich auf deine Fingerballen und hebe dein Becken und deine Oberschenkel vom Boden. Wiederhole das Ganze mit dem rechten Schienbein oder Knöchel auf dem linken.";
+
+"exerciseDescription80" = "Lege dich auf den Rücken mit den Armen an beiden Seiten und den Fußsohlen hüftbreit auseinander. Die Außenseiten deiner Füße sollten parallel zueinander sein und deine Fingerspitzen in Richtung der Außenseiten deiner Fersen zeigen. Hebe dein Becken vom Boden, bringe deine Oberarme unter dir zusammen und verschränke die Fingerspitzen auf dem Boden ineinander. Drücke dich in die Rückseiten deiner Arme, um deine Brust anzuheben. \n\n Führe deine Füße zusammen, drehe dein rechtes Knie zur Brust und strecke das rechte Bein gerade in die Luft. Führe den rechten Fuß zurück zum Boden und wiederhole das Ganze mit dem linken Bein angehoben.";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = "Stehe mit deinen Füßen hüftbreit auseinander. Verschränke deine Finger vor dir, drehe deine Handflächen, sodass sie nach außen schauen und strecke deine Arme an deinen Ohren entlang aus, die Handflächen schauen zur Decke. Wiederhole das Ganze mit den Händen andersherum verschlungen (bzw. mit dem anderen Zeigefinger und Daumen oben).";
+
+"exerciseDescription83" = "Beginne auf allen vieren in der Position eines Bretts. Lasse deine Schultern über deinen Handgelenken und stelle deine Füße nach hinten, sodass du dich in einer hohen Liegestützposition befindest. Nur deine Hände und deine Fußballen berühren den Boden. Stütze dich auf deine Handballen, hebe deinen Bauch zu deinem unteren Rücken und bringe die Fersen in Richtung Himmel. Drücke den Kopfscheitel nach vorne, um deinen Nacken lang zu machen. Passe auf, dass deine Hüfte nicht in der Luft baumelt; hebe dein Schambein stattdessen in Richtung Bauchnabel.";
+
+"exerciseDescription84" = "Lege dich auf den Rücken mit ausgestreckten Beinen, den Fersen auf dem Boden und den Zehen zur Decke gestreckt. Führe dein linkes Knie zur Brust, bringe deinen linken Arm an die Innenseite deines linken Beins und lege die ersten drei Finder deiner linken Hand um deinen linken, großen Zeh für die Yoga-Position des \"umklammerten Zehs\". Lasse deinen rechten Gesäßknochen auf dem Boden und drücke den rechten Oberschenkel auf den Boden, während du dein linkes Bein nach links zur Seite ausstreckst. Wiederhole die Haltung mit dem rechten, großen Zeh.";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = "Beginne auf allen vieren in der Position eines Bretts. Lasse deine Schultern über deinen Handgelenken, hebe dein rechtes Bein vom Boden und beuge dein rechtes Knie, als ob du mit deinem Fuß an der Decke stehen wolltest. Nimm deine linke Hand zurück, um die Oberseite deines rechten Fußes zu halten. Drücke deinen Fuß in deine Hand, während du deine Brust anhebst. Wiederhole das Ganze auf der zweiten Seite.";
+
+"exerciseDescription87" = "Nimm eine breitbeinige Stellung mit deinen Füßen parallel zueinander ein. Drehe deinen rechten Fuß um 90 Grad nach außen und beuge dein rechtes Knie in einen 90 Grad Winkel, sodass die Oberseite deines rechten Oberschenkels parallel zum Boden ist. Halte dein rechtes Knie über deinem rechten Knöchel und das linke Bein gestreckt mit den Zehen leicht nach innen gedreht. Lege deine linke Handfläche leicht auf deinen linken Oberschenkel und strecke deinen rechten Arm an der Seite deines Ohrs aus. Während du dich zu deinem linken Bein beugst, lasse deine linke Hand an deinem Bein hinab gleiten. Führe deine rechte Hüfte unter dich, während du dein rechtes Knie leicht zu deinem kleinen Zeh drückst. Wiederhole das Ganze auf der linken Seite.";
+
+"exerciseDescription88" = "Stehe nach vorne gebeugt und führe deine Brust nach vorne, während du deine Fingerspitzen unter deine Schultern auf den Boden legst. Verlagere dein Gewicht auf deinen linken Fuß, halte die Hüfte geradegerichtet und lasse dein rechtes Bein gestreckt hinter dich gleiten. Lasse deine rechte Handfläche auf dem Boden, während du deine Brust nach links drehst und deinen linken Arm in Richtung Himmel streckst. Schaue hoch zu deiner linken Hand.";
+
+"exerciseDescription89" = "Sitze mit den Beinen nach vorne ausgestreckt. Lege die Sohle deines linken Fußes an die Innenseite deines rechten Oberschenkels. Knicke deinen rechten Fuß und strecke deine Arme an den Seiten deiner Ohren aus, während du einatmest. Während du ausatmest, schlage dein rechtes Bein über, indem du dich an der Hüftbeuge beugst und nicht an der Taille. Achte darauf, deinen unteren Rücken nicht rund zu machen. Wiederhole das Ganze mit dem linken Bein gestreckt und dem rechten Knie gebeugt.";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = "Sitze mit den Beinen nach vorne ausgestreckt. Lege die Sohle deines linken Fußes an die Innenseite deines rechten Oberschenkels. Drehe deinen Oberkörper nach rechts, lege deinen linken Ellbogen auf den Boden an die Innenseite deine linken Knies und halte die Innenseite deines linken Fußes in deiner linken Hand. Strecke deinen rechten Arm am Ohr hoch und halte die Oberseite deines linken Fußes in deiner rechten Hand. Verankere deinen rechten Gesäßknochen auf dem Boden, während du deine Brust zum Himmel drehst. Wiederhole das Ganze mit dem linken Knie gebeugt, dem rechten Bein gestreckt und der Drehung über dem rechten Bein.";
+
+"exerciseDescription93" = "Stehe mit deinen Füßen zusammen. Stelle deinen rechten Fuß etwa eine Beinlänge nach hinten und winkle diesen Fuß um 30 Grad nach rechts außen. Lege deine Hände auf deine äußere Hüfte und atme ein, während du deine Wirbelsäule lang machst und deine Brust parallel zum Boden nach vorne führst. Atme aus, während du dich nach links drehst, deine rechte Handfläche an die Außenseite deines linken Fußes legst und den linken Arm in Richtung Decke streckst. Wiederhole das Ganze mit dem rechten Bein vorne und drehe dich zur rechten Seite.";
+
+"exerciseDescription94" = "Stehe nach vorne gebeugt, beuge deine Knie und lege deine Fingerspitzen zeltartig an je eine Seite deiner Füße auf den Boden. Setze den linken Fuß zurück und lasse dein rechtes Knie in einem 90 Grad Winkel gebeugt und mittig über deinem rechten Knöchel. Ziehe deine Brust nach vorne und drücke deine linke Ferse in Richtung Decke. Wiederhole das Ganze mit dem linken Knie vorne.";
+
+"exerciseDescription95" = "Stehe mit deinen Füßen hüftbreit auseinander. Lege deine linke Hand an deine linke Taille, verlagere dein Gewicht auf deinen rechten Fuß und hebe dein linkes Knie in Richtung Brust. Schlinge die ersten drei Finger deiner rechten Hand um den linken, großen Zeh und strecke dein linkes Bein nach rechts, während du deinen Oberkörper nach links drehst.";
+
+"exerciseDescription96" = "Liege auf dem Rücken mit ausgestreckten Armen in \"T\"–Form. Umarme deine Knie vor deiner Brust, halte sie zusammen und lege sie auf die linke Seite und schaue nach rechts. Bringe deine Knie zurück zur Mitte und deinen Hinterkopf auf den Boden, bevor du deine Knie nach rechts fallen lässt und nach links schaust.";
+
+"exerciseDescription97" = "Liege auf dem Rücken, bringe deine Fußsohlen zusammen und lasse deine Knie zu je einer Seite fallen. Halte deine Ellbogen über deinem Kopf fest.";
+
+"exerciseDescription98" = "Liege auf dem Rücken mit ausgestreckten Beinen und den Zehen zur Decke. Ziehe dein linkes Knie zur Brust, bringe deinen linken Arm an die Innenseite deines linken Beins und lege die drei ersten Finger der linken Hand um den linken, großen Zeh. Lasse deinen rechten Gesäßknochen auf dem Boden und drücke den rechten Oberschenkel auf den Boden, während du dein linkes Bein ausstreckst. Ziehe deinen linken Oberschenkel zu deinem Bauch. Wiederhole das Ganze auf der rechten Seite.";
+
+"exerciseDescription99" = "Sitze mit den Beinen nach vorne ausgestreckt, den Fersen auf dem Boden und den Zehen vom Himmel gerichtet. Während du einatmest, hebe deine Arme an den Seiten deiner Ohren nach oben und mache deine Wirbelsäule lang. Während du ausatmest, klappe an den Hüftbeugen nach vorne und ziehe deinen Bauch zu deinen Oberschenkeln. Halte deine Füße und beuge deine Ellbogen nach außen, um dich noch tiefer in die Vorbeuge zu hebeln, wenn du die Flexibilität hast.";
+
+"exerciseDescription100" = "Stehe groß mit deinen Füßen zusammen und deinen Händen an deiner Taille. Strecke deine rechten Zehen, während du dein rechtes Bein vor dich streckst und es so hoch wie möglich hebst, ohne deine Hüfte zu bewegen. Stelle deinen rechten Fuß wieder ab, verlagere dein Gewicht auf den rechten Fuß und wiederhole das Ganze mit dem linken Bein vor dir ausgestreckt.";
+
+"exerciseDescription101" = "Beginne in einer Brettposition – einer hohen Liegestützposition mit gestreckten Armen, den Schultern über den Handgelenken und den Fersen in Richtung Himmel. Verlagere dein Gewicht zur rechten Seite und rolle dich auf die Außenseite deines rechten Fußes. Lege den linken Fuß auf den rechten und platziere die linke Schulter über der rechten. Strecke deinen linken Arm in den Himmel. Ziehe deine Zehen in Richtung Kopf und drücke dich stark in deine Handballen deiner rechten Hand, besonders in deinen Zeigefinger und den Daumen. \n\n Beuge dein linkes Knie in Richtung deiner linken Schulter und lege die ersten drei Finger deiner linken Hand um deinen linken, großen Zeh in die Yoga-Position des \"umklammerten Zehs. \" Strecke dein linkes Bein in Richtung Himmel und lasse die linke Hüfte über der rechten Seite. \n\n Wiederhole das Ganze auf der linken Seite mit dem rechten Bein ausgestreckt.";
+
+"exerciseDescription102" = "Nimm einen bequemen Schneidersitz ein mit dem linken Bein oben. Strecke deine Arme an den Seiten deiner Ohren aus und beuge beide Ellbogen, sodass deine Fingerspitzen an deinem Rücken nach unten zeigen. Halte deinen rechten Ellbogen in deiner linken Hand, ziehe ihn leicht zu deinem linken und drücke die Hinterseite deines Kopfes gegen deinen rechten Arm. Strecke dann den linken Arm nach links aus und drehe den Daumen nach unten, indem du den linken Arm nach innen drehst. Beuge den linken Ellbogen hinter dir, sodass deine linken Fingerspitzen an deinem Rücken nach oben zeigen und der Ellbogen nach unten. Wenn möglich, führe deine Hände zusammen, indem du deine Fingerspitzen ineinander hakst. \n\n Wiederhole das Ganze mit dem rechten Bein oben und dem linken Arm oben.";
+
+"exerciseDescription103" = "Nimm einen bequemen Schneidersitz ein mit dem linken Bein oben. Lege deinen rechten Unterarm mit den Fingerspitzen nach rechts zeigend an deine rechte Seite. Lasse deinen linken Gesäßknochen auf dem Boden verankert, während du deinen linken Arm an deinem linken Ohr ausstreckst. \n\n Wiederhole das Ganze mit dem rechten Bein oben und dem rechten Arm an der Seite deines Ohrs ausgestreckt.";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = "Stehe mit deinen Füßen nicht weiter als hüftbreit auseinander. Atme ein, während du deine Arme an den Seiten deiner Ohren ausstreckst. Atme aus, während du deine Brust zum Himmel wölbst und dich zurücklehnst. Lasse die Innenseiten deiner Füße fest auf dem Boden und hebe die Innenseiten deiner Oberschenkel in den Raum hinter dich. Mache die Vorderseite deiner Wirbelsäule mit jedem folgenden Einatmen lang und ziehe deine vorderen Rippen bei jedem Ausatmen nach hinten. Verlagere dein Becken in Richtung Boden, während sich deine Brust nach oben wölbt.";
+
+"exerciseDescription106" = "Stehe mit deinen Füßen zusammen. Verlagere dein Gewicht auf deinen linken Fuß, während du dein rechtes Knie zu deiner Brust ziehst. Führe deinen rechten Arm durch die Innenseite deines rechten Beins und lege die ersten drei Finger um deinen großen Zeh in die Yoga-Position des \"umklammerten Zehs. \" Lasse die Hüfte gerade und strecke dein rechtes Bein um 45 Grad zur rechten Seite. \n\n Wiederhole den Stand auf dem rechten Bein mit dem linken Bein ausgestreckt.";
+
+"exerciseDescription107" = "Liege auf dem Baum mit der Stirn auf dem Boden und deinen Fingern hinter deinem Rücken verkreuzt. Strecke deine Zehen und hebe deine Brust und deinen Kopf vom Boden. Hebe deine verkreuzten Hände und führe sie hinter dich. Löse dein Kinn von deiner Brust und konzentriere deinen Blick auf deine Nasenspitze. \n\n Wiederhole das Ganze mit den Händen andersherum verschlungen (bzw. mit dem anderen Zeigefinger und Daumen oben).";
+
+"exerciseDescription108" = "Sitze groß mit den Beinen nach vorne ausgestreckt, die Fersen auf dem Boden und die Füße geknickt. Lege deine Ellbogen unter deine Schultern und deine Hände mit Handflächen nach oben an deine Seiten. Atme ein, während du deine Wirbelsäule lang machst und atme aus, während du deinen Bauchnabel zu deiner Wirbelsäule ziehst.";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "Beginne auf allen vieren in der Position eines Bretts mit deinen Schultern über deinen Handgelenken und deiner Hüfte über deinen Knien. Stelle deinen linken Fuß nach hinten und die Ferse auf den Boden, sodass die Zehen nach links zeigen. Drehe den rechten Fuß hinter dich, sodass die Oberseite auf dem Boden liegt und die Zehen nach rechts zeigen. Hebe deine linke Schulter über die rechte, während du deinen linken Arm zum Himmel streckst. Wiederhole das Ganze mit dem rechten Bein ausgestreckt und dem linken Schienbein auf dem Boden.";
+
+"exerciseDescription111" = "Stehe mit den Füßen mindestens eine Beinlänge auseinander und den Zehen leicht nach innen gedreht. Beuge dich an den Hüftbeugen, führe deine Brust nach vorne, sodass du auf den Boden schaust und lege deine Handflächen unter deine Schultern auf den Boden. Während du den Kopfscheitel zum Boden fallen lässt, senke deine Ellbogen zum Boden ab und versuche, sie schulterbreit auseinander zu halten.";
+
+"exerciseDescription112" = "Stehe mit deinen Füßen etwas weiter als hüftbreit auseinander, die Zehen zeigen nach außen. Beuge deine Knie und senke deinen Sitz zwischen deine Fersen in Richtung Boden ab. Führe deine Handflächen vor deiner Brust in einer betenden Position zusammen und lege deine Ellbogen auf die Innenseiten deiner Oberschenkel. Drücke deine Ellbogen gegen die Innenseiten deiner Oberschenkel, während du deine Oberschenkel gegen deine Ellbogen drückst. Mache deine Wirbelsäule lang, sodass sich der Kopfscheitel anhebt und sich das Schambein senkt. Abschließend kannst du die Außenseiten deiner Füße parallel zueinander aufstellen.";
+
+"exerciseDescription113" = "Sitze mit deinen Beinen zu beiden Seiten ausgestreckt und den Zehen zum Himmel gerichtet. Atme ein, während du deine Wirbelsäule lang machst und atme aus, während du an der Hüfte einklappst und deine Hände nach vorne wandern. Lasse die Mitte deiner Fersen auf dem Boden und kippe das Beckengelenk nach vorne, während du dich beugst.";
+
+"exerciseDescription114" = "Stehe mit den Füßen mindestens eine Beinlänge auseinander und den Zehen leicht nach innen gedreht. Verkreuze deine Finger hinter dir. Beuge dich an den Hüftbeugen nach vorne, lasse den Kopfscheitel zwischen deine Füße in Richtung Boden fallen und bringe die verkreuzten Hände in Richtung Boden. \n\n Wiederhole das Ganze den Händen andersherum verschlungen (bzw. mit dem anderen Zeigefinger und Daumen oben).";
+
+"exerciseDescription115" = "Sitze mit deinen Beinen zu beiden Seiten ausgestreckt und den Zehen zum Himmel gerichtet. Drehe deinen Oberkörper nach rechts, lege deinen linken Ellbogen an die Innenseite deines linken Beins auf den Boden und halte die Innenseite deines linken Fußes in deiner linken Hand. Strecke deinen rechten Arm an der Seite deines Ohrs aus und halte die Oberseite des linken Fußes in deiner rechten Hand. Verankere deinen rechten Gesäßknochen und das rechte Bein auf dem Boden, während du deine Brust zum Himmel drehst. Wiederhole die seitliche Drehung über dem rechten Bein.";
+
+"exerciseDescription116" = "Stehe mit deinen Füßen etwas weiter als hüftbreit auseinander, die Zehen zeigen nach außen. Beuge deine Knie und senke deinen Sitz zwischen deine Fersen in Richtung Boden ab. Führe deine Handflächen vor deiner Brust in einer betenden Position zusammen und lege deine Ellbogen auf die Innenseiten deiner Oberschenkel. \n\n Atme ein, während du deine Wirbelsäule lang machst und atme aus, während du dich nach links drehst und die Arme weit öffnest. Drehe die Daumen nach unten, um beide Arme nach innen zu drehen. Beuge deinen linken Ellbogen hinter deinem Rücken und den rechten Ellbogen um die Außenseite deines rechten Schienbeins. Wenn möglich, verkreuze die Fingerspitzen an der Außenseite deiner rechten Hüfte. \n\n Wiederhole das Ganze mit der Drehung nach rechts und mit den Armen um das linke Bein geschlungen.";
+
+"exerciseDescription117" = "Beginne auf allen vieren in der Position eines Bretts. Führe deine großen Zehen zusammen und nimm deine Knie breiter als deine Hüften auseinander. Laufe mit deinen Handflächen nach vorne, lege deinen Oberkörper zwischen deine Beine und lege deine Stirn auf dem Boden ab.";
+
+"exerciseDescription118" = "Stehe mit den Füßen mindestens eine Beinlänge auseinander und den Zehen leicht nach innen gedreht. Beuge dich an den Hüftbeugen, führe deine Brust nach vorne, sodass du auf den Boden schaust und lege deine Handflächen unter deine Schultern auf den Boden. Während du einatmest, mache deine Wirbelsäule lang, sodass sich dein Kopfscheitel von deiner Hüfte wegbewegt. Während du ausatmest, drehe dich nach links und strecke deinen linken Arm zum Himmel. \n\n Führe die linke Handfläche zurück unter deine linke Schulter auf den Boden. Atme ein, während du deine Wirbelsäule lang machst und atme aus, während du dich nach rechts drehst und den rechten Arm zum Himmel streckst.";
+
+"exerciseDescription119" = "Stehe mit den Füßen mindestens eine Beinlänge auseinander und den Zehen leicht nach innen gedreht. Beuge dich an den Hüftbeugen, führe deine Brust nach vorne, sodass du auf den Boden schaust und lege deine Handflächen unter deine Schultern auf den Boden. Wandere mit deinen Händen nach rechts und halte die Außenseite deines rechten Knöchels, während du das Kinn zum rechten Schienbein führst. Wandere mit den Händen zurück zur Mitte und dann nach links und halte die Außenseite des linken Knöchels, während du dein Kinn zum linken Schienbein führst.";
+
+"exerciseDescription120" = "Lege dich auf den Rücken. Strecke deinen linken Arm an der Seite deines linken Ohrs aus, während du dich auf deine linke Seite rollst. Beuge deinen linken Ellbogen und lege deine Seite deines Kopfes auf deine linke Handfläche. Beuge dein rechtes Knie zu deiner rechten Schulter und lege die ersten drei Finger deiner rechten Hand um deinen rechten, großen Zeh. Strecke dein rechtes Bein, soweit du kannst, aus, lasse deine linke Seite auf dem Boden und umarme deinen rechten Gesäßknochen in Richtung der Innenseite deines linken Oberschenkels. \n\n Wiederhole die Lage auf der rechten Seite und halte deinen linken, großen Zeh.";
+
+"exerciseDescription121" = "Sitze mit den Fußsohlen vor deinem Becken zusammen und den Knien auf je einer Seite. Lege die ersten drei Finger beider Hände um beide großen Zehen. Lehne dich zurück, sodass sich dein Gewicht auf deine Gesäßknochen verlagert. Lasse die Wirbelsäule lang, die Knie gebeugt, führe die Füße auseinander und hebe sie vom Boden, sodass du auf deinen Gesäßknochen balancierst. Strecke die Beine langsam zu beiden Seiten aus, während du deine Brust anhebst.";
+
+"exerciseDescription122" = "Nimm eine breitbeinige Stellung mit deinen Füßen parallel zueinander ein. Drehe deinen rechten Fuß um 90 Grad nach außen und beuge dein rechtes Knie in einen 90 Grad Winkel, sodass die Oberseite deines rechten Oberschenkels parallel zum Boden ist. Halte dein rechtes Knie über deinem rechten Knöchel und das linke Bein gestreckt mit den Zehen leicht nach innen gedreht. Halte deine Schultern in einer Linie über deiner Hüfte, während du deine Arme nach rechts und links ausstreckst und über deine rechte Handfläche schaust. \n\n Wiederhole das Ganze mit dem linken Knie gebeugt und dem rechten Bein gestreckt und schaue über deine linke Handfläche.";
+
+"exerciseDescription123" = "Stehe mit den großen Zehen zusammen und den Außenseiten der Füße parallel zueinander. Führe deine Zeigefinger zusammen und verkreuze alle anderen Finger vor deiner Brust. Während du einatmest, halte deine Hände verschlungen und hebe deine Arme über deinen Kopf. Während du ausatmest, beuge dich nach links. Verankere deine rechte Ferse im Boden und hebe die unteren Rippen der linken Seite zu den oberen Rippen der rechten Seite. \n\n Während du einatmest, komme zurück zur Mitte mit den Händen über deinem Kopf verschränkt. Beuge dich beim Ausatmen auf die rechte Seite.";
+
+"exerciseDescription124" = "Beginne in einem nach vorne gebeugten Stand mit den großen Zehen zusammen, den Außenseiten deiner Füße parallel zueinander und deinen Handflächen unter deinen Schultern auf dem Boden. Verlagere den Großteil deines Gewichts auf deinen rechten Fuß, während du mit dem linken Fuß einen Schritt zurück machst und den linken, großen Zeh leicht auf den Boden auflegst. Lege deine rechte Handfläche an deine rechte Wade und lasse das linke Bein in Richtung Himmel gleiten. Lasse die linke Hüfte auf der Höhe der rechten Hüfte und hebe die rechte Hüfte soweit du kannst an, während du sie zur Mitte hindrehst. Drücke die rechte Handfläche nach vorne gegen deine rechte Wade, um dein Kinn zu deinem Schienbein anzuheben. \n\n Wiederhole den Stand auf dem linken Bein mit dem rechten Bein ausgestreckt.";
+
+"exerciseDescription125" = "Beginne in einem nach vorne gebeugten Stand mit den großen Zehen zusammen und den Außenseiten deiner Füße parallel zueinander. Atme ein, um deine Wirbelsäule lang zu machen und führe deine Brust nach vorne, während du deine Fingerspitzen zeltartig auf den Boden legst. Atme aus, während du dich nach vorne beugst und deine Arme um die Außenseiten deiner Beine legst, um deine Waden zu halten. Drücke deine Handflächen gegen deine Waden, um deine Stirn in Richtung deiner Schienbeine anzuheben. Drücke deine Fersen gegen den Boden und hebe deine Gesäßknochen, während du die Innenseiten deiner Oberschenkel zu den Hinterseiten deiner Beine drehst. Passe auf, dass du den unteren Rücken nicht rund machst. Klappe stattdessen an den Hüftbeugen ein und ziehe deinen Bauch zu den Oberseiten deiner Oberschenkel.";
+
+"exerciseDescription126" = "Stehe mit deinen Füßen zusammen. Verlagere dein Gewicht auf deinen linken Fuß, während du dein rechtes Knie zur Brust führst.  Führe deinen rechten Arm durch die Innenseite des rechten Beins und lege die ersten drei Finger um den großen Zeh in die Yoga-Position des \"umklammerten Zehs. \" Stehe groß, drücke die linke Ferse gegen den Boden und hebe den Kopfscheitel in Richtung Decke. Strecke das rechte Bein vor dir aus und stecke den rechten Arm vorsichtig nach hinten an deinen Körper, sodass deine Schultern über deiner Hüfte bleiben.";
+
+"exerciseDescription127" = "Stehe mit den großen Zehen zusammen und den Außenseiten der Füße parallel zueinander. Verkreuze deine Finger hinter deinem Rücken. Atme ein, um deine Wirbelsäule lang zu machen und atme aus, um dich an den Hüftbeugen nach vorne zu klappen, deinen Kopfscheitel in Richtung Boden fallen zu lassen und deine verkreuzten Hände vor dich in Richtung Boden zu führen.";
+
+"exerciseDescription128" = "Nimm eine breitbeinige Stellung mit deinen Füßen parallel zueinander ein. Drehe deinen rechten Fuß um 90 Grad nach außen. Hebe die linke Ferse, drehe dich auf dem linken Fußballen und drehe die Ferse nach links außen, bevor du sie auf den Boden stellst. Deine Brust und deine linke Hüfte sollten nun in dieselbe Richtung wie dein rechter Fuß zeigen. Führe deine Hände zu den Außenseiten deiner Hüfte und drehe die linke Hüfte nach vorne, während du die rechte Hüfte nach hinten führst. Beuge dein rechtes Knie, sodass es über dem Knöchel steht. Strecke deine Arme an den Seiten deiner Ohren aus und hebe deine Brust. Drücke dich in deine linke Ferse, während du das rechte Knie mittig über dem Knöchel hältst. \n\n Wiederhole das Ganze mit dem linken Fuß vorne.";
+
+"exerciseDescription129" = "Stehe mit deinen Füßen zusammen und hebe deine Arme an den Seiten deiner Ohren nach oben. Lasse dein rechtes Bein gestreckt und deine Brust angehoben und stelle den linken Fuß einen Schritt zurück, sodass der Fußballen leicht auf dem Boden aufliegt. Verlagere dein Gewicht langsam auf den rechten Fuß, knicke an der rechten Hüftbeuge nach vorne und führe deine Brust nach vorne, während du das linke Bein hinter dich gleiten lässt. Drücke deine äußeren Hüften zueinander und hebe deinen Bauch/deine vorderen Rippen in Richtung Rücken. \n\n Wiederhole das Ganze und balanciere auf dem linken Bein mit dem rechten Bein hinter dir ausgestreckt.";
+
+"exerciseDescription130" = "Stehe mit den großen Zehen zusammen und den Außenseiten der Füße parallel zueinander. Während du einatmest, hebe deinen rechten Arm an der Seite deines Ohrs nach oben. Während du ausatmest, beuge dich zur linken Seite und lasse deine linke Hand an der Außenseite des linken Beins hinab gleiten. Drücke dich in deine rechte Ferse und hebe deine linke Taille. \n\n Wiederhole das Ganze mit der Drehung nach rechts.";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = "Sitze mit den Beinen nach vorne ausgestreckt, die Handflächen sind hinter dir abgelegt und die Fingerspitzen schauen nach vorne. Strecke deine Zehen, stütze dich auf deine Handballen und hebe deine Hüfte vom Boden. Ziehe deine Schulterblätter zusammen und lasse sie an deinem Rücken hinab gleiten, während du deine Brust anhebst. Drehe die Innenseiten deiner Oberschenkel zueinander und ziehe deine großen Zehen zum Boden. Wenn deine Halswirbelsäule gesund ist, ziehe deinen Kopf leicht nach hinten, sodass die Schädelbasis über den Schulterblättern aufliegt.";
+
+"exerciseDescription133" = "Stehe mit deinen Füßen zusammen. Verlagere dein Gewicht auf deinen rechten Fuß und führe dein linkes Knie zu deiner Brust. Halte die Wölbung des linken Fußes in beiden Händen. Strecke das linke Bein aus, während du dich darüber beugst und deine Stirn in Richtung Schienbein führst. \n\n Wiederhole das Ganze und stehe auf dem linken Bein und halte den rechten Fuß.";
+
+"exerciseDescription134" = "Beginne in einem nach vorne gebeugten Stand. Beuge beide Knie, lege deine rechte Hand unter deine Brust auf den Boden und deine linke Hand auf deine linke Hüfte. Atme ein, während du deine Wirbelsäule lang machst. Atme aus, während du dich nach links drehst, nur das linke Bein streckst und den linken Arm in Richtung Himmel führst. Lasse die Seiten deines Nackens lang, während du zu deiner linken Hand nach oben schaust. \n\n Komme zurück in den nach vorne gebeugten Stand. Beuge beide Knie, lege deine linke Hand unter deine Brust auf den Boden und deine rechte Hand auf deine rechte Hüfte. Atme ein, während du deine Wirbelsäule lang machst. Atme aus, während du dich nach rechts drehst, nur das rechte Bein ausstreckst und den rechten Arm zum Himmel streckst. Lasse die Seiten deines Nackens lang, während du zu deiner rechten Hand nach oben schaust.";
+
+"exerciseDescription135" = "Stehe mit den großen Zehen zusammen und den Außenseiten der Füße parallel zueinander. Lege deine Handflächen auf deine Gesäßknochen, sodass die Fingerspitzen in Richtung deiner Fersen zeigen. Während du einatmest, mache deine Wirbelsäule lang. Während du ausatmest, benutze deine Hände, um deine Gesäßknochen nach unten zu deinen Fersen zu drücken und wölbe deine Brust zur Decke. Ziehe deine Schulterblätter zusammen und an deinem Rücken hinab, indem du die Ellbogen zueinander ziehst.";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = "Lege dich mit gebeugten Knien auf den Rücken, den Füße hüftbreit auseinander und den Außenseiten deiner Füße parallel zueinander. Strecke deine Arme an den Seiten aus und positioniere deine Füße so, dass deine Fingerspitzen zu den Seiten deiner Fersen schauen. Hebe deine Arme zur Decke und knicke deine Handgelenke. Beuge deine Ellbogen und lege deine Handflächen auf deine Schultern, sodass die Fingerspitzen zu den Schultern zeigen. Drücke dich in die Innenseiten deiner Hände und die Innenseiten deiner Fersen, während du dein Becken, deine Brust und deinen Kopf vom Boden hebst. Drehe die Außenseiten deiner Oberschenkel zu den Innenseiten deiner Oberschenkel und drücke deine Brust durch deine Arme. Passe auf, dass deine Füße sich nicht weiter als deine Hüften auseinander bewegen. \n\n Zum Lösen ziehe dein Kinn zu deiner Brust und deine Gesäßknochen in Richtung deiner Fersen, während du deinen Rücken zurück auf den Boden senkst.";

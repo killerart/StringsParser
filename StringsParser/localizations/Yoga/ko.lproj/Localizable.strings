@@ -1,0 +1,906 @@
+/*
+ Localizable.strings
+ Yoga
+ 
+ Created by Alex Overseer on 4/4/16.
+ Copyright © 2016 SOFTINTERCOM. All rights reserved.
+ */
+
+//Intro
+
+"Choose Your Goals" = "목표 선택";
+"Increase Flexibility" = "유연성 향상";
+"Get Toned" = "몸매 가꾸기";
+"Lose Weight" = "체중 감량";
+"Reduce Stress" = "스트레스 줄이기";
+"Continue" = "계속하기";
+"Yearly" = "매년";
+
+"Enter Your Parameters" = "매개 변수 입력";
+"Height" = "신장";
+"Current weight" = "현재 몸무게";
+"Target weight" = "목표 몸무게";
+"Pick Your Height" = "신장 선택";
+"Pick Your Weight" = "몸무게 선택";
+"Pick Your Target Weight" = "목표 몸무게 선택";
+"lbs" = "lbs";
+"kg" = "kg";
+"ft, in" = "ft, in"; //feet, inch
+"cm" = "cm"; //centimeter
+"Save" = "저장";
+
+"Join Millions\nof happy users" = "수백만 명의 만족한\n사용자 가입";
+"No Annoying Ads" = "광고 없음";
+"Not sure yet?" = "아직 확실하지 않습니까?";
+"Enable free trial" = "무료 평가판 사용";
+"Discount %d%%" = "%d%% 할인"; //example Discount 60%
+"Just Now! Limited Offer!" = "바로 지금! 한정된 혜택!";
+"Join with our best offer" = "최고 혜택으로 가입하세요";
+"Weekly plan" = "주간 계획";
+"Monthly plan" = "월간 계획";
+
+"Not now" = "나중에";
+"Save %d%%" = "%d%% 절약"; //Example: Save 60%
+"year\nBilled annually" = "년\n연간 청구"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "무료 7일\n평가판 기간 후";
+"healthAppPermisionKey" = "앱에서 건강 앱에 데이터를 작성할 수 없습니다. 건강 앱에서 사용하도록 설정할 수 있습니다";
+"Open" = "열다";
+
+
+//Presentation
+
+"Balance Flexibility" = "균형 유연성";
+"100+ Poses" = "100+ 포즈";
+"19 Classes" = "19 클래스";
+"Tons of Classes" = "다수의 클래스";
+"Anywhere Anytime" = "언제 어디서나";
+"Nutrition Plans" = "영양 계획";
+
+
+
+//Buttons keys
+"backButtonKey" = " 뒤로";
+"doneButtonKey" = "완료";
+"editButtonKey" = "편집";
+"cancelButtonKey" = "취소";
+"yesButtonKey" = "예";
+"startButtonKey" = "시작하기";
+"skipButtonKey" = "넘기기";
+
+//MainScreenViewController
+"posesNameKey" = "동작";
+"posesDescriptionKey" = "원하는 때 언제 어디서나 자유롭게 연습.";
+
+"classesNameKey" = "수업";
+"classesDescriptionKey" = "유연성, 체력, 균형에 초점. 선호하는 수업 찾기.";
+
+"moreNameKey" = "더 보기";
+"moreDescriptionKey" = "VGFIT 커뮤니티에 가입. 더 많은 운동 가져오기.";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "운동 검색";
+"noResultsLabelKey" = "결과가 없습니다 ";
+
+//ClassesViewController
+"classBalanceKey" = "균형";
+"classBalanceDescriptionKey" = "균형을 향상시키도록 초점을 맞춘 다른 요가 스타일로 조합되었습니다.";
+
+"classStrengthKey" = "체력";
+"classStrengthDescriptionKey" = "체력을 단련하는데 도와줄 파워 요가 포즈의 조합.";
+
+"classFlexibilityKey" = "유연성";
+"classFlexibilityDescriptionKey" = "호흡 방법, 근육 회복과 신체의 유연성에 초점.";
+
+//LevelViewController
+"levelBegginerKey" = "초급";
+"levelBegginerTitleKey" = "가벼운 운동으로 시작합시다";
+"levelBegginerDescriptionKey" = "확고한 기초를 만들어 체력과 지구력을 단련하는데 초점.";
+
+"levelIntermediateKey" = "중급";
+"levelIntermediateTitleKey" = "더 어려운 운동 단계로";
+"levelIntermediateDescriptionKey" = "많은 연습과 이전에 요가 경험이 있는 분을 위한 단계.";
+
+"levelAdvancedKey" = "고급";
+"levelAdvancedTitleKey" = "어려운 운동";
+"levelAdvancedDescriptionKey" = "전념하고 매우 헌신적으로 많은 연습에 참여하는 분을 위한 단계.";
+
+//DifficultyViewController
+"secondSideKey" = "다른 측면";
+"minutesKey" = "분";
+"posesKey" = "동작";
+
+//Error messages
+"downloadErrorKey" = "다운로드 오류";
+"downloadCompleteKey" = "다운로드 완료.";
+"internetConnectionKey" = "인터넷 연결";
+"internetConnectionLostKey" = "인터넷 연결이 끊어졌습니다.";
+"videoNotFoundKey" = "비디오를 찾을 수 없습니다";
+"videoNotFoundDescriptionKey" = "계속하시겠습니까? \n예를 누르고 다시 다운로드를 시도하세요. 뒤로 가려면 취소를 누르세요.";
+
+"smtWentWrongKey" = "문제가 발생했습니다.";
+"downloadErrorNoConnectionKey" = "다운로드할 수 없습니다. 인터넷 Wi-Fi 또는 휴대폰 연결을 확인하세요!";
+"playerNoInternetConnectivityKey" = "다운로드할 수 없습니다. 인터넷 Wi-Fi 또는 휴대폰 연결을 확인하세요!\n넘기려면 예를 누르세요. 뒤로 가려면 취소를 누르세요.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "비디오 다운로드 중";
+"downloadOneVideoKey" = "비디오 다운로드 중";
+
+//SecondPlayerViewController
+"previewKey" = "미리보기";
+"secondsKey" = "초";
+"completedKey" = "완료";
+"playerCurrentExerciseKey" = "운동명:";
+"playerNextExerciseKey" = "다음:";
+
+//MoreViewController
+"moreProfileTitleKey" = "프로필\n( 요가 내역 )";
+"moreProfileDescriptionKey" = "수업 내역 및 다음 계획을 저장할 수 있습니다.";
+
+"moreAppsTitleKey" = "다른\nVGFIT 앱";
+"moreAppsDescriptionKey" = " VGFIT에서 새로운 앱을 발견하고 운동 목표를 달성하세요.";
+
+"moreSocialTitleKey" = "VGFIT\n소셜 미디어 ";
+"moreSocialDescriptionKey" = "동기부여를 얻고 VGFIT 커뮤니티에 가입해 친구와 공유하세요.";
+
+"moreSettingsTitleKey" = "설정";
+"moreSettingsDescriptionKey" = "최상의 경험을 제공하기 위한 복합적 설정.";
+
+"moreRateUsTitleKey" = "평가하기";
+
+"historyTitleKey" = "기록";
+"historyNoExerciseKey" = "더 연습이 아직 완료되지 않았습니다";
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "6팩 복근";
+"otherAppFitnessAndBodyBuildingKey" = "피트니스와 보디빌딩";
+"otherAppFemaleFitnessKey" = "여성 피트니스";
+"otherAppGoPedometerKey" = "고 만보기";
+"otherAppSmartCycleAlarmProKey" = "스마트 사이클 알람 프로";
+"otherAppTimerKey" = "타이머 프로";
+"otherApp7minKey" = "7 분";
+"Water Reminder" = "물 알림";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "전체 미리보기 ";
+"settingsPreviewShortKey" = "짧은 미리보기";
+"settingsPreviewNoneKey" = "미리보기 없음 ";
+"settingsbreathCycleLenghtKey" = "호흡 주기 길이";
+
+//Speech to Text messages
+
+"beginKey" = "시작";
+"xMoreSeconds" = "%@ 초 더 ";
+"halfWayThereKey" = "절반 이상 왔어요";
+
+//Rate Us messages
+
+"Love our %@ app?" = "저희 %@ 앱을 사랑하나요?";
+"Your feedback will help us to get better" = "귀하의 의견은 저희가 더 나아질 수 있도록 도와줍니다";
+"Oh Dear!" = "오~!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "앱 개선을 위한 아이디어를 제공해 주신다면 정말 감사하겠습니다. 감사합니다!";
+
+"5-Stars" = "별5개 ";
+"To improve the app, please Leave a Rating or Review." = "앱 개선을 위해 평점이나 리뷰를 남겨주세요.";
+
+"Rate Us" = "평가하기";
+"Email Us" = "이메일 보내기";
+"Not now" = "나중에";
+
+//Reminder
+
+"Reminder" = "알림";
+"Edit notification permission in IOS settings" = "IOS 설정에서 알림 권한 수정";
+"Daily reminder" = "매일 알림";
+"Frequency" = "빈도수";
+"It's time to workout!" = "운동할 시간입니다!";
+"After %ld days of inactivity" = "비활동 %ld 일 후";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "이런! 몇일간 운동하지 않았네요, 돌아와서 운동해요!";
+"Days" = "일";
+
+//Audio Player
+
+"Voice Guide" = "음성안내";
+"Background Music" = "배경음악";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "요가 - 포즈 & 클래스";
+"Upgrade" = "업그레이드";
+"Buy" = "구매";
+"Restore Purchases" = "구매 복원";
+"Premium" = "프리미엄";
+"Nutrition" = "영양물 섭취";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "최고의 코치에 의해 설계된 새로운 모든 플랜 잠금해제. 더 쉽게 목표를 달성하세요.";
+"Ads free experience" = "광고 무료 체험";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "광고 모두 제거. 광고없이 즐겁게 요가를 즐기세요.";
+"Unlock all music" = "모든 음악 잠금해제";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "연습을 더 심화할 수 있는 전용 오디오를 즐기세요. \n+놓치지 않도록 특별한 알림음을 선택하세요.";
+"Yoga Classes" = "요가 클래스";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "긍정적인 운동과 동기부여로 좋은 몸매를 위한 모든 레벨에 맞는 10가지 새로운 클래스 \n+체중 감량을 위한 균형잡힌 영양계획.";
+
+//Select Sound
+
+"Sounds" = "소리";
+"Sound" = "소리";
+
+"Default" = "기본값";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "빠른 요가 교정";
+"Quick Yoga Fix_details" = "바쁜 하루에 기초와 활력의 반복으로 요가를 하세요.";
+
+"Getting Toned" = "탄력 만들기";
+"Getting Toned_details" = "팔, 어깨, 중심, 둔근 및 다리를 포함한 주요 부위의 근육 탄력을 높이세요.";
+
+"Morning Yoga" = "아침 요가";
+"Morning Yoga_details" = "모든 방향으로 척추의 움직임을 중점으로 강력한 서 있는 자세를 취하며 하루를 상쾌한 요가로 시작하세요.";
+
+"Daily Yoga for ABS" = "복근을 위한 매일 요가";
+"Daily Yoga for ABS_details" = "탄탄한 깊은 복근 만들기 목표.";
+
+"Yoga for Runners" = "달리는 사람을 위한 요가";
+"Yoga for Runners_details" = "요가는 달리는 사람들이 운동 성과를 높이고 부상을 예방하도록 균형, 유연성, 체력 및 명상 훈련의 독특한 조합을 제공합니다. 교차 훈련 반복으로 더 똑똑하게 달리세요.";
+
+"Boost Your Energy" = "에너지 충전";
+"Boost Your Energy_details" = "심신을 북돋을 수 있도록 설계된 이 반복으로 재충전하세요.";
+
+"Deep Stretching Exercises" = "심화 스트레칭 운동";
+"Deep Stretching Exercises_details" = "이러한 요가 스트레칭으로 피곤한 근육을 회복, 활동 범위를 개선하고 혈액순환을 촉진하세요.";
+
+"Improve Your Balance" = "균형 개선";
+"Improve Your Balance_details" = "도전적인 균형 자세의 반복으로 균형감각, 반응 시간, 자세 및 신체지각을 향상시키세요.";
+
+"Challenge Your Flexibility" = "유연성 도전";
+"Challenge Your Flexibility_details" = "집중 스트레칭으로 유연성을 높이고 고급 요가 자세에 적용하세요.";
+
+"Core Muscle Sculptor" = "코어 근육 조각가";
+"Core Muscle Sculptor_details" = "다리, 복부, 허리 및 옆구리에 힘을 키울 수 있도록 기초부터 다지세요.";
+
+"Food Nutrition" = "식품 영양";
+"Food Nutrition_details" = "최고의 몸매를 유지하세요! 무엇을 섭취할 지 배우고, 지방 연소 식품을 찾아서 신진대사를 높이는 맛이는 음식을 드세요.";
+
+
+//Other
+
+"In-App purchases were restored" = "인앱 구매가 복원되었습니다";
+"Sorry we didn't find your previous purchases" = "죄송합니다, 이전 구매를 찾을 수 없습니다.";
+"Alert" = "알림";
+"No internet connection" = "인터넷 연결이 없습니다.";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription options: &&3 days of free trial followed by $3.99 per Week. 3 days of free trial followed by $12.99 per Month. 3 days of free trial followed by $35.99 per Year++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+//"Restore" = "복구";
+
+
+"Subscription Info" = "구독 정보";
+"More info about subscriptions and Premium membership" = "구독과 프리미엄 회원에 대한 추가 정보";
+"%d days of free trial followed by %@ per %@" = "%d 일 무료 평가판 사용 후 %@ / %@"; //ex:3 days of free trial followed by $3.99 per week
+"month"="월";
+"year"="년";
+"week"="주";
+"after"="후";
+"Privacy Policy"="개인정보 보호정책";
+"Terms of Service"="서비스 약관";
+"Nutrition plan"="영양 계획";
+"and"="및";
+"Subscription"="구독";
+"By continuing you accept our"="계속 진행하면 다음을 동의합니다: ";
+
+"Start your positive\ntransformation today!"="오늘부터 긍정적인\n변화를 시작하세요!";
+"Get 100% ready workouts courses with powerful support!"="강력한 지원으로 100% 운동 과정을 준비하세요!";
+"Only now"="지금만";
+"GET LIFETIME ACCESS"="평생 액세스 받기";
+"one-time payment"="일회성 지불";
+
+//Yoga
+"%d poses and %d yoga classes"="%d 포즈 및 %d 요가 클래스";
+"3 days for FREE"="3일 무료";
+"Ads FREE\nexperience"="광고 무료\n경험";
+"Yoga"="요가";
+"Yoga\nClasses"="요가\n클래스";
+"UNLOCK\nall music"="모든 음악\n잠금해제";
+"76% off"="76% 할인"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="월 %@ 는 연간 %@ 입니다";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="체중 감량 영양 계획";
+
+//VGFIT WORKOUT
+"Nutrition plan for building muscle"="근육 만들기";
+"Nutrition plan for weight loss"="린 바디";
+"Challenges"="도전";
+"Ads FREE experience"="광고 무료 \n경험";
+"Nutrition plans"="영양 \n계획";
+"New Workouts"="새 \n운동";
+"ARMS | ABS"="팔 | 복근";
+"CLOSE"="닫기";
+"Workout challenges"="운동 도전";
+"Challenge"="도전";
+"Exercises"="운동";
+"Restore purchase"="구매 복원";
+"SHARE"="공유";
+"%d-day\nFree Trial"="%d-일\n무료 평가판";
+"Try it Now"="지금 사용해보기";
+"GET LIFETIME ACCESS"="평생 액세스 받기";
+"SKIP"="넘기기";
+"%@ WORKOUTS"="%@ 운동";// ex: 25 workouts
+"3-day \nFree trial"="3-일 \n무료 평가판";
+"7-day \nFree trial"="7-일 \n무료 평가판";
+"startKey"="시작하기";
+
+//Exercise name
+
+"exerciseName1" = "산자세";
+
+"exerciseName2" = "연꽃좌";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "의자자세 변형";
+
+"exerciseName5" = "누워서 옆구리 스트레칭";
+
+"exerciseName6" = "극락조자세";
+
+"exerciseName7" = "발끝 당기기 자세 변형";
+
+"exerciseName8" = "보트자세";
+
+"exerciseName9" = "활자세";
+
+"exerciseName10" = "다리자세 변형";
+
+"exerciseName11" = "낙타자세";
+
+"exerciseName12" = "고양이자세";
+
+"exerciseName13" = "등 스트레칭";
+
+"exerciseName14" = "의자자세";
+
+"exerciseName15" = "뒤틀린 의자자세";
+
+"exerciseName16" = "팔을 뻗은 뒤틀린 의자자세";
+
+"exerciseName17" = "아기 자세";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "코브라 자세";
+
+"exerciseName20" = "송장 자세";
+
+"exerciseName21" = "소자세";
+
+"exerciseName22" = "소머리자세";
+
+"exerciseName23" = "소머리자세 변형";
+
+"exerciseName24" = "역테이블자세";
+
+"exerciseName25" = "수탉 자세";
+
+"exerciseName26" = "돌고래 자세";
+
+"exerciseName27" = "스핑크스 자세";
+
+"exerciseName28" = "포암 플랭크";
+
+"exerciseName29" = "아래를 향한 개자세";
+
+"exerciseName30" = "아래를 향한 개자세 비틀기";
+
+"exerciseName31" = "개구리자세";
+
+"exerciseName32" = "독수리팔자세로 달인좌";
+
+"exerciseName33" = "독수리자세";
+
+"exerciseName34" = "귀 누르기 자세";
+
+"exerciseName35" = "앉아서 허리 비틀기";
+
+"exerciseName36" = "양반다리하고 상체 숙이기";
+
+"exerciseName37" = "팔각자세";
+
+"exerciseName38" = "심장자세";
+
+"exerciseName39" = "바운드 사이드 앵글자세";
+
+"exerciseName40" = "변형시킨 사이드 앵글자세";
+
+"exerciseName41" = "사이드 앵글자세";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "나무장작 자세";
+
+"exerciseName44" = "물고기자세";
+
+"exerciseName45" = "게이트자세";
+
+"exerciseName46" = "말자세";
+
+"exerciseName47" = "호랑이자세";
+
+"exerciseName48" = "낙타자세 비틀기";
+
+"exerciseName49" = "반 개구리 자세";
+
+"exerciseName50" = "메뚜기자세";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "반 연꽃자세로 서기";
+
+"exerciseName53" = "하프 스플릿자세";
+
+"exerciseName54" = "숙인 반달자세 변형";
+
+"exerciseName55" = "반달자세";
+
+"exerciseName56" = "어깨로 서기 자세";
+
+"exerciseName57" = "세이지 마리치 자세 III";
+
+"exerciseName58" = "머리로 서기 자세";
+
+"exerciseName59" = "머리로 삼각형 서기 자세";
+
+"exerciseName60" = "행복한 아기자세";
+
+"exerciseName61" = "헤론 자세";
+
+"exerciseName62" = "트위스트 런지자세";
+
+"exerciseName63" = "하이 런지";
+
+"exerciseName64" = "숙인 전사자세";
+
+"exerciseName65" = "완전한 코브라자세";
+
+"exerciseName66" = "댄서자세";
+
+"exerciseName67" = "바람 빼기 자세 변형";
+
+"exerciseName68" = "8가지 경배자세";
+
+"exerciseName69" = "도마뱀 자세";
+
+"exerciseName70" = "메뚜기자세 변형";
+
+"exerciseName71" = "초승달자세 비틀기";
+
+"exerciseName72" = "초승달자세";
+
+"exerciseName73" = "인어자세";
+
+"exerciseName74" = "한 다리로 위로 향한 활자세";
+
+"exerciseName75" = "토끼자세";
+
+"exerciseName76" = "비둘기자세";
+
+"exerciseName77" = "피라미드자세";
+
+"exerciseName78" = "하프 비둘기자세";
+
+"exerciseName79" = "수평저울 자세";
+
+"exerciseName80" = "다리자세";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "하이 기도자세 변형";
+
+"exerciseName83" = "플랭크";
+
+"exerciseName84" = "누워서 발끝잡기 B";
+
+"exerciseName85" = "쟁기자세";
+
+"exerciseName86" = "호랑이 활자세 변형";
+
+"exerciseName87" = "평화로운 전사자세";
+
+"exerciseName88" = "회전하는 반달자세";
+
+"exerciseName89" = "무릎에 머리대기";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "누운 비둘기자세";
+
+"exerciseName92" = "비틀어서 무릎에 머리대기";
+
+"exerciseName93" = "회전하는 삼각형자세";
+
+"exerciseName94" = "로우런지";
+
+"exerciseName95" = "서서 비틀어 발끝잡기 변형";
+
+"exerciseName96" = "누워서 허리 비틀기";
+
+"exerciseName97" = "누운 나비자세";
+
+"exerciseName98" = "누워서 발끝잡기 A";
+
+"exerciseName99" = "앉은 전굴자세";
+
+"exerciseName100" = "서서 발끝잡기 D";
+
+"exerciseName101" = "사이드 플랭크";
+
+"exerciseName102" = "두 팔로 소머리자세";
+
+"exerciseName103" = "앉아서 사이드 밴드";
+
+"exerciseName104" = "어깨로 서기 변형";
+
+"exerciseName105" = "서서 후굴자세";
+
+"exerciseName106" = "서서 발끝잡기 B";
+
+"exerciseName107" = "깍지 끼운 메뚜기 자세 변형";
+
+"exerciseName108" = "막대자세";
+
+"exerciseName109" = "스핑크스자세";
+
+"exerciseName110" = "변형된 사이드 플랭크";
+
+"exerciseName111" = "다리 벌려 상체 숙이기";
+
+"exerciseName112" = "요가 스쿼트";
+
+"exerciseName113" = "앉아서 다리 벌려 상체 숙이기";
+
+"exerciseName114" = "다리 벌려 상체 숙이기 C";
+
+"exerciseName115" = "비틀어서 무릎에 머리대기 변형";
+
+"exerciseName116" = "요가 스쿼트 감싸기";
+
+"exerciseName117" = "아래를 향한 영웅자세";
+
+"exerciseName118" = "다리 벌려 상체 비틀기";
+
+"exerciseName119" = "다리 벌려 측면으로 상체 숙이기";
+
+"exerciseName120" = "비슈누의 소파";
+
+"exerciseName121" = "위로 기울기자세";
+
+"exerciseName122" = "전사자세 2";
+
+"exerciseName123" = "서서 깍지 끼워 옆으로 숙이기";
+
+"exerciseName124" = "서서 스플릿";
+
+"exerciseName125" = "서서 앞으로 숙이기";
+
+"exerciseName126" = "서서 발끝잡기 A";
+
+"exerciseName127" = "서서 어깨 펴서 상체 숙이기 변형";
+
+"exerciseName128" = "전사자세 1";
+
+"exerciseName129" = "전사자세 3";
+
+"exerciseName130" = "서서 옆으로 숙이기";
+
+"exerciseName131" = "어깨서기";
+
+"exerciseName132" = "리버스 플랭크";
+
+"exerciseName133" = "서서 발끝 잡고 앞으로 숙이기 C";
+
+"exerciseName134" = "서서 상체 비틀어 숙이기";
+
+"exerciseName135" = "서서 뒤로 숙이기";
+
+"exerciseName136" = "널판지자세";
+
+"exerciseName137" = "테이블 & 널판지자세";
+
+"exerciseName138" = "위로 향한 활자세";
+
+//Exercise description
+
+"exerciseDescription1" = "두 발을 엉덩이 너비만큼 벌려 발 바깥쪽이 서로 평행이 되게 섭니다. 척추를 곧게 펴고 배꼽을 척추 쪽으로 들어올립니다.  머리 끝을 살짝 들어올렸다가 꼬리뼈를 발 뒤꿈치 쪽으로 끌어 내리듯 합니다.";
+
+"exerciseDescription2" = "바닥에 앉아서 왼쪽 무릎을 구부려 오른쪽 허벅지 아래, 오른쪽 좌골 앞부분에 왼발 바깥 부분을 놓습니다. 그리고 오른발 바깥 부분을 잡아서 왼쪽 엉덩이 가랑이 부분에 놓습니다. 손바닥을 아래로 해서 무릎에 놓고 어깨 긴장을 풀고 허리를 곧게 펴고 앉습니다. 왼발을 올려서 반복하세요.";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = "엉덩이 너비만큼 벌려서 섭니다. 손바닥은 아래로 향하게 하고 팔을 앞으로 곧게 폅니다. 무릎을 구부리고 발 볼 위로 발 뒤꿈치를 들어 올립니다.";
+
+"exerciseDescription5" = "손을 머리 뒤로하고 등을 바닥에 대고 눕습니다.  왼쪽 발목을 오른쪽 발목에 교차합니다. 다리는 오른쪽으로, 상체를 움직여 오른쪽으로 구부립니다. 바로 돌아와서, 발목을 바꿔 교차해 오른쪽 발목을 위로 올려서 왼쪽으로 구부립니다.";
+
+"exerciseDescription6" = "엉덩이 너비만큼 벌려서 앞으로 숙입니다. 무릎을 구부리고 오른팔을 먼저 다리 사이로 꼬아 팔꿈치를 구부리고, 오른팔을 오른쪽 엉덩이 바깥쪽으로 뻗습니다. 등 뒤로 왼쪽 팔꿈치를 구부려 왼팔을 오른쪽 엉덩이 바깥쪽으로 뻗습니다. 오른손으로 왼쪽 손목을 잡습니다. (손목에 닿지 않을 경우, 양손 손가락을 같이 걸도록 시도합니다.) \n \n 엉덩이 오른쪽에서 손을 연결한 후에 오른발을 들고 무게 중심을 왼발로 옮겨서 왼발로 섭니다. 왼발을 곧게 하고 허리를 곧게 편 상태로 오른쪽 무릎을 구부립니다. 마지막으로 오른발을 바깥쪽으로 펼 때 오른손으로 오른발을 누릅니다. \n \n 팔로 왼발을 감아서 오른발로 서서 반복합니다.";
+
+"exerciseDescription7" = "무릎을 구부리고 발바닥을 앞으로 가지런히 하고 앉습니다. 손을 허벅지 아래에 놓고 다리를 바닥에서 들어 올려 앉은 자세로 균형을 맞춥니다. 허리 아래를 구부리지 않고 할 수 있는 만큼 다리를 폅니다. 시간이 지나 유연성이 증가하게 되면, 손을 다리 쪽으로 들어 올려 움직일 수 있습니다. 그리고 최종적으로는 세 손가락으로 엄지 발가락을 잡을 수 있습니다.";
+
+"exerciseDescription8" = "무릎을 구부리고 발바닥을 앞으로 가지런히 하고 앉아서 팔을 쭉 뻗습니다. 다리를 바닥에서 들어올려 정강이를 천장과 평행이 되게 하고 팔은 다리 옆에서 쭉 폅니다. 앉아서 균형을 맞추며 최소한 5호흡을 유지합니다.";
+
+"exerciseDescription9" = "배로 누워서 무릎을 구부려 발목 바깥쪽을 잡도록 뒤로 뻗습니다. 머리, 가슴 및 다리를 들어올립니다. 정수리와 정강이를 천장 쪽으로 뻗을 때 다리가 서로 엉덩이 너비보다 벌어지지 않도록 합니다.";
+
+"exerciseDescription10" = "무릎을 구부리고 발바닥은 엉덩이 너비만큼 벌리고 발 바깥쪽은 서로 평행이 되게 한 상태에서 등 뒤로 눕습니다.  손으로 발목 바깥쪽으로 잡아 골반을 들어 올리며, 가슴을 곡선이 되도록 올립니다.";
+
+"exerciseDescription11" = "정강이를 서로 평행이 되게 하며 발등을 바닥으로 해서 무릎을 꿇습니다. 엉덩이는 무릎 위로 어깨는 엉덩이 위로 포개 지도록 합니다. 가슴을 위쪽으로 들어올리며 등이 발 뒤꿈치에 닿듯이 엉덩이를 무릎 위로 유지합니다.";
+
+"exerciseDescription12" = "어깨를 손목 위쪽으로 엉덩이를 무릎 위쪽으로 해서 테이블 자세로 시작합니다. 숨을 내쉬면서 머리가 바닥으로 향하게, 배꼽을 허리 쪽으로 들어올리며 꼬리뼈는 바닥으로 말아 내려 척추를 둥글게 합니다.";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "두 발을 엉덩이 너비만큼 벌려 발 바깥쪽이 서로 평행이 되게 섭니다. 숨을 들이쉬며 팔을 손바닥이 마주보도록 하며 귀 옆으로 쭉 폅니다. 팔을 어깨너비로 유지한 채 무릎을 구부리고 엉덩이를 뒤로 뺍니다. 아랫배와 가슴을 들어올릴 때 허벅지를 땅과 평행이 되도록 유지합니다.";
+
+"exerciseDescription15" = "엄지 발가락을 같이 하고 발 바깥쪽 부분이 서로 평행이 되게 섭니다. 무릎을 구부리고 손바닥을 가슴 앞으로 모읍니다. 허리를 곧게 펴며 엉덩이는 낮게 유지한 채 숨을 들이쉽니다. 숨을 내쉬면서, 오른쪽으로 비틀어 왼쪽 팔꿈치를 오른쪽 허벅지 바깥쪽으로 걸어 줍니다. 숨을 들이쉬면서 손바닥을 가운데로 가슴 앞으로 기도하는 자세처럼 돌아옵니다. 숨을 내쉬며 반대로 왼쪽으로 비틀어 줍니다.";
+
+"exerciseDescription16" = "엄지 발가락을 같이 하고 발 바깥쪽 부분이 서로 평행이 되게 섭니다.  무릎을 구부리고 손바닥을 가슴 앞으로 모읍니다.  허리를 곧게 펴며 엉덩이는 낮게 유지한 채 숨을 들이쉽니다.  숨을 내쉬면서, 오른쪽으로 비틀어 왼쪽 팔꿈치를 오른쪽 허벅지 바깥쪽으로 걸어 줍니다. \"T\" 모양으로 팔을 펴며, 왼 손가락 끝을 오른쪽 발목 바깥쪽 바닥으로 향하도록 펴며 오른팔은 위로 향하게 폅니다.  오른쪽 손바닥을 바라봅니다. \n\n 숨을 들이쉬면서 손바닥을 가운데로 가슴 앞으로 기도하는 자세처럼 돌아옵니다. 숨을 내쉬며 반대로 왼쪽으로 비틀어 오른쪽 팔꿈치를 왼쪽 허벅지 바깥쪽으로 걸어 줍니다. 팔을 펴며, 이번에는 오른 손가락 끝을 왼쪽 발목 바깥쪽으로 펴며 왼팔을 위로 향하게 폅니다. 왼쪽 손바닥을 바라봅니다.";
+
+"exerciseDescription17" = "손과 무릎을 테이블 자세로 시작합니다. 머리는 바닥에 닿도록 하며 엄지 발가락은 같이 붙이고 발 뒤꿈치에 앉습니다.  팔은 몸 옆에 자연스럽게 하며 손바닥이 위로 향하게 합니다.";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = "손바닥을 아래로 해서 갈비뼈 아래, 허리 바로 위에 놓고 배로 눕습니다. 손으로 누르며 상체를 들어올리고 무릎과 정강이, 발등은 바닥에 그대로 유지합니다. 허리 아래가 불편함 없이 할 수 있도록 하복부와 뻗은 팔이 맞물리도록 꼬리뼈를 발 뒤꿈치 쪽으로 당깁니다. \n\n 왼쪽 손바닥은 바닥에 둔 채, 가슴과 머리를 오른쪽으로 돌리며 오른손을 오른쪽 허벅지 뒤로 움직입니다. 다시 돌아와서 왼쪽 방향으로 반복합니다.";
+
+"exerciseDescription20" = "발을 쭉 뻗은 상태에서 등 뒤로 누우며, 손바닥을 위로 하며 손을 옆에 둡니다. 몸의 체중을 바닥으로 놓은 채 눈을 감고 긴장을 풉니다.";
+
+"exerciseDescription21" = "테이블 자세로 시작합니다. 숨을 들이쉬며 뒤로 아치형으로 하고 턱을 들어올려 위로 쳐다봅니다.";
+
+"exerciseDescription22" = "무릎을 구부리고 앉아서 오른쪽 무릎이 왼쪽 위로 가도록 교차하면 양쪽 무릎이 배꼽 앞에 포개지면서 발 뒤꿈치 사이에 앉게 됩니다. 왼팔을 천장으로 펴며 왼쪽 팔꿈치를 구부리고 손가락 끝을 등 뒤 아래로 향하게 합니다. 오른팔을 오른쪽으로 펴며 오른쪽 손바닥이 뒤로 향하도록 돌리고 오른쪽 팔꿈치를 구부려 손가락 끝이 등 뒤 위로 향하게 합니다. 왼쪽 오른쪽 손가락 끝을 같이 잡습니다. 왼쪽 무릎을 위로 하고 오른손을 위로 올려서 다른 방향으로 반복합니다.";
+
+"exerciseDescription23" = "무릎을 구부리고 앉아서 오른쪽 무릎이 왼쪽 위로 가도록 교차하면 양쪽 무릎이 배꼽 앞에 포개지면서 발 뒤꿈치 사이에 앉게 됩니다. 귀 옆으로 팔을 필 때 허리를 곧게 폅니다. 왼쪽 무릎을 오른쪽 위로 하고 다른 방향으로 반복합니다.";
+
+"exerciseDescription24" = "무릎을 구부리고 앉으며 발은 앞으로 엉덩이 너비만큼 벌립니다. 손바닥을 어깨 너비만큼 벌리고 손가락 끝을 앞으로 향하게 해서 뒤에 놓습니다. 무릎이 90도로 구부려지도록 골반을 들어 올립니다. 무릎은 발목 위로 어깨는 팔목 위로 되게 합니다. 각 손의 검지 손가락과 엄지 손가락으로 누릅니다. 그리고 코는 천장으로 향하고 허리와 일직선이 되도록 목을 유지합니다. 경추에 문제가 없을 경우, 머리를 부드럽게 뒤로 젖히며 두개저가 어깨뼈 바로 위로 오게 할 수 있습니다.";
+
+"exerciseDescription25" = "발을 같이 놓고 앞으로 숙인 상태로 섭니다. 무릎을 구부리고 손을 어깨 너비로 벌려서 약 한 발 간격 발 앞에 손바닥을 놓고 손가락 끝으로 땅을 잡듯이 합니다. 엉덩이를 들어 올리도록 발 뒤꿈치를 올리고, 팔을 선반 형태가 되도록 해서 팔 윗부분 뒤편에 무릎을 내려 놓습니다. 팔꿈치를 거의 90도가 되도록 구부리고 손목 위로 겹쳐지게 합니다. 바닥의 손을 지나 보며 천천히 무게를 손으로 옮깁니다. 어깨를 약간 앞으로 이동하고 모든 무게를 손으로 지탱하면, 한 발 또는 두 발 모두 들어올리도록 연습합니다. 시간이 지나면 발가락을 포인팅하고 좌골 쪽으로 옮기도록 연습합니다.";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = "배를 바닥으로 누워 팔뚝을 서로 평행이 되게 하고 팔꿈치를 어깨너비만큼 벌려 팔꿈치로 받칩니다. 팔로 가슴을 들어 올리는 것처럼 발꿈치를 엉덩이쪽으로 당깁니다. 발가락을 끝으로 가리키고 꼬리뼈를 발 뒤꿈치쪽으로 움직입니다.";
+
+"exerciseDescription28" = "배를 바닥으로 누워 팔뚝을 서로 평행이 되게 하고 팔꿈치를 어깨너비만큼 벌려 팔꿈치로 받칩니다. 발가락을 아래로 접으며 허벅지와 골반을 들어 올립니다. 어깨가 팔꿈치 위로 중심을 잡으며 배를 허리 아래쪽으로 들어 올립니다. 허벅지 앞쪽을 모으고 엉덩이를 들어 올려 유지하도록 치골을 배꼽 쪽으로 당깁니다.";
+
+"exerciseDescription29" = "어깨 아래로 손목을 뻗고 손가락을 핀 상태에서 테이블 자세로 시작합니다. 다리와 배가 맞대어 하이 푸쉬-업, 플랭크 자세가 되도록 다리를 뒤로 움직입니다. 여기서 엉덩이를 들어올리고 발 뒤꿈치는 바닥에 대고 가슴은 다리 쪽으로 눌러줍니다. 상체가 다리 쪽으로 향하도록 손으로 바닥을 눌러줍니다. 엄지와 검지 손가락으로 강하게 지탱하며 다리는 엉덩이 너비만큼 벌리고 발 뒤꿈치는 두번째 세번째 발가락 뒤편에 일렬로 합니다.";
+
+"exerciseDescription30" = "어깨 아래로 손목을 뻗고 손가락을 핀 상태에서 테이블 자세로 시작합니다. 다리와 배가 맞대어 하이 푸쉬-업, 플랭크 자세가 되도록 다리를 뒤로 움직입니다. 여기서 엉덩이를 들어올리고 발 뒤꿈치는 바닥에 대고 가슴은 다리 쪽으로 눌러줍니다. 상체가 다리 쪽으로 향하도록 손으로 바닥을 눌러줍니다. 엄지와 검지 손가락으로 강하게 지탱하며 다리는 엉덩이 너비만큼 벌리고 발 뒤꿈치는 두번째 세번째 발가락 뒤편에 일렬로 합니다. \n\n왼손은 바닥에 고정한 채 오른손을 왼쪽 발목 또는 종아리를 잡도록 뒤로 뻗습니다. 엉덩이 바깥쪽은 뒤로 뻗도록 유지하며 왼쪽 손바닥으로 바닥을 누릅니다. 다른 방향으로 반복하세요.";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = "무릎을 구부리고 양쪽 밖으로 향하도록 앉고 왼발을 오른발 앞에 두며 다리는 치골 앞으로 둡니다. 팔꿈치를 구부리고 오른쪽 팔꿈치를 왼쪽 아래로 걸어줍니다. 손바닥이 서로 맞대도록 손목을 꼬아줍니다. 팔꿈치를 들어올려주며 손바닥을 서로 눌러줍니다. 오른발을 앞으로 왼쪽 팔꿈치를 아래로 한 상태에서 다른 방향으로 반복합니다.";
+
+"exerciseDescription33" = "두발로 서서 오른쪽 뒤꿈치를 들어줍니다. 팔꿈치를 구부리고 오른쪽 팔꿈치를 왼쪽 아래로 걸어줍니다. 손바닥이 서로 맞대도록 손목을 꼬아줍니다. 팔꿈치를 들어올려주며 손바닥을 서로 눌러줍니다. \n\n 왼쪽 무릎을 구부리고 왼발로 균형을 잡으며 오른쪽 엄지 발가락을 왼쪽 발목 안으로 걸어주며 왼쪽으로 오른쪽 무릎을 교차합니다.  엉덩이를 바깥쪽으로 밀어주며, 가슴을 들어올리고, 팔꿈치를 계속 들어줍니다.";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = "손바닥을 아래로 향하도록 무릎 위에 놓고 양반 다리로 편안하게 앉습니다. 숨을 들이쉬며 허리를 곧게 폅니다. 숨을 내쉬면서 오른쪽 손바닥을 왼쪽 무릎에 놓고 왼쪽 손가락 끝을 뒤로 돌리며 왼쪽으로 몸을 돌립니다. 숨을 들이쉬며 제자리로 돌아와서 숨을 내쉬면서 왼쪽 손바닥을 오른쪽 무릎에 놓고 오른쪽 손가락 끝을 뒤에 놓으면서 오른쪽으로 몸을 돌립니다.";
+
+"exerciseDescription36" = "편안하게 양반 다리를 합니다. 손바닥을 앞쪽 바닥에 놓으며 팔을 쭉 펼 때까지 앞으로 걸어가듯이 움직입니다. 이마가 바닥에 닿지 않을 경우, 접은 담요나 수건 위에 머리를 놓아 목이 지탱되게 합니다. 다른 다리를 위에 놓고 반복합니다.";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = "테이블 자세로 시작합니다. 손을 어깨 너비만큼 벌리고 할 수 있는 만큼 앞으로 뻗으며 엉덩이는 무릎 위로 유지합니다. 가슴을 바닥으로 내립니다.";
+
+"exerciseDescription39" = "발이 서로 평행이 되게 해서 넓게 벌려 섭니다.  오른발을 바깥쪽으로 90도 돌리며 오른쪽 무릎을 90도로 구부려 오른쪽 허벅지가 바닥과 평행이 되게 합니다. 오른쪽 무릎을 오른쪽 발목 위로 직선이 되도록 유지한 채 왼발은 발가락을 약간 돌리며 넓힙니다. 오른쪽 허벅지 위로 몸을 오른쪽으로 뻗으며 오른 팔을 오른발 안쪽으로 가져옵니다. \n\n 오른쪽 팔꿈치를 구부려 오른팔을 허벅지 아래로 꼬아서 오른쪽 엉덩이 바깥 부분으로 뻗습니다. 왼쪽 팔꿈치를 몸 뒤로 구부리고 오른쪽 엉덩이 바깥 부분으로 뻗습니다. 오른손으로 왼쪽 손목을 잡습니다.   (손목에 닿지 않을 경우, 양손 손가락 끝을 같이 잡도록 시도합니다.) \n\n 팔로 오른쪽 다리를 감싼 후에 오른쪽 엉덩이를 아래로 내리며 뒤로 젖혀서 상체 오른쪽 부분이 허벅지 위에 기대도록 합니다. 정수리를 왼발에서 벌어지도록 당기듯이 목을 길게 뺍니다. 왼발로 바닥을 누르며 오른쪽 무릎이 두번째, 세번째 발가락 위로 중심이 되도록 유지합니다. \n\n 팔로 왼발을 감싸 손이 왼쪽 엉덩이 바깥쪽에 연결이 되도록 팔로 왼발을 감싸 왼쪽으로 반복합니다.";
+
+"exerciseDescription40" = "발이 서로 평행이 되게 해서 넓게 벌려 섭니다.  오른발을 바깥쪽으로 90도 돌리며 오른쪽 무릎을 90도로 구부려 오른쪽 허벅지가 바닥과 평행이 되게 합니다. 오른쪽 무릎을 오른쪽 발목 위로 직선이 되도록 유재한 채 왼발을 곧게 폅니다. 오른쪽 허벅지 위로 상체를 오른쪽으로 뻗으며 손바닥을 위로 향하게 해서 오른쪽 팔꿈치를 오른쪽 허벅지 위에 가볍게 얹습니다. 왼팔을 왼쪽 귀 옆으로 곧게 펴며 왼손을 바라보며 배꼽을 오른발에서 멀어지도록 돌립니다. 왼발로 바닥을 누르며 오른쪽 무릎이 두번째, 세번째 발가락 위로 중심이 되도록 유지합니다. 왼쪽 방향으로 반복합니다.";
+
+"exerciseDescription41" = "발이 서로 평행이 되게 해서 넓게 벌려 섭니다.  오른발을 바깥쪽으로 90도 돌리며 오른쪽 무릎을 90도로 구부려 오른쪽 허벅지가 바닥과 평행이 되게 합니다. 오른쪽 무릎을 오른쪽 발목 위로 직선이 되도록 유지한 채 왼발은 발가락을 약간 돌리며 넓힙니다. \n\n 몸 오른쪽 부분을 오른쪽 허벅지 위로 뻗으며 어깨가 손목과 일직선이 되도록 하며 오른쪽 손바닥을 오른발 안쪽 바닥에 놓습니다. 왼손을 위로 곧게 펴며 왼쪽 손바닥을 쳐다봅니다. 왼발로 바닥을 누르며 오른쪽 무릎을 두번째, 세번째 발가락 위로 중심이 되도록 유지합니다. 왼쪽 방향으로 반복합니다.";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = "앉아서 왼쪽 무릎을 왼쪽 바깥으로 구부려 발 바깥 부분이 바닥에 닿게 하고 정강이는 매트 앞부분과 평행이 되게 합니다. 오른쪽 무릎을 오른쪽 바깥으로 구부리고 오른쪽 무릎이 왼쪽 발목 위에 오른쪽 발목은 왼쪽 무릎 위에 포개 지도록 오른쪽 정강이를 왼쪽에 올립니다. 할 수 있는 만큼 천천히 앞으로 숙입니다. 왼쪽 정강이를 위로 올리고 반복합니다.";
+
+"exerciseDescription44" = "손바닥을 아래로 해서 손을 몸 옆에 놓으며 바닥에 등으로 눕습니다. 가슴을 천장 쪽으로 올리며 정수리가 바닥에 살짝 닿도록 머리를 뒤로 젖힙니다. 바닥에서 45도로 다리를 들어올립니다.";
+
+"exerciseDescription45" = "엉덩이가 무릎 위로 가도록 무릎을 꿇고 발등을 바닥으로, 정강이는 서로 평행이 되게 합니다. 발가락 끝이 오른쪽 바닥으로 향하도록 오른발을 오른쪽으로 폅니다. 오른손 손바닥을 오른쪽 허벅지에 놓고 왼손을 왼쪽 귀 옆으로 폅니다. 오른쪽으로 구부리며, 오른손을 오른쪽 발목으로 내립니다. 왼쪽으로 반복하세요.";
+
+"exerciseDescription46" = "다리 하나 길이만큼 다리를 벌려 섭니다. 무릎을 구부리고 무릎을 발목 위로 일직선이 되도록 하며 발가락을 바깥쪽으로 돌립니다. 새끼발가락 쪽으로 무릎을 뒤로 누르며 팔로 선인장 모양같이 되도록 팔꿈치를 바깥 방향으로 구부립니다.";
+
+"exerciseDescription47" = "손목은 어깨 아래로 무릎은 엉덩이 아래로 해서 손가락을 핀 상태로 엎드려 시작합니다. 오른발을 뒤로 뻗어 들어 올릴 때 손가락 끝과 왼쪽 발등을 누릅니다. 배와 갈비뼈를 등쪽으로 들어올립니다.  왼쪽 정강이를 바닥에 두고 왼발을 들어 반복합니다.";
+
+"exerciseDescription48" = "발등은 바닥에 엉덩이는 무릎 위로 정강이는 서로 평행이 되도록 무릎을 꿇습니다. 가슴을 천장 쪽으로 들어올리며 발 뒤꿈치를 잡도록 뒤로 젖힐 때 엉덩이를 무릎 위로 유지합니다. \n\n 숨을 들이쉬며 왼손을 왼쪽 발 뒤꿈치에 유지하고 오른손을 위로 뻗습니다. 가슴을 왼쪽으로 틀면서 숨을 내쉽니다. 오른손을 오른쪽 발 뒤꿈치로 돌아오며 가슴을 위로 향하도록 돌립니다. \n\n 숨을 들이쉬고 왼팔을 위로 향하도록 뻗습니다. 숨을 내쉬면서 가슴을 오른쪽으로 돌립니다. 양손을 발 뒤꿈치로 돌아오며 가슴을 천장으로 말아 줍니다. 자세를 편안하게 하도록 양손을 허벅지에 올리고 발 뒤꿈치로 앉습니다.";
+
+"exerciseDescription49" = "배로 누워서 팔꿈치를 어깨너비만큼 벌리고 팔뚝이 서로 평행이 되도록 하며 팔꿈치로 지탱합니다. 왼쪽 팔뚝이 매트와 평행이 되도록 손바닥을 아래로 향하게 하고 왼손을 오른쪽으로 움직입니다. 오른쪽 무릎을 구부리고 오른쪽 발 뒤꿈치를 엉덩이 바깥쪽으로 내리며 오른쪽 발등을 오른손으로 잡습니다. 오른 손가락 끝을 오른쪽으로 돌리고 오른쪽 발 뒤꿈치 쪽으로 향하도록 손목 끝부분으로 발등을 눌러 유지합니다. 가슴을 정면으로 향하게 펴며 오른쪽 팔꿈치를 오른쪽 바깥쪽으로 구부립니다. 왼쪽 방향으로 반복합니다.";
+
+"exerciseDescription50" = "종아리가 바닥으로 향하게 하고 손바닥은 아래로 팔은 옆에 붙여서 배가 닿게 눕습니다. 양손을 몸 아래로 움직여 서로 움켜쥡니다. 양쪽 발을 들어올리고 발가락으로 끝을 가리킵니다. \n\n두 발을 바닥에 내려놓고 손바닥을 아래로 향하도록 돌려서 손을 풀어줍니다. 오른발을 위로 들어줍니다. 오른발을 낮추고 왼발을 들어줍니다. 왼발을 바닥에 내려줍니다.";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = "두 발로 같이 서고 오른쪽 무릎을 가슴 쪽으로 당기면서 왼발로 무게를 옮깁니다. 왼손으로 오른발 바깥 부분을 잡고 왼쪽 엉덩이 가랑이 부분에 놓습니다. 뒤 옆으로 두 팔을 쭉 폅니다. 왼쪽 무릎을 구부려 오른쪽 엉덩이 가랑이 부분에 넣고 오른발로 서서 반복합니다.";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = "다리를 앞으로 뻗어서 앉습니다. 왼쪽 무릎을 구부리고 왼발을 오른발 안쪽으로 놓습니다. 왼 손바닥을 뒤쪽 바닥에 놓습니다. 허리를 곧게 피고 귀 옆으로 오른 팔을 들어올리면서 숨을 들이쉽니다. 몸을 왼쪽으로 틀고 오른쪽 팔꿈치를 왼쪽 허벅지 바깥 부분에 걸면서 숨을 내쉽니다. 오른쪽으로 틀면서 오른쪽 무릎을 구부리고 반복합니다.";
+
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = "등을 대고 누워 무릎을 구부리고 발 바깥 부분을 잡습니다. 무릎을 겨드랑이 쪽으로 내려오도록 팔로 다리를 눌러주고 허벅지 안쪽을 펴줍니다. 가능한 만큼 등 아래로 유지합니다.";
+
+"exerciseDescription61" = "발등은 바닥에 놓고 무릎을 구부려 발 뒤꿈치 사이에 앉습니다. 오른발을 앞으로 놓고 오른발 아치 아래로 손가락을 깍지 낍니다. 허리를 곧게 피고 가슴을 오른쪽 발등 쪽으로 들어올리며 오른발을 위로 쭉 펴줍니다.";
+
+"exerciseDescription62" = "왼발을 앞으로 하고 손끝을 왼발 바닥으로 해서 런지 상태로 시작합니다. 발목 위로 직선이 되도록 왼발을 90도 각도로 만들고 오른발은 발 볼을 바닥에 닿도록 해서 뒤로 쭉 펴줍니다. 배를 왼쪽 허벅지로 들어 올려주며 가슴 앞으로 손바닥을 기도하는 손처럼 모아줍니다. 허리를 곧게 펴면서 숨을 들이쉬고 오른쪽 팔꿈치를 왼쪽 무릎 바깥쪽에 걸어주며 왼쪽으로 틀어주면서 숨을 내쉽니다. 왼 손바닥을 오른 손바닥에 맞대서 눌러주고 왼쪽 어깨 위로 쳐다봅니다. 그리고 오른쪽 발꿈치를 위로 향하게 합니다. 오른발을 앞으로 하고 오른쪽으로 틀면서 반복합니다.";
+
+"exerciseDescription63" = "발목 위로 직선이 되도록 오른쪽 무릎을 90도로 구부리고, 왼발은 발 볼을 바닥에 닿도록 해서 뒤로 쭉 펴서 런지 상태로 시작합니다. 손은 엉덩이에 놓고 오른쪽 엉덩이를 뒤로 움직이고 왼쪽 엉덩이는 정면으로 향하도록 해서 어깨를 엉덩이 위로 올려줍니다. 귀 옆으로 양손을 쭉 뻗어줍니다. 왼발을 앞에 놓고 반복합니다.";
+
+"exerciseDescription64" = "발목 위로 직선이 되도록 오른쪽 무릎을 90도로 구부리고 왼발을 발 볼을 바닥에 닿도록 해서 뒤로 쭉 펴서 런지 상태로 시작합니다. 어깨를 엉덩이 위로 올려주고 등 뒤로 손 깍지를 끼워줍니다. 오른발 안쪽으로 앞으로 숙이며, 정수리를 바닥 쪽으로 내려주며 손바닥이 허리에서 멀어지도록 뻗어줍니다. 왼쪽 발꿈치가 천장으로 눌러주며 오른쪽 엉덩이를 조여줍니다. 왼발을 앞으로 하고 반대로 손가락을 껴서 반복합니다 (예: 엄지와 검지 손가락을 반대로 위에).";
+
+"exerciseDescription65" = "배로 누워 양 손바닥을 가슴 옆에 놓아줍니다. 상체를 들어올리도록 손으로 눌러줍니다. 무릎을 구부리고, 발가락을 가리키며 발과 정수리가 서로 닿도록 가슴을 구부려 올려줍니다.";
+
+"exerciseDescription66" = "두 발로 서서 오른 팔을 어깨 높이로 뻗어줍니다. 왼쪽 무릎을 구부려 오른발로 무게 중심을 옮기고 왼발을 좌골 쪽으로 들어올려 왼손으로 왼발 안쪽 부분을 잡습니다. 가슴을 앞으로 내밀며 왼쪽 허벅지를 뒤로 당기고, 몸 중심선으로 왼쪽 무릎을 조여줍니다. 오른손을 천장으로 올리고 가슴은 왼쪽에서부터 멀어지도록 올려줍니다. 왼발로 서서 반복합니다.";
+
+"exerciseDescription67" = "다리를 바닥에 펴고 등을 대고 눕습니다. 왼쪽 무릎을 가슴 안쪽으로 당겨주며 다리 바깥 부분을 손으로 깍지 껴줍니다. 왼발을 펴고 오른쪽 무릎을 구부린 채로 반복합니다.";
+
+"exerciseDescription68" = "손목이 어깨 아래, 무릎은 엉덩이 아래, 발가락은 아래로 접어서 네 다리 자세로 시작합니다. 숨을 들이쉬면서 등을 아치형으로 만듭니다. 숨을 내쉬면서 좌골은 올린 채로 유지하며, 팔꿈치를 구부리고 가슴과 턱을 바닥으로 붙입니다. 반대로, 등을 대고 바닥에 누워 허리 부분을 편안하도록 무릎을 가슴 쪽으로 조여줍니다.";
+
+"exerciseDescription69" = "오른발을 앞으로 하고 손가락 끝을 오른발에 대고 런지 자세로 시작합니다. 오른쪽 무릎이 90도가 되게 하고 발목 위로 직선이 되게 합니다. 왼쪽 무릎을 낮추고 왼쪽 발등을 바닥에 닿게 합니다. 오른쪽 손바닥을 오른발 안쪽으로 놓고, 오른쪽 발꿈치와 일직선이 되도록 그리고 팔뚝은 서로 평행이 되도록 양쪽 팔꿈치를 바닥으로 내립니다. 오른쪽 무릎을 오른쪽 어깨 안쪽으로 조여주며, 허리는 곧게 펴고 가슴과 정수리는 앞으로 향하도록 합니다. 왼쪽 방향으로 반복합니다.";
+
+"exerciseDescription70" = "손은 옆에 붙이고 배로 눕습니다. 팔을 들고 손바닥은 밖으로 향하도록 돌리며 엄지가 뒤에 닿도록 뻗습니다. 가슴과 머리 그리고 다리를 들어줍니다. 발끝을 포인트 주고 발을 뒤로 뻗습니다.";
+
+"exerciseDescription71" = "오른발을 앞으로 하고 손가락 끝을 오른발에 대고 런지 자세로 시작합니다. 오른쪽 무릎이 90도가 되게 하고 발목 위로 직선이 되게 합니다. 왼쪽 무릎을 낮추고 왼쪽 발등을 바닥에 닿게 합니다. 가슴을 들어올리며 어깨를 엉덩이 위로 나란히 하며 손을 오른쪽 허벅지 위에 올립니다. \n\n 숨을 들이쉬면서, 허리를 곧게 펴고 왼 손바닥을 오른쪽 무릎 바깥에 두며 오른손을 왼쪽 허벅지 뒤 아래에 걸치도록 오른쪽으로 틀어줍니다. 완전히 틀어지도록 오른쪽 어깨위로 쳐다봅니다. \n\n 왼쪽 방향으로 반복합니다.";
+
+"exerciseDescription72" = "오른발을 앞으로 하고 손가락 끝을 오른발에 대고 런지 자세로 시작합니다. 왼쪽 무릎을 뒤로 낮추고 왼쪽 발등을 바닥에 닿게 합니다. 오른쪽 엉덩이를 뒤로 움직이고 왼쪽 엉덩이를 오른쪽 허벅지 안 앞쪽으로 둘러서 엉덩이를 평평하게 합니다. 두 팔을 귀 옆으로 쭉 뻗으며 가슴을 위로 올리며 배를 오른쪽 허벅지 위로 들어줍니다. 손바닥 사이를 쳐다봅니다.";
+
+"exerciseDescription73" = "테이블 자세로 시작합니다. 왼쪽 무릎을 왼쪽 손목 뒤로 놓으며, 왼발 바깥 부분은 오른쪽 손목 뒷부분에 놓습니다. 발가락을 아래로 접어 오른발을 뒤로 쭉 뻗으며, 오른쪽 무릎과 오른쪽 발등을 바닥에 놓기 전에 가능한 멀리 뒤로 당깁니다. 어깨를 엉덩이 위쪽으로 올리며 왼발 바깥 가장자리를 오른쪽 엉덩이 앞으로 놓습니다. 오른쪽 무릎을 구부리고 오른손으로 오른발을 잡으며, 오른쪽 엉덩이 바깥쪽으로 발을 당깁니다. 오른쪽 팔꿈치 안쪽으로 발을 내립니다. 귀 옆으로 왼팔을 쭉 펴며 손끝이 바닥을 향하도록 왼쪽 팔꿈치를 구부립니다. 가슴을 들어올리며 왼 손가락과 오른 손가락을 걸어줍니다.";
+
+"exerciseDescription74" = "팔은 옆에 붙이고 발바닥은 엉덩이 간격으로 벌려 등을 대고 눕습니다. 발 바깥 부분이 서로 평행이 되게 하며 손끝으로 발 뒤꿈치 끝부분을 살짝 스칩니다. 팔꿈치를 구부리고 손바닥을 어깨 위로 넘겨 바닥에 놓습니다. 골반, 가슴, 머리를 들어올립니다. 바깥쪽 허벅지가 안쪽 허벅지 쪽으로 나선형이 되도록 허벅지를 안으로 돌립니다. 가슴을 팔 사이로 뻗습니다. \n\n 다리를 같이 하고 왼발로 무게 중심을 옮기며 오른쪽 무릎을 가슴 안쪽으로 웅크립니다. 오른발을 위로 쭉 폅니다. 오른발을 바닥에 놓고 왼발을 들어올린 상태로 반복합니다.";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = "테이블 자세로 시작합니다. 왼쪽 무릎을 왼쪽 손목 뒤에 놓으며 왼발 바깥 부분은 오른쪽 손목 뒤에 놓습니다. 발가락을 아래로 접어 오른발을 뒤로 펴고 오른쪽 무릎과 발등을 바닥에 놓기 전에 최대한 뒤로 뻗습니다. 어깨를 엉덩이 위로 올리며, 왼발 바깥 부분을 오른쪽 엉덩이 앞에 놓고 허리 뒷부분을 들어올리면서 몸 옆에 손바닥을 놓습니다. 오른쪽 무릎 앞으로 구부린 상태에서 반복하세요.";
+
+"exerciseDescription77" = "두 발로 섭니다. 왼발을 약 한 발 간격 뒤로 하며, 왼쪽 바깥으로 30도 각도로 돌립니다. 왼발 뒤꿈치를 누르며 허리를 곧게 펴며 숨을 들이쉬고, 손으로 오른발로 틀을 잡고 오른발로 접으면서 숨을 내쉽니다. 왼발을 앞으로 한 상태로 반복합니다.";
+
+"exerciseDescription78" = "테이블 자세로 시작합니다. 오른쪽 무릎을 오른쪽 엉덩이 앞에 바로 놓고, 무게를 양쪽에 유지하며 오른발을 가능한 왼쪽 손목 가까이 뒤에 놓습니다. 발가락을 아래로 접어 왼발을 뒤로 펴고 왼쪽 무릎과 발등을 바닥에 놓기 전에 최대한 뒤로 뻗습니다. 왼쪽 엄지 발가락이 뒤로 곧게 펴며 오른쪽 정강이 위로 숙이기 전에 무게는 중심에 둡니다 (예: 오른쪽으로 눕지 마세요). 왼쪽 무릎을 앞으로 한 상태에서 반복합니다.";
+
+"exerciseDescription79" = "다리를 앞으로 펴고 앉습니다. 오른쪽 무릎을 구부리고 발 바깥 부분을 왼쪽 가랑이에 놓습니다. 왼쪽 무릎을 구부리고 왼발을 오른쪽 가랑이에 놓도록 왼쪽 정강이를 오른쪽 정강이와 교차합니다. (이 자세가 무리가 될 경우, 억지로 시도해서 무릎의 건강을 해치지 마세요. 대신 왼쪽 발목을 오른쪽에 교차해주세요.) \n\n 허벅지 바깥쪽에 몇 인치 엉덩이 앞에 손바닥을 놓습니다. 숨을 내쉬면서, 배꼽을 허리 안쪽으로 당기며, 손끝으로 눌러주며 골반과 허벅지를 들어 올립니다. 오른쪽 정강이 또는 발목을 왼쪽에 올린 상태로 반복합니다.";
+
+"exerciseDescription80" = "팔을 옆에 붙이고 발바닥은 엉덩이 간격으로 벌려 등을 대고 눕습니다. 발 바깥 부분이 서로 평행이 되게 하고 손끝으로 발 뒤꿈치 끝부분을 살짝 스칩니다. 골반을 들어 올리며, 손을 아래로 옮겨 깍지 낍니다. 가슴을 들어올리도록 팔 뒤편으로 누릅니다. \n\n 다리를 살짝 움직이며, 오른쪽 무릎을 가슴 안쪽으로 당기고 오른발을 위로 쭉 폅니다. 오른발을 바닥에 놓고 왼발을 들어올린 상태로 반복합니다.";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = "엉덩이 너비만큼 벌려 섭니다. 손을 앞으로 깍지 끼고 손바닥을 밖으로 향하도록 젖히며, 손바닥이 천장을 향하도록 귀 옆으로 폅니다. 손을 반대로 잡은 상태에서 반복합니다 (예: 다른 집게 손가락과 엄지를 위로 한 상태에서).";
+
+"exerciseDescription83" = "테이블 자세로 시작합니다. 어깨는 손목 위로 유지한 채, 하이 푸쉬-업 자세가 되도록 다리를 뒤로 옮깁니다. 손과 발 볼만 바닥에 닿습니다. 손끝으로 누리고 배를 허리 아래쪽으로 올리고 발 뒤꿈치를 위로 합니다. 목을 곧게 정수리를 앞으로 향하게 합니다. 엉덩이가 위로 올라가지 않도록 하며, 대신 치골이 배꼽 쪽으로 올려줍니다.";
+
+"exerciseDescription84" = "다리를 펴고 발 뒤꿈치는 땅에 발가락은 위로 향하도록 편안한 상태로 등을 대고 눕습니다. 왼쪽 무릎을 가슴 안쪽으로 당기며 \"요기 발가락 록\"자세가 되도록 왼쪽 엄지 발가락을 왼손 세 손가락으로 감싸며 왼쪽 다리 안쪽으로 왼손을 당깁니다. 오른쪽 엉덩이는 바닥에 붙이고 왼발을 왼쪽 바깥쪽으로 펴면서 오른쪽 허벅지를 누릅니다. 오른쪽 엄지 발가락을 잡은 상태에서 반복합니다.";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = "테이블 자세로 시작합니다. 어깨를 손목 위로 유지한 채, 오른발을 들어올리고 발이 천장으로 가듯이 오른쪽 무릎을 구부립니다. 오른쪽 발등을 잡도록 왼손을 뒤로 뻗습니다. 가슴을 들면서 발을 손으로 누릅니다. 다른 방향으로 반복합니다.";
+
+"exerciseDescription87" = "발을 서로 평행이 되게 한 상태에서 다리를 넓게 펴서 섭니다. 오른발을 90도 밖으로 돌리며 오른쪽 허벅지가 바닥과 평행이 되도록 오른쪽 무릎을 90도로 구부립니다. 오른쪽 무릎을 발목 위로 직선 상태로 유지하며 왼발을 곧게 하고 왼쪽 발가락을 약간 안쪽으로 돌립니다. 왼 손바닥을 왼쪽 허벅지에 가볍게 올리고 오른손을 오른쪽 귀 옆으로 폅니다. 왼발 쪽으로 몸을 숙이며 왼손을 다리 아래로 미끄러지듯 내립니다. 오른쪽 무릎을 새끼발가락쪽으로 부드럽게 누르며 오른쪽 엉덩이를 아래로 내립니다. 왼쪽 방향으로 반복합니다.";
+
+"exerciseDescription88" = "앞으로 숙이며 서고 손끝을 어깨 아래 바닥에 닿으며 가슴을 몸 쪽으로 붙입니다. 왼발로 무게중심을 옮기며 엉덩이를 평평하게 유지한 채, 오른발을 뒤로 내밉니다. 가슴을 왼쪽으로 틀면서 오른손바닥은 땅을 짚고 왼손을 위로 폅니다. 왼손을 쳐다봅니다.";
+
+"exerciseDescription89" = "다리를 앞으로 펴고 앉습니다. 왼쪽 발바닥을 오른쪽 허벅지 안쪽에 맞댑니다. 오른발을 편안하게 하며, 숨을 들이쉬면서 귀 옆으로 팔을 폅니다. 숨을 내쉬면서, 가랑이를 접으면서 허리가 아닌 오른발 위로 몸을 숙입니다. 등이 굽어지지 않도록 합니다. 왼발을 펴고 오른쪽 무릎을 구부린 상태로 반복합니다.";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = "다리를 앞으로 펴고 앉습니다. 오른쪽 발바닥을 왼쪽 허벅지 안쪽에 맞댑니다. 몸을 오른쪽으로 비틀며, 왼쪽 팔꿈치를 왼쪽 무릎 앞 바닥에 놓으며, 왼손으로 왼발 안쪽을 잡습니다. 오른손을 귀 옆으로 펴고 오른손으로 왼발 윗부분을 잡습니다. 가슴을 위로 돌리면서 엉덩이를 바닥에 고정시킵니다. 왼쪽 무릎을 구부리고 오른발을 펴며, 오른발 위로 숙인 상태로 반복합니다.";
+
+"exerciseDescription93" = "두 발로 섭니다. 오른발을 약 한 발 간격 뒤로하고 오른쪽 바깥으로 발을 30도 돌립니다. 손을 엉덩이 바깥에 놓고, 허리를 곧게 펴고 가슴을 바닥과 수평이 되도록 앞으로 숙이면서 숨을 들이쉽니다. 오른쪽 손바닥을 왼발 바깥에 붙이고 왼손을 천장으로 뻗으며 몸을 왼쪽으로 비틀며 숨을 내쉽니다. 오른발을 앞으로 내밀고 오른쪽으로 돌리면서 반복합니다.";
+
+"exerciseDescription94" = "서서 앞으로 숙인 상태에서, 무릎을 구부리고 발 양 옆에 손가락 끝으로 바닥을 짚습니다. 오른쪽 무릎을 90도로 구부리고 오른쪽 발목 위로 중심을 유지한 채, 왼발을 뒤로 뺍니다. 가슴을 앞으로 당기고 왼쪽 발 뒤꿈치를 천장 쪽으로 향하게 합니다. 왼쪽 무릎을 앞에 놓은 상태에서 반복합니다.";
+
+"exerciseDescription95" = "엉덩이 너비만큼 벌려 섭니다. 왼손을 왼쪽 허리에 놓고, 오른발로 무게 중심을 옮기며 왼쪽 무릎을 가슴 안쪽으로 올립니다. 왼쪽 엄지발가락을 오른손 세 손가락으로 잡고, 상체를 왼쪽으로 돌리면서 왼발을 오른쪽으로 폅니다.";
+
+"exerciseDescription96" = "\"T\"모양으로 양팔을 편 상태로 등을 대고 눕습니다. 무릎을 가슴 쪽으로 당기며 무릎을 같이 붙인 채 왼쪽으로 내리며 오른쪽으로 봅니다. 무릎을 가운데로 당기며 머리 뒤편을 바닥에 놓습니다. 그리고 무릎을 오른쪽으로 내리며 왼쪽을 쳐다봅니다.";
+
+"exerciseDescription97" = "등을 대고 누우며 발바닥을 같이 붙이고 무릎을 바깥쪽으로 내립니다. 팔꿈치는 머리 위로 잡습니다.";
+
+"exerciseDescription98" = "다리를 펴고 발 뒤꿈치는 땅에 발가락은 위로 향하도록 편안한 상태로 등을 대고 눕습니다. 왼쪽 무릎을 가슴 안쪽으로 당기며 왼손을 왼발 안쪽으로 해서 왼쪽 엄지발가락을 왼손 세 손가락으로 잡습니다. 오른쪽 엉덩이를 바닥에 붙이며 왼발을 펴면서 오른쪽 허벅지를 바닥으로 눌러줍니다. 왼쪽 허벅지를 배쪽으로 당깁니다. 오른쪽 방향으로 반복합니다.";
+
+"exerciseDescription99" = "다리를 앞으로 펴고 발 뒤꿈치는 땅에 발가락은 위로 향하도록 편안한 상태로 앉습니다. 숨을 들이쉬면서, 귀 옆으로 팔을 펴고 허리를 곧게 폅니다. 숨을 내쉬면서, 가랑이 부분을 앞으로 접으며 배를 허벅지 위에 닿게 합니다. 발을 잡고, 공간이 있을 경우, 몸을 앞으로 더 숙일 수 있도록 팔꿈치를 바깥으로 구부립니다.";
+
+"exerciseDescription100" = "손을 허리에 얹고 두 발로 곧게 섭니다. 엉덩이를 움직이지 않고 가능한 높이 오른발을 앞으로 펴며 올리고 오른쪽 발가락 끝을 가리킵니다. 오른발을 아래로 내리고 오른발로 무게 중심을 옮기며 왼발을 앞으로 편 상태에서 반복합니다.";
+
+"exerciseDescription101" = "팔을 곧게 펴고, 어깨는 손목 위로 일직선이 되게 하며 발꿈치를 위로 한 상태에서 하이 푸쉬-업 자세, 플랭크 자세로 시작합니다. 오른쪽으로 무게 중심을 옮기며, 오른발 바깥 부분을 세웁니다. 왼발을 오른발 위로 겹치고 왼쪽 어깨를 오른쪽 위로 직선이 되게 합니다. 왼손을 위로 폅니다. 발가락을 머리 쪽으로 편안히 하고, 오른손 손가락 끝으로 특히 엄지와 검지로 강하게 눌러 내립니다. \n\n 왼쪽 무릎을 왼쪽 어깨 쪽으로 구부리고 \"요기 발가락 록\"자세로 왼쪽 엄지발가락을 왼쪽 세 손가락으로 감싸줍니다. 왼발을 위로 펴고, 왼쪽 엉덩이를 오른쪽 위로 직선이 되게 유지합니다. \n\n 오른발을 편 상태로 왼쪽으로 반복합니다.";
+
+"exerciseDescription102" = "왼발을 위로 한 상태에서 편안하게 양반다리를 합니다. 귀 옆으로 팔을 펴고 손끝이 등 뒤 아래로 가리키도록 양 팔꿈치를 구부립니다. 왼손으로 오른쪽 팔꿈치를 잡고 오른팔을 뒤통수에 붙이며 왼쪽으로 부드럽게 밀어줍니다. 왼팔을 왼쪽 밖으로 펴며 왼손을 안쪽으로 돌리며 엄지 손가락을 아래로 돌립니다. 손끝이 등 뒤 위쪽으로 향하게 하며 팔꿈치가 아래로 향하도록 왼쪽 팔꿈치를 뒤로 구부립니다. 가능하면 손끝을 움켜 잡으며 손을 모아줍니다. \n\n 오른발을 위에 놓고 왼손을 위로 한 상태에서 반복합니다.";
+
+"exerciseDescription103" = "왼발을 위에 놓은 상태에서 편안하게 양반다리를 합니다. 손끝을 오른쪽으로 가리키며 오른쪽 팔뚝을 몸 오른편에 놓습니다. 왼손을 왼쪽 귀 옆으로 펴면서 왼쪽 엉덩이를 바닥에 고정시킵니다. \n\n 오른발을 위에 올리고 오른손을 귀 옆으로 편 상태에서 반복합니다.";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = "엉덩이 너비보다 넓지 않게 벌리고 섭니다. 귀 옆으로 팔을 펴면서 숨을 들이쉽니다. 뒤로 누우며 가슴을 위로 꺾으면서 숨을 내쉽니다. 양쪽 발 안쪽 면을 바닥에 유지하며 허벅지 안쪽을 뒤로 들어줍니다. 숨을 들이쉴 때마다 앞 척추를 곧게 펴고, 숨을 내쉴 때마다 앞쪽 갈비뼈를 뒤로 당깁니다. 가슴을 위로 꺾으면서, 골반을 아래로 내립니다.";
+
+"exerciseDescription106" = "두 발로 섭니다. 오른쪽 무릎을 가슴 안쪽으로 당기면서 왼발로 무게 중심을 옮깁니다. 오른발 안쪽으로 오른팔을 펴며 \"요기 발가락 록\"자세로 엄지 발가락을 세 손가락으로 감싸줍니다. 엉덩이를 직각으로 유지한 채, 오른발을 오른쪽 바깥으로 약 45도 각도로 폅니다. \n\n 왼발을 편 상태에서 오른발로 서서 반복합니다.";
+
+"exerciseDescription107" = "이마를 바닥에 대고 손을 뒤로 깍지 낀 상태에서 배로 바닥에 눕습니다. 발가락을 끝으로 가리키고 가슴과 머리를 들어올립니다. 깍지 낀 손을 올리며 뒤로 뻗습니다. 턱을 가슴에서 떼고 시선을 코 끝에 고정시킵니다. \n\n 손을 반대로 끼고 반복합니다 (예: 검지와 엄지를 반대로 위에).";
+
+"exerciseDescription108" = "다리를 앞으로 펴고, 발꿈치는 바닥에 발은 편안하게 해서 곧게 앉습니다. 팔꿈치를 어깨 아래로 내리며 손바닥은 아래로 향하게 해서 몸 옆에 놓습니다. 허리를 곧게 펴면서 숨을 들이쉬고 배꼽을 척추 쪽으로 당기며 숨을 내쉽니다.";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "손목을 어깨 위로, 무릎을 엉덩이 위로 한 상태에서 테이블 자세로 시작합니다. 왼발을 뒤로 하고 발가락이 왼쪽으로 가리키도록 발꿈치를 바닥에 붙입니다. 발등이 바닥에 닿도록 하며 발가락이 오른쪽을 가리키도록 왼발을 뒤로 돌립니다. 왼손을 위로 펴면서 왼쪽 어깨가 오른쪽 어깨 위로 일직선이 되게 합니다. 오른발을 펴고 왼쪽 정강이를 바닥에 붙인 상태에서 반복합니다.";
+
+"exerciseDescription111" = "최소 한 발 간격으로 벌리고 발가락을 약간 안쪽으로 돌려 섭니다. 가랑이를 구부리며, 가슴을 바닥을 향하도록 앞으로 숙이고 손바닥을 어깨 아래 바닥에 놓습니다. 정수리를 바닥에 놓으면서, 팔꿈치를 바닥에 붙이고 어깨 너비로 유지되도록 합니다.";
+
+"exerciseDescription112" = "발가락을 밖으로 하며 엉덩이 너비보다 약간 넓게 섭니다. 무릎을 구부리고 발꿈치 사이 안으로 바닥을 향해 앉은 자세를 낮춥니다. 기도하는 자세처럼 가슴 앞으로 두 손을 모으고 팔꿈치를 허벅지 안쪽으로 맞대어 놓습니다. 허벅지를 팔꿈치 반대로 누르면서 팔꿈치를 허벅지 안쪽을 누릅니다. 정수리를 올리고 꼬리뼈는 내리도록 허리를 곧게 폅니다. 끝으로 발 바깥 부분이 서로 평행이 되도록 합니다.";
+
+"exerciseDescription113" = "발을 양쪽으로 펴고 발가락은 위로 편안하게 한 상태로 앉습니다. 허리를 곧게 펴며 숨을 들이쉬고 가랑이를 접으며 앞으로 손으로 걸어가며 숨을 내쉽니다. 앞으로 숙이면서 발꿈치 중심을 바닥에 붙이고 골반의 패인 부분이 살짝 닿도록 유지합니다..";
+
+"exerciseDescription114" = "최소 한 발 간격으로 벌리고 발가락을 약간 안쪽으로 돌려 섭니다. 뒤로 손을 깍지 낍니다. 다리 사이로 정수리를 내리며 깍지 낀 손이 바닥으로 향하도록 펴며 가랑이를 앞으로 접습니다. \n\n 손을 반대로 끼고 반복합니다 (예: 검지와 엄지를 반대로 위에).";
+
+"exerciseDescription115" = "발을 양쪽으로 펴고 발가락은 위로 편안하게 한 상태로 앉습니다. 상체를 오른쪽으로 비틀고, 왼쪽 팔꿈치를 왼발 안 바닥에 놓으며 왼손으로 왼발 안쪽 부분을 잡습니다. 오른팔을 귀 옆으로 펴고 오른손으로 왼발 윗부분을 잡습니다. 가슴을 위로 돌리면서 엉덩이와 오른발은 바닥에 고정합니다. 오른발 위로 숙이며 반복합니다.";
+
+"exerciseDescription116" = "발가락을 밖으로 하며 엉덩이 너비보다 약간 넓게 섭니다. 무릎을 구부리고 발꿈치 사이 안으로 바닥을 향해 앉은 자세를 낮춥니다. 기도하는 자세처럼 가슴 앞으로 두 손을 모으고 팔꿈치를 허벅지 안쪽으로 맞대어 놓습니다. \n\n 허리를 곧게 펴면서 숨을 들이쉬고 팔을 펼치면서 왼쪽으로 비틀며 숨을 내쉽니다. 팔을 안쪽으로 돌리며 엄지를 아래로 돌립니다. 왼쪽 팔꿈치를 등 뒤로 구부리고 오른쪽 팔꿈치는 오른쪽 정강이 밖으로 구부립니다. 가능하면 오른쪽 엉덩이 바깥 근처에서 손끝을 같이 잡습니다. \n\n 오른쪽으로 비틀며 손을 왼쪽 다리를 감싸며 반복합니다.";
+
+"exerciseDescription117" = "테이블 자세로 시작합니다. 엄지 발가락을 같이 붙이고 엉덩이 너비보다 넓게 무릎을 벌립니다. 몸을 다리 사이 안으로 앉으며 이마를 바닥에 놓으며 손바닥으로 앞으로 걸어갑니다.";
+
+"exerciseDescription118" = "최소 한 발 간격으로 벌리고 발가락을 약간 안쪽으로 돌려 섭니다. 가랑이를 구부리며, 가슴을 바닥을 향하도록 앞으로 숙이고 손바닥을 어깨 아래 바닥에 놓습니다. 숨을 들이쉬면서 정수리가 엉덩이에서 멀어지도록 허리를 곧게 폅니다. 숨을 내쉬면서 왼쪽으로 비틀고 왼팔을 위로 폅니다. \n\n 왼 손바닥을 어깨 아래 바닥에 다시 놓습니다. 허리를 곧게 펴면서 숨을 들이쉬고 오른팔을 위로 펴면서 오른쪽으로 비틀며 숨을 내쉽니다.";
+
+"exerciseDescription119" = "최소 한 발 간격으로 벌리고 발가락을 약간 안쪽으로 돌려 섭니다. 가랑이를 구부리며, 가슴을 바닥을 향하도록 앞으로 숙이고 손바닥을 어깨 아래 바닥에 놓습니다. 오른쪽으로 손으로 걸으며, 턱을 오른쪽 정강이로 가져오며 오른쪽 발목 바깥 부분을 잡습니다. 다시 손을 중앙에 놓은 후 턱을 왼쪽 정강이로 가져오면서 왼쪽 발목 바깥 부분을 잡으며 왼쪽으로 갑니다.";
+
+"exerciseDescription120" = "등으로 눕습니다. 왼쪽으로 몸을 기울이며 왼쪽 귀 옆으로 왼팔을 폅니다. 왼쪽 팔꿈치를 구부리고 왼쪽 손바닥에 머리를 둡니다. 오른쪽 무릎을 오른쪽 어깨 쪽으로 구부리고 오른쪽 엄지발가락을 오른손 세 손가락으로 잡습니다. 왼쪽 면을 땅에 붙이고 오른쪽 엉덩이를 왼쪽 허벅지 안쪽으로 조여주며 할 수 있는 만큼 오른발을 폅니다. \n\n 왼쪽으로 누워 왼쪽 엄지발가락을 잡으며 반복합니다.";
+
+"exerciseDescription121" = "발바닥을 서로 골반 앞으로 붙이고 무릎을 바깥으로 내린 상태로 앉습니다. 세 손가락으로 각 엄지 발가락을 잡습니다. 좌골로 무게 중심이 옮겨지도록 뒤로 기울입니다. 허리를 길게 하고 무릎을 구부린 채, 좌골로 균형을 맞추며 발을 벌려 들어줍니다. 가슴을 들어주면서 천천히 발을 바깥으로 펴줍니다.";
+
+"exerciseDescription122" = "발이 서로 평행이 되게 하고 다리를 넓게 벌려 섭니다. 오른발을 바깥으로 90도 돌리고 오른쪽 허벅지가 바닥과 평행이 되도록 오른쪽 무릎을 90도 각도로 구부립니다. 오른쪽 무릎이 발목과 일직선이 되게 유지하고 왼발은 발가락을 약간 안으로 한 채 펴줍니다. 양팔을 서로 바깥으로 펼 때 엉덩이와 어깨가 나란히 되도록 유지하고 오른쪽 손바닥을 쳐다봅니다. \n\n 왼쪽 무릎을 구부리고 왼발을 펴며 왼쪽 손바닥을 응시한 채 반복합니다.";
+
+"exerciseDescription123" = "엄지 발가락을 같이 붙이고 발 바깥 부분이 서로 평행이 되게 해서 섭니다. 검지 손가락을 붙이고 가슴 앞에서 나머지 손가락은 깍지를 낍니다. 숨을 들이쉬면서 손을 깍지 끼고 머리 위로 들어줍니다. 숨을 내쉬면서 왼쪽으로 몸을 숙입니다. 오른쪽 발꿈치를 고정하고 왼쪽 갈비뼈 아래부분을 오른쪽 갈비뼈 위쪽으로 올려줍니다. \n\n 숨을 들이쉬면서 깍지 낀 손을 머리 위 중앙으로 돌아옵니다. 숨을 내쉬면서 오른쪽으로 몸을 숙입니다.";
+
+"exerciseDescription124" = "엄지발가락을 서로 붙이고 발 바깥 부분이 서로 평행이 되게 하고 손바닥을 어깨 아래 바닥에 붙이고 몸을 앞으로 숙인 상태로 시작합니다. 왼발을 뒤로 움직이고 가볍게 왼쪽 엄지발가락을 바닥에 놓은 상태에서 오른발에 대부분의 무게 중심을 옮깁니다. 오른쪽 손바닥을 오른쪽 종아리에 맞대어 놓고 왼발을 위로 들어올립니다. 엉덩이를 가운데로 조여주면서 할 수 있는 만큼 오른쪽 엉덩이를 들며 왼쪽 엉덩이를 오른쪽 엉덩이와 평평하게 되도록 합니다. 턱을 정강이에 닿도록 오른쪽 손바닥을 오른쪽 정강이 앞으로 눌러줍니다. \n\n 오른발을 펴고 왼발로 서서 반복합니다.";
+
+"exerciseDescription125" = "엄지발가락을 서로 붙이고 발 바깥 부분이 서로 평행이 되게 한 상태에서 몸을 앞으로 숙인 상태에서 시작합니다. 손가락으로 바닥을 짚으며 가슴을 앞쪽으로 내밀면서 허리를 펴며 숨을 들이쉽니다. 종아리를 잡도록 다리 바깥쪽으로 팔을 두르며 앞으로 몸을 접으면서 숨을 내쉽니다. 이마가 정강이에 닿도록 손바닥을 종아리 뒷부분을 눌러줍니다. 발꿈치를 바닥에 대로 누르며 안쪽 허벅지를 다리 뒤쪽으로 돌리면서 좌골을 올립니다. 허리 아래가 둥글게 되지 않도록 합니다. 대신 가랑이를 접으며 배가 허벅지 윗부분에 닿도록 합니다.";
+
+"exerciseDescription126" = "두 발로 섭니다. 오른쪽 무릎을 가슴 안쪽으로 당기면서 왼발로 무게 중심을 옮깁니다. 오른팔을 오른발 안쪽 사이로 펴고 \"요기 발가락 록\"자세로 엄지발가락을 세 손가락으로 잡습니다. 왼쪽 발꿈치를 바닥에 누르고 정수리를 천장으로 향하도록 들면서 곧게 섭니다. 어깨가 엉덩이와 일직선이 되도록 몸 뒷부분으로 오른팔을 조심스럽게 당기며 오른발을 앞으로 폅니다.";
+
+"exerciseDescription127" = "엄지발가락을 서로 붙이고 발 바깥 부분이 서로 평행이 되게 한 상태로 섭니다. 몸 뒤로 손을 깍지 낍니다. 허리를 곧게 펴며 숨을 들이쉬고 정수리를 바닥으로 향하도록 하며 깍지 낀 손이 바닥에 향하도록 뻗으며 가랑이를 앞으로 접으면서 숨을 내쉽니다.";
+
+"exerciseDescription128" = "발이 서로 평행이 되게 하고 넓게 다리를 벌려 섭니다. 오른발을 밖으로 90도 돌립니다. 왼쪽 발꿈치를 들고 왼발 볼을 돌리며 바닥에 놓기 전에 왼쪽으로 발꿈치를 밖으로 돌립니다. 오른발과 같이 가슴과 왼쪽 엉덩이가 같은 방향이 되게 합니다. 손을 엉덩이 바깥 부분에 놓고 오른쪽 엉덩이를 뒤로 옮기며 왼쪽 엉덩이를 앞으로 감싸 줍니다. 오른쪽 무릎이 발목과 직선이 되도록 구부립니다. 귀 옆으로 팔을 펴며 가슴을 들어줍니다. 오른쪽 무릎이 발목 위로 유지하는 동안 왼쪽 발꿈치를 눌러줍니다. \n\n 왼발을 앞으로 한 상태에서 반복합니다.";
+
+"exerciseDescription129" = "두 발로 서고 귀 옆에 팔을 들어줍니다. 가슴을 들고 오른발을 쭉 편 상태로 유지한 채, 왼발 볼이 바닥에 가볍게 닿도록 왼발을 뒤로 내밉니다. 오른발로 천천히 무게 중심을 옮기고, 가랑이를 앞으로 접으며, 왼발을 뒤로 젖히면서 가슴을 앞으로 내밉니다. 엉덩이 바깥 부분을 서로 조여주고 배/앞쪽 갈비뼈를 등 쪽으로 들어줍니다. \n\n 오른발을 뒤로 편 상태에서 왼발로 균형을 잡으며 반복합니다.";
+
+"exerciseDescription130" = "엄지발가락을 서로 붙이고 발 바깥 부분이 서로 평행이 되게 한 상태로 섭니다. 숨을 들이쉬면서 오른팔을 귀 옆으로 들어줍니다. 숨을 내쉬면서 왼손을 왼발 바깥부분을 쓸어 내리며 왼쪽으로 몸을 숙입니다. 오른쪽 발꿈치를 누르고 왼쪽 허리를 들어줍니다. \n\n 오른쪽으로 몸을 숙이면서 반복합니다.";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = "발을 앞으로 펴고 손바닥을 뒤에 놓으며 손끝이 앞으로 보도록 한 상태로 앉습니다. 발가락을 가리키고, 손끝을 누르며 엉덩이를 들어줍니다. 가슴을 들어올리면서 어깨뼈를 같이 뒤쪽으로 내려줍니다. 허벅지 안쪽을 서로 조여주고 엄지발가락을 바닥 쪽으로 뻗습니다. 경추가 튼튼할 경우, 두개저가 어깨뼈 위로 닿도록 부드럽게 머리를 뒤로 젖혀줍니다.";
+
+"exerciseDescription133" = "두 발로 섭니다. 오른발로 무게 중심을 옮기고 왼쪽 무릎을 가슴 안쪽으로 당깁니다. 양손으로 왼발 아치를 잡습니다. 이마를 정강이 쪽으로 가져오면서 앞으로 숙이며 왼발을 폅니다. \n\n 왼발로 서고 오른발을 잡으면서 반복합니다.";
+
+"exerciseDescription134" = "앞으로 상체를 접은 채 시작합니다. 양쪽 무릎을 구부리고, 오른손을 가슴 아래 바닥에 놓으며 왼손은 왼쪽 엉덩이에 놓습니다. 허리를 곧게 펴며 숨을 들이쉽니다. 왼팔을 위로 뻗으며 왼발만 펴면서 왼쪽으로 몸을 비틀며 숨을 내쉽니다. 왼손을 쳐다보면서 목을 길게 유지합니다. \n\n 서서 접은 상태로 돌아옵니다. 양쪽 무릎을 구부리고, 왼손을 가슴 아래 바닥에 놓으며 오른손을 오른쪽 엉덩이에 놓습니다. 허리를 곧게 펴며 숨을 들이쉽니다. 오른팔을 위로 뻗으며 오른발만 펴고 오른쪽으로 몸을 비틀며 숨을 내쉽니다. 오른손을 쳐다보면서 목을 길게 유지합니다.";
+
+"exerciseDescription135" = "엄지발가락을 서로 붙이고 발 바깥 부분이 서로 평행이 되게 한 상태로 섭니다. 손끝이 발꿈치쪽으로 가리키며 손바닥을 엉덩이에 놓습니다. 숨을 들이쉬면서 허리를 곧게 폅니다. 숨을 내쉬면서 손으로 엉덩이를 발꿈치쪽으로 아래로 누르며 가슴은 천장을 향해 꺾어 줍니다. 어깨뼈를 같이 내리며 발꿈치가 서로 닿도록 등을 뒤로 내립니다.";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = "무릎을 구부리고, 발은 엉덩이 너비로 벌리고, 발 바깥 부분이 서로 평행이 되게 한 상태로 등을 대고 눕습니다. 팔을 몸 옆에 펴고 손끝이 발 뒤꿈치 끝에 스치도록 발을 배치합니다. 손을 천장을 향하도록 들고 손목은 편안하게 합니다. 팔꿈치를 구부리고 손끝이 어깨 쪽으로 가리키도록 어깨 위에 손바닥을 놓습니다. 골반, 가슴과 머리를 들면서 손 안쪽과 발꿈치 안쪽을 눌러줍니다. 허벅지 바깥쪽을 안쪽으로 조여주고 가슴을 팔 사이로 눌러줍니다. 엉덩이 너비보다 발이 벌어지지 않도록 합니다. \n\n 돌아올 때는 등 아래를 바닥에 내리면서 턱은 가슴 쪽으로 엉덩이는 발꿈치 쪽으로 당겨줍니다.";
+

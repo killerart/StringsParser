@@ -1,0 +1,902 @@
+/*
+ Localizable.strings
+ Yoga
+ 
+ Created by Alex Overseer on 4/4/16.
+ Copyright © 2016 SOFTINTERCOM. All rights reserved.
+ */
+
+//Intro
+
+"Choose Your Goals" = "Kies Je Doelen";
+"Increase Flexibility" = "Flexibiliteit Verhogen";
+"Get Toned" = "Strak Lichaam";
+"Lose Weight" = "Gewicht Verliezen";
+"Reduce Stress" = "Stress Verminderen";
+"Continue" = "Doorgaan";
+"Yearly" = "Jaar";
+
+"Enter Your Parameters" = "Voer Je Parameters in";
+"Height" = "Lengte";
+"Current weight" = "Huidig gewicht";
+"Target weight" = "Doelgewicht";
+"Pick Your Height" = "Kies Je Lengte";
+"Pick Your Weight" = "Kies Je Gewicht";
+"Pick Your Target Weight" = "Kies Je Doelgewicht";
+"lbs" = "lbs";
+"kg" = "kg";
+"ft, in" = "ft, in"; //feet, inch
+"cm" = "cm"; //centimeter
+"Save" = "Opslaan";
+
+"Join Millions\nof happy users" = "Sluit je aan bij miljoenen blijde gebruikers";
+"No Annoying Ads" = "Geen Vervelende Reclame";
+"Not sure yet?" = "Twijfel je nog?";
+"Enable free trial" = "Start met de gratis proefversie";
+"Discount %d%%" = "Korting %d%%"; //example Discount 60%
+"Just Now! Limited Offer!" = "Alleen Nu! Tijdelijke Aanbieding!";
+"Join with our best offer" = "Stap in met onze beste aanbieding";
+"Weekly plan" = "Wekelijks plan";
+"Monthly plan" = "Maandelijks plan";
+
+"Not now" = "Nu niet";
+"Save %d%%" = "Bespaar %d%%"; //Example: Save 60%
+"year\nBilled annually" = "jaar\nJaarlijks gefactureerd"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "na de gratis 7-daagse\nproefperiode";
+"healthAppPermisionKey" = "De app mag geen data naar de Gezondheid-app wegschrijven. Je kunt het inschakelen in de Gezondheid-app";
+"Open" = "Open";
+
+
+//Presentation
+
+"Balance Flexibility" = "Balans & Flexibiliteit";
+"100+ Poses" = "100+ Houdingen";
+"19 Classes" = "19 Klassen";
+"Tons of Classes" = "Talloze Klassen";
+"Anywhere Anytime" = "Overal en Altijd";
+"Nutrition Plans" = "Voedingsplannen";
+
+
+//Buttons keys
+"backButtonKey" = " Terug";
+"doneButtonKey" = "Voltooid";
+"editButtonKey" = "Bewerken";
+"cancelButtonKey" = "Annuleren";
+"yesButtonKey" = "Ja";
+"startButtonKey" = "Starten";
+"skipButtonKey" = "overslaan";
+
+//MainScreenViewController
+"posesNameKey" = "Houdingen";
+"posesDescriptionKey" = "Vrijheid om overal en wanneer je maar wilt oefenen.";
+
+"classesNameKey" = "Lessen";
+"classesDescriptionKey" = "Focus op flexibiliteit, kracht, evenwicht. Vind je eigen favorite les.";
+
+"moreNameKey" = "Meer";
+"moreDescriptionKey" = "Meld je aan bij de VGFIT-gemeenschap. Verkrijg meer workouts.";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "Zoek oefening";
+"noResultsLabelKey" = "Geen Resultaten";
+
+//ClassesViewController
+"classBalanceKey" = "Evenwicht";
+"classBalanceDescriptionKey" = "Verschillende yogastijlen die zich richten op het verbeteren van je evenwicht worden gecombineerd.";
+
+"classStrengthKey" = "Kracht";
+"classStrengthDescriptionKey" = "Een combinatie van krachtige yogahoudingen die je helpen je lichaamskracht op te bouwen, worden gecombineerd.";
+
+"classFlexibilityKey" = "Flexibiliteit";
+"classFlexibilityDescriptionKey" = "Je richt je op je ademhaling, op spieropbouw en flexibiliteit van je lichaam.";
+
+
+//LevelViewController
+"levelBegginerKey" = "Beginner";
+"levelBegginerTitleKey" = "Laten we met een lichte oefening beginnen";
+"levelBegginerDescriptionKey" = "Gericht op het opbouwen van kracht en uithoudingsvermogen door het creëren van een sterke basis.";
+
+"levelIntermediateKey" = "Gevorderd";
+"levelIntermediateTitleKey" = "Stap naar een moeilijkere oefening";
+"levelIntermediateDescriptionKey" = "Voor degenen die al een zeer sterke basis hebben en over yoga ervaring beschikken.";
+
+"levelAdvancedKey" = "Vergevorderd";
+"levelAdvancedTitleKey" = "Moeilijke oefeningen";
+"levelAdvancedDescriptionKey" = "Voor degenen die zeer toegewijd zijn en al een uitgebreide ervaring hebben.";
+
+
+//DifficultyViewController
+"secondSideKey" = "tweede kant";
+"minutesKey" = "min";
+"posesKey" = "houdingen";
+
+//Error messages
+"downloadErrorKey" = "Download fout";
+"downloadCompleteKey" = "Download volledig.";
+"internetConnectionKey" = "Internet verbinding";
+"internetConnectionLostKey" = "Geen internet verbinding.";
+"videoNotFoundKey" = "Video niet gevonden";
+"videoNotFoundDescriptionKey" = "Wil je doorgaan ? \nKlik op ja en we proberen het nogmaals te downloaden. Klik op annuleren en ga terug.";
+
+"smtWentWrongKey" = "Er is iets fouts gegaan.";
+"downloadErrorNoConnectionKey" = "Kan niet downloaden. Controleer a.u.b. je internet Wi-Fi of inbel verbinding !";
+"playerNoInternetConnectivityKey" = "Kan niet downloaden. Controleer a.u.b. je internet Wi-Fi of inbel verbinding !\nKlik op ja om over te slaan. Klik op annuleren om terug te gaan.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Downloading video’s";
+"downloadOneVideoKey" = "Downloading video";
+
+//SecondPlayerViewController
+"previewKey" = "Preview";
+"secondsKey" = "seconden";
+"completedKey" = "Voltooid";
+"playerCurrentExerciseKey" = "Naam oefening:";
+"playerNextExerciseKey" = "Volgende:";
+
+//MoreViewController
+"moreProfileTitleKey" = "Profiel\n( Geschiedenis Yoga )";
+"moreProfileDescriptionKey" = "Je kunt de geschiedenis van je lessen opslaan en de volgende plannen.";
+
+"moreAppsTitleKey" = "Overige\nApp’s VGFIT";
+"moreAppsDescriptionKey" = "Ontdek nieuwe App’s van VGFIT en bereik je r fitness doelen.";
+
+"moreSocialTitleKey" = "Sociaal\nmedia VGFIT";
+"moreSocialDescriptionKey" = "Raak gemotiveerd en deel het met vrienden Meld je aan bij de VGFIT-gemeenschap.";
+
+"moreSettingsTitleKey" = "Instellingen";
+"moreSettingsDescriptionKey" = "Complex instellingen voor het bieden van de beste ervaring.";
+
+"moreRateUsTitleKey" = "Beoordeel ons";
+
+"historyTitleKey" = "Geschiedenis";
+"historyNoExerciseKey" = "Er zijn nog geen oefeningen gedaan";
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "SixPack Abs";
+"otherAppFitnessAndBodyBuildingKey" = "Fitness en Bodybuilding";
+"otherAppFemaleFitnessKey" = "Fitness voor Vrouwen";
+"otherAppGoPedometerKey" = "Ga Pedometer";
+"otherAppSmartCycleAlarmProKey" = "Smart Cycle Alarm PRO";
+"otherAppTimerKey" = "Timer Pro";
+"otherApp7minKey" = "7 Minuten";
+"Water Reminder" = "Waterherinnering";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "Volledige preview";
+"settingsPreviewShortKey" = "Korte preview";
+"settingsPreviewNoneKey" = "Geen preview";
+"settingsbreathCycleLenghtKey" = "Duur ademhalingscyclus";
+
+//Speech to Text messages
+
+"beginKey" = "beginnen";
+"xMoreSeconds" = "%@ seconden meer";
+"halfWayThereKey" = "Halverwege";
+
+//Rate Us messages
+
+"Love our %@ app?" = "Vind onze %@-app leuk?";
+"Your feedback will help us to get better" = "Je feedback helpt ons beter te worden";
+"Oh Dear!" = "Oh hemeltje lief";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "We stellen het heel erg op prijs als je ons van ideeën kunt voorzien, waarmee we de app kunnen verbeteren. Alvast bedankt!";
+
+"5-Stars" = "5-Sterren";
+"To improve the app, please Leave a Rating or Review." = "Om de app te verbeteren laat a.u.b. een Beoordeling of een Review achter.";
+
+"Rate Us" = "Beoordeel ons";
+"Email Us" = "Stuur Ons een E-mail";
+"Not now" = "Nu niet";
+
+//Reminder
+
+"Reminder" = "Herinnering";
+"Edit notification permission in IOS settings" = "Toestemming voor meldingen in IOS-instellingen bewerken";
+"Daily reminder" = "Dagelijkse herinnering";
+"Frequency" = "Frequetie";
+"It's time to workout!" = "Het is tijd voor je workout!";
+"After %ld days of inactivity" = "Na %ld dagen van niet-actief zijn";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "Hey! Je hebt al een paar dagen geen workout gedaan, kom terug en pak het weer op!";
+"Days" = "Dagen";
+
+//Audio Player
+
+"Voice Guide" = "Spraakgids";
+"Background Music" = "Achtergrondmuziek";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "Yoga – houdingen en lessen";
+"Upgrade" = "Upgrade";
+"Buy" = "Kopen";
+"Restore Purchases" = "Aankopen herstellen";
+"Premium" = "PREMIUM";
+"Nutrition" = "Voeding";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "Ontgrendel alle nieuwe schema’s die door top coaches zijn ontworpen. Bereik makkelijker je doelen.";
+"Ads free experience" = "Advertentieloze ervaring";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "Weg met alles advertenties. Geniet van een vrolijke yogareis zonder advertenties.";
+"Unlock all music" = "Ontgrendel alle muziek";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "Geniet van exclusieve audio om dieper in je oefeningen te komen. \n+ Kies je speciale toon voor meldingen om niets te missen.";
+"Yoga Classes" = "Yogalessen";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "10 Nieuwe lessen voor alle niveaus om fitter te worden met positieve workouts en motivatie \n+ Uitgebalenceerd voedingsschema voor gewichtsverlies.";
+
+//Select Sound
+
+"Sounds" = "Geluiden";
+"Sound" = "Geluid";
+
+"Default" = "Standaard";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "Snelle Yoga Sessie";
+"Quick Yoga Fix_details" = "Neem yoga op in een druk dagschema met houdingen die zowel de basis vormen als energierijk zijn.";
+
+"Getting Toned" = "Versteviging";
+"Getting Toned_details" = "Verstevig de spieren in  belangrijke gebieden, waaronder armen, schouders, core, bilspieren en benen.";
+
+"Morning Yoga" = "Ochtendyoga";
+"Morning Yoga_details" = "Begin je dag met een verkwikkende yogasessie die gericht is op het doen bewegen van je wervelkolom in alle richtingen bestaande uit krachtige staande houdingen.";
+
+"Daily Yoga for ABS" = "Dagelijkse Yoga voor ABS";
+"Daily Yoga for ABS_details" = "Werkt op en verstevigt de dieper gelegen buikspieren.";
+
+"Yoga for Runners" = "Yoga voor Hardlopers";
+"Yoga for Runners_details" = "Yoga biedt een unieke combinatie van balans, flexibiliteit, kracht en mindfullnesstraining die hardlopers kan helpen de prestaties te verbeteren en blessures te voorkomen. Loop op een slimme wijze hard met deze cross-training serie.";
+
+"Boost Your Energy" = "Boost Je Energie";
+"Boost Your Energy_details" = "Laad je op met deze reeks die ontworpen is om je lichaam, geest en ziel te stimuleren.";
+
+"Deep Stretching Exercises" = "Diepe Strekoefeningen";
+"Deep Stretching Exercises_details" = "Verjong vermoeide spieren,verbeter het bewegingsbereik en stimuleer de bloedsomloop met deze yoga strekoefeningen.";
+
+"Improve Your Balance" = "Verbeter Je Evenwicht";
+"Improve Your Balance_details" = "Verbeter Je coördinatie reactietijd, houding en lichaamsbewustzijn met deze uitdagende serie evenwichtshoudingen.";
+
+"Challenge Your Flexibility" = "Daag Je Flexibiliteit Uit";
+"Challenge Your Flexibility_details" = "Ontwikkel flexibilitiet met een reeks intensieve strekoefeningen en gebruik de resultaten bij de yogahoudingen voor gevorderden.";
+
+"Core Muscle Sculptor" = "Core Spier Bouwer";
+"Core Muscle Sculptor_details" = "Bouw vanaf de basis en ontwikkel kracht in je benen, buikspieren, onderrug en zijkant.";
+
+"Food Nutrition" = "Voeding";
+"Food Nutrition_details" = "Wees in je beste vorm ooit! Leer wat te eten, ontdek vetverbrandende voedingsmiddelen, eet smakelijke maaltijden om je stofwisseling te versnellen.";
+
+//Other
+
+"In-App purchases were restored" = "In-app aankopen werden hersteld";
+"Sorry we didn't find your previous purchases" = "Sorry maar we hebben uw vorige aankopen niet teruggevonden";
+"Alert" = "Waarschuwing";
+"No internet connection" = "Geen internet verbinding";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription options: &&3 days of free trial followed by $3.99 per Week. 3 days of free trial followed by $12.99 per Month. 3 days of free trial followed by $35.99 per Year++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+//"Restore" = "Herstel";
+
+
+"Subscription Info" = "Info over abonnementen";
+"More info about subscriptions and Premium membership" = "Meer info over abonnementen en het Premium-lidmaatschap";
+"%d days of free trial followed by %@ per %@" = "%d dagen gratis proefperiode daarna voor %@ per %@"; //ex:3 days of free trial followed by $3.99 per week
+"month"="maand";
+"year"="jaar";
+"week"="week";
+"after"="na";
+"Privacy Policy"="Privacybeleid";
+"Terms of Service"="Dienstenvoorwaarden";
+"Nutrition plan"="Voedingsschema";
+"and"="en";
+"Subscription"="Abonnement";
+"By continuing you accept our"="Door door te gaan aanvaardt u ons";
+
+"Start your positive\ntransformation today!"="Begin vandaag nog met uw positieve\ntransformatie!";
+"Get 100% ready workouts courses with powerful support!"="Verkrijg 100% kant-en-klare workouts met krachtige ondersteuning!";
+"Only now"="Alleen nu";
+"GET LIFETIME ACCESS"="KRIJG ONBEPERKTE TOEGANG";
+"one-time payment"="eenmalige betaling";
+
+//Yoga
+"%d poses and %d yoga classes"="%d houdingen en %d yogalessen";
+"3 days for FREE"="3 dagen Gratis";
+"Ads FREE\nexperience"="Advertentieloze\nervaring";
+"Yoga"="Yoga";
+"Yoga\nClasses"="Yogalessen";
+"UNLOCK\nall music"="ONTGRENDEL\nalle muziek";
+"76% off"="76% korting"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="%@ per maand dat is dan %@ voor een heel jaar";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="Voedingsschema voor gewichtsverlies";
+
+//VGFIT WORKOUT
+"Nutrition plan for building muscle"="Opbouwen van spiermassa";
+"Nutrition plan for weight loss"="Strak lichaam";
+"Challenges"="Uitdagingen";
+"Ads FREE experience"="Advertentieloze\nervaring";
+"Nutrition plans"="Voedingsschema’s";
+"New Workouts"="Nieuwe \nworkouts";
+"ARMS | ABS"="ARMEN | ABS";
+"CLOSE"="SLUITEN";
+"Workout challenges"="Workout-uitdagingen";
+"Challenge"="Uitdaging";
+"Exercises"="Oefeningen";
+"Restore purchase"="Aankoop herstellen";
+"SHARE"="DELEN";
+"%d-day\nFree Trial"="%d-daagse\nGratis Proefperiode";
+"Try it Now"="Probeer het Nu";
+"GET LIFETIME ACCESS"="VERKRIJG ONBEPERKTE TOEGANG";
+"SKIP"="SKIP";
+"%@ WORKOUTS"="%@ WORKOUTS";// ex: 25 workouts
+"3-day \nFree trial"="3-daagse \nGratis proefperiode";
+"7-day \nFree trial"="7-daagse \nGratis proefperiode";
+"startKey"="Starten";
+//Exercise name
+
+"exerciseName1" = "Berghouding";
+
+"exerciseName2" = "Halve Lotus Lotushouding";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "Stoel Variatie ";
+
+"exerciseName5" = "Liggende Zijwaartse Strekking";
+
+"exerciseName6" = "Paradijsvogel";
+
+"exerciseName7" = "Grote Teen Houding Variatie";
+
+"exerciseName8" = "Boot";
+
+"exerciseName9" = "Boog";
+
+"exerciseName10" = "Brughouding Variatie";
+
+"exerciseName11" = "Kameel";
+
+"exerciseName12" = "Kat";
+
+"exerciseName13" = "Rugstrekking";
+
+"exerciseName14" = "Stoel";
+
+"exerciseName15" = "Gedraaide Stoel";
+
+"exerciseName16" = "Gedraaide Stoel met Gestrekte Armen";
+
+"exerciseName17" = "Kindhouding";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "Cobra";
+
+"exerciseName20" = "Lijkhouding";
+
+"exerciseName21" = "Koehouding";
+
+"exerciseName22" = "Koeiengezicht";
+
+"exerciseName23" = "Koeiengezichthouding Variatie";
+
+"exerciseName24" = "Halve Opwaartse Plank";
+
+"exerciseName25" = "Kraanvogel";
+
+"exerciseName26" = "Dolfijn";
+
+"exerciseName27" = "Sfinx";
+
+"exerciseName28" = "Voorarm Plankhouding";
+
+"exerciseName29" = "Neerwaartse Hond";
+
+"exerciseName30" = "Gedraaide Neerwaartse Hond";
+
+"exerciseName31" = "Kikker";
+
+"exerciseName32" = "Voltooide Houding met Adelaarsarmen Arms";
+
+"exerciseName33" = "Adelaar";
+
+"exerciseName34" = "Spinhouding";
+
+"exerciseName35" = "Zittende Torsie";
+
+"exerciseName36" = "Gemakkelijke Houding";
+
+"exerciseName37" = "Achthoekige Houding";
+
+"exerciseName38" = "Uitgestrekte Puppyhouding";
+
+"exerciseName39" = "Gebonden Zijwaartse Driehoek";
+
+"exerciseName40" = "Gewijzigde Zijwaartse Hoekhouding";
+
+"exerciseName41" = "Zijwaartse Hoekhouding";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "Enkel-tot-Kniehouding";
+
+"exerciseName44" = "Vis";
+
+"exerciseName45" = "Poorthouding";
+
+"exerciseName46" = "Paard";
+
+"exerciseName47" = "Tiger";
+
+"exerciseName48" = "Gedraaide Kameel";
+
+"exerciseName49" = "Halve Kikker";
+
+"exerciseName50" = "Sprinkhaan";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "Staande Halve Lotus";
+
+"exerciseName53" = "Halve Spagaat";
+
+"exerciseName54" = "Gebogen Halve Maan Variatie";
+
+"exerciseName55" = "Halve Maan";
+
+"exerciseName56" = "Kaarshouding";
+
+"exerciseName57" = "Marichihouding III";
+
+"exerciseName58" = "Hoofdstand";
+
+"exerciseName59" = "Tripod Hoofdstand";
+
+"exerciseName60" = "Blije Babyhouding";
+
+"exerciseName61" = "Reiger";
+
+"exerciseName62" = "Draaiende Lunge";
+
+"exerciseName63" = "Hoge Lunge";
+
+"exerciseName64" = "Buigende Krijger";
+
+"exerciseName65" = "Volledige Cobra";
+
+"exerciseName66" = "Danser";
+
+"exerciseName67" = "Wind Bevrijdende Houding Variatie";
+
+"exerciseName68" = "Achtledige Groet";
+
+"exerciseName69" = "Hagedishouding";
+
+"exerciseName70" = "Sprinkhaan Variatie";
+
+"exerciseName71" = "Halve Lunge met Twist";
+
+"exerciseName72" = "Staande Lunge";
+
+"exerciseName73" = "Zeemeermin";
+
+"exerciseName74" = "Eenbenige Opwaartse Boog";
+
+"exerciseName75" = "Haas";
+
+"exerciseName76" = "Koningsduif ";
+
+"exerciseName77" = "Pyramide";
+
+"exerciseName78" = "Halve Duif";
+
+"exerciseName79" = "Weegschaalhouding";
+
+"exerciseName80" = "Brughouding";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "Bidvariatie";
+
+"exerciseName83" = "Plankhouding";
+
+"exerciseName84" = "Dalende Dikke Teenhouding B";
+
+"exerciseName85" = "Ploeg";
+
+"exerciseName86" = "Tijger met Buigvariatie";
+
+"exerciseName87" = "Vreedzame Krijger";
+
+"exerciseName88" = "Halve Maan";
+
+"exerciseName89" = "Hoofd-tot-Kniehouding";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "Eenbenige Duif";
+
+"exerciseName92" = "Omgekeerde Hoofd-tot-Kniehouding";
+
+"exerciseName93" = "Omgekeerde Driehoek";
+
+"exerciseName94" = "Lage Lunge";
+
+"exerciseName95" = "Omgekeerde Staande Grote Teenhouding Variatie";
+
+"exerciseName96" = "Gedraaide Buikhouding";
+
+"exerciseName97" = "Liggende Gebonden Hoek";
+
+"exerciseName98" = "Liggende Dalende Teenhouding A";
+
+"exerciseName99" = "Zittende Voorwaartse Buiging";
+
+"exerciseName100" = "Staande Dalende Grote Teenhouding D";
+
+"exerciseName101" = "Zijwaartse Plank";
+
+"exerciseName102" = "Koeiengezicht Armen";
+
+"exerciseName103" = "Zittende Zijwaartse Buiging";
+
+"exerciseName104" = "Schouderstand Variatie";
+
+"exerciseName105" = "Staande Achteroverbuiging";
+
+"exerciseName106" = "Staande Dalende Grote Teenhouding B";
+
+"exerciseName107" = "Sprinkhaanvariatie met Verstrengelde Vingers";
+
+"exerciseName108" = "Stafhouding";
+
+"exerciseName109" = "Sfinx";
+
+"exerciseName110" = "Gewijzigde Zijwaartse Plank";
+
+"exerciseName111" = "Voorwaartse Buiging in Spreidstand";
+
+"exerciseName112" = "Yoga Squat";
+
+"exerciseName113" = "Zittende Voorwaartse Buiging in Spreidstand";
+
+"exerciseName114" = "Voorwaartse Buiging in Spreidstand C";
+
+"exerciseName115" = "Omgekeerde Hoofd-tot-Kniehouding Variatie";
+
+"exerciseName116" = "Gebonden Yoga Squat";
+
+"exerciseName117" = "Neerwaartse Reigerhouding";
+
+"exerciseName118" = "Voorwaartse Buiging in Spreidstand met Twist";
+
+"exerciseName119" = "Voorwaartse Buiging in Spreidstand met Zijwaartse Buiging";
+
+"exerciseName120" = "Slapende Vishnu";
+
+"exerciseName121" = "Opwaartse Gebonden Hoekhouding";
+
+"exerciseName122" = "Krijger 2";
+
+"exerciseName123" = "Staande Zijwaartse Buiging met Verstrengelde Vingers";
+
+"exerciseName124" = "Staande Spagaat";
+
+"exerciseName125" = "Staande Voorwaartse Buiging";
+
+"exerciseName126" = "Staande Dalende Grote Teenhouding A";
+
+"exerciseName127" = "Staande Voowaartse Buiging met Schouderopener Variatie";
+
+"exerciseName128" = "Krijger 1";
+
+"exerciseName129" = "Krijger 3";
+
+"exerciseName130" = "Staande Zijwaartse Buiging";
+
+"exerciseName131" = "Ondersteunende Schouderstand";
+
+"exerciseName132" = "Omgedraaide Plank met Heupopener";
+
+"exerciseName133" = "Staande Dalende Grote Teenhouding C met Voowaartse Buiging";
+
+"exerciseName134" = "Staande Voorwaartse Buiging met Twist";
+
+"exerciseName135" = "Ondersteunende Staande Achteroverbuiging";
+
+"exerciseName136" = "Vier Ledematen Stafhouding";
+
+"exerciseName137" = "Tafel & Vier Ledematen Stafhouding";
+
+"exerciseName138" = "Opwaartse Boog";
+
+//Exercise description
+
+"exerciseDescription1" = "Sta met je voeten op heupbreedte van elkaar met de buitenste randen van je voeten evenwijdig aan elkaar.  Maak je wervelkolom lang en trek je navel naar je wervelkolom toe.   Druk jezelf omhoog door de kruin van je hoofd en trek je stuitje naar je hielen.";
+
+"exerciseDescription2" = "Ga op de grond zitten, buig je linkerknie en plaats de buitenste rand van je linkervoet onder je rechterdij. Pak dan de buitenste rand van je rechtervoet en leg het in de vouw van je linkerheup.  Leg je handen met de handpalmen naar beneden op je knieën, en zit rechtop met ontspannen schouders.  Herhaal dit omgekeerd met het linkerbeen boven.";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = " Sta met je voeten op heupbreedte van elkaar. Breng je armen recht naar voren met de handpalmen naar beneden.  Buig je knieën en til je hielen over de ballen van je voeten op.";
+
+"exerciseDescription5" = "Ga op je rug liggen met de handpalmen onder je hoofd.  Kruis je linkerenkel over je rechterenkel.  Buig zijwaarts naar rechts door je bovenlichaam en benen naar rechts te brengen.  Keer terug naar het midden wissel het kruisen van de enkels met de de rechterenkel boven en buig zijwaarts naar links.";
+
+"exerciseDescription6" = "Sta voorover gebogen met je voeten op heupbreedte van elkaar.  Buig je knieën en haal de rechterarm tussen je benen, buig de elleboog en breng je rechterhand naar de buitenzijde van je rechterheup.  Buig je elleboog achter je rug en ga met je linkerhand naar de buitenzijde van je rechterheup.  Pak met de rechterhand de linkerpols vast. (Wanneer je niet bij je pols kunt komen, probeer de vingers van beide handen te verstrengelen.) \n \n Zodra je handen bij de buitenzijde van je rechterheup elkaar vast hebben, licht je je rechterhiel op, verplaats je gewicht naar je linkervoet en sta op je rechterbeen.  Houd de rechterknie gebogen, terwijl je op op je linkerbeen rechtop komt staan en je je wervelkolom strekt.  Tenslotte  druk je je rechterarm tegen het rechterbeen, terwijl je het rechterbeen zijwaarts omhoog brengt. \n \n Herhaal dit door op je rechterbeen te staan met je armen om je linkerbeen.";
+
+"exerciseDescription7" = "Zit met gebogen knieën en zet je voeten recht voor je plat op de vloer.  Leg je handen onder beide dijbenen en til je voeten van de grond, zodat je op je zitbeen balanceert.  Strek je benen zover als je kunt, maar zonder dat je je onderug rond maakt. Na verloop van tijd, als je flexibiliteit toeneemt, kan je je handen over je benen naar je voeten brengen en je grote tenen met de eerste drie vingers van elke hand vasthouden.";
+
+"exerciseDescription8" = "Zit met gebogen knieën en zet je voeten recht voor je plat op de vloer met de armen uitgestrekt.  Til je voeten van de grond en breng je schenen parallel aan het plafond met de armen uitgestrekt naast je benen.  Balanceer op je zitbeen en blijf minstens 5 ademhalingen in deze houding zitten.";
+
+"exerciseDescription9" = "Ga op je buik liggen, buig je knieën en pak vervolgens de buitenzijde van je enkels vast.  Til je hoofd, borst en benen van de grond.  Houd je knieën op heupbreedte van elkaar, terwijl je je door de kruin van je hoofd omhoog trekt en je scheenbenen richting plafond wijzen.";
+
+"exerciseDescription10" = "Ga met gebogen knieën op je rug liggen, de voeten plat op heupbreedte van elkaar met de buitenzijden parallel van elkaar. Houd de buitenzijde van je enkels met je handen vast, til je bekken op hef je borst omhoog.";
+
+"exerciseDescription11" = "Kniel met je scheenbenen parallel aan elkaar en de bovenzijde van de voeten op de vloer.  Breng je heupen boven je knieën en je schouders boven je heupen.  Trek je borst naar boven en houd de heupen boven de knieën, terwijl je van achteren je enkels vastpakt.";
+
+"exerciseDescription12" = "Begin in de tafelhouding op handen en knieën met je schouders boven je polsen en je heupen boven je knieën.  Als je uitademt, maak je je rug zo bol mogelijk, waardoor je hoofd richting vloer komt, je navel richting wervelkolom trekt en je stuitje naar voren richting vloer wordt gekanteld.";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "Sta met je voeten op heupbreedte uit elkaar met de buitenranden van je voeten parallel aan elkaar. Adem in en strek je armen langs je oren met de handpalmen naar elkaar toe.  Houd de armen en schouders uit elkaar, terwijl je door je knieën buigt en je je heupen naar achteren brengt.  Probeer de bovenbenen parallel aan elkaar te houden, terwijl je je onderbuik en borst optilt.";
+
+"exerciseDescription15" = "Sta met je grote tenen tegen elkaar aan met de buitenranden van de voeten parallel aan elkaar.  Buig je knieën en breng je handpalmen op borsthoogte tegen elkaar aan.  Adem in, maak je wervelkolom lang en houd de heupen laag.  Adem uit, draai naar rechts en breng je linkerelleboog naar buiten tegen je rechterdij.  Adem in en keer terug naar het midden met je handen in bidpositie voor je borst.  Adem uit als je naar de linkerzijde draait.";
+
+"exerciseDescription16" = "Sta met je grote tenen tegen elkaar aan met de buitenzijde van je voeten parallel aan elkaar.  Buig je knieën en breng je handpalmen op borsthoogte tegen elkaar aan.  Adem in, maak je wervelkolom lang en houd je heupen laag.  Adem uit, draai naar rechts en breng je linkerelleboog naar buiten tegen je rechterdij.  Spreid je armen in een \"T\" vorm zodat je linkervingertoppen naar beneden aan de buitenzijde van je rechterenkel wijzen en je rechterarm de lucht inwijst.  Kijk omhoog naar je rechterpalm. \n\n Adem in en keer terug naar het midden met je handen in bidpositie voor je borst.  Adem uit en draai naar links, en breng de rechterelleboog naar buiten tegen je linkerdij aan.  Spreid je armen, maar deze keer met je rechtervingertoppen naar beneden aan de buitenzijde van je linkerenkel wijzend en wijs met je linkerarm de lucht in.  Kijk omhoog naar je linkerpalm.";
+
+"exerciseDescription17" = "Begin op je handen en knieën in de tafelhouding. Breng de grote tenen bij elkaar, ga op je hielen zitten en leg je voorhoofd op de grond.  Leg je armen langs je lichaam met de handpalmen naar boven.";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = "Ga op je buik liggen en plaats je handpalmen aan weerszijden van je onderste ribben, net boven je middel.  Breng je bovenlichaam van de grond door op je handen te drukken en houd je knieën, schenen en de bovenzijde van je voeten op de grond.  Trek je stuitje naar je hielen en span je onderbuikspieren aan en strek je armen zodanig zonder dat het onplezierig in je onderrug aanvoelt. \n\n Houd je linkerpalm op de vloer, draai je borst en hoofd naar rechts en schuif je hand over de achterzijde van je rechterdij.  Keer terug naar het midden en herhaal dit aan de linkerzijde.";
+
+"exerciseDescription20" = "Ga op je rug liggen met je benen languit en je armen langs het lichaam met de handpalmen naar boven.  Sluit je ogen en ontspan je spieren, terwijl je jezelf licht maakt.";
+
+"exerciseDescription21" = "Begin op handen en voeten in de tafelhouding.  Als je inademt maak je je rug bol, til je je kin op en kijk je omhoog.";
+
+"exerciseDescription22" = "Ga op de grond zitten, buig je knieën en sla je rechterknie over je linkerknie heen, zodat de gekruiste knieën recht voor je navel zijn en je tussen je hielen zit.  Strek je linkerarm richting plafond, buig je onderarm en wijs met je vingertoppen naar beneden achter je rug.  Strek je rechterarm naar rechts uit en draai je rechterpalm naar boven en buig de elleboog zodanig dat je vingertoppen op je rug naar boven wijzen.  Vouw beide handen ineen. Herhaal dit aan de andere zijde met linkerknie boven en rechterarm boven.";
+
+"exerciseDescription23" = "Ga op de grond zitten, buig je knieën en sla je rechterknie over je linkerknie heen, zodat de gekruiste knieën recht voor je navel zijn en je tussen je hielen zit.  Maak je wervelkolom lang, terwijl je je armen langs je oren strekt.  Herhaal dit met de linkerknie over de rechterknie.";
+
+"exerciseDescription24" = "Ga met gebogen knieën zitten en plaats je voeten op heupbreedte van elkaar voor je neer.  Plaats je handpalmen op schouderbreedte afstand van elkaar achter je, waarbij je vingertoppen naar voren wijzen.  Til je bekken van de grond, zodat je knieën in een hoek van 90 graden worden gebogen.  Je knieën moeten in een rechte lijn met je enkels zijn en ook je schouders die in het verlengde van je polsen moeten zijn.  Druk naar beneden in de wijsvinger en duim van elke hand.  Om te beginnen zorg dat de nek in rechte lijn met je wervelkolom vormt en dat je neus naar het plafond wijst.  Als je geen nekproblemen hebt kun je het hoofd lichtelijk naar achteren laten vallen, zodat de onderkant van de schedel net boven de schouderbladen wordt gewiegd.";
+
+"exerciseDescription25" = "Sta voorover gebogen met je voeten bij elkaar. Buig je knieën en plaats je handen op schouderbreedte stevig op de vloer op ongeveer 30 cm voor je voeten.  Til je hielen hoog van de grond om je heupen te heffen en breng je knieën tegen je bovenarmen aan, zodat je armen een plank vormen.  Buig je ellebogen bijna 90 graden en laat ze over je polsen hellen.  Kijk naar een punt op de vloer dat voor je handen ligt en verschuif langzaam je gewicht naar je handen.  Zodra je schouders iets naar voren zijn verschoven en al het gewicht op je handen rust, oefen je om een of beide voeten van de grond te krijgen.  Na verloop van tijd oefen je tenen te strekken en ze richting je zitbeen te brengen.";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = "Ga op je buik liggen en kom op je onderarmen, omhoog, houd ze parallel aan elkaar en je ellebogen op schouderbreedte. Sleep je ellebogen naar je heupen toe, terwijl je je borst door je armen naar voren optrekt.  Strek je tenen en laat je stuitje naar je hielen wijzen.";
+
+"exerciseDescription28" = "Ga op je buik liggen en kom op je onderarmen omhoog, houd ze parallel aan elkaar en je ellebogen op schouderbreedte. Strek je tenen weg naar achteren en til je dijbenen en bekken van de vloer. Zorg dat je schouders recht boven je ellebogen zijn en trek je buik richting onderrug op.  Span de voorzijde van je dijen aan en trek je schaambeen naar je navel toe om te voorkomen dat je heupen de lucht insteken.";
+
+"exerciseDescription29" = "Begin op handen en knieën in de tafelhouding met je polsen onder je schouders en gespreide vingers.  Strek je voeten weg naar achteren zoals bij een plank – een hoge pushup met aanspannen van benen en buik.  Til vervolgens je heupen op en duw je borst richting je benen, terwijl je de hielen richting grond duwt.  Duw met de handen de grond weg om je bovenlichaam richting je benen te brengen.  Zet je wijsvinger en duim van beide handen stevig op de vloer en plaats je voeten op heupbreedte met je hielen in het verlengde van je tweede en derde tenen.";
+
+"exerciseDescription30" = "Begin op handen en knieën in de tafelhouding met je polsen onder je schouders en gespreide vingers.  Strek je voeten weg naar achteren zoals bij een plank – een hoge pushup met aanspannen van benen en buik.  Til vervolgens je heupen op en duw je borst richting je benen, terwijl je de hielen richting grond duwt.  Duw met de handen de grond weg om je bovenlichaam richting je benen te brengen.  Zet je wijsvinger en duim van beide handen stevig op de vloer en plaats je voeten op heupbreedte met je hielen in het verlengde van je tweede en derde tenen. \n\n Houd je rechterpalm stevig op de vloer, terwijl je je rechterarm tussen je benen brengt om de achterzijde van je linkerenkel of kuit vast te pakken.  Ga verder door  de achterzijkant van je heupen te bereiken en druk de grond weg met je linkerpalm.  Herhaal dit met de andere kant.";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = "Zit met knieën aan weerszijden gebogen en  voeten voor je schaambeen, linker voor de rechtervoet.  Buig je ellebogen en haak de rechterelleboog onder de linkerelleboog.  Kruis je onderarmen bij de polsen, zodat de palmen tegen elkaar komen.  Til je ellebogen op en duw je palmen naar voren.  Herhaal dit met de rechtervoet voor en linkerelleboog onder. ";
+
+"exerciseDescription33" = "Sta met je voeten bij elkaar en til je rechterhiel van de grond.  Buig je ellebogen en haak de rechterelleboog onder de linkerelleboog.  Kruis je onderarmen bij de polsen, zodat de palmen bij elkaar komen.  Til je ellebogen op en duw je palmen naar voren. \n\n Buig je linkerknie en kruis je rechterknie over de linker, terwijl je op je linkerbeen balanceert en de rechtergrote teen om je linkerenkel haakt.  Bij het naar achteren trekken van je heupen, blijft je borst opgeheven en ga door met tillen  van de ellebogen.";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = "Begin in een makkelijke kleermakerszit met je handpalmen op je knieschijven.  Adem in en verleng je wervelkolom.  Adem uit, draai naar links, waarbij je je linkervingertoppen op de vloer achter je plaatst en je rechterpalm op je linkerknieschijf legt.  Adem in, keer terug naar het midden.  Adem uit, draai naar rechts, plaats achter je je rechtervingertoppen op de vloer en laat je linkerpalm op je rechterknieschijf rusten.";
+
+"exerciseDescription36" = "Begin in een makkelijke kleermakerszit.  Plaats je handpalmen voor je op de vloer en schuif ze voor je uit, totdat je armen recht zijn.  Als je voorhoofd de grond niet raakt, laat het ter ondersteuning van je nek op een opgevouwen deken of handdoek rusten.  Herhaal dit met het andere been boven.";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = "Begin op handen en knieën in de tafelhouding.  Houd de knieën recht boven de heupen met de handen op schouderbreedte,  kruip zover als je kunt met je handen naar voren.  Breng je borst naar de grond.";
+
+"exerciseDescription39" = "Ga in een spreidstand staan met je voeten evenwijdig aan elkaar.  Draai de rechtervoet 90 graden naar buiten en buig de knie in een hoek van 90 graden, zodat de bovenzijde van het rechterdijbeen parallel aan de grond is.  Houd je rechterknie en enkel in een rechte lijn en strek je linkerbeen met de tenen lichtelijk naar binnen gedraaid.  Strek de rechterzijde van je bovenlichaam over je rechterdijbeen en breng je rechterarm naar je rechterbeen. \n\n Plaats je rechterarm onder je dijbeen, buig de elleboog en reik met je rechterhand naar de buitenzijde van je rechterheup.  Buig de linkerelleboog achter je rug en reik met de linkerhand naar de buitenzijde van de rechterheup.  Gebruik de rechterhand om de linkerpols vast te pakken. (Als je niet bij de pols kunt, probeer de vingers van beide handen te verstrengelen.) \n\n Als je armen om je rechterbeen zitten, trek je rechterheup naar je toe en leun achterover, zodat de rechterkant van je bovenlichaam over je dijbeen hangt.  Maak je nek aan weerskanten langer als je de kruin van je hoofd van je linkervoet wegduwt.  Druk de linkervoet in de grond en houd je rechterenkel in het midden tussen je tweede en derde teen. \n\n Herhaal aan de linkerzijde, met de armen om je linkerbeen, zodat de handen elkaar aan de buitenkant van de linkerheup treffen.";
+
+"exerciseDescription40" = "Ga in een spreidstand staan met je voeten evenwijdig aan elkaar. Draai de rechtervoet 90 graden naar buiten en buig de knie in een hoek van 90 graden, zodat de bovenzijde van het rechterdijbeen parallel aan de grond is. Houd je rechterknie en enkel in een rechte lijn en strek je linkerbeen met de tenen lichtelijk naar binnen gedraaid.  Strek de rechterzijde van je bovenlichaam over het rechterdijbeen en laat je rechterelleboog lichtjes op je rechterdijbeen steunen met de handpalm naar boven gericht.  Strek je linkerarm langs je linkeroor en draai je navel weg van je rechtervoet als je naar je linkerhand kijkt.  Druk de linkervoet in de grond en houd de rechterknie in het midden boven de tweede en derde teen. Herhaal dit voor de linkerzijde.";
+
+"exerciseDescription41" = "Ga in een spreidstand staan met je voeten evenwijdig aan elkaar.  Draai de rechtervoet 90 graden en buig de knie in een hoek van 90 graden, zodat de bovenzijde van het rechterdijbeen parallel aan de grond is.  Houd je rechterknie en enkel in een rechte lijn en strek je linkerbeen met de tenen lichtelijk naar binnen gedraaid. \n\n Strek de rechterzijde van je bovenlichaam over het rechterdijbeen en plaats je handpalm op de grond aan de binnenkant van je rechtervoet, zodat je schouder recht boven je pols valt.  Breng je linkerarm recht omhoog de lucht in en kijk naar je linkerhandpalm.  Druk de linkervoet in de grond en houd de rechterknie in het miden boven de tweede en derde teen.  Herhaal dit voor de linkerzijde.";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = "Ga zitten en buig je knie naar links, zodat de buitenste rand van je voet op de grond ligt en je scheenbeen evewijdig aan de voorkant van de mat is.  Buig de rechterknie naar rechts en leg het rechterscheenbeen bovenop de linker, zodat de rechterknie zich bovenop de linkerknie en de rechterenkel zich bovenop de linkerenkel bevindt. Buig in de mate dat je kunt langzaam naar voren.  Herhaal met het linkerscheenbeen boven.";
+
+"exerciseDescription44" = "Ga op je rug liggen met je armen langs het lichaam, handpalmen naar beneden.  Til je borst richting plafond en en laat je hoofd achterover hangen, zodat de kruin van je hoofd lichtjes op de grond ligt. Til je benen totdat ze een hoek van 45 graden met de vloer vormen.";
+
+"exerciseDescription45" = "Ga op je knieën zitten met je heupen boven je knieën, scheenbenen evenwijdig aan elkaar met de bovenzijde van je voeten op de grond.  Stap met je rechtervoet naar de rechterkant, zodat het been gestrekt wordt en de tenen naar rechts en de vloer wijzen.  Plaats je rechterhandpalm op je rechterdijbeen en strek je linkerarm langs je linkeroor. Buig vervolgens naar rechts en schuif je rechterhand naar je rechterenkel. Herhaal dit voor de linkerzijde.";
+
+"exerciseDescription46" = "Ga staan met je voeten op minstens een beenlengte van elkaar.  Draai je tenen naar buiten als je je knieën buigt en zorg dat ze recht boven je enkels staan.  Druk de binnenkant van de knieën richting kleine tenen en buig je ellebogen naar weerszijden, waardoor je met je armen een cactus vormt.";
+
+"exerciseDescription47" = "Begin op handen en knieën met gespreide vingers, polsen recht onder je schouders en je knieën in een lijn met je heupen.  Druk je vingertoppen en de bovenkant van je linkervoet in de grond, wanneer je je rechterbeen optilt en naar achteren uitstrekt.  Trek je buik en je voorste ribben naar je rug.  Herhaal dit met het rechterscheenbeen op de grond en het linkerbeen uitgestrekt.";
+
+"exerciseDescription48" = "Ga op je knieën zitten met je scheenbenen evenwijdig aan elkaar, de bovenzijde van je voeten op de vloer, heupen in een lijn boven de knieën en schouders recht boven de heupen.  Breng je borst richting plafond omhoog en houd de heupen in een lijn met de knieën, als je je handen achter je laat zakken om je hielen vast te pakken. \n\n Houd je linkerhand op je linkerhiel, terwijl je indamt en je je rechterarm richting lucht uitstrekt.  Adem uit bij het naar links draaien van je borst.  Breng vervolgens de rechterhand naar de hiel en draai je borst in de richting van de lucht. Tijdens het uitademen, draai je je borst naar rechts.  Breng beide handen weer naar de hielen terug en richt je borst naar de lucht op, voordat je op je hielen gaat zitten met je handen op je dijen om uit de houding te komen. ";
+
+"exerciseDescription49" = "Ga op je buik liggen en kom omhoog op je ellebogen, zodat je voorarmen evenwijdig aan elkaar en de ellebogen op schouderbreedte zijn.  Breng je linkerhand met de palm naar beneden naar rechts, waardoor je linkerarm parallel aan de voorzijde van de mat komt te liggen.  Buig je rechterknie, pak met je rechterhand je rechtervoorvoet vast, waardoor de rechterhiel richting buitenzijde van je heup wordt getrokken.  Houd de muis van je hand op de voorvoet, terwijl je je vingertoppen naar rechts draait en ze vervolgens naar de rechterhiel laat wijzen.  Buig je rechterelleboog naar de rechterzijde, als je je rechterborst omhoog brengt.  Herhaal dit voor de linkerkant.";
+
+"exerciseDescription50" = "Ga op je buik liggen met je kin op de grond en de armen langs je lichaam.  Beweeg je armen onder je bovenlichaam naar elkaar toe en sla ze ineen.  Til beide benen van de vloer op en strek je tenen. \n\n Breng beide benen weer terug op de grond, laat je handen los en draai de handpalmen naar beneden.  Til je rechterbeen op.  Laat het rechterbeen een beetje zakken en til vervolgens het linkerbeen op.  Breng het linkerbeen weer terug op de grond.";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = "Sta met je voeten bij elkaar, verplaats je gewicht naar je linkervoet en trek je rechterknie naar je borst.  Houd de buitenrand van je rechtervoet in je linkerhand en plaats het tegen je linkerheup aan.    Strek beide armen langs je oren uit.  Herhaal dit door op het rechterbeen te staan met een gebogen linkerknie en de buitenzijde van de linkervoet tegen je rechterheup te plaatsen.";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = "Ga met gestrekte benen naar voren zitten.  Buig de linkerknie en plaats je linkervoet binnen in je rechterbeen.  Zet je  linkerhandpalm achter je op de grond neer. Adem in, terwijl je je rechterarm langs je oor optilt en je wervelkolom langer maakt.  Adem uit, terwijl je naar links draait en je je rechterelleboog aan de buitenzijde van je linkerdijbeen haakt.  Herhaal dit met een gebogen rechterknie, draaiend naar rechts.";
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = "Ga op je rug liggen, buig je knieën en pak de buitenkant van je voeten vast.  Houd je voeten stevig vast, breng je knieën richting oksels en strek de binnenkant van je dijen.  Houd zoveel mogelijk je onderug op de grond.";
+
+"exerciseDescription61" = "Ga tussen je hielen zitten met je knieën bij elkaar en de bovenkant van je voeten op de vloer.  Zet je rechtervoet voor je op de grond en verstrengel je vingers onder je rechtervoetboog.  Strek je rechterbeen in de lucht, terwijl je je wervelkolom langer maakt en hef je borst    in de richting van de bovenkant van je rechtervoet.";
+
+"exerciseDescription62" = "Begin in een lunge met je linkervoet naar voren en laat je handen op je linkervoet op de grond rusten.  Zorg ervoor dat je linkerknie in een hoek van 90 graden is gebogen en recht boven je enkel valt, strek je rechterbeen naar achteren en houd de bal van je rechtervoet op de vloer.  Breng je buik van je linkerdijbeen omhoog en vouw je handen in bidpositie voor je borst.  Adem in, maak je wervelkolom langer en adem uit bij het naar rechts draaien, waarbij je je rechterelleboog tegen de buitenkant van je linkerknie zet.  Druk je rechterhand tegen de linker aan, kijk over je linkerschouder en druk je rechterhiel richting lucht.  Herhaal dit met het rechterbeen voor met de draai naar rechts.";
+
+"exerciseDescription63" = "Stap in een lunge met een gebogen rechterknie in een hoek van 90 graden en zorg dat de rechterknie recht boven je enkel valt, strek je linkerbeen naar achteren en houd de bal van de linkervoet op de vloer.  Breng je schouders omhoog tot ze één lijn met je heupen vormen, zet je handen op je heupen en breng de rechterheup naar achteren en de linkerheup naar voren.  Strek je armen langs je oren uit.  Herhaal dit met het linkerbeen voor.";
+
+"exerciseDescription64" = "Stap in een lunge met een gebogen rechterknie in een hoek van 90 graden en zorg dat de rechterknie recht boven je enkel valt, strek je linkerbeen naar achteren en houd de bal van de linkervoet op de vloer.  Breng je schouders omhoog, tot ze één lijn met je heupen vormen en verstrengel je vingers achter je rug.  Buig voorover aan de binnenkant van je rechterbeen, breng de kruin van je hoofd naar de vloer en hef je ineengestrengelde handen van je onderrug.  Breng de rechterheup naar voren als je je linkerhiel opwaarts richting plafond drukt.  Herhaal dit met het linkerbeen voor en een tegengestelde handgreep, dat is tegenovergestelde wijsvinger en duim boven.";
+
+"exerciseDescription65" = "Ga op je buik liggen en zet je handen aan weerskanten van je borst neer.  Druk je handen in de vloer en kom met het bovenlichaam omhoog.  Buig je knieën, strek je tenen en buig je borst vooruit als je met je handen en de kruin van je hoofd naar je voeten reikt.";
+
+"exerciseDescription66" = "Sta met je voeten naast elkaar en breng je rechterarm naar voren op schouderhoogte.  Verplaats je gewicht naar je rechtervoet bij het buigen van de linkerknie, til je linkervoet richting linkerzitbeen en houd de binnenkant van je linkervoet in de linkerhand.  Trek je linkerdijbeen naar achteren bij het vooruit heffen van je borst, waarbij je je linkerknie naar het midden van je lichaam brengt.  Til je rechterarm richting plafond omhoog en hef je borst van de bovenkant van je linkerdijbeen.  Herhaal dit staand op het linkerbeen.";
+
+"exerciseDescription67" = "Ga op je rug met gestrekte benen liggen. Trek je linkerknie in de richting van je borst en verstrengel je vingers aan de buitenkant van je been.  Herhaal dit met het linkerbeen gestrekt en de rechterknie gebogen.";
+
+"exerciseDescription68" = "Begin op handen en knieën met je polsen recht onder je schouders, je knieën onder je heupen en met ingetrokken tenen.  Adem in en maak je rug bol.  Adem uit en houd je zitbeen opgeheven, buig je ellebogen en breng je borst en kin naar de vloer.  Als tegengestelde houding mag je op je rug liggen, je knieën naar je borst brengen en vasthouden om de onderrug te ontspannen.";
+
+"exerciseDescription69" = " Begin in een lunge met je rechtervoet naar voren en laat je handen op je rechtervoet op de grond rusten.  Zorg dat je rechterknie in een hoek van 90 graden is gebogen en recht boven je enkel valt.  Laat je linkerknie en de bovenkant van je linkervoet naar de vloer zakken. Zet je rechterhandpalm aan de binnenzijde van je rechtervoet en laat beide ellebogen naar de vloer zakken, zodat ze één lijn met je rechterhiel vormen met de onderarmen evenwijdig aan elkaar.  Houd je rechterknie dichtbij je rechterschouder, maak je langer vanaf je rug tot helemaal aan je hoofdkruin.  Herhaal dit voor de linkerkant.";
+
+"exerciseDescription70" = "Ga op je buik liggen met je armen langs je lichaam.  Til je armen van de grond draai je handpalmen naar boven en breng je duimen achter je rug.  Hef je borst, hoofd en benen van de vloer. Strek je tenen en reik achter naar je voeten.";
+
+"exerciseDescription71" = "Begin in een lunge met je rechtervoet naar voren en laat je handen op je rechtervoet op de grond rusten.  Zorg dat je rechterknie in een hoek van 90 graden is gebogen en recht boven de enkel valt.  Laat je linkerknie en de bovenkant van je linkervoet naar de vloer zakken. Leg je handen op je rechterdijbeen en breng je borst omhoog tot je schouders één rechte lijn met je heupen vormen. \n\n Adem in, maak je wervelkolom langer en draai naar rechts, waarbij je je linkerpalm tegen de buitenkant van je rechterknie zet en je je rechterhand naar achteren aan de onderkant van je linkerdijbeen brengt.  Ter afronding van de twist kijk over je rechterschouder. t\n\n Herhaal dit aan de linkerkant.";
+
+"exerciseDescription72" = "Begin in een lunge met je rechtervoet naar voren en je rechterknie recht boven je rechterenkel.  Laat je linkerknie achter je naar de vloer zakken en plaats de bovenkant van je linkervloet op de vloer.  Positioneer je heupen door de rechterheup naar achteren te schuiven en de linkerheup naar voren richting de binnenkant van de rechterdij te brengen.  Strek je armen langs je oren en hef je buik van de bovenkant van je rechterdijbeen en steek je borst vooruit in de richting van de lucht.  Kijk omhoog tussen je handpalmen.";
+
+"exerciseDescription73" = "Begin op handen en knieën in de tafelhouding.  Plaats de buitenkant van je linkervoet tussen je rechterpols.  Strek het rechterbeen zover mogelijk naar achteren met ingetrokken tenen, voordat je de rechterknie en de bovenzijde van de voet op de vloer plaatst.  Breng je schouders boven je heupen en plaats de buitenkant van je linkervoet voor je rechterheup.  Buig je rechterknie, pak je rechtervoet met je rechterhand vast en plaats de voet bij de buitenkant van je rechterheup.  Leg de voet in de kromming van je rechterelleboog.  Strek de linkerarm langs je oor en buig je linkerelleboog, zodat je vingers richting vloer wijzen. Verstrengel de vingers van beide handen met elkaar bij het omhoog heffen van je borst.";
+
+"exerciseDescription74" = "Ga op je rug met je armen langs het lichaam liggen met de voetzolen op heupbreedte afstand.  De buitenranden van je voeten moeten evenwijdig aan elkaar liggen en binnen handbereik van je vingers zijn.  Buig je ellebogen en zet je handpalmen op schouderhoogte op de grond.  Breng je bekken, borst en hoofd van de grond.  Draai je heupen zodanig dat de buitenkant van je dijbenen naar de binnenkant van je dijen roteert.  Zorg dat je borst tussen je armen valt. \n\n Breng je voeten bij elkaar en verplaats je lichaamsgewicht naar je linkervoet, buig je rechterknie richting borst en strek het rechterbeen recht de lucht in.  Breng de rechtervoet weer naar de grond en herhaal dit met het linkerbeen opgetild.";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = "Begin op handen en knieën in de tafelhouding.  Plaats je linkerknie achter je rechterpols en plaats de buitenkant van je linkervoet achter je linkerpols.  Strek het rechterbeen met de tenen op de grond zover als je kunt, voordat je de rechterknie en de bovenzijde van voet op de vloer plaatst.  Breng je schouders boven je heupen, plaats de buitenkant van je linkervoet voor je rechterheup en zet je handen met de palmen naar beneden naast je neer bij het omhoog brengen van de rug.  Herhaal dit met de gebogen rechterknie naar voren.";
+
+"exerciseDescription77" = "Sta met je voeten naast elkaar.  Stap met je linkervoet ca. een beenlengte terug en plaats die voet in een hoek van 30 graden naar buiten.  Adem in, druk je rechterhiel in de grond en maak je wervelkolom langer.  Adem uit, buig over je rechterbeen en laat je handen rusten op de rechtervoet.  Herhaal met de linkervoet voor.";
+
+"exerciseDescription78" = "Begin op handen en knieën in de tafelhouding.  Plaats je rechterknie direct voor je rechterheup en plaats je rechtervoet zo dicht mogelijk achter je linkerpols en houd je lichaamsgewicht in het midden van beide kanten.  Strek het linkerbeen met ingetrokken tenen zover mogelijk naar achteren, voordat je de linkerknie en de bovenkant van de linkervoet op de grond plaats.  Zorg ervoor de je linkergrote teen recht naar achteren wijst en je lichaamsgewicht in het midden blijft (d.w.z. leun niet naar rechts), voordat je voorover over je rechterscheenbeen buigt.  Herhaal dit met de linkerknie voor.";
+
+"exerciseDescription79" = "Ga met gestrekte benen voor je uit zitten.  Buig je rechterknie en plaats de buitenkant van je rechtervoet op je linkerdijbeen tegen je linkerheup aan.  Buig de linkerknie en kruis het linkerscheenbeen over het rechter om je linkervoet op je rechterdijbeen tegen je rechterheup te plaatsen.  (Als het je veel moeite kost om dit uit te voeren, neem a.u.b. GEEN risico voor je knieën, door toch te proberen dit uit te voeren. In plaats hiervan kan je simpelweg de linkerenkel over de rechter kruisen.) \n\n Zet je handpalmen een paar centimeter voor je heupen aan weerszijde van je dijen op de vloer.  Adem uit, trek je navel in de richting van je wervelkolom, druk je handen in de vloer en kom omhoog van de grond met je bekken en dijbenen.  Herhaal met het rechterscheenbeen of enkel boven op links.";
+
+"exerciseDescription80" = "Ga met je armen langs je lichaam liggen en met je voetzolen op heupbreedte.  De buitenranden van je voeten moeten evenwijdig aan elkaar liggen en binnen handbereik van je vingers zijn.  Breng je bekken omhoog, breng onder je de bovenarmen naar elkaar toe en vouw de handen in ineen op de grond.  Oefen druk uit op de achterzijde van je armen om je borst op te tillen. \n\n Breng je voeten bij elkaar, trek je rechterknie naar je borst toe en strek het rechterbeen recht de lucht in.  Breng je rechtervoet terug op de vloer en herhaal dit met het linkerbeen opgetild.";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = "Sta met je voeten op heupbreedte van elkaar.  Verstrengel je vingers voor je, draai je handpalmen naar buiten en strek je armen langs je oren met handpalmen gericht naar het plafond.  Herhaal dit met een tegenovergestelde handgreep, m.a.w. met de andere wijsvinger en duim boven";
+
+"exerciseDescription83" = "Begin op handen en knieën in de tafelhouding.  Houd je schouders recht boven je polsen en stap met je voeten naar achteren totdat je in een pushuphouding bent.  Alleen je handen en de ballen van je voeten mogen op de grond zijn.  Druk je vingertoppen in de vloer, til je buik in de richting van je onderrug en trek je hielen naar de lucht.  Druk de kruin van je hoofd naar boven om je nek te verlengen.  Zorg ervoor dat je heupen niet de lucht insteken, in plaats hiervan til je schaambeen richting je navel.";
+
+"exerciseDescription84" = "Ga met gestrekte benen op je rug liggen, hielen op de grond met de tenen gestrekt naar het plafond.  Trek je linkerknie naar je borst en breng je linkerarm naar de binnenkant van het linkerbeen, pak met je eerste drie vingers van je linkerhand je linkergrote teen vast voor de \"yoga teengreep\".  Houd je rechterbil aan de grond en duw de rechterdij naar de vloer toe, bij het strekken van je linkerbeen naar de linkerkant.  Herhaal dit en houd de rechtergrote teen vast.";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = "Begin op handen en knieën in de tafelpositie.  Houd je schouders recht boven je polsen, til je rechterbeen van de grond en buig je rechterknie alsof je voet op het plafond wil stappen.  Reik met je linkerhand naar de voet om de bovenkant ervan vast te pakken.  Druk je voet in je hand bij het omhoog komen van je borst.  Herhaal dit naar de andere kant.";
+
+"exerciseDescription87" = "Ga in spreidstand staan met de voeten evenwijdig aan elkaar.  Draai de rechtervoet in een hoek van 90 graden naar buiten en buig je rechterknie in een hoek van 90 graden, zodat de bovenkant van je dijbeen parallel aan de grond is.   Houd je rechterknie recht boven je rechterenkel en het linkerbeen recht met de linkertenen lichtelijk naar binnen gedraaid. Laat je linkerhandpalm lichtjes op je linkerdijbeen rusten en strek je rechterarm langs je rechteroor uit.  Als je zijwaarts richting je linkerbeen buigt, laat je linkerhand langs je been afglijden.  Trek je rechterheup onder je als je rustig je rechterknie naar je kleine teen duwt.  Herhaal dit naar linkerkant.";
+"exerciseDescription88" = "Sta voorover gebogen en breng je borst naar voren bij het plaatsen van je vingertoppen onder je schouders op de grond.  Verplaats je lichaamsgewicht op je linkervoet, houd je heupen recht en zwaai je rechterbeen recht naar achteren.  Plaats je rechterpalm op de grond bij het draaien van je borst naar links en bij het uitstrekken van je arm naar de lucht.  Kijk omhoog naar je linkerhand.";
+
+"exerciseDescription89" = "Ga met gestrekte benen voor je uit zitten.  Plaats de linkervoetzool tegen de binnenkant van je rechterdijbeen.  Buig je rechtervoet, adem in en strek je armen langs je oren.  Adem uit, buig over het rechterbeen, maar buig vanuit de heupen en niet vanuit je taille. Zorg ervoor de je je onderrug niet rond maakt.  Herhaal dit met het linkerbeen gestrekt en de rechterknie gebogen.";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = "Ga met gestrekte benen voor je uit zitten.  Plaats de rechtervoetzool tegen de binnenkant van je linkerdijbeen.  Draai je bovenlichaam naar rechts, plaats je linkerelleboog aan de binnenkant van je linkerknie op de grond en houd de binnenkant van je linkervoet in je linkerhand.  Strek je rechterarm langs je oor en houd de bovenkant van je linkervoet in je rechterhand. Houd je rechterbil stevig op de vloer bij het draaien van je borst richting lucht.  Herhaal dit met de linkerknie gebogen met het rechterbeen recht gestrekt en een zijwaartse buiging over het rechterbeen.";
+
+"exerciseDescription93" = "Ga staan met je voeten naast elkaar.  Stap met je rechtervoet ongeveer een beenlengte naar achteren en draai die voet naar rechts op een hoek van 30 graden.  Plaats je handen aan de buitenkant van je heupen, adem in maak je wervelkolom langer, terwijl je je borst naar voren buigt parallel aan de vloer.  Adem uit, draai naar links, plaats je rechterhandpalm aan de buitenzijde van je linkervoet en reik met je linkerarm omhoog naar het plafond.  Herhaal dit met het rechterbeen voor en de draai naar de rechter kant.";
+
+"exerciseDescription94" = "Sta voorover gebogen en buig je knieën, maak een tentvorm met je vingertoppen aan weerszijde van je voeten.  Stap met de rechtervoet naar achteren, houd je rechterknie gebogen in een hoek van 90 graden en rechtboven je rechterenkel.  Trek je borst naar voren en druk je linkerhiel naar het plafond.  Herhaal dit met de linkerknie voor.";
+
+"exerciseDescription95" = "Ga staan met je voeten op heupbreedte van elkaar.  Plaats je linkerhand op de linkerkant van je taill, verplaats je lichaamsgewicht naar je rechtervoet en til je linkerknie naar je borst.  Pak met de eerste drie vingers van je rechterhand je rechtergrote teen vast en strek je linkerbeen naar rechts bij het naar links draaien van je bovenlichaam.";
+
+"exerciseDescription96" = "Ga op je rug liggen met je armen gespreid in een \"T\" vorm.  Pak je knieën op borsthoogte vast, houd ze bij elkaar, laat ze naar links vallen en kijk naar rechts. Breng je knieën weer terug naar het midden en plaats je hoofd weer op de vloer, voordat je de knieën naar rechts laat vallen en naar links kijkt.";
+
+"exerciseDescription97" = "Ga op je rug liggen, plaats je voetzolen tegen elkaar aan en laat je knieën naar weerszijden laat vallen.  Houd je ellebogen boven je hoofd.";
+
+"exerciseDescription98" = "Ga met gestrekte benen op je rug liggen, hielen op de grond met de tenen gestrekt naar het plafond.  Trek je linkerknie naar je borst en breng je linkerarm naar de binnenkant van het linkerbeen, pak met je eerste drie vingers van je linkerhand je linkergrote teen vast.  Houd je rechterbil aan de grond en duw de rechterdij naar de vloer toe, bij het strekken van je linkerbeen.  Trek je rechterdij naar je buik toe.  Herhaal dit naar de rechterkant.";
+
+"exerciseDescription99" = "Ga met gestrekte benen voor je uit zitten, hielen op de grond met de tenen gestrekt naar het plafond. Adem in, hef je armen langs je oren en maak je wervelkolom langer.  Adem uit, buig voorover vanuit je heupen en breng je buik op je dijbenen.  Houd je voeten vast en als je kunt buig je ellebogen naar weerszijden om nog dieper de voorwaartse buiging uit te voeren.";
+
+"exerciseDescription100" = "Ga rechtop staan met je voeten naast elkaar met je handen op je taille.  Spits je rechtertenen bij het naar voren strekken van je rechterbeen en til het zo hoog mogelijk op, zonder dat je je heupen beweegt.  Breng het rechterbeen weer aan de grond, verplaats het lichaamsgewicht naar je rechtervoet en herhaal met het gestrekte linkerbeen naar voren.";
+
+"exerciseDescription101" = "Begin in de hoge plankpositie – een pushuphouding met rechte armen, schouders recht boven de polsen met  hielen die naar de lucht wijzen.  Verplaats je lichaamsgewicht naar de rechterzijde, rol naar de buitenkant van je rechtervoet.  Breng de linkervoet boven de rechter en de linkerschouder boven de rechter.  Strek je linkerarm naar de lucht.  Strek je tenen naar je hoofd en druk je rechtervingertoppen stevig in de vloer, met name je wijsvinger en duim. \n\n Buig je linkerknie naar je linkerschouder en pak met de eerste drie vingers van je linkerhand je linkergrote teen in een \"yoga teengreep\" vast.  Strek het rechterbeen richting lucht en houd de linkerheup boven de rechter. \n\n Herhaal dit naar de linkerkant met het rechterbeen gestrekt.";
+
+"exerciseDescription102" = "Ga in een comfortabele kleermakerszit zitten met het linkerbeen boven.  Strek je armen langs je oren en buig beide ellebogen, zodat je vingers naar je rug wijzen.  Houd je rechterelleboog in je linkerhand en trek het zachtjes naar links, waar door je achterhoofd naar je rechterarm wordt geduwd.  Strek vervolgens de linkerarm naar links en draai je duim naar beneden, waardoor je linkerarm naar binnen draait.  Buig de linkerelleboog achter je, zodat je linkervingertoppen op je rug naar boven wijzen en de elleboog naar beneden wijst.  Indien mogelijk verstrengel de vingertoppen van beide handen. \n\n Herhaal met het rechterbeen boven en linkerarm boven.";
+
+"exerciseDescription103" = "Ga in een comfortabele kleermakerszit zitten met het linkerbeen boven.  Zet je rechtervoorarm met de vingertoppen die naar rechts wijzen, rechts van je neer.  Houd je linkerbil stevig op de vloer bij het langs je linkeroor strekken van je linkerarm. \n\n Herhaal met het rechterbeen boven en een gestrekte rechterarm langs je oor.";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = "Ga staan met je voeten niet verder dan een heupbreedte uit elkaar.  Adem in, strek je armen langs je oren.  Adem uit bij het opheffen van je borst naar de lucht en leun achterover.  Houd de binnenzijde van je voeten stevig op de grond en til de binnenkant van je dijen naar de ruimte achter je.  Bij elke volgende inademing, maak de voorkant van je wervelkolom langer en bij elke volgende uitademing trek je voorste ribben naar je rug.  Bij het opheffen van je borst, druk het bekken naar de grond. towards the ground.";
+
+"exerciseDescription106" = "Ga staan met de voeten naast elkaar.  Verplaats je lichaamsgewicht naar je linkervoet als je je rechterknie naar je borst trekt.  Reik naar je rechterarm via de binnenkant van je rechterbeen en pak met de eerste drie vingers je grote teen in de \"yoga teengreep\" vast.  Houd de heupen recht en strek je rechterbeen in een hoek van 45 graden naar rechts uit. \n\n Herhaal dit staande op het rechterbeen en met het linkerbeen gestrekt.";
+
+"exerciseDescription107" = "Ga op je buik liggen met je voorhoofd op de grond en verstrengel je vingers achter je.  Strek je tenen en til je borst en hoofd van de grond.  Til je samengevouwen handen op hef ze achter je rug.  Til je kin op en kijk naar het puntje van je neus. \n\n Herhaal dit met de tegenovergestelde handgreep, dat is met de wijsvinger en duim van de andere hand boven.";
+
+"exerciseDescription108" = "Zit rechtop met gestrekte benen voor je uit, hielen op de grond en de voeten gebogen.  Plaats aan weerszijden je ellebogen onder je schouders met de handpalmen naar beneden gericht.  Adem in en maak je wervelkolom langer en adem uit bij het intrekken van je navel naar je wervelkolom.";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "Begin in de tafelpositie op handen en knieën met de polsen recht boven de schouders en knieën recht boven de heupen.  Stap met je linkervoet naar achteren en zet de hiel zodanig neer, dat de tenen naar links wijzen.  Plaats de rechtervoet achter je met de bovenkant van de voet op de grond met de tenen naar rechts wijzen.  Breng de linkerschouder boven de rechter bij het naar de lucht uitstrekken van je linkerarm.  Herhaal dit met het rechterbeen gestrekt en linkerscheenbeen op de grond.";
+
+"exerciseDescription111" = "Ga staan met je voeten op minstens een beenlengte van elkaar met de tenen lichtelijk naar binnen gedraaid.  Buig vanuit de heupen, breng je borst vooruit naar de grond en plaats je handpalmen onder je schouders op de vloer.  Als je de kruin van je hoofd naar de vloer laat komen, laat dan je ellebogen richting vloer zakken en probeer ze op schouderbreedte te houden.";
+
+"exerciseDescription112" = "Ga staan met je voeten op iets meer dan heupbreedte van elkaar met de tenen naar buiten gedraaid.  Buig je knieën en laat je tussen je hielen zakken.  Vouw je handen op borsthoogte in bidpositie en plaats je ellebogen tegen de binnenkant van je dijbenen.  Druk de ellebogen tegen de binnenkant van je dijbenen en druk tegelijkertijd met je dijbenen tegen je ellebogen aan.  Maak je wervelkolom langer, zodat de kruin van je hoofd omhoog komt en je staartbeen naar beneden komt.  Naar verloop van tijd zou je de buitenkant van je voeten parallel aan elkaar kunnen laten staan.";
+
+"exerciseDescription113" = "Ga met gespreide benen zitten en de tenen naar de lucht gestrekt.  Adem in en maak je wervelkolom langer, adem uit bij het vanuit de heupen naar voren buigen en je met je handen naar voren kruipt.  Houd het midden van je hielen stevig op de grond en je bekken gekanteld als je voorover buigt.";
+
+"exerciseDescription114" = "Ga met je voeten op minstens een beenlengte van elkaar staan met je tenen lichtelijk naar binnen gedraaid.  Verstrengel je vingers achter je.  Buig vanuit je heupen naar voren en kom met de kruin van je hoofd naar de vloer tussen je voeten en breng je samengevouwen handen naar de grond. \n\n Herhaal dit met de tegenovergestelde handgreep, dat is met de wijsvinger en duim van de andere hand boven.";
+
+"exerciseDescription115" = "Ga met gespreide benen zitten en de tenen naar de lucht gestrekt.  Draai je bovenlichaam naar rechts, plaats je linkerelleboog op de vloer aan de binnenkant van je linkerbeen en houd de binnenzijde van je linkervoet in je linkerhand.  Strek je rechterarm langs je oor en houd de bovenkant van je linkervoet in je rechterhand.  Zorg ervoor dat je rechterbil en rechterbeen stevig op de grond zijn als je je borst richting lucht draait.  Herhaal de zijwaartse buiging over het rechterbeen.";
+
+"exerciseDescription116" = "Ga staan met je voeten op iets meer dan heupbreedte van elkaar met de tenen naar buiten gedraaid.  Buig je knieën en laat je tussen je hielen zakken.  Vouw je handen op borsthoogte in bidpositie en plaats je ellebogen tegen de binnenkant van je dijbenen. \n\n Adem in, maak je wervelkolom langer en adem uit bij het draaien naar links en je je armen open spreid.  Draai je duimen naar beneden om beide armen naar binnen te draaien.   Buig je linkerelleboog achter je rug en sla je rechterelleboog om de buitenkant van je rechterscheenbeen heen.  Indien mogelijk vouw de handen samen bij de buitenzijde van de rechterheup. \n\n Herhaal dit door naar rechts te draaien en de armen om het linkerbeen heen te slaan.";
+
+"exerciseDescription117" = "Begin in de tafelhouding op handen en knieën.  Breng je grote tenen bij elkaar en spreid je knieën wijder dan je heupen uit. Kruip op je handen naar voren en laat je romp tussen je benen rusten met je voorhoofd op de grond.";
+
+"exerciseDescription118" = " Ga met je voeten op minstens een beenlengte van elkaar staan met je tenen lichtelijk naar binnen gedraaid.  Buig vanuit de heupen, breng je borst naar de vloer en plaats je handen onder je schouders op de vloer.  Adem in, maak je wervelkolom langer, waardoor de kruin van je hoofd verder weg van je heupen komt te staan.  Adem uit, draai naar links en strek je linkerarm naar de lucht. \n\n Zet je linkerhand weer terug onder je rechterschouder op de grond.  Adem in, maak je wervelkolom langer en adem, draai naar rechts en breng de rechterarm de lucht in.";
+
+"exerciseDescription119" = " Ga met je voeten op minstens een beenlengte van elkaar staan met je tenen lichtelijk naar binnen gedraaid.  Buig vanuit de heupen, breng je borst naar de vloer en plaats je handen onder je schouders op de vloer.  Kruip op je handen naar rechts en houd de buitenkant van de rechterenkel vast, waardoor je kin richting rechterscheen gaat.  Kruip op je handen terug naar het midden en vervolgens naar links, waarbij je de buitenkant van de linkerenkel vastpakt en je kin naar het linkerscheenbeen wordt geleid.";
+
+"exerciseDescription120" = "Ga op je rug liggen.  Strek je linkerarm langs je linkeroor als je op je linkerzijde rolt.  Buig je linker elleboog en rust met de zijkant van je hoofd op je linkerhandpalm.  Buig je rechterknie naar je rechterschouder en pak met de eerste drie vingers van je rechterhand je grote rechterteen vast.  Strek zover als je kunt je rechterbeen uit, waarbij je linkerkant op de grond blijft, waarbij je rechterbil dichtbij de binnenkant van je linkerdij wordt gebracht. \n\n Herhaal dit door op je rechterkant te liggen en je grote linkerteen vast te houden.";
+
+"exerciseDescription121" = "Ga zitten met de voetzolen tegen elkaar aan voor je bekken en de knieën aan weerszijden naar buiten gedraaid.  Pak met de eerste drie vingers van iedere hand de grote teen vast.  Leun achterover zodat je lichaamsgewicht naar je zitbeen wordt verplaatst.  Houd de wervelkolom lang en de knieën gebogen, breng de voeten uit elkaar en til ze van de grond, zodat je balanceert op je zitbeen.  Spreid de benen langzaam aan weerskanten, terwijl je je borst omhoog brengt.";
+
+"exerciseDescription122" = "Ga in spreidstand staan met de je voeten evenwijdig aan elkaar.  Draai de rechtervoet 90 graden naar buiten en buig je knie in een hoek van 90 graden, zodat de bovenzijde van je rechterdijbeen parallel is aan de grond.  Houd je rechterknie recht boven je rechterenkel en het linkerbeen gestrekt met de tenen lichtelijk naar binnen.  Houd je schouders in een rechte lijn boven je heupen als je je armen in tegenovergestelde richtingen strekt en kijk over je rechterhandpalm. \n\n Herhaal dit met de linkerknie gebogen en rechterbeen gestrekt, waarbij je over je linkerhandpalm kijkt.";
+
+"exerciseDescription123" = "Ga met je grote tenen naast elkaar staan met de buitenranden van de voeten evenwijdig aan elkaar.  Breng je wijsvingers samen en verstrengel alle andere vingers op borsthoogte.  Adem in, houd de handen samengevouwen en hef ze boven je hoofd.  Adem uit, buig naar rechts.  Zet je rechterenkel stevig in de vloer en hef je onderste linkerribben naar de bovenste rechterribben. \n\n Bij een inademing, keer terug naar het midden met de boven het hoofd samengevouwen handen.  Bij een uitademing, buig naar rechts.";
+
+"exerciseDescription124" = "Begin in een voorwaartse buiging met je grote tenen naast elkaar, buitenranden van de voeten evenwijdig aan elkaar en de handpalmen onder je schouders op de grond geplaatst.  Verplaats grotendeels je lichaamsgewicht naar je rechtervoet en je met je linkervoet achteruit stapt, waarbij de linkergrote teen lichtjes op de grond rust.  Plaats je rechterhandpalm tegen je rechterkuit en zwaai het linkerbeen de lucht in.  Houd de linkerheup op dezelfde hoogte als de rechterheup, waarbij je de rechterheup zoveel mogelijk optilt om het naar het midden te brengen.  Druk met je rechterhandpalm tegen je rechterkuit om je kin richting scheenbeen te brengen. \n\n Herhaal dit door op het linkerbeen te staan met het rechterbeen gestrekt.";
+
+"exerciseDescription125" = "Begin in een voorwaartse buiging met je grote tenen naast elkaar, buitenranden van de voeten evenwijdig aan elkaar.  Adem in, maak je wervelkolom langer, breng je borst naar voren en maak een tentvorm met je vingertoppen op de vloer.  Adem uit, buig naar voren en breng armen naar de buitenkant van je benen om je kuiten vast te pakken.  Druk je handpalmen tegen je kuiten om je voorhoofd naar je scheenbenen te brengen.  Druk je hielen in de grond en til je zitbeen op als je de binnenkant van je dijbenen naar de achterzijde van je benen draait.  Zorg ervoor dat je je onderrug niet rond maakt.  In plaats daarvan buig vanuit je heupen en breng je buik naar de bovenkant van je dijbenen.";
+
+"exerciseDescription126" = "Ga met je voeten naast elkaar staan.  Verplaats je gewicht naar je linkervoet als je je rechterknie naar je borst trekt.  Breng je rechterarm naar de binnenkant van het rechterbeen pak met de eerste drie vingers je grote teen in de \"yoga teengreep\" vast   Ga rechtop staan, druk de linkerhiel in de grond en til de kroon van je hoofd naar het plafond.  Strek het rechterbeen voor je, zorg ervoor dat de rechterarm niet achter je lichaam wordt gebracht, waardoor je schouders niet meer recht boven je heupen vallen.";
+
+"exerciseDescription127" = "Ga met je grote tenen naast elkaar staan met de buitenranden van de voeten evenwijdig aan elkaar.  Verstrengel je vingers op achter je rug.  Adem in, maak je wervelkolom langer en adem uit, buig vanuit de heupen voorwaarts en breng de kruin van je hoofd naar de grond en de samengevouwen handen richting vloer.";
+
+"exerciseDescription128" = "Ga in een spreidstand staan met je voeten evenwijdig aan elkaar.  Draai de rechtervoet 90 graden naar buiten.  Til de linkerhiel op en draai op de bal van de linkervoet de hiel naar links toe, voordat je het op de grond neerzet.  Je borst en je linkerheup moeten nu in dezelfde richting staan als je rechtervoet.  Breng je handen naar de buitenkant van je heupen en duw de linkerheup voorwaarts als je de rechterheup naar achteren duwt.  Buig je rechterknie zodanig dat het recht boven je enkel valt.  Strek je armen langs je oren en hef je borst omhoog.  Oefen druk uit op je linkerhiel, terwijl je de rechterknie recht boven de enkel houdt. \n\n Herhaal dit met de linkervoet voor.";
+
+"exerciseDescription129" = "Ga met je voeten naast elkaar staan en strek je armen langs je oren.  Houd je rechterbeen recht met je borst opgeheven en stap met je linkervoet naar achteren en laat de bal van je voet lichtjes op de grond rusten.  Verplaats langzaam je lichaamsgewicht naar je rechtervoet, buig voorover vanuit je heupen, breng je borst vooruit, terwijl je je linkerbeen naar achteren zwaait.  Trek de buitenzijden van je heupen naar elkaar toe en til je buik/ribben voor naar je rug toe. \n\n Herhaal dit balancerend op het linkerbeen met het rechterbeen achter je gestrekt.";
+
+"exerciseDescription130" = "Ga met je grote tenen naast elkaar staan met de buitenranden van de voeten evenwijdig aan elkaar..  Adem in, hef je rechterarm langs je oor omhoog.  Adem uit, buig zijwaarts naar links, waarbij je linkerhand langs de buitenkant van je linkerbeen glijdt.  Oefen druk uit op de rechterhiel en til je linkertaille op. \n\n Herhaal dit door een zijwaartse buiging naar rechts.";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = "Ga met gestrekte benen voor je uit zitten met de de handen achter je en je vingers naar voren wijzend.  Strek je tenen, druk je vingers in de grond en til je heupen van de grond.  Trek je schouderbladen naar elkaar toe en breng ze naar beneden als je je borst omhoogheft.  Draai de binnenkant van de dijbenen naar elkaar toe en reik naar je grote tenen op de vloer.  Als je geen problemen hebt met je nekwervels laat het hoofd zachtjes naar achteren hangen, zodat de onderkant van de schedel boven je schouderbladen rust.";
+
+"exerciseDescription133" = "Ga met je voeten naast elkaar staan.  Verplaats je lichaamsgewicht naar je rechtervoet en trek je linkerknie naar je borst.  Houd de linkervoetboog met beide handen vast.  Strek het linkerbeen als je voorover buigt en breng je voorhoofd naar je scheenbeen. \n\n Herhaal dit staand op het linkerbeen en het vasthouden van de rechtervoet.";
+
+"exerciseDescription134" = "Begin in een staande voorwaartse buiging.  Buig beide knieën, plaats je rechterhand op de grond onder je borst en plaats je linkerhand op je linkerheup.  Adem in en maak je wervelkolom langer.  Adem uit, draai naar links, strek alleen het linkerbeen en breng de linkerarm naar de lucht.  Houd beide kanten van de nek lang als je naar boven naar je linkerhand kijkt. \n\n Keer terug naar de staande voorwaartse buiging.  Buig beide knieën, plaats je linkerhand op de grond onder je borst en plaats je rechterhand op je rechterheup.  Adem in en maak je wervelkolom langer.  Adem uit, draai naar rechts, strek alleen het rechterbeen en breng de rechterarm naar de lucht.  Houd beide kanten van de nek lang als je naar boven naar je rechterhand kijkt.";
+
+"exerciseDescription135" = "Ga staan met je grote tenen naast elkaar en de buitenranden van je voeten evenwijdig aan elkaar.  Plaats je handpalmen op je billen met de vingertoppen gericht naar je hielen.  Adem in en maak je wervelkolom langer.   Bij uitademing gebruik je handen om je billen naar je hielen te duwen en hef daarbij je borst naar het plafond op.  Breng je schouderbladen naar elkaar toe en naar beneden op je rug, waardoor de ellebogen naar elkaar toe worden getrokken.";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = "Ga op je rug liggen met je kniean ën gebogen, voeten op heupbreedte met de buitenranden van je voeten evenwijdig aan elkaar.  Strek je armen langs je lichaam en plaats je hielen zodanig dat ze binnen handbereik van je vingertoppen zijn.  Til je armen naar het plafond en buig je polsen.  Buig je ellebogen en plaats je handpalmen bovenop je schouders met je vingers naar je schouders wijzend.  Oefen druk uit op de binnenkant van je handen en binnenzijde van je hielen als je met je bekken, borst en hoofd van de grond komt.  Draai de buitenzijde van je dijbenen naar de binnenzijde van je dijbenen en druk je borst door je armen.  Zorg ervoor dat je voeten niet verder dan heupbreedte uit elkaar gaan staan. \n\n Om uit de houding terug te komen, breng je kin op de borst en je billen naar je hielen als je je naar de grond laat zakken.";

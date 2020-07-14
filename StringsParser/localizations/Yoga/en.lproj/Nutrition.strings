@@ -1,0 +1,182 @@
+//Plan names
+
+"Nutrition Plan Weight" = "Nutrition Plan Weight";
+"%ld days plan" = "%ld days plan";
+
+//Other
+
+"7 days clean eating plan" = "7 days clean eating plan";
+"Weight loss speed up metabolism." = "Weight loss speed up metabolism.";
+"Be in the best shape, ever! Learn what to eat, discover fat burning foods, eat tasty meals to speed up your metabolism." = "Be in the best shape, ever! Learn what to eat, discover fat burning foods, eat tasty meals to speed up your metabolism.";
+
+"Meal %ld" = "Meal %ld";
+"Day %ld" = "Day %ld";
+
+"Ingredients" = "Ingredients";
+"Steps" = "Steps";
+
+//Days
+//Day 1
+"Healthy recipes that are awesome to prepare and try out" = "Healthy recipes that are awesome to prepare and try out";
+"To keep your metabolism running strong, you must eat your first meal within 1 hour of rising." = "To keep your metabolism running strong, you must eat your first meal within 1 hour of rising.";
+//Day 2
+"Good nutrition is the foundation of good health" = "Good nutrition is the foundation of good health";
+"The solution is to eat within 1 hour of waking up so that you move your metabolism." = "The solution is to eat within 1 hour of waking up so that you move your metabolism.";
+//Day 3
+"Plan ahead to eat breakfast" = "Plan ahead to eat breakfast";
+"To the highest fat burning speed breakfast is so important to your weight-loss success." = "To the highest fat burning speed breakfast is so important to your weight-loss success.";
+//Day 4
+"Carbs supply the body with energy" = "Carbs supply the body with energy";
+"Studies show that 5 meals a day are important in maintaining a healthy body weight." = "Studies show that 5 meals a day are important in maintaining a healthy body weight.";
+//Day 5
+"Protein is essential for growth and development" = "Protein is essential for growth and development";
+"Nutrition plays a key role in maintaining a healthy lifestyle." = "Nutrition plays a key role in maintaining a healthy lifestyle.";
+//Day 6
+"You are what you eat" = "You are what you eat";
+"Is literally true, if you want your body to perform at a peak level." = "Is literally true, if you want your body to perform at a peak level.";
+//Day 7
+"Controlling portion size use smaller plates" = "Controlling portion size use smaller plates";
+"Eliminate emotional eating by healing your hungry heart." = "Eliminate emotional eating by healing your hungry heart.";
+
+//Content: Title, Ingridients, Instructions
+
+"Strawberries and Creme Oatmeal_Title" = "Strawberries and Creme Oatmeal";
+"Strawberries and Creme Oatmeal_Ingredients" = "◆\t1/2 cup rolled oats \n\n◆\t1/3 cup skim milk \n\n◆\t1/3 cup vanilla Greek yogurt \n\n◆\t1/2 cup sliced strawberries \n\n◆\t2 tbsp vanilla nonfat Greek yogurt \n\n◆\t1 tbsp toasted almonds";
+"Strawberries and Creme Oatmeal_Instructions" = "In the evening, stir together the oats, milk, and 1/3 cup of the yogurt in a jar or bowl until well combined. Cover and chill in the refrigerator overnight. Enjoy!";
+
+"Golden Glow Elixir_Title" = "Golden Glow Elixir";
+"Golden Glow Elixir_Ingredients" = "◆\t2 apples \n\n◆\t4 medium oranges, peel removed \n\n◆\t1 lemon, peeled \n\n◆\t2-3 inch knob fresh ginger, peeled \n\n◆\t2-inch knob fresh turmeric, peeled \n\n◆\t2 cups cold water \n\n◆\t1 handful ice";
+"Golden Glow Elixir_Instructions" = "In a high-speed blender, blend all ingredients until smooth, adding extra water if needed. A high powered decent blender will turn this into a smooth juice. If you would rather juice the ingredients to make it even smoother, go right ahead to keep all the fiber and nutrients in but juicing the ingredients is just as good. Enjoy!";
+
+"Tso’s Chicken Stir Fry_Title" = "Tso’s Chicken Stir Fry";
+"Tso’s Chicken Stir Fry_Ingredients" = "◆\t4 chicken breasts, cubed \n\n◆\t1 cup flour \n\n◆\tvegetable oil \n\n◆\tsalt \n\n◆\tfreshly ground black pepper \n\n◆\t2 cloves garlic, minced \n\n◆\t1/2 can chicken broth \n\n◆\t3 tbsp honey \n\n◆\t4 tbsp soy sauce \n\n◆\t2 tbsp lime juice \n\n◆\t2 cans broccoli, florets only \n\n◆\t2 cans of cooked white rice, for serving";
+"Tso’s Chicken Stir Fry_Instructions" = "In a large bowl, dredge chicken slightly in cornstarch. Transfer pieces to a large bowl filled with flour and toss slightly to coat again then set aside. Fill a large, deep skillet with 1/2 vegetable oil over medium-high heat. Season the chicken, then drain and set aside. Add 2 tablespoons of cornstarch and stir to incorporate. To the sauce, add broccoli and carrots and cook until tender, for 5 minutes. Enjoy!";
+
+"Herbal Tea_Title" = "Herbal Tea";
+"Herbal Tea_Ingredients" = "◆\t1 cup water \n\n◆\t1 teaspoon grated fresh ginger \n\n◆\t1 teaspoon grated lime zest \n\n◆\t1 teaspoon lime juice \n\n◆\t3 leaves fresh mint";
+"Herbal Tea_Instructions" = "Bring water to a boil in a pot stir in rest of the ingredients. Cook and stir until tea is infused. Enjoy!";
+
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Title" = "Grilled Lemon Dijon Chicken Thighs with Arugula Salad";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Ingredients" = "◆\t4 (4 oz.) skinless, boneless chicken thighs \n\n◆\t1/2 tsp salt \n\n◆\t1/4 tsp ground black pepper \n\n◆\t2.5 tbsp olive oil \n\n◆\t2 tsp lemon juice \n\n◆\t1 tsp minced garlic \n\n◆\tcooking spray \n\n◆\t1 tbsp balsamic vinegar \n\n◆\t1 tsp honey \n\n◆\t1 cup grape tomatoes, halved \n\n◆\t1 (5 oz.) package baby arugula";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Instructions" = "Sprinkle chicken with 1/4 teaspoon salt and 1/8 teaspoon pepper. Combine chicken with 1-1.5 teaspoons oil, lemon juice, mustard, and garlic in a bowl, toss to coat. Let stand 4 minutes. Heat a grill pan over medium heat. Coat pan with cooking spray. Add chicken to pan, grill for 5 minutes on each side or until done. Cut chicken into 1/4-inch-thick slices. Enjoy!";
+
+"Cottage Berry Crunch_Title" = "Cottage Berry Crunch";
+"Cottage Berry Crunch_Ingredients" = "◆\t1/2 cup 2% low-fat cottage cheese \n\n◆\t2 tbsp granola \n\n◆\t1/2 cup sliced bananas \n\n◆\t1/2 cup assorted mixed berries";
+"Cottage Berry Crunch_Instructions" = "Spoon cottage cheese into a small bowl. Top with remaining ingredients. Enjoy!";
+
+"Pineapple Kiwi_Title" = "Pineapple Kiwi";
+"Pineapple Kiwi_Ingredients" = "◆\t4 tbsp water \n\n◆\t1/2 cup milk \n\n◆\t1/2 cup yogurt \n\n◆\t1.5 tbsp honey \n\n◆\t1 kiwi fruit, peeled \n\n◆\t1 cup pineapple chunks \n\n◆\t1/2 a mango \n\n◆\t2 ice cubes";
+"Pineapple Kiwi_Instructions" = "Blend all ingredients at low speed until thick and smooth. Enjoy!";
+
+"Lemon Chicken Skillet_Title" = "Lemon Chicken Skillet";
+"Lemon Chicken Skillet_Ingredients" = "◆\t4 chicken breasts \n\n◆\t1/4 cup butter \n\n◆\t2 tbsp. olive oil \n\n◆\t1 lemon \n\n◆\t1 lemon sliced \n\n◆\t1/4 cup white wine \n\n◆\t1 tsp salt \n\n◆\t1 tsp ground black pepper \n\n◆\t1/2 tsp paprika \n\n◆\t1/2 tsp dried parsley";
+"Lemon Chicken Skillet_Instructions" = "Combine flour, salt, pepper, paprika, and parsley in a shallow bowl. Heat oil and butter over medium-high heat. Coat each chicken breast in the flour mixture and add to the hot skillet. Add lemon juice, white wine, lemon zest, and rosemary to the skillet. Cook chicken on each side until cooked. Enjoy!";
+
+"Zucchini Quinoa Cookies_Title" = "Zucchini Quinoa Cookies";
+"Zucchini Quinoa Cookies_Ingredients" = "◆\t1/2 cup creamy peanut butter \n\n◆\t1/4 cup honey \n\n◆\t1 banana \n\n◆\t1 egg \n\n◆\t1 tsp vanilla extract \n\n◆\t1/2 cup rolled oats \n\n◆\t1/2 cup quinoa flakes \n\n◆\t1 tsp cinnamon \n\n◆\t1/4 tsp salt \n\n◆\t1 cup shredded zucchini, pressed";
+"Zucchini Quinoa Cookies_Instructions" = "Preheat oven to 350 degrees °F. Add peanut butter, honey, banana, egg, and vanilla in a large bowl, and stir. Add oats, quinoa flakes, baking powder, spices and salt to the bowl and stir together. Fold in shredded zucchini and chia seeds. Spoon the dough onto a baking pan. Bake cookies on the center rack for 15 - 18 minutes until edges are golden brown. Enjoy!";
+
+"Savory Shrimp with Fresh Herbs_Title" = "Savory Shrimp with Fresh Herbs";
+"Savory Shrimp with Fresh Herbs_Ingredients" = "◆\t1 pound large shrimp \n\n◆\t2 red hot peppers \n\n◆\t1 leek, thinly sliced \n\n◆\t0.5-1 tbsp capers, rinsed and drained \n\n◆\t2 cloves garlic, thinly sliced \n\n◆\t1/2 cup coarsely chopped parsley \n\n◆\t3 tbsp lemon juice \n\n◆\t2 tbsp olive oil";
+"Savory Shrimp with Fresh Herbs_Instructions" = "Place a sauté pan over medium heat and add oil. Add shrimp, peppers, leek, capers, garlic, salt and pepper and cook for 4 minutes until shrimp is pink. Remove from heat. Add lemon juice, scraping the bottom of the pan with a spoon. Serve shrimp sprinkled with fresh parsley and basil. Enjoy!";
+
+"Flaxseed Oatmeal with Blueberries_Title" = "Flaxseed Oatmeal with Blueberries";
+"Flaxseed Oatmeal with Blueberries_Ingredients" = "◆\t3 cups water \n\n◆\t2 cups rolled oats \n\n◆\t3 tbsp ground flaxseed \n\n◆\t1/8 tsp salt \n\n◆\t1/4 cup whole milk \n\n◆\t1 cup blueberries \n\n◆\t1 tbsp blueberry preserves \n\n◆\t1/2 tsp grated lemon rind \n\n◆\t1 tbsp lemon juice";
+"Flaxseed Oatmeal with Blueberries_Instructions" = "Bring 3 cups of water to a boil. Stir in oats, add the flaxseed, and salt. Reduce heat to medium-low, cook until tender, stirring frequently. Stir in milk and butter. Meanwhile, combine blueberries and next 4 ingredients in a microwave bowl, microwave at high for 1.5 minutes, stirring every 30 seconds. Divide oatmeal among 4 bowls. Top with blueberries and pecans. Enjoy!";
+
+"Coconut Milk Smoothie With Blueberries_Title" = "Coconut Milk Smoothie With Blueberries";
+"Coconut Milk Smoothie With Blueberries_Ingredients" = "◆\t1 bag frozen blueberries, (10 oz) \n\n◆\t3 ripen bananas \n\n◆\t1 cup plain yogurt \n\n◆\t1 cup unsweetened coconut milk \n\n◆\t2 tbsp honey";
+"Coconut Milk Smoothie With Blueberries_Instructions" = "In a blender, puree the blueberries, bananas, yogurt, coconut milk, and honey. Enjoy!";
+
+"Chicken and Asparagus Stir-Fry_Title" = "Chicken and Asparagus Stir-Fry";
+"Chicken and Asparagus Stir-Fry_Ingredients" = "◆\t1 tbsp soy sauce \n\n◆\t1 tbsp honey \n\n◆\t2 chicken breasts, cut into pieces \n\n◆\t1 tbsp olive oil \n\n◆\t1 bunch asparagus, cut into pieces \n\n◆\t4 cloves garlic, thinly sliced \n\n◆\t2 tsp toasted sesame oil";
+"Chicken and Asparagus Stir-Fry_Instructions" = "In a zip lock bag, combine soy sauce and honey. Add chicken, and stir to coat. Set in the refrigerator until ready. Meanwhile, heat oil in a large skillet over medium heat. Remove the asparagus and set aside. Remove chicken from marinade, and add to skillet.  Then add garlic, scallions, and the reserved marinade to the pan. Remove from heat and stir in sesame oil. Enjoy!";
+
+"Lavender Mint Tea_Title" = "Lavender Mint Tea";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 cup fresh lavender petals \n\n◆\t1 cup fresh mint leaves \n\n◆\t4 cups water";
+"Lavender Mint Tea_Instructions" = "Place lavender petals and mint leaves into a saucepan, pour water over and bring to a boil. Turn heat to low and simmer tea until flavor is your desired strength, 15 to 20 minutes. Enjoy!";
+
+"Chili Fajitas_Title" = "Chili Fajitas";
+"Chili Fajitas_Ingredients" = "◆\t1 lb. skinless chicken breast \n\n◆\t1/2 green, red, and yellow bell pepper, thinly sliced \n\n◆\t1/3 cup water \n\n◆\t2 tsp soy sauce \n\n◆\t1 dash salt \n\n◆\t1 dash black pepper \n\n◆\t2 tbsp olive oil \n\n◆\t1 large onion, thinly sliced";
+"Chili Fajitas_Instructions" = "Combine all marinade ingredients with the chicken in a container and refrigerate at least 2 hours. Remove the meat from the marinade and grill over medium flame for 4-5 minutes on each side. Cut meat into thin strips. For the sauce, combine 2 tbsp water, 1 tsp soy sauce, 1/4 tsp lime juice, dash salt, dash black pepper, and 1 tbsp olive oil.  Enjoy!";
+
+"Healthy Fruity Oatmeal_Title" = "Healthy Fruity Oatmeal";
+"Healthy Fruity Oatmeal_Ingredients" = "◆\t1/2 cup oats \n\n◆\t1 cup water \n\n◆\t1 tbsp honey \n\n◆\t1 tbsp vanilla extract \n\n◆\t1/2 tsp ground cinnamon \n\n◆\t1/4 cup blueberries \n\n◆\t4 sliced strawberries \n\n◆\t1/2 banana, cut into slices";
+"Healthy Fruity Oatmeal_Instructions" = "Combine water and oats in a microwave bowl. Microwave on high until oats have absorbed the water. Stir in honey, vanilla extract, and ground cinnamon. Add the blueberries and top with banana and strawberry slices. Enjoy!";
+
+"Coffee Smoothie_Title" = "Coffee Smoothie";
+"Coffee Smoothie_Ingredients" = "◆\t1 tsp instant espresso coffee powder \n\n◆\t1 tbsp hot water \n\n◆\t1 small banana, peeled, cut up, and frozen \n\n◆\t1/4 cup fat-free milk \n\n◆\t1 tbsp honey \n\n◆\t1/2 cup ice cubes \n\n◆\t ground cinnamon";
+"Coffee Smoothie_Instructions" = "In a blender combine espresso powder and hot water, let rest for one minute. Add banana, milk, and honey. Cover and blend until smooth. Gradually add ice blending to desired consistency. Sprinkle lightly with cinnamon. Enjoy!";
+
+"Chicken & Pineapple Stir-Fry_Title" = "Chicken & Pineapple Stir-Fry";
+"Chicken & Pineapple Stir-Fry_Ingredients" = "◆\t110 g chicken breasts, 4 oz \n\n◆\t40 g pineapple, 1.4 oz \n\n◆\t120 g brown rice, 4.4 oz \n\n◆\t1/3 tbsp olive oil \n\n◆\t1/2 tsp brown mustard \n\n◆\t1/6 tbsp smoked paprika \n\n◆\tsea salt \n\n◆\tpepper";
+"Chicken & Pineapple Stir-Fry_Instructions" = "Chop the raw chicken breasts into small pieces. Season the chicken pieces with smoked paprika and brown mustard. Add olive oil to a skillet then toss in the chicken breast pieces. Cook for about 4 minutes until the chicken is about 80% finished, then add chopped bell pepper. Cook for another 2 or 3 minutes before adding the diced pineapple. Enjoy!";
+
+"Raw Chocolate Truffles_Title" = "Raw Chocolate Truffles";
+"Raw Chocolate Truffles_Ingredients" = "◆\t1/2 cup walnuts, cashew nuts, and almonds left in water overnight \n\n◆\t3-4 tbsp almond milk \n\n◆\t1/4 cup sunflower seeds \n\n◆\t1/4 cup pumpkin seeds \n\n◆\t2 tbsp carob powder \n\n◆\t3 tbsp coconut flakes";
+"Raw Chocolate Truffles_Instructions" = "Put everything in the blender except the coconut flakes, and mix. Start making small balls from the mixture using an ice cream scoop. Roll each candy into coconut flake. Serve cold. Enjoy!";
+
+"Baked Salmon with Veggies_Title" = "Baked Salmon with Veggies";
+"Baked Salmon with Veggies_Ingredients" = "◆\t2 salmon fillets \n\n◆\t1 cup sliced zucchini \n\n◆\t1 cup broccoli \n\n◆\t1/2 cup cherry tomatoes \n\n◆\tsalt \n\n◆\tpepper \n\n◆\tolive oil";
+"Baked Salmon with Veggies_Instructions" = "Pre-heat oven to 375 Degrees °F. Combine veggies in a large sheet pan. Season the veggies with salt, pepper, and olive oil. Place the fillets next to the veggies and bake 18-20 minutes or until the salmon is cooked and the veggies are tender. Enjoy!";
+
+"Banana Nut Oatmeal_Title" = "Banana Nut Oatmeal";
+"Banana Nut Oatmeal_Ingredients" = "◆\t1/2 cup rolled oats \n\n◆\t1 cup water \n\n◆\t1 sliced banana \n\n◆\t1 tbsp chopped walnuts \n\n◆\t1 tsp ground cinnamon";
+"Banana Nut Oatmeal_Instructions" = "Combine oats and 1 cup of water in a small microwave bowl. Microwave on high temperature for 3 minutes. Top with banana slices, walnuts, and cinnamon. Enjoy!";
+
+"Pink Power_Title" = "Pink Power";
+"Pink Power_Ingredients" = "◆\t1.5 cup small fresh cauliflower florets \n\n◆\t2 cups watermelon cubes (seeds and rinds removed) \n\n◆\t1.5 cups whole strawberries \n\n◆\t1 container (6 oz) strawberry greek yogurt \n\n◆\t2 tbsp strawberry preserves (optional)";
+"Pink Power_Instructions" = "In a small saucepan cook cauliflower, cover it with boiling water, until very tender. In a blender combine cooked cauliflower, watermelon, strawberries, yogurt, and, if desired, strawberry preserves. Enjoy!";
+
+"BBQ Chicken-Wrapped Asparagus_Title" = "BBQ Chicken-Wrapped Asparagus";
+"BBQ Chicken-Wrapped Asparagus_Ingredients" = "◆\t2 chicken breasts thinly cut, 3 oz each piece \n\n◆\t12 spears asparagus \n\n◆\t2 tbsp bbq sauce 1 pinch smoked paprika \n\n◆\t1 pinch garlic powder \n\n◆\t1 pinch pepper";
+"BBQ Chicken-Wrapped Asparagus_Instructions" = "Set oven to 400°F / 200°C. Flatten the chicken with a mallet. Season chicken cutlets with 1 tbsp barbecue sauce (for each piece) and your choice of seasonings. Place the chicken on a grill with the open facing down. Bake in the oven or smoke on a grill for about 8 to 10 minutes. Enjoy!";
+
+"Ginger Turmeric Herbal Tea_Title" = "Ginger Turmeric Herbal Tea";
+"Ginger Turmeric Herbal Tea_Ingredients" = "◆\t2 cups water \n\n◆\t1/2 teaspoon chopped fresh ginger \n\n◆\t1/2 teaspoon ground cinnamon \n\n◆\t1 tablespoon honey \n\n◆\t1 lemon wedge";
+"Ginger Turmeric Herbal Tea_Instructions" = "Bring water to a boil in a small saucepan add turmeric, ginger, and cinnamon. Reduce heat to low and simmer for 10 minutes. Pour tea into a large glass, add honey and lemon. Enjoy!";
+
+"Grilled Shrimp & Avocado Kabobs_Title" = "Grilled Shrimp & Avocado Kabobs";
+"Grilled Shrimp & Avocado Kabobs_Ingredients" = "◆\t450 g / 1 lb jumbo shrimp \n\n◆\t1.5 avocados \n\n◆\t1 red bell pepper \n\n◆\t1 orange bell pepper \n\n◆\t1 yellow bell pepper \n\n◆\t1 red onion \n\n◆\t1 tsp garlic paste \n\n◆\t1/2 tbsp extra virgin olive oil \n\n◆\t1 lime \n\n◆\tsalt, pepper";
+"Grilled Shrimp & Avocado Kabobs_Instructions" = "Set your grill to about 400°F/200°C. Chop veggies and avocado into large pieces for the kabob. Peel shrimp and season.  Choose fibrous vegetables as they are more filling and will likely hold well on a kabob stick under intense heat. Place the kabobs on the grill and cook for about 8-10 minutes then flip over and cook for another 8 to 10 minutes. Enjoy!";
+
+"Morning Parfait_Title" = "Morning Parfait";
+"Morning Parfait_Ingredients" = "◆\t1/4 cup raisins and 1 tsp finely shredded orange peel \n\n◆\t1 tsp vanilla \n\n◆\thalf package reduced-fat cream Neufchatel cheese (8 oz) \n\n◆\tbread crumbs \n\n◆\t2 cups fresh raspberries, blueberries, sliced strawberries, and/or cut-up peaches \n\n◆\t1/2 cup low-fat granola \n\n◆\thoney \n\n◆\tshredded orange peel";
+"Morning Parfait_Instructions" = "Mix bread crumbs and cheese, sprinkle over baking dish. Drizzle with oil. Bake for 20 to 25 minutes. In four glasses place layer of cream cheese mixture, a layer of fruit, and a layer of granola. Repeat layers until the top of the glasses. Drizzle with honey and top with additional orange peel. Makes 4 servings. Enjoy!";
+
+"Green Tea Kiwi and Mango_Title" = "Green Tea Kiwi and Mango";
+"Green Tea Kiwi and Mango_Ingredients" = "◆\t2.5 cups frozen diced mango \n\n◆\t3/4 cup vanilla yogurt \n\n◆\t2 tbsp honey \n\n◆\t2 tbsp water \n\n◆\t3 ripe kiwi \n\n◆\t2 cups ice cubes \n\n◆\t1/2 cup baby spinach \n\n◆\t2 tbsp bottled green tea";
+"Green Tea Kiwi and Mango_Instructions" = "Place mango, 1/2 cup yogurt, 2 tablespoons honey, 2 tablespoons water, and lime rind in a blender, process until smooth.  Place 1/4 cup yogurt, 2 tablespoons honey, kiwifruit, and next 3 ingredients in a blender and blend until smooth. Enjoy!";
+
+"Citrus Chicken Stir-Fry_Title" = "Citrus Chicken Stir-Fry";
+"Citrus Chicken Stir-Fry_Ingredients" = "◆\t140 g / 5 oz chicken breast, small pieces \n\n◆\t34 g / 0.25 oz broccolini  \n\n◆\t25 g / 0.875 oz baby portobello mushroom \n\n◆\t1/4 red bell pepper \n\n◆\t20 g / 0.7 oz red onion \n\n◆\tcoconut oil spray \n\n◆\tsesame seeds   \n\n◆\t1/4 tsp arrowroot starch \n\n◆\t1/8 tbsp garlic paste \n\n◆\t1/4 tsp ginger paste";
+"Citrus Chicken Stir-Fry_Instructions" = "In a bowl, mix together all the ingredients for the stir-fry sauce. Spray a skillet with coconut oil and set on medium heat. Toss in the chicken pieces and cook until they are about 85% finished. then toss in the veggies and stir using a spatula. Enjoy!";
+
+"Grilled Mexican Corn_Title" = "Grilled Mexican Corn";
+"Grilled Mexican Corn_Ingredients" = "◆\t4 ears corn \n\n◆\t1.5 cups sour cream \n\n◆\t1 cup grated parmesan \n\n◆\t1 lime, juice \n\n◆\tred chili powder \n\n◆\t2 limes cut into wedges, for garnish";
+"Grilled Mexican Corn_Instructions" = "Grill the corn turning once on a hot grill until it starts to get slightly charred. In a small bowl mix the mayonnaise, sour cream and cilantro. Squeeze over corn, lime juice and season with parmesan. Sprinkle with chili powder. Enjoy!";
+
+"Salmon Burger with Avocado_Title" = "Salmon Burger with Avocado";
+"Salmon Burger with Avocado_Ingredients" = "◆\t1 lb. salmon fillet \n\n◆\t1 cup breadcrumbs \n\n◆\t1 egg \n\n◆\t1 tbsp lemon juice \n\n◆\tsalt and pepper \n\n◆\tolive oil \n\n◆\t1 large avocado, chopped \n\n◆\t1/3 cup chopped red onion \n\n◆\t1 lime juice";
+"Salmon Burger with Avocado_Instructions" = "Chop the salmon filet into small pieces and transfer it into a mixing bowl. Gently stir in the rest of the ingredients. Let the mixture rest for 5-10 minutes. Heat a little oil in a large grill pan over medium heat. Form neat patties from the salmon mixture. Fry the patties until browned on both sides about 4 minutes on each side. Enjoy!";
+
+"Strawberry and Banana Nut Bread Oatmeal_Title" = "Strawberry and Banana Nut Bread Oatmeal";
+"Strawberry and Banana Nut Bread Oatmeal_Ingredients" = "◆\t150 g  rolled oats, 5.3 oz (cooked) \n\n◆\t1/2 mashed banana \n\n◆\t50 g / 1.8 oz strawberries \n\n◆\t2 tbsp almond milk \n\n◆\t1 tbsp vanilla extract \n\n◆\t2 tbsp  chopped walnuts \n\n◆\tpacket stevia by brand \"In The Raw\" \n\n◆\tlemon zest garnish \n\n◆\t1 tbsp greek yogurt (2% fat) \n\n◆\t1/2 tbsp chopped walnuts \n\n◆\tpoppy seeds";
+"Strawberry and Banana Nut Bread Oatmeal_Instructions" = "Cook rolled oats as directed, then set aside. Add all the ingredients into a bowl except the strawberries, and mix thoroughly. Top the oatmeal with freshly chopped strawberries. Garnish with Greek yogurt, chopped walnuts, and poppy seeds. Enjoy!";
+
+"Strawberry Banana_Title" = "Strawberry Banana";
+"Strawberry Banana_Ingredients" = "◆\t2 cups strawberries \n\n◆\t1 fresh peeled banana \n\n◆\t1 cup milk \n\n◆\t1 cube ice \n\n◆\t1 tbsp honey";
+"Strawberry Banana_Instructions" = "Add all ingredients to a blender, and blend until combined.If the smoothie is too thick, add more milk. If it is too thin, add more fruit and/or ice. Enjoy!";
+
+"Spicy & Light Kung Pao Chicken Meal Prep_Title" = "Spicy & Light Kung Pao Chicken Meal Prep";
+"Spicy & Light Kung Pao Chicken Meal Prep_Ingredients" = "◆\t150 g / 0.3 lb. chicken breast \n\n◆\t1/6 clove garlic  \n\n◆\t33 g / 1.17 oz snow peas \n\n◆\t150 g / 5.17 oz bell pepper \n\n◆\t2/3 tbsp water \n\n◆\t1/3 tbsp tomato sauce \n\n◆\t1/6 tbsp fresh ginger \n\n◆\t1/6 tbsp red chili pepper sauce \n\n◆\t1/6 tbsp rice vinegar \n\n◆\tchopped green onion";
+"Spicy & Light Kung Pao Chicken Meal Prep_Instructions" = "In a bowl, add ingredients for the sauce and whisk. Set a skillet over medium heat and spray with olive oil. When the skillet is hot, toss in garlic and sear for about 2 minutes. Then add chopped chicken breasts. Cook the chicken until the outside of it is seared, about 6 to 8 minutes. Toss in chopped bell peppers and sear for about 3 minutes. Slowly pour in the sauce and stir frequently. Enjoy!";
+
+"Lavender Mint Tea_Title" = "Lavender Mint Tea";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 cup fresh lavender petals \n\n◆\t1 cup fresh mint leaves \n\n◆\t4 cups water";
+"Lavender Mint Tea_Instructions" = "Place lavender petals and mint leaves into a saucepan, pour water over and bring to a boil. Turn heat to low and simmer tea until flavor is your desired strength, 15 to 20 minutes. Enjoy!";
+
+"Foil Fish Packets with Spinach and Tomato_Title" = "Foil Fish Packets with Spinach and Tomato";
+"Foil Fish Packets with Spinach and Tomato_Ingredients" = "◆\t1 bunch  asparagus \n\n◆\t2 sliced tomatoes \n\n◆\t2 tilapia fillets \n\n◆\tolive oil \n\n◆\t1/2 tsp chili garlic sauce \n\n◆\tsalt \n\n◆\t1 lemon, sliced";
+"Foil Fish Packets with Spinach and Tomato_Instructions" = "Preheat oven to 375 degrees °F. In a small bowl, mix together olive oil, chili sauce, and salt. Place asparagus spears down the center on a piece of aluminum foil and lay sliced tomato evenly on top, then season it. Place one fish fillet on top of tomatoes in each packet, and spread fish with olive oil mixture. Arrange lemon slices over the fish. Bake the fish in the oven for 25-30 minutes. Enjoy!";
+

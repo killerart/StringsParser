@@ -1,0 +1,179 @@
+//Plan names
+
+"%ld days plan" = "%ld dagen plan";
+
+//Other
+
+"Meal %ld" = "Maaltijd %ld";
+"Day %ld" = "Dag %ld";
+
+"Ingredients" = "Ingrediënten";
+"Steps" = "Stappen";
+
+//Days
+//Day 1
+"Healthy recipes that are awesome to prepare and try out" = "Gezonde recepten die geweldig zijn om klaar te maken en uit te proberen";
+"To keep your metabolism running strong, you must eat your first meal within 1 hour of rising." = "Om je metabolisme op de hoogste stand te houden, dien je je eerste maaltijd binnen 1 uur na het opstaan te eten.";
+//Day 2
+"Good nutrition is the foundation of good health" = "Goede voeding is de basis van een goede gezondheid";
+"The solution is to eat within 1 hour of waking up so that you move your metabolism." = "De oplossing is om binnen 1 uur na het wakker worden, te eten, zodat je je metabolisme op gang brengt.";
+//Day 3
+"Plan ahead to eat breakfast" = "Plan je ontbijt van te voren";
+"To the highest fat burning speed breakfast is so important to your weight-loss success." = "Voor het bereiken van de  hoogste vetverbrandingssnelheid, is het ontbijt cruciaal voor je succes bij het afvallen.";
+//Day 4
+"Carbs supply the body with energy" = "Koolhydraten voorzien het lichaam van energie";
+"Studies show that 5 meals a day are important in maintaining a healthy body weight." = "Studies tonen aan dat 5 maaltijden per dag belangrijk zijn voor het behoud van een gezond lichaamsgewicht.";
+//Day 5
+"Protein is essential for growth and development" = "Eiwitten zijn essentieel voor de groei en ontwikkeling";
+"Nutrition plays a key role in maintaining a healthy lifestyle." = "Voeding speelt een belangrijke rol bij het handhaven van een gezonde levensstijl.";
+//Day 6
+"You are what you eat" = "Je bent wat je eet";
+"Is literally true, if you want your body to perform at a peak level." = "Is letterlijk waar, als je wilt dat je lichaam op topniveau presteert.";
+//Day 7
+"Controlling portion size use smaller plates" = "Om de grootte van je portie in de gaten te houden, gebruik kleinere borden";
+"Eliminate emotional eating by healing your hungry heart." = "Stop met emotioneel eten door je hongerige hart te genezen.";
+
+//Content: Title, Ingridients, Instructions
+
+"Strawberries and Creme Oatmeal_Title" = "Aardbeien en havermoutmap";
+"Strawberries and Creme Oatmeal_Ingredients" = "◆\t1/2 kop havermout \n\n◆\t1/3 kop magere melk\n\n◆\t1/3 kop vanille Griekse yoghurt \n\n◆\t1/2 kop plakjes aardbeien\n\n◆\t2 el magere Griekse vanilleyoghurt \n\n◆\t1 el geroosterde amandelen";
+"Strawberries and Creme Oatmeal_Instructions" = "'s Avonds roer je de havermout, melk en 1/3 kop yoghurt in een pot of kom, tot het geheel goed is gemengd. Dek af en laat het een nacht in de koelkast staan. Geniet ervan!";
+
+"Golden Glow Elixir_Title" = "Gouden gloed elixir";
+"Golden Glow Elixir_Ingredients" = "◆\t2 appels\n\n◆\t4 middelgrote sinaasappels, schil verwijderd \n\n◆\t1 citroen, geschild\n\n◆\t5-7 cm verse gember, geschild\n\n◆\t5 cm verse kurkuma, geschild \n\n◆\t2 koppen koud water \n\n◆\t1 handje ijs";
+"Golden Glow Elixir_Instructions" = "In een snelle blender, blend je alle ingrediënten glad (voeg water toe indien nodig). Een krachtige kwaliteitsblender zal hier een gladde sap van maken. Wil je de ingrediënten liever zo mengen dat er een nog zuiverder sap ontstaat, dan kan dat zonder de vezels en voedingsstoffen kwijt te raken, en het smaakt net zo goed. Geniet ervan!";
+
+"Tso’s Chicken Stir Fry_Title" = "Tso’s roergebakken kip ";
+"Tso’s Chicken Stir Fry_Ingredients" = "◆\t4 kipfilets, in blokjes \n\n◆\t1 kop bloem \n\n◆\tplantaardige olie\n\n◆\tzout\n\n◆\tvers gemalen zwarte peper \n\n◆\t2 teentjes knoflook, gehakt \n\n◆\t1/2 blik kippenbouillon \n\n◆\t3 el honing \n\n◆\t4 el sojasaus \n\n◆\t2 el limoensap \n\n◆\t2 blikken broccoli, alleen de roosjes \n\n◆\t2 blikken gekookte witte rijst, als bijgerecht";
+"Tso’s Chicken Stir Fry_Instructions" = "Neem een grote kom met maïzena en dep de kip lichtjes om en om. Verplaats de stukken naar een grote kom met bloem en bedek het vlees nogmaals aan alle kanten, en leg het apart. Plaats een groter, diepe koekenpan met 1/2 eetlepel plantaardige olie op matig-hoog vuur. Kruid de kip, dep het vlees droog en leg het apart. Doe er 2 eetlepels maïzena bij en roer het door elkaar. Doe de broccoli en wortels bij de saus en kook tot het zacht is geworden en, ongeveer 5 minuten. Geniet ervan!";
+
+"Herbal Tea_Title" = "Kruidenthee ";
+"Herbal Tea_Ingredients" = "◆\t1 kop water \n\n◆\t1 theelepel geraspte verse gember \n\n◆\t1 theelepel limoenrasp \n\n◆\t1 theelepel limoensap \n\n◆\t3 blaadjes verse munt ";
+"Herbal Tea_Instructions" = "Breng water aan de kook in een pan en roer er de rest van de ingrediënten door. Kook en blijf roeren tot de thee is getrokken. Geniet ervan!";
+
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Title" = "Gegrilde citroen Dijon-kippendijen met arugula-salade";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Ingredients" = "◆\t4 (120 g) kippendijen \n\n◆\t1/2 tl zout \n\n◆\t1/4 tl gemalen zwarte peper \n\n◆\t2.5 el olijfolie \n\n◆\t2 tl citroensap \n\n◆\t1 tl gehakt knoflook\n\n◆\tkookspray \n\n◆\t1 el balsamicoazijn \n\n◆\t1 tl honing \n\n◆\t1 kop snacktomaten, gehalveerd \n\n◆\t1 (150 g) zakje baby-arugula";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Instructions" = "Strooi 1/4 theelepel zout en 1/8 theelepel peper over de kip. Combineer de kip met 1-1,5 theelepels olie, citroensap, mosterd, en knoflook in een kom, hussel om te bedekken. Laat dit 4 minuten staan. Verhit een grillpan boven een matig vuur. Vet de pan in met kookspray. Doe de kip in de pan, gril 5 minuten aan elke kant of tot het gaar is. Snijd de kip in plakken van 6 mm dik. Geniet ervan!";
+
+"Cottage Berry Crunch_Title" = "Cottage bessencrunch";
+"Cottage Berry Crunch_Ingredients" = "◆\t1/2 kop 2% magere cottage cheese\n\n◆\t2 el granola \n\n◆\t1/2 kop plakjes bananen \n\n◆\t1/2 kop gemengde bessen";
+"Cottage Berry Crunch_Instructions" = "Lepel de cottage cheese in een kleine kom. Garneer het met de rest van de ingrediënten. Geniet ervan!";
+
+"Pineapple Kiwi_Title" = "Ananas Kiwi";
+"Pineapple Kiwi_Ingredients" = "◆\t4 el water \n\n◆\t1/2 kop melk \n\n◆\t1/2 kop yoghurt\n\n◆\t1.5 el honing\n\n◆\t1 kiwi fruit, geschild\n\n◆\t1 kop ananasstukjes \n\n◆\t1/2 een mango\n\n◆\t2 ijsklontjes ";
+"Pineapple Kiwi_Instructions" = "Blend alle ingrediënten op een lage snelheid tot het dik en glad is. Geniet ervan!";
+
+"Lemon Chicken Skillet_Title" = "Gebakken citroenkip ";
+"Lemon Chicken Skillet_Ingredients" = "◆\t4 kipfilets \n\n◆\t1/4 kop boter \n\n◆\t2 el. olijfolie \n\n◆\t1 citroen \n\n◆\t1 citroen in plakjes \n\n◆\t1/4 kop witte wijn \n\n◆\t1 tl zout \n\n◆\t1 tl gemalen zwarte peper \n\n◆\t1/2 tl paprika \n\n◆\t1/2 tl gedroogde peterselie ";
+"Lemon Chicken Skillet_Instructions" = "Combineer bloem, zout, peper, paprika en peterselie in een ondiepe kom. Verhit olie en boter op een matig-hoog vuur. Bedek elke kipfilet in de bloem mengsel en doe dit in de hete koekenpan. Voeg citroensap, witte wijn, citroenrasp en rozemarijn toe aan de koekenpan. Bak de kip aan elke bruin tot het volledig gaar is. Geniet ervan!";
+
+"Zucchini Quinoa Cookies_Title" = "Courgette Quinoakoekjes";
+"Zucchini Quinoa Cookies_Ingredients" = "◆\t1/2 kop romige pindakaas\n\n◆\t1/4 kop honing \n\n◆\t1 banaan\n\n◆\t1 ei \n\n◆\t1 tl vanille-extract \n\n◆\t1/2 kop havermout \n\n◆\t1/2 kop quinoavlokken \n\n◆\t1 tl kaneel \n\n◆\t1/4 tl zout \n\n◆\t1 kop gemalen courgette, geperst ";
+"Zucchini Quinoa Cookies_Instructions" = "Verwarm de oven voor op 180° C. Doe er de pindakaas, ei  en vanille bij in een grote kom, en roer. Voeg er de havermout, quinoavlokken, bakpoeder, kruiden en zout toe aan de kom roer het door elkaar. Vouw de gemalen courgette en chiazaden erdoor. Lepel het deeg op een bakplaat. Bak de koekjes in het midden van de oven, 15 - 18 minuten, tot de randen goudbruin zijn geworden. Geniet ervan!";
+
+"Savory Shrimp with Fresh Herbs_Title" = "Pikante garnalen met verse kruiden";
+"Savory Shrimp with Fresh Herbs_Ingredients" = "◆\t1 pond grote garnalen \n\n◆\t2 rode chilipepers \n\n◆\t1 prei, in dunne plakjes \n\n◆\t0,5-1 el kappertjes, gespoeld en afgegoten \n\n◆\t2 teentjes knoflook, in dunne plakjes \n\n◆\t1/2 kop grof gesneden peterselie \n\n◆\t3 el citroensap\n\n◆\t2 el olijfolie ";
+"Savory Shrimp with Fresh Herbs_Instructions" = "Zet een sauteerpan op een matig vuur en doe er wat olie in. Doe er garnalen, pepers, prei, kappertjes, knoflook, zout en peper bij, en bak 4 minuten tot de garnalen roze zijn. Haal de pan van het vuur. Doe citroensap in de pan, en schraap de bodem van de pan uit met een lepel. Serveer de garnalen met verse peterselie en basilicum. Geniet ervan!";
+
+"Flaxseed Oatmeal with Blueberries_Title" = "Lijnzaad-havermout met blauwe bessen";
+"Flaxseed Oatmeal with Blueberries_Ingredients" = "◆\t3 koppen water \n\n◆\t2 koppen havermout \n\n◆\t3 el gemalen lijnzaad \n\n◆\t1/8 tl zout \n\n◆\t1/4 kop volle melk \n\n◆\t1 kop blauwe bessen \n\n◆\t1 el bosbessenjam \n\n◆\t1/2 tl citroenrasp \n\n◆\t1 el citroensap ";
+"Flaxseed Oatmeal with Blueberries_Instructions" = "Breng 3 koppen water aan de kook. Roer er de havermout door, voeg er lijnzaad en zout aan toe. Zet het vuur op matig-laag, kook al roerend tot het geheel zacht is geworden. Roer er melk en boter door. Meng ondertussen de blauwe bessen met de volgende 4 ingrediënten in een magnetronbestendige kom, zet de magnetron 1,5 minuten hoog, roer om de 30 seconden. Verdeel de havermout over 4 kommen. Garneer met blauwe bessen en pecannoten. Geniet ervan!";
+
+"Coconut Milk Smoothie With Blueberries_Title" = "Kokosmelksmoothie met blauwe bessen";
+"Coconut Milk Smoothie With Blueberries_Ingredients" = "◆\t1 zakje diepvries blauwe bessen \n\n◆\t3 rijpe bananen \n\n◆\t1 kop yoghurt \n\n◆\t1 kop ongezoete kokosmelk \n\n◆\t2 el honing ";
+"Coconut Milk Smoothie With Blueberries_Instructions" = "In een blender pureer je de blauwe bessen, bananen, yoghurt, kokosmelk en honing. Geniet ervan!";
+
+"Chicken and Asparagus Stir-Fry_Title" = "Geroerbakte kip en asperges";
+"Chicken and Asparagus Stir-Fry_Ingredients" = "◆\t1 el sojasaus \n\n◆\t1 el honing \n\n◆\t2 kipfilets, in stukjes \n\n◆\t1 el olijfolie \n\n◆\t1 bos asperges, in stukjes \n\n◆\t4 teentjes knoflook, in dunne plakjes \n\n◆\t2 tl geroosterde sesamolie ";
+"Chicken and Asparagus Stir-Fry_Instructions" = "Meng sojasaus en honing in een afsluitbare zak. Doe er de kip bij en roer het geheel om het vlees een laagje te geven. Leg het in de koelkast tot het klaar is. Verhit ondertussen olie in een grote koekenpan op een matig vuur. Verwijder de asperges en leg ze apart. Verwijder de kip uit de marinade, en leg het in de koekenpan. Voeg er de knoflook, lente-uitjes en de apart gezette marinade aan toe. Verwijder van het vuur en roer er de sesamolie door. Geniet ervan!";
+
+"Lavender Mint Tea_Title" = "Lavendel muntthee ";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 kop verse lavendelknoppen \n\n◆\t1 kop verse muntblaadjes\n\n◆\t4 koppen water ";
+"Lavender Mint Tea_Instructions" = "Doe de lavendelkoppen en muntbladeren in een sauspan, schenk er water overheen en breng aan de kook. Zet het vuur laag en laat de thee 15 tot 20 minuten trekken, tot het de gewenste sterkte heeft. Geniet ervan!";
+
+"Chili Fajitas_Title" = "Chili Fajitas ";
+"Chili Fajitas_Ingredients" = "◆\t1 pond kipfilet, zonder vel \n\n◆\t1/2 groene, rode en gele paprika, in dunne plakjes \n\n◆\t1/3 kop water\n\n◆\t2 tl sojasaus \n\n◆\t1 snufje zout \n\n◆\t1 snufje zwarte peper\n\n◆\t2 el olijfolie \n\n◆\t1 grote ui, in dunne plakjes ";
+"Chili Fajitas_Instructions" = "Doe alle ingrediënten voor de marinade samen met de kip in een kom of zak en zet dit minstens 2 uur in de koelkast. Verwijder het vlees uit de marinade en grill boven een matig vuur, 4-5 minuten aan elke kant. Snijd het vlees in dunne plakken. Meng voor de saus 2 el water, 1 tl sojasaus, 1/4 tl limoensap, snufje zout, snufje zwarte peper en 1 el olijfolie.  Geniet ervan!";
+
+"Healthy Fruity Oatmeal_Title" = "Gezonde, fruitige havermout";
+"Healthy Fruity Oatmeal_Ingredients" = "◆\t1/2 kop havermout\n\n◆\t1 kop water \n\n◆\t1 el honing \n\n◆\t1 el vanille-extract \n\n◆\t1/2 tl gemalen kaneel \n\n◆\t1/4 kop blauwe bessen \n\n◆\t4 plakjes aardbeien\n\n◆\t1/2 banaan, in plakjes";
+"Healthy Fruity Oatmeal_Instructions" = "Meng water en havermout in een magnetronbestendige kom. Magnetron op hoge stand tot de havermout het water heeft opgenomen. Roer er honing, vanille-extract en gemalen kaneel door. Voeg er de blauwe bessen aan toe en garneer met banaan en plakjes aardbei. Geniet ervan!";
+
+"Coffee Smoothie_Title" = "Koffiesmoothie ";
+"Coffee Smoothie_Ingredients" = "◆\t1 tl instant espressopoeder \n\n◆\t1 el heet water \n\n◆\t1 kleine banaan, gepeld, in plakjes en diepvries \n\n◆\t1/4 kop magere melk \n\n◆\t1 el honing \n\n◆\t1/2 kop ijsklontjes\n\n◆\t gemalen kaneel ";
+"Coffee Smoothie_Instructions" = "Meng de espressopoeder en het hete water in een blender, en laat dit 1 minuut rusten. Doe er de banaan, melk en honing bij. Dek af en blend tot een glad mengsel. Voer er geleidelijk ijs aan toe en blend tot de gewenste dikte. Bestrooi licht met wat kaneel. Geniet ervan!";
+
+"Chicken & Pineapple Stir-Fry_Title" = "Geroerbakte kip & ananas ";
+"Chicken & Pineapple Stir-Fry_Ingredients" = "◆\t110 g kipfilets\n\n◆\t40 g ananas  \n\n◆\t120 g volkorenrijst\n\n◆\t1/3 el olijfolie \n\n◆\t1/2 tl bruine mosterd \n\n◆\t1/6 el gerookte paprikapoeder \n\n◆\tzeezout\n\n◆\tpeper";
+"Chicken & Pineapple Stir-Fry_Instructions" = "Snijd de rauwe kipfilets in kleine stukjes. Kruid de kipstukjes met de paprikapoeder en mosterd. Verwarm olijfolie in een koekenpan en doe er de kipfilet bij. Bak dit ongeveer 4 minuten tot de kip 80% is gegaard, en voeg er vervolgens de gehakte paprika aan toe. Bak dit nogmaals 2 of 3 minuten voor je de blokjes ananas erbij doet. Geniet ervan!";
+
+"Raw Chocolate Truffles_Title" = "Rauwe chocoladetruffels ";
+"Raw Chocolate Truffles_Ingredients" = "◆\t1/2 kop walnoten, cashewnoten en amandelen, een nacht geweekt in water \n\n◆\t3-4 el amandelmelk\n\n◆\t1/4 kop zonnebloempitten \n\n◆\t1/4 kop pompoenpitten\n\n◆\t2 el carobe-poeder \n\n◆\t3 el kokosvlokken ";
+"Raw Chocolate Truffles_Instructions" = "Doe alles in de blender, behalve de kokosvlokken, en mix. Maak kleine balletjes van het mengsel met een ijsschep. Rol elk snoepje in kokosvlokken. Serveer koud. Geniet ervan!";
+
+"Baked Salmon with Veggies_Title" = "Gebakken zalm met groenten ";
+"Baked Salmon with Veggies_Ingredients" = "◆\t2 zalmfilets \n\n◆\t1 kop in plakjes courgette \n\n◆\t1 kop broccoli \n\n◆\t1/2 kop kerstomaatjes \n\n◆\tzout \n\n◆\tpeper \n\n◆\tolijfolie";
+"Baked Salmon with Veggies_Instructions" = "Verwarm de oven voor op 190° C. Meng de groenten op een grote bakplaat. Kruid de groenten met zout, peper en olijfolie. Leg de filets bij de groenten en bak 18-20 minuten of tot de zalm is gekookt en de groenten mals zijn. Geniet ervan!";
+
+"Banana Nut Oatmeal_Title" = "Banaan-notenhavermout";
+"Banana Nut Oatmeal_Ingredients" = "◆\t1/2 kop havermout \n\n◆\t1 kop water \n\n◆\t1 plakjes banaan\n\n◆\t1 el gehakte walnoten \n\n◆\t1 tl gemalen kaneel ";
+"Banana Nut Oatmeal_Instructions" = "Meng havermout en 1 kop of water in een kleine magnetronbestendige kom. Kook 3 minuten op een hoge stand. Garneer met banaan slices, walnoten en kaneel. Geniet ervan!";
+
+"Pink Power_Title" = "Pink Power";
+"Pink Power_Ingredients" = "◆\t1,5 kop kleine verse bloemkoolroosjes \n\n◆\t2 koppen watermeloen-blokjes (zaadjes en schil verwijderd) \n\n◆\t1,5 koppen hele aardbeien\n\n◆\t180 gram Griekse aardbeienyoghurt \n\n◆\t2 el aardbeienjam (eventueel) ";
+"Pink Power_Instructions" = "Kook de bloemkool in een kleine steelpan, onder kokend water, tot het zeer zacht is. In een blender meng je de gekookte bloemkool met de watermeloen, aardbeien, yoghurt en, indien gewenst, aardbeienjam. Geniet ervan!";
+
+"BBQ Chicken-Wrapped Asparagus_Title" = "BBQ-kip met aspergerolletjes";
+"BBQ Chicken-Wrapped Asparagus_Ingredients" = "◆\t2 kipfilets, dun gesneden, 90 gr per stuk\n\n◆\t12 aspergestelen \n\n◆\t2 el barbecuesaus\n\n◆\t1 snufje gerookte paprika \n\n◆\t1 snufje knoflookpoeder \n\n◆\t1 snufje peper";
+"BBQ Chicken-Wrapped Asparagus_Instructions" = "Stel oven in op 200°C. Plet de kip met een vleeshamer. Kruid de kipstukjes met 1 el barbecuesaus (voor elk stuk) en kruiden naar keuze. Leg de kip op een grilrooster met het open deel naar beneden. Bak het vlees ongeveer 8 tot 10 minuten in de oven, of rook het op een barbecue. Geniet ervan!";
+
+"Ginger Turmeric Herbal Tea_Title" = "Gember kurkuma kruidenthee";
+"Ginger Turmeric Herbal Tea_Ingredients" = "◆\t2 koppen water \n\n◆\t1/2 theelepel vers gesneden gember \n\n◆\t1/2 theelepel gemalen kaneel \n\n◆\t1 eetlepel honing \n\n◆\t1 citroenschijfje ";
+"Ginger Turmeric Herbal Tea_Instructions" = "Breng water aan de kook in een kleine sauspan en doe er kurkuma, gember en kaneel bij. Zet het vuur laag en laat het 10 minuten pruttelen. Schenk de thee in een grote glas, doe er honing en citroen bij. Geniet ervan!";
+
+"Grilled Shrimp & Avocado Kabobs_Title" = "Gegrilde garnalen & avocado-kebab";
+"Grilled Shrimp & Avocado Kabobs_Ingredients" = "◆\t450 g jumbo garnalen\n\n◆\t1.5 avocado’s\n\n◆\t1 rode paprika\n\n◆\t1 oranje paprika\n\n◆\t1 gele paprika\n\n◆\t1 rode ui\n\n◆\t1 tl knoflookpasta \n\n◆\t1/2 el extra virgine olijfolie \n\n◆\t1 limoen \n\n◆\tzout, peper ";
+"Grilled Shrimp & Avocado Kabobs_Instructions" = "Stel de grill in op ongeveer 200°C. Hak de groenten en avocado in grote stukken voor de kebab. Pel de garnalen en breng ze op smaak. Kies vezelrijke groenten, omdat die vullender zijn en niet van een kebab-stokje afvallen boven een hoog vuur. Plaats de kebabs op de grill en gaar ze ongeveer 8-10 minuten, waarna ze omgekeerd worden om nog 8 tot 10 minuten te garen. Geniet ervan!";
+
+"Morning Parfait_Title" = "Ochtendparfait";
+"Morning Parfait_Ingredients" = "◆\t1/4 kop rozijnen en 1 tl gesnipperde sinaasappelschil \n\n◆\t1 tl vanille\n\n◆\thalf pak vetarme Neufchatel roomkaas (250 gram) \n\n◆\tbroodkruimels \n\n◆\t2 koppen verse frambozen, blauwe bessen, plakjes aardbei, en/of perzik in partjes\n\n◆\t1/2 kop magere granola\n\n◆\thoning\n\n◆\tgesnipperde sinaasappelrasp";
+"Morning Parfait_Instructions" = "Mix broodkruimels en kaas, en strooi dit over de bakplaat. Besprenkel met olie. Bak 20 tot 25 minuten. Doe een laagje roomkaas in vier glazen, een laagje fruit en een laag granola. Herhaal deze lagen tot aan de garnering van de glazen. Besprenkel met honing en garneer met extra sinaasappelrasp. Voor vier personen. Geniet ervan!";
+
+"Green Tea Kiwi and Mango_Title" = "Smoothie met groene thee, kiwi en mango ";
+"Green Tea Kiwi and Mango_Ingredients" = "◆\t2,5 koppen diepvries mango, in blokjes \n\n◆\t3/4 kop vanilleyoghurt\n\n◆\t2 el honing\n\n◆\t2 el water\n\n◆\t3 rijpe kiwi \n\n◆\t2 koppen ijsklontjes \n\n◆\t1/2 kop babyspinazie \n\n◆\t2 el groene thee (getrokken) ";
+"Green Tea Kiwi and Mango_Instructions" = "Leg mango, 1/2 kop yoghurt, 2 eetlepels honing, 2 eetlepels water en limoenschil in een blender, en mix to het glad is. Doe 1/4 kop yoghurt, 2 eetlepels honing, kiwifruit en de volgende 3 ingrediënten in een blender en blend tot het glad is. Geniet ervan!";
+
+"Citrus Chicken Stir-Fry_Title" = "Geroerbakte citruskip ";
+"Citrus Chicken Stir-Fry_Ingredients" = "◆\t140 g kipfilet, kleine stukjes\n\n◆\t34 g broccolini  \n\n◆\t25 g baby portobello\n\n◆\t1/4 rode paprika \n\n◆\t20 g rode ui\n\n◆\tkokosolie, spray \n\n◆\tsesamzaadjes  \n\n◆\t1/4 tl arrowroot\n\n◆\t1/8 el knoflookpasta\n\n◆\t1/4 tl gemberpasta";
+"Citrus Chicken Stir-Fry_Instructions" = "Mix alle ingrediënten voor de geroerbakte saus in een kom. Spray een koekenpan met kokosolie en plaats op een matig vuur. Doe er de kipstukjes bij en bak tot ze ongeveer 85% gaar zijn. Doe er daarna de groente bij en roer met een spatel. Geniet ervan!";
+
+"Grilled Mexican Corn_Title" = "Gegrilde Mexicaanse maïs ";
+"Grilled Mexican Corn_Ingredients" = "◆\t4 maïskolven\n\n◆\t1.5 koppen zure room\n\n◆\t1 kop geraspte parmezaanse kaas \n\n◆\tsap van 1 limoen\n\n◆\trode chilipoeder\n\n◆\t2 limoenen in partjes, ter garnering ";
+"Grilled Mexican Corn_Instructions" = "Gril de maïs onder een keer omdraaien op een hete grill, tot het iets begint aan te branden. Meng in een kleine kom de mayonaise, zure room en koriander. Giet dit over de maïs, met limoensap en parmezaanse kaas. Besprenkel met chilipoeder. Geniet ervan!";
+
+"Salmon Burger with Avocado_Title" = "Zalmburger met avocado";
+"Salmon Burger with Avocado_Ingredients" = "◆\t1 pond zalmfilet\n\n◆\t1 kop broodkruimels \n\n◆\t1 ei \n\n◆\t1 el citroensap \n\n◆\tzout en peper \n\n◆\tolijfolie \n\n◆\t1 grote avocado, gehakt \n\n◆\t1/3 kop rode ui, gehakt \n\n◆\t1 limoensap";
+"Salmon Burger with Avocado_Instructions" = "Hak de zalmfilet in kleine stukjes en doe die in een mengkom. Roer voorzichtig de rest van de ingrediënten erdoor. Laat het mengsel 5-10 minuten rusten. Verhit een beetje olie in een grote grillpan op matig vuur. Maak nette pasteitjes van het zalmmengsel. Bak de pasteitjes tot ze aan elke kant bruin zijn, ongeveer 4 minuten aan elke kant. Geniet ervan!";
+
+"Strawberry and Banana Nut Bread Oatmeal_Title" = "Notenbrood met aardbei en bananen";
+"Strawberry and Banana Nut Bread Oatmeal_Ingredients" = "◆\t150 g havermout (gekookt)\n\n◆\t1/2 geprakte banaan \n\n◆\t50 g aardbeien\n\n◆\t2 el amandelmelk \n\n◆\t1 el vanille-extract \n\n◆\t2 el  gehakte walnoten\n\n◆\tpakketje stevia merk \"In The Raw\" \n\n◆\tcitroenschil als garnering \n\n◆\t1 el Griekse yoghurt (2% vet)\n\n◆\t1/2 el gehakte walnoten \n\n◆\tmaanzaad";
+"Strawberry and Banana Nut Bread Oatmeal_Instructions" = "Kook havermout volgens de aanwijzingen, en zet het even aan de kant. Doe alle ingrediënten in een kom, behalve aardbeien, en mix grondig. Garneer de havermout met vers gehakte aardbeien. Garneer met Griekse yoghurt, gehakte walnoten en maanzaad. Geniet ervan!";
+
+"Strawberry Banana_Title" = "Milkshake met aardbei en banaan";
+"Strawberry Banana_Ingredients" = "◆\t2 koppen aardbeien\n\n◆\t1 vers gepelde banaan\n\n◆\t1 kop melk\n\n◆\t1 ijsklontje \n\n◆\t1 el honing";
+"Strawberry Banana_Instructions" = "Doe alle ingrediënten in een blender en blend het goed door elkaar. Is de smoothie te dik, voeg er dan meer melk aan toe. Is het te dun, doe er dan meer fruit en/of ijs bij. Geniet ervan!";
+
+"Spicy & Light Kung Pao Chicken Meal Prep_Title" = "Kruidig & licht Kung Pao kip";
+"Spicy & Light Kung Pao Chicken Meal Prep_Ingredients" = "◆\t150 g kipfilet \n\n◆\t1/6 teentje knoflook  \n\n◆\t33 g peultjes\n\n◆\t150 g paprika \n\n◆\t2/3 el water \n\n◆\t1/3 el tomatensaus \n\n◆\t1/6 el verse gember \n\n◆\t1/6 el rode chilisaus \n\n◆\t1/6 el rijstazijn \n\n◆\tgehakte lente-ui";
+"Spicy & Light Kung Pao Chicken Meal Prep_Instructions" = "Doe de ingrediënten voor de saus in een kom en roer ze door elkaar. Verhit een koekenpan op matig vuur en vet in met olijfolie. Wanneer de koekenpan heet is, doe je er de knoflook bij en laat je het ongeveer 2 minuten fruiten. Doe er vervolgens de stukjes kipfilet bij. Bak de kip tot de buitenkant is aangebraden, ongeveer 6 tot 8 minuten. Doe er de gehakte paprika's bij laat het geheel ongeveer 3 minuten sudderen. Giet er langzaam de saus bij en roer regelmatig. Geniet ervan!";
+
+"Lavender Mint Tea_Title" = "Lavendel muntthee ";
+"Lavender Mint Tea_Ingredients" = "◆\t1/4 kop verse lavendelknoppen \n\n◆\t1 kop verse muntblaadjes\n\n◆\t4 koppen water ";
+"Lavender Mint Tea_Instructions" = "Doe de lavendelkoppen en muntbladeren in een sauspan, schenk er water overheen en breng aan de kook. Zet het vuur laag en laat de thee 15 tot 20 minuten trekken, tot het de gewenste sterkte heeft. Geniet ervan!";
+
+"Foil Fish Packets with Spinach and Tomato_Title" = "Vispakketjes met spinazie en tomaat in folie";
+"Foil Fish Packets with Spinach and Tomato_Ingredients" = "◆\t1 bosje asperges \n\n◆\t2 tomaten in plakjes \n\n◆\t2 tilapiafilets\n\n◆\tolijfolie \n\n◆\t1/2 tl chili-knoflooksaus \n\n◆\tzout \n\n◆\t1 citroen, in plakjes";
+"Foil Fish Packets with Spinach and Tomato_Instructions" = "Verwarm de oven voor op 190° C. In een kleine kom meng je de olijfolie, chilisaus en zout. Doe de asperges in het midden van een vel aluminiumfolie, en leg de plekjes tomaat er bovenop; kruid naar smaak. Leg één visfilet op de tomaten in elke pakketje, en smeer het olijfoliemengsel over de vis. Rangschik de citroenschijfjes over de vis. Bak de vis in de oven, ongeveer 25-30 minuten. Geniet ervan!";
+
+
+

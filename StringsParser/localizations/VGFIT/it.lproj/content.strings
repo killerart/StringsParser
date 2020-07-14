@@ -1,0 +1,1357 @@
+/* 
+  content.strings
+  iBodybuilding-Update
+
+  Created by Johnny Bravo on 6/18/13.
+  Copyright (c) 2013 com.softintercom. All rights reserved.
+*/
+"Abs" = "Addominali";
+"Back" = "Dorso";
+"Biceps" = "Bicipiti";
+"Calf" = "Polpacci";
+"Chest" = "Petto";
+"Forearms" = "Avambracci";
+"Legs" = "Gambe";
+"Shoulders" = "Spalle";
+"Triceps" = "Tricipiti";
+
+//Abs
+
+"Incline Bench Sit-Ups" = "Addominali su panca inclinata";
+"1 Incline Bench Sit-Ups" = "Muscolo: Retto dell’addome\n\nPassaggio 1: Sdraiati sulla panca reclinata. Posiziona le mani sopra la testa. Le ginocchia sono piegate.\n\nPassaggio 2: Solleva la parte superiore del tronco, tenendo la parte bassa della schiena sulla panca. Tieni la posizione per un secondo. Ritorna alla posizione di partenza";
+
+"Hanging Leg Raises" = "Sollevamento gambe sospese";
+"2 Hanging Leg Raises" = "Muscolo: Retto dell’addome\n\nPassaggio 1: Tenendoti aggrappato a una sbarra per trazioni con una presa supina, rimani appeso con le ginocchia leggermente piegate.\n\nPassaggio 2: Solleva le tue anche mentre ti pieghi all’interno, verso il tuo torace, utilizzando gli addominali bassi. Avvicina le ginocchia quanto più possibile al tuo torace, curvando la zona lombare. Poi, rimani in pausa, senti la contrazione dei muscoli lombari-addominali e ritorna alla posizione di partenza";
+
+"Dumbbell Side Bends" = "Flessioni laterali con manubri";
+"3 Dumbbell Side Bends" = "Muscolo: Obliquo\n\nPassaggio 1: Stai in piedi con i piedi ad ampiezza delle spalle. Stand straight with feet shoulder width apart. Tieni un manubrio in ciascuna mano.\n\nPassaggio 2: Piegati verso il basso in una direzione, assicurandoti un movimento minimo negli arti inferiori.\n\nPassaggio 3: Ritorna alla posizione di partenza.";
+
+"Crunches" = "Crunch";
+"4 Crunches" = "Muscolo: Retto dell’addome\n\nPassaggio 1: Sdraiandoti a pancia in su, stendi le gambe, solleva di 2-3 cm i talloni e posiziona le mani sui tuoi fianchi.\n\nPassaggio 2: Tenendo le braccia parallele al pavimento, solleva il tronco e le gambe così da formare una e. Mentre ti sollevi, piega le ginocchia e spingile verso il tuo petto.";
+
+"Sit-Ups" = "Addominali";
+"5 Sit-Ups" = "Muscolo: Retto dell’addome\n\nPassaggio 1: Sdraiati sulla stability ball. Posiziona le mani sulla tua testa e i piedi sul pavimento.\n\nPassaggio 2: Solleva la parte superiore del corpo tenendo la zona lombare sulla stability ball. Tieni la posizione per un secondo. Ritorna alla posizione di partenza.";
+
+"Leg Raises" = "Sollevamento gambe";
+"6 Leg Raises" = "Muscolo: Retto dell’addome\n\nPassaggio 1: Sdraiati sul pavimento. Distendi le gambe. Posiziona le mani dietro la testa.\n\nPassaggio 2: Solleva la parte superiore del corpo. Tieni la posizione per un secondo. Ritorna alla posizione di partenza.";
+
+"Flat Bench Lying Leg Raise" = "Sollevamento gambe sdraiati su panca piana";
+"7 Flat Bench Lying Leg Raise" = "Sdraiati sulla panca o sul pavimento con le gambe dritte. Posiziona le mani sotto le natiche con i palmi verso il basso. Tieni le gambe dritte e le ginocchia bloccate. Solleva i piedi più verticalmente possibile.";
+
+"Seated Jackknife" = "Jack knife seduto";
+"8 Seated Jackknife" = "Siediti sul bordo di una panca e tieni il sedile dietro la schiena come supporto, estendi le gambe di fronte a te, e tieni le ginocchia leggermente piegate. Solleva le gambe verso il petto e porta il petto verso le ginocchia.";
+
+"Twisting Hip Raise" = "Sollevamento fianchi in torsione";
+"9 Twisting Hip Raise" = "Sdraiati sulla schiena con le gambe sporgenti dritto verso l'alto e le mani lungo i fianchi. Spingi verso l'alto con i piedi sollevando i fianchi da terra contemporaneamente, torcendoli da un lato.";
+
+"Twisting Hip Raise" = "Sollevamento fianchi in torsione";
+"10 Twisting Hip Raise" = "Sdraiati sulla schiena con le gambe sporgenti dritto verso l'alto e le mani lungo i fianchi. Spingi verso l'alto con i piedi sollevando i fianchi da terra contemporaneamente, torcendoli da un lato.";
+
+"Twisting Hip Raise" = "Sollevamento fianchi in torsione";
+"11 Twisting Hip Raise" = "Sdraiati sulla schiena con le gambe sporgenti dritto verso l'alto e le mani lungo i fianchi. Spingi verso l'alto con i piedi sollevando i fianchi da terra contemporaneamente, torcendoli da un lato.";
+
+"Bodyweight Crunch" = "Crunch a corpo libero";
+"12 Bodyweight Crunch" = "Sdraiati sul pavimento. Piedi ben appoggiati sul pavimento e ginocchia piegate. Braccia completamente estese sopra di te. Solleva la parte superiore del corpo verso l'alto, mantenendo la zona lombare sul pavimento. Mantieni la posizione per un secondo. Ritorna alla posizione di partenza.";
+
+"Russian Twist" = "Torsione alla russa";
+"13 Russian Twist" = "Siediti sul pavimento, gambe piegate e busto un po' indietro. Tieni le braccia dritte davanti al busto. Ruota il busto da un lato, torna alla posizione centrale e fai lo stesso verso l'altro lato.";
+
+"Side Bridge" = "Ponte laterale";
+"14 Side Bridge" = "Sdraiati su un fianco iniziando con le gambe. Girati lateralmente e solleva il corpo da terra, con un braccio piegato parallelo al pavimento. Cerca di mantenere il tuo corpo su una linea retta e il gomito direttamente sotto la spalla.";
+//Back
+"Chin-Ups" = "Trazioni";
+"1 Chin-Ups" = "Afferra la barra, palmi e dita in avanti, lontano dal corpo. Questa è chiamata la presa 'prona'. Mantieni le braccia diritte e tieniti appeso dritto senza oscillare. Rilassa le spalle e il corpo. Tira su con un movimento fluido, non a scatti. Il mento dovrebbe andare sopra la barra. Abbassati dolcemente di nuovo alla posizione di partenza";
+
+"Deadlifts" = "Stacchi";
+"2 Deadlifts" = "La tua posizione è circa quanto la larghezza delle spalle con i piedi puntati leggermente più avanti. Ora devi abbassare il sedere fino a quando i quadricipiti sono più o meno paralleli al pavimento. La barra deve essere proprio davanti ai tuoi stinchi. Ora afferra il bilanciere con entrambe le mani in modo che la presa sia distanziata leggermente rispetto alle gambe. Con un arco lombare nella schiena, spingi con le gambe e solleva con la schiena simultaneamente in modo che la barra arriva alle ginocchia e si ferma presso i fianchi. Le spalle e le ginocchia devono essere bloccate completamente e le braccia devono essere dritte durante l'intero tentativo.";
+
+"Lat Pull-Downs" = "Lat pulldown";
+"3 Lat Pull-Downs" = "Fissa una barra lunga alla lat pulldown machine e regola l’imbottitura della coscia in modo che quando si è seduti le ginocchia sono ad angolo retto e i piedi appoggiati a terra. Afferra la barra con una presa larga e siediti mantenendo la parte superiore del corpo in posizione verticale, leggermente pendente indietro dalle anche. Tira la barra di fronte al tuo viso fino alla parte superiore del torace e attendi. Rilascia lentamente la barra di nuovo alla posizione di partenza raddrizzando le braccia.";
+
+"Seated Rows" = "Seated row";
+"4 Seated Rows" = "Per iniziare la seated row, prendi in mano le maniglie della tua barra preferita (che potrebbe essere simile a quella mostrata). Siediti con la schiena dritta, mantenendo le gambe piegate e i piedi contro il blocco di metallo. Estendi le braccia sentendo i tuoi laterali tirano. Tirare indietro il peso nel tuo corpo fino a quando le maniglie toccare l'addome.";
+
+"One-Arm Dumbbell Rows" = "Rematore alla row machine ad una mano";
+"5 One-Arm Dumbbell Rows" = "Posiziona il ginocchio sinistro e la mano sinistra su una panca piana con la gamba destra impostata saldamente sul pavimento. Piegati in avanti in modo che la schiena sia piatta e parallela al pavimento. Afferra un manubrio con la mano destra con il palmo rivolto verso il tuo corpo e solleva il manubrio in alto e nella zona esterna della gabbia toracica. Torna alla posizione di partenza e ripeti.";
+
+"Barbell Shrugs" = "Barbell Shrug";
+"6 Barbell Shrugs" = "Stai in piedi con i piedi alla larghezza delle spalle e tiene un bilanciere con entrambe le mani di fronte a te con una presa prona (palmi rivolti verso le cosce). Suggerimento: Le mani devono essere un po' più ampie rispetto alla larghezza delle spalle. È possibile utilizzare fasce per i polsi per questo esercizio per una migliore presa. Questa sarà la tua posizione di partenza. Alza le spalle in su, fino al massimo che puoi andare, quando espiri e tieni la contrazione per un secondo. Suggerimento: Evita di tentare di sollevare il bilanciere utilizzando i bicipiti. Ritorna lentamente alla posizione di partenza, quando inspiri.";
+
+"Dumbbell Shrugs" = "Dumbbell Shrugs";
+"7 Dumbbell Shrugs" = "Mettiti in ​​posizione eretta con i manubri sospesi ai lati, i piedi appena sufficientemente ampi in modo che i manubri siano sospesi comodamente. Possono essere più pesanti di quanto li postresti usare per una rotazione di braccia o sollevamento della parte anteriore. Stringi le spalle verso l'alto proprio come faresti per dire a qualcuno 'boh, non so' in risposta ad una domanda. Non curvarti verso il fronte, cerca di rimanere completamente eretto. Se vedi che ti stai incurvando o piegando all'indietro, alleggerisci un po' i pesi.";
+
+"Back Extensions" = "Estensioni all’indietro";
+"8 Back Extensions" = "Posizionati per un’estensione posteriore e aggancia i piedi sotto l’ancoraggio della gamba. Il tuo corpo deve formare una linea retta dalle tue mani ai fianchi. Abbassa il busto, permettendo che la tua parte bassa della schiena si arrotondi, fino a quando è solo poco perpendicolare al pavimento. Alza la parte superiore del corpo fino a quando è leggermente al di sopra e parallela al pavimento. A questo punto, devi fare un leggero arco nella schiena e le scapole devono essere tirate insieme. Attendi per un secondo, quindi ripeti.";
+
+"Bent Over Row" = "Bent Over Row";
+"9 Bent Over Row" = "In piedi con le ginocchia leggermente flesse. Piega il busto con un angolo di circa 45 gradi, mantenendo la schiena dritta. Effettua una presa portando il braccio sopra la spalla sulla barra con le mani più larghe delle spalle e le braccia penzoloni verso il basso dalle spalle:\n\n- Inspira, contra gli addominali isometricamente e tira su la barra dritta fino a toccare il petto.\n\n- Tornare alla posizione di partenza, espirando.";
+
+"Reverse Chin Ups" = "Reverse Chin Ups";
+"10 Reverse Chin Ups" = "Estendi le braccia ed effettua una presa portando il braccio sopra la spalla con le mani alla larghezza delle spalle:\n\n- Inspira e fai sporgere il petto in fuori per tirarti verso l'alto fino a quando il mento è al livello della barra.\n\n- Espira quando completi il movimento.";
+//Biceps
+
+"Curls" = "Curl";
+"1 Curls" = "Stai con i piedi più o meno la larghezza dei fianchi, addominali impegnati come se tenessi manubri medio-pesanti davanti alle cosce. Spremi il bicipite e piega le braccia, piegando i pesi verso le spalle. Tieni i gomiti fermi e porta solo il peso più in alto possibile senza spostare i gomiti. Abbassa lentamente il peso, mantenendo una leggera curva nei gomiti in basso (ad esempio, non blocca le articolazioni e cerca di mantenere la tensione sul muscolo)";
+
+"Barbell Curls" = "Curl con bilanciere";
+"2 Barbell Curls" = "Inizia in una posizione eretta con i tuoi piedi lontani dalla larghezza delle spalle e le ginocchia rilassate. Afferra un bilanciere con le mani anch’esse lontane dalla larghezza delle spalle. La presa deve essere portando il braccio sopra la spalla (palmi rivolti verso l'alto). Sta in piedi e lascia che la barra sospesa davanti alle coscie. Piega i gomiti per tirare la barra a livello della spalla. Attendi momentaneamente in questa posizione. Abbassare lentamente la barra di nuovo nella posizione di partenza.";
+
+"Preacher Curls" = "Preacher Curl";
+"3 Preacher Curls" = "Afferra la barra a circa larghezza delle spalle. Tira lentamente la barra fino a che gli avambracci siano rivolti verso il soffitto (poco più che verticale). Attendi per un secondo e abbassa la barra nella posizione di partenza.";
+
+"Hammer Curls" = "Hammer Curl";
+"4 Hammer Curls" = "Tieni un manubrio in entrambe le con i palmi e i pesi rivolti verso l'esterno. Le braccia devono formare un angolo di 90 gradi. Mantieni il gomito vicino al corpo e in una posizione stabile, tira il peso verso la spalla. Abbassa i pesi lentamente fino alla posizione di partenza.";
+
+"Concentration Curls" = "Concentration Curl";
+"5 Concentration Curls" = "Inizia seduto sul bordo della panca, tenendo il manubrio con la mano destra. Lascia il braccio destro dritto giù con il gomito appoggiato sulla parte interna del ginocchio. Piegati in avanti in modo che il busto sia sopra le tue gambe e posiziona la mano sinistra sul ginocchio sinistro. Piegando il gomito, tira il manubrio fino a livello della spalla e attendi momentaneamente prima di abbassare lentamente il peso fino alla posizione di partenza. Ripeti fino a quando la serie è finita, quindi cambia lato completa l’esercizio con il braccio sinistro.";
+
+"Reverse Curls" = "Reverse Curl";
+"6 Reverse Curls" = "In piedi con le gambe leggermente divaricate e le braccia tese, con una presa portando il braccio sopra la spalla (i pollici verso l'altro):\n\n- Inspira e tira la barra.\n\n- Espira quando completi il movimento. Questo esercizio sforza gli estensori del polso e delle dita. Sforza il brachioradiale, e in minor misura il bicipite.";
+
+"Cable Biceps Curl" = "Cable Biceps Curl";
+"7 Cable Biceps Curl" = "Fissa una barra diritta al pulley basso dei cavi. Quindi afferrala con una presa a larghezza di spalla portando il braccio sopra la spalla e tienila a distanza proprio di fronte le cosce. Le ginocchia devono essere leggermente piegate. Tira la barra verso il petto, per quanto è possibile, senza permettere che le braccia si muovano.";
+
+"Low Pulley Curls" = "Low Pulley Curl";
+"8 Low Pulley Curls" = "Stai di fronte alla macchina e afferrare la maniglia con una presa portando il braccio sopra la spalla:\n\n- Inspira e tira la maniglia del pulley.\n\n- Espira quando completi il movimento. Questo è un buon esercizio per isolare e pompare i bicipiti.";
+
+"Low Pulley Cable Crossover" = "Low Pulley Cable Crossover";
+"9 Low Pulley Cable Crossover" = "Imposta i cavi nella parte inferiore delle croci e incrocia le mani al viso e iniziare dal basso a formare una croce in alto. Questa variante si rivolge di più alla parte superiore del torace.";
+
+//Cal
+
+"Toe Raises" = "Sollevamento sull’alluce";
+"1 Toe Raises" = "Inizia da una posizione neutrale, o leggermente più ampio rispetto alla larghezza delle spalle. Tieni i manubri in entrambe le mani sullo stesso lato del piede. Spostati in alto sulle punte, contraendo i muscoli del polpaccio, abbassandoti lentamente verso il basso per una gamma completa di movimento.";
+
+"One-Leg Toe Raises" = "Sollevamento sul pollice di una gamba";
+"2 One-Leg Toe Raises" = "Stai su un piede, mettendo le dita e la pianta del piede sul blocco. Tieni un manubrio con la mano sullo stesso lato come il piede su cui stai stando e afferra il bordo della macchina con l'altra mano per stabilizzare il corpo in posizione per tutto il movimento:\n\n- Sollevati il più in alto possibile sulla punta dei piedi (flessione plantare), mantenendo il ginocchio esteso o leggermente piegato.\n\n- Torna alla posizione di partenza.";
+
+"Seated Calf Raises" = "Seated Calf Raises";
+"3 Seated Calf Raises" = "Regola l’imbottitura in modo che gli stinchi siano verso l'alto e l’imbottitura sia proprio dietro le ginocchia. Solleva il peso, spingendo i talloni in alto con le palle dei tuoi piedi. Abbassa lentamente i talloni fino a sentire tirare il muscolo del polpaccio. Per concentrarsi sui polpacci interni ed esterni, punta i piedi verso l'interno e verso l'esterno, rispettivamente.";
+//Chest
+
+"Bench Presses" = "Pressa su panca";
+"1 Bench Presses" = "Per eseguire correttamente un esercizio di panca è necessario stare distesi su una panca e avere i piedi piatti sul pavimento. La barra, quando ancora agganciata, sarà un po' dietro la testa. E' importante utilizzare un’altra persona per questo esercizio, soprattutto se si utilizza una barra o manubri liberi, per eliminare la possibilità di far cadere il peso su di te. Una volta tolto il peso fuori dai ganci, la barra sarà direttamente sopra il centro del petto. Tieni la testa sul banco in qualsiasi momento durante il movimento. Una volta che hai la barra ferma, abbassala lentamente al livello del torace, se sei in grado. Tieni le braccia verso l'esterno quando la barra scende. Dopo aver raggiunto il fondo del movimento, spingere la barra indietro fino a una posizione estesa, concentrandosi sul guidare la barra verso l'alto con il petto e le braccia.";
+
+"Incline Presses" = "Pressa inclinata";
+"2 Incline Presses" = "Questo esercizio è molto simile alla panca normale con bilanciere tranne per il fatto che prevede di utilizzare una press machine a peso libero inclinata e la parte superiore del torace sarà il gruppo muscolare che lavora, anziché il petto al centro. Solleva il bilanciere fuori dai ganci e abbassare lentamente a circa 3 centimetri sopra la clavicola (appena sotto il pomo d'Adamo) e poi spingi la barra di nuovo nella posizione di partenza. NON FAR TOCCARE LA BARRA SULLA PARTE SUPERIORE DEL TORACE (questo provoca stress non necessari sulle articolazioni della spalla e porta via la tensione dai muscoli pettorali superiori, che sono ciò che noi vogliamo fare lavorare!). Assicurati, quando stai abbassando la barra, che tu lo faccia in modo lento e controllato. Al contrario, quando spingi la barra verso l'alto, fallo in modo esplosivo.";
+
+"Dumbbell Presses" = "Dumbbell Presses";
+"3 Dumbbell Presses" = "Entrare in posizione seduto sulla panca, mantieni i manubri e permetti loro di riposare sulle cosce. Mentre rotoli, il corpo torna a sdraiarsi sulla panca, utilizza le cosce per aiutare a spingere i manubri al petto. Poi raddrizza le braccia sopra il petto (mantenendo una leggera curva a gomito), palmi rivolti in avanti. Tieni i piedi sul pavimento e la schiena in posizione neutra (non più di un leggero arco). Abbassa i manubri piegando i gomiti ai lati. Continua fino a quando i gomiti sono appena sotto le spalle. Quindi spingi i manubri indietro, portandoli vicini (senza toccare), e inclinali leggermente verso l'interno. Mantieni una leggera curva nei tuoi gomiti, non permettere loro di 'bloccarsi'. Ripeti fino a quando hai completato le ripetizioni. Per alzarsi, tieni i manubri sul petto, sposta le gambe in su e poi in avanti per darti lo slancio e metterti a sedere.";
+
+"Parallel Bar Dips" = "Parallel Bar Dips";
+"4 Parallel Bar Dips" = "In primo luogo, tieni la testa in giù durante il corso del movimento e sposta il corpo in avanti. In secondo luogo, sposta i gomiti un po' fuori. Cioè, tieni i gomiti fuori e lontano dal corpo. Questo farà sì che utilizzi più il petto che i tricipiti. Ricorda, concentrati sullo sforzare l'intera zona del petto nella parte superiore del movimento.";
+
+"Cable Crossover Flys" = "Cable Crossover Flys";
+"5 Cable Crossover Flys" = "Questo esercizio viene eseguito utilizzando la pulley machine a cavi che ha una puleggia su due lati opposti. Imposta ogni puleggia in modo che sia bloccata in posizione alta (se non sei sicuro di come farlo, chiedi di aiutarti a un allenatore nella palestra in cui ti alleni). Mentre sei in piedi, afferra ciascuna puleggia alta con un piccolo attacco a una sola mano per ogni mano. La posizione del tuo corpo sarà simile a un gigante lettera A. Porta lentamente vicine le braccia in modo lento e controllato. Nel farlo, vedi che stai abbracciando un tronco d'albero gigante. Al culmine di questo movimento, fletti i muscoli pettorali insieme per un unico conteggio e poi torna alla posizione di partenza e ripeti.";
+
+"Dumbbell Flys" = "Dumbbell Flys";
+"6 Dumbbell Flys" = "Per eseguire dumbbell flies pick, prendi un peso relativamente leggero in ogni mano. Avrai bisogno di provare per determinare la quantità di peso giusto per i tuoi manubri. Inizia con un peso più leggero, poi lavora lentamente ad aumentare in base alla tua sensazione. Sdraiati su una panca e solleva entrambi i manubri verso l'alto sopra il petto con le braccia diritte. Questa è la tua posizione di partenza. Stendi entrambe le braccia verso l'esterno in un ampio arco fino a quando le braccia sono fuori dai fianchi. Le braccia possono essere leggermente piegate. Questo è la parte del 'volo' nei dumbbell flies. Si chiama così perché sembra quando si vola. Segui lo stesso arco indietro finché i manubri tornano alla posizione di partenza. Questa è una ripetizione del dumbbell fly.";
+
+"Dumbbell Pullovers" = "Dumbbell Pullovers";
+"7 Dumbbell Pullovers" = "Questo è molto simile al bent arm barbell pullovers, tranne per il fatto che utilizzerai un manubrio al posto di un bilanciere. Sdraiati con la schiena su una panca piana. Inizia tenendo il manubrio sopra il petto con i gomiti leggermente piegati. Abbassa lentamente il manubrio indietro in modo da allungare le braccia (e il manubrio) dietro la testa, fin quanto puoi. Le braccia e il manubrio andranno effettivamente dietro/sopra la testa e scenderanno al di sotto della panca. Questo ti farà davvero allungare! Riporta il manubrio nella posizione iniziale lentamente, concentrandosi su come mantenere i gomiti bloccati in posizione leggermente piegata.";
+
+"Push-Ups" = "Push-Ups";
+"8 Push-Ups" = "Sdraiati prono con le braccia tese, i palmi delle mani sul pavimento e le mani alla larghezza delle spalle (o più ampie). Tieni i piedi insieme o poco divaricati:\n\n- Inspira e piega i gomiti per portare il busto vicino al pavimento, evitando l’estrema iperestensione della colonna vertebrale.\n\n- Spingi indietro sulle braccia, in posizione estesa, espirando quando completi il movimento.";
+
+"Dumbbell Press" = "Dumbbell Press";
+"9 Dumbbell Press" = "Sdraiati sulla panca con i piedi sul pavimento per stabilità, le braccia tese verso l'alto, e le mani una di fronte all’altra tenendo i manubri:\n\n- Inspira e abbassa i manubri all'altezza del petto, piegando i gomiti e ruotando gli avambracci per portare la mano in pronazione.\n\n- Spingi i manubri indietro e fai una contrazione isometrica per isolare le sollecitazioni sui pettorali, espira quando completi il movimento.";
+
+"Barbell Bench Press" = "Barbell Bench Press";
+"10 Barbell Bench Press" = "Sdraiati sulla panca. Tieni il bilanciere con braccio sopra la spalla. Abbassa il bilanciere verso il petto basso quando tieni i gomiti vicino al corpo. Il bilanciere deve toccare leggermente il petto alla fine del movimento.";
+
+"Pec Deck Flies" = "Pec Deck Flies";
+"11 Pec Deck Flies" = "Siediti sul sedile della macchina e premi i gomiti sulle imbottiture, rilassa gli avambracci e i polsi:\n\n- Inspira e forza le imbottiture insieme fino a toccare davanti al tuo petto.\n\n- Espira quando completi il movimento.";
+//Forearms
+"Wrist Curls" = "Wrist Curls";
+"1 Wrist Curls" = "Siediti con gli avambracci appoggiati sulle cosce o su una panca. Fai una presa con braccio sopra la spalla sulla barra con i polsi passivamente estesi:\n\n- Inspira e tira il polso in su.\n\n- Espira quando completi il movimento.";
+
+"Wrist Curls" = "Wrist Curls";
+"2 Wrist Curls" = "Siediti su una panca. Utilizzando un manubrio e polsi passivamente estesi:\n\n- Inspira e tira il polso in su.\n\n- Espira quando completi il movimento. Questo esercizio sforza i flessori del polso e delle dita.";
+//Legs
+"Squats" = "Squat";
+"1 Squats" = "Lo squat ti fa abbassare fino al pavimento senza piegare la parte bassa della schiena. Invece, è possibile utilizzare le gambe per abbassare il tuo corpo, mantenendo la colonna vertebrale in una posizione neutra. Stai con i piedi lontani dall’ampiezza dei finachi. Spingi indietro i fianchi e piega le ginocchia. Mantieni il tuo peso sui talloni, non sulle punte dei piedi. Le ginocchia devono rimanere dietro le dita dei piedi. Continua ad abbassarti fino a quando le ginocchia sono a 90 gradi. Attendi per un conteggio e poi spingi con i talloni, estendendo le ginocchia e i fianchi.";
+
+"Angled Leg Presses" = "Angled Leg Presses";
+"2 Angled Leg Presses" = "Siediti sulla macchina con la schiena e la testa contro l'imbottitura. Posiziona i piedi sulla pedana più o meno come larghezza dei fianchi, assicurandoti che i tacchi siano piatti. Le gambe devono formare un angolo di circa 90 gradi al ginocchio con una piccola variante in entrambi i casi purché i talloni siano appoggiati sulla pedana. Le ginocchia devono essere in linea con i piedi e né piegati verso l'interno né verso l'esterno. Il sedere non deve essere sollevato dal sedile. Se lo è, e le gambe sono ad un angolo troppo acuto, allora devi regolare il sedile fino a quando non trovi la posizione corretta. È possibile riconoscere questo posizione scorretta quando le ginocchia sembrano essere davanti ai tuoi occhi e ti senti contratto. Afferra le maniglie di supporto.";
+
+"Leg Extensions" = "Estenzioni delle gambe";
+"3 Leg Extensions" = "Solleva lentamente il peso estendendo entrambe le gambe verso l'alto fino alla posizione raddrizzata. Non strattonare in alto il peso. Mantieni questa posizione per un secondo. Abbassa lentamente il peso indietro alla posizione di partenza. Ripeti il movimento.";
+
+"Dumbbell Lunges" = "Affondi con manubri";
+"4 Dumbbell Lunges" = "Stai in piedi con manubri impugnati lateralmente. Affonda in avanti con la prima gamba. Atterra col tallone e poi con l’avampiede. Abbassa il corpo flettendo il ginocchio e i fianchi della gamba anteriore fino a che il ginocchio della gamba posteriore è quasi a contatto con il pavimento. Ritorna alla posizione eretta originale forzando l’estensione dell'anca e del ginocchio della gamba in avanti. Ripeti alternando l’affondo con la gamba opposta.";
+
+"Cable Back Kicks" = "Calci indietro con i cavi";
+"5 Cable Back Kicks" = "Lega un polsiera all'estremità del cavo che attraversa la puleggia bassa. Fissa la polsiera intorno alla caviglia. Stai davanti al pacco pesi e afferra il bordo della macchina per il supporto: Inclina il bacino in avanti. Portare la gamba dietro.";
+
+"Dumbbell Squats" = "Squat con manubri";
+"6 Dumbbell Squats" = "Stai con i piedi leggermente divaricati e afferra un manubrio in ogni mano con le braccia penzoloni lungo i fianchi:\n\n- Guarda davanti a te, inarca leggermente la schiena e accovacciati.\n\n- Una volta che le tue cosce sono parallele al pavimento, raddrizza le gambe per tornare alla posizione di partenza.\n\n- Espira quando completi il movimento.";
+
+"Front Squats" = "Squat frontali";
+"7 Front Squats" = "Posiziona il manubrio tra i deltoidi anteriori, tieni le braccia parallele al pavimento, piega i gomiti, incrocia le braccia, afferra la barra, e guarda dritto davanti a te:\n\n- Inspira e accovacciati.\n\n- Torna al punto di partenza, espira quando completi il movimento.";
+
+"Power Squats" = "Power squat";
+"8 Power Squats" = "Questo movimento è lo stesso dello squat convenzionale, ma le gambe sono ampiamente divaricate con le dita dei piedi rivolte verso l'esterno, il che fa lavorare specificamente parte interna delle cosce. I muscoli coinvolti sono:\n\n- il quadricipite\n\n- tutti gli adduttori\n\n- i glutei\n\n- Il gruppo del tendine del ginocchio\n\n- tutti i muscoli sacro-spinali";
+
+"Hack Squats" = "Hack Squat";
+"9 Hack Squats" = "Fletti le ginocchia, posiziona la tua schiena contro la superficie imbottita, incunea le spalle, batti le barre collegate alle macchine, e posizionare le gambe abbastanza vicine tra loro:\n\n- Inspira, ruota le maniglie di arresto ai lati dei gioghi per liberare la macchina, e piega le gambe.\n\n- Torna alla posizione di partenza espirando quando completi il movimento.";
+
+"Seated Leg Curls" = "Seated Leg Curl";
+"11 Seated Leg Curls" = "Siediti sulla macchina con le gambe dritte, le caviglie appoggiate sul rullo imbottitura. Abbassa la gamba appoggiata sopra le cosce per fissarle. Afferra le maniglie fornite su ogni lato:\n\n- Inspira e piega le ginocchia per muovere il rullo imbottitura verso il basso.\n\n- Espira quando completi il movimento.";
+//Shoulders
+"Back Presses" = "Pressa dorsale";
+"1 Back Presses" = "Inizia seduto sulla panchina (con supporto per la schiena). Afferra il bilanciere con una presa con braccio sopra la spalla. Tieni i manubri sopra le spalle leggermente di fronte a te, puntando i gomiti verso il pavimento. Spingi il bilanciere sopra la testa in modo che le braccia siano completamente distese. Dopo una pausa, abbassa i pesi nella posizione di partenza.";
+
+"Seated Front Presses" = "Pressa frontale seduti";
+"2 Seated Front Presses" = "Siediti su una panca in posizione verticale. Afferra il bilanciere con una presa più ampia delle spalle. Spingi il bilanciere direttamente verso l'alto fino a quando non è a distanza di un braccio sopra le spalle. Abbassa il bilanciere fino alla parte anteriore delle spalle, quindi spingi di nuovo alla posizione di partenza.";
+
+"Seated Dumbbell Presses" = "Pressa seduti con manubri";
+"3 Seated Dumbbell Presses" = "Posizionati su una panca o una sedia con la schiena eretta e dritta. Afferra un manubrio in ogni mano e tienili appena al di fuori di ogni spalla con i pollici che puntano uno verso l’altro. Spingi i manubri sopra la testa e torna alla posizione di partenza appena fuori le spalle.";
+
+"Low-Pulley Lateral Raises" = "Alzate laterali low-pulley";
+"4 Low-Pulley Lateral Raises" = "Stai in piedi vicino alla macchina a cavo di lato a essa, posiziona il braccio leggermente in posizione anteriore della coscia e afferra la maniglia. Inspira e, mantenendo una leggera curva nel gomito, solleva il braccio verso il lato del corpo fino a quando il braccio è a livello con la spalla. Tieni il palmo della mano rivolto verso il basso. Lentamente, e con il movimento sotto controllo, abbassa il braccio indietro alla posizione di partenza.";
+
+"Upright Rows" = "Upright Rows";
+"5 Upright Rows" = "Solleva la barra verso il mento conducendola con i gomiti. Quando la parte superiore delle braccia sono parallele al pavimento, fermati e abbassa la barra lungo lo stesso percorso in cui l’hai sollevata. Nella parte superiore del tuo movimento, i gomiti devono essere superiori ai polsi.";
+
+"Dumbbell Rear Deltoid Raises" = "Alzate con manubri per il deltoide posteriore";
+"6 Dumbbell Rear Deltoid Raises" = "Siediti su una panca, inclinata in avanti, piedi sul pavimento. Solleva i manubri di lato così che puoi mantenere le mani dritte e lentamente torna alla posizione di partenza.";
+
+"Lateral Raises" = "Alzate laterali";
+"7 Lateral Raises" = "Stai con i piedi leggermente divaricati. Tieni la schiena dritta, le braccia abbandonate lungo i fianchi, tenendo un manubrio in ogni mano:\n\n- Solleva il manubrio a livello della spalla, mantenendo i gomiti leggermente piegati.\n\n- Torna alla posizione di partenza.";
+
+"Front Raises" = "Alzate frontali";
+"8 Front Raises" = "Stai con i piedi leggermente divaricati. Tieni i manubri con i palmi verso il basso (presa con braccio sopra la spalla), appoggia i manubri sulle cosce o leggermente sul tuo fianco:\n\n- Inspira e alterna i lati alzando i manubri in avanti all'altezza delle spalle.\n\n- Espira quando completi il movimento.";
+
+"Barbell Front Raises" = "Alzate frontali del bilanciere";
+"9 Barbell Front Raises" = "In piedi con le gambe leggermente divaricate. Fai una presa del bilanciere con il braccio sopra la spalla ed appoggia il bilanciere sulle cosce. Tieni la schiena dritta e gli addominali contratti:\n\n- Inspira e solleva il bilanciere in avanti con le braccia tese fino a raggiungere il livello degli occhi.\n\n- Espira quando completi il movimento.";
+
+"Upright Row" = "Upright Row";
+"10 Upright Row" = "Stai con i piedi leggermente divaricati. Tieni la schiena dritta. Fai una presa sulla barra con il braccio sopra la spalla con i palmi della mani larghi quanto le spalle o poco più:\n\n- Inspira e tira il bilanciere dritto verso l'alto finché non tocca il mento.\n\n- Solleva i gomiti più in alto possibile nel punto superiore del movimento.\n\n- Espira e abbassa lentamente il bilanciere per tornare al punto di partenza.";
+
+"Low Pulley Ben-Over Lateral Raises" = "Alzate laterali piegati con low pulley";
+"11 Low Pulley Bent-Over Lateral Raises" = "Stai con i piedi e le ginocchia leggermente piegati. Piegati in avanti alla vita, mantenendo la schiena dritta e le braccia penzoloni. Afferrare una maniglia in ogni mano con i cavi che attraversano l'un l'altro:\n\n- Inspira e solleva le braccia ai lati fino a quando le mani sono leggermente al di sopra del livello delle spalle.\n\n- Espira quando completi l'esercizio.";
+
+"Low Pulley Front Raises" = "Alzate frontali con low pulley";
+"12 Low Pulley Front Raises" = "Stai con i piedi leggermente divaricati. Tieni la maniglia con una presa alla marinara, tenendo le braccia lungo i fianchi:\n\n- Inspira e solleva il braccio in avanti all'altezza delle spalle.\n\n- Espira quando completi il movimento. Questo esercizio sforza i deltoidi";
+
+"Pec Deck Rear-Delt Laterals " = "Pec Deck Rear-Delt Laterals";
+"13 Pec Deck Rear-Delt Laterals" = "Siediti su una pec deck machine rivolto verso il suo sostegno per la schiena con le braccia tese ad afferrare le maniglie:\n\n- Inspira e costringi i gomiti verso la parte posteriore, spingendo le tue scapole insieme alla fine del movimento.\n\n- Espira quando completi il movimento.";
+//Triceps
+
+"Close-Grip Bench Presses" = "Close-Grip Bench Presse";
+"1 Close-Grip Bench Presses" = "Posizionati su una press machine panca piana a peso libero. Sdraiati sulla schiena e afferra il bilanciere sopra di te con una presa molto stretta. Concentrati su come mantenere una larghezza di circa 6-8 pollici nella tua presa per sollevare il bilanciere fuori dai ganci e abbassalo lentamente a circa 3 centimetri sopra il petto e poi spingi la barra di nuovo alla posizione di partenza. Assicurati di concentrati su come mantenere i gomiti verso il tuo corpo per tutta la gamma completa di movimento.";
+
+"Push-Downs" = "Push-Downs";
+"2 Push-Downs" = "Utilizzando una puleggia a cavi alti, afferra una barra diritta corta con una presa alla marinara. Le mani devono essere a circa 10 centimetri di distanza. Posiziona gli avambracci in modo che siano paralleli al pavimento. Mantieni la larghezza degli avambracci quanto quella delle spalle e piega leggermente le ginocchia. Tieni i gomiti bloccati vicino al corpo ed i polsi dritti. Mantieni il tuo corpo intero stabile, spingi la barra verso il basso il più possibile verso le gambe, bloccando le braccia e senti il tricipite in piena contrazione. Tieni le braccia vicine al corpo. Ritorna alla posizione di partenza utilizzando lo stesso movimento. Non spostare i gomiti o il tronco! Stai in piedi dritto.";
+
+"Triceps Extensions" = "Estensioni dei tricipiti";
+"3 Triceps Extensions" = "Posizionare la barra sopra i tuoi occhi mantiene i tricipiti con un po' di tensione, mentre le braccia sono in posizione estesa. Ora, tieni le braccia fissate in posizione estesa, mentre pieghi i gomiti e consenti al peso a scendere sotto controllo verso la fronte.";
+
+"Triceps KickBacks" = "Spinte tricipiti";
+"4 Triceps KickBacks" = "Inginocchiati comodamente su una panchina con la stessa gamba su cui si tiene il peso. Ora, con la schiena dritta e la testa che sta dritta, inizia con il peso a un angolo di novanta gradi (come in figura). Estende il peso mantenendo il gomito completamente fermo.";
+
+"One-Arm Dumbbell Triceps Extensions" = "Estensioni dei tricipiti con manubri su un braccio";
+"5 One-Arm Dumbbell Triceps Extensions" = "Tieni il braccio in estensione completa sopra il tuo corpo. Assicurati che il gomito sia rivolto lontano dal corpo. Con la mano che regge il peso, afferra e sostieni il tuo altro braccio appena sotto il gomito. Quindi, abbassare il peso verso il basso, piegando il gomito. Una volta che l'avambraccio è parallelo al pavimento, puoi portare indietro il braccio alla massima estensione.";
+
+"Bar Triceps Extensions" = "Estensioni dei tricipiti con barra";
+"6 Bar Triceps Extensions" = "Per iniziare, stai in piedi tenendo una barra o bilanciere utilizzando una presa prona (palmi rivolti in avanti) con le mani, più vicino della larghezza delle spalle. I piedi devono essere circa la larghezza delle spalle. Ora solleva il bilanciere sopra la testa fino a quando le braccia sono completamente distese. Tieni i gomiti così. Questo sarà il tuo punto di partenza. Mantenendo le braccia vicino alla testa e gomiti, perpendicolari al pavimento, abbassa la resistenza con un movimento semicircolare dietro la testa fino a quando gli avambracci toccano i bicipiti. Suggerimento: le braccia devono rimanere ferme e solo gli avambracci devono muoversi. Inspira quando esegui questa operazione. Torna alla posizione di partenza utilizzando i tricipiti per sollevare il bilanciere. Espira quando esegui questa operazione.";
+
+"Dumbbell Triceps Extension" = "Estensione tricipiti con manubri";
+"7 Dumbbell Triceps Extension" = "Sdraiati su una panca piana reggendo un manubrio in ogni mano con le braccia tese verso l'alto dalle spalle:\n\n- Inspira e piega lentamente le braccia.\n\n- Torna alla posizione di partenza, espirando quando completi il movimento. Questo esercizio sforza tutti i tricipiti.";
+
+"Triceps Dips" = "Triceps Dips";
+"8 Triceps Dips" = "Metti le mani sul bordo di una panca piana e riposa i piedi su un’altra panca. Assumi un angolo di torsione della gamba di circa 90 gradi:\n\n- Inspira e piega le braccia.\n\n- Raddrizza le braccia per tornare al punto di partenza, espirando quando completi il movimento. Questo esercizio sforza i tricipiti, i pettorali e i deltoidi anteriori.";
+
+"Triceps Pushdown" = "Triceps Pushdown";
+"9 Triceps Pushdown" = "Stai di fronte alla macchina con le mani sulla barra e i gomiti sul suo lato:\n\n- Inspira e raddrizza le braccia, ma non separare i gomiti dalla tua parte.\n\n- Espira quando completi il movimento.";
+
+"One Arm Reverse Pushdown" = "One Arm Reverse Pushdown";
+"11 One Arm Reverse Pushdown" = "Stai i fronte alla macchina e afferra la maniglia con una presa con braccio sopra le spalle:\n\n- Inspira e raddrizza il braccio.\n\n- Espira quando completi il momento.";
+
+"Rotating T Extension"="Estensione a T in rotazione";
+"16 Rotating T Extension"="1. Inizia in una posizione per le flessioni, mantenendo le braccia tese e il tuo centro impegnato.\n\n2. Sposta il peso sul braccio sinistro, ruota il busto verso destra e alza il braccio destro verso il soffitto in modo che il tuo corpo formi una T.\n\n3. Mantieni la posizione per tre secondi, poi torna all’inizio e ripeti sull'altro lato. Questa è una ripetizione.";
+
+"Bodyweight Hip Extension"="Estensione gamba all’indietro a corpo libero";
+"15 Bodyweight Hip Extension"="1. Sdraiati sul pavimento. Un piede piatto sul pavimento mentre l'altra gamba è dritta . Usa le mani per stabilizzare la tua posizione.\n\n2. Alza la gamba dritta fino a quando la schiena si stacca da terra. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+
+"Superman"="Superman";
+"17 Superman"="1. Inginocchiati a quattro zampe con le ginocchia sotto le anche con apertura quanto i fianchi e metti le mani sul pavimento alla larghezza delle spalle sotto le spalle. Metti la tua colonna vertebrale in posizione neutra. Attiva la tua parte centrale portando i muscoli addominali indietro verso la colonna vertebrale.\n\n2. Senza alcun movimento laterale e mantenendo l'addome tirato, espira e solleva lentamente un braccio e la gamba opposta fino a quando sono parallele al pavimento. Fai attenzione ad seguire il tempo impostato.\n\n3. Inspira e fai tornare lentamente il braccio e la gamba alla posizione di partenza.\n\n4. Ripeti l'operazione per il numero desiderato di ripetizioni, poi ripeti l'esercizio con l'altro braccio e gamba.";
+
+"Bodyweight Superman"="Superman a corpo libero";
+"11 Bodyweight Superman"="1. Sdraiati prono sul pavimento. Estendi completamente le braccia di fronte a te.\n\n2. Sollevare le gambe e la parte superiore del corpo verso l’alto. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+"Dumbbells Bent Over Row"="Rematore con bilanciere in piedi";
+"12 Dumbbells Bent Over Row"="1. Afferra e mantieni un paio di manubri e tienili davanti alla tua vita, ma mantieni la schiena dritta. Estendi le braccia dritto verso il basso con i palmi rivolti uno verso l'altro.\n\n2. Solleva i manubri fino ai lati del petto e falli ritornare alla loro posizione di partenza estesi mantenendo la schiena diritta e stabile sempre.";
+
+"Seated Bent Over Row"="Rematore con bilanciere seduto";
+"14 Seated Bent Over Row"="1. Siediti alla fine di una panca con le ginocchia piegate, i piedi appoggiati sul pavimento e metti un paio di manubri sul pavimento lungo i fianchi. Piegati in avanti sulla vita, per quanto possibile, fino a quando la schiena è quasi parallela al pavimento; il petto deve toccare le gambe. Arriva in basso, afferra un peso in ogni mano e lascia che le braccia pendano verso il basso.\n\n2. Ruotare i pesi in modo che i palmi siano rivolti verso dentro.\n\n3. Senza muovere nulla, tranne che le braccia, tira lentamente i manubri vicino al tuo corpo fino ai lati del petto.\n\n4. Mantieni la posizione per un secondo, quindi abbassa il peso per tronare indietro.";
+
+"Stability Ball Hyperextension"="Iperestensioni della schiena su fitball";
+"13 Stability Ball Hyperextension"="1. Sdraiati prono sulla palla da fitness. Tutto la parte superiore del corpo dovrebbe stare sulla palla. Tieni le braccia sopra la testa.\n\n2. Piegare la parte superiore del corpo fino a quando il petto non è più a contatto con la palla. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+
+"T-Bar Bent Over Row"="Rematore con T-Bar in piedi";
+"15 T-Bar Bent Over Row"="1. Mettiti a cavalcioni su una T-Bar-Row e afferra le maniglie con una presa overhand. Assicurati di stare in piedi con i piedi alla larghezza delle spalle e le ginocchia leggermente piegate, come mostrato.\n\n2. Tieni la schiena piatta e piega la tua vita fino a quando la parte superiore del corpo è a circa 45 gradi rispetto alla verticale, la barra appesa alla lunghezza della braccia teso direttamente sotto le tue spalle.\n\n3. Poi, stringendo le scapole, solleva la barra il più vicino possibile alla parte inferiore del petto. Fai una pausa, poi lentamente abbassa la barra per tornare alla posizione di partenza.";
+
+"Dumbbell Biceps Curl (Hammer Grip On Bench)"="Curl per bicipiti con bilanciere (Presa a martello sulla panca)";
+"10 Dumbbell Biceps Curl (Hammer Grip On Bench)"="1. Mentre stai in piedi con la schiena dritta, mantieni i manubri sui fianchi con un’impugnatura a martello. Poggia il braccio superiore sulla parte superiore della panca inclinata.\n\n2. Solleva il manubrio in alto, mantenendo le braccia in posizione. Mantieni la posizione per un secondo. Abbassa il manubrio alla posizione di partenza.";
+
+"Dumbbell Biceps Curl (Hammer Grip Standing)"="Curl per bicipiti con bilanciere (Presa a martello in piedi)";
+"11 Dumbbell Biceps Curl (Hammer Grip Standing)"="1. Mentre stai in piedi con la schiena dritta, mantieni i manubri sui lati con un’impugnatura a martello. Mantieni le braccia dritte.\n\n2. Solleva i manubri, mantenendo le braccia in posizione. Evita di utilizzare le spalle durante il movimento.\n\n3. Mantieni la posizione per un secondo e torna alla posizione di partenza. ";
+
+"Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="Curl per bicipiti con bilanciere (di concentrazione presa underhand con un solo braccio)";
+"12 Dumbbell Biceps Curl (Underhand Grip Concentration With Single Arm)"="1. Piegare leggermente le ginocchia. Tieni la schiena piegata e diritta. Mantieni un manubrio con impugnatura overhand. Posiziona il gomito alla coscia.\n\n2. Solleva il manubrio in alto, mantenendo il braccio in posizione. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+"Dumbbell Biceps Curl (Underhand Grip On Bench)"="Curl per bicipiti con bilanciere (Presa underhand sulla panca)";
+"13 Dumbbell Biceps Curl (Underhand Grip On Bench)"="1. Mentre stai in piedi con la schiena dritta, mantieni un manubrio con impugnatura overhand. Poggia il braccio superiore sulla parte superiore della panca inclinata.\n\n2. Solleva il manubrio in alto, mantenendo le braccia in posizione. Mantieni la posizione per un secondo. Abbassa il manubrio e torna alla posizione di partenza.";
+"Dumbbell Biceps Curl Seated (Hammer Grip)"="Curl per bicipiti con bilanciere seduto (Presa a martello)";
+"14 Dumbbell Biceps Curl Seated (Hammer Grip)"="1. Da seduto con la schiena dritta, lascia penzolare i manubri accanto a te con una presa a martello. Mantieni le braccia diritte.\n\n2. Solleva i manubri, mantenendo le braccia in posizione. Evita di utilizzare le spalle durante il movimento. Mantieni la posizione per un secondo, poi torna alla posizione di partenza.";
+"Dumbbell Biceps Curl Seated (Underhand Grip)"="Curl per bicipiti con bilanciere seduto (Presa underhand)";
+"15 Dumbbell Biceps Curl Seated (Underhand Grip)"="1. Da seduto con la schiena dritta, lascia penzolare i manubri accanto a te con una presa underhand. Mantieni le braccia diritte.\n\n2. Solleva i manubri, mantenendo le braccia in posizione. Evita di utilizzare le spalle durante il movimento. Mantieni la posizione per un secondo, poi torna alla posizione di partenza.";
+"Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="Curl per bicipiti con bilanciere sulla fitball (presa a martello)";
+"16 Stability Ball Dumbbell Biceps Curl (Hammer Grip)"="1. Tieni un manubrio con un’impugnatura a martello. Inginocchiati dietro la fitball. Posiziona braccio sulla fitball.\n\n2. Sollevare il manubrio in alto, mantenendo il braccio in posizione. Evita di utilizzare la sfitball durante il movimento. Mantieni la posizione per un secondo. Tornare alla posizione di partenza.";
+"Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="Curl per bicipiti con bilanciere sulla fitball (presa underhand)";
+"17 Stability Ball Dumbbell Biceps Curl (Underhand Grip)"="1. Tieni un manubrio con un’impugnatura underhand. Inginocchiati dietro la fitball. Posizionare il braccio sulla fitball.\n\n2. Sollevare il manubrio in alto, mantenendo il braccio in posizione. Evita di utilizzare la sfitball durante il movimento. Mantieni la posizione per un secondo. Tornare alla posizione di partenza.";
+"Stability Ball Dumbbell Biceps Curl Seated"="Curl per bicipiti con bilanciere seduto sulla fitball";
+"18 Stability Ball Dumbbell Biceps Curl Seated"="1. Mentre stai seduto in posizione verticale su una fitball fitness, afferra e mantieni un paio di manubri, in modo che le braccia siano completamente distese ai tuoi fianchi. I palmi delle mani devono essere rivolti verso l'esterno, come illustrato.\n\n2. Ruota gradualmente le braccia al gomito, portando i manubri fino al livello delle spalle senza cambiare la posizione delle braccia. Il braccio dovrebbe semplicemente piegarsi al gomito senza muoversi in qualsiasi altra direzione. Non girare i polsi mentre stai alzando i manubri.";
+"Stability Ball Dumbbell Biceps Preachear Curl"="Curl con bilanciere su fitball";
+"19 Stability Ball Dumbbell Biceps Preachear Curl"="1. Metti un paio di manubri sul pavimento di fronte a una fitball. Inginocchiati direttamente dietro la fitball e fai ciondolare le braccia su di essa per afferrare i manubri in una presa underhand. Lascia che il peso si sposti indietro verso i talloni, mentre poggi i tricipiti sulla fitball e gli avambracci verso il basso.\n\n2. Mantieni la schiena dritta, mentre tiri i pesi fino a quando gli avambracci sono sulla perpendicolare al pavimento.";
+"Underhand Grip Prone On An Incline Bench"="Presa underhand prono su panca inclinata";
+"20 Underhand Grip Prone On An Incline Bench"="1. Sdraiati prono sulla panca inclinata. Lascia i manubri ciondoloni accanto a te con una presa underhand. Tieni le braccia diritte.\n\n2. Piega i pesi lentamente verso l'alto. I polsi devono sempre rimanere fissi, resisti torcendoli e tieni le braccia perpendicolari al pavimento";
+"Barbell Calf Raise (Seated)"="Alzate di talloni con bilanciere (Seduto)";
+"4 Barbell Calf Raise (Seated)"="1. Da seduto con la schiena dritta, centra il bilanciere sulle tue cose. Usa le mani per stabilizzare qualsiasi movimento del bilanciere.\n\n2. Solleva i polpacci sulla punta dei piedi. Mantieni la posizione per un secondo. Abbassa i polpacci di nuovo a terra.";
+"Barbell Calf Raise With Single Leg (Seated)"="Alzate di talloni con bilanciere con singola gamba (Seduto)";
+"5 Barbell Calf Raise With Single Leg (Seated)"="1. Da seduto con la schiena dritta, centra il bilanciere su una delle tue cosce. Usa le mani per stabilizzare qualsiasi movimento del bilanciere.\n\n2. Solleva i polpacci sulla punta dei piedi. Mantieni la posizione per un secondo. Abbassa i polpacci di nuovo a terra.\n\n3. Ripeti lo stesso con l’altra gamba.";
+"Dumbbell Calf Jump"="Salti su talloni con bilanciere";
+"6 Dumbbell Calf Jump"="1. Stai con i piedi alla larghezza dei fianchi. Afferra un paio di manubri e tienili sul tuo fianco a lunghezza delle braccia.\n\n2. Abbassa le ginocchia in modo che siano piegate a circa 45 gradi e salta più in alto possibile. Punta le dita dei piedi verso il pavimento quando salti.\n\n3. Lascia che le ginocchia si pieghino a 45 gradi quando atterri, poi salta subito nuovamente.";
+"Dumbbell Calf Raise (Seated)"="Alzate di talloni con manubri (Seduto)";
+"7 Dumbbell Calf Raise (Seated)"="1. Da seduto con la schiena dritta, centra un manubrio su ciascuna delle cosce. Usa le mani per stabilizzare qualsiasi movimento.\n\n2. Solleva i polpacci sulla punta dei piedi. Mantieni la posizione per un secondo. Tornare alla posizione di partenza.";
+"Standing Barbell Calf Raise"="Alzate di talloni con bilanciere in piedi";
+"8 Standing Barbell Calf Raise"="1. Mentre stai in piedi con la schiena dritta, posiziona il bilanciere sulla parte superiore delle spalle. Tieni il bilanciere con presa overhand. La distanza tra le mani deve essere più ampia della larghezza delle spalle.\n\n2. Solleva i polpacci sulla punta dei piedi. Mantieni la posizione per un secondo. Abbassa i polpacci a terra nuovamente.";
+"Standing Dumbbell Calf Raise"="Alzate di talloni con manubri in piedi";
+"9 Standing Dumbbell Calf Raise"="1. Stai dritto con i piedi alla larghezza dei fianchi e tieni un manubrio pesante in ogni mano, e le braccia lungo i fianchi.\n\n2. Mantieni la schiena dritta, alzati lentamente sulle punte dei piedi, sollevando i talloni più in alto possibile.\n\n3. Fai una pausa quando arrivi in alto, poi lentamente riabbassare i talloni indietro.";
+"Single Arm Pushup"="Piegamenti su un solo braccio";
+"19 Single Arm Pushup"="1. Assumi le posizioni per le flessioni standard: prono, piedi uniti, mani sul pavimento appena sotto il livello delle spalle e larghezza circa quanto quella delle spalle. Sposta i piedi un po' più della larghezza delle spalle.\n\n2. Sollevare una mano e posala sul parte bassa della schiena.\n\n3. Con l'altra mano, spingi il corpo su dal pavimento, mantenendo la schiena dritta. Fermati appena prima di \"bloccare\" il gomito nella parte superiore del movimento.\n\n4. Abbassa il corpo con un braccio. Per mantenere l’equilibrio, ruota il busto un po' lontano dal braccio di spinta.\n\n5. Continua ad abbassarti fino a quando il mento è circa alla larghezza di un pugno sopra il pavimento. Dal momento che hai girato il busto, il mento dovrebbe essere più o meno dove la mano che ora hai dietro la schiena era quando hai iniziato l'esercizio. Questa è una ripetizione.\n\n6. Torna al passo uno e ripeti con l'altro braccio.";
+"Decline Pushup"="Piegamenti declinati";
+"12 Decline Pushup"="1. Metti i piedi su una panca o su qualsiasi step e assumi una posizione per le flessioni standard.\n\n2. Abbassa il corpo fino a quando il petto tocca quasi il pavimento, fermati e spingi te stesso per torna alla posizione di partenza. Mantieni una posizione corretta per tutta la durata impedendo i fianchi di piegarsi in qualsiasi momento; mantieni rigida la tua parte centrale rinforzando i muscoli addominali e raddrizzando le gambe ponendo il peso sulla punta dei piedi.";
+"Dive Bomber Pushup"="Piegamenti Dive Bomber";
+"13 Dive Bomber Pushup"="1. Mettiti in posizione per le flessioni, ma assicurandoti che le mani siano poste davanti e più ampie delle spalle. Solleva i fianchi mentre sposti i piedi in avanti, per quanto possibile. Tieni la schiena e le gambe dritte per tutto il movimento.\n\n2. Spostare il petto verso il basso e in avanti fino quasi a toccare il pavimento. Le spalle devono essere in linea con le tue mani.\n\n3. Fermati e poi spingi fuori i fianchi verso il basso e raddrizzare le braccia. Fermati di nuovo, poi fai il movimento al contrario fino a quando sei tornato alla posizione di partenza.";
+"Dumbbell Floor Chest Press"="Chest Press da pavimento con manubri";
+"14 Dumbbell Floor Chest Press"="1. Sdraiati sul pavimento. Afferra i manubri con un’impugnatura overhand. Appoggia le braccia sul pavimento mentre spingi i manubri verso l’alto.\n\n2. Estendi completamente le braccia verso il soffitto. Mantieni la posizione per un secondo. Tieni l’intera schiena sulla panca in tutto il momento. Evita qualsiasi movimento delle gambe. Tornare alla posizione di partenza.";
+"Dumbbell Pushup"="Piegamenti sui manubri";
+"15 Dumbbell Pushup"="1. Con due manubri posti alla larghezza delle spalle sul pavimento davanti a te, inginocchiati e mantieniti su di essi. Tieni le braccia distese, le gambe distese, i piedi abbastanza vicini e blocca i gomiti.\n\n2. Abbassa il corpo a terra facendo una curva con i gomiti e mantenendo la schiena dritta.\n\n3. Spingiti indietro fino a quando le braccia sono dritte e i gomiti sbloccati. Ripeti il movimento.";
+"Incline Pushup"="Piegamenti su panca inclinata";
+"16 Incline Pushup"="1. Metti le mani su una panca e assumi una posizione per le flessioni standard.\n\n2. Abbassare il corpo fino a quando il petto tocca quasi la panca, fermati e spingiti per tornare alla posizione di partenza. Mantieni una posizione corretta per tutta la durata impedendo i fianchi di piegarsi in qualsiasi momento; mantieni rigida la tua parte centrale rinforzando i muscoli addominali e raddrizzando le gambe ponendo il peso sulla punta dei piedi. Ripeti.";
+"Medicine Ball Pushup (Alternating)"="Piegamenti con palla medica (Alternare)";
+"17 Medicine Ball Pushup (Alternating)"="1. Sdraiati con le mani sul pavimento. Posizionare le mani accanto alla parte inferiore del torace. La distanza tra le mani dovrebbe essere leggermente più ampia rispetto alla larghezza delle spalle. Sollevati con le braccia in modo che solo le mani e le dita dei piedi siano sul pavimento. Mantieni la schiena dritta. Posizionare la fitball sotto le mani. Le mani puntano leggermente verso l'esterno.\n\n2. Abbassati fino a quando il petto è a pochi centimetri dal pavimento piegando i gomiti. I gomiti devono piegarsi verso i piedi. Mantieni la posizione per un secondo. Torna alla posizione di partenza.\n\n3. Fai rotolare la fitball verso la mano e ripeti gli  stessi movimenti.";
+"Modified Pushup"="Piegamenti modificati";
+"18 Modified Pushup"="1. Mettiti a quattro zampe e metti le mani sul pavimento, in modo che siano leggermente più larghe rispetto spalle. Incrocia le caviglie dietro di te, come illustrato.\n\n2. Abbassa il corpo fino a quando il petto tocca quasi il terreno, fermati e spingiti indietro fino alla posizione di partenza. Mantieni la tua parte centrale rigida sforzando i muscoli addominali.";
+"Stability Ball Flat Dumbbell Chest Press"="Chest Press con manubri sdraiato sulla fitball";
+"21 Stability Ball Flat Dumbbell Chest Press"="1. Sdraiati sulla fitball fitness. I piedi sono sul pavimento. Afferra i manubri con un’impugnatura overhand. Mantieni i manubri accanto al tuo petto.\n\n2. Estendi completamente le braccia di fronte a te. Mantieni la posizione per un breve momento. Torna alla posizione di partenza.";
+"Stability Ball Flat Dumbbell Fly"="Croci con manubri sdraiati sulla fitball";
+"20 Stability Ball Flat Dumbbell Fly"="1. Sdraiati sulla fitball fitness. I piedi sono sul pavimento. Mantieniti su due manubri con una presa a martello. Estendi totalmente le braccia sopra il petto.\n\n2. Mantenendo i gomiti leggermente curvi, abbassa i manubri in ogni lato fino a quando questi sono accanto al parte superiore del tuo corpo. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+"Stability Ball Pushup"="Piegamenti sulla fitball";
+"22 Stability Ball Pushup"="1. Mettiti in posizione per le flessioni standard. Per renderlo più difficile, posiziona gli stinchi e i piedi sulla fitball. Ricorda di sostenere il tuo corpo con le punte dei tuoi piedi e delle mani e mantieni le ultime alla larghezza delle spalle ei palmi delle mani sul pavimento.\n\n2. Abbassa il busto fino a quando il petto è solo a una frazione di un centimetro dal pavimento. Spingi per tornare alla posizione di partenza.";
+"Weighted Pushup"="Piegamenti con l’aggiunta di peso";
+"23 Weighted Pushup"="1. Mettiti in posizione per le flessioni standard, con le mani sotto le spalle. Questa volta, però, chiedi a qualcuno di mettere un peso piatto sulla schiena, tra le scapole.\n\n2. Mantieni il corpo dritto mentre ti abbassi piegando il gomito fino a quando il petto tocca il pavimento.\n\n3. Fermati, poi spingiti in alto.";
+"Dumbbell Wrist Twist"="Rotazione dei polsi con manubri";
+"3 Dumbbell Wrist Twist"="1. Stai in piedi con un manubrio leggere in ogni mano con le braccia lungo i fianchi, palmi rivolti dietro di te. Piegare le braccia per tirare i pesi fino a quando gli avambracci sono paralleli al. Questa è la posizione iniziale.\n\n2. Ruota i polsi fino a quando i palmi delle mani sono rivolti verso il soffitto, quindi ruota indietro in modo che i palmi siano rivolti ancora una volta al pavimento. Questa è una ripetizione.";
+"Standing Wrist Curl"="Curl polsi in piedi";
+"4 Standing Wrist Curl"="1. Afferra un bilanciere da dietro usando una presa underhand, mantenendo le braccia diritte. Appendi il bilanciere in modo che poggi sulle dita estese.\n\n2. Fletti i polsi per sollevare il bilanciere più in alto possibile.\n\n3. Inverti il movimento per abbassare il bilanciere.";
+"Barbell Hack Squat"="Hack Squat con bilanciere";
+"10 Barbell Hack Squat"="1. Stai dritto con le spalle aperte. Tieni un bilanciere con presa overhand. Posiziona il bilanciere dietro i tendini femorali. La distanza tra le mani deve essere più ampia larghezza delle spalle.\n\n2. Abbassati piegando le ginocchia. La tua schiena rimane dritta per tutto il movimento. Fermati quando le cosce sono parallele al suolo o quando il bilanciere tocca il pavimento. Quando torni alla posizione di partenza, fai forza con la parte bassa della schiena.";
+"Barbell Lunge"="Affondi con bilanciere";
+"12 Barbell Lunge"="1. Inizia posizionando un bilanciere sulla parte superiore della schiena, utilizza una presa overhand leggermente più ampia rispetto spalle.\n\n2. Stai con i piedi a circa 8 centimetri e le dita rivolte in avanti.\n\n3. Fai un passo avanti (2-3 metri), mantenendo gli addominali tirati e la parte superiore del corpo dritta.\n\n4. Abbassa lentamente il ginocchio, come se ti inginocchiassi mantenendo l'altro ginocchio piegato con un angolo di 90 gradi; non lasciare che il tuo ginocchio tocchi il suolo.\n\n5. Abbassa il corpo fino a poco sopra il pavimento e mantieni la posizione per un attimo prima di tornare alla posizione di partenza. Ripeti con l'altra gamba.";
+"Barbell Squat (Assisted)"="Squat con bilanciere (Assistito)";
+"13 Barbell Squat (Assisted)"="1. Stai dritto con una panca piana dietro di te. I piedi sono alla larghezza delle spalle. Posiziona un bilanciere sul retro delle spalle. Tieni un bilanciere con presa overhand. La distanza tra le mani deve essere più ampia delle spalle. Regola i piedi per rivolgerli leggermente verso l'esterno.\n\n2. Abbassati piegando le ginocchia. La schiena è dritta per tutto il movimento. Fermati quando le cosce sono parallele al suolo o quando la parte posteriore tocca la panca. Quando torni alla posizione di partenza, fai forza con la parte bassa della schiena.";
+"Barbell Squat Overhead"="Squat con bilanciere sopra la testa";
+"14 Barbell Squat Overhead"="1. Stai dritto con i piedi alla larghezza delle spalle. Tieni il bilanciere con presa overhand. La distanza tra le mani deve essere più ampia della larghezza delle spalle. Regola i piedi per rivolgerli leggermente verso l'esterno. Tira il bilanciere sopra la testa con le braccia completamente estese.\n\n2. Abbassati piegando le ginocchia. La schiena è dritta per tutto il movimento. Fermati quando le cosce sono parallele al suolo. Quando torni alla posizione di partenza, fai forza con la parte bassa della schiena.";
+"Bench Jump"="Salti dalla panca";
+"15 Bench Jump"="1. Stai di fronte a una panca.\n\n2. Salta sulla panca e subito torna indietro alla posizione di partenza sul pavimento.\n\n3. Ripeti più volte.";
+"Bulgarian Split Squat"="Squat bulgaro";
+"16 Bulgarian Split Squat"="1. Mettiti in posizione eretta a circa 2-3 metri davanti a una panca, con un manubrio tenuto in ogni mano. Estendi il piede destro all'indietro e poggia la parte superiore del piede sulla panca.\n\n2. Tieni la schiena dritta e la testa sollevata mentre pieghi lentamente la gamba sinistra e ti abbassi in una posizione di affondo. Smetti di abbassarti quando la coscia sinistra è più o meno parallela al pavimento.\n\n3. Spingiti lentamente indietro fino a quando la gamba sinistra è dritta e, ancora una volta, ripeti. Ricordati di alternare le gambe e allenare anche l'altra gamba.";
+
+"Bulgarian Split Squat (No Weights)"="Squat bulgaro (Senza pesi)";
+"17 Bulgarian Split Squat (No Weights)"="1. Metti un piede sul pavimento, e circa 3 metri di fronte a una sedia, e mantieni l'equilibrio con l'altro piede su una sedia dietro di te, come illustrato. Le mani devono essere tenute dietro la testa.\n\n2. Usa il tuo piede anteriore per equilibrarti, mentre pieghi entrambe le ginocchia per abbassare il corpo verso fino a quando il ginocchio posteriore è a pochi centimetri dal pavimento e la gamba anteriore è piegata di circa 90 gradi. Il resto del tuo corpo dovrebbe formare una linea retta. Termina la serie, quindi alterna le posizioni delle tue gambe e ripeti.";
+
+"Dumbbell Side Lunge"="Affondi laterali con manubri";
+"18 Dumbbell Side Lunge"="1. Stai in piedi, tenendo un paio di manubri sui fianchi con le braccia tese verso il basso.\n\n2. Fai un passo da una parte e abbassa il tuo corpo mentre pieghi il busto leggermente in avanti. Mantieni la gamba diritta durante tutto il movimento.\n\n3. Spingi la gamba piegata per tornare alla posizione di partenza. Ripeti con l'altra gamba.";
+
+"Good Morning"="Good Morning";
+"19 Good Morning"="1. Tieni un bilanciere con una presa overhand, in modo che poggi sulla parte superiore della schiena e non sul collo. Metti i piedi alla larghezza delle spalle e le ginocchia leggermente piegate, mantenendo la schiena dritta.\n\n2. Piegati gradualmente in avanti con le anche per abbassare il petto, mantenendo l'arco naturale nella parte bassa della schiena. Tieni la testa alta e mantieni lo stesso angolo delle ginocchia.\n\n3. Sollevare la parte superiore del corpo in posizione di partenza.";
+
+"One Arm Side Deadlift"="Stacchi ad un braccio con bilanciere laterale";
+"20 One Arm Side Deadlift"="1. Stai in piedi accanto ad un bilanciere posto sul pavimento.\n\n2. Afferrare la barra con una presa overhand dal centro.\n\n3. Accovacciati come se stessi eseguendo uno squat; piegati verso il basso in modo che le cosce siano parallele al pavimento.\n\n4. Estendi le gambe lentamente mentre raddrizzare il corpo, sforzando gli addominali mentre ti alzi.";
+
+"Single Leg Squat"="Squat con una sola gamba";
+"21 Single Leg Squat"="1. Stai in piedi con i piedi laghi quanto la larghezza delle spalle. Solleva la tua gamba più forte o dominante dritto di fronte al te, più in alto possibile.\n\n2. Inspira aria, quindi spingi i fianchi indietro e accovacciati, per quanto possibile, mantenendo il busto in posizione eretta, per quanto possibile. Il tallone della gamba anteriore può toccare il pavimento nella parte inferiore dello squat, se puoi scendere così lontano.\n\n3. Torna alla posizione di partenza ed espira. Fai tutte le ripetizioni con la gamba non dominante, poi ripeti con la gamba dominante.";
+
+"Arnold Press"="Arnold Press";
+"14 Arnold Press"="1. Siediti su una panca piana e tieni un paio di manubri a livello delle spalle. I palmi delle mani devono essere rivolti verso l’interno e i gomiti devono essere rivolti ai fianchi.\n\n2. Gira entrambi i polsi verso l'esterno fino a quando i palmi sono rivolti lontano da te. Allo stesso tempo, estendi completamente le braccia sopra la testa. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+
+"Barbell Front Raise"="Alzate frontali con bilanciere";
+"15 Barbell Front Raise"="1. Tieni un bilanciere con una presa overhand completa alla larghezza delle spalle e stai con il bilanciere sospeso nella parte anteriore della coscia. I piedi dovrebbero essere alla larghezza delle spalle con le ginocchia leggermente piegate. Sforza gli addominali, contrai tutti i muscoli del corpo superiore e piega leggermente i gomiti.\n\n2. Solleva la barra di fronte a te fino a quando le braccia sono parallele al pavimento.\n\n3. Fermati e poi torna alla posizione di partenza.";
+
+"Dumbbell Lateral Raise With Arms Bent"="Alzate laterali con bilanciere e braccia piegate";
+"16 Dumbbell Lateral Raise With Arms Bent"="1. Tieni le gambe alla larghezza delle spalle. Le mani devono ciondolare lungo i fianchi.\n\n2. Mantenendo le braccia perfettamente dritte, solleva lentamente i manubri fuori e fino al livello delle spalle e allo stesso tempo piega le braccia fino a formare un angolo di 90 gradi e fino a che gli avambracci sono paralleli con il tuo corpo. Mantieni i palmi rivolti verso il terreno.\n\n3. Mantieni i gomiti piegati, abbassa lentamente per tornare alla posizione di partenza e ripetere per il numero desiderato di ripetizioni.";
+
+"Dumbbell Scarecrow"="Scarecrow con manubri";
+"17 Dumbbell Scarecrow"="1. Mentre stai dritto con i piedi alla larghezza delle spalle, tieni i manubri davanti alle tue cosce con presa overhand. Alza le braccia lungo i fianchi fino a quando le braccia sono parallele al pavimento.\n\n2. Ruota i gomiti in avanti fino a quando gli avambracci puntano verso l'alto. Mantieni la posizione per un secondo. Tornare alla posizione di partenza.";
+
+"Dumbbell Shoulder Press"="Distensioni con manubri";
+"18 Dumbbell Shoulder Press"="1. Stai dritto con i piedi alla larghezza delle spalle. Tieni i manubri con una presa overhand. Posiziona i manubri accanto ai lati della testa.\n\n2 . Lascia i manubri in testa fino a quando le braccia sono completamente distese. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+
+"Front Weighted Raise"="Alzate frontali con pesi";
+"19 Front Weighted Raise"="1. Mentre sei in piedi con la schiena dritta, tieni il peso con entrambe le mani. Il peso è posizionato difronte alle tue cosce.\n\n2. Solleva le braccia di fronte a te fino a quando non sono in parallelo con il suolo. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+"Lateral Weighted Raise"="Alzate laterali con pesi";
+"20 Lateral Weighted Raise"="1. Mentre hai la schiena dritta, tieni il peso con una mano. Il peso è posizionato accanto al tuo fianco.\n\n2. Alza il braccio dal lato. Tieni il braccio dritto. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+"Military Press Behind The Neck (Standing)"="Lento avanti con bilanciere dietro al collo (In piedi)";
+"21 Military Press Behind The Neck (Standing)"="1. Stai in piedi, tieni un bilanciere dietro la testa all'altezza della fitball con le mani alla larghezza delle spalle, gomiti piegati e palmi rivolti in avanti.\n\n2. Spingi il bilanciere sopra la testa, estendendo completamente le braccia. Tieni la schiena dritta e resta in piedi per tutto il movimento.";
+"Seated Dumbbell Front Raise"="Alzate frontali seduti con manubri";
+"22 Seated Dumbbell Front Raise"="1. Afferra un paio di manubri e assumi una posizione seduta su una panca inclinata con le braccia diritte e lungo i fianchi, e i pollici in dentro.\n\n2. Mantieni i gomiti dritti, solleva i manubri in alto e in avanti fino a quando le mani sono all'altezza degli occhi.\n\n3. Tieni la parte posteriore dei polsi e dei gomiti piatta in tutto il movimento. Torna alla posizione di partenza.";
+"Stability Ball Lateral Raise"="Alzate laterali sulla fitball";
+"23 Stability Ball Lateral Raise"="1. Siediti su una fitball fitness con un manubrio leggero in ogni mano. Tieni le gambe alla larghezza delle spalle per mantenere l'equilibrio. Le mani devono stare lungo i fianchi.\n\n2. Mantenendo le braccia perfettamente dritte, solleva lentamente i manubri fuori e fino al livello delle spalle. Mantieni i palmi rivolti verso il pavimento.\n\n3. Mantieni i gomiti piegati, abbassati lentamente tornare alla posizione di partenza e ripeti per il numero desiderato di ripetizioni.";
+"Diamond Pushup"="Piegamenti a diamante";
+"10 Diamond Pushup"="1. Mettiti in posizione per le flessioni standard, ma con le mani poste direttamente sotto il petto con l’indice e il pollice aperti e che si toccano, in modo da formare un \"diamante\".\n\n2. Tieni la schiena piatta mentre abbassi il tuo corpo fino a quando il torace sta quasi toccando le mani.\n\n3. Fermati, poi spingiti indietro fino alla posizione di partenza.";
+"Diamond Pushup On Bench"="Piegamenti a diamante su panca";
+"12 Diamond Pushup On Bench"="1. Mettiti in posizione per le flessioni standard, ma con le mani poste direttamente sotto il petto con l’indice e il pollice aperti e che si toccano in modo da formare un \"diamante\".\n\n2. Tieni le dita dei piedi su una panca piana. Questo metterà più pressione sulle tue mani durante l'esecuzione delle flessioni.\n\n3. Tieni la schiena piatta mentre abbassai il corpo fino a quando il torace sta quasi toccando le mani.\n\n4. Fermati, poi spingiti indietro fino alla posizione di partenza.";
+"Dumbbell Row Kickback"="Sollevata per tricipiti con manubri lungo i fianchi in posizione inclinata";
+"13 Dumbbell Row Kickback"="1. Stai in piedi, con essi alla larghezza delle spalle e con le ginocchia leggermente piegate. Tieni un manubrio leggero in ogni mano e piegati in avanti sulla vita fino a quando il busto è quasi dritto verso il basso con i palmi rivolti dentro, come illustrato.\n\n2. Allinea i pesi verso l'alto fino a raggiungere i lati del petto e le braccia piegate ad angolo retto. Idealmente, le tue braccia devono essere parallele al pavimento.\n\n3. Esegui immediatamente una manovra kickback estendendo le braccia tese dietro di te.\n\n4. Sforza i tricipiti, poi piega i gomiti per abbassare i pesi indietro in modo che siano lungo i fianchi, ancora una volta.\n\n5. Abbassa i pesi indietro fino a quando le braccia sono distese verso il basso sotto le spalle.";
+"Lying Single Arm Pushup"="Piegamenti sdraiati su un fianco";
+"14 Lying Single Arm Pushup"="1. Sdraiati su un fianco con le ginocchia leggermente piegate e le gambe una sopra l'altra. Avvolgi il braccio inferiore intorno alla vita e posiziona l'altra mano sul pavimento di fronte a te, leggermente piegato.\n\n2. Inizia a raddrizzare quel braccio, spingendo il corpo da terra; assicurati che stai utilizzando i tricipiti per sollevare il corpo e non la schiena. Mantieni la posizione, per poi tornare alla posizione di partenza.\n\n3. Dopo un paio di ripetizioni, passare dall'altra parte e ripetere con l'altro braccio.";
+"Seated Triceps Extension"="Estensioni tricipiti da seduto";
+"15 Seated Triceps Extension"="1. Siediti su una panca e prendi un paio di manubri. Tienili in modo che siano alla lunghezza del braccio sopra la testa con i palmi rivolti insieme verso l'interno.\n\n2. Tieni le braccia stabili, mentre abbassi i manubri dietro la testa fino a quando gli avambracci sono appena paralleli al pavimento.\n\n3. Fermati, poi raddrizza le braccia per riportare i manubri alla posizione di partenza.";
+"Stability Ball French Press"="French Press sulla fitball";
+"16 Stability Ball French Press"="1. Sdraiati a pancia in aria su una fitball fitness e centra la schiena su di essa. Tieni un paio di manubri tra le tue braccia e tirali su sul tuo petto.\n\n2. Piega i gomiti, portando i manubri fino ai lati della testa.\n\n3. Raddrizza le braccia, alzando i manubri alla posizione di partenza.";
+"Stability Ball Pullover"="Pullover sulla fitball";
+"17 Stability Ball Pullover"="1. Sdraiati a pancia in su una fitball fitness e centra la schiena su di essa. Tieni un bilanciere con le tue braccia e tiralo su sul tuo petto.\n\n2. Piega i gomiti, portando il manubrio verso il centro della testa.\n\n3. Raddrizzare le braccia, alzando il manubrio di nuovo alla posizione di partenza.";
+"Stability Ball Triceps Extension"="Estensioni tricipiti sulla fitball";
+"18 Stability Ball Triceps Extension"="1. Sdraiati sulla fitball fitness. I piedi sono sul pavimento. Tieni un manubrio con entrambe le mani. Estendi completamente le braccia sopra la testa.\n\n2. Mantenendo le braccia ferme, abbassa il manubrio fino a quando è dietro la testa. Evita di usare i gomiti. Mantieni la posizione per un secondo. Torna alla posizione di partenza.";
+
+//EXTRA
+
+"3 DAY GYM WORKOUT PLAN BY VGFIT" = "PIANO DI ALLENAMENTO IN PALESTRA DA 3 GIORNI FORNITO DA VGFIT";
+
+
+
+"3 DAY HOME WORKOUT PLAN BY VGFIT" = "PIANO D'ESERCIZI IN CASA DA 3 GIORNI FORNITO DA VGFIT";
+
+
+
+"FAT BURNER ROUTINE" = "ROUTINE BRUCIA GRASSI";
+
+
+
+"ABS BURNER" = "BRUCIA GRASSI ADDOMINALI";
+
+
+
+"CHEST POWER WORKOUT PLAN" = "PIANO DI ALLENAMENTO DI POTENZA PER IL PETTO";
+
+
+
+"ARMS POWER WORKOUT PLAN" = "PIANO DI ALLENAMENTO PER LE BRACCIA";
+
+
+
+"LEGS POWER WORKOUT PLAN" = "PIANO DI ALLENAMENTO PER LE GAMBE";
+
+
+
+"SHOULDERS POWER WORKOUT PLAN" = "PIANO DI ALLENAMENTO PER LE SPALLE";
+
+
+
+"BACK POWER WORKOUT PLAN" = "PIANO DI ALLENAMENTO PER LA SCHIENA";
+
+
+
+"FULL BODY STREACH PLAN" = "PIANO DI ALLENAMENTO PER TUTTO IL CORPO";
+
+
+
+
+
+
+"Barbell Squat 2" = "Squat con bilanciere 2";
+
+"Barbell Squat 2 extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Stai in piedi dritto con i piedi all'altezza delle spalle. Posiziona il bilanciere sulla parte posteriore delle spalle. Tieni le mani sull'impugnatura del bilanciere. Le mani devono essere più larghe delle tue spalle. Le punte dei piedi devono essere rivolte leggermente verso l'esterno.\
+\
+Step 2: Scendi piegandoti sulle ginocchia. La schiena va tenuta dritta durante tutto il movimento. Fermati quando le cosce sono parallele al suolo. Quando torni alla posizione iniziale, fatti forza sulla parte bassa della schiena.";
+
+
+
+
+"Dumbbell Lunge 2" = "Affondo con manubrio 2";
+
+"Dumbbell Lunge 2 extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1:  Stai in piedi dritto con i piedi all'altezza delle spalle. Impugna i manubri lateralmente tramite l'impugnatura.\
+\
+Step 2: Tenendo la schiena dritta, fai un passo avanti con un piede e abbassati flettendo il ginocchio. Fermati quando la coscia anteriore è parallela al suolo. Resta in questa posizione per un secondo. Fai un passo indietro e torna alla posizione iniziale.";
+
+
+
+
+"Bosu Crossover Lunge" = "Affondo incrociato con Bosu";
+
+"Bosu Crossover Lunge extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Stai dritto in piedi con le braccia protese lungo i tuoi fianchi. La Bosu Ball dovrebbe essere davanti a te ad un paio di passi di distanza e leggermente spostata di lato.\
+\
+Step 2: Fai un passo avanti e lateralmente verso la Bosu Ball, abbassa il tuo corpo in modo da fletterti sul ginocchio, mantenendo dritta l'altra gamba.\
+\
+Step 3: Spingi sul ginocchio piegato e torna alla posizione iniziale. Per rendere l'esercizio più difficile, mantieni un manubrio per ogni mano mentre esegui la routine.";
+
+
+
+
+"Stability Ball Split Squat" = "Swiss Ball Split Squat";
+
+"Stability Ball Split Squat extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Stai dritto, tenendo un piede sul pavimento. Tieni dritto le braccia, come illustrato.\
+\
+Step 2: Scendi giù verso il pavimento, piegando le anche e le ginocchia, spingendo il busto in avanti.\
+\
+Step 3: Ritorna in posizione iniziale spingendo sul piede d'appoggio.\
+\
+Step 4: Ripeti con l'altra gamba.";
+
+
+
+
+"Balance Ball Front Raise" = "Alzate frontali con Swiss Ball" ;
+
+"Balance Ball Front Raise extra" = "Gruppo muscolare: Deltoidi\
+\
+Step 1: Siedi su una swiss ball con un manubrio leggero per ogni mano. Tieni le gambe unite e i piedi poggiati al suolo. Le mani devono scendere lungo i lati, con i palmi rivolti dietro di te.\
+\
+Step 2: Tenendo le tue braccia perfettamente dritte, alza lentamente i pesi di fronte a te fino a che il braccio non è parallelo al suolo.\
+\
+Step 3: Resta fermo per un secondo, quindi torna nella posizione iniziale lentamente.";
+
+
+
+
+"Bar Bench Press Incline" = "Alzate con manubrio su panca inclinata";
+
+"Bar Bench Press Incline extra"= "Gruppo muscolare: Pettorali\
+\
+Step 1: Sdraiati sulla panca inclinata. Mantieni il bilanciere EZ curl bar per l'impugnatura. La distanza tra le mani deve essere un po' maggiore della larghezza delle spalle. Mantieni il bilanciere EZ curl bar con le braccia distese. Il bilanciere EZ curl bar deve trovarsi al centro del petto.\
+\
+Step 2: Abbassa il bilanciere EZ curl bar sul petto, tenendo i gomiti vicino al corpo. Il bilanciere EZ curl bar deve toccare leggermente il petto alla fine del movimento. Non consentire al bilanciere di rimbalzare sul petto. Mantieni il respiro per qualche istante. Torna alla posizione iniziale. Tieni la schiena distesa sulla panca per tutto il tempo.";
+
+
+
+
+"Dumbbell Decline Bench Press" = "Alzate con manubri su bench press";
+
+"Dumbbell Decline Bench Press extra"= "Gruppo muscolare: Pettorali\
+\
+Step 1: Sdraiati sulla panca inclinata. Mantieni i manubri tramite l'impugnatura. Tieni le braccia completamente distese.\
+\
+Step 2: Abbassa i manubri verso la parte bassa del petto e tieni i gomiti vicino al corpo. Mantieni il respiro per qualche istante. Torna alla posizione iniziale. Tieni la schiena distesa sulla panca per tutto il tempo. Non fare alcun movimento con le gambe.";
+
+
+
+
+"Dumbbell T-Push-Up" = "T-Push-Up con manubri";
+
+"Dumbbell T-Push-Up extra"= "Gruppo muscolare: Pettorali\
+\
+Step 1: Sdraiati sul petto con il palmo delle mani sul pavimento. Tieni i manubri tramite l'impugnatura. Posiziona le mani vicino alla parte bassa del petto. La larghezza delle tue mani deve essere leggermente superiore alle spalle. Alzati spingendo sulle braccia, in modo che solo le mani e le dita dei piedi restino sul pavimento. Mantieni dritta la schiena. Le mani puntano leggermente verso l'esterno.\
+\
+Step 2: Abbassa il corpo fino a che il petto non si trova a pochi centimetri da terra, piegando i gomiti. I gomiti devono piegarsi verso i piedi. Resta così per un secondo.\
+\
+Step 3: Torna alla posizione iniziale.\
+\
+Step 4: Alza un braccio puntando il manubrio verso il soffitto. Tieni la posizione per un secondo.\
+\
+Step 5: Torna alla posizione iniziale.";
+
+
+
+
+"EZ Curl Bar Biceps Curl" = "Bicipiti con EZ Curl Bar";
+
+"EZ Curl Bar Biceps Curl extra"= "Gruppo muscolare: Bicipite brachiale\
+\
+Step 1: Stando in piedi con la schiena dritta, mantieni il bilanciere EZ curl bar con l'impugnatura larga quanto le spalle. Il bilanciere EZ curl bar è posizionato davanti alle cosce.\
+\
+Step 2: Alza il bilanciere EZ curl bar tenendo la parte alta delle braccia ferme. Non utilizzare la schiena durante il movimento. Mantieni la posizione per un secondo. Abbassa le braccia fino a tornare alla posizione iniziale.";
+
+
+
+
+"EZ Curl Bar Deadlift" = "Stacco con EZ Curl Bar";
+
+"EZ Curl Bar Deadlift extra"= "Gruppo muscolare: Parte bassa della schiena\
+\
+Step 1: Posizione il bilanciere EZ curl bar sul pavimento. Posiziona il tuo corpo in modo da essere ad un paio di centimetri di distanza dal bilanciere. Stai dritto con i piedi larghi all'altezza delle spalle. Senza muovere troppo la schiena, abbassati fino a raggiungere l'impugnatura del bilanciere EZ curl bar. Piega leggermente le ginocchia. Tieni lo sguardo puntato in avanti.\
+\
+Step 2: Tira su il bilanciere EZ curl bar fino a stare dritto. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Dumbbell Row" = "Vogatore con manubri";
+
+"Dumbbell Row extra"= "Gruppo muscolare: Gran dorsale\
+\
+Step 1: Piega leggermente le ginocchia. Tieni la schiena piegata e dritta. Mantieni i manubri lungo i lati tramite l'impugnatura.\
+\
+Step 2: Solleva i manubri verticalmente fino al petto. Non piegare i gomiti verso l'esterno. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Standing Triceps Extension" = "Estensione tricipiti in piedi";
+
+"Standing Triceps Extension extra"= "Gruppo muscolare: Tricipite brachiale\
+\
+Step 1: Stai dritto in piedi con i piedi larghi quanto le spalle, mantenendo un manubrio sopra la testa con entrambe le mani, come illustrato. Tienilo dietro la testa nella parte superiore della schiena con i gomiti piegati.\
+\
+Step 2: Alza il manubrio sopra la testa estendendo i gomiti, mentre tieni i polsi in posizione di riposo. Quando hai raggiunto il punto più alto, tieni per qualche istante e poi torna alla posizione iniziale controllando la discesa. Ripeti.";
+
+
+
+
+"Bench Dip" = "Piegamenti su panca";
+
+"Bench Dip extra"= "Gruppo muscolare: Tricipite brachiale\
+\
+Step 1: Tieni i palmi delle mani sulla panca rivolti in avanti, come illustrato. Tieni le gambe relativamente dritte davanti, con entrambi i talloni poggiati al suolo. Raddrizza le braccia e muovi il busto in avanti in modo da avere la schiena di fronte alla panca.\
+\
+Step 2: Piega le braccia ad angolo retto, abbassando il fondo schiena verso il pavimento come illustrato. Puoi rendere l'esercizio più semplice piegando le ginocchia e tenendo i piedi più vicino alla panca.";
+
+
+
+
+"Bodyweight Open Jump" = "Salto a gambe aperte";
+
+"Bodyweight Open Jump extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Stai in piedi con la schiena dritta. Tieni le braccia lungo i lati.\
+\
+Step 2: Piega leggermente le ginocchia.\
+\
+Step 3: Salta il più in alto possibile.";
+
+
+
+
+"Bodyweight Toe Touch" = "Piegamenti alle dita dei piedi";
+
+"Bodyweight Toe Touch extra"= "Gruppo muscolare: Retto dell'addome\
+\
+Step 1: Stenditi sul pavimento. Alza le gambe finché non sono perpendicolari al suolo. Estendi completamente le braccia sopra di te.\
+\
+Step 2: Raggiungi le dita dei piedi con le dita. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Bodyweight Hop" = "Saltello col corpo";
+
+"Bodyweight Hop extra"= "Gruppo muscolare: Retto dell'addome\
+\
+Step 1: Inclinati sul pavimento. Alza il tuo corpo in modo che solo le dita dei piedi e quelli delle mani toccano il suolo. Tieni la schiena dritta.\
+\
+Step 2: Tenendo ferme le braccia, salta verso l'interno in modo che le ginocchia si avvicinino al petto. Salta all'indietro verso la posizione iniziale.";
+
+
+
+
+"Bodyweight Lunge" = "Affondi col corpo";
+
+"Bodyweight Lunge extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Stai in piedi con i piedi alla larghezza delle spalle.\
+\
+Step 2: Fai un passo indietro con un solo piede abbassando il corpo e piegandoti sul ginocchio. Durante il movimento la schiena deve restare dritta. Fermati quando la coscia anteriore è parallela al suolo.\
+\
+Step 3: Torna alla posizione iniziale.\
+\
+Step 4:  Fai un passo indietro con l'altro piede abbassando il corpo e piegandoti sul ginocchio. Durante il movimento la schiena deve restare dritta. Fermati quando la coscia anteriore è parallela al suolo.";
+
+
+
+
+"Bodyweight Push-up Touch" = "Flessioni con tocco";
+
+"Bodyweight Push-up Touch extra"= "Gruppo muscolare: Pettorali\
+\
+Step 1: Sdraiati sul petto con le mani sul pavimento. Metti le mani sotto le spalle. La distanza tra le mani deve essere leggermente inferiore alla larghezza delle spalle. Alza il corpo con le braccia in modo che solo la mano e le dita dei piedi tocchino il pavimento. Mantieni dritta la schiena. Le mani puntano leggermente verso l'esterno.\
+\
+Step 2: Abbassa il corpo fino ad essere a qualche centimetro da terra piegando i gomiti. I gomiti devono essere piegati verso i piedi.\
+\
+Step 3: Tocca la spalla opposta ogni volta che vieni su. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Push-up walking" = "Flessioni camminando";
+
+"Push-up walking extra"= "Gruppo muscolare: Pettorali\
+\
+Step 1: Sdraiati sul petto con le mani sul pavimento. Posizione le mani vicino alla parte bassa del petto. La distanza tra le mani deve essere leggermente superiore alla larghezza delle spalle. Alza il corpo facendo leva sulle braccia in modo che solo le mani e le punte dei piedi tocchino il pavimento. Mantieni la schiena dritta. Le mani puntano leggermente verso l'esterno. Tieni la schiena e le gambe dritte.\
+\
+Step 2: Senza muovere le braccia, saltella verso di esse. Fai un saltello all'indietro verso la posizione iniziale.";
+
+
+
+
+"Bent-Leg V-UP" = "Addominali a V";
+
+"Bent-Leg V-UP extra"= "Gruppo muscolare: Retto dell'addome\
+\
+Step 1: Sdraiati sul pavimento con il viso verso l'alto e le braccia lungo i lati. Piega in alto le ginocchia e tienile ferme.\
+\
+Step 2: Alza velocemente il busto spingendo il petto verso le ginocchia. Tieni le braccia parallele al pavimento.";
+
+
+
+
+"Bodyweight Lunge Side" = "Piegamenti laterali";
+
+"Bodyweight Lunge Side extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Stai dritto con i piedi alla larghezza delle spalle. Tieni le braccia davanti al petto.\
+\
+Step 2: Tenendo la schiena dritta, fai un passo di lato con un solo piede e abbassa il corpo piegandoti sul ginocchio. Il piede perno resta fermo. Fermati quando la coscia anteriore è parallela al suolo. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Bodyweight Push-up Grip Planche" = "Flessioni su tappetino";
+
+"Bodyweight Push-up Grip Planche extra"= "Gruppo muscolare: Pettorali\
+\
+Step 1: Sdraiati con le mani sul pavimento. Posiziona le mani davanti al petto. La distanza tra le mani deve essere leggermente superiore alla larghezza delle spalle. Alzati facendo leva sulle braccia e in modo che solo le mani e le punte dei piedi tocchino terra. mantieni la schiena dritta. Le mani puntano leggermente verso l'esterno.\
+\
+Step 2: Abbassa il corpo finché i gomiti non toccano quasi il pavimento. Mantieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Bench High Knee Jump" = "Saltello sulla panca";
+
+"Bench High Knee Jump extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Stai in piedi con la schiena dritta. Tieni le mani lungo i lati.\
+\
+Step 2: Piega leggermente le ginocchia.\
+\
+Step 3: Salta il più in alto possibile. Porta le ginocchia verso il petto.";
+
+
+
+
+"Bodyweight Toe Touch 2" = "Addominali con tocco alle dita dei piedi 2";
+
+"Bodyweight Toe Touch 2 extra" = "Gruppo muscolare: Retto dell'addome\
+\
+Step 1: Sdraiati sul pavimento. Estendi le gambe e metti le mani dietro la testa.\
+\
+Step 2: Raggiungi con le mani le dita dei piedi. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Stepper Push-up" = "Flessioni con lo Step";
+
+"Stepper Push-up extra"= "Gruppo muscolare: Pettorali\
+\
+Step 1: Metti i piedi sullo Step e tieni le mani sul pavimento. Posiziona le mani all'altezza della parte bassa del petto. La distanza tra le mani deve essere leggermente superiore alla larghezza delle spalle. Alzati facendo leva sulle braccia e in modo che solo le tue mani tocchino il pavimento. Tieni la schiena dritta. Le mani puntano leggermente verso l'esterno.\
+\
+Step 2: Abbassa il corpo fino a pochi centimetri da terra piegando i gomiti. I gomiti devono puntare verso i piedi. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Bodyweight Push-up Extension" = "Flessioni con estensione";
+
+"Bodyweight Push-up Extension extra"= "Gruppo muscolare: Pettorali\
+\
+Step 1: Sdraiati sul petto con le mani sul pavimento. Posiziona le mani sotto le spalle. La distanza tra le mani deve essere leggermente inferiore alla larghezza delle spalle. Alzati facendo leva sulle braccia in modo che solo le mani e le dita dei piedi tocchino il suolo. Mantieni la schiena dritta. Le mani puntano leggermente verso l'esterno.\
+\
+Step 2: Abbassa il corpo fino ad essere a qualche centimetro da terra piegando i gomiti. I gomiti devono puntare verso i piedi.\
+\
+Step 3: Stendi il braccio in avanti ogni volta che vieni su. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Bodyweight Scissor Kick" = "Forbice con i piedi";
+
+"Bodyweight Scissor Kick extra"= "Gruppo muscolare: Retto dell'addome\
+\
+Step 1: Sdraiati sul pavimento. Tieni le mani lungo i lati. Tieni le gambe distese e alzale leggermente. Tenendo le gambe dritte, alzane una soltanto.\
+\
+Step 2: Quando abbassi una gamba, alza l'altra. Ripetilo continuamente.";
+
+
+
+
+"Bodyweight Mountain Climbers" = "Scalatore della montagna" ;
+
+"Bodyweight Mountain Climbers extra" = "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Sdraiati sul petto con i palmi delle mani sul pavimento. Posiziona le mani vicino alla testa. La distanza tra le mani deve essere leggermente superiore alla larghezza delle spalle. Alzati facendo leva sulle braccia e in modo che solo le mani e le punte dei piedi tocchino terra. Mantieni la schiena dritta. Le mani puntano leggermente verso l'esterno.\
+\
+Step 2: Piega una gamba in avanti verso la parte superiore del corpo.\
+\
+Step 3: Mentre riporti la gamba nella posizione iniziale, piega l'altra gamba verso la parte alta del corpo. Ripetilo continuamente.";
+
+
+
+
+"Bodyweight Pull In" = "Addominali Pull In";
+
+"Bodyweight Pull In extra"= "Gruppo muscolare: Retto dell'addome\
+\
+Step 1: Sdraiati sul pavimento. Tieni le mani sotto l'anca. Stendi le gambe. Alza leggermente le gambe.\
+\
+Step 2: Piega le gambe verso il busto. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Push-up With Crossing Leg Under The Hip" = "Flessioni con gambe incrociate sotto l'anca";
+
+"Push-up With Crossing Leg Under The Hip extra"= "Gruppo muscolare: Pettorali\
+\
+Step 1: Inizia l'esercizio dalla normale posizione per le flessioni. Incrocia la gamba destra sotto l'anca.\
+\
+Step 2: Abbassa il corpo quasi fino a toccare terra, fermati, quindi torna nella posizione iniziale.\
+\
+Step 3: Cambia gamba e ripeti gli step.";
+
+
+
+
+"Bodyweight Jumping Jacks" = "Jumping Jacks";
+
+"Bodyweight Jumping Jacks extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Stai in piedi con la schiena dritta. Tieni le mani lungo i lati.\
+\
+Step 2: Salta allargando le gambe con una distanza tra i piedi maggiore della larghezza delle spalle. Allo stesso tempo, alza le mani sopra la testa. Fermati un momento e torna alla posizione iniziale.";
+
+
+
+
+"Jump Sumo" = "Salto Sumo";
+
+"Jump Sumo extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Stai dritto con le gambe larghe in modo che i piedi siano più larghi delle spalle. Tieni la palla medica di fronte a te con le braccia protese in avanti. Aggiusta i piedi puntandoli leggermente verso l'esterno.\
+\
+Step 2: Abbassati piegandoti sulle ginocchia. Durante il movimento la schiena deve rimanere dritta. Fermati quando le cosce sono quasi parallele al pavimento. Quando torni alla posizione iniziale, fai leva sulla parte bassa della schiena.";
+
+
+
+
+"Dumbbell Clean And Jerk" = " Clean And Jerk con Manubri";
+
+"Dumbbell Clean And Jerk extra"= "Gruppo muscolare: Bicipiti femorali\
+\
+Step 1: Esegui uno squat. Tieni i manubri tramite l'impugnatura. Tieni la schiena dritta. Guarda avanti e tira il petto all'infuori.\
+\
+Step 2: Alza i manubri dal pavimento. Quando i manubri passano lo stinco, salta in alto. In questo momento alza i manubri sopra le spalle.\
+\
+Step 3: Porta i manubri sulle spalle ed esegui uno squat. Poi rialzati dritto.\
+\
+Step 4: Piega le ginocchia e salta in alto.\
+\
+Step 5: Durante il salto, alza i manubri sopra la testa. Resta in piedi. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Bodyweight Leg Raise" = "Addominali con alzate gambe" ;
+
+"Bodyweight Leg Raise extra" = "Gruppo muscolare: Retto dell'addome\
+\
+Step 1: Sdraiati sul pavimento. Metti le mani lungo i lati. Stendi le gambe.\
+\
+Step 2: Alza le gambe con un angolo di 30°. Tieni la posizione per un secondo.\
+\
+Step 3: Alza le gambe con un angolo di 60°. Tieni la posizione per un secondo.\
+\
+Step 4: Alza le gambe con un angolo di 90°. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Dumbbell Biceps Curl" = "Affondi e bicipiti con manubri";
+
+"Dumbbell Biceps Curl extra"= "Gruppo muscolare: Bicipite brachiale\
+\
+Step 1: Piega leggermente le ginocchia. Tieni la schiena piegata e dritta. Tieni i manubri vicino alla parte esterna del ginocchio tramite l'impugnatura.\
+\
+Step 2: Alza i manubri mentre tieni ferma la parte alta del braccio. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Bodyweight Sit-up" = "Piegamenti da seduto";
+
+"Bodyweight Sit-up extra"= "Gruppo muscolare: Retto dell'addome\
+\
+Step 1: Sdraiati sul pavimento. Metti le mani dietro la testa. Le ginocchia sono piegate e i piedi fermi sul pavimento.\
+\
+Step 2: Alza il busto in avanti. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Bent-Leg V-UP" = "Piegamenti a V";
+
+"Bent-Leg V-UP extra"= "Gruppo muscolare: Retto dell'addome\
+\
+Step 1: Sdraiati con il viso verso il pavimento e le braccia lungo i lati. Piega le ginocchia e tienile ferme.\
+\
+Step 2: Alza velocemente il busto mentre porti le ginocchia al petto. Tieni le braccia parallele al pavimento.";
+
+
+
+
+
+
+"Toe Touch" = "Tocco alle dita dei piedi";
+
+"Toe Touch extra"= "Gruppo muscolare: Retto dell'addome\
+\
+Step 1: Sdraiati sul pavimento. Tieni le gambe leggermente piegate verso l'alto. Tieni la schiena premuta contro il suolo.\
+\
+Step 2: Espira ed esegui un crunch mentre tocchi i piedi. Tieni la testa in posizione ferma e non toccare il petto con il mento.";
+
+
+
+
+"Toe Touch 2" = "Tocco alle dita dei piedi 2";
+
+"Toe Touch 2 extra"= "Gruppo muscolare: Retto dell'addome\
+\
+Step 1: Sdraiati sul pavimento e tieni le gambe leggermente piegate verso l'alto. Tieni la schiena premuta contro il suolo.\
+\
+Step 2: Stenditi e fai un crunch mentre tocchi i piedi. Tieni la testa in posizione ferma e non toccare il petto con il mento.";
+
+
+
+
+"Bodyweight Crunch 2" = "Crunch 2";
+
+"Bodyweight Crunch 2 extra"= "Gruppo muscolare: Obliqui\
+\
+Step 1: Sdraiati sul pavimento. Alza le gambe in modo che le cosce siano perpendicolari al pavimento. Porta le mani dietro la testa.\
+\
+Step 2: Piega il gomito sinistro e la gamba destra fino a farli quasi toccare.\
+\
+Step 3: Porta il gomito sinistro e la gamba destra alla posizione iniziale. Allo stesso tempo, piega il gomito destro e la gamba sinistra fino a farli quasi toccare. Ripetilo continuamente.";
+
+
+
+
+"Stability Ball Crunch" = "Crunch su swiss ball";
+
+"Stability Ball Crunch extra"= "Gruppo muscolare: Addominali\
+\
+Step 1: Sdraiati sulla swiss ball. Tieni una palla medica sopra di te.\
+\
+Step 2: Alza il busto mentre il fondo schiena scende lungo la swiss ball. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+"Bar  Bench Press Incline" = "Bench press su panca inclinata";
+
+"Bar  Bench Press Incline extra"= "Gruppo muscolare: Pettorali\
+\
+Step 1: Sdraiati sulla panca inclinata. Tieni il bilanciere EZ curl bar tramite l'impugnatura. La distanza tra le mani deve essere leggermente più ampia delle spalle. Mantieni il bilanciere EZ curl bar con le braccia distese. Il bilanciere EZ curl bar deve trovarsi al centro del petto.\
+\
+Step 2: Abbassa il bilanciere EZ curl bar fino alla parte bassa del petto tenendo i gomiti vicino al corpo. Il bilanciere EZ curl bar deve toccare leggermente il petto alla fine del movimento. Non far rimbalzare il bilanciere EZ curl bar sul petto. Tieni il respiro per qualche istante. Torna alla posizione iniziale. Tieni la schiena premuta verso la panca durante l'esercizio. Non fare movimenti con le gambe.";
+
+
+
+
+"Dumbbell Push-up Row" = "Vogatore Push-up con manubri";
+
+"Dumbbell Push-up Row extra"= "Gruppo muscolare: Pettorali\
+\
+Step 1: Mantieni due manubri tramite l'impugnatura. La distanza tra le mani deve essere leggermente superiore alla larghezza delle spalle. Alza il corpo facendo leva sulle braccia in modo che solo i manubri e le dita dei piedi tocchino terra. Mantieni la schiena dritta. Le mani puntano leggermente verso l'esterno.\
+\
+Step 2: Abbassati finché il petto non tocca quasi il pavimento piegando i gomiti. I gomiti devono essere rivolti verso i piedi. Tieni la posizione per un secondo.\
+\
+Step 3: Torna alla posizione iniziale.\
+\
+Step 4: Alza un manubrio spostando il gomito verso l'alto. La mano deve muoversi seguendo una linea verticale. Tieni la posizione per un secondo.\
+\
+Step 5: Torna alla posizione iniziale.\
+\
+Step 6: Ripeti gli stessi step con l'altra mano.";
+
+
+
+
+"Triceps Kickback" = "Tricipiti all'indietro";
+
+"Triceps Kickback extra"= "Gruppo muscolare: Tricipite brachiale\
+\
+Step 1: Prendi in mano un manubrio, quindi posiziona il ginocchio opposto sulla panca assieme all'altra mano, mentre l'altro piede resta sul pavimento, piegandolo leggermente sul ginocchio. Quindi spingi il manubrio all'indietro con il braccio, portandolo parallelo al pavimento e tenendo la schiena dritta.\
+\
+Step 2: Tenendo il manubrio a 90° con il gomito, espira lentamente e stendi il braccio il più possibile, o fino a che il polso, il gomito e la spalla non sono in linea.\
+\
+Step 3: Inala e abbassa il manubrio lentamente, ma solo finché non raggiungi un angolo di 90° con il gomito. Ripeti per il numero richiesto di ripetizioni.\
+\
+Step 4: Ripeti tenendo il manubrio con l'altra mano.";
+
+
+
+
+"Standing Single Arm Triceps Extension" = "Tricipiti con estensione ad un solo braccio";
+
+"Standing Single Arm Triceps Extension extra"= "Gruppo muscolare: Tricipite brachiale\
+\
+Step 1: Stai dritto con i piedi leggermente larghi, mantieni un manubrio leggero nella mano sinistra.\
+\
+Step 2: Porta il manubrio dietro la testa in modo che il braccio sinistro punti verso l'esterno. Porta il braccio destro davanti al viso e tieni con la sua mano il gomito sinistro, mentre la parte superiore del braccio resta ferma durante l'esercizio.\
+\
+Step 3: Senza muovere la parte alta del braccio, piega lentamente il gomito sinistro portando il manubrio dietro la testa il più lontano possibile.\
+\
+Step 4: Porta il manubrio sopra la testa con il braccio sinistro sisteso e ripetilo per una serie. Quindi porta il manubrio nella mano destra e ripeti l'esercizio con il braccio destro.";
+
+
+
+
+"Stability Ball Split Squad Dumbbell" = "Affondi con swiss ball e manubri";
+
+"Stability Ball Split Squad Dumbbell extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Stando dritto, tieni un piede sul pavimento e l'altro sulla swiss ball, tenendo in mano i manubri lateralmente. Tieni le braccia distese, come in figura.\
+\
+Step 2: Piegati verso il pavimento, flettendo anca e ginocchia e portando il busto in avanti.\
+\
+Step 3: Torna alla posizione iniziale facendo leva sul piede anteriore.\
+\
+Step 4: Ripeti con l'altra gamba.";
+
+
+
+
+"Dumbbell Rear Delt Row" = "Vogatore all'indietro con manubri";
+
+"Dumbbell Rear Delt Row extra"= "Gruppo muscolare: Deltoidi\
+\
+Step 1: Piegati all'altezza della vita e mantieni i manubri con le braccia dritte e i palmi rivolti verso l'interno, e i piedi uniti.\
+\
+Step 2: Alza i manubri fino all'altezza delle spalle, tenendo la schiena piatta. Piega leggermente i gomiti se necessario, quindi abbassa i manubri fino alla posizione iniziale.";
+
+
+
+
+"Dumbbell Snatch" = "Strappi con manubrio";
+
+"Dumbbell Snatch extra"= "Gruppo muscolare: Deltoidi\
+\
+Step 1: Inizia con uno squat poggiandoti su un manubrio. Mantieni il fondo schiena basso e bloccato e tieni i piedi all'altezza delle spalle.\
+\
+Step 2: Afferra il manubrio e serra i muscoli addominali. Con un movimento rapido, alza il manubrio fino a che il tuo braccio non è dritto e bloccato, come in figura. Il manubrio deve viaggiare vicino al corpo e non lontano da esso.\
+\
+Step 3: Tieni il respiro per qualche istante e poi torna alla posizione iniziale.";
+
+
+
+
+"Stretch Standing Overhead Arms" = "Stretching con le braccia";
+
+"Stretch Standing Overhead Arms extra"= "Gruppo muscolare: Dorsali\
+\
+Step 1: Stai dritto con le gambe leggermente aperte. Tieni le gambe leggermente piegate. Posiziona le braccia davanti a te. Intreccia le dita.\
+\
+Step 2: Stendi le braccia sopra la testa. Spingi il più in alto possibile. Tieni questa posizione per 15-25 secondi.";
+
+
+
+
+"Stretch Neck Standing Side" = "Stretching del collo";
+
+"Stretch Neck Standing Side extra"= "Gruppo muscolare: Collo\
+\
+Step 1: Stai dritto con i piedi all'altezza delle spalle. Posiziona le braccia lungo i lati.\
+\
+Step 2: Gira il collo di lato. Il busto gira leggermente. Tieni la posizione per 15-25 secondi. Ripeti con l'altro lato.";
+
+
+
+
+"Standing Cross Body Arms" = "Incrocio con le braccia";
+
+"Standing Cross Body Arms extra"= "Gruppo muscolare: Deltoidi\
+\
+Step 1: Stai dritto con i piedi all'altezza delle spalle.\
+\
+Step 2: Stendi il braccio destro completamente. Il braccio deve essere parallelo al pavimento. Posiziona il braccio sinistro di fronte al polso sinistro. Usa il braccio sinistro per spingere il braccio destro vicino al corpo. Tieni la posizione per 15-25 secondi. Ripeti con l'altro braccio.";
+
+
+
+
+"Standing Behind Head" = "Tricipiti dietro la testa";
+
+"Standing Behind Head extra"= "Gruppo muscolare: Tricipite brachiale\
+\
+Step 1: Stei dritto con i piedi all'altezza delle spalle. Posiziona una mano al centro della tua schiena. Il gomito punta verso l'alto.\
+\
+Step 2: Usa l'altra mano per mantenere il gomito. Tira il gomito giù e verso la testa. Tieni questa posizione per 15-25 secondi. Ripeti per l'altro lato.";
+
+
+
+
+"Standing Side Single Arm" = "Allunghi laterali a braccio singolo";
+
+"Standing Side Single Arm extra"= "Gruppo muscolare: Dorsali\
+\
+Step 1: Stai dritto con i piedi all'altezza delle spalle. Posiziona le mani sull'anca.\
+\
+Step 2: Alza un braccio sopra la testa e piega il corpo su di un lato. Tieni questa posizione per 15-25 secondi. Ripeti con l'altro lato.";
+
+
+
+
+"Stretch Squat Torso Twist" = "Stretching squat con piegamento del busto";
+
+"Stretch Squat Torso Twist extra"= "Gruppo muscolare: Dorsali\
+\
+Step 1: Esegui uno squat con i piedi all'altezza delle spalle. Posiziona le mani sulle anche. Guarda avanti.\
+\
+Step 2: Gira il busto in una direzione fino a sentirsi tirare. Ripeti per l'altro lato.";
+
+
+
+
+"Stretch Standing Legs Arms" = "Stretching con gambe e braccia";
+
+"Stretch Standing Legs Arms extra"= "Gruppo muscolare: Bicipiti femorali\
+\
+Step 1: Stai dritto con i piedi all'altezza delle spalle. Posiziona le mani sull'anca.\
+\
+Step 2: Senza piegare le gambe, abbassati fino a raggiungere il pavimento e girando attorno l'anca. Tieni la posizione per 15-25 secondi.";
+
+
+
+
+"Stretch Standing Hand To Foot" = "Stretching delle gambe";
+
+"Stretch Standing Hand To Foot extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Stai dritto con i piedi stretti. Le mani lungo i lati.\
+\
+Step 2: Piega un ginocchio dietro di te. Tieni il piede con una mano. Tira il piede allungando i bicipiti femorali. Tieni la posizione per 15 – 25 secondi. Ripeti con l'altra gamba.";
+
+
+
+
+"Stretch Knee Bent" = "Piegamenti sulle ginocchia";
+
+"Stretch Knee Bent extra"= "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Siedi con le gambe completamente distese. Piega il ginocchio destro, posiziona il piede destro nella parte interna della coscia sinistra.\
+\
+Step 2: Tocca le dita del piede sinistro con la mano sinistra. Tieni la posizione per 15-25 secondi. Ripeti con l'altra gamba.";
+
+
+
+
+"Stretch Adductors Standing" = "Stretching degli adduttori";
+
+"Stretch Adductors Standing extra"= "Gruppo muscolare: Adduttori\
+\
+Step 1: Stai dritto con i piedi all'altezza delle spalle. Porta le tue mani sulle anche.\
+\
+Step 2: Abbassati su di un lato. La gamba opposta deve essere distesa. Tieni la posizione per 15-254 secondi. Ripeti con l'altro lato.";
+
+
+
+
+"Sitting Body Curl" = "Piegamenti da seduto";
+
+"Sitting Body Curl extra"= "Gruppo muscolare: Bicipiti femorali\
+\
+Step 1: Siediti con la schiena dritta. Stendi completamente le gambe davanti a te. Tieni la mani sulle cosce.\
+\
+Step 2: Porta il busto verso le gambe. Tieni la posizione per 15-25 secondi.";
+
+
+
+
+"Stretch Lying Knee Bent" = "Stretching con ginocchia piegate";
+
+"Stretch Lying Knee Bent extra"= "Gruppo muscolare: Bicipiti femorali\
+\
+Step 1: Sdraiati sul pavimento. Stendi completamente le gambe. Tieni le mani lungo i lati.\
+\
+Step 2: Porta una gamba verso il petto. Il ginocchio deve essere piegato. Posiziona le mani sulla coscia. Tira la gamba verso il petto. Tieni la posizione per 15-25 secondi. Ripeti con l'altra gamba.";
+
+
+
+
+"Stretch Adductors (Sitting)" = "Stretching degli adduttori (da seduto)";
+
+"Stretch Adductors (Sitting) extra"= "Gruppo muscolare: Adduttori\
+\
+Step 1: Siediti con le piante dei piedi una contro l'altra. Tieni la schiena dritta. Posiziona le mani sulle ginocchia.\
+\
+Step 2: Abbassa il busto e le ginocchia verso il pavimento. Tieni la posizione per 15-25 secondi.";
+
+
+
+
+"Stretch Kneeling Child Pose" = "Stretching in posizione fetale";
+
+"Stretch Kneeling Child Pose extra"= "Gruppo muscolare: Schiena bassa\
+\
+Step 1: Inginocchiati sul pavimento con la schiena dritta.\
+\
+Step 2: Mentre allunghi le braccia davanti a te, siediti in modo che il fondo schiena tocca i piedi. Tieni schiena e testa dritta.";
+
+
+
+
+"Stretch Lower Back Arms Assist" = "Stretching assistito con le braccia";
+
+"Stretch Lower Back Arms Assist extra"= "Gruppo muscolare: Schiena bassa\
+\
+Step 1: Sdraiati prono distendendoti sul pavimento. Posiziona le mani vicino al petto con i palmi verso il basso.\
+\
+Step 2: Usa le braccia per alzarti verso il soffitto. Le braccia sono completamente distese. Tieni la posizione per 15-25 secondi.";
+
+
+
+"Dumbbell Lateral Raise" = "Alzate laterali con manubrio";
+
+"Dumbbell Lateral Raise extra" = "Gruppo muscolare: Deltoidi\
+\
+Step 1: Alzato con i piedi larghi all'altezza delle spalle, tieni la schiena diritta e le braccia leggermente davanti al busto. Con i gomiti leggermente piegati, prendi in ogni mano un manubrio.\
+\
+Step 2: Solleva i manubri verso l'esterno e in alto, fino al livello delle spalle. I palmi devono essere rivolti verso il pavimento.\
+\
+Step 3: Mantenendo i gomiti piegati, abbassa lentamente le braccia verso la posizione iniziale e ripeti per il numero desiderato di ripetizioni.";
+
+
+
+
+
+"Dumbbell Lunge Side" = "Affondo laterale con manubri";
+
+"Dumbbell Lunge Side extra" = "Gruppo muscolare: Quadricipiti\
+\
+Step 1: Alzato con i piedi all'altezza delle spalle, tieni i manubri di lato con la presa standard.\
+\
+Step 2: Tieni la schiena dritta e fai un passo verso l'esterno con un solo piede e abbassati piegando le ginocchia. Il piede posteriore resta fermo. Fermati quando la coscia anteriore è parallela al terreno. Tieni questa posizione per un secondo. Torna alla posizione iniziale.";
+
+
+
+
+
+"Standing Abdominal Stretch" = "Stretching addominale in piedi";
+
+"Standing Abdominal Stretch extra" = "Gruppo muscolare: Retto addominale\
+\
+Step 1: Stai in posizione eretta con le braccia sopra la testa.\
+\
+Step 2: Inarca la zona lombare sollevando il petto e portando le braccia indietro il più possibile. Tieni questa posizione estesa per qualche secondo.";
+
+
+"Barbell Good Morning" = "Bilanciere del Buon Giorno";
+"Barbell Good Morning extra" = "Gruppo Muscolare: Bicipiti Femorali\
+\
+Passo 1: Alzato con i piedi larghi all'altezza delle spalle. Posiziona il bilanciere sulle spalle. Tieni il bilanciere tramite l'impugnatura. Le distanze tra le due mani devono essere più ampie delle spalle. Punta i piedi leggermente verso l'esterno\
+\
+Passo 2: Tieni dritta la schiena e abbassati fino a restare parallelo con il pavimento. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+"Curl Bar Row" = "Curl Bar Row";
+"Curl Bar Row extra" = "Gruppo Muscolare: Dorsali\
+\
+Passo 1: Piega leggermente le ginocchia. Tieni la schiena piegata e dritta. Mantieni la EZ curl bar sotto di te, con le mani posizionate alla larghezza delle spalle.\
+\
+Passo 2: Alza la EZ Curl bar verticalmente verso il petto. Non spingere i gomiti verso l'esterno. Tieni la posizione per un secondo. Torna alla posizione iniziale.";
+
+
+// Descriptions
+
+"extra_main_description" = "Programmi di allenamento avanzati progettati per spaccarsi e rafforzarsi";
+"Building muscle add volume and strength." = "La costruzione del muscolo aggiunge volume e forza.";
+"Muscle Growth of the full Body." = "Crescita muscolare per tutto il corpo.";
+"Beginner Intermediate Advanced." = "Principiante Intermedio Avanzato.";
+"Man and Women." = "Uomo e Donna.";
+"Gym." = "Palestra.";
+"Barbell Dumbbells Bench." = "Bilanciere Manubri Panca.";
+"Building muscle add definition and strength." = "La costruzione del muscolo aggiunge definizione e forza.";
+"Home, Office, Studio." = "Casa, Ufficio, Studio.";
+"Bench, Dumbbell, Mat, Body Weight." = "Panca, Manubri, Tappetino, Peso Corporeo.";
+"Muscle definition and fat burning." = "Definizione del muscolo e brucia grassi.";
+"Cardio routine of the full Body." = "Routine cardio per tutto il corpo.";
+"Home, Office." = "Casa, Ufficio.";
+"Core zone." = "Zona principale.";
+"Abdominals definition & fat burning." = "Definizione addominale e brucia grassi.";
+"Gym, Home, Office." = "Palestra, Casa, Ufficio.";
+"Stability ball, Mat, Body Weight." = "Palla di stabilità, Tappetino, Peso Corporeo.";
+"Chest & Arms." = "Petto e Braccia.";
+"Get strength and definition." = "Ottieni forza e definizione.";
+"Bench, Dumbbell." = "Panca, Manubri.";
+"Arms." = "Braccia.";
+"Shoulders." = "Spalle.";
+"Bench, Dumbbell, Balance Ball." = "Panca, Manubri, Palla di stabilità.";
+"Back & Arms." = "Schiena e Braccia.";
+"Neck, shoulders, lower back and legs." = "Collo, spalle, parte bassa della schiena e gambe.";
+"Muscle flexibility and relaxation." = "Flessibilità muscolare e relax.";
+"Exercise Mat, Body Weight." = "Tappetino per esercizi, Peso Corporeo.";
+
+"Focus" = "Focus";
+"Goal" = "Obiettivo";
+"Skill level" = "Livello di abilità";
+"Target Group" = "Gruppo di destinazione";
+"Place" = "Luogo";
+"Equipment" = "Equipaggiamento" ;
+
+"extraDescription1" = "Allenamenti progettati per alzare pesi e costruire il muscolo e la forza.";
+"extraDescription2" = "La combinazione perfetta di esercizi per ottenere forza e aggiungere definizione.";
+"extraDescription3" = "Diventa più forte e suda con questo ispiratissimo circuito brucia grassi.";
+"extraDescription4" = "Dimagrisci e lavora sugli addominali con il nostro ispiratissimo circuito brucia grassi.";
+"extraDescription5" = "Ottimo allenamento che si concentra sui muscoli del petto per aggiungere forza e definizione.";
+"extraDescription6" = "Ottimo allenamento che si concentra sui muscoli delle braccia per aggiungere forza e definizione.";
+"extraDescription7" = "Ottimo allenamento che si concentra sui muscoli delle gambe per aggiungere forza e definizione.";
+"extraDescription8" = "Ottimo allenamento che si concentra sui muscoli delle spalle per aggiungere forza e definizione.";
+"extraDescription9" = "Ottimo allenamento che si concentra sui muscoli della schiena per aggiungere forza e definizione.";
+"extraDescription10" = "Migliora la tua flessibilità e il rilassamento muscolare con questa sessione per lo stretching di tutto il corpo.";
+
+"extraDescription1_howToMake" = "3 serie per Esercizio.";
+"extraDescription2_howToMake" = "Ogni esercizio di 15 ripetizioni con 2 turni prima di 4 poi un altri 4.";
+"extraDescription3_howToMake" = "Tempo di riposo tra esercizi di 15 secondi, tempo di riposo tra i turni di 30 secondi";
+"extraDescription4_howToMake" = "Tempo di riposo tra esercizi di 15 secondi, tempo di riposo tra i turni di 30 secondi";
+"extraDescription5_howToMake" = "Tempo di riposo tra esercizi di 45 secondi, tempo di riposo tra i turni di 35 secondi";
+"extraDescription6_howToMake" = "Tempo di riposo tra esercizi di 45 secondi, tempo di riposo tra i turni di 35 secondi";
+"extraDescription7_howToMake" = "Tempo di riposo tra esercizi di 45 secondi, tempo di riposo tra i turni di 35 secondi";
+"extraDescription8_howToMake" = "Tempo di riposo tra esercizi di 45 secondi, tempo di riposo tra i turni di 35 secondi";
+"extraDescription9_howToMake" = "Tempo di riposo tra esercizi di 45 secondi, tempo di riposo tra i turni di 35 secondi";
+"extraDescription10_howToMake" = "Nessun riposo tra gli esercizi. Tenuta di ogni posizione per 30 secondi";
+
+"categoryDescription0" = "I migliori esercizi per aggiungere volume e definizione ai tuoi addominali";
+"categoryDescription1" = "Esercizi diversi che ti aiuteranno ad aggiungere Forza e Potenza";
+"categoryDescription2" = "La combinazione perfetta di esercizi per aggiungere massa e volume";
+"categoryDescription3" = "Esercizi speciali che ti aiuteranno ad aggiungere forza e sollievo muscolare";
+"categoryDescription4" = "I migliori esercizi che ti aiuteranno ad aggiungere forza, volume e potenza";
+"categoryDescription5" = "Esercizi diversi che ti aiuteranno a migliorare le tue prestazioni";
+"categoryDescription6" = "La combinazione perfetta di esercizi per aggiungere forza alle gambe e migliorare la resistenza";
+"categoryDescription7" = "Un’ottima combinazione di esercizi per aggiungere forza e definizione"; //Spalle
+"categoryDescription8" = "Esercizi speciali che ti aiuteranno ad aggiungere forza con diversi livelli di intensità";
+"categoryDescription9" = "Con versione Pro";
+"workoutDescription2" = "Una combinazione di esercizi che ti aiuteranno ad aggiungere volume muscolare";
+"workoutDescription1" = "Il miglior piano strategico per dimagrire e aggiungere definizione al corpo";
+"workoutDescription3" = "Il modo migliore per ottenere forza, migliorare le tue prestazioni e aggiungere potenza";
+
+
+"viewed" = "Visto";
+

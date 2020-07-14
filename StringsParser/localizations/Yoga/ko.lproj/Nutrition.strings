@@ -1,0 +1,179 @@
+//Plan names
+
+"%ld days plan" = "%ld 일 계획";
+
+//Other
+
+"Meal %ld" = "식사 %ld";
+"Day %ld" = "%ld일";
+
+"Ingredients" = "재료";
+"Steps" = "단계";
+
+//Days
+//Day 1
+"Healthy recipes that are awesome to prepare and try out" = "준비하고 시도해 볼만한 건강한 레시피";
+"To keep your metabolism running strong, you must eat your first meal within 1 hour of rising." = "높은 신진대사를 계속해서 유지하려면, 기상 후 1시간 이내에 아침을 먹어야 합니다.";
+//Day 2
+"Good nutrition is the foundation of good health" = "좋은 영양은 건강의 기초입니다";
+"The solution is to eat within 1 hour of waking up so that you move your metabolism." = "신진대사를 활성화시키기 위한 해답은 기상 후 1시간 이내에 식사하는 것입니다.";
+//Day 3
+"Plan ahead to eat breakfast" = "아침 식사를 미리 계획";
+"To the highest fat burning speed breakfast is so important to your weight-loss success." = "체중 감량을 성공하기 위해서 매우 중요한 것은 고지방 연소를 높이는 아침 식사입니다.";
+//Day 4
+"Carbs supply the body with energy" = "탄수화물은 신체에 에너지를 제공합니다";
+"Studies show that 5 meals a day are important in maintaining a healthy body weight." = "연구에 따르면 하루 5끼의 식사는 건강한 체중을 유지하는데 중요합니다.";
+//Day 5
+"Protein is essential for growth and development" = "단백질은 성장과 발달에 필수요소입니다";
+"Nutrition plays a key role in maintaining a healthy lifestyle." = "영양은 건강한 생활을 유지하는데 중요한 역할을 담당합니다.";
+//Day 6
+"You are what you eat" = "당신은 바로 당신이 먹는 것으로 이루어집니다";
+"Is literally true, if you want your body to perform at a peak level." = "신체를 최상으로 가꾸려면, 이는 문자 그대로 진리입니다.";
+//Day 7
+"Controlling portion size use smaller plates" = "양 조절을 위해 작은 그릇을 사용";
+"Eliminate emotional eating by healing your hungry heart." = "배고픔을 치유하여 정서적 섭식을 줄입니다.";
+
+//Content: Title, Ingridients, Instructions
+
+"Strawberries and Creme Oatmeal_Title" = "딸기 및 크림 오트밀";
+"Strawberries and Creme Oatmeal_Ingredients" = "◆\t오트 1/2 컵 \n\n◆\t탈지유 1/3 컵 \n\n◆\t바닐라 그릭 요거트 1/3 컵 \n\n◆\t썬 딸기 1/2 컵 \n\n◆\t바닐라 무지방 그릭요거트 2 tbsp \n\n◆\t볶은 아몬드 1 tbsp";
+"Strawberries and Creme Oatmeal_Instructions" = "저녁에 그릇에 오트, 우유 및 요거트 1/3 컵을 잘 섞일 때까지 저어줍니다. 커버를 씌우고 냉장고에 밤새 차갑게 보관합니다. 맛있게 드세요!";
+
+"Golden Glow Elixir_Title" = "금빛 묘약";
+"Golden Glow Elixir_Ingredients" = "◆\t사과 2개 \n\n◆\t중간 사이즈 오렌지 4개, 껍질 제거  \n\n◆\t레몬 1개, 껍질 벗긴 것 \n\n◆\t생강 5-7cm크기, 껍질 벗긴 것 \n\n◆\t강황 5cm크기, 껍질 벗긴 것  \n\n◆\t찬물 2 컵  \n\n◆\t얼음 1웅큼";
+"Golden Glow Elixir_Instructions" = "고속 믹서기에 스무디가 되도록 모든 재료를 갈아주며 필요한 경우 추가로 물을 넣어줍니다. 좋은 고출력 믹서기로 스무디 주스를 만드세요. 주스를 원할 경우 재료를 더 부드럽게 만들어주며, 모든 섬유질과 영양소를 유지하면서 재료를 주스로 만들어도 좋습니다. 맛있게 드세요!";
+
+"Tso’s Chicken Stir Fry_Title" = "Tso의 치킨 볶음";
+"Tso’s Chicken Stir Fry_Ingredients" = "◆\t닭가슴살 4개, 깍둑썰기  \n\n◆\t밀가루 1컵  \n\n◆\t식물성 기름 \n\n◆\t소금 \n\n◆\t통후추 간 것  \n\n◆\t마늘 2조각 다진 것  \n\n◆\t닭육수 1/2 캔  \n\n◆\t꿀 3 tbsp  \n\n◆\t간장 4 tbsp  \n\n◆\t라임 주스 2 tbsp  \n\n◆\t브로콜리 꽃 부분만 2캔  \n\n◆\t조리된 흰 쌀 2캔, 서빙용";
+"Tso’s Chicken Stir Fry_Instructions" = "큰 그릇에 닭에 약간 녹말을 입힙니다. 밀가루가 담긴 큰 그릇에 닭을 옮기고 다시 입히도록 넘긴 후 한쪽에 둡니다. 크고 깊은 팬에 식물성 기름을 절반 채우고, 중강불로 가열합니다.  닭에 튀겨서 한쪽에 둡니다. 녹말 2tbsp을 넣고 잘 섞이도록 저어줍니다. 소스에는 브로콜리, 당근을 넣고 부드러워질 때까지 5분정도 조리합니다. 맛있게 드세요!";
+
+"Herbal Tea_Title" = "허브차";
+"Herbal Tea_Ingredients" = "◆\t물 1컵  \n\n◆\t간 생강 1 tsp  \n\n◆\t간 라임 껍질 1 tsp  \n\n◆\t라임 주스 1 tsp  \n\n◆\t민트 잎 3장 ";
+"Herbal Tea_Instructions" = "주전자에 물을 끓이고 남은 재료는 저어줍니다. 차가 우러나올 때까지 저어주며 조리합니다. 맛있게 드세요!";
+
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Title" = "아루굴라 샐러드를 곁들인 그릴 레몬 디종 닭 넓적다리";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Ingredients" = "◆\t껍질, 뼈를 제거한 닭 넓적다리 4개 (114g)  \n\n◆\t소금 1/2 tsp  \n\n◆\t통후추 간 것 1/4 tsp  \n\n◆\t올리브유 2.5 tbsp  \n\n◆\t레몬 주스 2 tsp  \n\n◆\t간마늘 1 tsp  \n\n◆\t요리용 스프레이  \n\n◆\t발사믹 식초 1 tbsp  \n\n◆\t꿀 1 tsp  \n\n◆\t그래이프 토마토 반으로 자른 것 1컵 \n\n◆\t어린 아루굴라 1팩 (140g)";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Instructions" = "소금 1/4 tsp, 후추 1/8 tsp 를 닭에 뿌립니다. 그릇에 기름 1-1.5 tsp, 레몬주스, 머스타드, 마늘을 닭과 버무려 입힙니다. 4분정도 둡니다. 그릴팬을 중불로 가열합니다. 요리용 스프레이를 팬에 뿌립니다. 닭을 팬에 넣고 완전히 익을때까지 양면을 약 5분정도 굽습니다. 0.6cm 두께로 닭을 자릅니다. 맛있게 드세요!";
+
+"Cottage Berry Crunch_Title" = "코티지 베리 그런치";
+"Cottage Berry Crunch_Ingredients" = "◆\t2% 저지방 코티지 치즈 1/2 컵 \n\n◆\t그래놀라 2 tbsp \n\n◆\t썬 바나나 1/2 컵 \n\n◆\t믹스 베리 1/2 컵";
+"Cottage Berry Crunch_Instructions" = "작은 그릇에 코티지 치즈를 넣습니다. 나머지 재료를 올립니다. 맛있게 드세요!";
+
+"Pineapple Kiwi_Title" = "파인애플 키위";
+"Pineapple Kiwi_Ingredients" = "◆\t물 4 tbsp  \n\n◆\t우유 1/2 컵  \n\n◆\t요거트 1/2 컵 \n\n◆\t꿀 1.5 tbsp \n\n◆\t키위 1개, 껍질 벗긴 것 \n\n◆\t파인애플 덩어리 1컵  \n\n◆\t망고 1/2  \n\n◆\t얼음 2 ";
+"Pineapple Kiwi_Instructions" = "모든 재료를 믹서기에 넣고 저속으로 걸쭉해지고 스무디가 될 때까지 갈아줍니다. 맛있게 드세요!";
+
+"Lemon Chicken Skillet_Title" = "레몬 닭 프라이팬";
+"Lemon Chicken Skillet_Ingredients" = "◆\t닭가슴살 4개  \n\n◆\t버터 1/4 컵  \n\n◆\t올리브유 2 tbsp  \n\n◆\t레몬 1  \n\n◆\t레몬 자른 것 1조각  \n\n◆\t화이트와인 1/4 컵  \n\n◆\t소금 1 tsp  \n\n◆\t통후추 간 것 1 tsp  \n\n◆\t파프리카 1/2 tsp  \n\n◆\t말린 파슬리 1/2 tsp";
+"Lemon Chicken Skillet_Instructions" = "밀가루, 소금, 후추, 파프리카, 파슬리를 얕은 그릇에 섞어줍니다. 기름과 버터를 중강불에 가열합니다. 밀가루 혼합물에 닭가슴살을 골고루 입히고 뜨거운 팬에 넣습니다. 레몬주스, 화이트와인, 레몬껍질과 로즈마리를 팬에 넣습니다. 완전히 익도록 골고루 닭을 조리합니다. 맛있게 드세요!";
+
+"Zucchini Quinoa Cookies_Title" = "주키니 퀴노아 쿠키";
+"Zucchini Quinoa Cookies_Ingredients" = "◆\t땅콩 크림 버터 1/2 컵 \n\n◆\t꿀 1/4 컵  \n\n◆\t바나나 1개  \n\n◆\t달걀 1개  \n\n◆\t바닐라 추출물 1 tsp  \n\n◆\t오트 1/2 컵  \n\n◆\t퀴노아 플레이크 1/2 컵  \n\n◆\t계피 1 tsp  \n\n◆\t소금 1/4 tsp  \n\n◆\t잘게 자른 주키니 1컵 ";
+"Zucchini Quinoa Cookies_Instructions" = "오븐은 약180°C로 예열합니다. 큰 그릇에 땅콩 버터, 꿀, 바나나, 달걀 그리고 바닐라를 넣고 저어줍니다. 오트, 퀴노아 플레이크, 베이킹 파우더, 향신료와 소금을 그릇에 담고 같이 섞어줍니다. 잘게 썬 주키니와 치아씨를 부드럽게 섞어줍니다. 베이킹 판에 반죽을 떠서 놓습니다. 오븐 중앙에서 쿠키의 테두리가 황갈색이 될 때까지 15-18분 정도 굽습니다. 맛있게 드세요!";
+
+"Savory Shrimp with Fresh Herbs_Title" = "싱싱한 허브를 곁들이 향긋한 새우";
+"Savory Shrimp with Fresh Herbs_Ingredients" = "◆\t큰 새우 454g  \n\n◆\t빨간색 매운 고추 2개  \n\n◆\t파 1대 작게 자른 것 \n\n◆\t케이퍼 0.5-1 tbsp, 씻어서 물을 뺀 것  \n\n◆\t마늘 2조각, 작게 자른 것  \n\n◆\t파슬리 1/2 컵, 잘게 다진 것  \n\n◆\t레몬 주스 3 tbsp  \n\n◆\t올리브유 2 tbsp ";
+"Savory Shrimp with Fresh Herbs_Instructions" = "소테팬을 중불에 놓고 기름을 넣습니다. 새우, 고추, 파, 케이퍼, 마늘, 소금, 후추를 넣고 새우가 핑크색이 될 때까지 4분 정도 조리합니다. 불을 끄고, 숟가락으로 팬 아래를 긁으면서 레몬주스를 넣습니다. 싱싱한 파슬리와 바질을 곁들여서 새우를 냅니다. 맛있게 드세요!";
+
+"Flaxseed Oatmeal with Blueberries_Title" = "블루베리 아마씨 오트밀";
+"Flaxseed Oatmeal with Blueberries_Ingredients" = "◆\t물 3 컵  \n\n◆\t오트 2 컵  \n\n◆\t간 아마씨 3 tbsp  \n\n◆\t소금 1/8 tsp  \n\n◆\t우유 1/4 컵  \n\n◆\t블루베리 1 컵  \n\n◆\t블루베리잼 1 tbsp  \n\n◆\t레몬껍질 갈은 것 1/2 tsp  \n\n◆\t레몬 주스 1 tbsp ";
+"Flaxseed Oatmeal with Blueberries_Instructions" = "물 3컵을 끓입니다. 오트, 아마씨, 소금을 넣고 저어줍니다. 중불로 낮추고, 자주 저어주면서 부드럽게 될 때까지 조리합니다. 우유와 버터를 넣고 저어줍니다. 조리하는 동안, 블루베리와 4가지 재료를 전자렌지용 그릇에 담아, 30초마다 저어주면서 고전력에서 1.5분동안 돌립니다. 오트밀을 4개의 그릇에 나눠 담습니다. 블루베리와 피칸을 올립니다. 맛있게 드세요!";
+
+"Coconut Milk Smoothie With Blueberries_Title" = "블루베리 코코넛 밀크 스무디";
+"Coconut Milk Smoothie With Blueberries_Ingredients" = "◆\t냉동 블루베리 1팩 (284 g)  \n\n◆\t숙성된 바나나 3개  \n\n◆\t플레인 요거트 1컵  \n\n◆\t무가당 코코넛우유 1컵  \n\n◆\t꿀 2 tbsp";
+"Coconut Milk Smoothie With Blueberries_Instructions" = "믹서기에 블루베리, 바나나, 요거트, 코코넛우유, 꿀을 넣고 걸쭉하게 만듭니다. 맛있게 드세요!";
+
+"Chicken and Asparagus Stir-Fry_Title" = "닭 아스파라거스 볶음";
+"Chicken and Asparagus Stir-Fry_Ingredients" = "◆\t간장 1 tbsp  \n\n◆\t꿀 1 tbsp  \n\n◆\t닭가슴살 2개, 조각으로 자른 것  \n\n◆\t올리브유 1 tbsp  \n\n◆\t아스파라거스 1묶음, 자른 것  \n\n◆\t마늘 4조각 얇게 자른 것  \n\n◆\t참기름 2tsp ";
+"Chicken and Asparagus Stir-Fry_Instructions" = "지퍼백에 간장과 꿀을 섞습니다. 닭을 넣고 고고루 양념이 되도록 합니다. 준비될 때까지 냉장고에 둡니다. 큰 팬에 중불로 기름을 가열합니다. 아스파라거스를 제거하고 옆에 둡니다. 닭을 꺼내서 팬에 넣습니다. 마늘, 파와 준비된 양념을 팬에 넣습니다. 불을 끄고 참기름을 넣고 휘젓습니다. 맛있게 드세요!";
+
+"Lavender Mint Tea_Title" = "라벤더 민트 차";
+"Lavender Mint Tea_Ingredients" = "◆\t라벤더 꽃잎 1/4 컵  \n\n◆\t민트 잎 1 컵 \n\n◆\t물 4컵 ";
+"Lavender Mint Tea_Instructions" = "라벤더 꽃잎과 민트 잎을 냄비에 넣고 물을 부어 끓입니다. 불을 약하게 줄이고 향이 원하는 농도로 날 때까지 약 15-20분 정도 차를 우립니다. 맛있게 드세요!";
+
+"Chili Fajitas_Title" = "칠리 파히타";
+"Chili Fajitas_Ingredients" = "◆\t껍질없는 닭가슴살 454g  \n\n◆\t초록색, 노락색, 빨간색 피망 1/2 씩, 작게 자른 것  \n\n◆\t물 1/3 컵 \n\n◆\t간장 2 tsp  \n\n◆\t소금 약간 \n\n◆\t후추 약간 \n\n◆\t올리브유 2 tbsp  \n\n◆\t양파 큰 것 1개, 작게 자른 것";
+"Chili Fajitas_Instructions" = "통에 닭을 넣고 모든 양념 재료를 잘 섞어서 냉장고에 최소 2시간 정도 재워둡니다. 고기를 양념에서 꺼내서 중불에서 양면을 4-5분 정도 구워줍니다. 고기를 얇게 썰어줍니다. 소스용으로 물 2tbsp, 간장 1tsp, 라임주스 1/4 tsp, 소금 약간, 후추 약간, 올리브유 1 tbsp 를 섞어줍니다. 맛있게 드세요! ";
+
+"Healthy Fruity Oatmeal_Title" = "건강에 좋은 과일향 오트밀";
+"Healthy Fruity Oatmeal_Ingredients" = "◆\t오트 1/2 컵 \n\n◆\t물 1 컵 \n\n◆\t꿀 1 tbsp  \n\n◆\t바닐라 추출물 1 tbsp  \n\n◆\t계피가루 1/2 tsp  \n\n◆\t블루베리 1/4 컵  \n\n◆\t딸기 4개 썬 것 \n\n◆\t1/2 바나나, 조각으로 자른 것";
+"Healthy Fruity Oatmeal_Instructions" = "전자렌지용 그릇에 물과 오트를 담습니다. 오트가 물을 흡수할 때까지 고전력으로 전자렌지를 돌립니다. 꿀, 바닐라 추출물, 계피가루를 넣고 저어줍니다. 블루베리와 썰어둔 바나나와 딸기를 올립니다. 맛있게 드세요! ";
+
+"Coffee Smoothie_Title" = "커피 스무디";
+"Coffee Smoothie_Ingredients" = "◆\t인스턴터 에스프레소 커피가루 1 tsp  \n\n◆\t뜨거운 물 1 tbsp  \n\n◆\t작은 바나나 1개, 껍질을 벗겨 자르고 얼린 것  \n\n◆\t무지방 우유 1/4 컵  \n\n◆\t꿀 1 tbsp  \n\n◆\t얼음 1/2 컵 \n\n◆\t 계피가루 ";
+"Coffee Smoothie_Instructions" = "믹서기에 에스프레소 가루와 뜨거운 물을 섞고 1분 정도 둡니다. 바나나, 우유, 꿀을 넣습니다. 뚜껑을 닫고 스무디가 되도록 갈아줍니다. 원하는 농도가 되도록 얼음을 조금씩 넣고 갈아줍니다. 계피가루를 약간 뿌려줍니다. 맛있게 드세요!";
+
+"Chicken & Pineapple Stir-Fry_Title" = "닭 & 파인애플 볶음";
+"Chicken & Pineapple Stir-Fry_Ingredients" = "◆\t닭가슴살 110 g  \n\n◆\t파인애플 40 g  \n\n◆\t현미 120 g  \n\n◆\t올리브유 1/3 tbsp  \n\n◆\t브라운 머스타드 1/2 tsp  \n\n◆\t스모크 파프리카 1/6 tbsp  \n\n◆\t천일염 \n\n◆\t후추";
+"Chicken & Pineapple Stir-Fry_Instructions" = "생 닭가슴살을 작은 조각으로 자릅니다. 스모크 파프리카와 브라운 머스타드로 닭에 양념을 합니다. 팬에 올리브유를 넣고 닭을 넣습니다. 닭이 약 80% 조리될 때까지 4분 정도 조리하고, 자른 피망을 넣습니다. 파인애플을 넣기 전 2-3분 정도 더 조리합니다. 맛있게 드세요!";
+
+"Raw Chocolate Truffles_Title" = "로우 초콜릿 트뤼플";
+"Raw Chocolate Truffles_Ingredients" = "◆\t밤새 물에 담근 호두, 캐슈 너트, 아몬드 1/2 컵 \n\n◆\t아몬드 우유 3-4 tbsp  \n\n◆\t해바라기씨 1/4 컵  \n\n◆\t호박씨 1/4 컵  \n\n◆\t캐럽 가루 2 tbsp  \n\n◆\t코코넛 플레이크 3 tbsp ";
+"Raw Chocolate Truffles_Instructions" = "코코넛 플레이크를 제외하고 믹서기에 모든 재료를 넣고 섞습니다. 아이스크림 숟가락을 이용해서 작은 공모양으로 만듭니다. 만든 것을 코코넛 플레이크에 굴립니다. 차갑게 냅니다. 맛있게 드세요!";
+
+"Baked Salmon with Veggies_Title" = "채소를 곁들인 구운 연어";
+"Baked Salmon with Veggies_Ingredients" = "◆\t연어 필렛 2개  \n\n◆\t자른 주키니 1컵  \n\n◆\t브로콜리 1컵  \n\n◆\t체리토마토 1/2 컵  \n\n◆\t소금 \n\n◆\t후추 \n\n◆\t올리브유 ";
+"Baked Salmon with Veggies_Instructions" = "오븐을 190°C로 예열합니다. 큰 시트 팬에 채소를 섞습니다. 소금, 후추, 올리브유로 양념합니다. 필렛을 채소 옆에 두고 연어가 익고 채소가 부드러워질 때까지 18-20분 정도 굽습니다. 맛있게 드세요!";
+
+"Banana Nut Oatmeal_Title" = "바나나 견과류 오트밀";
+"Banana Nut Oatmeal_Ingredients" = "◆\t오트 1/2 컵  \n\n◆\t물 1 컵  \n\n◆\t바나나 1개 자른 것 \n\n◆\t다진 호두 1 tbsp  \n\n◆\t계피가루 1 tsp ";
+"Banana Nut Oatmeal_Instructions" = "전자렌지용 작은 그릇에 오트와 물 1컵을 넣습니다. 3분정도 고온으로 전자렌지에 돌립니다. 바나나 자른 것과 호두 및 계피를 올립니다. 맛있게 드세요!";
+
+"Pink Power_Title" = "핑크 파워";
+"Pink Power_Ingredients" = "◆\t작은 신선한 콜리플라워 꽃부분 1.5 컵  \n\n◆\t수박 조각 2 컵 (씨와 껍질을 제거)  \n\n◆\t딸기 1.5 컵 \n\n◆\t딸기 그릭요거트 1통 (170 g)  \n\n◆\t딸기잼 2 tbsp (옵션)";
+"Pink Power_Instructions" = "작은 팬에 끓는 물에 콜리플라워가 부드러워질 때까지 조리합니다. 믹서기에 삶은 콜리플라워, 수박, 딸기, 요거트를 넣고 원할 경우 딸기잼을 추가하여 갈아줍니다. 맛있게 드세요!";
+
+"BBQ Chicken-Wrapped Asparagus_Title" = "아스파라거스로 감싼 BBQ 치킨";
+"BBQ Chicken-Wrapped Asparagus_Ingredients" = "◆\t닭가슴살 2개 작게 자른 것, 약 85g 크기  \n\n◆\t아스파라거스 12줄기  \n\n◆\tBBQ 소스 2 tbsp \n\n◆\t스모크 파프리카 1꼬집  \n\n◆\t마늘 가루 1꼬집  \n\n◆\t후추 1꼬집";
+"BBQ Chicken-Wrapped Asparagus_Instructions" = "오븐 온도를 200°C로 설정합니다. 닭을 평평하게 밀어줍니다. 바베큐 소스 1tbsp (각 조각마다), 원하는 양념으로 닭에 양념을 합니다. 닭을 열린 부분이 아래로 향한 그릴에 놓습니다. 오븐에 굽거나 8-10분 정도 그릴로 굽습니다. 맛있게 드세요!";
+
+"Ginger Turmeric Herbal Tea_Title" = "생강 강황 허브차";
+"Ginger Turmeric Herbal Tea_Ingredients" = "◆\t물 2컵  \n\n◆\t다진 생강 1/2 tsp  \n\n◆\t계피가루 1/2 tsp  \n\n◆\t꿀 1 tbsp  \n\n◆\t레몬 조각 1개 ";
+"Ginger Turmeric Herbal Tea_Instructions" = "물을 끓인 작은 냄피에 강황, 생강, 계피를 넣습니다. 불을 줄이고 10분정도 우립니다. 큰 유리잔에 차를 붓고 꿀과 레몬을 넣습니다. 맛있게 드세요!";
+
+"Grilled Shrimp & Avocado Kabobs_Title" = "구운 새운 & 아보카도 꼬치";
+"Grilled Shrimp & Avocado Kabobs_Ingredients" = "◆\t대하 450 g  \n\n◆\t아보카도 1.5개  \n\n◆\t빨강 피망 1개 \n\n◆\t주황 피망 1개 \n\n◆\t노랑 피망 1개 \n\n◆\t빨강 양파 1개 \n\n◆\t마늘 페이스트 1 tsp  \n\n◆\t엑스트라 버진 올리브유 1/2 tbsp  \n\n◆\t라임 1개  \n\n◆\t소금, 후추 ";
+"Grilled Shrimp & Avocado Kabobs_Instructions" = "200°C로 그릴 온도를 설정합니다. 야채와 아보카도를 꼬치용으로 크게 썰어줍니다. 새우 껍질을 벗기고 양념을 합니다. 강한 열에서 꼬치 막대기에 잘 고정되도록 섬유질 채소를 선택하세요. 꼬치를 그릴에 놓고 8-10분 정도 조리하고 뒤집어서 8-10분 정도 더 굽습니다. 맛있게 드세요!";
+
+"Morning Parfait_Title" = "모닝 파르페";
+"Morning Parfait_Ingredients" = "◆\t건포도 1/4 컵과 가늘게 갈은 오렌지껍질 1 tsp  \n\n◆\t바닐라 1 tsp \n\n◆\t지방을 줄인 뇌샤텔 치즈 크림 절반 (약 227g)  \n\n◆\t빵가루  \n\n◆\t신선한 산딸기, 블루베리, 딸기 썰은 것, 및/또는 자른 복숭아 2 컵  \n\n◆\t저지방 그래놀라 1/2 컵 \n\n◆\t꿀 \n\n◆\t갈은 오렌지껍질";
+"Morning Parfait_Instructions" = "빵가루와 치즈를 섞어 베이킹 접시에 뿌립니다. 오일을 뿌립니다. 20-25분정도 굽습니다. 유리컵 4개에 크림치즈 혼합물, 과일을 넣고 그래놀라를 넣습니다. 유리컵 높이만큼 반복해서 층을 만들어줍니다. 꿀을 뿌리고 오렌지껍질을 추가로 올립니다. 4인분을 만듭니다. 맛있게 드세요!";
+
+"Green Tea Kiwi and Mango_Title" = "녹차 키위 망고";
+"Green Tea Kiwi and Mango_Ingredients" = "◆\t냉동 망고 조각 2.5 컵 \n\n◆\t바닐라 요거트 3/4 컵 \n\n◆\t꿀 2 tbsp \n\n◆\t물 2 tbsp \n\n◆\t껍질 벗긴 키위 3개  \n\n◆\t얼음 2컵  \n\n◆\t어린 시금치 1/2 컵  \n\n◆\t병에 든 녹차 2 tbsp";
+"Green Tea Kiwi and Mango_Instructions" = "망고, 요거튼 1/2 컵, 꿀 2tbsp, 물 2tbsp, 껍질을 벗긴 라임을 믹서기에 넣고 갈아줍니다. 다음으로 요거트 1/4컵, 꿀 2tbsp, 키위를 믹서기에 넣고 갈아줍니다. 맛있게 드세요!";
+
+"Citrus Chicken Stir-Fry_Title" = "감귤류 닭볶음";
+"Citrus Chicken Stir-Fry_Ingredients" = "◆\t닭가슴살 140 g 작은 조각으로 \n\n◆\t브로콜리 34 g  \n\n◆\t어린 포토벨로 버섯 25 g  \n\n◆\t빨강 피망 1/4  \n\n◆\t빨강 양파 20 g  \n\n◆\t코코넛 오일 스프레이  \n\n◆\t깨소금  \n\n◆\t칡 녹말 1/4 tsp \n\n◆\t마늘 페이스트 1/8 tbsp  \n\n◆\t생강 페이스트 1/4 tsp";
+"Citrus Chicken Stir-Fry_Instructions" = "그릇에 볶음 소스용 재료를 모두 넣고 섞습니다. 팬에 코코넛 오일을 뿌리고 중불에 가열합니다. 닭을 넣고 약 85% 정도 익을 때까지 조리합니다. 야채를 넣고 주걱으로 젓습니다. 맛있게 드세요!";
+
+"Grilled Mexican Corn_Title" = "구운 멕시코 옥수수";
+"Grilled Mexican Corn_Ingredients" = "◆\t옥수수 4자루  \n\n◆\t사워크림 1.5 컵  \n\n◆\t간 파르메산 1컵  \n\n◆\t라임 1개, 주스 \n\n◆\t빨간고추가루 \n\n◆\t장식용 자른 라임 2조각 ";
+"Grilled Mexican Corn_Instructions" = "옥수수가 약간 타기 전에 뜨거운 그릴에서 돌리면서 구워줍니다. 작은 그릇에 마요네즈, 사워크림, 고수를 섞어줍니다. 옥수수에 라임을 짜서 뿌리고 파르메산을 곁들입니다. 고추 가루를 뿌려줍니다. 맛있게 드세요!";
+
+"Salmon Burger with Avocado_Title" = "아보카도 연어 버거";
+"Salmon Burger with Avocado_Ingredients" = "◆\t연어 플렛 454g  \n\n◆\t빵가루 1컵  \n\n◆\t달걀 1개  \n\n◆\t레몬 주스 1 tbsp  \n\n◆\t소금, 후추  \n\n◆\t올리브유  \n\n◆\t큰 아보카도 1개, 다진 것  \n\n◆\t다진 빨강 양파 1/3 컵  \n\n◆\t라임 1개 주스로";
+"Salmon Burger with Avocado_Instructions" = "연어 플렛을 작게 자르고 믹싱볼에 넣습니다. 다른 재료와 부드럽게 섞습니다. 5-10분 정도 둡니다. 큰 그릴 팬에 중불로 기름을 약간 넣고 예열합니다. 연어 반죽을 패티 모양으로 만들고 양면을 4분 정도씩 갈색이 되도록 굽습니다. 맛있게 드세요!";
+
+"Strawberry and Banana Nut Bread Oatmeal_Title" = "딸기 바나나 견과류 빵 오트밀";
+"Strawberry and Banana Nut Bread Oatmeal_Ingredients" = "◆\t조리된 오트 150 g \n\n◆\t바나나 1/2 개 으깬 것 \n\n◆\t딸기 50 g  \n\n◆\t아몬드 우유 2 tbsp  \n\n◆\t바닐라 추출물 1 tbsp  \n\n◆\t다진 호두 2 tbsp \n\n◆\t인더로우(In The Raw) 브랜드 스테비아 1팩 \n\n◆\t레몬 껍질 고명 \n\n◆\t그릭 요거트 (2% 지방) 1 tbsp \n\n◆\t다진 호두 1/2 tbsp  \n\n◆\t양귀비씨";
+"Strawberry and Banana Nut Bread Oatmeal_Instructions" = "조리법대로 오트를 조리하고 한쪽에 둡니다. 딸기만 제외하고 모든 재료를 그릇에 넣고 완전히 섞어줍니다. 자른 신선한 딸기와 오트밀을 올립니다. 그릭요거트, 다진 호두, 양귀비씨를 곁들입니다. 맛있게 드세요!";
+
+"Strawberry Banana_Title" = "딸기 바나나";
+"Strawberry Banana_Ingredients" = "◆\t딸기 2컵  \n\n◆\t껍질 벗긴 바나나 1개 \n\n◆\t우유 1컵 \n\n◆\t얼음 1조각  \n\n◆\t꿀 1 tbsp";
+"Strawberry Banana_Instructions" = "모든 재료를 믹서기에 넣고 잘 섞이도록 갈아줍니다. 스무디가 너무 걸쭉하면 우유를 조금 더 넣어주세요. 농도가 약할 경우, 과일 및/또는 얼음을 더 넣어주세요. 맛있게 드세요!";
+
+"Spicy & Light Kung Pao Chicken Meal Prep_Title" = "매콤한 쿵파오 치킨 ";
+"Spicy & Light Kung Pao Chicken Meal Prep_Ingredients" = "◆\t닭가슴살 150 g  \n\n◆\t마늘 1/6 조각  \n\n◆\t깍지완두 33 g  \n\n◆\t피망 150 g  \n\n◆\t물 2/3 tbsp  \n\n◆\t토마토 소스 1/3 tbsp  \n\n◆\t생강 1/6 tbsp  \n\n◆\t빨간 고추 소스 1/6 tbsp  \n\n◆\t쌀 식초 1/6 tbsp  \n\n◆\t다진 파";
+"Spicy & Light Kung Pao Chicken Meal Prep_Instructions" = "그릇에 소스용 재료를 담고 젓습니다. 중불에 올리브유를 뿌리고 예열합니다. 팬이 뜨거워지면, 마늘을 넣고 2분 정도 볶습니다. 자른 닭가슴살을 넣고 닭 표면이 갈색빛이 될 때까지 6-8분 정도 조리합니다. 자른 피망을 넣고 3분정도 볶습니다. 소스를 천천히 붓고 자주 저어줍니다. 맛있게 드세요!";
+
+"Lavender Mint Tea_Title" = "라벤더 민트 차";
+"Lavender Mint Tea_Ingredients" = "◆\t라벤더 꽃잎 1/4 컵  \n\n◆\t민트 잎 1 컵 \n\n◆\t물 4컵 ";
+"Lavender Mint Tea_Instructions" = "라벤더 꽃잎과 민트 잎을 냄비에 넣고 물을 부어 끓입니다. 불을 약하게 줄이고 향이 원하는 농도로 날 때까지 약 15-20분 정도 차를 우립니다. 맛있게 드세요!";
+
+"Foil Fish Packets with Spinach and Tomato_Title" = "시금치와 토마토를 곁들인 호일에 싼 생선";
+"Foil Fish Packets with Spinach and Tomato_Ingredients" = "◆\t아스파라거스 1묶음  \n\n◆\t토마토 2개 자른 것  \n\n◆\t틸라피아 필렛 2개 \n\n◆\t올리브유  \n\n◆\t칠리마늘소스 1/2 tsp  \n\n◆\t소금 \n\n◆\t레몬 1개 자른 것";
+"Foil Fish Packets with Spinach and Tomato_Instructions" = "오븐을 190°C로 예열합니다. 작은 그릇에 올리브유, 칠리소스, 소금을 섞습니다. 아스파라거스를 알리미늄 호일 중앙 아래에 놓고 그 위에 자른 토마토를 고르게 놓고 양념을 합니다. 생선 플렛을 토마토 위에 올리고 올리브유 양념장을 생선 위에 뿌립니다. 자른 레몬을 생선 위에 놓고 25-30분 정도 오븐에서 굽습니다. 맛있게 드세요!";
+
+
+

@@ -1,0 +1,179 @@
+//Plan names
+
+"%ld days plan" = "%ld 日プラン";
+
+//Other
+
+"Meal %ld" = "%ld 食";
+"Day %ld" = "%ld 日目";
+
+"Ingredients" = "原材料";
+"Steps" = "ステップ";
+
+//Days
+//Day 1
+"Healthy recipes that are awesome to prepare and try out" = "絶対に見逃せないヘルシーなレシピ";
+"To keep your metabolism running strong, you must eat your first meal within 1 hour of rising." = "代謝を高めるために、起床後1時間以内に最初の食事をとってください。";
+//Day 2
+"Good nutrition is the foundation of good health" = "良い栄養が、健康を作ります。";
+"The solution is to eat within 1 hour of waking up so that you move your metabolism." = "解決策は、代謝を高めるために、起床後1時間以内に最初の食事をとることです。";
+//Day 3
+"Plan ahead to eat breakfast" = "朝食を食べるために、前もって計画しておきましょう。";
+"To the highest fat burning speed breakfast is so important to your weight-loss success." = "脂肪を最も素早く燃焼させ、ダイエットを成功させるためには、朝食が非常に重要です。";
+//Day 4
+"Carbs supply the body with energy" = "炭水化物は体のエネルギーになります。";
+"Studies show that 5 meals a day are important in maintaining a healthy body weight." = "1日5食食べることが、健康と体重を維持するのに重要であることが、研究で明らかになっています。";
+//Day 5
+"Protein is essential for growth and development" = "タンパク質は成長と発育に不可欠です";
+"Nutrition plays a key role in maintaining a healthy lifestyle." = "栄養は、健康な毎日を送るための重要な役割を果たします。";
+//Day 6
+"You are what you eat" = "あなたの身体は、あなたが食べた物";
+"Is literally true, if you want your body to perform at a peak level." = "身体のパフォーマンスを最大限にしたければ、それは文字通り真実です。";
+//Day 7
+"Controlling portion size use smaller plates" = "食べる量を制限するためには、小さいお皿を使いましょう";
+"Eliminate emotional eating by healing your hungry heart." = "空腹の心を癒し、衝動食いをやめましょう。";
+
+//Content: Title, Ingridients, Instructions
+
+"Strawberries and Creme Oatmeal_Title" = "イチゴとクリームのオートミール";
+"Strawberries and Creme Oatmeal_Ingredients" = "◆\t押しオーツ麦 ½カップ \n\n◆\tスキムミルク ⅓カップ \n\n◆\tギリシャヨーグルト（バニラ） ⅓カップ \n\n◆\tイチゴ（スライス）½カップ \n\n◆\tギリシャヨーグルト（バニラ・無脂肪） 大さじ２杯 \n\n◆\tローストアーモンド 大さじ１";
+"Strawberries and Creme Oatmeal_Instructions" = "前日の夜に、オーツ麦・スキムミルク・ヨーグルト（⅓カップ）をボウルなどの容器に入れて、しっかりと混ぜます。ふたをして、冷蔵庫で一晩冷やします。以上です。どうぞめしあがれ！";
+
+"Golden Glow Elixir_Title" = "ゴールデングロウ・エリクサー";
+"Golden Glow Elixir_Ingredients" = "◆\tりんご 2個 \n\n◆\tオレンジ（中、皮をむいたもの） 4つ  \n\n◆\tレモン（皮をむいたもの） 1つ \n\n◆\tしょうが（生、皮をむいたもの） 5～8cm分 \n\n◆\tターメリック（生、皮をむいたもの） 5cm分 \n\n◆\t冷水 2カップ \n\n◆\t氷 1つかみ";
+"Golden Glow Elixir_Instructions" = "高速ブレンダーに全ての材料を入れ、滑らかになるまで混ぜ、必要に応じてさらに水を足します。きちんとした高出力のブレンダーであれば、滑らかなジュースになります。さらに滑らかにしたい場合には、材料に含まれる繊維を取り除いておくこともできますが、ジューサーで絞る方法もあります。以上です。どうぞめしあがれ！";
+
+"Tso’s Chicken Stir Fry_Title" = "ツォ将軍のチキンの炒め物 ";
+"Tso’s Chicken Stir Fry_Ingredients" = "◆\t鶏むね肉（さいの目切り） ４枚分  \n\n◆\t小麦粉 1カップ \n\n◆\t植物油 \n\n◆\t塩 \n\n◆\t挽きたての黒こしょう \n\n◆\tにんにく（みじん切り） 2片分 \n\n◆\tチキンスープ ½缶 \n\n◆\tはちみつ 大さじ3 \n\n◆\t醤油 大さじ4  \n\n◆\tライムジュース 大さじ2 \n\n◆\tブロッコリー（房のみ） 2缶  \n\n◆\t白米（調理済み） 2缶（盛り付け用）";
+"Tso’s Chicken Stir Fry_Instructions" = "大きなボウルの中で、鶏肉にコーンスターチを軽くまぶします。その後、小麦粉が入った大きなボウルに鶏肉を移して、軽くまぶして、横に置いておきます。大きくて深めのフライパンに½カップの植物油を入れ、中～強火にかけます。鶏肉に味付けをし、水気を切って、横に置いておきます。大さじ２杯のコーンスターチを加えて、混ぜ合わせます。ソースにブロッコリーと人参を加え、柔らかくなるまで５分間加熱します。以上です。どうぞめしあがれ！";
+
+"Herbal Tea_Title" = "ハーブティー ";
+"Herbal Tea_Ingredients" = "◆\t水 1カップ \n\n◆\t生おろししょうが 小さじ1 \n\n◆\tおろしたレモンの皮 小さじ1  \n\n◆\tライムジュース 小さじ1 \n\n◆\t生ミントの葉 3枚 ";
+"Herbal Tea_Instructions" = "やかんの中でお湯を沸かし、残りの材料を入れて混ぜます。お茶が抽出されるまで加熱しながら混ぜましょう。以上です。どうぞめしあがれ！";
+
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Title" = "鶏もも肉のレモンディジョングリルとルッコラのサラダ";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Ingredients" = "◆\t鳥もも肉（皮・骨なし） 4枚 \n\n◆\t塩 小さじ½ \n\n◆\tあらびき黒こしょう 小さじ¼ \n\n◆\tオリーブオイル 大さじ2.5 \n\n◆\tレモン汁 小さじ2 \n\n◆\tにんにく（みじん切り） 小さじ1 \n\n◆\tクッキングスプレー \n\n◆\tバルサミコ酢 大さじ1  \n\n◆\tはちみつ 小さじ1 \n\n◆\tグレープトマト（半分にカット） 1カップ \n\n◆\tベイビールッコラ 1パック (5 oz.)";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Instructions" = "鶏肉に塩小さじ¼杯、こしょう小さじ⅛杯をふります。鶏肉と小さじ1-1.5杯の油、レモン汁、マスタード、にんにくをボウルで合わせ、混ぜ合わせて、4分間置いておきます。グリルパンを中火で温めます。グリルパンにクッキングスプレーを吹きかけます。鶏肉をグリルパンに乗せ、両面を、または火が通るまで、グリルで5分間焼きます。鶏肉を6mmの厚さにスライスします。以上です。どうぞめしあがれ！";
+
+"Cottage Berry Crunch_Title" = "カッテージ·ベリー·クランチ";
+"Cottage Berry Crunch_Ingredients" = "◆\t２％低脂肪カッテージチーズ ½カップ\n\n◆\tグラノーラ 大さじ2\n\n◆\tスライスバナナ ½カップ \n\n◆\tミックスベリー ½カップ";
+"Cottage Berry Crunch_Instructions" = "小さいボウルにカッテージチーズをすくい入れます。残りの材料をその上に盛りつけます。以上です。どうぞめしあがれ！";
+
+"Pineapple Kiwi_Title" = "パイナップル・キウイi";
+"Pineapple Kiwi_Ingredients" = "◆\t水 大さじ4 \n\n◆\t牛乳 ½カップ \n\n◆\tヨーグルト ½カップ \n\n◆\tはちみつ 大さじ1.5 \n\n◆\tキウイ（皮をむいたもの） 1つ \n\n◆\tパイナップル（カットしたもの） 1カップ \n\n◆\tマンゴ ½個 \n\n◆\tアイスキューブ 2カップ";
+"Pineapple Kiwi_Instructions" = "濃厚で滑らかになるまで、全ての材料を低速でブレンダーにかけます。以上です。どうぞめしあがれ！";
+
+"Lemon Chicken Skillet_Title" = "鶏肉のレモン焼き";
+"Lemon Chicken Skillet_Ingredients" = "◆\t鶏むね肉 4枚  \n\n◆\tバター ¼カップ  \n\n◆\tオリーブオイル 大さじ2  \n\n◆\tレモン 1個  \n\n◆\tレモンスライス 1枚  \n\n◆\t白ワイン ¼カップ  \n\n◆\t塩 小さじ1  \n\n◆\tあらびき黒こしょう 小さじ1  \n\n◆\tパプリカパウダー 小さじ½  \n\n◆\t乾燥パセリ 小さじ½ ";
+"Lemon Chicken Skillet_Instructions" = "小麦粉、塩、こしょう、パプリカ、パセリを浅いボウルで混ぜ合わせます。油とバターを中～強火で温めます。鶏むね肉に混ぜた小麦粉をまぶし、熱いフライパンに入れます。レモン汁、白ワイン、レモンの皮、ローズマリーをフライパンに加えます。両側に火が通るまで鶏肉を焼きます。以上です。どうぞめしあがれ！";
+
+"Zucchini Quinoa Cookies_Title" = "ズッキーニとキノアのクッキー";
+"Zucchini Quinoa Cookies_Ingredients" = "◆\tピーナッツバター（クリーミータイプ） ½カップ \n\n◆\tはちみつ ¼カップ \n\n◆\tバナナ 1本  \n\n◆\t卵 1個  \n\n◆\tバニラエキス 小さじ1  \n\n◆\t押しオーツ麦 ½カップ  \n\n◆\tキノアフレーク ½カップ  \n\n◆\tシナモン 小さじ1  \n\n◆\t塩 小さじ¼  \n\n◆\tすりおろしたズッキーニ（水切り後） 1カップ ";
+"Zucchini Quinoa Cookies_Instructions" = "オーブンを175℃にあらかじめ温めて置きます。ピーナッツバター、はちみつ、バナナ、卵、バニラを大きなボウルに入れ、混ぜ合わせます。オーツ麦、キノアフレーク、ベーキングパウダー、スパイス、塩をボウルに入れ、混ぜ合わせます。すりおろしたズッキーニとチアシードを加えます。生地をすくって、ベーキングパンの上に置いていきます。縁が金色～茶色になるまで、真ん中の段で15～18分クッキーを焼きます。以上です。どうぞめしあがれ！";
+
+"Savory Shrimp with Fresh Herbs_Title" = "エビとフレッシュハーブのソテー";
+"Savory Shrimp with Fresh Herbs_Ingredients" = "◆\tエビ（大） 450g \n\n◆\t赤唐辛子 2本  \n\n◆\tニラ（細切り） 1本  \n\n◆\tケーパー（水洗い・水切りしたもの） 大さじ0.5-1 \n\n◆\tニンニク（薄切り） 2片分  \n\n◆\tパセリ（粗みじん切り） ½カップ  \n\n◆\tレモン汁 大さじ3 \n\n◆\tオリーブオイル 大さじ2";
+"Savory Shrimp with Fresh Herbs_Instructions" = "フライパンを中火にかけ、油を入れます。エビ、こしょう、ニラ、ケーパー、ニンニク、塩、こしょうを入れ、エビが赤くなるまで４分間炒めます。その後、火から下ろします。レモン汁を加え、フライパンの底をスプーンでこそぎ落とします。エビを盛り付けて、上から生のパセリとバジルをふりかけます。以上です。どうぞめしあがれ！";
+
+"Flaxseed Oatmeal with Blueberries_Title" = "ブルーベリー入りフラックスシードのオートミール";
+"Flaxseed Oatmeal with Blueberries_Ingredients" = "◆\t水 3カップ  \n\n◆\t押しオーツ麦 2カップ  \n\n◆\tフラックスシードパウダー 大さじ3   \n\n◆\t塩 小さじ⅛  \n\n◆\t牛乳（全乳） ¼カップ  \n\n◆\tブルーベリー 1カップ  \n\n◆\tブルーベリー・プリザーブ 大さじ1 \n\n◆\tすりおろしたレモンの皮 小さじ½  \n\n◆\tレモン汁 大さじ1";
+"Flaxseed Oatmeal with Blueberries_Instructions" = "3カップの水を沸騰させます。オーツ麦を混ぜ入れ、フラックスシードと塩を加えます。火を中火～弱火に弱め、柔らかくなるまでよく混ぜながら加熱します。牛乳とバターを混ぜ入れます。その間に、ブルーベリー以下4つの材料を電子レンジ対応容器に入れ、30秒ごとにかき混ぜながら、高出力で1分30秒電子レンジにかけます。オートミールを４つの容器に分けます。ブルーベリーとピーカンナッツを上に盛りつけましょう。以上です。どうぞめしあがれ！";
+
+"Coconut Milk Smoothie With Blueberries_Title" = "ブルーベリー入りココナッツミルクスムージー";
+"Coconut Milk Smoothie With Blueberries_Ingredients" = "◆\t冷凍ブルーベリー 1袋（300g） \n\n◆\tバナナ（熟したもの） 3本 \n\n◆\tプレーンヨーグルト 1カップ  \n\n◆\tココナッツミルク（無糖） 1カップ  \n\n◆\tはちみつ 大さじ2";
+"Coconut Milk Smoothie With Blueberries_Instructions" = "ブレンダーで、ブルーベリー、バナナ、ヨーグルト、ココナッツミルク、ハチミツを滑らかになるまで混ぜ合わせます。以上です。どうぞめしあがれ！";
+
+"Chicken and Asparagus Stir-Fry_Title" = "鶏肉とアスパラガスの炒め物 ";
+"Chicken and Asparagus Stir-Fry_Ingredients" = "◆\t醤油 大さじ1  \n\n◆\tはちみつ 大さじ1  \n\n◆\t鶏むね肉（細切れ） 2枚分  \n\n◆\tオリーブオイル 大さじ1  \n\n◆\tアスパラガス（カット） 1束分 \n\n◆\tにんにく（薄切り） 4片分  \n\n◆\t炒りごま油 小さじ2 ";
+"Chicken and Asparagus Stir-Fry_Instructions" = "ジップロックの袋の中で、醤油とはちみつを合わせます。鶏肉を入れて、からめるように混ぜ合わせます。準備ができるまで、冷蔵庫に入れておきます。その間に、大きなフライパンに油を入れて、中火で加熱します。アスパラガスを取り出して、横に置いておきます。鶏肉を袋から取り出して、フライパンに入れます。その後、にんにく、小ねぎ、鶏肉の漬け汁をフライパンに入れます。火から下ろし、ごま油をからめます。以上です。どうぞめしあがれ！";
+
+"Lavender Mint Tea_Title" = "ラベンダーミントティー ";
+"Lavender Mint Tea_Ingredients" = "◆\t新鮮なラベンダーの花びら ¼カップ \n\n◆\t新鮮なミントの葉 1カップ \n\n◆\t水 4カップ ";
+"Lavender Mint Tea_Instructions" = "ラベンダーの花びらとミントの葉をソースパンに入れ、水を上から雪、沸騰させます。弱火にして、お好みの強さの香りになるまで、15分～20分間煮出します。以上です。どうぞめしあがれ！";
+
+"Chili Fajitas_Title" = "チリ・ファヒータ ";
+"Chili Fajitas_Ingredients" = "◆\t鶏むね肉（皮なし） 450g \n\n◆\tピーマン（緑・赤・黄色、薄切り） ½個  \n\n◆\t水 ⅓カップ \n\n◆\tしょうゆ 小さじ2 \n\n◆\t砕いた塩 1  \n\n◆\t砕いた黒こしょう 1 \n\n◆\tオリーブオイル 大さじ2 \n\n◆\t玉ねぎ（大・薄切り） 1つ ";
+"Chili Fajitas_Instructions" = "鶏肉を漬けるための全ての材料を１つの容器に合わせて、最低2時間冷蔵庫で冷やします。容器から鶏肉を取り出して、両面を4～５分ずつ中火で焼きます。その後、鶏肉を細切りにします。ソースとして、水大さじ２杯、しょうゆ小さじ１杯、ライムジュース小さじ¼杯、砕いた塩、砕いた黒こしょう、オリーブオイル大さじ１杯を混ぜ合わせます。以上です。どうぞめしあがれ！";
+
+"Healthy Fruity Oatmeal_Title" = "ヘルシー・フルーティー・オートミール";
+"Healthy Fruity Oatmeal_Ingredients" = "◆\tオーツ麦 ½カップ \n\n◆\t水 1カップ \n\n◆\tはちみつ 大さじ1  \n\n◆\tバニラエキス 大さじ1  \n\n◆\tシナモン粉末 小さじ½  \n\n◆\tブルーベリー ¼カップ  \n\n◆\tいちごスライス 4枚 \n\n◆\tバナナスライス ½本分";
+"Healthy Fruity Oatmeal_Instructions" = "水とオーツ麦を電子レンジ対応容器で混ぜ合わせます。オーツ麦が水を吸収するまで、高出力で電子レンジにかけます。はちみつ、バニラエキス、シナモン粉末を混ぜ入れます。ブルーベリーを加え、バナナといちごのスライスを上に盛りつけましょう。以上です。どうぞめしあがれ！";
+
+"Coffee Smoothie_Title" = "コーヒースムージー ";
+"Coffee Smoothie_Ingredients" = "◆\tインスタントコーヒー粉末 （エスプレッソ） 小さじ1 \n\n◆\t熱湯 大さじ1  \n\n◆\tバナナ（小、むいて切って冷凍したもの） 1本  \n\n◆\t無脂肪乳 ¼カップ  \n\n◆\tはちみつ 大さじ1 \n\n◆\tアイスキューブ ½カップ \n\n◆\t シナモン粉末 ";
+"Coffee Smoothie_Instructions" = "ブレンダーの中で、エスプレッソのコーヒー粉末と熱湯を混ぜ、１分間そのままにします。その後、バナナ、無脂肪乳、はちみつを加えます。ふたをして、滑らかになるまで回します。少しずつ氷を加え、お好みの質感になるまで回します。シナモンを軽くふってお飲みください。以上です。どうぞめしあがれ！";
+
+"Chicken & Pineapple Stir-Fry_Title" = "鶏肉とパイナップルの炒め物";
+"Chicken & Pineapple Stir-Fry_Ingredients" = "◆\t鶏むね肉 110g \n\n◆\tパイナップル 40g \n\n◆\t玄米 120g \n\n◆\tオリーブオイル 大さじ⅓  \n\n◆\tブラウンマスタード 小さじ½  \n\n◆\tスモークパプリカ 大さじ⅙  \n\n◆\t海塩 \n\n◆\tこしょう";
+"Chicken & Pineapple Stir-Fry_Instructions" = "生の鶏むね肉を小さく切ります。鶏肉をスモークパプリカとブラウンマスタードで味付けします。オリーブオイルをフライパンに加え、その後、鶏肉を入れます。鶏肉に約80％火が通るまで、約4分間加熱し、その後切ったピーマンを加えます。さらに2、3分加熱してから、さいの目切りにしたパイナップルを加えます。以上です。どうぞめしあがれ！";
+
+"Raw Chocolate Truffles_Title" = "生チョコトリュフ ";
+"Raw Chocolate Truffles_Ingredients" = "◆\tクルミ、カシューナッツ、アーモンド（１晩水につけたもの） ½カップ \n\n◆\tアーモンドミルク 大さじ3-4 \n\n◆\tヒマワリの種 ¼カップ \n\n◆\tかぼちゃの種 ¼カップ \n\n◆\tキャロブパウダー 大さじ2 \n\n◆\tココナッツフレーク 大さじ3";
+"Raw Chocolate Truffles_Instructions" = "ココナッツフレーク以外を全てブレンダーに入れ、混ぜ合わせます。アイスクリーム用スプーンで混ぜたものを小さいボールにしていきます。各キャンディをココナッツフレークの上で転がします。冷たくして食べます。以上です。どうぞめしあがれ！";
+
+"Baked Salmon with Veggies_Title" = "ベイクドサーモンと野菜 ";
+"Baked Salmon with Veggies_Ingredients" = "◆\t鮭の切り身 2枚 \n\n◆\tズッキーニ（カット） 1カップ \n\n◆\tブロッコリー １カップ \n\n◆\tチェリートマト ½カップ \n\n◆\t塩 \n\n◆\tこしょう  \n\n◆\tオリーブオイル";
+"Baked Salmon with Veggies_Instructions" = "オーブンを190℃にあらかじめ温めておきます。野菜を大きなシートパンで合わせます。野菜に塩、こしょう、オリーブオイルで味付けをします。鮭の切り身を野菜の横に置き、18～20分、または鮭に火が通り野菜が柔らかくなるまで、焼きます。以上です。どうぞめしあがれ！";
+
+"Banana Nut Oatmeal_Title" = "バナナとナッツのオートミール";
+"Banana Nut Oatmeal_Ingredients" = "◆\t押しオーツ麦 ½カップ  \n\n◆\t水 1カップ  \n\n◆\tバナナスライス 1枚 \n\n◆\tクルミ（砕いたもの） 大さじ1  \n\n◆\tシナモン粉末 小さじ1";
+"Banana Nut Oatmeal_Instructions" = "オーツ麦と1カップの水を電子レンジ対応容器で混ぜ合わせます。 高出力で３分間電子レンジにかけます。バナナスライス、クルミ、シナモンを上に盛り付けましょう。以上です。どうぞめしあがれ！";
+
+"Pink Power_Title" = "ピンクパワー";
+"Pink Power_Ingredients" = "◆\tカリフラワー（小・生・房部分）1.5カップ  \n\n◆\tスイカ（角切り・種と皮は取り除く） 2カップ  \n\n◆\tいちご（カットせず） 1.5カップ \n\n◆\tギリシャヨーグルト（ストロベリー） 1パック \n\n◆\tストロベリープリザーブ 大さじ2（オプション） ";
+"Pink Power_Instructions" = "小さいソースパンでカリフラワーを調理します。熱湯に入れて蓋をして、とても柔らかくなるまで茹でます。ブランダーで、調理したカリフラワー、スイカ、いちご、ヨーグルト、そしてお好みでストロベリープリザーブを加えます。以上です。どうぞめしあがれ！";
+
+"BBQ Chicken-Wrapped Asparagus_Title" = "アスパラのバーベキューチキン巻き";
+"BBQ Chicken-Wrapped Asparagus_Ingredients" = "◆\t鶏むね肉（細切り） 2枚（各85g）  \n\n◆\tアスパラガス 12本  \n\n◆\tバーベキューソース 大さじ2 \n\n◆\tスモークパプリカ 1つまみ \n\n◆\tガーリックパウダー 1つまみ  \n\n◆\tこしょう 1つまみ";
+"BBQ Chicken-Wrapped Asparagus_Instructions" = "オーブンを200°Cに設定します。鶏肉はハンマーで平らにします。鶏の切り身を大さじ１杯（１枚あたり）のバーベキューソースとお好みの香辛料で味付けします。鶏肉を開いている側を下に向けてグリルに乗せます。8～10分間オーブンで焼くか、グリルでスモークします。以上です。どうぞめしあがれ！";
+
+"Ginger Turmeric Herbal Tea_Title" = "しょうがとターメリックのハーブティー";
+"Ginger Turmeric Herbal Tea_Ingredients" = "◆\t水 2カップ  \n\n◆\t生しょうが（みじん切り） 小さじ½  \n\n◆\tシナモン粉末 小さじ½ \n\n◆\tはちみつ 大さじ1 \n\n◆\tレモン（くし形）1切れ";
+"Ginger Turmeric Herbal Tea_Instructions" = "小さいソースパンで水を沸騰させ、ターメリック、しょうが、シナモンを加えます。弱火にして、10分間煮出します。お茶を大きなグラスに注ぎ、はちみつとレモンを加えます。以上です。どうぞめしあがれ！";
+
+"Grilled Shrimp & Avocado Kabobs_Title" = "エビのグリルとアボカドのケバブ ";
+"Grilled Shrimp & Avocado Kabobs_Ingredients" = "◆\tエビ（大） 450 g \n\n◆\tアボカド 1.5個 \n\n◆\t赤ピーマン 1個 \n\n◆\tオレンジピーマン 1個 \n\n◆\t黄色ピーマン 1個 \n\n◆\t赤玉ねぎ 1個 \n\n◆\tガーリックペースト 小さじ1  \n\n◆\tエクストラバージンオリーブオイル 大さじ½  \n\n◆\tライム 1個  \n\n◆\t塩、こしょう ";
+"Grilled Shrimp & Avocado Kabobs_Instructions" = "グリルを約200°Cに設定します。野菜やアボカドはケバブ用に大きめに切ります。エビをむき、味付けをします。繊維質の野菜を選ぶと、お腹にたまる上に、強い火に当たってもケバブの棒から落ちづらいので良いでしょう。ケバブをグリルに乗せ、約8～10分焼き、ひっくり返してさらに8～10分焼きます。以上です。どうぞめしあがれ！";
+
+"Morning Parfait_Title" = "モーニング・パフェ";
+"Morning Parfait_Ingredients" = "◆\tレーズン ¼カップと細かく刻んだオレンジピール 小さじ１  \n\n◆\tバニラ 小さじ1 \n\n◆\t低脂肪クリームのヌシャテル・チーズ ½パック（約225g） \n\n◆\tパンくず  \n\n◆\t新鮮なラズベリー、ブルーベリー、いちごのスライス、またはカットした桃 2カップ  \n\n◆\t低脂肪グラノーラ ½カップ \n\n◆\tハチミツ \n\n◆\t切り刻んだオレンジピール";
+"Morning Parfait_Instructions" = "パンくずとチーズを混ぜ、ベーキング用皿の上に広げます。油をふりかけます。20～25分オーブンで焼きます。4つのガラス容器にクリームチーズの入った層、フルーツの層、グラノーラの層を入れていき、容器の上に来るまで繰り返します。ハチミツをたらし、オレンジピールを上からも盛り付けます。これで４人分作ることができます。以上です。どうぞめしあがれ！";
+
+"Green Tea Kiwi and Mango_Title" = "緑茶・キウイ・マンゴー";
+"Green Tea Kiwi and Mango_Ingredients" = "◆\t冷凍マンゴー（カット） 2.5カップ \n\n◆\tバニラヨーグルト ¾カップ \n\n◆\tはちみつ 大さじ2 \n\n◆\t水 大さじ2 \n\n◆\tキウイ（熟したもの） 3個 \n\n◆\tアイスキューブ 2カップ \n\n◆\tベビースピナッチ ½カップ \n\n◆\tボトル入りの緑茶 大さじ2 ";
+"Green Tea Kiwi and Mango_Instructions" = "マンゴー、ヨーグルト½カップ、はちみつ大さじ２杯、水、ライムの皮をブレンダーに入れ、滑らかになるまで回します。¼カップのヨーグルト、はちみつ大さじ２杯、キウイ、残り3つの材料をブレンダーに入れ、滑らかになるまで回します。以上です。どうぞめしあがれ！";
+
+"Citrus Chicken Stir-Fry_Title" = "柑橘系と鶏肉の炒め物";
+"Citrus Chicken Stir-Fry_Ingredients" = "◆\t鶏むね肉（細切れ） 140g \n\n◆\tブロッコリー 34g  \n\n◆\tマッシュルーム（小） 25 g  \n\n◆\t赤ピーマン ¼個 \n\n◆\t赤玉ねぎ 20g \n\n◆\tココナッツオイルスプレー \n\n◆\tごま  \n\n◆\tアロールート澱粉 小さじ¼ \n\n◆\tガーリックペースト 大さじ⅛ \n\n◆\tしょうがペースト 小さじ¼";
+"Citrus Chicken Stir-Fry_Instructions" = "ボウルの中で、ソース用の材料を全て混ぜ合わせます。ココナッツオイルをフライパンに吹き付け、中火にかけます。鶏肉を入れ、85％ほど火が通るまで炒めます。その後で、野菜を加え、ヘラで混ぜ合わせます。以上です。どうぞめしあがれ！";
+
+"Grilled Mexican Corn_Title" = "メキシカンコーンのグリル ";
+"Grilled Mexican Corn_Ingredients" = "◆\tとうもろこし 4本 \n\n◆\tサワークリーム 1.5カップ  \n\n◆\tパルメザンチーズ（削ったもの） 1カップ  \n\n◆\tライムジュース １つ分 \n\n◆\t赤いチリパウダー \n\n◆\tライム（くし形） ２切れ（風味づけ）";
+"Grilled Mexican Corn_Instructions" = "とうもろこしは、少し焦げ始めるまで熱くしたグリルで焼きます。小さいボウルで、マヨネーズ、サワークリーム、コリアンダーを混ぜます。ライムジュースをとうもろこしの上で絞り、パルメザンチーズで味付けします。チリパウダーはその上から振りかけます。以上です。どうぞめしあがれ！";
+
+"Salmon Burger with Avocado_Title" = "アボガド入りサーモンバーガー ";
+"Salmon Burger with Avocado_Ingredients" = "◆\t鮭の切り身 450g \n\n◆\tパンくず 1カップ  \n\n◆\t卵 1つ  \n\n◆\tレモン汁 大さじ1  \n\n◆\t塩とこしょう  \n\n◆\tオリーブオイル \n\n◆\tアボカド（大、小さく切ったもの） 1個 \n\n◆\t赤玉ねぎ ⅓カップ  \n\n◆\tライムジュース 1個分 ";
+"Salmon Burger with Avocado_Instructions" = "鮭の切り身を小さく切り、混ぜるためのボウルに移します。残りの材料を入れて、優しく混ぜます。混ぜたものは5～10分置いておきます。大きなグリルパンを中火にかけ、少量の油を熱します。鮭を混ぜたものできれいなパティを作ります。きつね色になるまで、片面あたり約4分間、パティの両側を焼きます。以上です。どうぞめしあがれ！";
+
+"Strawberry and Banana Nut Bread Oatmeal_Title" = "いちごを加えたバナナナッツブレッド風オートミール";
+"Strawberry and Banana Nut Bread Oatmeal_Ingredients" = "◆\t調理済押しオーツ麦 150g \n\n◆\tつぶしたバナナ ½本分 \n\n◆\tいちご 50g \n\n◆\tアーモンドミルク 大さじ2 \n\n◆\tバニラエキス 大さじ1 \n\n◆\t砕いたクルミ 大さじ2 \n\n◆\tIn The Rawブランドのステビア １パック  \n\n◆\tレモンの皮 風味づけに少々  \n\n◆\tギリシャヨーグルト（脂肪分２％） 大さじ1 \n\n◆\t砕いたクルミ 大さじ½ \n\n◆\tポピーシード";
+"Strawberry and Banana Nut Bread Oatmeal_Instructions" = "説明通りに押しオーツ麦を調理し、横に置いておきます。いちご以外の材料をすべてボウルに加え、よく混ぜます。オートミールの上にカットした生のいちごを乗せます。ギリシャヨーグルト、砕いたクルミ、ポピーシードを盛り付けましょう。以上です。どうぞめしあがれ！";
+
+"Strawberry Banana_Title" = "ストロベリー・バナナ";
+"Strawberry Banana_Ingredients" = "◆\tいちご 2カップ  \n\n◆\tむいたばかりのバナナ 1本 \n\n◆\t牛乳 1カップ \n\n◆\tキューブアイス 1カップ \n\n◆\tはちみつ 大さじ1";
+"Strawberry Banana_Instructions" = "すべての材料をブレンダーに入れ、よく混ざるまで回します。スムージーが濃すぎる場合には、ミルクを足しましょう。薄すぎる場合には、フルーツや氷を足しましょう。以上です。どうぞめしあがれ！";
+
+"Spicy & Light Kung Pao Chicken Meal Prep_Title" = "スパイシーで食べやすい鶏肉とピーナッツの炒め物";
+"Spicy & Light Kung Pao Chicken Meal Prep_Ingredients" = "◆\t鶏むね肉 150g \n\n◆\tにんにく ⅙片 \n\n◆\tえんどう豆 33g \n\n◆\tピーマン 150g \n\n◆\t水 大さじ⅔ \n\n◆\tトマトソース 大さじ⅓  \n\n◆\t生しょうが 大さじ⅙  \n\n◆\t赤唐辛子ソース 大さじ⅙ \n\n◆\t米酢 大さじ⅙ \n\n◆\t緑のねぎ（小口切り）";
+"Spicy & Light Kung Pao Chicken Meal Prep_Instructions" = "ソース用の材料をすべてボウルに入れ、混ぜ合わせます。フライパンを中火にかけ、オリーブオイルを吹きかけます。フライパンが熱くなったら、にんにくを入れ、約2分間軽く炒めます。次に、細かく切った鶏むね肉を入れます。外側に色がつくまで、約6～８分炒めます。さらに、切ったピーマンを入れ、約3分軽く炒めます。ソースをゆっくりと入れ、よくかきまぜます。以上です。どうぞめしあがれ！";
+
+"Lavender Mint Tea_Title" = "ラベンダーミントティー ";
+"Lavender Mint Tea_Ingredients" = "◆\t新鮮なラベンダーの花びら ¼カップ \n\n◆\t新鮮なミントの葉 1カップ \n\n◆\t水 4カップ ";
+"Lavender Mint Tea_Instructions" = "ラベンダーの花びらとミントの葉をソースパンに入れ、水を上から雪、沸騰させます。弱火にして、お好みの強さの香りになるまで、15分～20分間煮出します。以上です。どうぞめしあがれ！";
+
+"Foil Fish Packets with Spinach and Tomato_Title" = "魚のホイル焼きとほうれん草とトマト";
+"Foil Fish Packets with Spinach and Tomato_Ingredients" = "◆\tアスパラガス 1束 \n\n◆\tトマト（スライス） 2個  \n\n◆\tティラピアの切り身 2枚 \n\n◆\tオリーブオイル \n\n◆\tチリガーリックソース 小さじ½  \n\n◆\t塩 \n\n◆\tレモン（スライス） 1個";
+"Foil Fish Packets with Spinach and Tomato_Instructions" = "オーブンを190℃にあらかじめ温めておきます。小さなボウルで、オリーブオイル、チリソース、塩を混ぜ合わせます。アルミホイルの真ん中にアスパラガスを置き、スライスしたトマトをその上に均一に乗せ、味付けをします。包装ごとに魚の切り身をトマトの上に１枚乗せ、魚の上に混ぜたオリーブオイルを塗り広げます。レモンスライスを魚の上に並べます。そして、オーブンで魚を25～30分焼きます。以上です。どうぞめしあがれ！";
+
+
+

@@ -1,0 +1,900 @@
+/*
+ Localizable.strings
+ Yoga
+ 
+ Created by Alex Overseer on 4/4/16.
+ Copyright © 2016 SOFTINTERCOM. All rights reserved.
+ */
+
+//Intro
+
+"Choose Your Goals" = "Elige tus objetivos";
+"Increase Flexibility" = "Incrementar la flexibilidad";
+"Get Toned" = "Tonificar";
+"Lose Weight" = "Perder peso";
+"Reduce Stress" = "Reducir el estrés";
+"Continue" = "Continuar";
+"Yearly" = "Аnual";
+
+"Enter Your Parameters" = "Introduce tus parámetros";
+"Height" = "Altura";
+"Current weight" = "Peso actual";
+"Target weight" = "Peso objetivo";
+"Pick Your Height" = "Selecciona tu altura";
+"Pick Your Weight" = "Selecciona tu peso";
+"Pick Your Target Weight" = "Selecciona tu peso objetivo";
+"lbs" = "lbs";
+"kg" = "kg";
+"ft, in" = "ft, in"; //feet, inch
+"cm" = "cm"; //centimeter
+"Save" = "Guardar";
+
+"Join Millions\nof happy users" = "Únete a millones \nde usuarios satisfechos";
+"No Annoying Ads" = "Sin anuncios molestos";
+"Not sure yet?" = "¿Todavía no estás seguro?";
+"Enable free trial" = "Activa el periodo de prueba gratis";
+"Discount %d%%" = "Descuento del %d%%"; //example Discount 60%
+"Just Now! Limited Offer!" = "¡Solo ahora! ¡Oferta limitada!";
+"Join with our best offer" = "Únete con nuestra mejor oferta";
+"Weekly plan" = "Plan semanal";
+"Monthly plan" = "Plan mensual";
+
+"Not now" = "Ahora no";
+"Save %d%%" = "Ahorra un %d%%"; //Example: Save 60%
+"year\nBilled annually" = "año\nFactura anual"; //Example: $99.99/year\nBilled annually
+"after free 7-day\ntrial period" = "tras un período de prueba\nde 7 días gratis";
+"healthAppPermisionKey" = "La aplicación no permite escribir datos en la App de Salud. Puedes activarlo en la App de Salud";
+"Open" = "Abierto";
+
+
+//Presentation
+
+"Balance Flexibility" = "Equilibrio Flexibilidad";
+"100+ Poses" = "Más de 100 poses";
+"19 Classes" = "19 clases";
+"Tons of Classes" = "Montones de clases";
+"Anywhere Anytime" = "En cualquier momento y en cualquier lugar";
+"Nutrition Plans" = "Planes de nutrición";
+
+
+
+
+//Buttons keys
+"backButtonKey" = " Atrás";
+"doneButtonKey" = "Hecho";
+"editButtonKey" = "Editar";
+"cancelButtonKey" = "Cancelar";
+"yesButtonKey" = "Sí";
+"startButtonKey" = "Empezar";
+"skipButtonKey" = "omitir";
+
+//MainScreenViewController
+"posesNameKey" = "Posiciones";
+"posesDescriptionKey" = "Libertad para practicar donde quieras y cuando quieras.";
+
+"classesNameKey" = "Clases";
+"classesDescriptionKey" = "Énfasis en la flexibilidad, fuerza y equilibrio. Encuentra tu clase favorita.";
+
+"moreNameKey" = "Más";
+"moreDescriptionKey" = "Únete a la comunidad VGFIT. Consigue más entrenamientos.";
+
+//PosesViewController
+"searchBarPlaceHolderKey" = "Buscar ejercicio";
+"noResultsLabelKey" = "Sin resultados";
+
+//ClassesViewController
+"classBalanceKey" = "Equilibrio";
+"classBalanceDescriptionKey" = "Se combinan distintos estilos de yoga centrados en la mejora del equilibrio.";
+
+"classStrengthKey" = "Fuerza ";
+"classStrengthDescriptionKey" = "Una combinación de posturas de Power Yoga que te ayudarán a aumentar la fortaleza física.";
+
+"classFlexibilityKey" = "Flexibilidad";
+"classFlexibilityDescriptionKey" = "Te centras en cómo respiras, en tu recuperación muscular y en la flexibilidad de tu cuerpo.";
+
+//LevelViewController
+"levelBegginerKey" = "Principiante ";
+"levelBegginerTitleKey" = "Empecemos con ejercicio ligero";
+"levelBegginerDescriptionKey" = "Se centra en aumentar la fuerza y la resistencia para crear unas bases firmes.";
+
+"levelIntermediateKey" = "Intermedio";
+"levelIntermediateTitleKey" = "Un nivel de ejercicio más difícil";
+"levelIntermediateDescriptionKey" = "Para aquellos con una base práctica firme y experiencia previa en yoga.";
+
+"levelAdvancedKey" = "Avanzado";
+"levelAdvancedTitleKey" = "Ejercicios difíciles";
+"levelAdvancedDescriptionKey" = "Para personas dedicadas y muy comprometidas que tienen mucha práctica.";
+
+//DifficultyViewController
+"secondSideKey" = "lado contrario";
+"minutesKey" = "min";
+"posesKey" = "posturas";
+
+//Error messages
+"downloadErrorKey" = "Error en la descarga";
+"downloadCompleteKey" = "Descarga completada.";
+"internetConnectionKey" = "Conexión a Internet";
+"internetConnectionLostKey" = "Se ha perdido la conexión a Internet.";
+"videoNotFoundKey" = "No se ha encontrado el video";
+"videoNotFoundDescriptionKey" = "¿Quieres continuar? \nPulsa sí e intentaremos descargarlo de nuevo. Pulsa cancelar para volver.";
+
+"smtWentWrongKey" = "Algo ha salido mal.";
+"downloadErrorNoConnectionKey" = "No se puede descargar. ¡Por favor, comprueba tu conexión de móvil, Wi-Fi o internet!";
+"playerNoInternetConnectivityKey" = "No se puede descargar. ¡Por favor, comprueba tu conexión de móvil, Wi-Fi o internet!\nPulsa sí para omitirlo. Pulsa cancelar para volver.";
+
+
+//VideoDownloaderViewController
+"downloadMultipleVideoKey" = "Descargando vídeos";
+"downloadOneVideoKey" = "Descargando vídeo";
+
+//SecondPlayerViewController
+"previewKey" = "Vista previa";
+"secondsKey" = "segundos";
+"completedKey" = "Completado";
+"playerCurrentExerciseKey" = "Nombre del ejercicio:";
+"playerNextExerciseKey" = "Siguiente:";
+
+//MoreViewController
+"moreProfileTitleKey" = "Perfil\n( Historial de Yoga )";
+"moreProfileDescriptionKey" = "Puedes guardar el historial de tus clases y planear la siguiente.";
+
+"moreAppsTitleKey" = "Otras\nAplicaciones VGFIT";
+"moreAppsDescriptionKey" = "Descubre nuevas aplicaciones de VGFIT y alcanzar tus objetivos de fitness.";
+
+"moreSocialTitleKey" = "VGFIT\nen redes sociales";
+"moreSocialDescriptionKey" = "Consigue motivación y compártela con tus amigos. Únete a la comunidad VGFIT.";
+
+"moreSettingsTitleKey" = "Configuración";
+"moreSettingsDescriptionKey" = "Configuración compleja para ofrecer la mejor experiencia.";
+
+"moreRateUsTitleKey" = "Evalúanos";
+
+"historyTitleKey" = "Historial";
+"historyNoExerciseKey" = "No se ha hecho ningún ejercicio todavía";
+
+//OtherAppsViewController
+"otherAppSixPackAbsKey" = "Abdominales Tableta de Chocolate";
+"otherAppFitnessAndBodyBuildingKey" = "Fitness y Culturismo";
+"otherAppFemaleFitnessKey" = "Fitness Femenino";
+"otherAppGoPedometerKey" = "Podómetro Go ";
+"otherAppSmartCycleAlarmProKey" = "Alarma de Ciclo Inteligente PRO";
+"otherAppTimerKey" = "Temporizador Pro";
+"otherApp7minKey" = "7 Minutos";
+"Water Reminder" = "Recordatorio de Agua";
+
+//SettingsViewController
+"settingsPreviewFullKey" = "Vista previa completa";
+"settingsPreviewShortKey" = "Vista previa corta";
+"settingsPreviewNoneKey" = "Sin vista previa";
+"settingsbreathCycleLenghtKey" = "Duración del ciclo de respiración ";
+
+//Speech to Text messages
+
+"beginKey" = "empezar";
+"xMoreSeconds" = "%@ segundos más";
+"halfWayThereKey" = "Está a medio camino";
+
+//Rate Us messages
+
+"Love our %@ app?" = "Me encanta su aplicación, %@?";
+"Your feedback will help us to get better" = "Su feedback nos ayudará a mejorar";
+"Oh Dear!" = "¡Madre mía!";
+"We would be grateful if you could consider giving us some ideas to improve the app. Thank you!" = "Le estaríamos agradecidos si pudiera darnos algunas ideas para mejorar la aplicación. ¡Gracias!";
+
+"5-Stars" = "5 estrellas";
+"To improve the app, please Leave a Rating or Review." = "Para mejorar la aplicación, por favor, deja tu valoración o reseña.";
+
+"Rate Us" = "Valóranos";
+"Email Us" = "Envíenos un email";
+"Not now" = "Ahora no";
+
+//Reminder
+
+"Reminder" = "Recordatorio";
+"Edit notification permission in IOS settings" = "Editar los permisos de las notificaciones en la configuración de IOS";
+"Daily reminder" = "Recordatorio diario";
+"Frequency" = "Frecuencia";
+"It's time to workout!" = "¡Es hora de entrenar!";
+"After %ld days of inactivity" = "Después de %ld días de inactividad";   //example: After 3 days of inactivity
+"Hey! You didn't workout for few days, come back and do it!" = "¡Eh! No has entrenado en varios días, ¡vuelve y ponte con ello!";
+"Days" = "Días";
+
+//Audio Player
+
+"Voice Guide" = "Guía de voz";
+"Background Music" = "Música de fondo";
+
+//Get Premium Version Controller
+
+"Yoga - Poses & Classes" = "Yoga - posturas y clases";
+"Upgrade" = "Mejorar";
+"Buy" = "Comprar";
+"Restore Purchases" = "Restaurar compras";
+"Premium" = "PREMIUM";
+"Nutrition" = "Nutrición";
+
+"Unlock all new plans designed by top coaches. Achieve your goals more easily." = "Desbloquea todos los planes nuevos diseñados por los mejores entrenadores. Alcanza tus metas más fácilmente.";
+"Ads free experience" = "Experiencia sin anuncios";
+"Get rid of all ads. Enjoy a joyful yoga journey with ads free." = "Elimina todos los anuncios. Disfruta de una feliz travesía por el yoga sin anuncios.";
+"Unlock all music" = "Desbloquea toda la música";
+"Enjoy exclusive audio to get deeper in your practice. \n+ Chose your special tone for notification not to miss anything." = "Disfruta de audio exclusivo para profundizar en tus prácticas. \n+ Elije tu tono de notificación especial para no perderte nada.";
+"Yoga Classes" = "Clases de yoga";
+"10 New Classes for all levels to get fitter with positive workouts and motivation \n+ Balanced nutrition plan for weight loss." = "10 clases nuevas de todos los niveles para ponerte más en forma con motivación y ejercicios positivos \n+ Plan de nutrición equilibrado para perder peso.";
+
+//Select Sound
+
+"Sounds" = "Sonidos";
+"Sound" = "Sonido";
+
+"Default" = "Por defecto";
+
+//Extra Plans
+
+"Quick Yoga Fix" = "Yoga rápido";
+"Quick Yoga Fix_details" = "Adapta el yoga a tu atareada jornada con una serie estabilizadora y energizante.";
+
+"Getting Toned" = "Conseguir tono";
+"Getting Toned_details" = "Desarrolla tono muscular en zonas clave, incluyendo brazos, hombros, músculos centrales, glúteos y piernas.";
+
+"Morning Yoga" = "Yoga matutino";
+"Morning Yoga_details" = "Empieza el día con una práctica de yoga estimulante que enfatiza el movimiento de la columna en todas las direcciones e incorpora potentes posturas de pie.";
+
+"Daily Yoga for ABS" = "Yoga diario para abdominales";
+"Daily Yoga for ABS_details" = "Céntrate y consigue tono en los músculos abdominales profundos.";
+
+"Yoga for Runners" = "Yoga para corredores";
+"Yoga for Runners_details" = "El yoga ofrece una combinación única de equilibrio, flexibilidad, fuerza y entrenamiento consciente que puede ayudar a los corredores a mejorar su rendimiento y evitar lesiones.  Corre de forma más inteligente con esta serie de entrenamiento combinado.";
+
+"Boost Your Energy" = "Potencia tu energía";
+"Boost Your Energy_details" = "Recárgate con esta serie diseñada para revitalizar cuerpo, mente y espíritu.";
+
+"Deep Stretching Exercises" = "Ejercicios de estiramiento profundo";
+"Deep Stretching Exercises_details" = "Rejuvenece los músculos cansados, mejora la amplitud de movimientos y potencia la circulación con estos estiramientos de yoga.";
+
+"Improve Your Balance" = "Mejora tu equilibrio";
+"Improve Your Balance_details" = "Mejora la coordinación, el tiempo de reacción, la postura y la percepción de tu cuerpo con esta exigente serie de posturas de equilibrio.";
+
+"Challenge Your Flexibility" = "Pon a prueba tu flexibilidad";
+"Challenge Your Flexibility_details" = "Desarrolla la flexibilidad con una serie de estiramientos intensos y aplica los resultados a más posturas avanzadas de yoga.";
+
+"Core Muscle Sculptor" = "Escultor de los músculos centrales";
+"Core Muscle Sculptor_details" = "Empieza a construir desde la base para desarrollar la fuerza en tus piernas, abdominales, lumbares y laterales.";
+
+"Food Nutrition" = " Nutrición alimenticia";
+"Food Nutrition_details" = "¡Ponte más en forma que nunca! Aprende qué comer, descubre alimentos quemagrasas y disfruta de comidas sabrosas para acelerar tu metabolismo.";
+
+//Other
+
+"In-App purchases were restored" = "Las compras In-app han sido restauradas";
+"Sorry we didn't find your previous purchases" = "Disculpa, no pudimos encontrar tus compras previas";
+"Alert" = "Alerta";
+"No internet connection" = "¡Sin conexión de internet!";
+
+//Yoga
+"SubscriptionInfoKey" = "Subscription\nInfo";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"Privacy Policy & Terms of Service" = "We currently offer auto-renewing subscription options: &&3 days of free trial followed by $3.99 per Week. 3 days of free trial followed by $12.99 per Month. 3 days of free trial followed by $35.99 per Year++. By subscribing, you get unlimited access to 111 poses and 19 yoga classes. \n\nThese prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your actual currency depending on the country of residence. \n\nYour subscription will automatically renew at the end of each term and your credit card will be charged through your iTunes account. You can turn off auto-renew at any time from your account settings but refunds will not be provided for any unused portion of the term. Note that, if you wish to avoid auto-renewal, you must turn it off at least 24 hours prior to the end of the current period. That's how it works! \n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. \n\nWe take the satisfaction and security of our customers very seriously. Read our terms of service at https://vgfit.com/terms and our privacy policy at https://vgfit.com/privacy \n\nTo manage your subscriptions see this link for a step by step guide: \nhttp://support.apple.com/kb/ht4098";
+
+//Subscription
+//"3 days for FREE" = "3 days for FREE";
+//"Privacy Policy" = "Privacy Policy";
+//"Terms of Service" = "Terms of Service";
+//"Ads FREE\nexperience" = "Ads FREE\nexperience";
+"Subscription details" = "Your subscription renew within 24-hours before the subscription period ends, you will be charged through your iTunes account. Manage your subscription in Account Settings. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.";
+"More info about subscriptions and Premium membership" = "More info about subscriptions and Premium membership";
+"By continuing you accept our" = "By continuing you accept our";
+//"Yoga" = "Yoga";
+//"week after" = "week after";
+//"Nutrition plan" = "Nutrition plan";
+//"Yoga\nClasses" = "Yoga\nClasses";
+//"and" = "and";
+//"SubscriptionInfoKey" = "Subscription\nInfo";
+//"UNLOCK\nall music" = "UNLOCK\nall music";
+//"Subscription" = "Subscription";
+//"Restore" = "Restaurar";
+
+"%d poses and %d yoga classes"="%d poses y %d clases de yoga";
+"3 days for FREE"="3 días GRATIS";
+"Ads FREE\nexperience"="Experiencia SIN\npublicidad";
+"Yoga"="Yoga";
+"Yoga\nClasses"="Clase de\nYoga";
+"UNLOCK\nall music"="DESBLOQUEAR\ntoda la música";
+"76% off"="76% de descuento"; //76% off discount price
+"%@ per month billed annually thats’s a %@ a year"="%@ al mes facturados anualmente, eso son %@ al año";// example:$2.99 per month billed annually thats’s a $35.99 a year
+"Weight loss nutrition plan"="Plan de nutrición para perder peso";
+
+"Subscription Info" = "Información de suscripción";
+"More info about subscriptions and Premium membership" = "Más información sobre las suscripciones y la suscripción premium";
+"%d days of free trial followed by %@ per %@" = "%d días de período de prueba gratis seguidos de %@ por %@"; //ex:3 days of free trial followed by $3.99 per week
+"month"="mes";
+"year"="año";
+"week"="semana";
+"after"="después";
+"Privacy Policy"="Política de Privacidad";
+"Terms of Service"="Términos de Servicio";
+"Nutrition plan"="Plan de nutrición";
+"and"="y";
+"Subscription"="Suscripción";
+"By continuing you accept our"="Al continuar, aceptas nuestra";
+
+"Start your positive\ntransformation today!"="¡Inicia tu transformación\npositiva hoy!";
+"Get 100% ready workouts courses with powerful support!"="¡Consigue programas de ejercicios listos al 100% con gran apoyo!";
+"Only now"=" Solo ahora ";
+"GET LIFETIME ACCESS"="CONSIGUE ACCESO TOTAL";
+"one-time payment"="pago único";
+"Nutrition plan for building muscle"="Aumenta la masa muscular";
+"Nutrition plan for weight loss"="Cuerpo esbelto";
+"Challenges"="Retos";
+"Ads FREE experience"="Experiencia SIN\npublicidad";
+"Nutrition plans"="Planes de \nnutrición";
+"New Workouts"="Nuevos \nejercicios";
+"ARMS | ABS"="BRAZOS | ABDOMINALES";
+"CLOSE"="CERRAR";
+"Workout challenges"="Retos de entrenamiento";
+"Challenge"="Reto";
+"Exercises"="Ejercicios";
+"Restore purchase"="Restaurar la compra";
+"SHARE"="COMPARTIR";
+"%d-day\nFree Trial"="%d-días\nPeríodo de prueba gratis ";
+"Try it Now"="Pruébalo ahora";
+"GET LIFETIME ACCESS"="CONSIGUE ACCESO TOTAL";
+"SKIP"="OMITIR";
+"%@ WORKOUTS"="%@ ENTRENAMIENTOS";// ex: 25 workouts
+"3-day \nFree trial"="3-días\nPeríodo de prueba gratis";
+"7-day \nFree trial"="7-días\nPeríodo de prueba gratis";
+"startKey"="Inicio";
+//Exercise name
+
+"exerciseName1" = "Montaña ";
+
+"exerciseName2" = "Medio loto";
+
+"exerciseName3" = "nustiu";
+
+"exerciseName4" = "Variación de la postura de la silla";
+
+"exerciseName5" = "Estiramiento lateral tumbado";
+
+"exerciseName6" = "Ave del paraíso";
+
+"exerciseName7" = "Variación de la postura de los dedos gordos";
+
+"exerciseName8" = "Barco";
+
+"exerciseName9" = "Arco";
+
+"exerciseName10" = "Variación de la postura del puente";
+
+"exerciseName11" = "Camello";
+
+"exerciseName12" = "Gato";
+
+"exerciseName13" = "Estiramiento de espalda ";
+
+"exerciseName14" = "Silla";
+
+"exerciseName15" = "Silla girada";
+
+"exerciseName16" = "Silla girada con los brazos extendidos";
+
+"exerciseName17" = "Postura del niño ";
+
+"exerciseName18" = "nustiu";
+
+"exerciseName19" = "Cobra";
+
+"exerciseName20" = "Postura del cadáver";
+
+"exerciseName21" = "Vaca";
+
+"exerciseName22" = "Cara de vaca";
+
+"exerciseName23" = "Variación de la postura de cara de vaca ";
+
+"exerciseName24" = "Postura de la mesa";
+
+"exerciseName25" = "Cuervo";
+
+"exerciseName26" = "Delfín";
+
+"exerciseName27" = "Esfinge";
+
+"exerciseName28" = "Plancha de antebrazo";
+
+"exerciseName29" = "Perro boca abajo";
+
+"exerciseName30" = "Perro boca abajo con giro";
+
+"exerciseName31" = "Rana";
+
+"exerciseName32" = "Postura completa con brazos de águila";
+
+"exerciseName33" = "Águila";
+
+"exerciseName34" = "Postura de presión de oreja";
+
+"exerciseName35" = "Giro de espalda sentado";
+
+"exerciseName36" = "Flexión hacia adelante con piernas cruzadas";
+
+"exerciseName37" = "Postura de la media torsión";
+
+"exerciseName38" = "Postura del corazón";
+
+"exerciseName39" = "Ángulo lateral amarrado";
+
+"exerciseName40" = "Ángulo lateral extendido modificado";
+
+"exerciseName41" = "Ángulo lateral";
+
+"exerciseName42" = "nustiu";
+
+"exerciseName43" = "Postura del leño ardiente";
+
+"exerciseName44" = "Pez";
+
+"exerciseName45" = "Puerta";
+
+"exerciseName46" = "Caballo";
+
+"exerciseName47" = "Tigre";
+
+"exerciseName48" = "Camello con giro";
+
+"exerciseName49" = "Media rana";
+
+"exerciseName50" = "Langosta";
+
+"exerciseName51" = "nustiu";
+
+"exerciseName52" = "Medio loto de pie";
+
+"exerciseName53" = "Medio split";
+
+"exerciseName54" = "Variación de la media luna inclinada";
+
+"exerciseName55" = "Media luna";
+
+"exerciseName56" = "La vela";
+
+"exerciseName57" = "Postura del sabio Marichi III";
+
+"exerciseName58" = "Parada de cabeza";
+
+"exerciseName59" = "Parada de cabeza en trípode";
+
+"exerciseName60" = "Bebé feliz";
+
+"exerciseName61" = "Postura de la garza";
+
+"exerciseName62" = "Zancada girada";
+
+"exerciseName63" = "Zancada alta";
+
+"exerciseName64" = "Guerrero humilde";
+
+"exerciseName65" = "Cobra completa";
+
+"exerciseName66" = "Bailarín";
+
+"exerciseName67" = "Variación de la postura de liberación del viento";
+
+"exerciseName68" = "Saludo con ocho extremidades";
+
+"exerciseName69" = "Postura del lagarto";
+
+"exerciseName70" = "Variación de la postura de la langosta";
+
+"exerciseName71" = "Luna creciente con giro";
+
+"exerciseName72" = "Luna creciente";
+
+"exerciseName73" = "Sirena";
+
+"exerciseName74" = "Postura del arco hacia arriba con una pierna";
+
+"exerciseName75" = "Conejo";
+
+"exerciseName76" = "Preparación de la paloma real";
+
+"exerciseName77" = "Pirámide";
+
+"exerciseName78" = "Media paloma";
+
+"exerciseName79" = "Postura de la balanza";
+
+"exerciseName80" = "Puente";
+
+"exerciseName81" = "nustiu";
+
+"exerciseName82" = "Variación del saludo ascendente";
+
+"exerciseName83" = "Plancha";
+
+"exerciseName84" = "Postura del dedo gordo del pie recostado B";
+
+"exerciseName85" = "Arado";
+
+"exerciseName86" = "Variación del tigre con arco";
+
+"exerciseName87" = "Guerrero pacífico";
+
+"exerciseName88" = "Media luna girada";
+
+"exerciseName89" = "Postura de la cabeza a la rodilla";
+
+"exerciseName90" = "nustiu";
+
+"exerciseName91" = "Paloma reclinada";
+
+"exerciseName92" = "Postura de la cabeza a la rodilla girada";
+
+"exerciseName93" = "Triángulo invertido";
+
+"exerciseName94" = "Zancada baja";
+
+"exerciseName95" = "Variación de pie y mano girada en pie ";
+
+"exerciseName96" = "Giro de espalda en posición supina";
+
+"exerciseName97" = "Ángulo amarrado tumbado";
+
+"exerciseName98" = "Pie y mano tumbado A";
+
+"exerciseName99" = "Flexión hacia adelante sentado";
+
+"exerciseName100" = "Postura pie y mano en pie D";
+
+"exerciseName101" = "Plancha lateral";
+
+"exerciseName102" = "Cara de vaca con brazos";
+
+"exerciseName103" = "Flexión lateral sentado";
+
+"exerciseName104" = "Variación de la vela";
+
+"exerciseName105" = "Flexión hacia atrás de espalda en pie";
+
+"exerciseName106" = "Pie y mano en pie B";
+
+"exerciseName107" = "Variación de la langosta con dedos entrelazados";
+
+"exerciseName108" = "Postura del bastón";
+
+"exerciseName109" = "Esfinge";
+
+"exerciseName110" = "Plancha lateral modificada";
+
+"exerciseName111" = "Flexión hacia adelante con piernas separadas";
+
+"exerciseName112" = "Sentadilla de yoga";
+
+"exerciseName113" = "Flexión hacia adelante sentado con ángulo ancho";
+
+"exerciseName114" = "Flexión hacia adelante con piernas separadas C";
+
+"exerciseName115" = "Variación de la postura de cabeza a rodilla girada";
+
+"exerciseName116" = "Sentadilla de yoga amarrada";
+
+"exerciseName117" = "Postura del héroe boca abajo";
+
+"exerciseName118" = "Flexión hacia adelante con giro y piernas separadas";
+
+"exerciseName119" = "Flexión hacia delante con estiramiento lateral y piernas separadas ";
+
+"exerciseName120" = "Sofá de Vishnú";
+
+"exerciseName121" = "Postura de ángulo amarrado boca arriba";
+
+"exerciseName122" = "Guerrero 2";
+
+"exerciseName123" = "Flexión lateral en pie con dedos entrelazados";
+
+"exerciseName124" = "Split en pie";
+
+"exerciseName125" = "Flexión hacia delante de pie";
+
+"exerciseName126" = "Pie y mano en pie A";
+
+"exerciseName127" = "Variación de flexión hacia adelante en pie con apertura de hombros";
+
+"exerciseName128" = "Guerrero 1";
+
+"exerciseName129" = "Guerrero 3";
+
+"exerciseName130" = "Flexión lateral en pie";
+
+"exerciseName131" = "La vela con apoyo";
+
+"exerciseName132" = "Plancha inversa";
+
+"exerciseName133" = "Pie y mano en pie C con flexión hacia adelante";
+
+"exerciseName134" = "Flexión hacia delante de pie con giro";
+
+"exerciseName135" = "Flexión hacia atrás de espalda en pie con apoyo";
+
+"exerciseName136" = "Postura del bastón de cuatro miembros";
+
+"exerciseName137" = " Postura del bastón de cuatro miembros y mesa";
+
+"exerciseName138" = "Arco boca arriba";
+
+//Exercise description
+
+"exerciseDescription1" = "Ponte de pie con los pies separados a la altura de las caderas y los bordes externos de los pies en paralelo. Estira la espalda y eleva el ombligo hacia ella. Presiona hacia arriba a través de la coronilla y lleva el coxis hacia los tobillos.";
+
+"exerciseDescription2" = "Siéntate y dobla la rodilla izquierda, colocando el borde externo del pie izquierdo bajo el muslo derecho frente a la zona de los glúteos. Después sujeta el borde externo de tu pie derecho y colócalo en el pliegue de la cadera izquierda. Coloca las palmas boca abajo en las rodillas y siéntate estirado con los hombros relajados. Repite el ejercicio con la pierna izquierda encima.";
+
+"exerciseDescription3" = "nustiu";
+
+"exerciseDescription4" = "Ponte de pie con los pies separados a la altura de las caderas. Extiende los brazos rectos frente a ti con las palmas hacia abajo. Flexiona las rodillas y eleva los talones sobre la punta de los pies.";
+
+"exerciseDescription5" = "Túmbate de espaldas con las palmas sujetando la nuca. Cruza el tobillo izquierdo sobre el tobillo derecho. Dóblate lateralmente hacia la derecha moviendo la parte superior del cuerpo y las piernas a la derecha. Vuelve al centro, cambia el cruce de los tobillos para que la pierna derecha quede encima y dóblate lateralmente hacia la izquierda.";
+
+"exerciseDescription6" = "Ponte de pie doblándote hacia adelante con los pies separados a la altura de las caderas. Flexiona las rodillas y, empezando con el brazo derecho frente a ti, enlázalo entre las piernas, dobla el codo y lleva tu mano derecha hacia la zona externa de la cadera derecha. Dobla el codo izquierdo tras la espalda y lleva la mano izquierda hacia la zona externa de la cadera derecha. Sujeta tu muñeca izquierda con la mano derecha. (Si no puedes alcanzar la muñeca, intenta enlazar los dedos de ambas manos.). \n \n Repítelo poniéndote de pie sobre la pierna derecha con los brazos enlazados alrededor de la pierna izquierda.";
+
+"exerciseDescription7" = "Siéntate con las rodillas dobladas y las plantas de los pies plantadas frente a ti. Coloca las manos bajo los muslos y levanta los pies del suelo para quedar en equilibrio sobre la zona de los glúteos. Extiende las piernas tanto como puedas sin curvar la zona lumbar. Con el tiempo, al aumentar la flexibilidad, puede que seas capaz de deslizar las manos hacia arriba por las piernas en dirección a los pies y, finalmente, sujetar los dedos gordos con los tres primeros dedos de cada mano.";
+
+"exerciseDescription8" = "Siéntate con las rodillas dobladas, las plantas de los pies plantadas frente a ti y los brazos extendidos. Levanta los pies del suelo y haz que las espinillas queden paralelas al techo con los brazos extendidos cerca de las piernas. Mantén el equilibrio sobre la zona de los glúteos y aguante durante un mínimo de 5 respiraciones.";
+
+"exerciseDescription9" = "Túmbate sobre el vientre, dobla las rodillas y estírate para sujetarte a la zona externa de los tobillos. Levanta la cabeza, el pecho y las piernas del suelo. Mantén las piernas separadas entre ellas con una apertura no superior a la distancia entre las caderas mientras llevas la parte superior de la cabeza y las espinillas hacia el techo.";
+
+"exerciseDescription10" = "Túmbate sobre la espalda con las rodillas dobladas, los pies plantados con una separación similar a la distancia entre las caderas y los bordes externos de los pies paralelos. Sujeta la zona externa de los tobillos con las manos, levanta la pelvis del suelo y curva el pecho hacia arriba.";
+
+"exerciseDescription11" = "Arrodíllate con las espinillas paralelas y la parte superior de los pies en el suelo. Coloca las caderas sobre las rodillas y los hombros sobre las caderas. Eleva el pecho hacia el cielo y mantén las caderas sobre los rodillas mientras te desplazas hacia atrás para sujetar los talones.";
+
+"exerciseDescription12" = "Empieza a cuatro patas en la posición de la mesa con los hombros sobre las muñecas y las caderas sobre las rodillas. Mientras exhalas, curva la espalda para que la cabeza vaya hacia el suelo, el ombligo suba hacia la espalda y el coxis se curve hacia el suelo.";
+
+"exerciseDescription13" = "nustiu";
+
+"exerciseDescription14" = "Ponte de pie con los pies separados a la distancia entre las caderas y los bordes externos de los pies paralelos. Inhala y extiende los brazos junto a los oídos, con las palmas frente a frente. Mantén los brazos a la distancia entre los hombros mientras flexionas las rodillas y retrasas las caderas. Intenta colocar los muslos paralelos al suelo y mantenerlos así mientras elevas el bajo vientre y el pecho.";
+
+"exerciseDescription15" = "Ponte de pie con los dedos gordos juntos y los bordes externos de los pies paralelos. Flexiona las rodillas y une las palmas frente a tu pecho. Toma aire mientras estiras la espalda, manteniendo bajas las caderas. Mientras exhalas, gírate hacia la derecha y engancha el codo izquierdo en la parte externa del muslo derecho. Respira y vuelve al centro con las palmas en posición de rezo frente al pecho. Exhala mientras haces el giro contrario hacia la izquierda.";
+
+"exerciseDescription16" = "Ponte de pie con los dedos gordos juntos y los bordes externos de los pies paralelos. Dobla las rodillas y une las palmas frente al pecho. Toma aire mientras estiras la espalda, manteniendo bajas las caderas. Mientras exhalas, gírate hacia la derecha y engancha el codo izquierdo en la parte externa del muslo derecho. Estira los brazos en forma de \"T\" de forma que las yemas de los dedos de la mano izquierda vayan hacia el suelo por la parte exterior del tobillo derecho y el brazo derecho vaya hacia el cielo. Mira hacia arriba, hacia la palma derecha de tu mano. \n\n Inhala para volver al centro con las palmas en posición de rezo frente a tu pecho. Exhala mientras haces el giro contrario hacia la izquierda, enganchando el codo derecho en la parte externa del muslo izquierdo. Extiende los brazos, esta vez desplazando las yemas de los dedos de la mano derecha hacia la parte externa del tobillo izquierdo y estirando el brazo izquierdo hacia el cielo.";
+
+"exerciseDescription17" = "Empieza a cuatro patas en la posición de la mesa. Pon los dedos gordos juntos y siéntate hacia atrás sobre los talones mientras llevas la frente hacia el suelo. Extiende las manos junto a tu cuerpo, con las palmas hacia arriba.";
+
+"exerciseDescription18" = "nustiu";
+
+"exerciseDescription19" = "Túmbate boca abajo y coloca las palmas boca abajo junto a las costillas inferiores, justo por encima de la cintura. Eleva la parte superior de tu cuerpo del suelo, presionando sobre las manos y dejando las rodillas, las espinillas y la parte superior de los pies en el suelo. Lleva el coxis hacia los tobillos para ejercitar los abdominales inferiores y estira los brazos sólo hasta donde puedas sin sentir molestias en la zona lumbar. \n\n Dejando la palma izquierda en el suelo, gira el pecho y la cabeza hacia la derecha y desliza la mano derecha sobre el muslo derecho. Vuelve al centro y repítelo con el lado izquierdo.";
+
+"exerciseDescription20" = "Túmbate boca arriba con las piernas extendidas, los brazos a los lados y las palmas de las manos hacia arriba. Cierra los ojos y relaja los músculos, descargando el peso del cuerpo en el suelo.";
+
+"exerciseDescription21" = "Empieza a cuatro patas en la posición de la mesa. Mientras tomas aire, arquea la espalda, eleva el mentón y mira hacia arriba.";
+
+"exerciseDescription22" = "Siéntate en el suelo, dobla las rodillas y cruza la rodilla derecha sobre la izquierda para que ambas rodillas queden una sobre otra frente a tu ombligo y quedes sentado entre los talones. Extiende el brazo izquierdo hacia el cielo, dobla el codo izquierdo y apunta con los dedos hacia abajo, hacia la espalda. Extiende el brazo derecho fuera, hacia la derecha, gira la palma derecha para que apunte hacia atrás y dobla el codo derecho para que las yemas de tus dedos apunten hacia la espalda. Junta las puntas de los dedos de ambas manos. Repítelo en el lado contrario con la rodilla izquierda arriba y el brazo derecho encima.";
+
+"exerciseDescription23" = "Siéntate en el suelo, dobla las rodillas y cruza la rodilla derecha sobre la izquierda para que ambas queden una sobre otra frente a tu ombligo y quedes sentado entre los talones. Estira la espalda mientras extiendes los brazos junto a los oídos. Repítelo en el lado contrario con la rodilla izquierda sobre la derecha.";
+
+"exerciseDescription24" = "Siéntate con las rodillas dobladas y los pies plantados a la distancia entre las caderas frente a ti. Planta las palmas detrás de ti, a la distancia entre los hombros y con las puntas de los dedos apuntando hacia fuera. Eleva la pelvis del suelo para que las rodillas se doblen en un ángulo de 90 grados. Coloca las rodillas sobre los tobillos y los hombros sobre las muñecas. Presiona hacia abajo sobre el dedo índice y el pulgar de cada mano. Para empezar, comprueba que tu cuello está alineado con el resto de la espalda y que la nariz apunta hacia el cielo. Si no tienes ningún problema cervical, puedes dejar que la cabeza caiga hacia atrás suavemente de forma que la base del cráneo se apoye justo sobre los omóplatos.";
+
+"exerciseDescription25" = "Ponte de pie doblado hacia delante con los pies juntos. Flexiona las rodillas y planta las palmas de las manos aproximadamente a unos 30 cm de tus pies con una separación igual a la que hay entre los hombros y con las yemas de los dedos sujetándose al suelo. Eleva los talones del suelo para subir las caderas y baja las rodillas sobre la parte de atrás de la zona superior de los brazos, creando un estante con ellos. Dobla los codos unos 90 grados y colócalos sobre las muñecas. Mira más allá de las manos al suelo y eleva lentamente tu peso sobre tus manos. Cuando los hombros se muevan ligeramente hacia adelante y todo tu peso esté en tus manos, intenta elevar uno o los dos pies del suelo. Con el tiempo, practica poner los dedos de los pies en punta y llevarlos hacia la zona de los glúteos.";
+
+"exerciseDescription26" = "nustiu";
+
+"exerciseDescription27" = "Túmbate boca abajo y elévate sobre los codos para que tus antebrazos queden paralelos entre ellos, y con los codos separados a la distancia entre los hombros. Lleva los codos hacia las caderas mientras empujas el pecho hacia delante a través de los brazos. Pon los dedos de los pies en punta y desliza el coxis hacia los tobillos.";
+
+"exerciseDescription28" = "Túmbate boca abajo y elévate sobre los codos para que tus antebrazos queden paralelos entre, y con los codos separados a la distancia entre los hombros. Coloca los dedos de los pies debajo y eleva los muslos y la pelvis del suelo. Centra los hombros sobre los codos y eleva el vientre hacia la espalda. Ejercita la parte frontal de los muslos y lleva el hueso púbico hacia el ombligo para que tus caderas no cojan aire.";
+
+"exerciseDescription29" = "Mueve los pies hacia atrás haciendo una plancha - una flexión alta ejercitando las piernas y el vientre. Desde ahí, eleva las caderas y presiona el pecho contra las piernas mientras estiras los talones hacia el suelo. Empuja contra el suelo con las manos para llevar la parte superior de tu cuerpo hacia las piernas. Sujétate con fuerza al suelo con el dedo índice y pulgar de cada mano y coloca los pies separados a la distancia entre las caderas, con los talones alineados tras el segundo y tercer dedo de los pies.";
+
+"exerciseDescription30" = "Empieza a cuatro patas en la posición de la mesa con las muñecas bajo los hombros y los dedos extendidos.  Mueve los pies hacia atrás haciendo una plancha - una flexión alta ejercitando las piernas y el vientre.  Desde ahí, eleva las caderas y presiona el pecho contra las piernas mientras estiras los talones hacia el suelo. Empuja contra el suelo con las manos para llevar la parte superior de tu cuerpo hacia las piernas.  Sujétate con fuerza al suelo con el dedo índice y pulgar de cada mano y coloca los pies separados a la distancia entre las caderas, con los talones alineados tras el segundo y tercer dedo de los pies. \n\n Mantén la palma izquierda en el suelo mientras desplazas el brazo derecho entre las piernas para sujetar la parte de atrás del tobillo o la pantorrilla izquierda. Continúa para llegar a la zona externa de las caderas por detrás y presiona contra el suelo con la palma izquierda. Repetir en el lado contrario.";
+
+"exerciseDescription31" = "nustiu";
+
+"exerciseDescription32" = "Siéntate con las rodillas flexionadas hacia afuera a ambos lados y los pies frente al pubis, con el pie izquierdo frente al derecho. Dobla los codos y engancha el codo derecho bajo el izquierdo. Cruza las muñecas para que las palmas de las manos queden frente a frente. Eleva los codos y empuja las palmas hacia delante. Repetir en el lado contrario con el pie derecho en frente y el codo izquierdo debajo.";
+
+"exerciseDescription33" = "Ponte de pie con los pie juntos y levanta el talón derecho del suelo. Dobla los codos y engancha el codo derecho bajo el izquierdo. Cruza las muñecas para que las palmas de las manos queden frente a frente. Eleva los codos y empuja las palmas hacia delante. \n\n Dobla la rodilla izquierda y cruza la rodilla derecha sobre la izquierda, guardando el equilibrio sobre la pierna izquierda y enganchando el dedo gordo del pie derecho dentro del tobillo izquierdo. Mientras llevas la zona externa de las caderas hacia atrás, mantén el pecho levantado y sigue elevando los hombros.";
+
+"exerciseDescription34" = "nustiu";
+
+"exerciseDescription35" = "Siéntate cómodamente con las piernas cruzadas y las palmas de las manos hacia abajo sobre las rótulas. Mientras tomas aire, estira la espalda. Al exhalar, gira hacia la izquierda, llevando las puntas de los dedos de la mano izquierda hacia el suelo detrás de ti y colocando la palma de la mano derecha sobre la rótula izquierda. Inhala volviendo al centro, y mientras exhalas gira hacia la derecha, colocando las puntas de los dedos de la mano derecha en el suelo detrás de ti y apoyando la palma de la mano izquierda sobre la rótula derecha.";
+
+"exerciseDescription36" = "Coloca las palmas de las manos en el suelo frente a ti y llévalas hacia adelante hasta que los brazos estén rectos. Si tu frente no llega al suelo, apóyala en una manta o una toalla doblada para que el cuello tenga soporte. Repítelo con la pierna contraria encima.";
+
+"exerciseDescription37" = "nustiu";
+
+"exerciseDescription38" = "Empieza a cuatro patas en la posición de la mesa.  Mantén las caderas sobre las rodillas y las manos separadas a la distancia entre los hombros mientras llevas las manos hacia adelante tan lejos como puedas. Pega el pecho al suelo.";
+
+"exerciseDescription39" = "Colócate de pie con las piernas muy separadas y los pies paralelos. Gira el pie derecho hacia fuera 90 grados y dobla la rodilla derecha en un ángulo de 90 grados para que la parte superior del muslo derecho quede paralela al suelo. Mantén la rodilla derecha colocada sobre el tobillo derecho y la pierna izquierda extendida con los dedos del pie ligeramente hacia dentro. Extiende la zona derecha del torso sobre el muslo izquierdo y coloca la mano derecha dentro de la pierna derecha. \n\n Enlaza la mano derecha bajo el muslo, dobla el codo y lleva la mano hacia la parte externa de la cadera derecha. Dobla el codo izquierdo tras la espalda y lleva la mano izquierda hacia la parte externa de la cadera derecha. Usa la mano derecha para sujetar la muñeca izquierda. (Si no puedes alcanzar la muñeca, intenta entrelazar las puntas de los dedos de ambas manos.) \n\n Cuando tengas los brazos enlazados alrededor de la pierna derecha, coloca la cadera derecha debajo de ti e inclínate hacia atrás para que la parte derecha del torso quede sobre el muslo. Estira los lados del cuello mientras empujas la parte superior de la cabeza alejándola del pie derecho. Presiona el suelo con el pie izquierdo y mantén la rodilla derecha centrada sobre el segundo y tercer dedo del pie. \n\n Repítelo en el lado izquierdo, enlazando las manos alrededor de la pierna izquierda para que estén conectadas por la parte externa de la cadera izquierda.";
+
+"exerciseDescription40" = "Colócate de pie con las piernas muy separadas y los pies paralelos. Gira el pie derecho hacia fuera 90 grados y dobla la rodilla derecha en un ángulo de 90 grados para que la parte superior del muslo derecho quede paralela al suelo. Mantén la rodilla derecha colocada sobre el tobillo derecho y la pierna izquierda recta. Extiende la zona derecha del torso sobre el muslo izquierdo y descansa suavemente el codo derecho en el muslo izquierdo con la palma de la mano boca arriba. Extiende el brazo izquierdo junto al oído izquierdo y gira el ombligo alejándolo del pie derecho mientras miras hacia tu mano izquierda. Presiona el suelo con el pie izquierdo y mantén la rodilla derecha centrada sobre el segundo y tercer dedo del pie. Repítelo en el lado izquierdo.";
+
+"exerciseDescription41" = "Colócate de pie con las piernas muy separadas y los pies paralelos. Gira el pie derecho hacia fuera 90 grados y dobla la rodilla derecha en un ángulo de 90 grados para que la parte superior del muslo derecho quede paralela al suelo. Mantén la rodilla derecha colocada sobre el tobillo derecho y la pierna izquierda extendida con los dedos del pie ligeramente hacia dentro. \n\n Extiende la zona derecha del torso sobre el muslo derecho y coloca la palma de la mano derecha en el suelo por dentro del pie derecho, para que el hombro quede sobre la muñeca. Levanta la mano izquierda hacia el cielo y mira hacia arriba, hacia la palma de la mano derecha. Presiona el suelo con el pie izquierdo y mantén la rodilla derecha centrada sobre el segundo y tercer dedo del pie. Repítelo en el lado izquierdo.";
+
+"exerciseDescription42" = "nustiu";
+
+"exerciseDescription43" = "Siéntate y dobla la rodilla izquierda hacia afuera en dirección izquierda para que el borde externo del pie quede en el suelo y la espinilla quede paralela a la parte frontal de la esterilla. Dobla la rodilla derecha hacia fuera a la derecha y coloca la espinilla derecha sobre la izquierda para que la rodilla derecha quede sobre el tobillo izquierdo y el tobillo derecho quede sobre la rodilla izquierda. Dóblate lentamente hacia adelante hasta donde puedas. Repítelo con la espinilla izquierda encima.";
+
+"exerciseDescription44" = "Túmbate boca arriba con los brazos a los lados y las palmas hacia abajo. Eleva el pecho hacia el cielo y deja caer la cabeza hacia atrás para que la parte superior descanse ligeramente en el suelo. Levanta las piernas en un ángulo de 45 grados respecto al suelo.";
+
+"exerciseDescription45" = "Arrodíllate con las caderas sobre las rodillas, las espinillas paralelas y la parte superior de los pies en el suelo. Desplaza tu pie izquierdo fuera hacia la derecha para que la pierna se extienda y los dedos de los pies apunten a la derecha y hacia el suelo. Coloca la palma de la mano derecha en el muslo derecho y extiende la mano izquierda junto al oído izquierdo. Mientras te doblas hacia la derecha, desliza la mano derecha hacia el tobillo derecho. Repítelo con el lado izquierdo.";
+
+"exerciseDescription46" = "Ponte de pie y separa los pies a una distancia de al menos una pierna. Gira los dedos de los pies hacia afuera mientras doblas las rodillas y las colocas sobre los tobillos. Empuja la parte interna de las rodillas hacia atrás en dirección a los meñiques de los pies y flexiona los codos hacia afuera a ambos lados, imitando la forma de un cactus con ellos.";
+
+"exerciseDescription47" = "Empieza a cuatro patas con los dedos extendidos, las muñecas bajo los hombros y las rodillas bajo las caderas. Empuja sobre las yemas de los dedos y la parte superior del pie izquierdo mientras levantas la pierna derecha del suelo y la extiendes detrás de ti. Eleva el vientre y las costillas centrales hacia la espalda. Repítelo con la espinilla derecha en el suelo y la pierna izquierda levantada.";
+
+"exerciseDescription48" = "Arrodíllate con las espinillas paralelas, la parte superior de los pies en el suelo, las caderas sobre las rodillas y los hombros sobre las caderas. Levanta el pecho hacia el cielo y mantén las caderas sobre las rodillas mientras vas hacia atrás para sujetar los talones. \n\n Mantén la mano izquierda sobre el talón izquierdo mientras tomas aire y extiende el brazo derecho hacia el cielo. Exhala mientras giras el pecho hacia la izquierda. Después vuelve a poner la mano derecha en el talón derecho y gira el pecho hacia el cielo. \n\n Inhala y extiende el brazo izquierdo hacia el cielo. Mientras exhalas, gira el pecho hacia la derecha. Coloca de nuevo ambas manos en los talones y curva el pecho hacia el techo antes de sentarte sobre los talones con las manos en los muslos para soltar la posición.";
+
+"exerciseDescription49" = "Túmbate boca abajo y elévate sobre los codos para que los antebrazos queden paralelos y los codos queden a la distancia entre los hombros. Mueve la mano izquierda hacia la derecha con la palma hacia abajo para que el antebrazo izquierdo quede paralelo a la parte frontal de la esterilla. Dobla la rodilla derecha y sujeta la parte superior del pie derecho con la mano derecha, llevando el talón derecho hacia la parte exterior de la cadera. Mantén la mano que sujeta el talón sobre la parte superior del pie mientras giras las puntas de los dedos de la mano derecha hacia la derecha haciendo que apunten después hacia el talón derecho. Dobla el codo derecho hacia afuera por el lado derecho mientras cuadras la parte derecha del pecho hacia delante. Repítelo con el lado izquierdo.";
+
+"exerciseDescription50" = "Túmbate boca abajo con el mentón en el suelo, los brazos a los lados y las palmas de las manos hacia abajo. Mueve un brazo hacia el otro bajo el torso y junta las manos. Eleva ambas piernas sobre el suelo y pon los dedos de los pies en punta. \n\n Baja ambas piernas hacia el suelo y suelta las manos, poniendo las palmas boca abajo. Eleva la pierna derecha en el aire. Baja la pierna derecha y eleva la pierna izquierda. Baja la pierna izquierda al suelo.";
+
+"exerciseDescription51" = "nustiu";
+
+"exerciseDescription52" = "Ponte de pie con los pies juntos y desplaza tu peso sobre el pie izquierdo, llevando la rodilla derecha hacia el pecho. Sujeta la parte externa del pie derecho con la mano izquierda y colócalo en el pliegue de la cadera izquierda. Extiende ambos brazos junto a los oídos. Repítelo poniéndote en pie sobre la pierna derecha con la rodilla izquierda doblada y la parte externa del pie izquierdo en el pliegue de la cadera derecha.";
+
+"exerciseDescription53" = "nustiu";
+
+"exerciseDescription54" = "nustiu";
+
+"exerciseDescription55" = "nustiu";
+
+"exerciseDescription56" = "nustiu";
+
+"exerciseDescription57" = "Siéntate con las piernas extendidas frente a ti. Dobla la rodilla izquierda y planta el pie izquierdo en la zona interna de la pierna derecha. Coloca la palma de la mano izquierda en el suelo detrás de ti. Toma aire mientras levantas el brazo derecho junto a tu oído y estiras la espalda. Exhala mientras giras hacia la izquierda y engancha el codo derecho en la zona externa del muslo izquierdo. Repítelo con la rodilla derecha flexionada girando hacia la derecha.";
+
+"exerciseDescription58" = "nustiu";
+
+"exerciseDescription59" = "nustiu";
+
+"exerciseDescription60" = "Túmbate sobre la espalda, dobla las rodillas y sujeta la parte externa de los pies. Presiona los pies con las manos para llevar las rodillas hacia las axilas y estirar la cara interna de los muslos. Mantén la máxima cantidad posible de la zona lumbar en el suelo.";
+
+"exerciseDescription61" = "Siéntate entre los talones con las rodillas juntas y la parte superior de los pies en el suelo. Planta el pie derecho en el suelo frente a ti y entrelaza los dedos bajo el arco del pie derecho. Extiende la pierna derecha en el aire mientras estiras la espalda y elevas el pecho hacia la parte superior del pie derecho.";
+
+"exerciseDescription62" = "Empieza con una zancada, con el pie izquierdo hacia delante y las puntas de los dedos rodeando el pie izquierdo en el suelo. Asegúrate de que la rodilla izquierda está doblada en un ángulo de 90 grados y colocada sobre el tobillo, y de que la pierna izquierda está extendida detrás de ti con el metatarso del pie derecho en el suelo. Eleva el vientre sobre el muslo derecho y pon las palmas en un gesto de rezo frente a tu pecho. Toma aire mientras estiras la espalda y exhala girándote hacia la izquierda y enganchando el codo derecho en la parte externa de la rodilla izquierda. Presiona la palma derecha con la palma izquierda, mira hacia arriba sobre tu hombro izquierdo y empuja el talón derecho hacia el cielo. Repítelo adelantando la pierna izquierda y girando hacia la derecha.";
+
+"exerciseDescription63" = "Da una zancada con la rodilla derecha doblada en un ángulo de 90 grados y colocada sobre el tobillo, y la pierna izquierda extendida detrás de ti con el metatarso del pie izquierdo en el suelo. Eleva los hombros sobre las caderas y, con las manos en las caderas, lleva la cadera derecha hacia atrás y cuadra la cadera izquierda hacia delante. Extiende los brazos junto a los oídos. Repítelo adelantando la pierna izquierda.";
+
+"exerciseDescription64" = "Da una zancada con la rodilla derecha doblada en un ángulo de 90 grados y colocada sobre el tobillo, y la pierna izquierda extendida detrás de ti con el metatarso del pie izquierdo en el suelo. Eleva los hombros sobre las caderas y entrelaza los dedos detrás de la espalda. Dóblate hacia adelante por dentro de la pierna derecha, baja la parte superior de la cabeza hacia el suelo y separa las palmas de la zona lumbar. Abraza la cadera derecha hacia adentro mientras empujas el talón izquierdo hacia el techo. Repítelo con la pierna izquierda adelantada y los dedos entrelazados de forma opuesta (es decir, el índice opuesto y el pulgar encima).";
+
+"exerciseDescription65" = "Túmbate boca abajo y planta las palmas a ambos lados del pecho. Empuja con las manos para levantar la parte superior del cuerpo del suelo. Flexiona las rodillas, pon los dedos de los pies en punta y curva el pecho hacia arriba mientras juntas los pies y la parte superior de la cabeza.";
+
+"exerciseDescription66" = "Ponte de pie con los pies juntos y lleva el brazo derecho hacia adelante a la altura del hombro. Pon tu peso sobre el pie derecho mientras doblas la rodilla izquierda, elevas el pie izquierdo hacia la zona pélvica izquierda y sujetas la parte interna del pie izquierdo con la mano derecha. Pon el muslo izquierdo hacia atrás mientras llevas el pecho hacia adelante abrazando la rodilla izquierda y llevándola hacia la mitad del cuerpo. Levanta el brazo derecho hacia el cielo y eleva el pecho alejándolo de la parte superior del muslo izquierdo. Repítelo de pie sobre la pierna izquierda.";
+
+"exerciseDescription67" = "Túmbate boca arriba con las piernas extendidas en el suelo. Lleva la rodilla izquierda hacia el pecho y entrelaza los dedos en la zona externa de la pierna. Repítelo con la pierna izquierda extendida y la rodilla derecha doblada.";
+
+"exerciseDescription68" = "Empieza a cuatro patas con las muñecas bajo los hombros, las rodillas bajo las caderas y los dedos de los pies debajo. Mientras tomas aire, arquea la espalda. Al exhalar, mantén la zona pélvica elevada, dobla los codos y baja el pecho y el mentón hacia el suelo. Como postura inversa, puedes tumbarte boca arriba y abrazar las rodillas contra el pecho para soltar la zona lumbar.";
+
+"exerciseDescription69" = "Empieza con una zancada, con el pie derecho hacia delante y las puntas de los dedos rodeando el pie derecho en el suelo. Asegúrate de que la rodilla derecha está doblada en un ángulo de 90 grados y colocada sobre el tobillo. Baja la rodilla izquierda y la parte superior del pie izquierdo al suelo. Coloca la palma de la mano derecha en la zona interna del pie derecho y baja los hombros al suelo para que queden alineados con el talón derecho, manteniendo los antebrazos paralelos. Abraza tu rodilla derecha llevándola hacia el hombro derecho, estira la espalda y lleva el pecho y la parte superior de la cabeza hacia delante. Repítelo con el lado izquierdo.";
+
+"exerciseDescription70" = "Túmbate boca abajo con los brazos a los lados. Eleva los brazos del suelo, gira las palmas hacia afuera y lleva los pulgares hacia atrás. Eleva el pecho, la cabeza y las piernas del suelo. Pon los dedos de los pies en punta y lleva los pies hacia atrás.";
+
+"exerciseDescription71" = "Empieza con una zancada, con el pie derecho hacia adelante y las puntas de los dedos rodeando el pie derecho en el suelo. Asegúrate de que la rodilla derecha está doblada en un ángulo de 90 grados y colocada sobre el tobillo. Baja la rodilla izquierda y la parte superior del pie izquierdo al suelo. Coloca las manos sobre el muslo derecho mientras elevas el pecho y alineas los hombros sobre las caderas. \n\n Mientras tomas aire, estira la espalda y gira hacia la derecha, colocando la palma de la mano izquierda en la zona externa de la rodilla derecha y bajando la mano derecha a la parte de atrás del muslo izquierdo. Para completar el giro, mira sobre el hombro derecho. \n\n Repítelo en el lado izquierdo.";
+
+"exerciseDescription72" = "Empieza con una zancada, con el pie derecho hacia delante y la rodilla derecha colocada sobre el tobillo derecho. Baja la rodilla izquierda al suelo detrás de ti y coloca la parte superior del pie izquierdo en el suelo. Equilibra las caderas deslizando la cadera derecha hacia atrás y llevando la cadera izquierda hacia delante, en dirección a la cara interna del muslo derecho. Extiende los brazos junto a los oídos y eleva el vientre alejándolo de la parte superior del muslo derecho, curvando el pecho hacia el cielo. Mira hacia arriba entre las palmas de las manos.";
+
+"exerciseDescription73" = "Empieza a cuatro patas en la posición de la mesa.  Coloca la rodilla izquierda detrás de la muñeca izquierda y coloca el borde externo del pie izquierdo detrás de la muñeca derecha. Extiende la pierna derecha detrás de ti con los dedos de los pies debajo y lleva la pierna derecha tan lejos como puedas antes de colocar la rodilla derecha y la parte superior del pie en el suelo. Eleva los hombros sobre las caderas y coloca la zona externa del pie izquierdo frente a la cadera derecha. Dobla la rodilla derecha y, sujetando el pie derecho con la mano derecha, lleva el pie hacia la parte externa de la cadera derecha. Coloca el pie en el hueco del codo derecho. Extiende el brazo izquierdo junto al oído y dobla el codo izquierdo para que las puntas de los dedos apunten hacia el suelo. Entrelaza las puntas de los dedos de las manos mientras elevas el pecho.";
+
+"exerciseDescription74" = "Túmbate sobre la espalda con los brazos a los lados y las plantas de los pies separadas a la distancia entre las caderas. Los bordes externos de los pies deben estar en paralelo y las puntas de los dedos tienen que rozar los bordes de los talones. Dobla los codos y planta las manos en el suelo sobre los hombros. Eleva la pelvis, el pecho y la cabeza del suelo. Rota los muslos internamente para que la cara externa de los muslos gire hacia la cara interna. Desplaza el pecho a través de los brazos. \n\n Junta los pies y, poniendo tu peso sobre el pie izquierdo, dobla la rodilla derecha hacia el pecho. Extiende la pierna derecha recta en el aire. Baja el pie derecho al suelo y repite con la pierna izquierda elevada.";
+
+"exerciseDescription75" = "nustiu";
+
+"exerciseDescription76" = "Empieza a cuatro patas en la posición de la mesa.  Coloca la rodilla izquierda detrás de la muñeca izquierda y coloca el borde externo del pie izquierdo detrás de la muñeca derecha. Extiende la pierna derecha detrás de ti con los dedos de los pies debajo y lleva la pierna derecha lo más lejos que puedas antes de colocar la rodilla derecha y la parte superior del pie en el suelo. Eleva los hombros sobre las caderas, coloca el borde externo del pie izquierdo frente a la cadera derecha y descansa las palmas de las manos a los lados mientras elevas la espalda. Repítelo con la rodilla derecha doblada en frente.";
+
+"exerciseDescription77" = "Ponte de pie con los pies juntos. Lleva el pie hacia atrás aproximadamente a una pierna de distancia y dobla el pie 30 grados hacia fuera, a la izquierda. Toma aire mientras presionas sobre el talón izquierdo y estiras la espalda, y exhala mientras te doblas sobre la pierna derecha, rodeando el pie derecho con las manos.";
+
+"exerciseDescription78" = "Empieza a cuatro patas en la posición de la mesa.  Coloca la rodilla derecha directamente frente a la cadera derecha y coloca el pie derecho detrás de la muñeca izquierda, tan cerca de la muñeca como sea posible mientras mantienes el peso repartido entre ambos lados. Extiende la pierna izquierda detrás de ti con los dedos debajo, y lleva la pierna lo más lejos posible antes de colocar la rodilla izquierda y la parte superior del pie en el suelo. Asegúrate de que el dedo gordo del pie izquierdo apunta directamente hacia atrás y de que tu peso se mantiene centrado (es decir, no lo cargas sobre el lado derecho) antes de doblarte hacia adelante sobre la espinilla derecha. Repítelo con la rodilla izquierda adelantada.";
+
+"exerciseDescription79" = "Siéntate con las piernas extendidas frente a ti. Dobla la rodilla derecha y coloca el borde externo del pie en el pliegue de la cadera izquierda. Dobla la rodilla izquierda y cruza la espinilla izquierda sobre la espinilla derecha para colocar el pie izquierdo en el pliegue de la cadera derecha.  (Si no eres capaz de colocarte en esta postura, NO pongas en riesgo la salud de tus rodillas intentando forzarla.  En lugar de eso, simplemente cruza el tobillo izquierdo sobre el derecho.) \n\n Planta las palmas de las manos en el suelo por fuera de los muslos, unos centímetros por delante de las caderas. Mientras exhalas, lleva el ombligo hacia la espalda, presiona sobre las puntas de los dedos y eleva la pelvis y los muslos del suelo. Repítelo con la espinilla o el tobillo derecho sobre el izquierdo.";
+
+"exerciseDescription80" = "Túmbate boca arriba con los brazos a los lados y las plantas de los pies a la distancia entre las caderas. Los bordes externos de los pies deben estar paralelos y las puntas de los dedos deben rozar los bordes de los talones. Eleva la pelvis del suelo y junta la zona superior de los brazos debajo de ti, entrelazando los dedos en el suelo. Presiona sobre la parte de atrás de los brazos para elevar el pecho. \n\n Junta los pies, lleva la rodilla derecha hacia el pecho y extiende la pierna derecha recta en el aire. Baja el pie derecho al suelo y repítelo con la pierna izquierda elevada.";
+
+"exerciseDescription81" = "nustiu";
+
+"exerciseDescription82" = "Ponte de pie con los pies separados a la distancia entre las caderas. Entrelaza los dedos frente a ti, gira las palmas para que miren hacia afuera y extiende los brazos junto a los oídos con las palmas hacia el techo. Repítelo con el agarre inverso de las manos (es decir, con el otro dedo índice y el pulgar encima).";
+
+"exerciseDescription83" = "Empieza a cuatro patas en la posición de la mesa.  Manteniendo los hombros sobre las muñecas, pon los pies detrás de ti para quedar en una posición de flexión alta. Sólo las manos y los metatarsos de los pies deben tocar el suelo. Presiona sobre las puntas de los dedos, eleva el vientre hacia la zona lumbar y lleva los talones hacia el cielo. Empuja la parte superior de la cabeza hacia adelante para estirar el cuello. Ten cuidado para no levantar las caderas en el aire; en lugar de eso, eleva el pubis hacia el ombligo.";
+
+"exerciseDescription84" = "Túmbate boca arriba con las piernas extendidas, los talones en el suelo y los dedos de los pies flexionados hacia el cielo. Lleva la rodilla izquierda hacia el techo y la mano izquierda hacia el interior de la pierna izquierda, poniendo los tres primeros dedos de la mano izquierda alrededor del dedo gordo del pie izquierdo para hacer la posición de la \"mano en el dedo gordo\". Mantén el glúteo derecho en el suelo y empuja la cadera derecha hacia el suelo mientras extiendes la pierna izquierda hacia el lado izquierdo. Repítelo sujetando el dedo gordo del pie derecho.";
+
+"exerciseDescription85" = "nustiu";
+
+"exerciseDescription86" = "Empieza a cuatro patas en la posición de la mesa.  Manteniendo los hombros sobre las muñecas, eleva la pierna derecha del suelo y dobla la rodilla derecha como si fueras a poner el pie en el techo. Lleva la mano izquierda hacia atrás para sujetar la parte superior del pie derecho. Presiona tu mano con el pie mientras elevas el pecho. Repítelo en el lado contrario.";
+
+"exerciseDescription87" = "Colócate con las piernas muy separadas y los pies paralelos. Gira el pie derecho hacia afuera 90 grados y dobla la rodilla derecha en un ángulo de 90 grados para que la parte superior del muslo derecho quede paralela al suelo. Mantén la rodilla derecha colocada sobre el tobillo derecho y la pierna izquierda recta, con los dedos del pie izquierdo girados ligeramente hacia dentro. Descansa suavemente la palma de la mano izquierda en el muslo izquierdo y extiende el brazo derecho junto al oído derecho. Mientras te doblas lateralmente hacia la pierna izquierda, deja que la mano izquierda se deslice hacia abajo por la pierna. Coloca la cadera derecha debajo de ti mientras empujas la rodilla derecha suavemente hacia el dedo meñique del pie. Repítelo en el lado izquierdo.";
+
+"exerciseDescription88" = "Colócate de pie doblado hacia delante y lleva el pecho hacia adelante mientras colocas las puntas de los dedos en el suelo bajo los hombros. Pon tu peso sobre el pie izquierdo y, manteniendo las caderas equilibradas, mantén la pierna derecha elevada y recta detrás de ti. Pon la palma de la mano derecha en el suelo mientras giras el pecho a la izquierda y extiendes el brazo izquierdo hacia el cielo. Mira hacia arriba, hacia la mano izquierda.";
+
+"exerciseDescription89" = "Siéntate con las piernas extendidas frente a ti. Coloca la planta del pie izquierdo contra la cara interna del muslo derecho. Flexiona el pie derecho y, mientras tomas aire, extiende los brazos junto a los oídos. Mientras exhalas, dóblate sobre la pierna derecha, flexionándote a la altura de pliegue de la cadera y no de la cintura. Ten cuidado para no curvar la zona lumbar. Repítelo con la pierna izquierda extendida y la rodilla derecha flexionada.";
+
+"exerciseDescription90" = "nustiu";
+
+"exerciseDescription91" = "nustiu";
+
+"exerciseDescription92" = "Siéntate con las piernas extendidas frente a ti. Coloca la planta del pie derecho contra la cara interna del muslo izquierdo. Gira la parte superior de tu cuerpo a la derecha, coloca el codo izquierdo en el suelo dentro de la rodilla derecha y sujeta el borde interno del pie izquierdo con la mano izquierda. Extiende el brazo derecho junto al oído y sujeta la parte superior del pie izquierdo con la mano derecha. Coloca el glúteo derecho en el suelo mientras giras el pecho hacia el cielo. Repítelo con la rodilla izquierda flexionada y la rodilla derecha recta, doblándote lateralmente sobre la pierna derecha.";
+
+"exerciseDescription93" = "Ponte de pie con los pies juntos. Desplaza el pie derecho hacia atrás aproximadamente a una pierna de distancia y colócalo en un ángulo de 30 grados hacia fuera, hacia el lado derecho. Coloca las manos en la zona externa de las caderas y toma aire mientras estiras la espalda y llevas el pecho hacia adelante hasta que quede paralelo al suelo. Exhala mientras giras hacia la derecha colocando la palma de la mano derecha en la zona externa del pie izquierdo y elevando el brazo izquierdo hacia el techo. Repítelo con la pierna derecha adelantada y girando hacia el lado derecho.";
+
+"exerciseDescription94" = "Sitúate doblado hacia delante, flexiona las rodillas y tiende las puntas de los dedos en el suelo a ambos lados de los pies. Desplaza el pie derecho hacia atrás manteniendo la rodilla derecha doblada en un ángulo de 90 grados y centrada sobre el tobillo derecho. Lleva el pecho hacia adelante y empuja el talón izquierdo hacia el techo. Repítelo con la rodilla izquierda adelantada.";
+
+"exerciseDescription95" = "Ponte de pie con los pies separados a la distancia entre las caderas. Coloca la mano izquierda en el lado izquierdo de la cintura, pon tu peso sobre el pie derecho y eleva la rodilla izquierda hacia el pecho. Coloca los tres primeros dedos de la mano derecha alrededor del dedo gordo del pie izquierdo y extiende la pierna izquierda hacia la derecha mientras giras la parte superior del cuerpo la izquierda.";
+
+"exerciseDescription96" = "Túmbate boca arriba con los brazos extendidos hacia ambos lados en forma de \"T\". Abraza las rodillas contra el pecho y, manteniendo las rodillas juntas, déjalas caer hacia la izquierda y mira hacia la derecha. Lleva las rodillas de nuevo al centro y la parte de atrás de la cabeza al suelo antes de soltar las rodillas hacia la derecha y mirar hacia la izquierda.";
+
+"exerciseDescription97" = "Túmbate boca arriba, junta las plantas de los pies y deja que las rodillas caigan a ambos lados. Mantén los codos sobre la cabeza.";
+
+"exerciseDescription98" = "Túmbate boca arriba con las piernas extendidas, los talones en el suelo y los dedos de los pies flexionados hacia el techo. Lleva la rodilla izquierda hacia el techo y coloca el brazo izquierdo por dentro de la pierna izquierda, poniendo los tres primeros dedos de la mano izquierda alrededor del dedo gordo del pie izquierdo. Mantén el glúteo derecho en el suelo y empuja el muslo derecho hacia el suelo mientras extiendes la pierna izquierda. Lleva el muslo izquierdo hacia el vientre. Repítelo en el lado derecho.";
+
+"exerciseDescription99" = "Siéntate con las piernas extendidas frente a ti, los talones en el suelo y los dedos de los pies flexionados hacia el cielo. Mientras inhaladas, levanta los brazos junto a los oídos y estira la espalda. Mientras exhalas, dóblate hacia adelante a la altura de los pliegues de la cadera y deja caer el vientre sobre los muslos. Sujeta el pie y, si puedes hacerlo, dobla los codos hacia fuera a ambos lados para apalancarte más profundamente en la flexión hacia delante.";
+
+"exerciseDescription100" = "Colócate de pie bien recto con los pies juntos y las manos en la cintura. Pon los dedos de los pies en punta mientras extiendes la pierna derecha frente a ti y la elevas lo más alto que puedas moviendo las caderas. Desplaza el pie derecho de nuevo hacia abajo, pon tu peso sobre el pie derecho y repítelo con la pierna izquierda extendida frente a ti.";
+
+"exerciseDescription101" = "Comienza con una plancha - una posición de flexión alta con los brazos rectos, los hombros colocados sobre las muñecas y los talones empujando hacia el cielo. Colocando tu peso en el lado derecho, gira hacia el borde externo del pie derecho. Coloca el pie izquierdo sobre el derecho y el hombro izquierdo sobre el derecho. Extiende el brazo izquierdo hacia el cielo, flexiona los dedos de los pies hacia la cabeza y empuja hacia abajo firmemente con las yemas de los dedos de la mano derecha, especialmente el dedo índice y el pulgar. \n\n Dobla la rodilla izquierda hacia el hombro izquierdo y pon los tres primeros dedos de la mano izquierda alrededor del dedo gordo del pie izquierdo en la posición de la \"mano en el dedo gordo.\" Extiende la pierna izquierda hacia el cielo y mantén la cadera izquierda colocada sobre la derecha. \n\n Repítelo en el lado izquierdo con la pierna derecha extendida.";
+
+"exerciseDescription102" = "Siéntate cómodamente con las piernas cruzadas, con la pierna izquierda por encima. Extiende los brazos junto a los oídos y dobla ambos codos de modo que las puntas de los dedos apunten hacia tu espalda. Sujeta el codo derecho con la mano izquierda y tira de él suavemente hacia la izquierda, presionando la parte de atrás de la cabeza contra el brazo derecho. Después extiende el brazo izquierdo hacia la izquierda y gira el pulgar hacia abajo, rotando el brazo izquierdo internamente. Flexiona el codo izquierdo por detrás de ti de forma que las puntas de los dedos de la mano izquierda apunten arriba, hacia tu espalda, y el codo apunte hacia abajo. Si es posible, junta las manos entrelazando las puntas de los dedos. \n\n Repítelo con la pierna derecha y el brazo izquierdo por encima.";
+
+"exerciseDescription103" = "Siéntate cómodamente con las piernas cruzadas, con la pierna izquierda por encima. Coloca el antebrazo derecho a tu derecha con las puntas de los dedos apuntando a la derecha. Mantén el glúteo izquierdo pegado al suelo mientras extiendes el brazo izquierdo junto al oído izquierdo. \n\n Repítelo con la pierna derecha por encima y el brazo derecho extendido junto al oído.";
+
+"exerciseDescription104" = "nustiu";
+
+"exerciseDescription105" = "Ponte de pie con los pies separados a una distancia no mayor de la que hay entre las caderas. Toma aire mientras extiendes los brazos junto a los oídos. Exhala mientras curvas el pecho hacia el cielo y te inclinas hacia atrás. Mantén los bordes internos de los pies firmemente pegados al suelo y eleva la cara interna de los muslos hacia el espacio que está por detrás de ti. Con cada inhalación posterior, estira la parte frontal de la espalda y con cada exhalación posterior lleva la parte frontal de las costillas hacia la espalda. Mientras curvas el pecho hacia arriba, empuja la pelvis hacia el suelo.";
+
+"exerciseDescription106" = "Ponte de pie con los pies juntos. Pon tu peso en el pie izquierdo mientras llevas la rodilla derecha hacia el techo. Desplaza el brazo derecho por la zona interna de la pierna derecha y pon los tres primeros dedos alrededor del dedo gordo del pie en la postura de la \"mano en el dedo gordo.\" Manteniendo las caderas encuadradas, extiende la pierna derecha unos 45 grados hacia el lado derecho. \n\n Repítelo poniéndote de pie sobre la pierna derecha con la pierna izquierda extendida.";
+
+"exerciseDescription107" = "Túmbate boca abajo con la frente en el suelo y entrelaza los dedos detrás de ti. Pon los dedos de los pies en punta y levanta el pecho y la cabeza del suelo. Eleva las manos entrelazadas y muévelas por detrás de ti. Separa la barbilla del pecho y centra la mirada en la punta de la nariz. \n\n Repítelo con los dedos entrelazados a la inversa (es decir, el dedo índice opuesto y el pulgar encima).";
+
+"exerciseDescription108" = "Siéntate recto con las piernas extendidas frente a ti, los talones pegados al suelo y los pies flexionados. Coloca los codos bajo los hombros y descansa las palmas de las manos boca abajo a los lados. Toma aire mientras estiras la espalda y exhala mientras llevas el ombligo hacia la espalda.";
+
+"exerciseDescription109" = "nustiu";
+
+"exerciseDescription110" = "Empieza desde la posición de la mesa a cuatro patas con las muñecas sobre los hombros y las rodillas por encima de las caderas. Pon el pie derecho hacia atrás y pega el talón al suelo de forma que los dedos de los pies apunten a la izquierda. Gira el pie derecho por detrás de ti de forma que la parte alta del pie esté en el suelo y los dedos de los pies apunten a la derecha. Coloca el hombro izquierdo sobre el derecho mientras extiendes el brazo izquierdo hacia el cielo. Repítelo con la pierna derecha extendida y la espinilla izquierda en el suelo.";
+
+"exerciseDescription111" = "Ponte de pie con los pies separados como mínimo a una pierna de distancia y los dedos ligeramente girados hacia dentro. Doblándote a la altura de los pliegues de la cadera, lleva el pecho hacia adelante para colocarte de cara al suelo y pon las palmas de las manos en el suelo bajo los hombros. Mientras llevas la parte alta de la cabeza hacia el suelo, baja los codos hacia el suelo e intenta mantenerlos separados a la distancia entre los hombros.";
+
+"exerciseDescription112" = "Ponte de pie con los pies separados a una distancia ligeramente mayor de la que hay entre las caderas con los dedos de los pies girados hacia fuera. Flexiona las rodillas y baja la zona de los glúteos hacia el suelo entre los talones. Une las palmas frente al pecho en posición de rezo y coloca los codos contra la cara interna de los muslos. Presiona los codos contra la cara interna de los muslos y los muslos contra los codos. Estira la espalda para que la parte superior de la cabeza se eleve y el coxis descienda. Finalmente podrás ser capaz de poner los bordes externos de los pies en paralelo.";
+
+"exerciseDescription113" = "Siéntate con las piernas extendidas hacia ambos lados y los dedos de los pies flexionados hacia el cielo. Toma aire mientras estiras la espalda y exhala mientras te doblas a la altura de los pliegues de la cadera y vas caminando con las manos extendiendo los brazos frente a ti. Mantén el centro de los talones pegados al suelo y la zona pélvica apuntando hacia adelante mientras te doblas.";
+
+"exerciseDescription114" = "Ponte de pie con los pies a una distancia de por lo menos una pierna y los dedos de los pies ligeramente girados hacia dentro. Entrelaza los dedos detrás de ti. Dóblate hacia adelante a la altura de los pliegues de las caderas, dejando ir la parte superior de la cabeza hacia el suelo entre los pies y desplazando las manos unidas hacia el suelo. \n\n Repítelo con los dedos entrelazados a la inversa (es decir, el dedo índice opuesto y el pulgar por encima).";
+
+"exerciseDescription115" = "Siéntate con las piernas extendidas hacia ambos lados y los dedos de los pies flexionados hacia el cielo. Gira la parte superior del cuerpo a la derecha colocando el codo izquierdo en el suelo por la parte interna de la pierna izquierda y sujetando el borde interno del pie izquierdo con la mano izquierda. Extiende el brazo derecho junto al oído y sujeta la parte superior del pie izquierdo en la mano derecha. Pega el glúteo derecho y la pierna derecha al suelo mientras rotas el pecho hacia el cielo. Repítelo doblándote lateralmente sobre la pierna derecha.";
+
+"exerciseDescription116" = "Ponte de pie con los pies separados a una distancia ligeramente superior a las caderas, con los dedos de los pies girados hacia fuera. Dobla las rodillas y baja la zona de los glúteos hacia el suelo entre los talones. Une las palmas frente al pecho en una posición de rezo y coloca los codos contra la cara interna de los muslos. \n\n Toma aire mientras estiras la espalda y exhala mientras te giras hacia la izquierda, separando los brazos. Gira los pulgares hacia abajo para rotar ambos brazos internamente. Flexiona el codo izquierdo por detrás de la espalda y el codo derecho alrededor de la parte externa de la espinilla derecha. Si es posible, enlaza las puntas de los dedos cerca de la zona exterior de la cadera derecha. \n\n Repítelo girando hacia la derecha y poniendo los brazos alrededor de la pierna izquierda.";
+
+"exerciseDescription117" = "Comienza desde la posición de la mesa a cuatro patas. Junta los dedos gordos de los pies y separa las rodillas a una distancia mayor de la que hay entre las caderas. Haz que las palmas de tus manos caminen hacia adelante descansando el torso entre las piernas y colocando la frente en el suelo.";
+
+"exerciseDescription118" = "Empieza con los pies separados como mínimo a una pierna de distancia y los dedos de los pies ligeramente girados hacia dentro. Mientras te doblas a la altura de los pliegues de la cadera, desplaza el pecho hacia adelante para quedar de cara al suelo y coloca las palmas de las manos en el suelo debajo de los hombros. Mientras tomas aire, estira la espalda para que la parte alta de la cabeza se mueva separándose de las caderas. Mientras exhalas, gira hacia la izquierda y estira el brazo izquierdo hacia el cielo. \n\n Vuelve a poner la palma de la mano izquierda en el suelo bajo el hombro izquierdo. Inhala mientras estiras la espalda y exhala mientras giras hacia la derecha, desplazando el brazo derecho hacia el cielo.";
+
+"exerciseDescription119" = "Ponte de pie con los pies separados como mínimo a la distancia de una pierna y los dedos ligeramente girados hacia dentro. Mientras te doblas a la altura de los pliegues de la cadera, desplaza el pecho hacia adelante para quedar de cara al suelo y coloca las palmas de las manos en el suelo bajo los hombros. Haz que tus manos caminen hacia la derecha y sujétate a la parte externa del tobillo derecho, llevando el mentón hacia la espinilla derecha. Haz que tus manos caminen de nuevo hacia el centro y después hacia la izquierda, sujetándote a la parte externa del tobillo izquierdo mientras llevas el mentón hacia la espinilla izquierda.";
+
+"exerciseDescription120" = "Túmbate boca arriba. Extiende el brazo izquierdo junto al oido izquierdo mientras giras hacia el lado izquierdo. Flexiona el codo izquierdo y haz que la zona lateral de la cabeza descanse en la palma de la mano izquierda. Flexiona la rodilla derecha hacia el hombro derecho y pon los tres primeros dedos de la mano derecha alrededor del dedo gordo del pie derecho. Extiende la pierna derecha tanto como puedas, pegando tu lado izquierdo al suelo y abrazando el glúteo derecho hacia la cara interna del muslo izquierdo. \n\n Repítelo tumbado sobre tu lado derecho, sujetando el dedo gordo del pie izquierdo.";
+
+"exerciseDescription121" = "Siéntate con las plantas de los pies juntas frente a la pelvis y las rodillas hacia ambos lados. Pon los tres primeros dedos de cada mano alrededor del dedo gordo de cada pie. Inclínate hacia atrás para que el peso vaya hacia la zona de los glúteos. Manteniendo la espalda recta y las rodillas flexionadas, separa los pies y levántalos del suelo de tal forma que quedes en equilibrio sobre la zona de los glúteos. Gradualmente extiende las piernas hacia los lados mientras elevas el pecho.";
+
+"exerciseDescription122" = "Ponte de pie con las piernas muy separadas y los pies en paralelo. Gira el pie derecho hacia afuera 90 grados y flexiona la rodilla derecha en un ángulo de 90 grados de forma que la parte superior del muslo derecho quede paralela al suelo. Mantén la rodilla derecha colocada sobre el tobillo derecho y la pierna izquierda extendida con los pies ligeramente girados hacia dentro. Mantén los hombros alineados sobre las caderas mientras extiendes los brazos en direcciones opuestas y miras hacia la palma de tu mano derecha. \n\n Repítelo con la rodilla izquierda flexionada y la pierna derecha recta, mirando hacia la palma de la mano izquierda.";
+
+"exerciseDescription123" = "Ponte de pie con los dedos gordos juntos y los bordes externos de los pies en paralelo. Junta los dedos índices y entrelaza el resto de los dedos frente al pecho. Mientras inhalas, mantén las manos unidas y eleva los brazos sobre la cabeza. Mientras exhalas, dóblate lateralmente hacia la izquierda. Pega el talón derecho y eleva las costillas inferiores de la zona izquierda hacia las costillas superiores de la zona derecha. \n\n Con una inhalación, vuelve al centro con las manos unidas sobre la cabeza. Con una exhalación, dóblate lateralmente a la derecha.";
+
+"exerciseDescription124" = "Empieza de pie doblado hacia delante con los dedos gordos juntos, los bordes externos de los pies en paralelo y las palmas de las manos plantadas en el suelo bajo los hombros. Lleva la mayor parte del peso hacia el pie derecho mientras desplazas el pie izquierdo hacia atrás, descansando levemente el dedo gordo del pie izquierdo en el suelo. Coloca la palma de la mano derecha contra la pantorrilla derecha y eleva la pierna izquierda hacia el cielo. Mantén la cadera izquierda alineada con la cadera derecha, elevando la cadera derecha tanto como puedas mientras la abrazas hacia el centro. Presiona la palma de la mano derecha hacia adelante contra la pantorrilla derecha para apalancar el mentón contra la espinilla. \n\n Repítelo poniéndote de pie sobre la pierna izquierda con la pierna derecha extendida.";
+
+"exerciseDescription125" = "Empieza de pie doblado hacia adelante con los dedos gordos de los pies juntos y los bordes externos de los pies en paralelo. Toma aire para estirar la espalda, desplazando el pecho hacia adelante mientras tiendes las puntas de los dedos en el suelo. Exhala mientras te doblas hacia adelante, colocando los brazos alrededor de la zona externa de las piernas para abrazar las pantorrillas. Presiona las palmas de las manos contra las pantorrillas para apalancar la frente hacia las espinillas. Empuja los talones contra el suelo y eleva la zona de los glúteos mientras rotas la cara interna de los muslos hacia la parte de atrás de las piernas. Sé cuidadoso para no curvar la zona lumbar. En lugar de ello, dóblate a la altura de los pliegues de la cadera y deja caer el vientre sobre la zona superior de los muslos.";
+
+"exerciseDescription126" = "Ponte de pie con los pies juntos. Coloca tu peso sobre el pie izquierdo mientras desplazas la rodilla derecha hacia el techo. Lleva el brazo derecho por la parte interna de la rodilla derecha y pon los tres primeros dedos alrededor del dedo gordo en la posición de la \"mano en el dedo gordo.\"  Ponte de pie bien recto empujando el talón izquierdo contra el suelo y elevando la parte superior de la cabeza hacia el techo. Extiende la pierna derecha frente a ti, con cuidado para situar el brazo derecho en la parte de atrás del cuerpo de forma que los hombros permanezcan colocados sobre las caderas.";
+
+"exerciseDescription127" = "Ponte de pie con los dedos gordos de los pies juntos y los bordes externos de los pies en paralelo. Entrelaza los dedos por detrás de la espalda. Toma aire para estirar la espalda y exhala para doblarte hacia adelante a la altura de los pliegues de la cadera, dejando que la parte superior de la cabeza vaya hacia el suelo y desplazando las manos juntas hacia el suelo.";
+
+"exerciseDescription128" = "Ponte de pie con las piernas muy separadas y los pies en paralelo. Gira el pie derecho hacia fuera 90 grados. Levanta el talón izquierdo y, girando sobre el metatarso del pie izquierdo, gira el talón hacia fuera a la izquierda antes de plantarlo en el suelo. Ahora el pecho y la cadera izquierda deberían apuntar en la misma dirección que el pie derecho. Lleva las manos a la zona externa de las caderas y abraza la cadera izquierda hacia adelante mientras llevas la cadera derecha hacia atrás. Flexiona la rodilla derecha para que quede colocada sobre el tobillo. Extiende los brazos junto a los oídos y eleva el pecho. Presiona en el talón izquierdo mientras mantienes la rodilla derecha centrada sobre el tobillo. \n\n Repítelo con el pie izquierdo adelantado.";
+
+"exerciseDescription129" = "Ponte de pie con los pies juntos y levanta los brazos junto a los oídos. Manteniendo la pierna derecha recta y el pecho elevado, desplaza el pie izquierdo hacia atrás para que el metatarso del pie descanse ligeramente en el suelo. Desplaza lentamente tu peso sobre el pie derecho, doblándote hacia adelante a la altura del pliegue de la cadera derecha, y lleva el pecho hacia adelante mientras elevas la pierna izquierda por detrás de ti. Abraza la zona externa de las caderas, la una hacia la otra, y eleva el vientre/costillas frontales hacia dentro, hacia la espalda. \n\n Repítelo equilibrándote sobre la pierna izquierda con la pierna derecha extendida detrás de ti.";
+
+"exerciseDescription130" = "Ponte de pie con los dedos gordos de los pies juntos y los bordes externos de los pies en paralelo. Mientras inhalas, levanta el brazo derecho junto al oído. Mientras exhalas, dóblate lateralmente hacia la izquierda, permitiendo que la mano izquierda se deslice hacia abajo por la parte externa de la pierna izquierda. Presiona sobre el talón derecho y eleva la parte izquierda de la cintura. \n\n Repítelo doblándote lateralmente hacia la derecha.";
+
+"exerciseDescription131" = "nustiu";
+
+"exerciseDescription132" = "Siéntate con las piernas extendidas frente a ti, las palmas plantadas detrás de ti y las yemas de los dedos apuntando hacia delante. Pon los dedos de los pies en punta, presiona sobre las yemas de los dedos y levanta las caderas del suelo. Junta los omóplatos y deslízalos hacia abajo por la espalda mientras elevas el pecho. Gira la cara interna de los muslos la una hacia la otra y desplaza los dedos gordos de los pies hacia el suelo. Si tienes una cervical sana, deja caer suavemente la cabeza hacia atrás para que la base del cráneo descanse sobre los omoplatos.";
+
+"exerciseDescription133" = "Ponte de pie con los pies juntos. Desplaza tu peso sobre el pie derecho y lleva la rodilla izquierda hacia el techo. Sujeta el arco del pie izquierdo con ambas manos. Extiende la pierna izquierda mientras te doblas sobre ella, llevando la frente hacia la espinilla. \n\n Repítelo de pie sobre la pierna izquierda y sujetando el pie derecho.";
+
+"exerciseDescription134" = "Comienza de pie doblado hacia adelante. Flexionando ambas rodillas, planta la mano derecha en el suelo bajo el pecho y coloca la mano izquierda en la cadera izquierda. Toma aire mientras estiras la espalda. Exhala mientras giras hacia la izquierda, extendiendo sólo la pierna izquierda y elevando el brazo izquierdo hacia el cielo. Mantén los lados del cuello estirados mientras miras hacia arriba, a tu mano izquierda. \n\n Vuelve a ponerte de pie doblado hacia delante. Flexionando ambas rodillas, planta la mano izquierda en el suelo bajo el pecho y coloca la mano derecha en la cadera derecha. Toma aire mientras estiras la espalda. Exhala mientras giras hacia la derecha extendiendo sólo la pierna derecha y elevando el brazo derecho hacia el cielo. Mantén los lados del cuello estirados mientras miras hacia arriba, hacia la mano derecha.";
+
+"exerciseDescription135" = "Ponte de pie con los dedos gordos de los pies juntos y los bordes externos de los pies en paralelo. Coloca las palmas de las manos en los glúteos, con las yemas de los dedos apuntando hacia los talones. Mientras inhalas, estira la espalda. Mientras exhalas, utiliza las manos para presionar los glúteos hacia abajo, en dirección a los talones, y curva el pecho hacia el techo. Desliza los omóplatos juntos hacia abajo por la espalda, llevando los codos el uno hacia el otro.";
+
+"exerciseDescription136" = "nustiu";
+
+"exerciseDescription137" = "nustiu";
+
+"exerciseDescription138" = "Túmbate sobre la espalda con las rodillas flexionadas, los pies plantados y separados a la distancia entre las caderas, y los bordes externos de los pies en paralelo. Extiende los brazos a los lados y coloca los pies de forma que las yemas de los dedos rocen los bordes de los talones. Eleva los brazos hacia el cielo y flexiona las muñecas. Dobla los codos y planta las palmas de las manos en la parte superior de los hombros con las puntas de los dedos apuntando hacia la espalda. Presiona sobre los bordes internos de las manos y la parte interna de los talones mientras levantas la pelvis, el pecho y la cabeza del suelo. Ten cuidado para no permitir que los pies se deslicen separándose a mayor distancia de la que hay entre las caderas. \n\n Para soltar, lleva el mentón hacia el techo y los glúteos hacia los talones mientras bajas otra vez hacia el suelo.";

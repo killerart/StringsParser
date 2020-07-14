@@ -1,0 +1,179 @@
+//Plan names
+
+"%ld days plan" = "%ld dagars plan";
+
+//Other
+
+"Meal %ld" = "Måltid %ld";
+"Day %ld" = "Dag %ld";
+
+"Ingredients" = "Ingredienser";
+"Steps" = "Steg";
+
+//Days
+//Day 1
+"Healthy recipes that are awesome to prepare and try out" = "Hälsosamma recept som är goda och lättlagade";
+"To keep your metabolism running strong, you must eat your first meal within 1 hour of rising." = "För att hålla fettförbränningen på högsta nivå bör du äta din första måltid inom 1 timme från det att du vaknat.";
+//Day 2
+"Good nutrition is the foundation of good health" = "En hälsosam kost är grunden till en god hälsa";
+"The solution is to eat within 1 hour of waking up so that you move your metabolism." = "Lösningen är att äta inom 1 timme från det att du vaknat. Detta kommer att sätta fart på din ämnesomsättning.";
+//Day 3
+"Plan ahead to eat breakfast" = "Planera din frukost i förväg";
+"To the highest fat burning speed breakfast is so important to your weight-loss success." = "En snabb ämnesomsättning är oerhört viktig för din viktnedgång.";
+//Day 4
+"Carbs supply the body with energy" = "Kolhydrater förser kroppen med energi";
+"Studies show that 5 meals a day are important in maintaining a healthy body weight." = "Studier visar att 5 måltider om dagen är bästa lösningen för att upprätthålla en hälsosam kroppsvikt.";
+//Day 5
+"Protein is essential for growth and development" = "Protein är viktigt för tillväxt och utveckling";
+"Nutrition plays a key role in maintaining a healthy lifestyle." = "Kostplaner är viktiga för att upprätthålla en hälsosam livsstil.";
+//Day 6
+"You are what you eat" = "Du är vad du äter";
+"Is literally true, if you want your body to perform at a peak level." = "Det är helt sant, i alla fall om du vill att din att din kropp ska fungera så bra som möjligt.";
+//Day 7
+"Controlling portion size use smaller plates" = "Kontrollera portionsstorleken genom att använda mindre tallrikar";
+"Eliminate emotional eating by healing your hungry heart." = "Ta hand om ditt tomma hjärta och minska samtidigt risken för känslomässigt ätande.";
+
+//Content: Title, Ingridients, Instructions
+
+"Strawberries and Creme Oatmeal_Title" = "Jordgubbar och Creme Havregryn";
+"Strawberries and Creme Oatmeal_Ingredients" = "◆\t1/2 kopp havregryn \n\n◆\t1 dl skummjölk \n\n◆\t1 dl Grekisk vaniljyoghurt \n\n◆\t1.5 dl skivade jordgubbar \n\n◆\t2 msk grekisk vaniljyoghurt - fettfri \n\n◆\t1 msk rostad mandel";
+"Strawberries and Creme Oatmeal_Instructions" = "På kvällen rör du om havre, mjölk och 1 dl yoghurt i en burk eller skål tills det är väl blandat. Täck över och kyl i kylskåp över natten. Njut!";
+
+"Golden Glow Elixir_Title" = "Golden Glow Elixir";
+"Golden Glow Elixir_Ingredients" = "◆\t2 äpplen \n\n◆\t4 medestora apelsiner, skal avlägsnas \n\n◆\t1 citron, skalad \n\n◆\t2-3 tums färsk ingefära, skalad \n\n◆\t2-tums färsk gurkmeja, skalad \n\n◆\t2 koppar kallt vatten \n\n◆\t1 handfull is";
+"Golden Glow Elixir_Instructions" = "Blanda alla ingredienser till en jämn blandare med hög hastighet, tillsätt extra vatten om det behövs. En bra mixer gör det till en jämn juice. Om du hellre skulle vilja juica ingredieserna för att göra det ännu mjukare, kör på för att hålla alla fibrer och näringsämnen kvar, men att juica ingredienserna funkar lika bra. Njut av!";
+
+"Tso’s Chicken Stir Fry_Title" = "Tso's Kyklingwok";
+"Tso’s Chicken Stir Fry_Ingredients" = "◆\t4 kycklingbröst, kuberade \n\n◆\t1 kopp mjöl \n\n◆\tvegetabilisk olja \n\n◆\tsalt \n\n◆\tnymalen svartpeppar \n\n◆\t2 klyftor vitlök, malet \n\n◆\t1/2 paket kycklingbuljong \n\n◆\t3 msk honung \n\n◆\t4 msk sojasås \n\n◆\t2 msk limesaft \n\n◆\t2 burkar broccoli, bara blomster \n\n◆\t2 burkar kokt vitt ris för servering";
+"Tso’s Chicken Stir Fry_Instructions" = "I en stor skål, marinera kycklingen med majsstärkelse. Överför bitarna till en stor skål fylld med mjöl och kasta om dem lite och sätt åt sidan. Fyll en stor, djup stekpanna med 1/2 vegetabilisk olja över medelhög värme. Krydda kycklingen, dränera och lägg åt sidan. Tillsätt 2 msk majsstärkelse och rör om. Till såsen, lägg till broccoli och morötter och koka tills det är mjukt, i 5 minuter. Njut!";
+
+"Herbal Tea_Title" = "Örtte";
+"Herbal Tea_Ingredients" = "◆\t1 kopp vatten \n\n◆\t1 tesked riven frisk ingefära \n\n◆\t1 tesked riven limezest \n\n◆\t1 tesked limesaft \n\n◆\t3 lämnar färsk mint";
+"Herbal Tea_Instructions" = "Koka upp vatten i en gryta, rör i resten av ingredienserna. Koka och rör om tills teet är stöpt. Njut!";
+
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Title" = "Grillade Citron-Dijon KycklingLår med Ruccola";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Ingredients" = "◆\t4 Hudlösa, benfria kycklinglår \n\n◆\t1/2 tsk salt \n\n◆\t1/4 tsk malt svartpeppar \n\n◆\t2,5 ss olivolja \n\n◆\t2 tsk citronsaft \n\n◆\t1 tsk skivad vitlök \n\n◆\tmatlagningsspray \n\n◆\t1 msk balsamvinäger \n\n◆\t1 tsk honung \n\n◆\t1 kopp druvtomater, halverad \n\n◆\t1 Paket babyruccola";
+"Grilled Lemon Dijon Chicken Thighs with Arugula Salad_Instructions" = "Strö kycklingen med 1/4 tsk salt och 1/8 peppar. Kombinera kycklingen med 1-1,5 tsk olja, citronsaft, senap och vitlök i en skål, kasta om. Låt stå 4 minuter. Värm en grillpanna över medelvärme. Täck pannan med matlagningsspray. Tillsätt kyckling för att panera, grilla i 5 minuter på varje sida eller tills det är klart. Klipp kycklingen i 1/4 tum tjocka skivor. Njut!";
+
+"Cottage Berry Crunch_Title" = "Keso och Bär-Crunch";
+"Cottage Berry Crunch_Ingredients" = "◆\t1 dl 2% fett keso \n\n◆\t2 msk granola \n\n◆\t1.5 dl skivade bananer \n\n◆\t1.5 dl blandade bär";
+"Cottage Berry Crunch_Instructions" = "Lägg keson i en liten skål. Toppa med resten av ingredienserna. Njut!";
+
+"Pineapple Kiwi_Title" = "Ananas Kiwi";
+"Pineapple Kiwi_Ingredients" = "◆\t4 msk vatten \n\n◆\t1.5 dl mjölk \n\n◆\t1.5 dl kopp yoghurt \n\n◆\t1,5 msk honung \n\n◆\t1 kiwifrukter, skalad \n\n◆\t1 kopp ananasbitar \n\n◆\t1/2 en mango \n\n◆\t2 isbitar";
+"Pineapple Kiwi_Instructions" = "Blanda alla ingredienser vid låg hastighet tills det är tjockt och mjukt. Njut!";
+
+"Lemon Chicken Skillet_Title" = "Citronkyckling";
+"Lemon Chicken Skillet_Ingredients" = "◆\t4 kycklingbröst \n\n◆\t0.5 dl smör \n\n◆\t2 msk. olivolja \n\n◆\t1 citron \n\n◆\t1 citron skivad \n\n◆\t0.5 dl vitt vin \n\n◆\t1 tsk salt \n\n◆\t1 tsk jordad svartpeppar \n\n◆\t1/2 tsk paprikan \n\n◆\t1/2 tsk torkad persilja";
+"Lemon Chicken Skillet_Instructions" = "Kombinera mjöl, salt, peppar, paprika och persilja i en grundskål. Värm olja och smör över medelhög värme. Täck varje kycklingbröst i mjölblandningen och lägg i  stekpannan. Tillsätt citronsaft, vitt vin, citronskal och rosmarin till stekpannan. Koka kyckling på varje sida tills den är kokt. Njut av!";
+
+"Zucchini Quinoa Cookies_Title" = "Zucchini-quinoakakor";
+"Zucchini Quinoa Cookies_Ingredients" = "◆\t0.5 dl jordnötssmör \n\n◆\t0.5 dl honung \n\n◆\t1 banan \n\n◆\t1 ägg \n\n◆\t1 tsk vanilj extrakt \n\n◆\t1 dl havre \n\n◆\t1 dl quinoaflingor \n\n◆\t1 tsk kanel \n\n◆\t1/4 tsk salt \n\n◆\t2.5 dl riven zucchini, pressad";
+"Zucchini Quinoa Cookies_Instructions" = "Förvärm ugnen till 175 grader °C. Tillsätt jordnötssmör, honung, banan, ägg och vanilj i en stor skål och rör om. Tillsätt havre, quinoa flingor, bakpulver, kryddor och salt till skålen och rör om ihop. Vik i strimlad kucchini och chiafrön. Sked degen på en bakpanna. Baka kakorna på mittstället i 15 - 18 minuter tills kanterna är guldbruna. Njut!";
+
+"Savory Shrimp with Fresh Herbs_Title" = "Savoryräka med färska örter";
+"Savory Shrimp with Fresh Herbs_Ingredients" = "◆\t1 kilo stora räkor \n\n◆\t2 röda paprika \n\n◆\t1 purjolök, tunt skivad \n\n◆\t0,5-1 msk kapris, sköljd och dränerad \n\n◆\t2 vitlöksklyftor, snitt skivad \n\n◆\t1.3 dl grovhackad persilja \n\n◆\t3 msk citronsaft \n\n◆\t2 msk olivolja";
+"Savory Shrimp with Fresh Herbs_Instructions" = "Placera en sautépanna över medelvärme och tillsätt olja. Tillsätt räkor, paprika, purjolök, kapris, vitlök, salt och peppar och koka i 4 minuter tills räkorna är rosa. Avlägsna från värmen. Tillsätt citronsaft, skrapa botten av pannan med en sked. Servera räkor som ströks med färsk persilja och basilika. Njut av!";
+
+"Flaxseed Oatmeal with Blueberries_Title" = "Linfrögröt med Blåbär";
+"Flaxseed Oatmeal with Blueberries_Ingredients" = "◆\t7 dl vatten \n\n◆\t5 dl havregryn \n\n◆\t3 msk linfrön \n\n◆\t1/8 tsk salt \n\n◆\t0.5 mjölk \n\n◆\t2 dl blåbär \n\n◆\t1 msk blåbärssylt \n\n◆\t1/2 tsk rivet citronskal \n\n◆\t1 msk citronsaft";
+"Flaxseed Oatmeal with Blueberries_Instructions" = "Koka 3 koppar vatten. Rör i havre, tillsätt linfrö och salt. Minska värmen till medium-låg, koka tills det är en gröt, rör om ofta. Rör i mjölk och smör. Under tiden, kombinera blåbär och nästa 4 ingredienser i en mikrovågssäker skål i mikrovågsugn på hög effekt i 1,5 minuter, rör om var 30:e sekund. Dela havregrynsgröten i 4 skålar. Toppa med blåbär och pekannötter. Njut!";
+
+"Coconut Milk Smoothie With Blueberries_Title" = "Kokosmjölk Smoothie Med Blåbär";
+"Coconut Milk Smoothie With Blueberries_Ingredients" = "◆\t1 påse frysta blåbär \n\n◆\t3 mogna bananer \n\n◆\t2 dl vanlig yoghurt \n\n◆\t2 dl osötad kokosmjölk \n\n◆\t2 msk honung";
+"Coconut Milk Smoothie With Blueberries_Instructions" = "I en blandare, lägg blåbär, bananer, yoghurt, kokosmjölk och honung. Njut!";
+
+"Chicken and Asparagus Stir-Fry_Title" = "Kyckling och sparriswok";
+"Chicken and Asparagus Stir-Fry_Ingredients" = "◆\t1 msk sojasås \n\n◆\t1 msk honung \n\n◆\t2 kycklingbröst, skurna i bitar \n\n◆\t1 msk olivolja \n\n◆\t1 knippe sparris, skuren i bitar \n\n◆\t4 vitlöksklyftor, snitt skivad \n\n◆\t2 tsk rostad sesamolja";
+"Chicken and Asparagus Stir-Fry_Instructions" = "Kombinera sojasås och honung. Tillsätt kyckling och täck den i röran. Ställ i kylskåpet tills det är klart. Under tiden, värm olja i en stor stekpanna över medelvärme. Ta bort sparrisen och lägg åt sidan. Avlägsna kyckling från marinaden och sätt på spisen. Tillsätt sedan vitlök, lök och den reserverade marinaden till pannan. Avlägsna från värme och rör i sesamolja. Njut!";
+
+"Lavender Mint Tea_Title" = "Lavendel och Mintte";
+"Lavender Mint Tea_Ingredients" = "◆\t0.5 dl färska kronblad \n\n◆\t ett knippe färska mintblad \n\n◆\t4 koppar vatten";
+"Lavender Mint Tea_Instructions" = "Placera lavendelkronbladen och myntabladen i en kastrull, häll vatten över och koka. Vrid värmen till låg och smäll te tills önskad styrka, 15 till 20 minuter. Njut!";
+
+"Chili Fajitas_Title" = "Chilifajitas";
+"Chili Fajitas_Ingredients" = "◆\t1 kg skinnfritt kycklingbröst \n\n◆\t1/2 grön, röd och gul paprika, snitt skivad \n\n◆\t0.5 dl vatten \n\n◆\t2 tsk sojasås \n\n◆\tSalt \n\n◆\tLite svartpeppar \n\n◆\t2 msk olivolja \n\n◆\t1 stor lök, tunt skivad";
+"Chili Fajitas_Instructions" = "Kombinera alla marinade-ingredienser med kycklingen i en behållare och kyl i minst 2 timmar. Ta av köttet från marinaden och grilla över medelflamma i 4-5 minuter på varje sida. Skär köttet i tunna band. För såsen, kombinera 2 msk vatten, 1 tsk sojasås, 1/4 tsk limesaft salt pepper och 1 msk olivolja. Njut!";
+
+"Healthy Fruity Oatmeal_Title" = "Hälsosamt fruktig gröt";
+"Healthy Fruity Oatmeal_Ingredients" = "◆\t1.5 dl havre \n\n◆\t2 dl vatten \n\n◆\t1 msk honung \n\n◆\t1 msk vaniljextrakt \n\n◆\t1/2 tsk malen kanel \n\n◆\t0.5 dl blåbär \n\n◆\t4 skivade jordgubbar \n\n◆\t1/2 banan, skuren i skivor";
+"Healthy Fruity Oatmeal_Instructions" = "Kombinera vatten och havre i en mikrovågssäker skål. Mikra på hög efekt tills havren har absorberat vattnet. Rör om honung, vaniljextraktet och malda kanelen. Tillsätt blåbär och toppa med banan och jordgubbsskivor. Njut!";
+
+"Coffee Smoothie_Title" = "Kaffesmoothie";
+"Coffee Smoothie_Ingredients" = "◆\t1 tsk snabbespressopulver \n\n◆\t1 msk varmt vatten \n\n◆\t1 liten banan, skalad, skuren och fryst \n\n◆\t1/4 kopp fettfri mjölk \n\n◆\t1 msk honung \n\n◆\t1/2 kopp isbitar \n\n◆\tmald kanel";
+"Coffee Smoothie_Instructions" = "I en mixer kombineras espressopulver och varmt vatten, låt vila i en minut. Lägg till banan, mjölk och honung. Täck och blanda tills det är mjukt. Tillsätt is tills du uppnår önskad konsistens. Stänk lätt med kanel. Njut!";
+
+"Chicken & Pineapple Stir-Fry_Title" = "Kyckling & Ananaswok";
+"Chicken & Pineapple Stir-Fry_Ingredients" = "◆\t110 g kycklingbröst, 4 oz \n\n◆\t40 g ananas, 1,4 oz \n\n◆\t120 g brunt ris, 4,4 oz \n\n◆\t1/3 msk olivolja \n\n◆\t1/2 tsk brun senap \n\n◆\t1/6 msk rökt paprika \n\n◆\thavssalt \n\n◆\tpeppar";
+"Chicken & Pineapple Stir-Fry_Instructions" = "Hacka de rika kycklingbrösten i små bitar. Smaka på kycklingbitarna med rökt paprika och brun senap. Tillsätt olivolja till en stekpanna och kasta sedan i kycklingbröstbitarna. Koka i ca 4 minuter tills kycklingen är ca 80% färdig, tillsätt sedan hackad paprika. Koka i ytterligare 2 eller 3 minuter innan du lägger den tärnade ananasen. Njut!";
+
+"Raw Chocolate Truffles_Title" = "Råa chokladtrufflar";
+"Raw Chocolate Truffles_Ingredients" = "◆\t1 dl valnötter, cashewnötter och mandlar kvar i vatten över natten \n\n◆\t3-4 msk mandelmjölk \n\n◆\t0.5 dl solrosfrön \n\n◆\t0.5 dl pumpafrön \n\n◆\t2 msk carobpulver \n\n◆\t3 msk kokosflingor";
+"Raw Chocolate Truffles_Instructions" = "Lägg allt i mixern förutom kokosflakorna och mixa. Börja med att göra små bollar från blandningen med en glassscoop. Rulla varje godis i kokosflingor. Servera kallt. Njut!";
+
+"Baked Salmon with Veggies_Title" = "Bakad lax med grönsaker";
+"Baked Salmon with Veggies_Ingredients" = "◆\t2 laxfiléer \n\n◆\t2.5 dl skivad zucchini \n\n◆\t2.5 dl broccoli \n\n◆\t1/2 kopp körsbärstomater \n\n◆\tsalt \n\n◆\tpeppar \n\n◆\tolivolja";
+"Baked Salmon with Veggies_Instructions" = "Förvärm ugnen till 200 grader. Kombinera grönsaker på en stor panna. Krydda grönsakerna med salt, peppar och olivolja. Placera filéerna bredvid grönsakerna och baka 18-20 minuter eller tills laxen är kokt och grönsakerna är mjuka. Njut!";
+
+"Banana Nut Oatmeal_Title" = "Banan och nötgröt";
+"Banana Nut Oatmeal_Ingredients" = "◆\t1/2 kopp havregryn \n\n◆\t1 kopp vatten \n\n◆\t1 skivad banan \n\n◆\t1 msk hackade valnötter \n\n◆\t1 msk kanel";
+"Banana Nut Oatmeal_Instructions" = "Kombinera havre och 1 kopp vatten i en liten mikrovågssäker skål. Mikra vid hög temperatur i 3 minuter. Toppa med bananskivor, valnötter och kanel. Njut!";
+
+"Pink Power_Title" = "Pink Power";
+"Pink Power_Ingredients" = "◆\t2 dl små färska blomkålfloretter \n\n◆\t2 koppar vattenmelonbitar (frön och skenorna avlägsnas) \n\n◆\t1,5 koppar hela jordgubbar \n\n◆\t1 paket grekisk jordgubbsyoghurt \n\n◆\t2 msk jordgubbssylt (tillval)";
+"Pink Power_Instructions" = "I en liten kastrullkock blomkål, täck den med kokande vatten tills mycket mjuk. I en mixer kombineras kokt blomkål, vattenmelon, jordgubbar, yoghurt och, om så önskas, jordgubbssylt. Njut!";
+
+"BBQ Chicken-Wrapped Asparagus_Title" = "BBQ Kyckling-inlindade sparris";
+"BBQ Chicken-Wrapped Asparagus_Ingredients" = "◆\t2 kycklingbröst tunt skurna \n\n◆\t12 sparris \n\n◆\t2 msk bbq sås \n\n◆\t1 nypa rökt paprika \n\n◆\t1 nypa vitlökspulver \n\n◆\t1 nypa peppar";
+"BBQ Chicken-Wrapped Asparagus_Instructions" = "Ställ ugnen på 400 ° F / 200 ° C. Platta till kycklingen med en hammare. Krydda kycklingen med 1 msk grillsås (för varje bit) och ditt urval av kryddor. Placera kycklingen på en grill med öppet vänd nedåt. Baka i ugnen eller rök på en grill i ca 8 till 10 minuter. Njut av!";
+
+"Ginger Turmeric Herbal Tea_Title" = "Gingerkarmeric örtte";
+"Ginger Turmeric Herbal Tea_Ingredients" = "◆\t2 koppar vatten \n\n◆\t1/2 tesked hackad färsk ingefära \n\n◆\t1/2 tesked kanel \n\n◆\t1 matsked honung \n\n◆\t1 citronkil";
+"Ginger Turmeric Herbal Tea_Instructions" = "Koka upp vatten i en liten kastrull, tillsätt gurkmeja, ingefära och kanel. Minska värmen till låg och sjud i 10 minuter. Häll te i ett stort glas, tillsätt honung och citron. Njut!";
+
+"Grilled Shrimp & Avocado Kabobs_Title" = "Grillad Räka & Avokado Kabobs";
+"Grilled Shrimp & Avocado Kabobs_Ingredients" = "◆\t450 g jumboräka \n\n◆\t1,5 avokado \n\n◆\t1 röd paprika \n\n◆\t1 orange paprika \n\n◆\t1 gul paprika \n\n◆\t1 rödlök \n\n◆\t1 tsk vitlökspasta \n\n◆\t1/2 msk extra jungfruolja \n\n◆\t1 lime \n\n◆\tsalt peppar";
+"Grilled Shrimp & Avocado Kabobs_Instructions" = "Ställ in grillen till ca 200 ° C. Haka grönsaker och avokado i stora bitar för kabob. Skala räkorna och krydda. Välj fibrösa grönsaker eftersom de fyller mer och kommer troligen att hålla sig bra på ett spett under intensiv värme. Placera spetten på grillen och grilla i ca 8-10 minuter och vänd sedan om och koka i ytterligare 8 till 10 minuter. Njut!";
+
+"Morning Parfait_Title" = "Morgonparfait";
+"Morning Parfait_Ingredients" = "◆\t1/4 kopp russin och 1 tsk finfördelad apelsinskalning \n\n◆\t1 tsk vanilj \n\n◆\tHalvt paket med fettfattig Neufchatelost (färskost) \n\n◆\tbrödsmulor \n\n◆\t2 dl färska hallon, blåbär, skivade jordgubbar och/eller skurna persikor \n\n◆\t1.5 dl fettfattig granola \n\n◆\thonung \n\n◆\tstrimlade apelsinskal";
+"Morning Parfait_Instructions" = "Blanda brödsmulor och ost, strö över bakpannan. I med olja. Baka i 20 till 25 minuter. I fyra glas, placera lag av färskostblandningen, ett lager av frukt och ett lager av granola. Upprepa lagren till toppen av glasen. På med honung och toppa med ytterligare apelsinskal. Gör 4 portioner. Njut!";
+
+"Green Tea Kiwi and Mango_Title" = "Grönt te Kiwi och Mango";
+"Green Tea Kiwi and Mango_Ingredients" = "◆\t7 dl fryst tärnad mango \n\n◆\t1 dl vanil yoghurt \n\n◆\t2 msk honung \n\n◆\t2 msk vatten \n\n◆\t3 mogna kiwi \n\n◆\t2 koppar isbitar \n\n◆\t0.5 dl babyspenat \n\n◆\t2 msk grönt te";
+"Green Tea Kiwi and Mango_Instructions" = "Placera mango, 1/2 kopp yoghurt, 2 matskedar honung, 2 matskedar vatten och limeskal i en mixer, mixa. Placera 1/4 kopp yoghurt, 2 matskedar honung, kiwifrukter och nästa 3 ingredienser i en mixer och blanda. Njut!";
+
+"Citrus Chicken Stir-Fry_Title" = "Citrus kycklingwok";
+"Citrus Chicken Stir-Fry_Ingredients" = "◆\t140 g kycklingbröst, små bitar \n\n◆\t34 g broccolini \n\n◆\t25 g baby portobello svamp \n\n◆\t1/4 röd paprika \n\n◆\t20 g rödlök \n\n◆\tKokosoljespray \n\n◆\tsesamfrön \n\n◆\t1/4 tsk pilbladstärkelse \n\n◆\t1/8 msk vitlökpasta \n\n◆\t1/4 tsk ginger pasta";
+"Citrus Chicken Stir-Fry_Instructions" = "Blanda alla ingredienser i en skål. Spraya en stekpanna med kokosnötolja och sätt på mediumvärme. Kasta i kycklingbitarna och koka tills de är ca 85% färdiga. Kasta sedan i grönsakerna och rör om med en spatel. Njut av!";
+
+"Grilled Mexican Corn_Title" = "Grillad mexikansk majs";
+"Grilled Mexican Corn_Ingredients" = "◆\t4 öron majs \n\n◆\t3.5 dl gräddfil \n\n◆\t1 kopp riven parmesan \n\n◆\t1 lime, juice \n\n◆\trött chilipulver \n\n◆\t2 lime i skivor, för garnering";
+"Grilled Mexican Corn_Instructions" = "Grilla majsen på en varm grill tills den börjar bli lite förkolad. Blanda i en liten skål majonnäs, gräddfil och koriander. Täck med  majs, limejuice och krydda med parmesan. Strö med chili pulver. Njut!";
+
+"Salmon Burger with Avocado_Title" = "Laxburgare med Avokado";
+"Salmon Burger with Avocado_Ingredients" = "◆\t350 g laxfilé \n\n◆\t1 kopp brödsmulor \n\n◆\t1 ägg \n\n◆\t1 msk citronsaft \n\n◆\tsalt och peppar \n\n◆\tolivolja \n\n◆\t1 stor avokado \n\n◆\t1 dl hackad rödlök \n\n◆\t1 limejuice";
+"Salmon Burger with Avocado_Instructions" = "Haka laxfileten i små bitar och överför den till en blandningsskål. Rör försiktigt in resten av ingredienserna. Låt blandningen vila i 5-10 minuter. Värm lite olja i en stor grillpanna över medelvärme. Forma burgare från laxblandningen. Stek tills de är bruna på båda sidorna ca 4 minuter på varje sida. Njut!";
+
+"Strawberry and Banana Nut Bread Oatmeal_Title" = "Jordgubbar Bananer och Nötbrödsgröt";
+"Strawberry and Banana Nut Bread Oatmeal_Ingredients" = "◆\t150 g havregryn \n\n◆\t1/2 mosad banan \n\n◆\t50 g jordgubbar \n\n◆\t2 msk mandelmjölk \n\n◆\t1 msk vanilj extrakt \n\n◆\t2 msk hackade valnötter \n\n◆\tPaket stevia \n\n◆\tCitronskalsgarnering \n\n◆\t1 msk grekisk yoghurt (2% fetthalt) \n\n◆\t1/2 msk hackade valnötter \n\n◆\tvallmofrön";
+"Strawberry and Banana Nut Bread Oatmeal_Instructions" = "Koka havren enligt anvisningarna, lägg sedan åt sidan. Lägg alla ingredienser i en skål utom jordgubbarna och blanda noga. Toppa havregrynen med färskhackade jordgubbar. Garnera med grekisk yoghurt, hackade valnötter och vallmofrön. Njut!";
+
+"Strawberry Banana_Title" = "Jordgubb och banan";
+"Strawberry Banana_Ingredients" = "◆\t2 koppar jordgubbar \n\n◆\t1 fräsch skalad banan \n\n◆\t2 dl mjölk \n\n◆\t1 kubisis \n\n◆\t1 msk honung";
+"Strawberry Banana_Instructions" = "Lägg till alla ingredienser i en mixer och blanda tills de är kombinerade. Om smoothien är för tjock, tillsätt mer mjölk. Om det är för tunt, lägg till mer frukt och/eller is. Njut!";
+
+"Spicy & Light Kung Pao Chicken Meal Prep_Title" = "Kryddig & Lätt Kung Pao Kyckling";
+"Spicy & Light Kung Pao Chicken Meal Prep_Ingredients" = "◆\t150 g kycklingbröst \n\n◆\t1/6 vitlöksklyfta \n\n◆\t33 g ärter \n\n◆\t150 g paprika \n\n◆\t2/3 msk vatten \n\n◆\t1/3 msk tomatsås \n\n◆\t1 msk färsk ingefära \n\n◆\t1 msk röd chili pepparsås \n\n◆\t1 ml risvinäger \n\n◆\thackad grön lök";
+"Spicy & Light Kung Pao Chicken Meal Prep_Instructions" = "I en skål lägg till ingredienser för såsen och vispa. Ställ en stekpanna över medelvärme och spraya med olivolja. När stekpannan är het, kasta i vitlök och sear i ca 2 minuter. Lägg sedan till hackade kycklingbrösten. Koka kycklingen tills utsidan av den är stekt, ca 6 till 8 minuter. Kasta i hackad paprika och stek i ca 3 minuter. Häll långsamt i såsen och rör om ofta. Njut!";
+
+"Lavender Mint Tea_Title" = "Lavendel och Mintte";
+"Lavender Mint Tea_Ingredients" = "◆\t0.5 dl färska kronblad \n\n◆\t ett knippe färska mintblad \n\n◆\t4 koppar vatten";
+"Lavender Mint Tea_Instructions" = "Placera lavendelkronbladen och myntabladen i en kastrull, häll vatten över och koka. Vrid värmen till låg och smäll te tills önskad styrka, 15 till 20 minuter. Njut!";
+
+"Foil Fish Packets with Spinach and Tomato_Title" = "Foliefiskpaket med spenat och tomat";
+"Foil Fish Packets with Spinach and Tomato_Ingredients" = "◆\t1 knippe sparris \n\n◆\t2 skivade tomater \n\n◆\t2 tilapiafiléer \n\n◆\tolivolja \n\n◆\t1/2 tsk chili vitlöksås \n\n◆\tsalt \n\n◆\t1 citron skivad";
+"Foil Fish Packets with Spinach and Tomato_Instructions" = "Förvärm ugnen till 200 grader °C. Blanda med olivolja, chilisås och salt i en liten skål. Placera sparrisspetten i mitten på en bit aluminiumfolie och lägg skivad tomat jämnt på toppen och krydda. Placera en fiskfilé ovanpå tomaterna i varje förpackning och sära fisken med olivoljeblandning. Ordna citronskivor över fisken. Baka fisken i ugnen under 25-30 minuter. Njut!";
+
+
+
