@@ -1,0 +1,381 @@
+
+//BUILD MUSCLE NUTRITION PLAN
+
+"Nutrition plan for building muscle" = "Nutrition plan for \n building muscle";
+"nutritionPlanDescription1" = "Muscle Strength and Size To stay \n consistent. Speed up metabolism";
+
+/* Day - 1 */
+"titleDay1" = "Everyone needs the three \n basics nutrients, carbohydrates,\n  proteins, and fats.";
+"descriptionDay1" = "Carbs supply the body with energy it needs to function. They are found almost exclusively in plan foods.";
+
+/* Day - 2 */
+"titleDay2" = "Protein is essential for growth \n and development. It provides \n the body with energy.";
+"descriptionDay2" = "Complete proteins are found in meat, fish, poultry, cheese, eggs, and milk.";
+
+/* Day - 3 */
+"titleDay3" = "Good fats are in fact, the most \n concentrated source of energy \n available to the body.";
+"descriptionDay3" = "By choosing the healthiest forms of each of these nutrients and eating them in the proper balance.";
+
+/* Day - 4 */
+"titleDay4" = "The saying \"You are what you eat\" is \n literally true.If you want your body \n to perform at a peak level.";
+"descriptionDay4" = "Choose red, orange, and dark-green vegetables like tomatoes, sweet potatoes, and broccoli, along with other vegetables for your meals.";
+
+/* Day - 5 */
+"titleDay5" = "Maximum amount of added sugars \n you should eat in a day: 37.5 \n grams or 9 teaspoons. ";
+"descriptionDay5" = "Fructose causes insulin resistance and raises insulin levels in the body, which increases the deposition of fat in the fat cells.";
+
+/* Day - 6 */
+"titleDay6" = "Water is an essential nutrient \n that is involved in every \n function of the body.";
+"descriptionDay6" = "Our organs, muscle, and bones all have water in them and need water to function properly.";
+
+/* Day - 7 */
+"titleDay7" = "Your body’s health reflects \n what you put into it.";
+"descriptionDay7" = "When combined with physical activity, a healthy diet can help people keep a healthy weight and reduce risk of chronic diseases. ";
+
+
+//WEIGHT LOSS NUTRITION PLAN
+
+"Nutrition plan for weight loss" = "Nutrition plan for \n weight loss";
+"nutritionPlanDescription2" = "Learn what to eat, discover \n fat burning foods";
+
+/* Day - 8 */
+"titleDay8" = "Enjoyment of a healthy diet can \n also be one of the great cultural \n pleasures of life.";
+"descriptionDay8" = "We need a wide variety of different foods to provide the right amounts of nutrients for good health.";
+
+/* Day - 9 */
+"titleDay9" = "Eliminate emotional eating by \n healing your hungry heart.";
+"descriptionDay9" = "Nutrition plays a key role in maintaining a healthy lifestyle.";
+
+/* Day - 10 */
+"titleDay10" = "Morning workout is better \n for weight loss";
+"descriptionDay10" = "In the morning, before you’ve eaten, your body is forced to utilize it's fat stores for energy.";
+
+/* Day - 11 */
+"titleDay11" = "Try Interval Training because it can \n end up burning more calories in less \n time than your regular workout.";
+"descriptionDay11" = "All you have to do is step up your intensity and train in short bursts instead of going steady for the entire workout.";
+
+/* Day - 12 */
+"titleDay12" = "Consistency in exercise is the \n key to real results and real health benefits.";
+"descriptionDay12" = "To speed up the metabolism and to help recuperate from your training, try to eat 5-6 small meals per day";
+
+/* Day - 13 */
+"titleDay13" = "Studies show that breakfast can \n be important in maintaining a \n health body weight.";
+"descriptionDay13" = "To keep your metabolism running strong, you must eat your fist meal within 1 hour of rising.";
+
+/* Day - 14 */
+"titleDay14" = "We recommend doing your cardio \n first thing in the morning, \n 30 minutes plus, before breakfast.";
+"descriptionDay14" = "Cardiovascular activity is necessary to keep the metabolism roaring and help you burn some extra calories.";
+
+
+//MEALS
+
+/* Meal-1 */
+"name1" = "Grillade Citron–Dijon KycklingLår med Ruccola";
+"ingredients1" = "4 Hudlösa, benfria kycklinglår \n\n½ tsk salt \n\n¼ tsk malt svartpeppar \n\n2,5 ss olivolja \n\n2 tsk citronsaft \n\n1 tsk skivad vitlök \n\nmatlagningsspray \n\n1 msk balsamvinäger \n\n1 tsk honung \n\n1 kopp druvtomater, halverad \n\n1 Paket babyruccola";
+"steps1" = "Strö kycklingen med ¼ tsk salt och 1/8 peppar. Kombinera kycklingen med 1–1,5 tsk olja, citronsaft, senap och vitlök i en skål, kasta om. Låt stå 4 minuter. Värm en grillpanna över medelvärme. Täck pannan med matlagningsspray. Tillsätt kyckling för att panera, grilla i 5 minuter på varje sida eller tills det är klart. Klipp kycklingen i ¼ tum tjocka skivor. Njut!";
+
+/* Meal-2 */
+"name2" = "Tso's Kyklingwok";
+"ingredients2" = "4 kycklingbröst, kuberade \n\n1 kopp mjöl \n\nvegetabilisk olja \n\nsalt \n\nnymalen svartpeppar \n\n2 klyftor vitlök, malet \n\n½ paket kycklingbuljong \n\n3 msk honung \n\n4 msk sojasås \n\n2 msk limesaft \n\n2 burkar broccoli, bara blomster \n\n2 burkar kokt vitt ris för servering";
+"steps2" = "I en stor skål, marinera kycklingen med majsstärkelse. Överför bitarna till en stor skål fylld med mjöl och kasta om dem lite och sätt åt sidan. Fyll en stor, djup stekpanna med ½ vegetabilisk olja över medelhög värme. Krydda kycklingen, dränera och lägg åt sidan. Tillsätt 2 msk majsstärkelse och rör om. Till såsen, lägg till broccoli och morötter och koka tills det är mjukt, i 5 minuter. Njut!";
+
+/* Meal-3 */
+"name3" = "Orange Honung–Sriracha kyckling";
+"ingredients3" = "0,1 kg kycklingbröst \n\n1/8 msk sesamolja \n\n12,5 g Sriracha sås \n\nsalt \n\npeppar";
+"steps3" = "Sätt din grill eller ugn till 190 ° C. I en tätbar plastpåse lägger du till innehållet för marinaden och blandar väl ihop. Smaka på marinaden och krydda den efter dina önskemål. Tillsätt kycklingen till marinaden och lägg i kylskåpet i minst 30 minuter. Ta sedan kycklingen ur kylskåpet och lägg den på grillen. Grilla i ca 15 till 20 minuter tills juicerna från kycklingen runnit klart. Njut!";
+
+/* Meal-4 */
+"name4" = "Honung-senap glaserade laxbollar";
+"ingredients4" = "• 350 g vild lax\n• 1/8 msk vitlökpasta\n• 7 g rödlök, hackad\n• 1 msk cilantro, hackad\n• 1/8 ägg\n• 1/8 äggvita\n• 0,06 paprika\n• salt\n• peppar\n• 0,2 tsk ingefära\n• 1/8 msk kycklingbuljong";
+"steps4" = "Ställ ugnen på 200 ° C. Smaksätt laxen och baka den i ugnen tills laxen kan flakas med en gaffel. Fling laxen med en gaffel så att den strimlas i en skål. Kasta i alla ingredienser, förutom glasyren, och blanda ihop. Baka laxen i ugnen i ca 7 minuter. Blanda ihop en separat skål med alla ingredienser för senapsrub. Njut!";
+
+/* Meal-5 */
+"name5" = "Grillade Citron–Dijon KycklingLår med Ruccola";
+"ingredients5" = "4 Hudlösa, benfria kycklinglår \n\n½ tsk salt \n\n¼ tsk malt svartpeppar \n\n2,5 ss olivolja \n\n2 tsk citronsaft \n\n1 tsk skivad vitlök \n\nmatlagningsspray \n\n1 msk balsamvinäger \n\n1 tsk honung \n\n1 kopp druvtomater, halverad \n\n1 Paket babyruccola";
+"steps5" = "Strö kycklingen med ¼ tsk salt och 1/8 peppar. Kombinera kycklingen med 1–1,5 tsk olja, citronsaft, senap och vitlök i en skål, kasta om. Låt stå 4 minuter. Värm en grillpanna över medelvärme. Täck pannan med matlagningsspray. Tillsätt kyckling för att panera, grilla i 5 minuter på varje sida eller tills det är klart. Klipp kycklingen i ¼ tum tjocka skivor. Njut!";
+
+/* Meal-6 */
+"name6" = "Chilifajitas";
+"ingredients6" = "1 kg skinnfritt kycklingbröst \n\n½ grön, röd och gul paprika, snitt skivad \n\n0.5 dl vatten \n\n2 tsk sojasås \n\nSalt \n\nLite svartpeppar \n\n2 msk olivolja \n\n1 stor lök, tunt skivad";
+"steps6" = "Kombinera alla marinade–ingredienser med kycklingen i en behållare och kyl i minst 2 timmar. Ta av köttet från marinaden och grilla över medelflamma i 4–5 minuter på varje sida. Skär köttet i tunna band. För såsen, kombinera 2 msk vatten, 1 tsk sojasås, ¼ tsk limesaft salt pepper och 1 msk olivolja. Njut!";
+
+/* Meal-7 */
+"name7" = "Kalkon & Veggieomellettrullar";
+"ingredients7" = "1 ägg \n\n4 äggvitor \n\n200 g mager kalkon, kokt \n\n1 handfull spenat (rå) \n\n60g paprika \n\n15g getost";
+"steps7" = "Krydda och laga kalkon i stekpannan. Mät en daglig portion av ägg och tillaglaga i en separat stekpanna. Lägg till getost, spenat, paprikor och kalkon. Vänta tills det svalnar en stund innan och lägg den i aluminiumfolie istället. Njut!";
+
+/* Meal-8 */
+"name8" = "Citrus kycklingwok";
+"ingredients8" = "• 140 g kycklingbröst, små bitar\n• 34 g broccolini\n• 25 g baby portobello svamp\n• 1/4 röd paprika\n• 20 g rödlök\n• Kokosoljespray\n• sesamfrön\n• 1/4 tsk pilbladstärkelse\n• 1/8 msk vitlökpasta\n• 1/4 tsk ginger pasta";
+"steps8" = "Blanda alla ingredienser i en skål. Spraya en stekpanna med kokosnötolja och sätt på mediumvärme. Kasta i kycklingbitarna och koka tills de är ca 85% färdiga. Kasta sedan i grönsakerna och rör om med en spatel. Njut av!";
+
+/* Meal-9 */
+"name9" = "Söt chililax";
+"ingredients9" = "1 laxfilé \n\nsalt \n\nsvartpeppar \n\n1 tsk olja \n\n4 msk söt chilisås \n\n1,5 tsk limejuice \n\n½ tsk vit sesam";
+"steps9" = "Smaka laxen med salt och peppar. Blanda chilisås, lime juice, sesam och koriander lämnar tillsammans. Värm upp en stekpanna över medelvärme och tillsätt olja. Skär laxen på båda sidor tills den är kokt. Njut!";
+
+/* Meal-10 */
+"name10" = "BBQ Kyckling–inlindade sparris";
+"ingredients10" = "2 kycklingbröst tunt skurna \n\n12 sparris \n\n2 msk bbq sås \n\n1 nypa rökt paprika \n\n1 nypa vitlökspulver \n\n1 nypa peppar";
+"steps10" = "Ställ ugnen på 400 ° F / 200 ° C. Platta till kycklingen med en hammare. Krydda kycklingen med 1 msk grillsås (för varje bit) och ditt urval av kryddor. Placera kycklingen på en grill med öppet vänd nedåt. Baka i ugnen eller rök på en grill i ca 8 till 10 minuter. Njut av!";
+
+/* Meal-11 */
+"name11" = "Äggvita, Sparris Brunris & Quinoa Frittata";
+"ingredients11" = "6 äggvitor \n\n2 sparris \n\n120 g brunt ris och quinoa–blandning (kokt) \n\n1 söt mini rödpaprika \n\nvitlökspulver \n\npeppar \n\nsalt \n\n½ rosa grapefrukt";
+"steps11" = "Ställ ugnen på 200 ° C. Spraya lätt en stekpanna med olivolja. Tillsätt kokt brunt ris och quinoa till stekpannan. Häll i äggvitan. Lägg till sparris och paprikaskivor. Baka i ugnen i ca 15 minuter. Njut!";
+
+/* Meal-12 */
+"name12" = "Medelhavsgrekisk hackad sallad (Wrap)";
+"ingredients12" = "1 fullkornsmortortilla, 25 cm  \n\n140 g kokta kycklingbröst \n\n3 romantinsalatblad \n\n4 msk färsk basilika \n\n50 g rödlök \n\n50 g gurka \n\n5 körsbärstomater, skär i halva \n\n⅓ citron \n\n3/4 msk olivolja \n\n⅓ tsk vitlök \n\nsalt \n\npeppar";
+"steps12" = "Blanda ingredienserna i en skål och krydda med salt och peppar. Tillsätt den i en blandningsskål och tillsätt sedan 1 servering av citronvinägrett. Blanda salladen med en spatel och lägg sedan lite av innehållet på tortilla. Njut!";
+
+/* Meal-13 */
+"name13" = "Banan och nötgröt";
+"ingredients13" = "½ kopp havregryn \n\n1 kopp vatten \n\n1 skivad banan \n\n1 msk hackade valnötter \n\n1 msk kanel";
+"steps13" = "Kombinera havre och 1 kopp vatten i en liten mikrovågssäker skål. Mikra vid hög temperatur i 3 minuter. Toppa med bananskivor, valnötter och kanel. Njut!";
+
+/* Meal-14 */
+"name14" = "Lätt citron vitlökspasta med lax";
+"ingredients14" = "350 g laxfilé \n\nEn näve rigatoni / pasta \n\n1 tsk vitlök, malet \n\n2 msk olivolja \n\n½ kopp basilika blad, hackade \n\nsalt och peppar \n\n2 msk citronsaft \n\n2 tsk kapris";
+"steps14" = "Koka pastan enligt förpackningsanvisningar. Under tiden krydda lax med salt och peppar och baka vid 200 grader C i 15–20 minuter beroende på tjocklek. När pastan är kokt, dränera och kasta med vitlök, olivolja, basilika och krydda. Tillsätt citronsaft, skal och kapris till pastan och blanda. Njut!";
+
+/* Meal-15 */
+"name15" = "Apelsinlax";
+"ingredients15" = "• 150 g  lax\n• 1/2 msk apelsinmarmelad\n• 1/2 msk senap\n• 1/2 pressad apelsin";
+"steps15" = "Blanda marmelad, senap, socker och apelsinjuice tillsammans i en skål. Gnid blandade ingredienser över lax och koka i 3 till 4 minuter tills laxen är klar. Njut!";
+
+/* Meal-16 */
+"name16" = "Svamp och spenat–omelett";
+"ingredients16" = "1 msk olivolja \n\n½ kopp hackade shallotenlökar \n\n3 vitlöksklyftor, malet \n\n1 förpackad skivad vit svamp \n\n1 timjanskvist \n\nFärsk spenat \n\nsalt \n\nmalen svartpeppar \n\n8 stora ägg";
+"steps16" = "Värm en stekpanna över medelhög värme. Tillsätt olja på pannan. Tillsätt shallot, vitlök, svamp och timjan. Tillsätt spenat, sautéra tills vätska nästan avdunstar. Kombinera en nypa salt och peppar och 4 ägg i en liten skål, rör om med en visp. Återgå till medelvärme. Tillsätt äggblandningen och koka i 1 minut. Lyft kanterna av omeletten med en spate och luta pannan för att kläcka ett okokt ägg på botten av pannan. Njut!";
+
+/* Meal-17 */
+"name17" = "Savoryräka med färska örter";
+"ingredients17" = "1 kilo stora räkor \n\n2 röda paprika \n\n1 purjolök, tunt skivad \n\n0,5–1 msk kapris, sköljd och dränerad \n\n2 vitlöksklyftor, snitt skivad \n\n1.3 dl grovhackad persilja \n\n3 msk citronsaft \n\n2 msk olivolja";
+"steps17" = "Placera en sautépanna över medelvärme och tillsätt olja. Tillsätt räkor, paprika, purjolök, kapris, vitlök, salt och peppar och koka i 4 minuter tills räkorna är rosa. Avlägsna från värmen. Tillsätt citronsaft, skrapa botten av pannan med en sked. Servera räkor som ströks med färsk persilja och basilika. Njut av!";
+
+/* Meal-18 */
+"name18" = "Citrongrillat Kycklingbröst";
+"ingredients18" = "3 msk citronsaft \n\n2 msk olivolja \n\n2 vitlöksklyftor, malet \n\n7 kycklingbrösthalvor \n\n½ tsk salt \n\n½ tsk nybakad svartpeppar \n\nmatlagningsspray";
+"steps18" = "För grillen till medelhög värme. Kombinera de första 4 ingredienserna i en stor plastpåse och försegla. Marinera i kylskåp 30 minuter. Ta bort kycklingen från påsen, ta bort marinaden. Strö kycklingen jämnt med salt och peppar. Placera kycklingen på grillstället belagt med matlagningsspray, grilla varje sida eller tills det är klart. Njut!";
+
+/* Meal-19 */
+"name19" = "Jordgubbar Bananer och Nötbrödsgröt";
+"ingredients19" = "150 g havregryn \n\n½ mosad banan \n\n50 g jordgubbar \n\n2 msk mandelmjölk \n\n1 msk vanilj extrakt \n\n2 msk hackade valnötter \n\nPaket stevia \n\nCitronskalsgarnering \n\n1 msk grekisk yoghurt (2% fetthalt) \n\n½ msk hackade valnötter \n\nvallmofrön";
+"steps19" = "Koka havren enligt anvisningarna, lägg sedan åt sidan. Lägg alla ingredienser i en skål utom jordgubbarna och blanda noga. Toppa havregrynen med färskhackade jordgubbar. Garnera med grekisk yoghurt, hackade valnötter och vallmofrön. Njut!";
+
+/* Meal-20 */
+"name20" = "Teriyakikyckling och broccoli";
+"ingredients20" = "2 koppar broccolifloretter \n\n1 stort kycklingbröst, tärnad i kuber \n\n1 matskedolja \n\nsalt och peppar \n\n1 paprika, skivad \n\n2 koppar kokt brunt ris \n\n0.5 dl ljus sojasås \n\n2 msk vin vinäger \n\n1 vitlöksklyfta, malet \n\n½ tsk sesamolja \n\n¼ tsk grön ingefära";
+"steps20" = "Värm en stor panna över medelhög värme. Tillsätt kyckling, krydda med salt och peppar och koka tills det inte längre är rosa. Vispa alla ingredienser för teriyakisåsen i en liten skål. Tillsätt broccolifloretterna och paprika i pannan. Dela kyckling och broccoli i 4 måltidsberedningsbehållare. Strö med sesamfrön och lock. Njut!";
+
+/* Meal-21 */
+"name21" = "Krämig mjölkfri kycklingpasta";
+"ingredients21" = "110 g  kycklingbröst \n\n42 g  fullkornspasta \n\n0.5 cl olivolja \n\n75 ml 2% flaska kokosmjölk \n\n45 ml kycklingbuljong \n\n160 g sparris \n\n½ citron \n\n¼ vitlöksklyfta \n\n1,3 msk persilja";
+"steps21" = "Koka och laga pasta enligt anvisningarna och lägg åt sidan. Krydda kycklingen med salt, peppar och oregano. Tillsätt hälften av olivoljan till en stekpanna och sätt på medelvärme. När kokkärlet är varmt, stek kycklingbröstet på båda sidor tills kycklingen är helt tillagad och ta bort dem från stekpannan. Tillsätt kycklingbuljong, citronsaft. Låt det rinna av i några minuter och tillsätt sedan pastan. Njut!";
+
+/* Meal-22 */
+"name22" = "Räkburgare";
+"ingredients22" = "• 450 g råa räkor\n• 1 msk olivolja\n• 1 röd paprika\n• grönlök\n• salt peppar\n• Glutenfrit bröd\n• Mosad avokado\n• sallat\n• tomat\n• groddar";
+"steps22" = "Ställ in grilltemperaturen på ca 190 ° C. Tillsätt hamburgeringredienser (förutom paprika och grönlök) till en mixer och pulsera tills du malt räkorna. Dumpa sedan det i en skål och tillsätt hackad paprika och grön lök. Sätt sedan hamburgarna på grillen och laga dem i ca 15-20 minuter, ca 8-10 minuter på varje sida. Njut!";
+
+/* Meal-23 */
+"name23" = "BBQ–senap kyckling";
+"ingredients23" = "110 g kycklingbröst \n\nsalt \n\npeppar\n\nIngredienser för sås:\n\n31 g senap \n\n10,5 g honung \n\n15 ml äppelcidervinäger \n\n¼ tsk rökt paprika \n\n¼ tsk gurkmeja";
+"steps23" = "Sätt grillen på 200 ° C. Blanda ingredienserna i såsen i en skål. Krydda kycklingbitarna med salt och  peppar. Skär bitarna med trä kabobsticks. Placera kycklingen på grillen och stek i ca 10 till 12 minuter. Torka sedan kycklingen med såsen och stek i ytterligare 8 till 10 minuter tills kycklingen är helt tillagad Njut av!";
+
+/* Meal-24 */
+"name24" = "Breakfast Bowl med brunt ris";
+"ingredients24" = "• 4 ägg\n• 1 msk grekisk yoghurt (2% fetthalt)\n• salt\n• peppar\n• Tabascosås\n• 1 msk smör\n• 250 g mikrovågsbart brunt ris\n• 1/2 avokado, tärnad\n• 1 romatomat, tärnad\n• 1 skallion skivad tunt";
+"steps24" = "I en mediumstor skål, slå ägget med grekisk yoghurt, salt, peppar och stark sås. Smälta smöret i en medelhög stekpanna. Tillsätt ägg och rör om. I en serveringsskål lägger du till det bruna riset och sedan toppar du med äggröra, avokado, tomat och stark sås. Njut!";
+
+/* Meal-25 */
+"name25" = "Kyckling och sparriswok";
+"ingredients25" = "1 msk sojasås \n\n1 msk honung \n\n2 kycklingbröst, skurna i bitar \n\n1 msk olivolja \n\n1 knippe sparris, skuren i bitar \n\n4 vitlöksklyftor, snitt skivad \n\n2 tsk rostad sesamolja";
+"steps25" = "Kombinera sojasås och honung. Tillsätt kyckling och täck den i röran. Ställ i kylskåpet tills det är klart. Under tiden, värm olja i en stor stekpanna över medelvärme. Ta bort sparrisen och lägg åt sidan. Avlägsna kyckling från marinaden och sätt på spisen. Tillsätt sedan vitlök, lök och den reserverade marinaden till pannan. Avlägsna från värme och rör i sesamolja. Njut!";
+
+/* Meal-26 */
+"name26" = "Biff med Broccoli och paprika";
+"ingredients26" = "500 g biff, trimmad \n\n2 msk sojasås med lågt natrium \n\n1 tsk skivad vitlök \n\n½ tsk malt svartpeppar \n\n¼ tsk krossad rödpeppar \n\n500 g broccoli \n\n2 msk rapsolja \n\n1 stor röd paprika, skuren i 1–cm bitar \n\n4 koppar kokta långkornigt ris";
+"steps26" = "Skär biffen i hälften. Skär varje halva  i 1/8–tums tjocka skivor. Kombinera nötkött, sojasås, vitlök och svartpeppar, kasta väl och kyl i 30 minuter. Kombinera ½ matskedar vatten, ostronsås och krossad rödpeppar i en liten skål avsatt. Skär broccolin i floretter, skär stammarna diagonalt i ¼ tum tjocka skivor. Koka broccolin i 2 minuter. Njut!";
+
+/* Meal-27 */
+"name27" = "Cajun–Kaffe Räkor";
+"ingredients27" = "450 g jumboräka \n\n1 msk olivolja \n\nsalt \n\npeppar \n\nFärsk persilja \n\ncitron \n\n25 g kaffebönor \n\n1 msk rökt paprika \n\n1 tsk matkummin \n\n1 tsk cayennepeppar";
+"steps27" = "Placera ingredienserna för din kafferub i en kraftig mixer. Blanda tills kaffebönorna är halvblandade. Smaksätt räkorna med ca 5 matskedar rub och tillsätt olivolja. Blanda det med händerna och se till att alla räkor har täcks. När stekpannan är varm, kasta i räkorna. Njut!";
+
+/* Meal-28 */
+"name28" = "Foliefiskpaket med spenat och tomat";
+"ingredients28" = "• 1 knippe sparris\n• 2 skivade tomater\n• 2 tilapiafiléer\n• olivolja\n• 1/2 tsk chili vitlöksås\n• salt\n• 1 citron skivad";
+"steps28" = "Förvärm ugnen till 200 grader °C. Blanda med olivolja, chilisås och salt i en liten skål. Placera sparrisspetten i mitten på en bit aluminiumfolie och lägg skivad tomat jämnt på toppen och krydda. Placera en fiskfilé ovanpå tomaterna i varje förpackning och sära fisken med olivoljeblandning. Ordna citronskivor över fisken. Baka fisken i ugnen under 25-30 minuter. Njut!";
+
+/* Meal-29 */
+"name29" = "Räkor med Zucchini Nudlar";
+"ingredients29" = "• 1 zuchini\n• 1/2 - 1 tsk smör\n• 340 g räkor, skalade\n• 0.5 dl körsbärstomater, halverade\n• 1/4 tsk rödpepparflingor\n• 2 msk kycklingbuljong\n• salt och peppar\n• 1 msk riven parmesan";
+"steps29" = "Använd en spiraliserare och skär courgetten till nudlar. Smält smöret i en stekpanna. Tillsätt räkor, tomater, vitlök, sjalottenlök och röda paprikaflingor. Koka i 3-4 minuter tills räkorna är rosa. Tillsätt kycklingbuljongen och citronsaften. När du har simmerat lägger du till zucchininudlarna. Njut!";
+
+/* Meal-30 */
+"name30" = "Linfrögröt med Blåbär";
+"ingredients30" = "7 dl vatten \n\n5 dl havregryn \n\n3 msk linfrön \n\n1/8 tsk salt \n\n0.5 mjölk \n\n2 dl blåbär \n\n1 msk blåbärssylt \n\n½ tsk rivet citronskal \n\n1 msk citronsaft";
+"steps30" = "Koka 3 koppar vatten. Rör i havre, tillsätt linfrö och salt. Minska värmen till medium–låg, koka tills det är en gröt, rör om ofta. Rör i mjölk och smör. Under tiden, kombinera blåbär och nästa 4 ingredienser i en mikrovågssäker skål i mikrovågsugn på hög effekt i 1,5 minuter, rör om var 30:e sekund. Dela havregrynsgröten i 4 skålar. Toppa med blåbär och pekannötter. Njut!";
+
+/* Meal-31 */
+"name31" = "Kryddig biff och broccoliskål";
+"ingredients31" = "140 g  mager biff \n\n130 g brunt ris \n\n91 g broccoli \n\n31 g skivad röd paprika \n\nfärsk koriander \n\n1 lime \n\nröd chili peppar–pasta \n\nvitlök";
+"steps31" = "Skär biffen i bitar och krydda med chilipepparpasta och färsk vitlök. Ställ en stekpanna över medelvärme och spraya med kokosnötolja. När stekpannan är het, kasta i köttet och låt det stekas på ena sidan. När du har stekt, vänd köttet och lägg till broccoli och paprikabitar. Rör om blandningen, se till att alla köttsidor, broccoli och paprika är kokta. Njut!";
+
+/* Meal-32 */
+"name32" = "Sötstarka limeräkor";
+"ingredients32" = "340 g jumboräkor \n\n1 msk sesamolja \n\n2 msk honung \n\n1 msk vitlökpasta \n\n1 msk röd chili pepparsås \n\n½ juicad lime";
+"steps32" = "Blanda alla ingredienser i en påse. Marinera i minst 20 minuter och koka sedan i en stekpanna. Njut!";
+
+/* Meal-33 */
+"name33" = "Southwestern Red Pepper";
+"ingredients33" = "• 150 g kokt havre\n• 1 paprika\n• 1 msk grekisk yoghurt (2% fetthalt)\n• Mozzarellaost\n• 1 tsk rökt paprika\n• 1/2 tsk bakad kummin\n• 50g svarta bönor, dränerade\n• 40g ångad majs\n• 1 msk grekisk yoghurt (2% fetthalt)\n• salt\n• peppar";
+"steps33" = "Koka havren enligt anvisningarna. Ställ ugnen på 200 ° C. Skiva i en halv paprika och ta bort fröna. Placera paprikahalvorna på bakplåten nedåt. Baka i ugnen i minst 15 minuter eller tills halvorna är mjuka. Blanda sedan havregryn, grekisk yoghurt, bönor, majs, paprika och kummin. Smaksätt med havssalt och peppar. Njut!";
+
+/* Meal-34 */
+"name34" = "Svartbönsallad med Lime–Cumin Dressing";
+"ingredients34" = "1 kopp tunt skivad selleri \n\n2 dl skivad rödlök \n\n2 burkar med svarta bönor, sköljas och dräneras \n\n0.5 dl limejuice \n\n1 msk olivolja";
+"steps34" = "Kombinera selleri, lök och svarta bönor i en stor skål. Kombinera alla dressingredienser i en liten skål, rör om blandningen med en visp tills den blandas. Häll över bönblandning. Njut!";
+
+/* Meal-35 */
+"name35" = "Grillad sydväst–lax";
+"ingredients35" = "110 g  lax \n\n1 msk olivolja \n\n1 msk rökt paprika \n\nsalt peppar";
+"steps35" = "Ställ ugnen på 200°C. Gnugga filéerna i kryddor och grilla i ca 15 minuter, eller tills klart. Njut!";
+
+/* Meal-36 */
+"name36" = "Äggröra och havregrynsgröt med banan och kanel";
+"ingredients36" = "2 ägg \n\n3 äggvitor \n\n1 dl havregryn \n\n1 banan \n\nkanel";
+"steps36" = "Vispa 2 ägg och 3 äggvitor i en skål. Smaka med lite salt och peppar. Tillsätt lite olja på en panna och värm pannan på spisen. Lägg till äggen. Rör försiktigt med en spatel tills äggen är kokta och ta bort från värmen. Därefter tillreder du havregrynen. Rör noggrant om och tillsätt lite kanel för smakens skull. Njut!";
+
+/* Meal-37 */
+"name37" = "Kryddig & Lätt Kung Pao Kyckling";
+"ingredients37" = "150 g kycklingbröst \n\n1/6 vitlöksklyfta \n\n33 g ärter \n\n150 g paprika \n\n2/3 msk vatten \n\n⅓ msk tomatsås \n\n1 msk färsk ingefära \n\n1 msk röd chili pepparsås \n\n1 ml risvinäger \n\nhackad grön lök";
+"steps37" = "I en skål lägg till ingredienser för såsen och vispa. Ställ en stekpanna över medelvärme och spraya med olivolja. När stekpannan är het, kasta i vitlök och sear i ca 2 minuter. Lägg sedan till hackade kycklingbrösten. Koka kycklingen tills utsidan av den är stekt, ca 6 till 8 minuter. Kasta i hackad paprika och stek i ca 3 minuter. Häll långsamt i såsen och rör om ofta. Njut!";
+
+/* Meal-38 */
+"name38" = "Kryddiga apelsinlaxspett";
+"ingredients38" = "150 g vild lax \n\n27 g apelsinmarmelad \n\n1/6 msk rökt paprika \n\n1/6 msk kokosnötsocker \n\n⅓ tsk Tabasco sås \n\n⅓ mandarinjuice";
+"steps38" = "Skiv lax i stycken för spett. Marinera laxen i ca 45 minuter. Baka i ugnen i 8–10 minuter vid 200 ° C. Njut!";
+
+/* Meal-39 */
+"name39" = "Laxburgare med Avokado";
+"ingredients39" = "350 g laxfilé \n\n1 kopp brödsmulor \n\n1 ägg \n\n1 msk citronsaft \n\nsalt och peppar \n\nolivolja \n\n1 stor avokado \n\n1 dl hackad rödlök \n\n1 limejuice";
+"steps39" = "Haka laxfileten i små bitar och överför den till en blandningsskål. Rör försiktigt in resten av ingredienserna. Låt blandningen vila i 5–10 minuter. Värm lite olja i en stor grillpanna över medelvärme. Forma burgare från laxblandningen. Stek tills de är bruna på båda sidorna ca 4 minuter på varje sida. Njut!";
+
+/* Meal-40 */
+"name40" = "Hälsosamt fruktig gröt";
+"ingredients40" = "1.5 dl havre \n\n2 dl vatten \n\n1 msk honung \n\n1 msk vaniljextrakt \n\n½ tsk malen kanel \n\n0.5 dl blåbär \n\n4 skivade jordgubbar \n\n½ banan, skuren i skivor";
+"steps40" = "Kombinera vatten och havre i en mikrovågssäker skål. Mikra på hög efekt tills havren har absorberat vattnet. Rör om honung, vaniljextraktet och malda kanelen. Tillsätt blåbär och toppa med banan och jordgubbsskivor. Njut!";
+
+/* Meal-41 */
+"name41" = "Smoothie med kiwi, apelsiner och spenat";
+"ingredients41" = "En stor handfull spenat \n\n2 kiwibitar \n\nen mango \n\njuicea en apelsin";
+"steps41" = "Tvätta spenaten, skära av rötterna. Tvätta mango och kiwi, skära sedan i små bitar. Vispa alla ingredienser i en blandare tills det är blandat. Njut!";
+
+/* Meal-42 */
+"name42" = "Rökt lax Guacamole";
+"ingredients42" = "1 avokado \n\n60 g  rökt lax \n\n17 g rödlök, hackad \n\n2 msk cilantro, hackad \n\n2 msk grekisk yoghurt \n\npeppar";
+"steps42" = "Blanda avokadoerna i en skål och kombinera alla ingredienserna. Smaka med senap, kummin, citronsaft, grekisk yoghurt och peppar efter smak. Njut!";
+
+/* Meal-43 */
+"name43" = "Smal Stekt ägg och Avokado Toast";
+"ingredients43" = "2 ägg \n\n2 rostat brödskivor \n\nEn liten avokado \n\n1 tsk limesaft \n\nsalt \n\nsvartpeppar \n\nPersilja";
+"steps43" = "Förbered toasten och stek äggen som du vill. Skala och mosa avokado med limesaft, salt och peppar. Sprid avokado jämnt på varje skiva toast, vardera med ett stekt ägg och extra kryddor efter dina önskemål. Njut!";
+
+/* Meal-44 */
+"name44" = "Söt, röd träningssmoothie";
+"ingredients44" = "1 rött äpple \n\n½ rödbetor \n\n1 stav selleri \n\n3 jordgubbar \n\n¼ en banan \n\ngrönt te (tillval) \n\nHallon \n\n1 tsk ingefära (tillval)";
+"steps44" = "Lägg alla ingredienser i en mixer. Blanda i ca 1 minut för att försäkra dig om att du tar bort alla bitar, blanda sedan tills du är nöjd. Drick som ett mellanmål. Njut!";
+
+/* Meal-45 */
+"name45" = "Vitlökstekt sparris med parmesan";
+"ingredients45" = "1 kg färsk sparris \n\n2 msk olivolja \n\n3 msk riven parmesan \n\n2 vitlöksklyftor, malda \n\nsalt och peppar";
+"steps45" = "Lägg sparrisen i pannan och krydda med salt och peppar och kasta i olivoljan. Lägg sparrisen på grillen i rad. Grilla i 5–10 minuter över mediumvärme tills de har grillmärken och är mjuka. Njut!";
+
+/* Meal-46 */
+"name46" = "Hemlagad Pesto med Räkor & Zucchini Pasta";
+"ingredients46" = "• 12 g färsk basilika\n• 7,5 g rå spenat\n• 7,5 g valnötter\n• 20 ml olivolja\n• 1/2 msk parmesan\n• 0.2 dl citronsaft\n• 1/4 vitlöksklyfta\n• salt\n• peppar\n• 42 g kokta räkor\n• 1/4 zucchini\n• 2 körsbärstomater skivade";
+"steps46" = "Blanda i en matprocessor. I en skål skär du zucchini linguine med hjälp av en spiraliserare. Tillsätt pestosåsen till din zucchini linguine och kasta om. Lägg till ditt val av protein som grillade räkor eller kyckling, och lägg sedan till hackade körsbärstomater. Njut!";
+
+/* Meal-47 */
+"name47" = "Spicy Berry Cobbler Havremjöl";
+"ingredients47" = "150 g havregryn \n\n49 g blåbär \n\n50 g björnbär \n\n3 msk hackade valnötter \n\n½ msk kokosnötolja \n\n¼ tsk gurkmeja \n\n¼ tsk allspice \n\n1 paket stevia \n\n1 nypa kanel \n\n1 msk granola";
+"steps47" = "Koka havren enligt anvisningarna. Ta av. Sätt en panna på medelvärme, tillsätt kokosolja. Låt pannan bli varm. Kasta i bären. Krydda bären med en nypa kanel och rör om. Ta bort bären från värmen och låt såsen tjockna. Blanda noga och tillsätt lite mer kanel om så önskas. Häll den varma bärsirapen på toppen av havregryn. Garnera med färsk granola för att lägga till lite krisp. Njut!";
+
+/* Meal-48 */
+"name48" = "Persika Banan";
+"ingredients48" = "• 1 banan\n• 2 persikor\n• 1.5 dl vaniljmandelmjölk\n• 1.5 dl isbitar\n• 1/4 tsk kanel\n• honung (valfritt)";
+"steps48" = "Skala och skiv fräscha persikor och bananer. Häll alla ingredienser i en mixer. Tillsätt honung och blanda för att göra smoothie sötare om så önskas. Njut!";
+
+/* Meal-49 */
+"name49" = "Kyckling & Ananaswok";
+"ingredients49" = "110 g kycklingbröst, 4 oz \n\n40 g ananas, 1,4 oz \n\n120 g brunt ris, 4,4 oz \n\n⅓ msk olivolja \n\n½ tsk brun senap \n\n1/6 msk rökt paprika \n\nhavssalt \n\npeppar";
+"steps49" = "Hacka de rika kycklingbrösten i små bitar. Smaka på kycklingbitarna med rökt paprika och brun senap. Tillsätt olivolja till en stekpanna och kasta sedan i kycklingbröstbitarna. Koka i ca 4 minuter tills kycklingen är ca 80% färdig, tillsätt sedan hackad paprika. Koka i ytterligare 2 eller 3 minuter innan du lägger den tärnade ananasen. Njut!";
+
+/* Meal-50 */
+"name50" = "Örtte";
+"ingredients50" = "• 1 kopp vatten\n• 1 tesked riven frisk ingefära\n• 1 tesked riven limezest\n• 1 tesked limesaft\n• 3 lämnar färsk mint";
+"steps50" = "Koka upp vatten i en gryta, rör i resten av ingredienserna. Koka och rör om tills teet är stöpt. Njut!";
+
+/* Meal-51 */
+"name51" = "Svamp och tomatomelett";
+"ingredients51" = "4 äggvitor \n\n1 ägg \n\n1.5 dl mager ost \n\n1.5 dl skivad svamp \n\n½ hackad tomat";
+"steps51" = "Kombinera ägg och rör dem lätt. Använd en matlagningsspray, koka ägg i en stekpanna. Lägg till keso, svamp och tomater i mitten av omelett. Koka tills äggen är klara och vik över. Njut!";
+
+/* Meal-52 */
+"name52" = "Spenatsmoothie med päron och ingefära";
+"ingredients52" = "• 700 g spenat\n• 2 msk citronsaft\n• 2 tsk ingefära\n• 2 päron\n• mynta";
+"steps52" = "Blanda alla ingredienser i en mixer och blanda tills det når en jämn konsistens. Njut!";
+
+/* Meal-53 */
+"name53" = "Grillad mexikansk majs";
+"ingredients53" = "4 öron majs \n\n3.5 dl gräddfil \n\n1 kopp riven parmesan \n\n1 lime, juice \n\nrött chilipulver \n\n2 lime i skivor, för garnering";
+"steps53" = "Grilla majsen på en varm grill tills den börjar bli lite förkolad. Blanda i en liten skål majonnäs, gräddfil och koriander. Täck med  majs, limejuice och krydda med parmesan. Strö med chili pulver. Njut!";
+
+/* Meal-54 */
+"name54" = "Ananas Kiwi";
+"ingredients54" = "4 msk vatten \n\n1.5 dl mjölk \n\n1.5 dl kopp yoghurt \n\n1,5 msk honung \n\n1 kiwifrukter, skalad \n\n1 kopp ananasbitar \n\n½ en mango \n\n2 isbitar";
+"steps54" = "Blanda alla ingredienser vid låg hastighet tills det är tjockt och mjukt. Njut!";
+
+/* Meal-55 */
+"name55" = "Citrus och Honugste";
+"ingredients55" = "• 1 citronskiva\n• 2 tsk grönt tepulver\n• 2 dl varmt vatten\n• 1.5 dl grapefruktjuice\n• 3 msk citronsaft\n• 1 tsk honung";
+"steps55" = "Rör i grönt tepulver och varmt vatten. Lägg till grapefruktjuice, citronsaft och honung. Blanda väl och servera med en citronskiva. Njut!";
+
+/* Meal-56 */
+"name56" = "Grillad Räka & Avokado Kabobs";
+"ingredients56" = "• 450 g jumboräka\n• 1,5 avokado\n• 1 röd paprika\n• 1 orange paprika\n• 1 gul paprika\n• 1 rödlök\n• 1 tsk vitlökspasta\n• 1/2 msk extra jungfruolja\n• 1 lime\n• salt peppar";
+"steps56" = "Ställ in grillen till ca 200 ° C. Haka grönsaker och avokado i stora bitar för kabob. Skala räkorna och krydda. Välj fibrösa grönsaker eftersom de fyller mer och kommer troligen att hålla sig bra på ett spett under intensiv värme. Placera spetten på grillen och grilla i ca 8-10 minuter och vänd sedan om och koka i ytterligare 8 till 10 minuter. Njut!";
+
+/* Meal-57 */
+"name57" = "Kryddig Grillad Kyckling & Äggsmörgås";
+"ingredients57" = "• 140g kycklingbröst, rått\n• 1 ägg\n•  Ruccola\n• 1/2 tomat\n• 1 msk getost\n• 1 vetebulle\n• Kokosoljespray\n• 1 tsk rökt paprika\n• 1/2 tsk cayennepeppar\n• salt\n• peppar";
+"steps57" = "Krydda kycklingbröstet med paprika, cayenne, kummin, havsalt och peppar. Rosta vetebrödet i en brödrost till egen krispighet. Spraya en stekpanna med kokosnötolja och sätt på medelhög värme. Lägg kycklingbröstet i stekpannan och laga på båda sidor tills kycklingbröstet är helt kokt. Tillsätt ruccola, tomat, getost, kyckling och sedan ägget. Njut!";
+
+/* Meal-58 */
+"name58" = "Golden Glow Elixir";
+"ingredients58" = "2 äpplen \n\n4 medestora apelsiner, skal avlägsnas \n\n1 citron, skalad \n\n2–3 tums färsk ingefära, skalad \n\n2–tums färsk gurkmeja, skalad \n\n2 koppar kallt vatten \n\n1 handfull is";
+"steps58" = "Blanda alla ingredienser till en jämn blandare med hög hastighet, tillsätt extra vatten om det behövs. En bra mixer gör det till en jämn juice. Om du hellre skulle vilja juica ingredieserna för att göra det ännu mjukare, kör på för att hålla alla fibrer och näringsämnen kvar, men att juica ingredienserna funkar lika bra. Njut av!";
+
+/* Meal-59 */
+"name59" = "Bisonomelette ";
+"ingredients59" = "• 1 ägg\n• 3 äggvitor\n• 110 g mager strimlad bison\n• 30g råspenat\n• 60g paprika\n• 14g mozzarellaost, riven\n• vitlökspulver\n• malen kummin\n• salt\n• peppar";
+"steps59" = "Krydda och tilllaga bisonen i en panna.Vispa ägg i en skål med en nypa havssalt och peppar. Sätt en panna över medelhög värme. Häll i äggblandningen och laga det som en pannkaka. Täck pannan för att låta ägget tillagas i sin helhet. Njut!";
+
+/* Meal-60 */
+"name60" = "Papaya";
+"ingredients60" = "2 medium papaya, pitted och hackad \n\n2 dl hallon \n\n¼ liten ananas \n\ningefära \n\n2 dl mjölk \n\n2 msk grekisk yoghurt \n\n1,5 kub is \n\nbär till garnering";
+"steps60" = "Kasta ingredienser i en mixer. Blanda tills mjukt. Njut!";
+
+/* Meal-61 */
+"name61" = "Lavendel och Mintte";
+"ingredients61" = "• 0.5 dl färska kronblad\n•  ett knippe färska mintblad\n• 4 koppar vatten";
+"steps61" = "Placera lavendelkronbladen och myntabladen i en kastrull, häll vatten över och koka. Vrid värmen till låg och smäll te tills önskad styrka, 15 till 20 minuter. Njut!";
+
+/* Meal-62 */
+"name62" = "Färska Räkor & Grönsakspasta";
+"ingredients62" = "170 g räkor \n\n1 korg \n\n2 morötter \n\n½ vitlökskivad hackad \n\n¼ rödlök hackad \n\n1 msk lågnatrium sojasås \n\n¼ apelsinjuice \n\n½ msk sesamolja";
+"steps62" = "Du behöver en Julienne–peeler för att skära zucchini och morötter för att göra grönsakspastan. Lägg sedan till 1 msk sojasås.Tillsätt sedan cidervinäger och pressa saften från ¼ apelsin. Slutligen tillsätta ½ msk sesamola. Ställ en stekpanna på medelhög värme och spraya med kokosnötolja. Kasta i vitlök och rödlök. Tillsätt räkorna i stekpannan och rör omedelbart med en sked för att se till att alla räkor absorberar vitlökens och lökens smak. Njut!";
+

@@ -1,0 +1,384 @@
+
+//BUILD MUSCLE NUTRITION PLAN
+
+"Nutrition plan for building muscle" = "Nutrition plan for \n building muscle";
+"nutritionPlanDescription1" = "Muscle Strength and Size To stay \n consistent. Speed up metabolism";
+
+/* Day - 1 */
+"titleDay1" = "Everyone needs the three \n basics nutrients, carbohydrates,\n  proteins, and fats.";
+"descriptionDay1" = "Carbs supply the body with energy it needs to function. They are found almost exclusively in plan foods.";
+
+/* Day - 2 */
+"titleDay2" = "Protein is essential for growth \n and development. It provides \n the body with energy.";
+"descriptionDay2" = "Complete proteins are found in meat, fish, poultry, cheese, eggs, and milk.";
+
+/* Day - 3 */
+"titleDay3" = "Good fats are in fact, the most \n concentrated source of energy \n available to the body.";
+"descriptionDay3" = "By choosing the healthiest forms of each of these nutrients and eating them in the proper balance.";
+
+/* Day - 4 */
+"titleDay4" = "The saying \"You are what you eat\" is \n literally true.If you want your body \n to perform at a peak level.";
+"descriptionDay4" = "Choose red, orange, and dark-green vegetables like tomatoes, sweet potatoes, and broccoli, along with other vegetables for your meals.";
+
+/* Day - 5 */
+"titleDay5" = "Maximum amount of added sugars \n you should eat in a day: 37.5 \n grams or 9 teaspoons. ";
+"descriptionDay5" = "Fructose causes insulin resistance and raises insulin levels in the body, which increases the deposition of fat in the fat cells.";
+
+/* Day - 6 */
+"titleDay6" = "Water is an essential nutrient \n that is involved in every \n function of the body.";
+"descriptionDay6" = "Our organs, muscle, and bones all have water in them and need water to function properly.";
+
+/* Day - 7 */
+"titleDay7" = "Your body’s health reflects \n what you put into it.";
+"descriptionDay7" = "When combined with physical activity, a healthy diet can help people keep a healthy weight and reduce risk of chronic diseases. ";
+
+
+//WEIGHT LOSS NUTRITION PLAN
+
+"Nutrition plan for weight loss" = "Nutrition plan for \n weight loss";
+"nutritionPlanDescription2" = "Learn what to eat, discover \n fat burning foods";
+
+/* Day - 8 */
+"titleDay8" = "Enjoyment of a healthy diet can \n also be one of the great cultural \n pleasures of life.";
+"descriptionDay8" = "We need a wide variety of different foods to provide the right amounts of nutrients for good health.";
+
+/* Day - 9 */
+"titleDay9" = "Eliminate emotional eating by \n healing your hungry heart.";
+"descriptionDay9" = "Nutrition plays a key role in maintaining a healthy lifestyle.";
+
+/* Day - 10 */
+"titleDay10" = "Morning workout is better \n for weight loss";
+"descriptionDay10" = "In the morning, before you’ve eaten, your body is forced to utilize it's fat stores for energy.";
+
+/* Day - 11 */
+"titleDay11" = "Try Interval Training because it can \n end up burning more calories in less \n time than your regular workout.";
+"descriptionDay11" = "All you have to do is step up your intensity and train in short bursts instead of going steady for the entire workout.";
+
+/* Day - 12 */
+"titleDay12" = "Consistency in exercise is the \n key to real results and real health benefits.";
+"descriptionDay12" = "To speed up the metabolism and to help recuperate from your training, try to eat 5-6 small meals per day";
+
+/* Day - 13 */
+"titleDay13" = "Studies show that breakfast can \n be important in maintaining a \n health body weight.";
+"descriptionDay13" = "To keep your metabolism running strong, you must eat your fist meal within 1 hour of rising.";
+
+/* Day - 14 */
+"titleDay14" = "We recommend doing your cardio \n first thing in the morning, \n 30 minutes plus, before breakfast.";
+"descriptionDay14" = "Cardiovascular activity is necessary to keep the metabolism roaring and help you burn some extra calories.";
+
+
+//MEALS
+
+/* Meal-1 */
+"name1" = "Gegrillte Zitrone–Dijon–Hähnchenschenkel mit Rucola–Salat";
+"ingredients1" = "4 (110 g) hautlose, knochenlose Hähnchenschenkel \n\n½ TL Salz \n\n¼ TL gemahlener schwarzer Pfeffer \n\n2,5 EL Olivenöl \n\n2 TL Zitronensaft \n\n1 TL gehackter Knoblauch \n\nKochspray \n\n1 EL Balsamico–Essig \n\n1 TL Honig \n\n1 Tasse Traubentomaten, halbiert \n\n1 (150 g) Paket Baby–Rucola";
+"steps1" = "Hühnchen mit ¼ Teelöffel Salz und 1/8 Teelöffel Pfeffer bestreuen. Mischen Sie das Hähnchen mit 1 – 1,5 Teelöffel Öl, Zitronensaft, Senf und Knoblauch in einer Schüssel, gut darin marinieren. 4 Minuten stehen lassen. Eine Grillpfanne bei mittlerer Hitze erhitzen. Pfanne mit Kochspray einsprühen. Hühnchen in die Pfanne geben, für 5 Minuten oder bis durch auf jeder Seite braten. Hähnchen in ½ cm dicke Scheiben schneiden. Guten Appetit!";
+
+/* Meal-2 */
+"name2" = "Tso's gebratenes Hähnchen";
+"ingredients2" = "4 gewürfelte Hühnerbrüste \n\n1 Tasse Mehl \n\nPflanzenöl \n\nSalz \n\nfrisch gemahlener schwarzer Pfeffer \n\n2 gehackte Knoblauchzehen \n\n½ Dose Hühnerbrühe \n\n3 EL Honig \n\n4 EL Sojasoße \n\n2 EL Limettensaft \n\n2 Dosen Brokkoli, nur Rosen \n\n2 Dosen gekochter weißer Reis als Beilage";
+"steps2" = "In einer großen Schüssel Hähnchen leicht in Maisstärke wenden. Die Stücke in eine große, mit Mehl gefüllte Schüssel geben und leicht zum Bedecken schütteln, dann auf die Seite geben. Eine große, tiefe Pfanne zur Hälfte mit Pflanzenöl bei mittlerer Hitze füllen. Das Hühnchen würzen, dann abtropfen lassen und beiseite legen. 2 Esslöffel Maisstärke hinzugeben und umrühren. Geben Sie Brokkoli und Karotten in die Sauce, 5 Minuten kochen bis weich. Guten Appetit!";
+
+/* Meal-3 */
+"name3" = "Orange–Honig–Sriracha–Huhn";
+"ingredients3" = "0,1 kg/0,25 Pfund Hühnerbrust \n\n1/8 EL Sesamöl \n\n12,5 g Srirachasoße \n\nSalz \n\nPfeffer";
+"steps3" = "Stellen Sie Ihren Grill oder Backofen auf 375 °F/190 °C. In einer verschließbaren Plastiktüte den Inhalt für die Marinade geben und gut vermengen. Marinade abschmecken und nach Wunsch würzen. Geben Sie das Huhn in die Marinade und legen Sie es mindestens 30 Minuten in den Kühlschrank. Dann nehmen Sie das Huhn aus dem Kühlschrank und legen Sie es auf den Grill. Für ca. 15 bis 20 Minuten grillen, bis die Säfte aus dem Hühnchen klar sind. Guten Appetit!";
+
+/* Meal-4 */
+"name4" = "Honig-Senf-glasierte Lachskugeln";
+"ingredients4" = "• 56 g Wildlachs\n• 1/8 EL Knoblauchpaste\n• 7 g rote Zwiebel, gehackt\n• 1 EL gehackter Koriander\n• 1/8 Ei\n• 1/8 Eiweiß\n• 0,06 Paprika\n• Salz\n• Pfeffer\n• 0,2 TL Ingwer\n• 1/8 EL Hühnerbrühe";
+"steps4" = "Backofen auf 400 °F/200 °C einstellen. Den Lachs würzen und im Ofen backen, bis der Lachs mit einer Gabel leicht geteilt werden kann. Zerteilen Sie den Lachs in einer Schüssel mit einer Gabel. Alle Zutaten außer für die Glasur hinzufügen und vermengen. Den Lachs im Ofen ca. 7 Minuten backen. Mischen Sie in einer separaten Schüssel alle Zutaten für die Senf-Glasur. Guten Appetit!";
+
+/* Meal-5 */
+"name5" = "Gegrillte Zitrone–Dijon–Hähnchenschenkel mit Rucola–Salat";
+"ingredients5" = "4 (110 g) hautlose, knochenlose Hähnchenschenkel \n\n½ TL Salz \n\n¼ TL gemahlener schwarzer Pfeffer \n\n2,5 EL Olivenöl \n\n2 TL Zitronensaft \n\n1 TL gehackter Knoblauch \n\nKochspray \n\n1 EL Balsamico–Essig \n\n1 TL Honig \n\n1 Tasse Traubentomaten, halbiert \n\n1 (150 g) Paket Baby–Rucola";
+"steps5" = "Hühnchen mit ¼ Teelöffel Salz und 1/8 Teelöffel Pfeffer bestreuen. Mischen Sie das Hähnchen mit 1 – 1,5 Teelöffel Öl, Zitronensaft, Senf und Knoblauch in einer Schüssel, gut darin marinieren. 4 Minuten stehen lassen. Eine Grillpfanne bei mittlerer Hitze erhitzen. Pfanne mit Kochspray einsprühen. Hühnchen in die Pfanne geben, für 5 Minuten oder bis durch auf jeder Seite braten. Hähnchen in ½ cm dicke Scheiben schneiden. Guten Appetit!";
+
+/* Meal-6 */
+"name6" = "Chili Fajitas";
+"ingredients6" = "1 Pfund hautlose Hühnerbrust \n\n½ grüner, roter und gelber Paprika, dünn geschnitten \n\n⅓ Tasse Wasser \n\n2 TL Sojasoße \n\n1 Prise Salz \n\n1 Prise schwarzer Pfeffer \n\n2 EL Olivenöl \n\n1 große Zwiebel, dünn geschnitten";
+"steps6" = "Alle Zutaten für die Marinade sowie das Huhn in einen Behälter geben und mindestens 2 Stunden kühlen. Das Fleisch aus der Marinade nehmen und bei mittlerer Flamme für 4 – 5 Minuten auf jeder Seite grillen. Fleisch in dünne Streifen schneiden. Für die Sauce 2 EL Wasser, 1 TL Sojasoße, ¼ TL Limettensaft, eine Prise Salz, eine Prise schwarzer Pfeffer und 1 EL Olivenöl vermengen. Guten Appetit!";
+
+/* Meal-7 */
+"name7" = "Truthahn & Veggie Omelette–Rollen";
+"ingredients7" = "1 Ei \n\n4 Eiweiß \n\n85 g mageren, faschierten Truthahn gekocht  \n\n1 Handvoll Spinat (roh) \n\n58 g Paprika \n\n8 g Ziegenkäse";
+"steps7" = "In einer Pfanne den mageren faschierten Truthahn würzen und kochen. Eine Tagesportion Eier in einer separaten Pfanne kochen. Ziegenkäse, Spinat, Paprika und faschierten Truthahn hinzufügen. Kurz warten, bis abgekühlt und stattdessen in Aluminiumfolie einwickeln. Guten Appetit!";
+
+/* Meal-8 */
+"name8" = "Gebratenes Zitronen-Hähnchen";
+"ingredients8" = "• 140 g Hühnerbrust in kleinen Stücken \n• 34 g Broccolini\n• 25 g Baby Portobello Pilz\n• 1/4 rote Paprika\n• 20 g rote Zwiebel\n• Kokosölspray\n• Sesamsamen\n• 1/4 TL Pfeilwurzelstärke\n• 1/8 EL Knoblauchpaste\n• 1/4 TL Ingwerpaste";
+"steps8" = "In einer Schüssel alle Zutaten für die Bratsauce mischen. Eine Pfanne mit Kokosöl einsprühen und auf mittlere Hitze erhitzen. Hühnerstücke dazugeben und braten, bis sie ca. 85 % durch sind. Dann Gemüse dazugeben und mit einem Spatel umrühren. Guten Appetit!";
+
+
+/* Meal-9 */
+"name9" = "Süßer Chili–Lachs";
+"ingredients9" = "1 Lachsfilet \n\nSalz \n\nschwarzer Pfeffer \n\n1 TL Öl \n\n4 EL süße Chili–Sauce \n\n1,5 TL Limettensaft \n\n½ TL weißen Sesam";
+"steps9" = "Den Lachs mit Salz und Pfeffer würzen. Mischen Sie die Chili–Sauce, den Limettensaft, Sesam und die Koriander–Blätter gut zusammen. Erhitzen Sie eine Pfanne bei mittlerer Hitze und geben Sie einen Schuss Öl hinein. Braten Sie den Lachs in der Pfanne auf beiden Seiten gut an, bis er durch ist. Guten Appetit!";
+
+/* Meal-10 */
+"name10" = "BBQ Hühnchen mit Spargel umhüllt";
+"ingredients10" = "2 Hühnerbrüste dünn geschnitten, je 100 g. \n\n12 Spargelspitzen  \n\n2 EL BBQ–Sauce \n\n1 Prise geräucherter Paprika \n\n1 Prise Knoblauchpulver \n\n1 Prise Pfeffer";
+"steps10" = "Backofen auf 400 °F/200 °C vorheizen. Das Hühnchen mit einem Schlägel flachklopfen. Hähnchenschnitzel mit 1 EL BBQ–Sauce (für jedes Stück) und Gewürzen nach Wunsch würzen. Hühnchen nach oben auf den Grill geben. Im Ofen backen oder auf einem Grill ca. 8 bis 10 Minuten räuchern. Guten Appetit!";
+
+/* Meal-11 */
+"name11" = "Eiweiß, Spargel und brauner Reis & Quinoa Frittata";
+"ingredients11" = "6 Eiweiß \n\n2 Spargelspitzen \n\n120 g brauner Reis & Quinoa–Mix (gekocht) \n\n1 süße rote Minipaprika \n\nKnoblauchpulver \n\nPfeffer \n\nSalz \n\n½ rosa Grapefruit";
+"steps11" = "Backofen auf 410 Grad F/200 °C einstellen. Olivenöl in die Pfanne geben. Fügen Sie gekochten braunen Reis & Quinoa der Pfanne hinzu. Eiweiß hineingießen. Fügen Sie Spargelstreifen und geschnittene Paprika hinzu. Im Backofen ca. 15 Minuten backen. Guten Appetit!";
+
+/* Meal-12 */
+"name12" = "Geschnittener mediterraner Griechischer Salat (Wrap)";
+"ingredients12" = "1 Vollkornmehl–Tortilla, 25 cm Durchmesser  \n\n140 g gebratene Hühnerbrüste \n\n3 Kopfsalatblätter \n\n4 EL frisches Basilikum \n\n50 g rote Zwiebel \n\n50 g Gurken \n\n5 Kirschtomaten, halbiert \n\n⅓ Zitrone \n\n3/4 EL Olivenöl \n\n⅓ TL Knoblauch \n\nSalz \n\nPfeffer";
+"steps12" = "In einer Schüssel die Zutaten für die Zitronen–Vinaigrette vermengen und mit Salz und Pfeffer würzen. In eine Rührschüssel geben und dann 1 Portion Zitronen–Vinaigrette hinzufügen. Den Salat mit einem Spatel mischen und dann etwas davon in die Vollkorn–Tortilla füllen. Guten Appetit!";
+
+/* Meal-13 */
+"name13" = "Bananen–Nuss–Haferflocken";
+"ingredients13" = "½ Tasse Haferflocken \n\n1 Tasse Wasser \n\n1 geschnittene Banane \n\n1 EL gehackte Walnüsse \n\n1 TL gemahlener Zimt";
+"steps13" = "Mischen Sie die Haferflocken und 1 Tasse Wasser in einer kleinen Mikrowellenschüssel. Bei hoher Temperatur für 3 Minuten in die Mikrowelle geben. Mit Bananenscheiben, Walnüssen und Zimt garnieren. Guten Appetit!";
+
+/* Meal-14 */
+"name14" = "Leichte Zitronen–Knoblauch–Pasta mit Lachs";
+"ingredients14" = "1 Pfund Lachsfilet \n\n500 g Rigatoni/Nudeln \n\n1 TL Knoblauch, gehackt \n\n2 EL Olivenöl \n\n½ Tasse Basilikumblätter gehackt \n\nSalz und Pfeffer \n\n2 EL Zitronensaft \n\n2 TL Kapern";
+"steps14" = "Kochen Sie die Nudeln nach Packungsanweisung. Inzwischen Lachs mit Salz und Pfeffer würzen und bei 175 °C für 15–20 Minuten – je nach Dicke – backen. Sobald die Nudeln gekocht sind, abtropfen lassen und mit Knoblauch, Olivenöl und Basilikum würzen. Den Nudeln Zitronensaft, Zitronenschale und Kapern hinzufügen und gut mischen. Guten Appetit!";
+
+/* Meal-15 */
+"name15" = "Orangen-glasierter Lachs";
+"ingredients15" = "• 150 g Lachs\n• 1/2 EL Orangenmarmelade\n• 1/2 EL Senf\n• 1/6 Orangensaft";
+"steps15" = "Mischen Sie die Marmelade, Senf, Zucker und den Orangensaft in einer Schüssel zusammen. Die gemischten Zutaten in den Lachs einreiben und für 3 bis 4 Minuten braten, bis der Lachs blättrig ist. Guten Appetit!";
+
+/* Meal-16 */
+"name16" = "Pilz– und Spinat–Omelett";
+"ingredients16" = "1 EL Olivenöl \n\n½ Tasse gehackte Schalotten \n\n3 Knoblauchzehen, gehackt \n\n1 (250 g) Packung geschnittene weiße Pilze \n\n1 Thymianzweig \n\n6 Unzen frische Babyspinat \n\nSalz \n\ngemahlener schwarzer Pfeffer \n\n8 große Eier";
+"steps16" = "Erhitzen Sie eine Pfanne bei mittlerer Hitze. Öl in die Pfanne geben. Schalotten, Knoblauch, Pilze und Thymian hinzufügen. Spinat hinzufügen, anbraten, bis die Flüssigkeit fast verdampft ist. Mischen Sie eine Prise Salz und Pfeffer sowie 4 Eier in einer kleinen Schüssel, mit einem Schneebesen rühren. Pfanne auf mittlere Hitze zurückstellen. Eiermischung dazugeben und 1 Minute kochen lassen. Heben Sie Kanten des Omeletts mit einem Spatel auf und drehen Sie es auf die andere Seite. Guten Appetit!";
+
+/* Meal-17 */
+"name17" = "Gebratene Garnelen mit frischen Kräutern";
+"ingredients17" = "1 Pfund große Garnelen \n\n2 rote Paprika \n\nLauch, dünn geschnitten \n\n0,5–1 EL Kapern, gespült und entwässert \n\nKnoblauchzehen, dünn geschnitten \n\n½ Tasse grob gehackte Petersilie \n\n3 EL Zitronensaft \n\n2 EL Olivenöl";
+"steps17" = "Setzen Sie eine Pfanne auf mittlere Hitze und fügen Sie Öl hinzu. Garnelen, Paprika, Lauch, Kapern, Knoblauch, Salz und Pfeffer hineingeben und für 4 Minuten anbraten, bis die Garnelen rosa sind. Von der Hitze entfernen. Fügen Sie Zitronensaft hinzu und schaben Sie den Boden der Pfanne mit einem Löffel. Garnelen mit frischer Petersilie und Basilikum bestreuen und servieren. Guten Appetit!";
+
+/* Meal-18 */
+"name18" = "Gegrillte Hähnchenbrust mit Zitrone";
+"ingredients18" = "3 EL Zitronensaft \n\n2 EL Olivenöl \n\n2 gehackte Knoblauchzehen \n\n7 Hühnerbrusthälften, (170 g) \n\n½ TL Salz \n\n½ TL frisch gemahlener schwarzer Pfeffer \n\nKochspray";
+"steps18" = "Heizen Sie den Grill auf mittlerer Hitze vor. Kombinieren Sie die ersten 4 Zutaten in einer großen Plastiktüte und versiegeln Sie sie. Im Kühlschrank 30 Minuten marinieren. Hühnchen aus der Tasche entfernen, Marinade entfernen. Hähnchen gleichmäßig mit Salz und Pfeffer bestreuen. Hühnchen auf den mit Kochspray besprühten Gitterrost geben, auf beiden Seiten grillen oder bis sie durch sind. Guten Appetit!";
+
+/* Meal-19 */
+"name19" = "Erdbeer–Bananen–Nuss–Brot–Haferflocken";
+"ingredients19" = "150 g Haferflocken (gekocht) \n\n½ zerkleinerte Banane \n\n50 g Erdbeeren \n\n2 EL Mandelmilch \n\n1 EL Vanilleextrakt \n\n2 EL gehackte Walnüsse \n\n1 Paket Stevia der Marke \"In The Raw\" \n\nZitronenschalengarnitur \n\n1 EL griechischer Joghurt (2% Fett) \n\n½ EL gehackte Walnüsse \n\nMohn";
+"steps19" = "Kochen Sie die Haferflocken nach Anleitung, dann beiseite legen. Geben Sie alle Zutaten mit Ausnahme der Erdbeeren in eine Schüssel und mischen Sie sie gründlich. Haferflocken mit frisch gehackten Erdbeeren dazugeben. Mit griechischem Joghurt, gehackten Walnüssen und Mohn garnieren. Guten Appetit!";
+
+/* Meal-20 */
+"name20" = "Teriyaki–Huhn mit Brokkoli";
+"ingredients20" = "2 Tassen Brokkoli–Rosen \n\n1 große gewürfelte Hühnerbrust \n\n1 EL Öl \n\nSalz und Pfeffer \n\n1 geschnittenen Paprika \n\n2 Tassen gekochter brauner Reis \n\n¼ Tasse leichte Sojasoße \n\n2 EL Reisweinessig \n\n1 Knoblauchzehe, gehackt \n\n½ TL Sesamöl \n\n¼ TL gemahlener Ingwer";
+"steps20" = "Eine große Pfanne bei mittlerer Hitze erhitzen. Hähnchen dazugeben, mit Salz und Pfeffer würzen und kochen, bis es nicht mehr rosa ist. Die Zutaten für die Teriyaki–Sauce in einer Schüssel vermengen. Brokkoli–Rosen und Paprika in die Pfanne geben. Teilen Sie das Huhn mit Brokkoli passend für 4 Mahlzeiten auf. Mit Sesamkörnern bestreuen und abdecken. Guten Appetit!";
+
+/* Meal-21 */
+"name21" = "Cremige Hühnchen Pasta ohne Milch";
+"ingredients21" = "110 g/¼ Pfund Hühnerbrust \n\n42 g Vollkornnudeln \n\n¼ EL Olivenöl \n\n75 ml 2%–ige Kokosmilch \n\n45 ml Hühnerbrühe \n\n160 g Spargel \n\n½ Zitrone \n\n¼ Knoblauchzehe \n\n1,3 EL frische Petersilie";
+"steps21" = "Pasta nach Anleitung kochen und beiseite legen. Hähnchen mit Salz, Pfeffer und Oregano würzen. Die Hälfte des Olivenöls in eine Pfanne geben und auf mittlere Hitze erhitzen. Sobald die Pfanne heiß ist, braten Sie die Hähnchenbrust auf beiden Seiten, bis es vollständig durch ist, dann aus der Pfanne entfernen. Hühnerbrühe und Zitronensaft hinzufügen. Für ein paar Minuten köcheln lassen und dann gekochte Nudeln hinzufügen. Guten Appetit!";
+
+/* Meal-22 */
+"name22" = "Shrimp-Burger";
+"ingredients22" = "• 450 g rohe Garnelen\n• 1 EL Olivenöl\n• 1 roter Paprika\n• grüne Zwiebel\n• Salz, Pfeffer\n• glutenfreies Brötchen\n• Avocado püriert\n• Grüner Salat\n• Tomate\n• Sprossen";
+"steps22" = "Stellen Sie die Grilltemperatur auf ca. 200 °F/93 °C ein. Die Burger-Zutaten (außer die Paprika und die grüne Zwiebel) in einen Mixer geben und daraus gehackte Garnelen zubereiten. Dann in eine Schüssel geben und gehackte Paprika und grüne Zwiebel hinzufügen. Legen Sie die Burger auf den Grill und braten Sie sie für ca. 15-20 Minuten, ca. 8-10 Minuten auf jeder Seite. Guten Appetit!";
+
+/* Meal-23 */
+"name23" = "BBQ Senf–Hühnchen";
+"ingredients23" = "110 g/¼ Pfund Hühnerbrust \n\nSalz \n\nPfeffer\n\n Zutaten für die Sauce:\n\n 31 g Senf \n\n10,5 g Honig \n\n15 ml Apfelessig \n\n¼ TL geräucherter Paprika \n\n¼ TL Kurkuma";
+"steps23" = "Den Grill auf 400 F/200 °C vorheizen. In einer Schüssel die Zutaten für die Sauce miteinander vermischen. Hähnchenstücke mit Salz und Pfeffer würzen. Die Stücke auf hölzerne Spieße geben. Hühnchen auf den Grill geben und ungefähr 10 bis 12 Minuten braten. Dann das Hühnchen in der Sauce wenden und für weitere 8 bis 10 Minuten grillen, bis das Huhn vollständig durch ist. Guten Appetit!";
+
+/* Meal-24 */
+"name24" = "Frühstücksschüssel mit braunem Reis";
+"ingredients24" = "• 4 Eier\n• 1 EL griechischer Joghurt (2% Fett)\n• Salz\n• Pfeffer\n• Tabasco Sauce\n• 1 EL Butter\n• 250 g mikrowellengeeigneter brauner Reis\n• 1/2 Avocado, gewürfelt\n• 1 Roma-Tomate, gewürfelt\n• 1 Schalotte dünn geschnitten";
+"steps24" = "In einer mittleren Schüssel die Eier mit griechischem Joghurt, Salz, Pfeffer und heißer Sauce schlagen. In einer mittleren Pfanne die Butter schmelzen. Eier hinzugeben und rühren. Geben Sie den braunen Reis in eine Servierschüssel, dann das Rührei, Avocado, Schalotten, Tomaten und heiße Sauce darüber geben. Guten Appetit!";
+
+/* Meal-25 */
+"name25" = "Gebratenes Huhn mit Spargel";
+"ingredients25" = "1 EL Sojasoße \n\n1 EL Honig \n\n2 in Stücke geschnittene Hähnchenbrüste \n\n1 EL Olivenöl \n\n1 Bund Spargel, in Stücke geschnitten \n\n4 Knoblauchzehen, dünn geschnitten \n\n2 TL geröstetes Sesamöl";
+"steps25" = "Sojasauce und Honig in einen Reißverschlussbeutel geben. Hühnchen dazugeben und zum Abdecken gut schütteln. In den Kühlschrank stellen bis fertig. Mittlerweile Öl in einer großen Pfanne bei mittlerer Hitze erhitzen. Den Spargel entfernen und beiseite stellen. Hähnchen aus der Marinade entfernen und in die Pfanne geben. Dann Knoblauch, Schalotten und die übrige Marinade in die Pfanne geben. Von der Hitze entfernen und in Sesamöl braten. Guten Appetit!";
+
+/* Meal-26 */
+"name26" = "Gebratenes Rindfleisch mit Brokkoli und Paprika";
+"ingredients26" = "1 Pfund Flankensteak geschnitten \n\n2 EL Sojasoße wenig Natrium \n\n1 TL gehackter Knoblauch \n\n½ TL gemahlener schwarzer Pfeffer \n\n¼ TL zerquetschter roter Pfeffer \n\n3/4 Pfund Brokkoli \n\n2 EL Rapsöl \n\n1 große rote Paprika, in 1–Zoll–Stücke geschnitten \n\n4 Tassen gekochter Langkornreis";
+"steps26" = "Steak in der Hälfte schneiden. Jedes Stück entlang der Faser in 1/8 Zoll dicke Stücke schneiden. Rindfleisch, Sojasauce, Knoblauch und schwarzen Pfeffer mischen, gut umrühren und für 30 Minuten kühlen. ½ Esslöffel Wasser, Austernsauce und zerkleinerten Paprika in einer kleinen Schüssel kombinieren und beiseite legen. Brokkoli in Röschen schneiden, Stämme diagonal in ca. 7 mm dicke Scheiben. Brokkoli für 2 Minuten kochen. Guten Appetit!";
+
+/* Meal-27 */
+"name27" = "Cajun–Kaffee–Garnelen";
+"ingredients27" = "450 g Jumbo–Garnelen \n\n1 EL Olivenöl \n\nSalz \n\nPfeffer \n\nfrische Petersilie \n\nZitrone \n\n25 g Kaffeebohnen \n\n1 EL geräucherter Paprika \n\n1 TL gemahlener Kümmel \n\n1 TL Cayennepfeffer";
+"steps27" = "Geben Sie die Zutaten für die Mischung in einen Hochleistungs–Mixer. Vermischen, bis die Kaffeebohnen halb zerkleinert sind. Die Garnelen mit ca. 5 Esslöffeln der Mischung würzen und Olivenöl dazugeben. Alles mit Ihren Händen vermengen, stellen Sie sicher, dass alle Garnelen gut bedeckt sind. Wenn die Pfanne heiß ist, geben Sie die Garnelen hinein. Guten Appetit!";
+
+/* Meal-28 */
+"name28" = "Folien-Fischpakete mit Spinat und Tomate";
+"ingredients28" = "• 1 Bund Spargel\n• 2 geschnittene Tomaten\n• 2 Tilapia-Filets\n• Olivenöl\n• 1/2 TL Chili-Knoblauchsauce\n• Salz\n• 1 geschnittene Zitrone";
+"steps28" = "Backofen auf 190 °C vorheizen. In einer kleinen Schüssel mischen Sie Olivenöl, Chili-Sauce und Salz. Geben Sie die Spargelspitzen in die Mitte auf ein Stück Aluminium-Folie und legen Sie die Tomatenscheiben gleichmäßig darauf, dann alles würzen. Legen Sie ein Fischfilet auf die Tomaten in jedem Paket, und bestreichen Sie den Fisch mit der Olivenöl-Mischung. Zitronenscheiben über den Fisch anordnen. Den Fisch im Ofen für 25 - 30 Minuten backen. Guten Appetit!";
+
+/* Meal-29 */
+"name29" = "Shrimp-Scampi mit Zucchini-Nudeln";
+"ingredients29" = "• 1 Zucchini\n• 1/2 - 1 TL Butter\n• 1/3 Pfund Garnelen ohne Schale und Dar\n• 1/4 Tasse Kirschtomaten, halbiert\n• 1/4 TL rote Pfefferflocken\n• 2 EL Hühnerbrühe\n• Salz und Pfeffer\n• 1 EL geriebener Parmesan";
+"steps29" = "Mit einem Spiralizer die Zucchini in Nudeln schneiden. Die Butter in einer Pfanne schmelzen. Fügen Sie die Garnelen, Tomaten, Knoblauch, Schalotten und die roten Pfefferflocken hinzu. Für 3-4 Minuten anbraten, bis die Garnelen rosa sind. Fügen Sie die Hühnerbrühe und Zitronensaft hinzu. Nach dem Aufkochen die Zucchini-Nudeln dazugeben. Guten Appetit!";
+
+/* Meal-30 */
+"name30" = "Leinsamen–Hafermehl mit Heidelbeeren";
+"ingredients30" = "3 Tassen Wasser \n\n2 Tassen Haferflocken \n\n3 EL Boden Leinsamen \n\n1/8 TL Salz \n\n¼ Tasse Vollmilch \n\n1 Tasse Heidelbeeren \n\n1 EL Heidelbeerkonserven \n\n½ TL geriebene Zitronenschale \n\n1 EL Zitronensaft";
+"steps30" = "Bringen Sie 3 Tassen Wasser zum Kochen. Rühren Sie die Haferflocken ein und fügen Sie die Leinsamen und Salz hinzu. Reduzieren Sie die Hitze auf mittel–niedrig, weich kochen bei häufigem Umrühren. Milch und Butter einrühren. Geben Sie inzwischen die Blaubeeren und nächsten 4 Zutaten in eine Mikrowellenschüssel, bei hoher Wattzahl für 1,5 Minuten in die Mikrowelle geben, alle 30 Sekunden umrühren. Die Haferflocken auf 4 Schüsseln aufteilen, mit Heidelbeeren und Pekannüssen garnieren. Guten Appetit!";
+
+/* Meal-31 */
+"name31" = "Würzige Rindfleisch–Brokkoli–Schüssel";
+"ingredients31" = "140 g mageres Hacksteak \n\n130 g brauner Reis \n\n91 g Brokkoli \n\n31 g in Scheiben geschnittenen roten Paprika \n\nfrischer Koriander \n\n1 Limette \n\nrote Chilipfefferpaste \n\nKnoblauch";
+"steps31" = "Ihre Portion des Flankensteaks in Stücke schneiden und mit Chili–Pfeffer–Paste und frischem Knoblauch würzen. Eine Pfanne auf mittlere Hitze setzen und mit Kokosöl einsprühen. Wenn die Pfanne heiß ist, geben Sie das Fleisch hinein und lassen es an einer Seite anbraten. Danach das Fleisch umdrehen und Brokkoli und Paprika hinzufügen. Rühren Sie die Mischung um, um sicherzustellen, dass alle Seiten des Fleisches, Brokkoli und Paprika gebraten werden. Guten Appetit!";
+
+/* Meal-32 */
+"name32" = "Sweet & Spicy Limetten–Shrimps";
+"ingredients32" = "340 g Jumbo–Garnelen \n\n1 EL Sesamöl \n\n2 EL Honig \n\n1 EL Knoblauchpaste \n\n1 EL rote Chilischoten–Sauce \n\n½ EL Limettensaft";
+"steps32" = "Alle Zutaten in eine Tüte vermischen. Für mindestens 20 Minuten marinieren, dann in einer Pfanne anbraten. Guten Appetit!";
+
+/* Meal-33 */
+"name33" = "Südwestlicher roter Paprika";
+"ingredients33" = "• 150 g gekochte Haferflocken\n• 1 Paprika\n• 1 EL griechischer Joghurt (2% Fett)\n• 28 g Mozzarella-Käse\n• 1 TL geräucherter Paprika\n• 1/2 TL Bodenkümmel\n• 43 g schwarze Bohnen, entwässert\n• 41 g gedämpftes Mais\n• 1 EL griechischer Joghurt (2% Fett)\n• Salz\n• Pfeffer";
+"steps33" = "Kochen Sie die Haferflocken nach Anleitung. Beiseite legen. Backofen auf 410 Grad °F/200 °C erhitzen. Eine Paprika teilen und Samen entfernen. Legen Sie die Paprikahälften nach unten auf ein Backblech. Im Ofen für mindestens 15 Minuten backen oder bis die Hälften weich sind. Dann mischen Sie die Haferflocken, den griechischen Joghurt, Bohnen, Mais, Paprika und Kreuzkümmel. Mit Salz und Pfeffer würzen. Guten Appetit!";
+
+/* Meal-34 */
+"name34" = "Schwarzer Bohnensalat mit Limonen–Kümmel–Dressing";
+"ingredients34" = "1 Tasse dünn geschnittener Sellerie \n\n3/4 Tasse rote Zwiebel geschnitten \n\n2 Dosen schwarze Bohnen, gespült und entwässert \n\n¼ Tasse Limettensaft \n\n1 EL Olivenöl";
+"steps34" = "Für den Salat Sellerie, Zwiebel und schwarze Bohnen in eine große Schüssel geben und gut mischen. Alle Zutaten für das Dressing in eine kleine Schüssel geben, die Mischung mit einem Schneebesen gut verrühren. Über die Bohnenmischung geben und gut vermengen. Guten Appetit!";
+
+/* Meal-35 */
+"name35" = "Gegrillter Südwest–Lachs";
+"ingredients35" = "110 g Wildlachs \n\n1 EL Olivenöl \n\n1 EL geräucherter Paprika \n\nSalz, Pfeffer";
+"steps35" = "Stellen Sie Ihren Backofen auf 350 °F ein. Würzen Sie die Filets mit den Gewürzen und grillen Sie sie ca. 15 Minuten oder bis nach Ihrem Wunsch. Guten Appetit!";
+
+/* Meal-36 */
+"name36" = "Rührei und Haferflocken mit Banane und Zimt";
+"ingredients36" = "2 Eier \n\n3 Eiweiß \n\n40 g Instant Haferflocken \n\n1 Banane \n\nZimt";
+"steps36" = "1 Eier und 3 Eiweiß in einer Schüssel schlagen Mit etwas Salz und Pfeffer würzen. Etwas Öl in eine Pfanne geben und die Pfanne auf dem Herd erhitzen. Geben Sie die Eier hinzu. Vorsichtig mit einem Spatel rühren, bis die Eier gekocht sind und dann von der Hitze entfernen. Dann bereiten Sie die Instant–Haferflocken nach Anleitung zu. Gründlich umrühren und ein wenig Zimt für Geschmack hinzugeben. Guten Appetit!";
+
+/* Meal-37 */
+"name37" = "Würzige & leichte Kung Pao Hühnchen–Mahlzeit";
+"ingredients37" = "150 g Hühnerbrust \n\n1/6 Knoblauchzehe \n\n33 g gefrorene Erbsen \n\n150 g Paprika \n\n2/3 EL Wasser \n\n⅓ EL Tomatensoße \n\n1/6 EL frischer Ingwer \n\n1/6 EL rote Paprikapfeffersoße \n\n1/6 EL Reisessig \n\ngehackte grüne Zwiebel";
+"steps37" = "Zutaten für die Soße in eine Schüssel geben und mit einem Schneebesen verrühren. Eine Pfanne auf mittlere Hitze erhitzen und mit Olivenöl besprühen. Wenn die Pfanne heiß ist, geben Sie Knoblauch dazu und braten ihn für ca. 2 Minuten an. Dann gehackte Hähnchenbrust hinzufügen. Hähnchen braten, bis die Außenseite braun ist, ca. 6 bis 8 Minuten. Gehackte Paprika dazu geben und für ca. 3 Minuten anbraten. Langsam in die Sauce gießen und häufig umrühren. Guten Appetit!";
+
+/* Meal-38 */
+"name38" = "Würzige Orangen–Lachs–Spieße";
+"ingredients38" = "150 g Wildlachs \n\n27 g Orangenmarmelade \n\n1/6 EL geräucherter Paprika \n\n1/6 EL Kokoszucker \n\n⅓ TL Tabasco–Sauce \n\n⅓ Mandarinensaft";
+"steps38" = "Lachs in 4 bis 6 cm große Stücke für die Spieße schneiden. Marinieren Sie den Lachs für ca. 45 Minuten. Im Ofen für 8–10 Minuten bei 400 °F/200 °C backen. Guten Appetit!";
+
+/* Meal-39 */
+"name39" = "Lachs–Burger mit Avocado";
+"ingredients39" = "1 Pfund Lachsfilet \n\n1 Tasse Paniermehl \n\n1 Ei \n\n1 EL Zitronensaft \n\nSalz und Pfeffer \n\nOlivenöl \n\n1 große Avocado, gehackt \n\n⅓ Tasse gehackte rote Zwiebeln \n\n1 Limettensaft";
+"steps39" = "Das Lachsfilet in kleine Stücke schneiden und in eine Rührschüssel geben. Den Rest der Zutaten vorsichtig einrühren. Lassen Sie die Mischung 5 – 10 Minuten ruhen. Ein wenig Öl in einer großen Grillpfanne bei mittlerer Hitze erhitzen. Aus der Lachsmischung ordentliche Frikadellen formen. Braten Sie die Frikadellen etwa 4 Minuten auf jeder Seite, bis sie auf beiden Seiten gut gebräunt sind. Guten Appetit!";
+
+/* Meal-40 */
+"name40" = "Gesunde fruchtige Haferflocken";
+"ingredients40" = "½ Tasse Hafer \n\n1 Tasse Wasser \n\n1 EL Honig \n\n1 EL Vanilleextrakt \n\n½ TL gemahlener Zimt \n\n¼ Tasse Heidelbeeren \n\n4 geschnittene Erdbeeren \n\n½ Banane, in Scheiben geschnitten";
+"steps40" = "Wasser und Hafer in einer Mikrowellenschüssel verrühren. Mikrowelle auf Hoch, bis die Haferflocken das Wasser absorbiert haben. Honig, Vanilleextrakt und gemahlenen Zimt einrühren. Geben Sie die Blaubeeren dazu, mit Bananen– und Erdbeerscheiben garnieren. Guten Appetit!";
+
+/* Meal-41 */
+"name41" = "Smoothie mit Kiwi, Orangen und Spinat";
+"ingredients41" = "ein große Handvoll Spinat \n\n2 Kiwi \n\neine Mango \n\nSaft einer Orange";
+"steps41" = "Waschen Sie den Spinat, schneiden Sie die Wurzeln ab. Die Mango und die Kiwis waschen, dann in kleine Stücke schneiden. Alle Zutaten in einem Mixer schlagen, bis Sie einen Smoothie haben. Guten Appetit!";
+
+/* Meal-42 */
+"name42" = "Räucherlachs–Guacamole";
+"ingredients42" = "1 Avocado \n\n57 g geräucherter Lachs \n\n17 g rote Zwiebel, gehackt \n\n2 EL gehackter Koriander \n\n2 EL griechischer Joghurt \n\nPfeffer";
+"steps42" = "Die Avocados in einer Schüssel pürieren und alle Zutaten dazugeben. Mit Senf, Kreuzkümmel, Zitronensaft, griechischem Joghurt und Pfeffer nach Geschmack würzen. Guten Appetit!";
+
+/* Meal-43 */
+"name43" = "Mageres Spiegelei und Avocado–Toast";
+"ingredients43" = "2 Eier \n\n2 geröstete Brotscheiben \n\n1 kleine Avocado \n\n1 TL Limettensaft \n\nSalz \n\nschwarzer Pfeffer \n\nPetersilie";
+"steps43" = "Bereiten Sie den Toast und das Spiegelei nach persönlicher Präferenz zu. Avocado schälen und mit dem Limettensaft, Salz und Pfeffer mischen. Avocado gleichmäßig auf jeder Scheibe Toast geben und dann jeweils mit einem Spiegelei belegen und nach Ihren Wünschen zusätzlich würzen. Guten Appetit!";
+
+/* Meal-44 */
+"name44" = "Süßer roter Pre–Workout–Smoothie";
+"ingredients44" = "1 roter Apfel \n\n½ Rübe \n\n1 Stange Sellerie \n\n3 Erdbeeren \n\n¼ einer Banane \n\ngrüner Tee (optional) \n\n41g Himbeeren \n\n1 TL Ingwer (optional)";
+"steps44" = "Geben Sie alle Zutaten in einen Mixer. Einfach für ca. 1 Minute pürieren, um sicherzustellen, dass keine Stücke mehr übrig sind und dann cremig pürieren. Einfach als Snack trinken. Guten Appetit!";
+
+/* Meal-45 */
+"name45" = "In Knoblauch gebratener Spargel mit Parmesan";
+"ingredients45" = "1 Pfund frischer Spargel \n\n2 EL Olivenöl \n\n3 EL geriebener Parmesan \n\nKnoblauchzehen, gehackt \n\nSalz und Pfeffer";
+"steps45" = "Die Spargelenden abschneiden. Den Spargel in die Pfanne geben, mit Salz und Pfeffer würzen und in das Olivenöl geben. Legen Sie den Spargel in einer Reihe auf den Grill. Für 5–10 Minuten bei mittlerer Hitze grillen, bis sie Grillmarkierungen aufweisen und weich sind. Guten Appetit!";
+
+/* Meal-46 */
+"name46" = "Hausgemachtes Pesto mit Garnelen und Zucchini-Pasta";
+"ingredients46" = "• 12 frisches Basilikum\n• 7,5 g roher Spinat\n• 7,5 g Walnüsse\n• 20 ml Olivenöl\n• 1/2 EL Parmesan\n• 1/4 Zitronensaft\n• 1/4 Knoblauchzehe\n• Salz\n• Pfeffer\n• 42 g gekochte Garnelen\n• 1/4 Zucchini\n• 2 Kirschtomaten geschnitten";
+"steps46" = "In einem Food-Mixer die Zutaten für das Pesto pürieren. Mit einem Spiralizer die rohen Zucchini zu Linguine schneiden. Pesto-Sauce mit den Zucchini-Linguine vermengen und mit Zangen unterheben. Fügen Sie nach Wunsch eine Eiweißquelle wie gegrillte Garnelen oder Hühnchen hinzu und dann die gehackten Kirschtomaten. Guten Appetit!";
+
+/* Meal-47 */
+"name47" = "Gewürzter Beeren–Haferflocken–Auflauf";
+"ingredients47" = "150 g Haferflocken (gekocht) \n\n49 g Heidelbeeren \n\n50 g Brombeeren \n\n3 EL gehackte Walnüsse \n\n½ EL Kokosöl \n\n¼ TL Kurkuma \n\n¼ TL Piment \n\n1 Packung Stevia Marke \"In The Raw\" Marke \n\n1 Prise Zimt \n\n1 EL Müsli";
+"steps47" = "Kochen Sie die Haferflocken nach Anleitung. Beiseite legen. Eine Antihaft–Pfanne auf mittlere Hitze, Kokosöl hinzugeben. Lassen Sie die Pfanne heiß werden. Beeren dazugeben. Die Beeren mit einer Prise Zimt würzen und rühren. Entfernen Sie die Beeren von der Hitze und lassen Sie die Sauce verdicken. Sehr gut mischen und wenn gewünscht noch etwas mehr Zimt dazugeben. Gießen Sie den warmen Beeren–Sirup auf die Haferflocken. Für etwas Knusprigkeit mit frischem Müsli garnieren. Guten Appetit!";
+
+/* Meal-48 */
+"name48" = "Pfirsich-Banane";
+"ingredients48" = "• 1 Banane\n• 2 Pfirsiche\n• 1/2 Tasse Vanille Mandelmilch\n• 1/2 Tasse Eiswürfel\n• 1/4 TL Zimt\n• Honig (optional)";
+"steps48" = "Schälen und schneiden Sie frische Pfirsiche und Bananen. Alle Zutaten in einen Mixer geben. Honig hinzugeben und mixen, um den Smoothie nach Wunsch süßer zu machen. Guten Appetit!";
+
+/* Meal-49 */
+"name49" = "Gebratenes Huhn & Ananas";
+"ingredients49" = "110 g Hühnerbrust, 4 \n\n40 g Ananas \n\n120 g brauner Reis \n\n⅓ EL Olivenöl \n\n½ TL brauner Senf \n\n1/6 EL geräucherter Paprika \n\nMeersalz \n\nPfeffer";
+"steps49" = "Die rohen Hühnerbrüste in kleine Stücke hacken. Die Hühnerstücke mit geräuchertem Paprika und braunem Senf würzen. Olivenöl in eine Pfanne geben und Hühnerbruststücke dazu geben. Für ca. 4 Minuten anbraten, bis Huhn zu 80 % durch ist, dann gehackte Paprika hinzufügen. Weitere 2 – 3 Minuten braten und dann die gewürfelte Ananas hinzufügen. Guten Appetit!";
+
+/* Meal-50 */
+"name50" = "Kräutertee";
+"ingredients50" = "• 1 Tasse Wasser\n• 1 Teelöffel geriebener frischer Ingwer\n• 1 Teelöffel geriebene Zitronenschale\n• 1 Teelöffel Limettensaft\n• 3 Blätter frische Minze";
+"steps50" = "Bringen Sie Wasser in einem Topf zum Kochen und geben Sie die restlichen Zutaten dazu. Kochen und rühren, bis der Tee infundiert ist. Guten Appetit!";
+
+/* Meal-51 */
+"name51" = "Pilz– und Tomaten–Omelett";
+"ingredients51" = "4 Eiweiß \n\n1 Ei \n\n½ Tasse fettarmer Hüttenkäse \n\n½ Tasse geschnittene Pilze \n\n½ gehackte Tomate";
+"steps51" = "Eier zusammengeben und leicht schlagen. Mit einem Kochspray kochen Sie die Eier in einer Antihaft–Pfanne. Fügen Sie den Hüttenkäse, die Pilze und die Tomaten in der Mitte des Omeletts hinzu. Kochen, bis die Eier durch sind und umklappen. Guten Appetit!";
+
+/* Meal-52 */
+"name52" = "Veganer Avocado-Bananen-Schokoladenpudding";
+"ingredients52" = "• 3 Tassen Spinat\n• 2 EL Zitronensaft\n• 2 TL Ingwer\n• 2 Birnen\n• Minze";
+"steps52" = "Alle Zutaten in einen Mixer geben und pürieren, bis eine cremige Konsistenz erreicht ist. Guten Appetit!";
+
+
+/* Meal-53 */
+"name53" = "Gegrillter mexikanischer Mais";
+"ingredients53" = "4 Maiskolben \n\n1,5 Tassen saure Sahne \n\n1 Tasse geriebener Parmesan \n\n1 Limetten, Saft \n\nrotes Chilipulver \n\n2 in Keile geschnittene Limetten zum Garnieren";
+"steps53" = "Den Mais auf einem heißen Grill bei einmal Umdrehen grillen, bis er leicht verkohlt. In einer kleinen Schüssel die Mayonnaise, Sauerrahm und Koriander mischen. Limettensaft über dem Mais auspressen und mit Parmesan würzen. Mit Chili–Pulver bestreuen. Guten Appetit!";
+
+/* Meal-54 */
+"name54" = "Ananas–Kiwi";
+"ingredients54" = "4 EL Wasser \n\n½ Tasse Milch \n\n½ Tasse Joghurt \n\n1,5 EL Honig \n\n1 Kiwi–Frucht, geschält \n\n1 Tasse Ananasstücke \n\n½ Mango \n\n2 Eiswürfel";
+"steps54" = "Alle Zutaten bei niedriger Geschwindigkeit mixen, bis alles dick und glatt ist. Guten Appetit!";
+
+/* Meal-55 */
+"name55" = "Grüner Tee mit Zitrone und Honig";
+"ingredients55" = "• 1 Zitronenscheibe\n• 2 Teelöffel Grünteepulver\n• 3/4 Tasse heißes Wasser\n• 1/2 Tasse Grapefruitsaft\n• 3 EL Zitronensaft\n• 1 TL Honig";
+"steps55" = "Rühren das Grünteepulver in das heiße Wasser. Fügen Sie den Grapefruitsaft, Zitronensaft und Honig hinzu. Gut mischen und mit einer Zitronenscheibe servieren. Guten Appetit!";
+
+/* Meal-56 */
+"name56" = "Gegrillte Garnelen- & Avocado-Spieße";
+"ingredients56" = "• 450 g Jumbo-Garnelen\n• 1,5 Avocados\n• 1 roter Paprika\n• 1 orange Paprika\n• 1 gelber Paprika\n• 1 rote Zwiebel\n• 1 TL Knoblauchpaste\n• 1/2 EL extra natives Olivenöl\n• 1 Limette\n• Salz, Pfeffer";
+"steps56" = "Stellen Sie Ihren Grill auf ca. 400 °F/ 200 °C. Hacken Sie das Gemüse und die Avocado in große Stücke für die Spieße. Garnelen schälen und würzen. Wählen Sie faseriges Gemüse, da es satter macht und eher gut auf einem Spieß bei intensiver Hitze hält. Legen Sie die Spieße auf den Grill und braten Sie sie für ca. 8-10 Minuten, dann umdrehen und weitere 8 bis 10 Minuten braten. Guten Appetit!";
+
+/* Meal-57 */
+"name57" = "Sandwich mit würzigem gegrillten Huhn & Ei";
+"ingredients57" = "• 140 g Hühnerbrust, roh\n• 1 Ei\n• 30 g Rucola\n• 1/2 Roma-Tomate\n• 1 EL Ziegenkäse\n• 1 Vollkornbrötchen\n• Kokosölspray\n• 1 TL geräucherter Paprika\n• 1/2 TL Cayennepfeffer\n• Salz\n• Pfeffer";
+"steps57" = "Die Hähnchenbrust mit Paprika, Cayenne, Kreuzkümmel, Meersalz und Pfeffer würzen. Vollkornbrot in einem Toaster wie gewünscht toasten. Kokosöl in eine Pfanne geben und Herd auf mittlere bis hohe Hitze einstellen. Geben Sie die Hähnchenbrust in die Pfanne und braten, bis die Hühnerbrust vollständig durch ist. Fügen Sie Rucola, Tomate, Ziegenkäse, Huhn und dann das Ei hinzu. Guten Appetit!";
+
+/* Meal-58 */
+"name58" = "Golden–Glow–Elixier";
+"ingredients58" = "2 Äpfel \n\n4 mittlere geschälte Orangen \n\n1 geschälte Zitrone \n\n5 – 7 cm langer geschälter frischer Ingwer \n\n5 cm lange frische geschälte Kurkuma, \n\n2 Tassen kaltes Wasser \n\n1 Handvoll Eis";
+"steps58" = "In einem High–Speed–Mixer alle Zutaten zu einem Smoothie pürieren, geben Sie wenn nötig noch etwas Wasser dazu. Ein hochleistungsfähiger Mixer macht daraus einen cremigen Saft. Wenn Sie statt einem Smoothie lieber einen Saft daraus machen möchten, dann können Sie das gerne tun, die Ballast– und Nährstoffe bleiben erhalten. Guten Appetit!";
+
+/* Meal-59 */
+"name59" = "Gerolltes Bison-Omelette";
+"ingredients59" = "• 1 Ei\n• 3 Eiweiß\n• 110 g mageres faschiertes Bisonfleisch\n• 30 g roher Spinat\n• 58 g Paprika\n• 14 g Mozzarella-Käse gerieben\n• Knoblauchpulver\n• gemahlener Kümmel\n• Salz\n• Pfeffer";
+"steps59" = "Bisonfleisch würzen und in einer Antihaft-Pfanne anbraten. In einer Schüssel Eier mit einer Prise Meersalz und Pfeffer zusammenrühren. Eine separate Antihaft-Pfanne bei mittlerer Hitze auf den Herd geben. Die Ei-Mischung hineingeben und wie ein Omelette zubereiten. Pfanne zudecken, damit das Ei durchgekocht wird. Guten Appetit!";
+
+/* Meal-60 */
+"name60" = "Papaya";
+"ingredients60" = "2 mittlere Papayas, entkernt & gehackt \n\n1 Tasse Himbeeren \n\n¼ kleine Ananas \n\nIngwer \n\n1 Tasse Milch \n\n2 EL griechischer Joghurt \n\n1,5 Eiswürfel \n\nBeeren als Topping";
+"steps60" = "Die Zutaten in einen Mixer geben. Zu einem Smoothie mixen. Guten Appetit!";
+
+/* Meal-61 */
+"name61" = "Lavendel-Minze-Tee";
+"ingredients61" = "• 1/4 Tasse frische Lavendelblüten\n• 1 Tasse frische Minzeblätter\n• 4 Tassen Wasser";
+"steps61" = "Lavendelblüten und Minze in einen Topf geben, Wasser dazu gießen und zum Kochen bringen. Hitze zurückdrehen und den Tee 15 bis 20 Minuten bis zur gewünschten Stärke kochen. Guten Appetit!";
+
+
+/* Meal-62 */
+"name62" = "Gesunde Shrimps– & Veggie–Pasta";
+"ingredients62" = "170 g Garnelen \n\n1 Zucchini \n\n2 Karotten \n\n½ Knoblauchzehe gehackt \n\n¼ rote Zwiebel gehackt \n\n1 EL Sojasoße wenig Natrium \n\n¼ Orangensaft \n\n½ EL Sesamöl";
+"steps62" = "Sie benötigen einen Julienne–Schäler, um die Zucchini und Karotten zu Gemüse–Nudeln zu schneiden. Als nächstes fügen Sie 1 Esslöffel Sojasoße hinzu. Dann den Apfelessig dazu geben und den Saft aus ¼ Orange. Schließlich noch ½ EL Sesamöl hinzufügen. Setzen Sie eine Pfanne auf mittlere Hitze und sprühen Sie sie mit Kokosöl ein. Knoblauch und rote Zwiebel hinzufügen. Garnelen in die Pfanne geben und schnell mit einem Löffel verrühren, um sicherzustellen, dass alle Garnelen den Geschmack des Knoblauchs und der Zwiebeln aufnehmen. Guten Appetit!";
+

@@ -1,0 +1,381 @@
+
+//BUILD MUSCLE NUTRITION PLAN
+
+"Nutrition plan for building muscle" = "Nutrition plan for \n building muscle";
+"nutritionPlanDescription1" = "Muscle Strength and Size To stay \n consistent. Speed up metabolism";
+
+/* Day - 1 */
+"titleDay1" = "Everyone needs the three \n basics nutrients, carbohydrates,\n  proteins, and fats.";
+"descriptionDay1" = "Carbs supply the body with energy it needs to function. They are found almost exclusively in plan foods.";
+
+/* Day - 2 */
+"titleDay2" = "Protein is essential for growth \n and development. It provides \n the body with energy.";
+"descriptionDay2" = "Complete proteins are found in meat, fish, poultry, cheese, eggs, and milk.";
+
+/* Day - 3 */
+"titleDay3" = "Good fats are in fact, the most \n concentrated source of energy \n available to the body.";
+"descriptionDay3" = "By choosing the healthiest forms of each of these nutrients and eating them in the proper balance.";
+
+/* Day - 4 */
+"titleDay4" = "The saying \"You are what you eat\" is \n literally true.If you want your body \n to perform at a peak level.";
+"descriptionDay4" = "Choose red, orange, and dark-green vegetables like tomatoes, sweet potatoes, and broccoli, along with other vegetables for your meals.";
+
+/* Day - 5 */
+"titleDay5" = "Maximum amount of added sugars \n you should eat in a day: 37.5 \n grams or 9 teaspoons. ";
+"descriptionDay5" = "Fructose causes insulin resistance and raises insulin levels in the body, which increases the deposition of fat in the fat cells.";
+
+/* Day - 6 */
+"titleDay6" = "Water is an essential nutrient \n that is involved in every \n function of the body.";
+"descriptionDay6" = "Our organs, muscle, and bones all have water in them and need water to function properly.";
+
+/* Day - 7 */
+"titleDay7" = "Your body’s health reflects \n what you put into it.";
+"descriptionDay7" = "When combined with physical activity, a healthy diet can help people keep a healthy weight and reduce risk of chronic diseases. ";
+
+
+//WEIGHT LOSS NUTRITION PLAN
+
+"Nutrition plan for weight loss" = "Nutrition plan for \n weight loss";
+"nutritionPlanDescription2" = "Learn what to eat, discover \n fat burning foods";
+
+/* Day - 8 */
+"titleDay8" = "Enjoyment of a healthy diet can \n also be one of the great cultural \n pleasures of life.";
+"descriptionDay8" = "We need a wide variety of different foods to provide the right amounts of nutrients for good health.";
+
+/* Day - 9 */
+"titleDay9" = "Eliminate emotional eating by \n healing your hungry heart.";
+"descriptionDay9" = "Nutrition plays a key role in maintaining a healthy lifestyle.";
+
+/* Day - 10 */
+"titleDay10" = "Morning workout is better \n for weight loss";
+"descriptionDay10" = "In the morning, before you’ve eaten, your body is forced to utilize it's fat stores for energy.";
+
+/* Day - 11 */
+"titleDay11" = "Try Interval Training because it can \n end up burning more calories in less \n time than your regular workout.";
+"descriptionDay11" = "All you have to do is step up your intensity and train in short bursts instead of going steady for the entire workout.";
+
+/* Day - 12 */
+"titleDay12" = "Consistency in exercise is the \n key to real results and real health benefits.";
+"descriptionDay12" = "To speed up the metabolism and to help recuperate from your training, try to eat 5-6 small meals per day";
+
+/* Day - 13 */
+"titleDay13" = "Studies show that breakfast can \n be important in maintaining a \n health body weight.";
+"descriptionDay13" = "To keep your metabolism running strong, you must eat your fist meal within 1 hour of rising.";
+
+/* Day - 14 */
+"titleDay14" = "We recommend doing your cardio \n first thing in the morning, \n 30 minutes plus, before breakfast.";
+"descriptionDay14" = "Cardiovascular activity is necessary to keep the metabolism roaring and help you burn some extra calories.";
+
+
+//MEALS
+
+/* Meal-1 */
+"name1" = "Coxas de Frango Dijon e Limão com Salada de Rúcula";
+"ingredients1" = "4 coxas de frango sem pele e sem osso  \n\n½ colher de chá de sal  \n\n¼ colher de chá de pimenta preta moída  \n\n2,5 colheres de sopa de azeite \n\n2 colheres de chá de sumo de limão  \n\n1 colher de chá de alho picado \n\nspray de cozinha \n\n1 colher de sopa de vinagre balsâmico  \n\n1 colher de chá de mel  \n\n1 chávena de tomates cereja cortados ao meio \n\n1 embalagem de rúcula pequena";
+"steps1" = "Polvilhe o frango com ¼ colher de chá de sal e 1/8 colher de chá de pimenta. Tempere o frango com 1–1,5 colher de chá de azeite, sumo de limão, mostarda e alho numa taça e envolva bem a carne nos temperos. Deixe ficar durante 4 minutos. Aqueça um grelhador de fogão em lume médio e unte–o com spray de cozinha. Coloque o frango e cozinhe durante 5 minutos de cada lado ou até ficar bem passado. Corte o frango em tiras de 0,6 cm de espessura. Bom apetite!";
+
+/* Meal-2 */
+"name2" = "Refogado de Frango Tso";
+"ingredients2" = "4 peitos de frango cortados em cubos  \n\n1 chávena de farinha  \n\nóleo vegetal \n\nsal \n\npimenta preta acabada de moer  \n\n2 dentes de alho picados  \n\n½ lata de caldo de galinha  \n\n3 colheres de sopa de mel  \n\n4 colheres de sopa de molho de soja  \n\n2 colheres de sopa de sumo de lima  \n\n2 latas de brócolos, apenas os ramos  \n\n2 latas de arroz branco cozido, para servir";
+"steps2" = "Numa taça grande, passe o frango ligeiramente por amido de milho. Transfira os pedaços para uma taça maior com farinha e passe ligeiramente para revestir novamente e reserve. Encha uma frigideira grande até meio com óleo vegetal e leve a lume médio–alto. Tempere o frango, depois escorra e reserve. Adicione 2 colheres de sopa de amido de milho e misture para incorporar. Para o molho, adicione brócolos e cenouras e coza até ficarem tenros, cerca de 5 minutos. Bom apetite!";
+
+/* Meal-3 */
+"name3" = "Frango Sriracha com Laranja e Mel";
+"ingredients3" = "0,1 kg peitos de frango  \n\n1/8 colher de sopa de óleo de sésamo  \n\n12,5 g molho Sriracha  \n\nsal \n\npimenta";
+"steps3" = "Ligue o grill ou forno a 190ºC. num saco de plástico com selagem, junte os conteúdos para a marinada e misture tudo bem. Prove a marinada e tempere a gosto. Junte o frango à marinada e deixe repousar no frigorífico durante pelo menos 30 minutos. Depois tire o frango do frigorífico e coloque–o no grill.  Deixe cozinhar durante cerca de 15 ou minutos até que os sucos do frango saiam sem sangue. Bom apetite!";
+
+/* Meal-4 */
+"name4" = "Bolas de Salmão com Glacé de Mel e Mostarda";
+"ingredients4" = "•    56 g salmão selvagem\n•    1/8 colher de sopa de pasta de alho\n•    7 g cebola vermelha picada\n•    1 colher de sopa de coentros picados\n•    1/8 ovo\n•    1/8 clara de ovo\n•    0,06 pimento\n•    sal\n•    pimenta\n•    0,2 colher de chá de gengibre\n•    1/8 colher de sopa de caldo de galinha";
+"steps4" = "Ligue o forno a 200°C. Tempere o salmão e asse-o no forno até formar lascas ao pressionar com um garfo. Desfaça-o em flocos com um garfo e junte-o numa taça. Adicione todos os ingredientes, exceto os do glacé, e misture bem. Asse o salmão no forno por mais 7 minutos. Numa taça separada, misture todos os ingredientes do glacé de mostarda. Bom apetite!";
+
+/* Meal-5 */
+"name5" = "Coxas de Frango Dijon e Limão com Salada de Rúcula";
+"ingredients5" = "4 coxas de frango sem pele e sem osso  \n\n½ colher de chá de sal  \n\n¼ colher de chá de pimenta preta moída  \n\n2,5 colheres de sopa de azeite \n\n2 colheres de chá de sumo de limão  \n\n1 colher de chá de alho picado \n\nspray de cozinha \n\n1 colher de sopa de vinagre balsâmico  \n\n1 colher de chá de mel  \n\n1 chávena de tomates cereja cortados ao meio \n\n1 embalagem de rúcula pequena";
+"steps5" = "Polvilhe o frango com ¼ colher de chá de sal e 1/8 colher de chá de pimenta. Tempere o frango com 1–1,5 colher de chá de azeite, sumo de limão, mostarda e alho numa taça e envolva bem a carne nos temperos. Deixe ficar durante 4 minutos. Aqueça um grelhador de fogão em lume médio e unte–o com spray de cozinha. Coloque o frango e cozinhe durante 5 minutos de cada lado ou até ficar bem passado. Corte o frango em tiras de 0,6 cm de espessura. Bom apetite!";
+
+/* Meal-6 */
+"name6" = "Fajitas de Chili";
+"ingredients6" = "450 g de peito de frango sem pele  \n\n½ pimento verde vermelho e amarelo cortado em tiras finas  \n\n⅓ chávena de água \n\n2 colheres de chá de molho de soja  \n\n1 pitada de sal  \n\n1 pitada de pimenta preta \n\n2 colheres de sopa de azeite  \n\n1 cebola grande finamente picada";
+"steps6" = "Combine todos os ingredientes da marinada com o frango num recipiente e leve ao frigorífico durante pelo menos 2 horas. Retire a carne da marinada e grelhe em fogo médio durante 4–5 minutos de cada lado. Corte a carne às tiras. Para o molho, junte 2 colheres de sopa de água, uma colher de chá de milho de soja, ¼ colher de chá de sumo de lima, uma pitada de sal, uma pitada de pimenta preta e 1 colher de sopa de azeite. Bom apetite!";
+
+/* Meal-7 */
+"name7" = "Rolos de Omelete de Perú e Legumes";
+"ingredients7" = "1 ovo  \n\n4 claras de ovo  \n\n85 g peru magro cozido e picado \n\n1 mão cheia de espinafre (cru)  \n\n58 g pimento  \n\n8 g queijo de cabra";
+"steps7" = "Tempere e cozinhe o peru magro picado numa frigideira. Cozinhe os ovos numa frigideira separada. Acrescente o queijo de cabra, o espinafre, os pimentos e o perú. Espere que arrefeça e depois embrulhe em folha de alumínio. Bom apetite!";
+
+/* Meal-8 */
+"name8" = "Refogado de Frango Cítrico";
+"ingredients8" = "•    140 g peitos de frango cortados em pedaços pequenos\n•    34 g broccolini\n•    25 g cogumelos portobello pequenos\n•    1/4 pimento vermelho\n•    20 cebola vermelha\n•    spray de óleo de coco\n•    sementes de sésamo\n•    1/4 colher de chá de amido de araruta\n•    1/8 colher de sopa de pasta de alho\n•    1/4 colher de chá de pasta de gengibre";
+"steps8" = "Numa taça, misture todos os ingredientes para o molho do refogado. Coloque spray numa frigideira com óleo de coco e leve a lume médio. Coloque os pedaços de frango e cozinhe-os até estarem cerca de 85% concluídos. Depois junte os legumes e mexa usando uma espátula. Bom apetite!";
+
+/* Meal-9 */
+"name9" = "Salmão com Chili Doce";
+"ingredients9" = "1 filete de salmão \n\nsal \n\npimenta preta  \n\n1 colher de chá de óleo  \n\n4 colher de sopa de molho chili doce  \n\n1,5 colher de chá de sumo de lima  \n\n½ colher de chá de sésamo branco";
+"steps9" = "Tempere o salmão com sal e pimenta. Misture o molho chili, o sumo de lima, o sésamo e as folhas de coentro. Aqueça uma frigideira em lume médio com um pouco de óleo. Sele o salmão dos dois lados. Bom apetite!";
+
+/* Meal-10 */
+"name10" = "Barbecue de Frango Embrulhado em Espargos";
+"ingredients10" = "2 peitos de frango cortados em bifes finos  \n\n12 turiões de espargos  \n\n2 colheres de sopa de molho barbecue \n\n1 pitada de paprika fumada \n\n1 pitada de alho em pó  \n\n1 pitada de pimenta";
+"steps10" = "Ligue o forno a 200ºC. Bata os bifes com um martelo para alisar. Tempere o frango com 1 colher de sopa de molho barbecue (para cada pedaço) e a sua opção de temperos. Coloque o frango numa grelha com a abertura virada para baixo durante 8 a 10 minutos. Bom apetite!";
+
+/* Meal-11 */
+"name11" = "Frittata de Claras de Ovos, Espargos, Arroz Integral e Quinoa";
+"ingredients11" = "6 claras de ovos  \n\n2 turiões de espargos  \n\n120 g mistura de arroz integral e quinoa (cozida) \n\n1 mini–pimento doce  \n\nalho em pó  \n\npimenta \n\nsal \n\n½ toranja rosa";
+"steps11" = "Ligue o forno a 200ºC. Unte levemente um tabuleiro com azeite. Acrescente a mistura cozida de arroz integral e quinoa. Deite as claras de ovos. Acrescente as tiras dos espargos e as fatias dos pimentos. Asse no forno durante cerca de 15 minutos. Bom apetite!";
+
+/* Meal-12 */
+"name12" = "Salada Grega Mediterrânica (Wrap)";
+"ingredients12" = "•1 tortilha de farinha integral, 25 cm  \n\n140 g peitos de frango cozidos    \n\n3 folhas de alface romana  \n\n4 colheres de sopa de manjericão fresco  \n\n50 g cebola vermelha  \n\n50 g pepino  \n\n5 tomates cherry cortados ao meio \n\n⅓ limão \n\n3/4 colher de sopa de azeite \n\n⅓ colher de chá de alho  \n\nsal \n\npimenta";
+"steps12" = "Numa taça, misture os ingredientes para o vinagrete de limão e tempere com sal e pimenta. Depois junte 1 porção de vinagrete de limão. Misture a salada com uma espátula e depois coloque o conteúdo dentro da tortilha. Bom apetite!";
+
+/* Meal-13 */
+"name13" = "Papa de Aveia com Banana e Noz";
+"ingredients13" = "½ chávena de flocos de aveia  \n\n1 chávena de água  \n\n1 banana às rodelas \n\n1 colher de sopa de nozes picadas  \n\n1 colher de chá de canela em pó";
+"steps13" = "Misture a aveia e 1 chávena de água numa taça pequena de micro–ondas. Aqueça na temperatura máxima durante 3 minutos. Cubra com a banana, as nozes e a canela. Bom apetite!";
+
+/* Meal-14 */
+"name14" = "Massa Leve de Alho e Limão com Salmão";
+"ingredients14" = "450 g filetes de salmão \n\n470 ml rigatoni/massa \n\n1 colher de chá de alho picado  \n\n2 colheres de sopa de azeite  \n\n½ chávena de folhas de manjericão picadas  \n\nsal e pimenta  \n\n2 colheres de sopa de sumo de limão  \n\n2 colheres de chá de alcaparras";
+"steps14" = "Cozinhe a massa de acordo com as instruções da embalagem. Entretanto, tempere o salmão com sal e pimenta e asse–o a 175ºC durante 15–20 minutos, dependendo da espessura. Quando a massa estiver cozida, escorra e junte–lhe alho, azeite, manjericão e temperos. Adicione o sumo de limão, a raspa e as alcaparras à massa e envolva bem. Bom apetite!";
+
+/* Meal-15 */
+"name15" = "Salmão com Glacé de Laranja";
+"ingredients15" = "•    150 g salmão\n•    1/2 colher de sopa de marmelada de laranja\n•    1/2 colher de sopa de mostarda\n•    sumo de 1/6 de laranja";
+"steps15" = "Misture a marmelada, a mostarda, o açúcar e o sumo de laranja numa taça. Esfregue esta mistura no salmão e cozinhe durante 3 a 4 minutos até o salmão formar lascas. Bom apetite!";
+
+/* Meal-16 */
+"name16" = "Omeleta de Cogumelos e Espinafres";
+"ingredients16" = "1 colher de sopa de azeite  \n\n½ chávena de chalotas picadas  \n\n3 dentes de alho picados  \n\n1 embalagem de cogumelos brancos picados \n\n1 ramo de tomilho \n\n180 ml de espinafres pequenos frescos \n\nsal \n\npimenta preta moída \n\n8 ovos grandes";
+"steps16" = "Aqueça uma frigideira em lume médio–alto. Coloque azeite e adicione as chalotas, o alho, os cogumelos e o tomilho. Acrescente os espinafres e salteie até evaporar a maioria dos líquidos. Combine uma pitada de sal e pimenta e 4 ovos numa taça pequena, batendo–os bem. Baixe o lume para médio, adicione a mistura dos ovos e cozinhe durante 1 minuto. Levante as beiras da omelete com uma espátula, inclinando a frigideira para fazer rolar a parte não cozinhada dos ovos para o fundo da panela. Bom apetite!";
+
+/* Meal-17 */
+"name17" = "Camarão Delicioso com Ervas Frescas";
+"ingredients17" = "450 g camarão grande  \n\n2 malaguetas  \n\n1 alho francês cortado fino  \n\n0,5–1 colher de sopa alcaparras, lavadas e escorridas  \n\n2 dentes de alho picadinhos  \n\n½ chávena salsa picadinha  \n\n3 colheres de sopa de sumo de limão \n\n2 colheres de sopa de azeite";
+"steps17" = "Coloque um tacho em lume médio com azeite. Acrescente o camarão, pimentos, alho francês, alcaparras, alho, sal e pimenta e cozinhe durante 4 minutos até os camarões ficarem rosados. Retire do lume. Adicione o sumo de limão, raspando o fundo da panela com uma colher. Sirva os camarões polvilhados com salsa fresca e manjericão. Bom apetite!";
+
+/* Meal-18 */
+"name18" = "Peitos de Frango Grelhados com Limão";
+"ingredients18" = "3 colheres de sopa de sumo de limão  \n\n2 colheres de sopa de azeite  \n\n2 dentes de alho picados  \n\n7 metades de peitos de frango (180 ml) \n\n½ colher de chá de sal  \n\n½ colher de chá de pimenta preta acabada de moer  \n\nspray de cozinha";
+"steps18" = "Prepare um grelhador em lume médio–alto. Combine os primeiros 4 ingredientes num saco de plástico grande e sele–o. Deixe marinar no frigorífico durante 30 minutos. Remova o frango e a marinada do saco. Polvilhe o frango com sal e pimenta. Coloque o frango na grelha previamente revestida com spray de cozinha e grelhe dos dois lados ou deixe cozinhar até dourar. Bom apetite!";
+
+/* Meal-19 */
+"name19" = "Papa de Aveia com Banana, Noz e Morango";
+"ingredients19" = "150 g de flocos de aveia (cozidos) \n\n½ banana amassada  \n\n50 g morangos  \n\n2 colheres de sopa de leite de amêndoa  \n\n1 colher de sopa de extrato de baunilha  \n\n2 colheres de sopa de noz picada \n\npacote de stevia da marca \"In The Raw\"  \n\nraspa de limão  \n\n1 colher de sopa de iogurte Grego (2% de gordura) \n\n½ colheres de sopa de noz picada  \n\nsementes de papoila";
+"steps19" = "Coza os flocos de aveia conforme as instruções e reserve. Adicione todos os ingredientes numa taça exceto os morangos e misture bem. Cubra a papa de aveia com os morangos acabados de cortar. Acompanhe com iogurte Grego, nozes picadas e sementes de papoila. Bom apetite!";
+
+/* Meal-20 */
+"name20" = "Frango Teriyaki e Brócolos";
+"ingredients20" = "2 chávenas de ramos de brócolos \n\n1 peito grande de frango cortado aos cubos \n\n1 colher de sopa de óleo \n\nsal e pimenta \n\n1 pimento picado \n\n2 chávenas de arroz integral cozido \n\n¼ chávena de molho de soja light \n\n2 colheres de sopa de vinagre de arroz  \n\n1 dente de alho picado \n\n½ colher de chá de óleo de sésamo \n\n¼ colher de chá de gengibre moído";
+"steps20" = "Aqueça um tacho grande em lume médio–alto. Coloque o frango, tempere com sal e pimenta e cozinhe até não estar rosado. Misture todos os ingredientes do molho teriyaki numa taça pequena. Junte os ramos de brócolos e o pimento. Divida o frango e os brócolos em 4 recipientes de refeição. Polvilhe com sementes de soja e tape. Bom apetite!";
+
+/* Meal-21 */
+"name21" = "Massa Cremosa de Frango Sem Lactose";
+"ingredients21" = "110 g peitos de frango \n\n42 g massa integral  \n\n¼ colher de sopa de azeite  \n\n75 ml óleo de coco 2% \n\n45 ml caldo de galinha \n\n160 g espargos  \n\n½ limão \n\n¼ dente de alho  \n\n1,3 colher de sopa de salsa fresca";
+"steps21" = "Ferva e coza a massa de acordo com as instruções e reserve. Tempere o frango com sal, pimenta e orégãos. Adicione metade do azeite numa frigideira e leve a lume médio. Assim que a frigideira estiver quente, cozinhe bem os peitos de frango dos dois lados e então retire–os da frigideira. Acrescente o caldo de galinha e o sumo de limão. Deixe apurar durante alguns minutos e depois junte a massa cozida. Bom apetite!";
+
+/* Meal-22 */
+"name22" = "Hambúrguer de Camarão";
+"ingredients22" = "•    450 g de camarão cru\n•    1 colher de sopa de azeite\n•    1 pimento vermelho\n•    cebola verde\n•    sal, pimenta\n•    pão sem glúten\n•    abacate esmagada\n•    alface\n•    tomate\n•    rebentos";
+"steps22" = "Defina a temperatura do grill para cerca de 93°C. Junte os ingredientes do hambúrguer (exceto o pimento e a cebola verde) numa picadora e passe até ter o camarão bem picado. Depois coloque numa taça e acrescente o pimento e a cebola verde. Depois coloque os hambúrgueres no grill e cozinhe-os durante 15-20 minutos, cerca de 8-10 minutos de cada lado. Bom apetite!";
+
+/* Meal-23 */
+"name23" = "Barbecue de Frango com Mostarda";
+"ingredients23" = "110 g peitos de frango  \n\nsal  \n\npimenta\n\nIngredientes para o molho:\n\n31 g mostarda   \n\n10,5 g mel  \n\n15 ml vinagre de cidra de maçã  \n\n¼ colher de chá de paprika fumada \n\n¼ colher de chá de curcuma";
+"steps23" = "Ligue a grelha a 200ºC. Numa taça, misture os ingredientes do molho. Tempere os pedaços de frango com sal e pimenta. Coloque os pedaços em paus de espetadas. Coloque o frango na grelha e cozinha durante 10 a 12 minutos. Depois, pincele o frango com o molho e cozinhe por mais 8 a 10 minutos até o frango estar completamente cozido. Bom apetite!";
+
+/* Meal-24 */
+"name24" = "Taça de Pequeno-Almoço de Arroz Integral";
+"ingredients24" = "•    4 ovos\n•    1 colher de sopa de iogurte grego (2% gordura)\n•    sal\n•    pimenta\n•    molho de Tabasco\n•    1 colher de sopa de manteiga\n•    250 g arroz integral para micro-ondas\n•    1/2 abacate picado\n•    1 tomate chucha picado\n•    1 cebolinha picada fina";
+"steps24" = "Numa taça média bata os ovos com iogurte grego, sal, pimenta e molho picante. Numa frigideira média, derreta a manteiga. Adicione os ovos e mexa-os. Numa taça de servir, deite o arroz integral e cubra com os ovos mexidos, abacate, cebolinha, tomate e molho picante. Bom apetite!";
+
+/* Meal-25 */
+"name25" = "Refogado de Frango e Espargos";
+"ingredients25" = "1 colher de sopa de molho de soja  \n\n1 colher de sopa de mel  \n\n2 peitos de frango cortados em pedaços  \n\n1 colher de sopa de azeite  \n\n1 molho de espargos cortado em pedaços  \n\n4 dentes de alho picados finamente  \n\n2 colheres de chá de óleo de sésamo torrado";
+"steps25" = "Num saco com fecho de deslizar, junte o molho de soja e o mel. Adicione o frango e agite para envolver. Reserve no frigorífico até ao momento de usar. Entretanto, aqueça o azeite numa frigideira grande em lume médio. Remova os espargos e reserve. Remova o frango da marinada e coloque–o na frigideira. Depois acrescente alho, cebolinha e a marinada. Remova do calor e junte o óleo de sésamo mexendo bem. Bom apetite!";
+
+/* Meal-26 */
+"name26" = "Bife Salteado com Brócolos e Pimentos";
+"ingredients26" = "450 g bife do vazio cortado  \n\n2 colheres de sopa de molho de soja de teor de sódio reduzido  \n\n1 colher de chá de alho picado  \n\n½ colher de chá de pimenta preta moída  \n\n¼ colher de chá de pimenta vermelha moída  \n\n350 g brócolos  \n\n2 colheres de sopa de óleo de canola \n\n1 pimento vermelho grande picado \n\n4 chávenas de arroz de grão longo cozido";
+"steps26" = "Corte o bife ao meio. Corte cada metade em tiras com 0,3 cm de espessura. Junte os bifes, o molho de soja, o alho e a pimenta preta, misture bem e lev ao frigorífico durante 30 minutos. Misture ½ colher de sopa de água, molho de ostras e a pimenta vermelha esmagada numa taça pequena. Corte os ramos dos brócolos e corte os troncos diagonalmente em fatias com 0,65 cm de espessura. Coza os brócolos durante 2 minutos. Bom apetite!";
+
+/* Meal-27 */
+"name27" = "Camarão com Café Cajun";
+"ingredients27" = "450 g camarão jumbo  \n\n1 colher de sopa de azeite \n\nsal \n\npimenta \n\nsalsa fresca \n\nlimão \n\n25 g grãos de café  \n\n1 colher de sopa de paprika fumada  \n\n1 colher de chá de cominhos moídos  \n\n1 colher de chá de pimenta caiena";
+"steps27" = "Coloque os ingredientes para o Cup o' Joe Rub num liquidificador potente. Passe até os grãos de café estarem semi–uniformes. Tempere o camarão com cerca de 5 colheres de sopa desta pasta e adicione azeite. Envolva bem usando as mãos e garantindo que todo o camarão esteja bem coberto. Quando a frigideira estiver quente, coloque o camarão ao lume. Bom apetite!";
+
+/* Meal-28 */
+"name28" = "Peixe em Cartucho de Folha de Alumínio com Espinafre e Tomate";
+"ingredients28" = "•    1 molho de espargos\n•    2 tomates cortados\n•    2 filetes de tilápia\n•    azeite\n•    1/2 colher de chá de molho chili com alho\n•    sal\n•    1 limão fatiado";
+"steps28" = "Pré-aqueça o forno a 190ºC. Numa taça pequena, junte azeite, molho de chili e sal. Coloque os turiões dos espargos no centro de uma folha de alumínio e cubra-os com as fatias de tomate, depois tempere-as. Coloque um filete de peixe por cima dos tomates em cada cartucho e pincele os peixes com a mistura do azeite. Distribua os gomos de limão sobre o peixe. Asse o peixe no forno durante 25-30 minutos. Bom apetite!";
+
+/* Meal-29 */
+"name29" = "Scampi de Camarão com Esparguete de Curgete";
+"ingredients29" = "•    1 curgete\n•    1/2 - 1 colher de chá de manteiga\n•    150 g camarão pelado e limpo\n•    1/4 chávena de tomates cherry cortados ao meio\n•    1/4 colher de chá de pimento vermelho cortado\n•    2 colheres de sopa de caldo de galinha\n•    sal e pimenta\n•    1 colher de sopa de parmesão ralado";
+"steps29" = "Usando um espiralizador, faça o esparguete de curgete. Derreta a manteiga numa frigideira. Adicione o camarão, tomate, alho, chalota e pimento. Cozinhe durante 3-4 minutos até o camarão ficar rosado. Acrescente o caldo de galinha e o sumo de limão. Quando levantar fervura, adicione a masse de curgete. Bom apetite!";
+
+/* Meal-30 */
+"name30" = "Papa de Aveia com Sementes de Linhaça e Mirtilos";
+"ingredients30" = "3 chávenas de água  \n\n2 chávenas de flocos de aveia \n\n3 colheres de sopa de sementes de linhaça moída \n\n1/8 colher de chá de sal  \n\n¼ cháv. de leite gordo \n\n1 cháv. de mirtilos  \n\n1 colher de sopa geleia de mirtilo \n\n½ colher de chá de casca de limão ralada  \n\n1 colher de sopa de sumo de limão";
+"steps30" = "Ferva as 3 chávenas de água. Misture a aveia e depois acrescente as sementes de linhaça e o sal. Reduza para lume médio–baixo, deixe cozer até ficar macio, mexendo frequentemente. Junte o leite e a manteiga. Entretanto, junte os mirtilos e os 3 ingredientes seguintes numa tigela para micro–ondas e aqueça na temperatura máxima durante 1,5 minutos, mexendo a cada 30 segundos. Divida a mistura de aveia por 4 taças. Cubra com os mirtilos e as nozes pecã. Bom apetite!";
+
+/* Meal-31 */
+"name31" = "Taça Picante de Carne e Brócolos";
+"ingredients31" = "140 g carne magra picada  \n\n130 g arroz integral  \n\n91 g brócolos  \n\n31 g pimento vermelho às tiras  \n\ncoentros frescos \n\n1 lima \n\npasta de malagueta  \n\nalho";
+"steps31" = "Corte a porção de bife do vazio em pedaços e tempere com a pasta de malagueta e alho fresco. Coloque uma frigideira em lume médio e unte com óleo de coco em spray. Quando a frigideira estiver quente, coloque a carne e deixe cozinhar de um lado. Quando estiver selado, vire a carne e adicione os brócolos e os pedaços de pimento. Misture bem garantindo que está tudo bem cozinhado. Bom apetite!";
+
+/* Meal-32 */
+"name32" = "Camarão Doce e Picante com Lima";
+"ingredients32" = "340 g camarão jumbo  \n\n1 colher de sopa de óleo de sésamo  \n\n2 colheres de sopa de mel  \n\n1 colher de sopa de pasta de alho  \n\n1 colher de sopa de molho de malagueta  \n\nsumo de ½ lima";
+"steps32" = "Num saco, misture todos os ingredientes. Marine durante pelo menos 20 minutos, depois cozinhe na frigideira. Bom apetite!";
+
+/* Meal-33 */
+"name33" = "Pimento Vermelho à Sudoeste";
+"ingredients33" = "•    150 g flocos de aveia cozidos\n•    1 pimento\n•    1 colher de sopa de iogurte grego (2% gordura)\n•    28 g queijo mozzarella\n•    1 colher de chá de paprika fumada\n•    1/2 colher de chá de cominhos moídos\n•    43 g feijão preto escorrido\n•    41 g milho cozido\n•    1 colher de sopa de iogurte grego (2% gordura)\n•    sal\n•    pimenta";
+"steps33" = "Cozinhe os flocos de aveia conforme as instruções. Ligue o forno a 200ºC. Corte um pimento ao meio e remova as sementes. Coloque as metades do pimento em papel vegetal viradas para baixo. Asse-as no forno durante pelo menos 15 minutos ou até que estejam macias. Depois, misture os flocos de aveia, o iogurte grego, os feijões, o milho, a paprika e os cominhos. Tempere com sal marinho e pimenta. Bom apetite!";
+
+/* Meal-34 */
+"name34" = "Salada de Feijão Preto com Molho de Lima e Cominhos";
+"ingredients34" = "1 chávena de aipo cortado fininho  \n\n3/4 chávena de cebola vermelha fatiada  \n\n2 latas de feijão preto, lavado e escorrido  \n\n¼ chávena de sumo de lima  \n\n1 colher de sopa de azeite";
+"steps34" = "Para a salada, junte o aipo, a cebola e o feijão preto numa taça grande e misture bem. Combine todos os ingredientes para o tempero numa taça pequena e misture–os bem. Deite o molho sobre a salada, envolvendo bem. Bom apetite!";
+
+/* Meal-35 */
+"name35" = "Salmão Grelhado à Sudoeste";
+"ingredients35" = "110 g salmão selvagem  \n\n1 colher de sopa de azeite \n\n1 colher de sopa de paprika fumada \n\nsal e pimenta";
+"steps35" = "Ligue o forno a 175ºC. Espalhe os temperos nos filetes e grelhe durante cerca de 15 minutos, ou até ao ponto de cozedura desejado. Bom apetite!";
+
+/* Meal-36 */
+"name36" = "Ovos Mexidos e Papas de Aveia com Banana e Canela";
+"ingredients36" = "2 ovos  \n\n3 claras de ovos  \n\n40 g de aveia instantânea  \n\n1 banana  \n\ncanela";
+"steps36" = "Bata 2 ovos e 3 claras numa taça. Tempere com um pouco de sal e pimenta. Coloque algum azeite num tacho e aqueça–a no fogão. Acrescente os ovos. Mexa suavemente com uma espátula até que os ovos estejam cozinhados e depois retire–os do calor. Depois prepare a aveia instantânea conforme as instruções. Misture bem e crescente um pouco de canela para aromatizar. Bom apetite!";
+
+/* Meal-37 */
+"name37" = "Frango Kung Pao Leve e Picante";
+"ingredients37" = "150 g peitos de frango \n\n1/6 dentes de alho   \n\n33 g ervilha torta \n\n150 g pimento  \n\n2/3 colheres de sopa de água  \n\n⅓ colheres de sopa de molho de tomate  \n\n1/6 colheres de sopa de gengibre fresco  \n\n1/6 colheres de sopa de molho de malagueta  \n\n1/6 colheres de sopa de vinagre de arroz  \n\ncebola verde picada";
+"steps37" = "Numa taça, junte os ingredientes do molho e mexa. Coloque uma frigideira em lume médio com azeite. Quando a frigideira estiver quente, coloque o alho a alourar durante 2 minutos. Cozinhe o frango até o lado de fora estar dourado, cerca de 6 a 8 minutos. Junte os pimentos e salteie durante 3 minutos. Junte lentamente o molho e mexa com frequência. Bom apetite!";
+
+/* Meal-38 */
+"name38" = "Kebabs Picantes de Salmão e Laranja";
+"ingredients38" = "150 g salmão selvagem  \n\n27 g marmelada de laranja  \n\n1/6 colher de sopa de paprika fumada \n\n1/6 colher de sopa açúcar de coco \n\n⅓ colher de chá de molho Tabasco \n\nsumo de ⅓ tangerina";
+"steps38" = "Corte o salmão em pedaços para os kebabs. Marine o salmão durante 45 minutos. Asse no forno durante 8–10 minutos a 200°C. Bom apetite!";
+
+/* Meal-39 */
+"name39" = "Hambúrguer de Salmão com Abacate";
+"ingredients39" = "450 g filetes de salmão \n\n1 chávena de pão ralado \n\n1 ovo \n\n1 colher de sopa de sumo de limão  \n\nsal e pimenta  \n\nazeite  \n\n1 abacate grande picado  \n\n⅓ chávena de cebola vermelha picada  \n\n1 sumo de lima";
+"steps39" = "Corte os filetes de salmão em pedaços pequenos e transfira–os para uma tigela. Misture suavemente o resto dos ingredientes. Deixe a mistura repousar durante 5–10 minutos. Aqueça um pouco de óleo numa sertã grande em lume médio. Forme hambúrgueres com a mistura do salmão. Frite–os até alourar dos dois lados, cerca de 4 minutos de cada lado. Bom apetite!";
+
+/* Meal-40 */
+"name40" = "Papa de Aveia Frutada Saudável";
+"ingredients40" = "½ chávena de aveia \n\n1 chávena de água  \n\n1 colher de sopa de mel  \n\n1 colher de sopa de extrato de baunilha  \n\n½ colher de chá de canela em pó  \n\n¼ chávena de mirtilos  \n\n4 morangos picados \n\n½ banana às rodelas";
+"steps40" = "Junte a água e a aveia numa taça de microondas. Aqueça no máximo até a aveia ter absorvido a água. Misture o mel, o extrato de baunilha e a canela em pó. Acrescente os mirtilos e cubra com a banana e os morangos. Bom apetite!";
+
+/* Meal-41 */
+"name41" = "Smoothie com Kiwi, Laranjas e Espinafres";
+"ingredients41" = "uma mão cheia de espinafre \n\n2 pedaços de kiwi \n\numa manga \n\nsumo de uma laranja";
+"steps41" = "Lave os espinafres e corte as raízes. Lave a manga e os kiwis, depois corte–os em pedaços pequenos. Coloque tudo no liquidificador e passe até ficar homogéneo. Bom apetite!";
+
+/* Meal-42 */
+"name42" = "Guacamole com Salmão Fumado";
+"ingredients42" = "1 abacate \n\n57 g salmão fumado  \n\n17 g cebola vermelha picada  \n\n2 colheres de sopa de coentros picados  \n\n2 colheres de sopa de iogurte grego  \n\npimenta";
+"steps42" = "Esmague o abacate numa tigela e junte todos os ingredientes. Tempere com mostarda, cominhos, sumo de limão, iogurte grego e pimenta a gosto. Bom apetite!";
+
+/* Meal-43 */
+"name43" = "Tosta de Ovo Frito e Abacate";
+"ingredients43" = "2 ovos \n\n2 fatias de pão torrado \n\n1 abacate pequeno  \n\n1 colher de chá de sumo de lima  \n\nsal \n\npimenta preta  \n\nsalsa";
+"steps43" = "Prepare a tosta e os ovos fritos de acordo com a sua preferência. Descasque e amasse o abacate com o sumo de lima, o sal e a pimenta. Barre o abacate em cada fatia de pão e coloque um ovo frito em cada fatia e cubra com temperos a gosto. Bom apetite!";
+
+/* Meal-44 */
+"name44" = "Smoothie Pré–treino Doce Vermelho";
+"ingredients44" = "1 maçã vermelha  \n\n½ beterraba \n\n1 pau de aipo  \n\n3 morangos  \n\n¼ banana  \n\nchá verde (opcional)  \n\n41g framboesas  \n\n1 colher de chá de gengibre (opcional)";
+"steps44" = "Junte todos os ingredientes no liquidificador. Passe durante cerca de 1 minuto para garantir que elimina pedaços e até ficar uniforme. Beba como lanche.";
+
+/* Meal-45 */
+"name45" = "Espargos Grelhados com Alho e Parmesão";
+"ingredients45" = "450 g espargos frescos  \n\n2 colheres de sopa de azeite  \n\n3 colheres de sopa de parmesão ralado  \n\n2 dentes de alho picados  \n\nsal e pimenta";
+"steps45" = "Apare o fundo dos espargos. Coloque os espargos num tabuleiro com azeite e tempere com sal e pimenta. Coloque os espargos num grelhador em fila. Grelhe durante 5–10 minutos em lume médio até terem zonas ligeiramente esturricadas e estarem tenros. Bom apetite!";
+
+/* Meal-46 */
+"name46" = "Pesto Caseiro com Camarão e Esparguete de Curgete";
+"ingredients46" = "•    12 g de manjericão fresco\n•    7,5 g espinafre cru\n•    7,5 g nozes\n•    20 ml azeite\n•    1/2 colher de sopa de parmesão\n•    sumo de 1/4 de limão\n•    1/4 dente de alho\n•    sal\n•    pimenta\n•    42 g camarão cozido\n•    1/4 curgete\n•    2 tomates cherry picados";
+"steps46" = "Pique num processador alimentar os ingredientes do Pesto até obter uma mistura homogénea. Use o espiralizador para passar a curgete crua e deitar o linguine numa taça. Acrescente o molho pesto ao linguine e envolva usando uma tenaz. Junte a sua opção de proteína, como camarão grelhado ou frango, e depois junte os tomates cherry. Bom apetite!";
+
+/* Meal-47 */
+"name47" = "Cobbler de Bagas Condimentadas e Aveia";
+"ingredients47" = "150 g de flocos de aveia (cozidos)\n\n49 g de mirtilos\n\n50 g de amoras\n\n3 colheres de sopa de noz picada\n\n½ colher de sopa de óleo de coco\n\n¼ colher de chá de açafrão\n\n¼ colher de chá de pimenta–da–jamaica\n\n1 pacote de stevia da marca \"In The Raw\"\n\n1 pitada de canela\n\n1 colher de sopa de granola";
+"steps47" = "Coza os flocos de aveia conforme as instruções e reserve. Coloque uma frigideira antiaderente em lume médio e adicione óleo de coco. Deixe a frigideira aquecer. Acrescente as bagas. Tempere–as com uma pitada de canela e mexa. Remova as bagas da frigideira e deixe o molho engrossar. Misture muito bem e acrescente um pouco mais de canela se desejar. Coloque o xarope das bagas ainda quente por cima da papa de aveia. Acompanhe com granola fresca para acrescentar um elemento estaladiço. Bom apetite!";
+
+/* Meal-48 */
+"name48" = "Pêssego e Banana";
+"ingredients48" = "•    1 banana\n•    2 pêssegos\n•    1/2 chávena de leite de amêndoa abaunilhado\n•    1/2 chávena de cubos de gelo\n•    1/4 colher de chá de canela\n•    mel (opcional)";
+"steps48" = "Descasque e fatie os pêssegos e a banana frescos. Junte todos os ingredientes no liquidificador. Acrescente o mel e passe para tornar o smoothie mais fresco se pretender. Bom apetite!";
+
+/* Meal-49 */
+"name49" = "Refogado de Frango e Ananás";
+"ingredients49" = "110 g peitos de frango \n\n40 g ananás  \n\n120 g arroz integral \n\n⅓ colheres de sopa de azeite  \n\n½ colheres de chá de mostarda castanha  \n\n1/6 colheres de sopa de paprika fumada \n\nsal marinho \n\npimenta";
+"steps49" = "Corte os peitos de frango crus em pedaços pequenos. Tempere os pedaços com a paprika fumada e a mostarda castanha. Adicione azeite a uma frigideira e coloque os pedaços de peito de frango. Cozinhe durante cerca de 4 minutos, até o frango estar cerca de 80% concluído, e então adicione o pimento picado. Cozinhe mais 2 ou 3 minutos antes de acrescentar as fatias de ananás. Bom apetite!";
+
+/* Meal-50 */
+"name50" = "Chá de Ervas";
+"ingredients50" = "•    1 chávena de água\n•    1 colher de chá de gengibre fresco ralado\n•    1 colher de chá de raspa de lima\n•    1 colher de chá de sumo de lima\n•    3 folhas de menta fresca";
+"steps50" = "Ferva água num tacho e misture os restantes ingredientes. Deixe ferver e mexa até a infusão estar pronta. Bom proveito!";
+
+/* Meal-51 */
+"name51" = "Omelete de Cogumelos e Tomate";
+"ingredients51" = "4 claras de ovos  \n\n1 ovo \n\n½ chávena de queijo cottage magro  \n\n½ chávena de cogumelos picados  \n\n½ tomate picado";
+"steps51" = "Junte os ovos e bata levemente. Usando um spray de cozinha, cozinhe os ovos num tacho antiaderente. Acrescente queijo cottage, cogumelos e tomate no centro da omelete. Deixe cozinhar até que os ovos estejam cozidos e dobrem. Bom apetite!";
+
+/* Meal-52 */
+"name52" = "Smoothie de Espinafre com Pera e Gengibre";
+"ingredients52" = "•    3 chávenas de espinafre\n•    2 colheres de sopa de sumo de limão\n•    2 colheres de chá de gengibre\n•    2 peras\n•    menta";
+"steps52" = "Misture todos os ingredientes no liquidificador e passe-os até atingir uma consistência uniforme. Bom apetite!";
+
+/* Meal-53 */
+"name53" = "Milho Grelhado Mexicano";
+"ingredients53" = "4 maçarocas de milho  \n\n1,5 nata ácida  \n\n1 chávena de parmesão ralado  \n\nsumo de 1 lima \n\nmalagueta em pó \n\n2 lima cortadas em gomos, para decorar";
+"steps53" = "Grelhe o milho numa grelha bem quente até começar a ficar ligeiramente esturricado. Numa taça pequena misture a maionese, a nata ácida e coentros. Junte o milho, o sumo de lima e tempere com o parmesão. Polvilhe com a malagueta em pó. Bom apetite!";
+
+/* Meal-54 */
+"name54" = "Ananás e Kiwi";
+"ingredients54" = "4 colheres de sopa de água  \n\n½ chávena de leite  \n\n½ chávena de iogurte \n\n1,5 colher de sopa de mel \n\n1 kiwi descascado \n\n1 chávena de pedaços de ananás  \n\n½ manga \n\n2 cubos de gelo";
+"steps54" = "Misture todos os ingredientes a baixa velocidade até ficar espesso e uniforme. Bom apetite!";
+
+/* Meal-55 */
+"name55" = "Chá Verde de Mel e Limão";
+"ingredients55" = "•    1 rodela de limão\n•    2 colheres de chá de chá verde em pó\n•    3/4 chávena de água quente\n•    1/2 chávena de sumo de toranja\n•    3 colheres de sopa de sumo de limão\n•    1 colher de chá de mel";
+"steps55" = "Misture o chá verde em pó com a água quente. Junte o sumo de toranja, o sumo de limão e o mel. Misture bem e sirva com uma rodela de limão. Bom proveito!";
+
+/* Meal-56 */
+"name56" = "Kebabs de Camarão Grelhado e Abacate";
+"ingredients56" = "•    450 g de camarão jumbo\n•    1,5 abacate\n•    1 pimento vermelho\n•    1 pimento laranja\n•    1 pimento amarelo\n•    1 cebola vermelha\n•    1 colher de chá de pasta de alho\n•    1/2 colher de sopa de azeite\n•    1 lima\n•    sal, pimenta";
+"steps56" = "Ligue o grill a 200°C. Pique os legumes e o abacate em pedaços grandes para o kebab. Descasque o camarão e tempere-o. escolha vegetais fibrosos, já que são mais saciantes e deverão aguentar-se bem no espeto sob calor intenso. Coloque os kebabs no grill e cozinhe durante cerca de 8-10 minutos, depois vire-os e cozinhe outros 8 a 10 minutos. Bom apetite!";
+
+/* Meal-57 */
+"name57" = "Sandes de Ovo e Frango Grelhado Picante";
+"ingredients57" = "•    140 g peitos de frango, crus\n•    1 ovo\n•    30 g rúcula\n•    1/2 tomate chucha\n•   1 colher de sopa de queijo de cabra\n•    1 pão integral\n•    óleo de coco\n•    1 colher de chá de paprika fumada\n•    1/2 colher de chá de pimenta caiena\n•    sal\n•    pimenta";
+"steps57" = "Tempere os peitos de frango com paprika, pimenta caiena, cominhos, sal marinho e pimenta. Coloque o pão integral numa torradeira e torre até ao ponto desejado. Coloque óleo de coco numa frigideira em lume médio-alto. Acrescente o peito de frango na frigideira e cozinhe dos dois lados até estar completamente cozido. Acrescente a rúcula, o tomate, o queijo de cabra e o ovo. Bom apetite!";
+
+/* Meal-58 */
+"name58" = "Elixir do Brilho Dourado";
+"ingredients58" = "2 maçãs \n\n4 laranjas médias descascadas \n\n1 limão descascado \n\n1 pedaço de 5–7,5 cm de gengibre fresco descascado \n\n1 pedaço de 5 cm de curcuma descascada \n\n2 chávenas de água fria  \n\n1 mão cheia de gelo";
+"steps58" = "Num liquidificador de alta velocidade, passe todos os ingredientes até que a mistura fique uniforme, adicionando água fria se necessário. Um liquidificador de alta potência irá transformar isto numa bebida suave. Se preferir usar o sumo dos ingredientes para que a bebida fique ainda mais suave, pode fazê–lo, embora o ideal seja manter todas as fibras e todos os nutrientes na bebida. Bom apetite!";
+
+/* Meal-59 */
+"name59" = "Rolo de Omelete de Bisonte";
+"ingredients59" = "•    1 ovo\n•    3 claras de ovo\n•    110 g de carne de bisonte picada\n•    30 g espinafres crus\n•    58 g de pimento\n•    14 g queijo mozzarella ralado\n•    alho em pó\n•    cominhos moídos\n•    sal\n•    pimenta";
+"steps59" = "Tempere e cozinhe o bisonte numa frigideira antiaderente. Numa taça, bata os ovos com uma pitada de sal marinho e pimenta. Coloque outra frigideira antiaderente em lume médio-alto. Deite a mistura dos ovos e cozinhe como uma panqueca. Cubra a frigideira para permitir que o ovo cozinhe na íntegra. Bom apetite!";
+
+/* Meal-60 */
+"name60" = "Papaia";
+"ingredients60" = "2 papaias médias descascadas e cortadas \n\n1 chávena de framboesas \n\n¼ ananás pequeno  \n\ngengibre  \n\n1 chávena de leite  \n\n 2 colheres de sopa de iogurte grego \n\n1,5 cubo de gelo \n\n bagas para cobrir";
+"steps60" = "Junte todos os ingredientes no liquidificador. Passe até ficar uniforme. Bom apetite!";
+
+/* Meal-61 */
+"name61" = "Chá de Menta e Lavanda";
+"ingredients61" = "•    1/4 chávena de pétalas de lavanda fresca\n•    1 chávena de folhas de menta fresca\n•    4 chávenas de água";
+"steps61" = "Coloque as pétalas de lavanda e as folhas de menta num tacho com água e leve a ferver. Baixe o lume e deixe apurar o chá até o sabor ter a intensidade pretendida, 15 a 20 minutos. Bom proveito!";
+
+/* Meal-62 */
+"name62" = "Massa Saudável de Legumes e Camarão";
+"ingredients62" = "170 g camarão \n\n1 curgete \n\n2 cenouras \n\n½ dente de alho picado  \n\n¼ cebola vermelha picada  \n\n1 colher de sopa de molho de soja com baixo teor de sódio  \n\nsumo de ¼ laranja  \n\n½ colher de sopa de óleo de sésamo";
+"steps62" = "Vai precisar de um cortador de Juliana para fazer o esparguete de curgete e cenoura. A seguir, adicione 1 colher de sopa de molho de soja. Junte vinagre de cidra e esprema o sumo de ¼ de laranja. Por fim, adicione ½ colher de sopa de óleo de sésamo. Coloque uma frigideira em lume médio e unte com óleo de coco. Junte o alho e a cebola vermelha. Adicione o camarão à frigideira e mexa rapidamente com uma colher para garantir que todo o camarão absorve o sabor do alho e da cebola. Bom apetite!";
+

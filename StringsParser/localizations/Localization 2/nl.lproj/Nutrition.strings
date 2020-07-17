@@ -1,0 +1,381 @@
+
+//BUILD MUSCLE NUTRITION PLAN
+
+"Nutrition plan for building muscle" = "Nutrition plan for \n building muscle";
+"nutritionPlanDescription1" = "Muscle Strength and Size To stay \n consistent. Speed up metabolism";
+
+/* Day - 1 */
+"titleDay1" = "Everyone needs the three \n basics nutrients, carbohydrates,\n  proteins, and fats.";
+"descriptionDay1" = "Carbs supply the body with energy it needs to function. They are found almost exclusively in plan foods.";
+
+/* Day - 2 */
+"titleDay2" = "Protein is essential for growth \n and development. It provides \n the body with energy.";
+"descriptionDay2" = "Complete proteins are found in meat, fish, poultry, cheese, eggs, and milk.";
+
+/* Day - 3 */
+"titleDay3" = "Good fats are in fact, the most \n concentrated source of energy \n available to the body.";
+"descriptionDay3" = "By choosing the healthiest forms of each of these nutrients and eating them in the proper balance.";
+
+/* Day - 4 */
+"titleDay4" = "The saying \"You are what you eat\" is \n literally true.If you want your body \n to perform at a peak level.";
+"descriptionDay4" = "Choose red, orange, and dark-green vegetables like tomatoes, sweet potatoes, and broccoli, along with other vegetables for your meals.";
+
+/* Day - 5 */
+"titleDay5" = "Maximum amount of added sugars \n you should eat in a day: 37.5 \n grams or 9 teaspoons. ";
+"descriptionDay5" = "Fructose causes insulin resistance and raises insulin levels in the body, which increases the deposition of fat in the fat cells.";
+
+/* Day - 6 */
+"titleDay6" = "Water is an essential nutrient \n that is involved in every \n function of the body.";
+"descriptionDay6" = "Our organs, muscle, and bones all have water in them and need water to function properly.";
+
+/* Day - 7 */
+"titleDay7" = "Your body’s health reflects \n what you put into it.";
+"descriptionDay7" = "When combined with physical activity, a healthy diet can help people keep a healthy weight and reduce risk of chronic diseases. ";
+
+
+//WEIGHT LOSS NUTRITION PLAN
+
+"Nutrition plan for weight loss" = "Nutrition plan for \n weight loss";
+"nutritionPlanDescription2" = "Learn what to eat, discover \n fat burning foods";
+
+/* Day - 8 */
+"titleDay8" = "Enjoyment of a healthy diet can \n also be one of the great cultural \n pleasures of life.";
+"descriptionDay8" = "We need a wide variety of different foods to provide the right amounts of nutrients for good health.";
+
+/* Day - 9 */
+"titleDay9" = "Eliminate emotional eating by \n healing your hungry heart.";
+"descriptionDay9" = "Nutrition plays a key role in maintaining a healthy lifestyle.";
+
+/* Day - 10 */
+"titleDay10" = "Morning workout is better \n for weight loss";
+"descriptionDay10" = "In the morning, before you’ve eaten, your body is forced to utilize it's fat stores for energy.";
+
+/* Day - 11 */
+"titleDay11" = "Try Interval Training because it can \n end up burning more calories in less \n time than your regular workout.";
+"descriptionDay11" = "All you have to do is step up your intensity and train in short bursts instead of going steady for the entire workout.";
+
+/* Day - 12 */
+"titleDay12" = "Consistency in exercise is the \n key to real results and real health benefits.";
+"descriptionDay12" = "To speed up the metabolism and to help recuperate from your training, try to eat 5-6 small meals per day";
+
+/* Day - 13 */
+"titleDay13" = "Studies show that breakfast can \n be important in maintaining a \n health body weight.";
+"descriptionDay13" = "To keep your metabolism running strong, you must eat your fist meal within 1 hour of rising.";
+
+/* Day - 14 */
+"titleDay14" = "We recommend doing your cardio \n first thing in the morning, \n 30 minutes plus, before breakfast.";
+"descriptionDay14" = "Cardiovascular activity is necessary to keep the metabolism roaring and help you burn some extra calories.";
+
+
+//MEALS
+
+/* Meal-1 */
+"name1" = "Gegrilde citroen Dijon–kippendijen met arugula–salade";
+"ingredients1" = "4 (120 g) kippendijen \n\n½ tl zout \n\n¼ tl gemalen zwarte peper \n\n2.5 el olijfolie \n\n2 tl citroensap \n\n1 tl gehakt knoflook\n\nkookspray \n\n1 el balsamicoazijn \n\n1 tl honing \n\n1 kop snacktomaten, gehalveerd \n\n1 (150 g) zakje baby–arugula";
+"steps1" = "Strooi ¼ theelepel zout en 1/8 theelepel peper over de kip. Combineer de kip met 1–1,5 theelepels olie, citroensap, mosterd, en knoflook in een kom, hussel om te bedekken. Laat dit 4 minuten staan. Verhit een grillpan boven een matig vuur. Vet de pan in met kookspray. Doe de kip in de pan, gril 5 minuten aan elke kant of tot het gaar is. Snijd de kip in plakken van 6 mm dik. Geniet ervan!";
+
+/* Meal-2 */
+"name2" = "Tso’s roergebakken kip";
+"ingredients2" = "4 kipfilets, in blokjes \n\n1 kop bloem \n\nplantaardige olie\n\nzout\n\nvers gemalen zwarte peper \n\n2 teentjes knoflook, gehakt \n\n½ blik kippenbouillon \n\n3 el honing \n\n4 el sojasaus \n\n2 el limoensap \n\n2 blikken broccoli, alleen de roosjes \n\n2 blikken gekookte witte rijst, als bijgerecht";
+"steps2" = "Neem een grote kom met maïzena en dep de kip lichtjes om en om. Verplaats de stukken naar een grote kom met bloem en bedek het vlees nogmaals aan alle kanten, en leg het apart. Plaats een groter, diepe koekenpan met ½ eetlepel plantaardige olie op matig–hoog vuur. Kruid de kip, dep het vlees droog en leg het apart. Doe er 2 eetlepels maïzena bij en roer het door elkaar. Doe de broccoli en wortels bij de saus en kook tot het zacht is geworden en, ongeveer 5 minuten. Geniet ervan!";
+
+/* Meal-3 */
+"name3" = "Sriracha–kip met sinaasappel en honing";
+"ingredients3" = "0,1 kg kipfilet \n\n1/8 el sesamolie \n\n12,5 g Sriracha–saus \n\nzout \n\npeper";
+"steps3" = "Stel de grill of oven in op 190°C. Doe alle ingrediënten voor de marinade in een zak en meng het goed. Proef de marinade en kruid het naar smaak. Doe de kip bij de marinade en plaats het geheel in de koelkast, in ieder geval 30 minuten. Haal de kip weer uit de koelkast en plaats het op de grill. Grill ongeveer 15 tot 20 minuten tot het vleesvocht van de kip helder is. Geniet ervan!";
+
+/* Meal-4 */
+"name4" = "Zalmballetjes geglazuurd met honingmosterd ";
+"ingredients4" = "\n•    56 g wilde zalm\n•    1/8 el knoflookpasta\n•    7 g rode ui, gehakt\n•    1 el koriander , gehakt\n•    1/8 ei\n•    1/8 eiwit\n•    0,06 paprika\n•    zout\n•    peper\n•    0,2 tl gember\n•    1/8 el kippenbouillon";
+"steps4" = "Verwarm de oven voor op 200 °C. Kruid de zalm en bak die in de oven tot de zalm uit elkaar valt met een vork. Haal de zalm in een kom uit elkaar met een vork, tot het losse stukjes zijn. Doe er alle ingrediënten bij, behalve de glazuur, en meng het geheel. Bak de zalm in de oven, ongeveer 7 minuten. Meng in een afzonderlijke kom alle ingrediënten voor de mosterdglazuur. Geniet ervan!";
+
+/* Meal-5 */
+"name5" = "Gegrilde citroen Dijon–kippendijen met arugula–salade";
+"ingredients5" = "4 (120 g) kippendijen \n\n½ tl zout \n\n¼ tl gemalen zwarte peper \n\n2.5 el olijfolie \n\n2 tl citroensap \n\n1 tl gehakt knoflook\n\nkookspray \n\n1 el balsamicoazijn \n\n1 tl honing \n\n1 kop snacktomaten, gehalveerd \n\n1 (150 g) zakje baby–arugula";
+"steps5" = "Strooi ¼ theelepel zout en 1/8 theelepel peper over de kip. Combineer de kip met 1–1,5 theelepels olie, citroensap, mosterd, en knoflook in een kom, hussel om te bedekken. Laat dit 4 minuten staan. Verhit een grillpan boven een matig vuur. Vet de pan in met kookspray. Doe de kip in de pan, gril 5 minuten aan elke kant of tot het gaar is. Snijd de kip in plakken van 6 mm dik. Geniet ervan!";
+
+/* Meal-6 */
+"name6" = "Chili Fajitas";
+"ingredients6" = "1 pond kipfilet, zonder vel \n\n½ groene, rode en gele paprika, in dunne plakjes \n\n⅓ kop water\n\n2 tl sojasaus \n\n1 snufje zout \n\n1 snufje zwarte peper\n\n2 el olijfolie \n\n1 grote ui, in dunne plakjes";
+"steps6" = "Doe alle ingrediënten voor de marinade samen met de kip in een kom of zak en zet dit minstens 2 uur in de koelkast. Verwijder het vlees uit de marinade en grill boven een matig vuur, 4–5 minuten aan elke kant. Snijd het vlees in dunne plakken. Meng voor de saus 2 el water, 1 tl sojasaus, ¼ tl limoensap, snufje zout, snufje zwarte peper en 1 el olijfolie.  Geniet ervan!";
+
+/* Meal-7 */
+"name7" = "Kalkoen & groenteomelet–rolletjes";
+"ingredients7" = "1 ei \n\n4 eiwitten \n\n85 g kalkoengehakt, gekookt\n\n1 handvol spinazie (rauw) \n\n58 g paprika \n\n8  geitenkaas";
+"steps7" = "Braad het kalkoengehakt in een koekenpan en gemalen kalkoen. Meet een dagelijkse portie eieren af en kook dit in een andere pan. Doe er geitenkaas, spinazie, paprika's en kalkoengehakt bij. Wacht tot het iets is afgekoeld, en wikkel het dan in aluminiumfolie. Geniet ervan!";
+
+/* Meal-8 */
+"name8" = "Geroerbakte citruskip ";
+"ingredients8" = "\n•    140 g kipfilet, kleine stukjes\n•    34 g broccolini\n•    25 g baby portobello\n•    1/4 rode paprika\n•    20 g rode ui\n•    kokosolie, spray\n•    sesamzaadjes\n•    1/4 tl arrowroot\n•    1/8 el knoflookpasta\n•    1/4 tl gemberpasta";
+"steps8" = "Mix alle ingrediënten voor de geroerbakte saus in een kom. Spray een koekenpan met kokosolie en plaats op een matig vuur. Doe er de kipstukjes bij en bak tot ze ongeveer 85% gaar zijn. Doe er daarna de groente bij en roer met een spatel. Geniet ervan!";
+
+/* Meal-9 */
+"name9" = "Zoete chilizalm";
+"ingredients9" = "1 zalmfilet\n\nzout \n\nzwarte peper \n\n1 tl olie \n\n4 el zoete chilisaus \n\n1,5 tl limoensap \n\n½ tl wit sesamzaad";
+"steps9" = "Kruid de zalm met zout & peper. Meng de chilisaus, limoensap, sesamzaad en korianderblaadjes goed door elkaar. Verhit een koekenpan op een matig vuur en doe er wat olie bij. Schroei de zalm aan beide zijden dicht tot de vis helemaal gaar is. Geniet ervan!";
+
+/* Meal-10 */
+"name10" = "BBQ–kip met aspergerolletjes";
+"ingredients10" = "2 kipfilets, dun gesneden, 90 gr per stuk\n\n12 aspergestelen \n\n2 el barbecuesaus\n\n1 snufje gerookte paprika \n\n1 snufje knoflookpoeder \n\n1 snufje peper";
+"steps10" = "Stel oven in op 200°C. Plet de kip met een vleeshamer. Kruid de kipstukjes met 1 el barbecuesaus (voor elk stuk) en kruiden naar keuze. Leg de kip op een grilrooster met het open deel naar beneden. Bak het vlees ongeveer 8 tot 10 minuten in de oven, of rook het op een barbecue. Geniet ervan!";
+
+/* Meal-11 */
+"name11" = "Eiwit, asperges en volkorenrijst & quinoa–frittata";
+"ingredients11" = "6 eiwitten \n\n2 aspergestelen \n\n120 g volkorenrijst & quinoa–mix (gekookt)\n\n1 zoete kleine rode paprika \n\nknoflookpoeder \n\npeper \n\nzout \n\n½ roze grapefruit";
+"steps11" = "Stel de oven in op 200°C. Doe een beetje olijfolie in een koekenpan. Doe de gekookte volkorenrijst & quinoa in de pan. Giet er de eiwitten overheen. Doe er de gestripte asperges en paprikaschijfjes bij. Bak dit ongeveer 15 minuten in de oven. Geniet ervan!";
+
+/* Meal-12 */
+"name12" = "Mediterrane Griekse fijne salade (wrap)";
+"ingredients12" = "1 volkoren tortilla, 25 cm \n\n140 g gekookte kipfilets   \n\n3 bladsla \n\n4 el verse basilicum \n\n50 g rode ui \n\n50 g komkommer \n\n5 kerstomaatjes, in helften\n\n⅓ citroen\n\n3/4 el olijfolie\n\n⅓ tl knoflook \n\nzout\n\npeper";
+"steps12" = "Meng de ingrediënten voor de citroen–vinaigrette en de kruid met zout & peper in een kom. Doe 1 portie citroen–vinaigrette in een kom. Meng er de salade door met een spatel, en doe een deel van de inhoud op een volkoren–tortilla. Geniet ervan!";
+
+/* Meal-13 */
+"name13" = "Banaan–notenhavermout";
+"ingredients13" = "½ kop havermout \n\n1 kop water \n\n1 plakjes banaan\n\n1 el gehakte walnoten \n\n1 tl gemalen kaneel";
+"steps13" = "Meng havermout en 1 kop of water in een kleine magnetronbestendige kom. Kook 3 minuten op een hoge stand. Garneer met banaan slices, walnoten en kaneel. Geniet ervan!";
+
+/* Meal-14 */
+"name14" = "Lichte citroen knoflookpasta met zalm";
+"ingredients14" = "1 pond zalmfilet\n\n500 g rigatoni/pasta \n\n1 tl knoflook, gehakt \n\n2 el olijfolie \n\n½ kop basilicumblaadjes, gehakt\n\nzout en peper \n\n2 el citroensap \n\n2 tl kappertjes";
+"steps14" = "Bak de pasta volgens de aanwijzingen op de verpakking. Kruid ondertussen de zalm met zout en peper en bak op 180 graden Celsius, 15–20 minuten, afhankelijk van de dikte. Is de pasta gekookte, giet het dan af en roer er de knoflook, olijfolie, basilicum en  kruiden door. Voeg citroensap en –rasp, en kappertjes toe aan de pasta en hussel om te mengen. Geniet ervan!";
+
+/* Meal-15 */
+"name15" = "Oranje geglazuurde zalm";
+"ingredients15" = "\n•    150 g zalm\n•    1/2 el sinaasappelmarmelade\n•    1/2 el mosterd\n•    1/6 sinaasappelsap";
+"steps15" = "Doe de marmalede, mosterd, suiker en sinaasappelsap bij elkaar in een kom. Wrijf de gemengde uit over de zalm en kook 3 tot 4 minuten, tot de zalm gaat schilferen. Geniet ervan!";
+
+/* Meal-16 */
+"name16" = "Champignon en spinazieomelet";
+"ingredients16" = "1 el olijfolie \n\n½ kop gehakte sjallotten \n\n3 knoflookteentjes, gehakt\n\n240 gram witte champignons\n\n1 takje tijm\n\n180 gram verse baby–spinazie \n\nzout\n\ngemalen zwarte peper\n\n8 grote eieren";
+"steps16" = "Verhit een steelpan boven een matig–hoog vuur. Doe wat olie in de pan. Doe er de sjallotten, knoflook, champignons en tijm bij. Doe de spinazie erbij en sauteer tot bijna al het vocht is verdampt. Meng een snufje of zout en peper en 4 eieren in een kleine kom, al roerend met een klop. Zet de pan weer op een matig vuur. Voeg er het eimengsel aan toe en kook dit 1 minuut. Til de randen van de omelet op met een spatel, houd de pan schuin om het ongekookte ei over de bodem van de pan te rollen. Geniet ervan!";
+
+/* Meal-17 */
+"name17" = "Pikante garnalen met verse kruiden";
+"ingredients17" = "1 pond grote garnalen \n\n2 rode chilipepers \n\n1 prei, in dunne plakjes \n\n0,5–1 el kappertjes, gespoeld en afgegoten \n\n2 teentjes knoflook, in dunne plakjes \n\n½ kop grof gesneden peterselie \n\n3 el citroensap\n\n2 el olijfolie";
+"steps17" = "Zet een sauteerpan op een matig vuur en doe er wat olie in. Doe er garnalen, pepers, prei, kappertjes, knoflook, zout en peper bij, en bak 4 minuten tot de garnalen roze zijn. Haal de pan van het vuur. Doe citroensap in de pan, en schraap de bodem van de pan uit met een lepel. Serveer de garnalen met verse peterselie en basilicum. Geniet ervan!";
+
+/* Meal-18 */
+"name18" = "Gegrilde kipfilet met citroen";
+"ingredients18" = "3 el citroensap \n\n2 el olijfolie \n\n2 knoflookteentjes, gehakt \n\n7 kipfilets (180 gram)\n\n½ tl zout \n\n½ tl vers gemalen zwarte peper \n\nkookspray";
+"steps18" = "Verhit de grill tot matig–hoog vuur. Meng de eerste 4 ingrediënten in een grote plastic zak en doe die dicht. Laat dit 30 minuten in de koelkast marineren. Verwijder de kip uit de zak, verwijder de marinade. Bestrooi de kip gelijkmatig met zout en peper. Leg het vlees op het met kookspray ingevette barbecuerooster, grill aan weerskanten, of tot het gaar is. Geniet ervan!";
+
+/* Meal-19 */
+"name19" = "Notenbrood met aardbei en bananen";
+"ingredients19" = "150 g havermout (gekookt)\n\n½ geprakte banaan \n\n50 g aardbeien\n\n2 el amandelmelk \n\n1 el vanille–extract \n\n2 el  gehakte walnoten\n\npakketje stevia merk \"In The Raw\" \n\ncitroenschil als garnering \n\n1 el Griekse yoghurt (2% vet)\n\n½ el gehakte walnoten \n\nmaanzaad";
+"steps19" = "Kook havermout volgens de aanwijzingen, en zet het even aan de kant. Doe alle ingrediënten in een kom, behalve aardbeien, en mix grondig. Garneer de havermout met vers gehakte aardbeien. Garneer met Griekse yoghurt, gehakte walnoten en maanzaad. Geniet ervan!";
+
+/* Meal-20 */
+"name20" = "Kip teriyaki met broccoli";
+"ingredients20" = "2 koppen broccoli–roosjes\n\n1 grote kipfilet, in blokjes \n\n1 eetlepel olie\n\nzout en peper\n\n1 paprika, in plakjes\n\n2 koppen gekookte volkorenrijst\n\n¼ kop lichte sojasaus\n\n2 el rijstwijnazijn \n\n1 teentje knoflook, gehakt\n\n½ tl sesamolie\n\n¼ theelepel gemberpoeder";
+"steps20" = "Verhit een grote pan op matig–hoog vuur. Doe er de kip bij, kruid met zout en peper en kook dit tot het niet meer roze is. Klop alle ingrediënten voor de teriyaki–saus in een kleine kom. Doe de broccoli–roosjes en paprika erbij in de pan. Verdeel de kip en broccoli over 4 borden. Bestrooi met sesamzaadjes en dek het af. Geniet ervan!";
+
+/* Meal-21 */
+"name21" = "Romige melkvrije kippasta";
+"ingredients21" = "110 g kipfilet \n\n42 g volkorenpasta \n\n¼ el olijfolie \n\n75 ml 2% kokosmelk \n\n45 ml kippenbouillon\n\n160 g asperges \n\n½ citroen \n\n¼ teentje knoflook \n\n1,3 el verse peterselie";
+"steps21" = "Kook de pasta volgens de aanwijzingen, en zet het apart. Kruid de kip met zout, peper en oregano. Doe de helft van de olijfolie in en koekenpan en plaats dit op een matig vuur. Is de koekenpan heet genoeg, bak de kipfilet dan aan beide zijden tot het vlees volledig gaar is en haal het uit de koekenpan. Doe kippenbouillon en citroensap in de pan. Laat het een paar minuten sudderen en doe er dan de gekookte pasta bij. Geniet ervan!";
+
+/* Meal-22 */
+"name22" = "Garnalenburger ";
+"ingredients22" = "\n•    450 g rauwe garnalen\n•    1 el olijfolie\n•    1 rode paprika\n•    green ui\n•    zout, peper\n•    glutenvrij bolletje\n•    geprakte avocado\n•    kropsla\n•    tomaat\n•    kiemen";
+"steps22" = "Stel de gril in op ongeveer 93°C. Doe de ingrediënten voor de burger (behalve de paprika en lente-ui) in een blender en blend tot je garnalengehakt hebt gemaakt. Doe dit vervolgens in een kom en voeg er de gehakte paprika en lente-ui aan toe. Plaats nu de burgers op het rooster en gril ze ongeveer 15-20 minuten, 8-10 minuten aan elke kant. Geniet ervan!";
+
+/* Meal-23 */
+"name23" = "BBQ Mosterdkip";
+"ingredients23" = "110 gr kipfilet \n\nzout \n\npeper \n\n Ingrediënten voor de saus:\n\n 31 g mosterd  \n\n10,5 g honing \n\n15 ml appelazijn \n\n¼ tl gerookte paprika \n\n¼ tl kurkuma";
+"steps23" = "Verwarm de grill voor op 200°C. Meng de ingrediënten voor de saus in een kom. Kruid de stukjes kip met zout en peper. Maak spiesjes met houten vleesstokjes. Leg de kip op de grill en kook het vlees ongeveer 10 tot 12 minuten. Borstel daarna de kip in met de saus, en gaar dit nog eens 8 tot 10 minuten, tot de kip helemaal klaar is. Geniet ervan!";
+
+/* Meal-24 */
+"name24" = "Ontbijt met volkorenrijst";
+"ingredients24" = "\n•    4 eieren\n•    1 el Griekse yoghurt (2% vet)\n•    zout\n•    peper\n•    Tabasco\n•    1 el boter\n•    250 g volkorenrijst voor in de magnetron\n•    1/2 avocado, in blokjes\n•    1 roma-tomaat, in blokjes\n•    1 groene uit, in dunne plakjes";
+"steps24" = "In een middelgrote kom klop je de eieren met Griekse yoghurt, zout, peper en de tabasco. In een middelgrote steelpan, smelt je de boter. Doe er de eieren in en roer. Doe de volkorenrijst in een kom en garneer met roerei, avocado, uien, tomaat en tabasco. Geniet ervan!";
+
+/* Meal-25 */
+"name25" = "Geroerbakte kip en asperges";
+"ingredients25" = "1 el sojasaus \n\n1 el honing \n\n2 kipfilets, in stukjes \n\n1 el olijfolie \n\n1 bos asperges, in stukjes \n\n4 teentjes knoflook, in dunne plakjes \n\n2 tl geroosterde sesamolie";
+"steps25" = "Meng sojasaus en honing in een afsluitbare zak. Doe er de kip bij en roer het geheel om het vlees een laagje te geven. Leg het in de koelkast tot het klaar is. Verhit ondertussen olie in een grote koekenpan op een matig vuur. Verwijder de asperges en leg ze apart. Verwijder de kip uit de marinade, en leg het in de koekenpan. Voeg er de knoflook, lente–uitjes en de apart gezette marinade aan toe. Verwijder van het vuur en roer er de sesamolie door. Geniet ervan!";
+
+/* Meal-26 */
+"name26" = "Geroerbakt rundvlees met broccoli en paprika";
+"ingredients26" = "1 pond vinkelap, getrimd \n\n2 el sojasaus \n\n1 tl gehakte knoflook \n\n½ tl gemalen zwarte peper \n\n¼ tl gekneusde rode peper \n\n3/4 lb. broccoli \n\n2 el raapzaadolie \n\n1 grote rode paprika, in stukjes van 2,5 cm\n\n4 koppen gekookte rijst, lange korrel";
+"steps26" = "Snijd het vlees doormidden. Snijd elk stuk over de draad in stukken van 3 mm. Combineer het vlees, de sojasaus, knoflook en zwarte peper, goed omscheppen en 30 minuten koelen. Doe ½ eetlepels water, oestersaus en gekneusde rode peper in een kleine kom; zet apart. Snijd de broccoli in roosjes, snijd de stelen diagonaal in stukken van 1,5 cm. Kook de broccoli ongeveer 2 minuten. Geniet ervan!";
+
+/* Meal-27 */
+"name27" = "Cajun koffiegarnalen";
+"ingredients27" = "450 g jumbo–garnalen \n\n1 el olijfolie \n\nzout  \n\npeper\n\nverse peterselie\n\ncitroen\n\n25 g koffiebonen \n\n1 el gerookte paprika \n\n1 tl gemalen komijn \n\n1 tl cayennepeper";
+"steps27" = "Doe de ingrediënten voor de koffie–rub in een krachtige blender. Blend tot de koffiebonen redelijk geblend zijn. Kruid de garnalen met ongeveer 5 eetlepels van de rub en doe er olijfolie bij. Mix alles door elkaar met je handen en zorg dat alle garnalen goed bedekt zijn. Wanneer de koekenpan is verhit, kun je er de garnalen bij doen. Geniet ervan!";
+
+/* Meal-28 */
+"name28" = "Vispakketjes met spinazie en tomaat in folie";
+"ingredients28" = "\n•    1 bosje asperges\n•    2 tomaten in plakjes\n•    2 tilapiafilets\n•    olijfolie\n•    1/2 tl chili-knoflooksaus\n•    zout\n•    1 citroen, in plakjes";
+"steps28" = "Verwarm de oven voor op 190° C. In een kleine kom meng je de olijfolie, chilisaus en zout. Doe de asperges in het midden van een vel aluminiumfolie, en leg de plekjes tomaat er bovenop; kruid naar smaak. Leg één visfilet op de tomaten in elke pakketje, en smeer het olijfoliemengsel over de vis. Rangschik de citroenschijfjes over de vis. Bak de vis in de oven, ongeveer 25-30 minuten. Geniet ervan!";
+
+/* Meal-29 */
+"name29" = "Garnalenscampi met courgettenoedels";
+"ingredients29" = "\n•    1 courgette\n•    1/2 - 1 tl boter\n•    300 g garnalen, gepeld en het darmkanaal verwijderd\n•    1/4 kop kersentomaatjes, gehalveerd\n•    1/4 tl rode pepervlokken\n•    2 el kippenbouillon\n•    zout en peper\n•    1 el geraspte parmezaanse kaas";
+"steps29" = "Maak noedels van de courgette met een spiralizer. Smelt de boter in een koekenpan. Doe de garnalen, tomaten, knoflook, sjallotten en rode pepervlokken erbij. Bak 3-4 minuten tot de garnalen net roze zijn. Voeg er de kippenbouillon en citroensap aan toe. Suddert het, doe er dan de courgette bij. Geniet ervan!";
+
+/* Meal-30 */
+"name30" = "Lijnzaad–havermout met blauwe bessen";
+"ingredients30" = "3 koppen water \n\n2 koppen havermout \n\n3 el gemalen lijnzaad \n\n1/8 tl zout \n\n¼ kop volle melk \n\n1 kop blauwe bessen \n\n1 el bosbessenjam \n\n½ tl citroenrasp \n\n1 el citroensap";
+"steps30" = "Breng 3 koppen water aan de kook. Roer er de havermout door, voeg er lijnzaad en zout aan toe. Zet het vuur op matig–laag, kook al roerend tot het geheel zacht is geworden. Roer er melk en boter door. Meng ondertussen de blauwe bessen met de volgende 4 ingrediënten in een magnetronbestendige kom, zet de magnetron 1,5 minuten hoog, roer om de 30 seconden. Verdeel de havermout over 4 kommen. Garneer met blauwe bessen en pecannoten. Geniet ervan!";
+
+/* Meal-31 */
+"name31" = "Kruidig hamburger met broccoli";
+"ingredients31" = "140 g rundergehakt\n\n130 g volkorenrijst \n\n91 g broccoli \n\n31 g rode paprika in plakjes \n\nverse koriander\n\n1 limoen \n\nrode chilipasta \n\nknoflook";
+"steps31" = "Deel het gehakt op in stukken en kruid met chilipasta en verse knoflook. Zet een koekenpan op een matig vuur en vet in met kokosolie. Is de koekenpan heet, doe er dan het vlees in en laat het aan een kant dichtschroeien. Draai daarna het vlees om, en doe er de broccoli en paprika bij. Roer het mengsel om, tot alle zijden van het vlees, de broccoli en paprika zijn gegaard. Geniet ervan!";
+
+/* Meal-32 */
+"name32" = "Zoete & pittige limoengarnalen";
+"ingredients32" = "340 g jumbo–garnalen \n\n1 el sesamolie \n\n2 el honing \n\n1 el knoflookpasta \n\n1 el rode chilisaus \n\nsap van ½ limoen";
+"steps32" = "Meng alle ingrediënten in een zak. Laat het minstens 20 minuten marineren, en gaar het daarna in een koekenpan. Geniet ervan!";
+
+/* Meal-33 */
+"name33" = "Southwestern rode paprika";
+"ingredients33" = "\n•    150 g gekookte havermout\n•    1 paprika\n•    1 el Griekse yoghurt (2% vet)\n•    28 g mozzarella\n•    1 tl gerookte paprika\n•    1/2 tl gemalen komijn\n•    43 g zwarte bonen, afgegoten\n•    41 g gestoomde maïs\n•    1 el Griekse yoghurt (2% vet)\n•    zout\n•    peper ";
+"steps33" = "Kook havermout volgens de aanwijzingen. Zet het even aan de kant. Stel de oven in op 200°C. Snijd een paprika doormidden en verwijder de zaadjes. Leg beide helften paprika op een bakplaat met de open kant onder. Bak dit minstens 15 minuten, of tot de helften zacht zijn geworden, in de oven. Roer vervolgens de havermout, Griekse yoghurt, bonen, maïs, paprika en komijn door elkaar. Breng op smaak met zeezout & peper. Geniet ervan!";
+
+/* Meal-34 */
+"name34" = "Zwarte bonensalade met limoen–komijn dressing";
+"ingredients34" = "1 kop selderij in dunne plakjes \n\n3/4 kop rode ui, in plakjes\n\n2 (15 oz) blikken zwarte bonen, afgegoten en gespoeld \n\n¼ kop limoensap \n\n1 el olijfolie";
+"steps34" = "Voor de salade: Doe selderij, ui en zwarte bonen in een grote kom; goed husselen. Doe alle ingrediënten voor de dressing in een kleine kom, roer het mengsel met een garde tot het is gemengd. Schenk over het bonenmengsel, husselen om te coaten. Geniet ervan!";
+
+/* Meal-35 */
+"name35" = "Gegrilde wilde zalm";
+"ingredients35" = "110 g wilde zalm \n\n1 el olijfolie\n\n1 el gerookte paprika\n\nzout & peper";
+"steps35" = "Verwarm de oven voor op 180°. Wrijf de filets in met de kruiden en grill ongeveer 15 minuten, of tot de gewenste gaarheid. Geniet ervan!";
+
+/* Meal-36 */
+"name36" = "Roereieren en havermout met banaan en kaneel";
+"ingredients36" = "2 eieren \n\n3 eiwitten \n\n40 g instant havermout \n\n1 banaan \n\nkaneel";
+"steps36" = "Klop 2 eieren en 3 eiwitten in een kom. Breng op smaak met een beetje zout en peper. Doe wat olie in een pan en verhit de pan op het fornuis. Doe er de eieren bij. Roer zachtjes met een spatel tot de eieren gaar zijn en haal ze van het vuur. Bereid vervolgens de instant havermout zoals aangegeven. Roer grondig door elkaar en voeg er een beetje kaneel aan toe voor de smaak. Geniet ervan!";
+
+/* Meal-37 */
+"name37" = "Kruidig & licht Kung Pao kip";
+"ingredients37" = "150 g kipfilet \n\n1/6 teentje knoflook  \n\n33 g peultjes\n\n150 g paprika \n\n2/3 el water \n\n⅓ el tomatensaus \n\n1/6 el verse gember \n\n1/6 el rode chilisaus \n\n1/6 el rijstazijn \n\ngehakte lente–ui";
+"steps37" = "Doe de ingrediënten voor de saus in een kom en roer ze door elkaar. Verhit een koekenpan op matig vuur en vet in met olijfolie. Wanneer de koekenpan heet is, doe je er de knoflook bij en laat je het ongeveer 2 minuten fruiten. Doe er vervolgens de stukjes kipfilet bij. Bak de kip tot de buitenkant is aangebraden, ongeveer 6 tot 8 minuten. Doe er de gehakte paprika's bij laat het geheel ongeveer 3 minuten sudderen. Giet er langzaam de saus bij en roer regelmatig. Geniet ervan!";
+
+/* Meal-38 */
+"name38" = "Pittige sinaasappel zalmkebab";
+"ingredients38" = "150 g wilde zalm \n\n27 g sinaasappelmarmelade \n\n1/6 el gerookte paprika\n\n1/6 el kokossuiker\n\n⅓ tl Tabasco \n\nsap van ⅓ mandarijn";
+"steps38" = "Snijd de zalm in tukken van 60 tot 90 gram voor de kebab. Marineer de zalm ongeveer 45 minuten. Bak 8–10 minuten in de oven op 200°C. Geniet ervan!";
+
+/* Meal-39 */
+"name39" = "Zalmburger met avocado";
+"ingredients39" = "1 pond zalmfilet\n\n1 kop broodkruimels \n\n1 ei \n\n1 el citroensap \n\nzout en peper \n\nolijfolie \n\n1 grote avocado, gehakt \n\n⅓ kop rode ui, gehakt \n\n1 limoensap";
+"steps39" = "Hak de zalmfilet in kleine stukjes en doe die in een mengkom. Roer voorzichtig de rest van de ingrediënten erdoor. Laat het mengsel 5–10 minuten rusten. Verhit een beetje olie in een grote grillpan op matig vuur. Maak nette pasteitjes van het zalmmengsel. Bak de pasteitjes tot ze aan elke kant bruin zijn, ongeveer 4 minuten aan elke kant. Geniet ervan!";
+
+/* Meal-40 */
+"name40" = "Gezonde, fruitige havermout";
+"ingredients40" = "½ kop havermout\n\n1 kop water \n\n1 el honing \n\n1 el vanille–extract \n\n½ tl gemalen kaneel \n\n¼ kop blauwe bessen \n\n4 plakjes aardbeien\n\n½ banaan, in plakjes";
+"steps40" = "Meng water en havermout in een magnetronbestendige kom. Magnetron op hoge stand tot de havermout het water heeft opgenomen. Roer er honing, vanille–extract en gemalen kaneel door. Voeg er de blauwe bessen aan toe en garneer met banaan en plakjes aardbei. Geniet ervan!";
+
+/* Meal-41 */
+"name41" = "Smoothie met kiwi, sinaasappelen en spinazie";
+"ingredients41" = "een grote hand spinazie\n\n2 kiwi–stukjes\n\n1 mango\n\nsap van 1 sinaasappel";
+"steps41" = "Was de spinazie, snijd de wortels af. Schil de mango en de kiwi’s en snijd ze in kleine stukjes. Klop alle ingrediënten in een blender tot een smoothie. Geniet ervan!";
+
+/* Meal-42 */
+"name42" = "Gerookte zalm–guacamole";
+"ingredients42" = "1 avocado\n\n57 g gerookte zalm \n\n17 g rode ui, gehakt \n\n2 el koriander, gehakt \n\n2 el Griekse yoghurt \n\npeper";
+"steps42" = "Prak de avocado's in een kom en combineer alle ingrediënten. Kruid met mosterd, komijn, citroensap, Griekse yoghurt en peper naar smaak. Geniet ervan!";
+
+/* Meal-43 */
+"name43" = "Mager gebakken ei op een toast met avocado";
+"ingredients43" = "2 eieren\n\n2 geroosterde sneedjes brood \n\n1 kleine avocado \n\n1 tl limoensap \n\nzout\n\nzwarte peper \n\npeterselie";
+"steps43" = "Maak de toast en gebakken eieren naar persoonlijke voorkeur. Pel en pureer de avocado met de limoensap, zout en peper. Spreid de avocado gelijkmatig op elk toast en beleg elk met een gebakken ei en extra kruiden naar smaak. Geniet ervan!";
+
+/* Meal-44 */
+"name44" = "Zoete, rode pre–workout smoothie";
+"ingredients44" = "1 rode appel \n\n½ biet\n\n1 stengel selderij \n\n3 aardbeien\n\n¼ een banaan \n\ngroene thee (eventueel) \n\n41g frambozen \n\n1 tl gember (eventueel)";
+"steps44" = "Doe alle ingrediënten in een blender. Blend ongeveer 1 minuut om alle klontjes te verwijderen, en blend het daarna glad. Drink dit gewoon als tussendoortje. Geniet ervan!";
+
+/* Meal-45 */
+"name45" = "Geroosterde knoflookasperges met parmezaanse kaas";
+"ingredients45" = "1 pond verse asperges \n\n2 el olijfolie \n\n3 el geraspte parmezaanse kaas \n\n2 knoflookteentjes, gehakt \n\nzout en peper";
+"steps45" = "Snijd de onderkant van de asperges. Leg de asperges in een pan en met wat zout en peper, en sprenkel er olijfolie overheen. Leg de asperges op een rij op het rooster. Grill 5–10 minuten boven een matig vuur tot ze lichtjes beginnen te verkolen en zacht zijn geworden. Geniet ervan!";
+
+/* Meal-46 */
+"name46" = "Zelfgemaakte pesto met garnalen & courgettepasta";
+"ingredients46" = "\n•    12 g verse basilicum\n•    7.5 g rauwe spinazie\n•    7.5 g walnoten\n•    20 ml olijfolie\n•    1/2 el parmezaanse kaas\n•    1/4 citroensap\n•    1/4 teentje knoflook\n•    zout\n•    peper\n•    42 g gekookte garnalen\n•    1/4 courgette\n•    2 kersentomaten in plakjes";
+"steps46" = "Blend de pesto-ingrediënten in een foodprocessor tot er een glad mengsel ontstaat. Maak courgette-linguine met een spiralizer. Voeg de pestosaus bij de courgette-linguine en hussel dit iets door elkaar met slabestek. Voeg er een eiwitbron naar keuze aan toe, zoals gegrilde garnalen of kip, en doe er daarna de gehakte kersentomaten bij. Geniet ervan!";
+
+/* Meal-47 */
+"name47" = "Havermout–cobbler met gekruide bessen";
+"ingredients47" = "150 g havermout (gekookt)\n\n49 g blauwe bessen\n\n50 g brame\n\n3 el gehakte walnoten\n\n½ el kokosolie \n\n¼ tl kurkuma\n\n¼ tl piment \n\n1 pakje stevia (merk \"In The Raw\")\n\n1 snufje kaneel\n\n1 el granola";
+"steps47" = "Kook havermout volgens de aanwijzingen. Zet het even aan de kant. Zet een anti–aanbak steelpan boven een matig vuur met wat kokosolie. Laat de pan heet worden. Strooi er de bessen in. Breng de bessen op smaak met een snufje kaneel en roer. Haal de bessen van het vuur en laat de saus indikken. Mix zeer goed en doe er eventueel nog wat kaneel bij. Schenk de warme bessensiroop ter garnering over de havermout. Maak het af met verse granola om het knapperig te maken. Geniet ervan!";
+
+/* Meal-48 */
+"name48" = "Smoothie met perzik en banaan";
+"ingredients48" = "\n•    1 banaan\n•    2 perziken\n•    1/2 kop vanille amandelmelk\n•    1/2 kop ijsklontjes\n•    1/4 tl kaneel\n•    honing (eventueel) ";
+"steps48" = "Schil en snijd de verse perziken en banaan in plakjes. Doe alle ingrediënten in een blender. Doe er honing en blend tot een smoothie. Zoet indien gewenst. Geniet ervan!";
+
+/* Meal-49 */
+"name49" = "Geroerbakte kip & ananas";
+"ingredients49" = "110 g kipfilets\n\n40 g ananas  \n\n120 g volkorenrijst\n\n⅓ el olijfolie \n\n½ tl bruine mosterd \n\n1/6 el gerookte paprikapoeder \n\nzeezout\n\npeper";
+"steps49" = "Snijd de rauwe kipfilets in kleine stukjes. Kruid de kipstukjes met de paprikapoeder en mosterd. Verwarm olijfolie in een koekenpan en doe er de kipfilet bij. Bak dit ongeveer 4 minuten tot de kip 80% is gegaard, en voeg er vervolgens de gehakte paprika aan toe. Bak dit nogmaals 2 of 3 minuten voor je de blokjes ananas erbij doet. Geniet ervan!";
+
+/* Meal-50 */
+"name50" = "Kruidenthee ";
+"ingredients50" = "\n•    1 kop water\n•    1 theelepel geraspte verse gember\n•    1 theelepel limoenrasp\n•    1 theelepel limoensap\n•    3 blaadjes verse munt ";
+"steps50" = "Breng water aan de kook in een pan en roer er de rest van de ingrediënten door. Kook en blijf roeren tot de thee is getrokken. Geniet ervan!";
+
+/* Meal-51 */
+"name51" = "Champignon en tomaatomelet";
+"ingredients51" = "4 eiwitten \n\n1 ei \n\n½ kop magere cottage cheese \n\n½ kop plakjes champignons \n\n½ gehakte tomaat";
+"steps51" = "Roer de eieren door elkaar en klop ze iets op. Gebruik wat kookspray en bak de eieren in een anti–aanbakpan. Doe de cottage cheese, champignons en tomaten in het midden van de omelet. Kook tot eieren gaar zijn en vouw om. Geniet ervan!";
+
+/* Meal-52 */
+"name52" = "Spinaziesmoothie met peer en gember";
+"ingredients52" = "\n•    3 koppen spinazie\n•    2 el citroensap\n•    2 tl gember\n•    2 peren\n•    munt";
+"steps52" = "Doe alle ingrediënten in een blender en mix tot het een glad mengsel is geworden. Geniet ervan!";
+
+/* Meal-53 */
+"name53" = "Gegrilde Mexicaanse maïs";
+"ingredients53" = "4 maïskolven\n\n1.5 koppen zure room\n\n1 kop geraspte parmezaanse kaas \n\nsap van 1 limoen\n\nrode chilipoeder\n\n2 limoenen in partjes, ter garnering";
+"steps53" = "Gril de maïs onder een keer omdraaien op een hete grill, tot het iets begint aan te branden. Meng in een kleine kom de mayonaise, zure room en koriander. Giet dit over de maïs, met limoensap en parmezaanse kaas. Besprenkel met chilipoeder. Geniet ervan!";
+
+/* Meal-54 */
+"name54" = "Ananas Kiwi";
+"ingredients54" = "4 el water \n\n½ kop melk \n\n½ kop yoghurt\n\n1.5 el honing\n\n1 kiwi fruit, geschild\n\n1 kop ananasstukjes \n\n½ een mango\n\n2 ijsklontjes";
+"steps54" = "Blend alle ingrediënten op een lage snelheid tot het dik en glad is. Geniet ervan!";
+
+/* Meal-55 */
+"name55" = "Groene thee met citrus en honing";
+"ingredients55" = "\n•    1 citroenschijfje\n•    2 theelepels groene theepoeder\n•    3/4 kop heet water\n•    1/2 kop grapefruitsap\n•    3 el citroensap\n•    1 tl honing ";
+"steps55" = "Roer de groene theepoeder door heet water. Voeg er het grapefruitsap, citroensap en honing aan toe. Goed roeren en serveer met een schijfje citroen. Geniet ervan!";
+
+/* Meal-56 */
+"name56" = "Gegrilde garnalen & avocado-kebab";
+"ingredients56" = "\n•    450 g jumbo garnalen\n•    1.5 avocado’s\n•    1 rode paprika\n•    1 oranje paprika\n•    1 gele paprika\n•    1 rode ui\n•    1 tl knoflookpasta\n•    1/2 el extra virgine olijfolie\n•    1 limoen\n•    zout, peper ";
+"steps56" = "Stel de grill in op ongeveer 200°C. Hak de groenten en avocado in grote stukken voor de kebab. Pel de garnalen en breng ze op smaak. Kies vezelrijke groenten, omdat die vullender zijn en niet van een kebab-stokje afvallen boven een hoog vuur. Plaats de kebabs op de grill en gaar ze ongeveer 8-10 minuten, waarna ze omgekeerd worden om nog 8 tot 10 minuten te garen. Geniet ervan!";
+
+/* Meal-57 */
+"name57" = "Kruidige gegrilde kip & eiersandwich";
+"ingredients57" = "\n•    140 g kipfilet, rauw\n•    1 ei\n•    30 g arugula\n•    1/2 roma-tomaat\n•    1 el geitenkaas\n•    1 volkorenbroodje\n•    kokosolie spray\n•    1 tl gerookte paprika\n•    1/2 tl cayennepeper\n•    zout\n•    peper";
+"steps57" = "Breng de kipfilet op smaak met paprika, cayenne, komijn, zeezout en peper. Leg het broodje in een toaster en rooster het naar wens. Spray een steelpan in met kokosolie en plaats de pan op een matig-hoog vuur. Doe er de kipfilet bij en braad beide kanten tot de kipfilet volledig gaar is. Doe de aragula, tomaat, geitenkaas, kip en daarna het ei bij het broodjes. Geniet ervan!";
+
+/* Meal-58 */
+"name58" = "Gouden gloed elixir";
+"ingredients58" = "2 appels\n\n4 middelgrote sinaasappels, schil verwijderd \n\n1 citroen, geschild\n\n5–7 cm verse gember, geschild\n\n5 cm verse kurkuma, geschild \n\n2 koppen koud water \n\n1 handje ijs";
+"steps58" = "In een snelle blender, blend je alle ingrediënten glad (voeg water toe indien nodig). Een krachtige kwaliteitsblender zal hier een gladde sap van maken. Wil je de ingrediënten liever zo mengen dat er een nog zuiverder sap ontstaat, dan kan dat zonder de vezels en voedingsstoffen kwijt te raken, en het smaakt net zo goed. Geniet ervan!";
+
+/* Meal-59 */
+"name59" = "Rundvlees omeletrol";
+"ingredients59" = "\n•    1 ei\n•    3 eiwitten\n•    110 g magere rundergehakt\n•    30 g rauwe spinazie\n•    58 g paprika\n•    14 g mozzarella, geraspt\n•    knoflookpoeder\n•    gemalen komijn\n•    zout\n•    peper";
+"steps59" = "Bak magere rundvlees in een anti-aanbakpan en breng het op smaak. In een kom klop je eieren met een snufje zeezout en peper. Zet een andere anti-aanbakpan op een matig-hoog vuur. Giet het eimengsel in de pan en bak het als een pannenkoek. Doe het deksel op de pan en laat het ei volledig garen. Geniet ervan!";`
+
+/* Meal-60 */
+"name60" = "Papaya";
+"ingredients60" = "2 middelgrote papaya’s, ontpit & fijngehakt\n\n1 kop frambozen\n\n¼ kleine ananas \n\ngember \n\n1 kop melk \n\n 2 el Griekse yoghurt\n\n1,5 ijsklontjes\n\n bessen ter garnering";
+"steps60" = "Doe de ingrediënten in een blender. Blend tot het glad is. Geniet ervan!";
+
+/* Meal-61 */
+"name61" = "Lavendel muntthee ";
+"ingredients61" = "\n•    1/4 kop verse lavendelknoppen\n•    1 kop verse muntblaadjes\n•    4 koppen water ";
+"steps61" = "Doe de lavendelkoppen en muntbladeren in een sauspan, schenk er water overheen en breng aan de kook. Zet het vuur laag en laat de thee 15 tot 20 minuten trekken, tot het de gewenste sterkte heeft. Geniet ervan!";
+
+/* Meal-62 */
+"name62" = "Gezonde groentepasta met garnalen";
+"ingredients62" = "170 g garnalen\n\n1 courgette\n\n2 wortelen\n\n½ teentje knoflook, gehakt \n\n¼ rode ui, gehakt\n\n1 el sojasaus \n\n¼ sinaasappelsap \n\n½ el sesamolie";
+"steps62" = "Een julienneschiller is nodig voor het snijden van de courgette en wortelen in een groentepasta. Voeg er vervolgens 1 eetlepel sojasaus aan toe. Doe er daarna de appelazijn bij en pers het sap uit ¼ sinaasappel. Doe er als laatste ½ el sesamolie bij. Verhit een koekenpan op een matig vuur en vet in met kokosolie. Doe er de knoflook en rode ui bij. Voeg de garnalen toe aan de koekenpan en roer alles snel door elkaar met een lepel, om er zeker van te zijn dat alle garnalen de smaak van de knoflook en uien volledig hebben opgenomen. Geniet ervan!";
+

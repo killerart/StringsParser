@@ -10,7 +10,7 @@ namespace StringsParser
     {
         const string APP_PATH = "https://localhost:5001";
         static void Main(string[] args) {
-            var apps = Directory.GetDirectories("../../../localizations");
+            var apps = Directory.GetDirectories("localizations");
             foreach (var app in apps) {
                 var nameStart = app.LastIndexOf('/') + 1;
                 if (nameStart != -1) {
@@ -90,7 +90,7 @@ namespace StringsParser
                         valueEnd = line.IndexOf('"', valueEnd + 1);
                     }
                     string end = string.Empty;
-                    key = line[1..keyEnd];
+                    key = line[1..keyEnd].Trim();
                     if (valueEnd == -1) {
                         valueEnd = line.Length;
                         end = "n";

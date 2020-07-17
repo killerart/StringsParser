@@ -1,0 +1,381 @@
+
+//BUILD MUSCLE NUTRITION PLAN
+
+"Nutrition plan for building muscle" = "Nutrition plan for \n building muscle";
+"nutritionPlanDescription1" = "Muscle Strength and Size To stay \n consistent. Speed up metabolism";
+
+/* Day - 1 */
+"titleDay1" = "Everyone needs the three \n basics nutrients, carbohydrates,\n  proteins, and fats.";
+"descriptionDay1" = "Carbs supply the body with energy it needs to function. They are found almost exclusively in plan foods.";
+
+/* Day - 2 */
+"titleDay2" = "Protein is essential for growth \n and development. It provides \n the body with energy.";
+"descriptionDay2" = "Complete proteins are found in meat, fish, poultry, cheese, eggs, and milk.";
+
+/* Day - 3 */
+"titleDay3" = "Good fats are in fact, the most \n concentrated source of energy \n available to the body.";
+"descriptionDay3" = "By choosing the healthiest forms of each of these nutrients and eating them in the proper balance.";
+
+/* Day - 4 */
+"titleDay4" = "The saying \"You are what you eat\" is \n literally true.If you want your body \n to perform at a peak level.";
+"descriptionDay4" = "Choose red, orange, and dark-green vegetables like tomatoes, sweet potatoes, and broccoli, along with other vegetables for your meals.";
+
+/* Day - 5 */
+"titleDay5" = "Maximum amount of added sugars \n you should eat in a day: 37.5 \n grams or 9 teaspoons. ";
+"descriptionDay5" = "Fructose causes insulin resistance and raises insulin levels in the body, which increases the deposition of fat in the fat cells.";
+
+/* Day - 6 */
+"titleDay6" = "Water is an essential nutrient \n that is involved in every \n function of the body.";
+"descriptionDay6" = "Our organs, muscle, and bones all have water in them and need water to function properly.";
+
+/* Day - 7 */
+"titleDay7" = "Your body’s health reflects \n what you put into it.";
+"descriptionDay7" = "When combined with physical activity, a healthy diet can help people keep a healthy weight and reduce risk of chronic diseases. ";
+
+
+//WEIGHT LOSS NUTRITION PLAN
+
+"Nutrition plan for weight loss" = "Nutrition plan for \n weight loss";
+"nutritionPlanDescription2" = "Learn what to eat, discover \n fat burning foods";
+
+/* Day - 8 */
+"titleDay8" = "Enjoyment of a healthy diet can \n also be one of the great cultural \n pleasures of life.";
+"descriptionDay8" = "We need a wide variety of different foods to provide the right amounts of nutrients for good health.";
+
+/* Day - 9 */
+"titleDay9" = "Eliminate emotional eating by \n healing your hungry heart.";
+"descriptionDay9" = "Nutrition plays a key role in maintaining a healthy lifestyle.";
+
+/* Day - 10 */
+"titleDay10" = "Morning workout is better \n for weight loss";
+"descriptionDay10" = "In the morning, before you’ve eaten, your body is forced to utilize it's fat stores for energy.";
+
+/* Day - 11 */
+"titleDay11" = "Try Interval Training because it can \n end up burning more calories in less \n time than your regular workout.";
+"descriptionDay11" = "All you have to do is step up your intensity and train in short bursts instead of going steady for the entire workout.";
+
+/* Day - 12 */
+"titleDay12" = "Consistency in exercise is the \n key to real results and real health benefits.";
+"descriptionDay12" = "To speed up the metabolism and to help recuperate from your training, try to eat 5-6 small meals per day";
+
+/* Day - 13 */
+"titleDay13" = "Studies show that breakfast can \n be important in maintaining a \n health body weight.";
+"descriptionDay13" = "To keep your metabolism running strong, you must eat your fist meal within 1 hour of rising.";
+
+/* Day - 14 */
+"titleDay14" = "We recommend doing your cardio \n first thing in the morning, \n 30 minutes plus, before breakfast.";
+"descriptionDay14" = "Cardiovascular activity is necessary to keep the metabolism roaring and help you burn some extra calories.";
+
+
+//MEALS
+
+/* Meal-1 */
+"name1" = "Muslos de pollo asados con limón y mostaza Dijon y ensalada de rúcula";
+"ingredients1" = "4 muslos de pollo deshuesados sin piel \n\n½ cucharadita de sal \n\n¼ cucharadita de pimienta negra molida \n\n2 cucharadas y media de aceite de oliva \n\n2 cucharaditas de zumo de limón \n\n1 cucharadita de ajo picado \n\nspray para cocinar \n\n1 cucharada de vinagre balsámico \n\n1 cucharadita de miel \n\n1 taza de tomates uva cortados por la mitad \n\n1 paquete de rúcula bebé";
+"steps1" = "Sazonar el pollo con una pizca de sal y una pizca de pimienta. Añadir una cucharadita de aceite, el zumo de limón, la mostaza y el ajo sobre el pollo en un bol, y mezclar para recubrirlo. Dejar reposar 4 minutos. Calentar una sartén a fuego medio. Recubrir la sartén con el spray para cocinar. Añadir el pollo a la sartén, freír durante 5 minutos por cada lado o hasta que esté hecho. Cortar el pollo en tiras. ¡Buen provecho!";
+
+/* Meal-2 */
+"name2" = "Stir–fry de pollo";
+"ingredients2" = "e   4 pechugas de pollo, cortadas en dados \n\n1 taza de harina \n\naceite vegetal \n\nsal \n\npimienta negra recién molida  \n\n2 dientes de ajo picados \n\n½ lata de caldo de pollo \n\n3 cucharadas de miel \n\n4 cucharadas de salsa de soja \n\n2 cucharadas de zumo de lima \n\n2 latas de brócoli, solo floretes \n\n2 latas de arroz blanco cocinado, para servir";
+"steps2" = "En un bol grande, recubrir el pollo con un poco de maicena. Transferir el pollo a otro bol grande lleno de harina y cubrir de nuevo y luego dejar a un lado. Llenar una sartén grande y honda con ½ aceite vegetal sobre fuego medio–alto. Sazonar el pollo, cocinar, escurrir y reservar. Añadir 2 cucharadas de maicena y remover para incorporar a la salsa, añadir el brócoli y la zanahoria picada y cocinar hasta que estén tiernos, durante 5 minutos. ¡Buen provecho!";
+
+/* Meal-3 */
+"name3" = "Pollo con miel, naranja y sriracha";
+"ingredients3" = "0,1 kg / 0,25 lb pechuga de pollo  \n\n    1/8 cucharada de aceite de sésamo \n\n   12,5 g de salsa sriracha \n\n   sal \n\n   pimienta";
+"steps3" = "Calentar la parrilla o el horno a 190°C /375° F. En una bolsa de plástico con cierre hermético, añadir los ingredientes para la marinada y mezclar bien. Probar la marinada y sazonar al gusto. Añadir el pollo en la marinada y colocarlo en la nevera durante al menos 30 minutos. Después, sacar el pollo de la nevera y colocarlo en la parrilla. Asar entre 15 y 20 minutos hasta que esté hecha. ¡Buen provecho!";
+
+/* Meal-4 */
+"name4" = "Bolitas de salmón barnizadas con miel y mostaza";
+"ingredients4" = "• 56 g de salmón salvaje\n• 1/8 cucharada de pasta de ajo\n• 7 g de cebolla roja, picada\n• 1 cucharada de cilantro, picado\n• 1/8 de huevo\n• 1/8 de clara de huevo\n• medio pimiento\n• sal\n• pimienta\n• media cucharadita de jengibre\n• 1/8 cucharada de caldo de pollo";
+"steps4" = "Precalentar el horno a 200° C. Sazonar el salmón y hornear hasta que se pueda desmenuzar con un tenedor. Desmenuzar el salmón con un tenedor y colocar en un recipiente. Incorporar todos los ingredientes, excepto el barnizado. Hornear las bolitas de salmón durante unos 7 minutos. En un tazón, mezclar todos los ingredientes para el barnizado de mostaza. ¡Buen provecho!";
+
+/* Meal-5 */
+"name5" = "Muslos de pollo asados con limón y mostaza Dijon y ensalada de rúcula";
+"ingredients5" = "4 muslos de pollo deshuesados sin piel \n\n½ cucharadita de sal \n\n¼ cucharadita de pimienta negra molida \n\n2 cucharadas y media de aceite de oliva \n\n2 cucharaditas de zumo de limón \n\n1 cucharadita de ajo picado \n\nspray para cocinar \n\n1 cucharada de vinagre balsámico \n\n1 cucharadita de miel \n\n1 taza de tomates uva cortados por la mitad \n\n1 paquete de rúcula bebé";
+"steps5" = "Sazonar el pollo con una pizca de sal y una pizca de pimienta. Añadir una cucharadita de aceite, el zumo de limón, la mostaza y el ajo sobre el pollo en un bol, y mezclar para recubrirlo. Dejar reposar 4 minutos. Calentar una sartén a fuego medio. Recubrir la sartén con el spray para cocinar. Añadir el pollo a la sartén, freír durante 5 minutos por cada lado o hasta que esté hecho. Cortar el pollo en tiras. ¡Buen provecho!";
+
+/* Meal-6 */
+"name6" = "Fajitas con chili";
+"ingredients6" = "0,5 kg de pechuga de pollo sin piel \n\n½ pimiento verde, rojo y amarillo, cortado en tiras finas \n\n⅓ taza de agua \n\n2 cucharaditas de salsa de soja \n\n1 pizca de sal \n\n1 pizca de pimienta negra \n\n2 cucharadas de aceite de oliva \n\n1 cebolla grande, cortada en rodajas finas";
+"steps6" = "Combinar todos los ingredientes de la marinada con el pollo en un recipiente y dejar reposar en la nevera durante al menos 2 horas. Retirar la carne de la marinada y asar a fuego medio durante 4–5 minutos por cada lado. Cortar la carne en tiras finas. Para la salsa, combinar 2 cucharadas de agua, 1 cucharadita de salsa de soja, ¼ cucharadita de zumo de lima, una pizca de sal, una pizca de pimienta negra y 1 cucharada de aceite de oliva.  ¡Buen provecho!";
+
+/* Meal-7 */
+"name7" = "Rollitos de omleta con pavo y verduras";
+"ingredients7" = "1 huevo \n\n4 claras de huevo \n\n85 g de carne de pavo picada \n\n1 manojo de espinaca cruda \n\n58 g de pimiento \n\n8 g de queso de cabra";
+"steps7" = "Sazonar y cocinar el pavo en una sartén. Cocinar los huevos en una sartén separada. Añadir el queso de cabra, las espinacas, el pimiento y el pavo. Espere a que la mezcla se enfríe un poco antes y haga un rollo usando papel de aluminio. ¡Buen provecho!";
+
+/* Meal-8 */
+"name8" = "Stir-fry de pollo con cítricos";
+"ingredients8" = "• 140 g / 5 oz de pechuga de pollo, en trozos pequeños\n• 34 g / 0,25 oz de broccolini\n• 25 g / 0,875 oz de champiñones portobello baby\n• 1/4 pimiento rojo\n• 20 g / 0,7 onzas de cebolla roja\n• spray de aceite de coco\n• semillas de sésamo\n• 1/4 cucharadita de almidón de arrurruz\n• 1/8 cucharada de pasta de ajo\n• 1/4 cucharadita de pasta de jengibre";
+"steps8" = "En un bol, mezclar todos los ingredientes para la salsa stir-fry. Recubrir una sartén con aceite de coco y calentar a fuego medio. Añadir los trozos de pollo y cocinar hasta que estén casi hechos. Añadir las verduras y remover utilizando una espátula. ¡Buen provecho!";
+
+/* Meal-9 */
+"name9" = "Salmón con chili dulce";
+"ingredients9" = "1 filete de salmón \n\nsal \n\npimienta negra \n\n1 cucharadita de aceite \n\n4 cucharadas de salsa de chili dulce \n\n1 cucharadita y media de zumo de lima \n\n½ cucharadita de sésamo blanco";
+"steps9" = "Salpimentar el salmón y mezclar la salsa de chili, el zumo de lima, el sésamo y las hojas de cilantro. Calentar una sartén a fuego medio y añadir un chorrito de aceite. Freír el salmón por ambos lados, hasta que esté listo. ¡Buen provecho!";
+
+/* Meal-10 */
+"name10" = "Espárragos envueltos en pollo con salsa barbacoa";
+"ingredients10" = "2 pechugas de pollo finamente cortadas, 85g cada una \n\n12 espárragos \n\n2 cucharadas de salsa barbacoa \n\n1 pizca de pimentón ahumado \n\n1 pizca de ajo en polvo \n\n1 pizca de pimienta";
+"steps10" = "Calentar el horno a 400°F/ 200°C. Aplanar el pollo para hacer un filete. Sazonar los filetes de pollo con 1 cucharada de salsa barbacoa (para cada pieza) y especias. Envolver 6 espárragos con un filete de pollo. Colocar sobre la parrilla en el horno con la parte cerrada hacia abajo. Hornear durante unos 8 a 10 minutos. ¡Buen provecho!";
+
+/* Meal-11 */
+"name11" = "Frittata con quínoa, arroz integral, espárragos y claras de huevo";
+"ingredients11" = "6 claras de huevo \n\n2 espárragos \n\n120 g de mezcla de arroz integral y quinua  \n\n1 pimiento rojo pequeño \n\najo en polvo \n\npimienta \n\nsal \n\n½ pomelo rosa";
+"steps11" = "Calentar el horno a 200 °C. Rociar una sartén con aceite de oliva y añadir el arroz cocido y la quínoa. Incorporar las claras de huevo, los espárragos en tiras y las rodajas de pimiento. Hornear durante 15 minutos. ¡Buen provecho!";
+
+/* Meal-12 */
+"name12" = "Wrap mediterráneo con pollo y ensalada";
+"ingredients12" = "1 tortilla integral (25 cm)  \n\n140 g / 5 oz de pechuga de pollo cocinada \n\n3 hojas de lechuga romana \n\n4 cucharadas de albahaca fresca \n\n50 g/ 1,8 oz de cebolla roja \n\n50 g / 1,8 oz de pepino \n\n5 tomates cherry cortados por la mitad \n\n⅓ de limón \n\n3/4 cucharada de aceite de oliva \n\n⅓ cucharadita de ajo \n\nsal \n\npimienta";
+"steps12" = "En un bol, mezclar los ingredientes para la vinagreta de limón y sazonar con sal y pimienta. Aliñar la ensalada con la vinagreta y mezclar usando una espátula. Colocar la pechuga de pollo y la ensalada sobre la tortilla y envolver. ¡Buen provecho!";
+
+/* Meal-13 */
+"name13" = "Avena con nueces y plátano";
+"ingredients13" = "½ tazas de copos de avena  \n\n1 taza de agua \n\n1 plátano en rodajas \n\n1 cucharada de nueces picadas \n\n1 cucharadita de canela molida";
+"steps13" = "Mezclar la avena y 1 taza de agua en un bol pequeño para microondas. Cocinar en el microondas a una temperatura alta durante 3 minutos. Colocar las rodajas de plátano, nueces y canela encima. ¡Buen provecho!";
+
+/* Meal-14 */
+"name14" = "Pastas con salmón, ajo y limón";
+"ingredients14" = "1 filete de salmón \n\n1 paquete de pastas rigatoni  \n\n1 cucharadita de ajo picado \n\n2 cucharadas de aceite de oliva \n\n½ taza de hojas de albahaca picadas \n\nsal y pimienta \n\n2 cucharadas de zumo de limón \n\n2 cucharadas de alcaparras";
+"steps14" = "Cocinar la pasta siguiendo las instrucciones del paquete. Sazonar el salmón con sal y pimienta y hornear a 175 ° C durante 15–20 minutos, dependiendo del grosor del filete. Cuando las pastas estén listas, escurrir y mezclar con ajo, aceite de oliva, albahaca y sazonar. Añadir zumo y ralladura de limón y las alcaparras a las pastas y mezclar. ¡Buen provecho!";
+
+/* Meal-15 */
+"name15" = "Salmón con naranja";
+"ingredients15" = "• 150 g de salmón\n• 1/2 cucharada de mermelada de naranja\n• 1/2 cucharada de mostaza\n• zumo de 1/6 naranja";
+"steps15" = "Mezclar la mermelada, la mostaza, el azúcar y el zumo de naranja en un recipiente. Frotar el salmón con la mezcla y cocinar unos 3-4 minutos hasta que el salmón esté listo. ¡Buen provecho!";
+
+/* Meal-16 */
+"name16" = "Tortilla con champiñones y espinacas";
+"ingredients16" = "1 cucharada de aceite de oliva \n\n½ taza de chalota picada \n\n3 dientes de ajo picados \n\n1 paquete de champiñones blancos cortados (250g) \n\n1 rama de tomillo \n\n170 g de espinacas frescas  \n\nsal \n\npimienta negra \n\n8 huevos grandes";
+"steps16" = "Calentar una sartén con aceite a fuego medio–alto. Añadir la chalota, el ajo, los champiñones y el tomillo. Incorporar las espinacas y sofreír hasta que el líquido casi se evapore. Batir 4 huevos con una pizca de sal y pimienta en un bol pequeño. Volver a colocar la sartén sobre el fuego medio. Añadir la mezcla de huevo y cocinar durante 1 minuto. Levantar los bordes de la tortilla con una espátula, inclinando la sartén para que el huevo se distribuya de manera uniforme. ¡Buen provecho!";
+
+/* Meal-17 */
+"name17" = "Gambas con hierbas frescas";
+"ingredients17" = "0,5 kg de gambas grandes \n\n2 pimientos rojos picantes \n\n1 puerro, cortado en rodajas finas \n\n0,5–1 cucharada de alcaparras, enjuagadas y escurridas \n\n2 dientes de ajo, picados \n\n½ taza de perejil picado \n\n3 cucharadas de zumo de limón \n\n2 cucharadas de aceite de oliva";
+"steps17" = "Calentar una sartén a fuego medio y añadir aceite. Añadir las gambas, los pimientos, el puerro, las alcaparras, el ajo, la sal y la pimienta y cocinar durante 4 minutos hasta que la gamba quede rosada. Retirar del fuego. Añadir el zumo de limón, y raspar el fondo de la sartén con una cuchara. Servir las gambas con perejil fresco y albahaca. ¡Buen provecho!";
+
+/* Meal-18 */
+"name18" = "Pechugas de pollo asadas al limón";
+"ingredients18" = "3 cucharadas de zumo de limón \n\n2 cucharadas de aceite de oliva \n\n2 dientes de ajo picados \n\n7 mitades de pechuga de pollo, (6 oz) \n\n½ cucharadita de sal \n\n½ cucharadita de pimienta negra recién molida \n\nspray para cocinar";
+"steps18" = "Preparar la parrilla a fuego medio–alto. Mezclar los primeros 4 ingredientes en una bolsa de plástico grande y cerrarla. Marinar en la nevera 30 minutos. Retirar el pollo y la marinada de la bolsa. Sazonar el pollo uniformemente con sal y pimienta. Colocar el pollo en la parrilla cubierta con spray para cocinar y dejar dorar por cada lado o hasta que esté hecho. ¡Buen provecho!";
+
+/* Meal-19 */
+"name19" = "Avena con fresas, plátano y nueces";
+"ingredients19" = "150 g de copos de avena cocinados \n\n½ plátano machacado \n\n50 g de fresas \n\n2 cucharadas de leche de almendras \n\n1 cucharada de extracto de vainilla \n\n2 cucharadas de nueces picadas \n\nstevia de la marca \"In The Raw\" \n\nralladura de limón \n\n1 cucharada de yogur griego (2% de grasa) \n\n½ cucharada de nueces picadas \n\nsemillas de amapola";
+"steps19" = "Cocinar la avena siguiendo las instrucciones del paquete y reservar. Añadir todos los ingredientes en un bol excepto las fresas, y mezclar bien. Colocar las fresas recién cortadas encima de la avena. Adornar con yogur griego, nueces picadas y semillas de amapola. ¡Buen provecho!";
+
+/* Meal-20 */
+"name20" = "Pollo y brócoli con salsa teriyaki";
+"ingredients20" = "2 tazas de floretes de brócoli \n\n1 pechuga de pollo grande, cortada en dados \n\n1 cucharada de aceite \n\nsal y pimienta \n\n1 pimiento, cortado en rodajas \n\n2 tazas de arroz integral cocido \n\n¼ taza de salsa de soja ligera \n\n2 cucharadas de vinagre de vino de arroz \n\n1 diente de ajo picado \n\n½ cucharadita de aceite de sésamo \n\n¼ cucharadita de jengibre molido";
+"steps20" = "Calentar una sartén grande a fuego medio–alto. Añadir el pollo, sazonar con sal y pimienta y cocinar hasta que ya no tenga un color rosado. Mezclar todos los ingredientes para la salsa teriyaki en un bol pequeño. Añadir el brócoli y el pimiento en la sartén. Colocar el pollo y el brócoli en 4 tupperwares para guardarlos. Espolvorear con semillas de sésamo y cubrir. ¡Buen provecho!";
+
+/* Meal-21 */
+"name21" = "Pastas con pollo cremoso sin lácteos";
+"ingredients21" = "110 g / ¼ lb. de pechuga de pollo \n\n42 g / ½ oz pastas integrales \n\n¼ cucharada de aceite de oliva \n\n75 ml de leche de coco  \n\n45 ml/1,6 oz de caldo de pollo   \n\n160 g / 5/2 oz de espárragos \n\n½ limón \n\n¼ de diente de ajo \n\n⅓ cucharada de perejil fresco";
+"steps21" = "Hervir la pasta según las instrucciones del paquete y reservar. Sazonar el pollo con sal, pimienta y orégano. Añadir la mitad del aceite de oliva a una sartén y calentar a fuego medio. Una vez que la sartén esté caliente, cocinar la pechuga de pollo por ambos lados hasta que el pollo esté completamente hecho, y retirarlo de la sartén. Añadir el caldo de pollo y el zumo de limón. Dejar que hierva unos minutos y después añadir la pasta cocida. ¡Buen provecho!";
+
+/* Meal-22 */
+"name22" = "Hamburguesa de gambas";
+"ingredients22" = "• 450 g de gambas crudas\n• 1 cucharada de aceite de oliva\n• 1 pimiento rojo\n• cebolla verde\n• sal, pimienta\n• pan sin gluten\n• aguacate machacado\n• lechuga\n• tomate\n• brotes";
+"steps22" = "Calentar la plancha a unos 200° F /93° C. Añadir los ingredientes para la hamburguesa (excepto el pimiento y la cebolla verde) a una licuadora y picar las gambas. Colocar la mezcla en un bol y añadir el pimiento y la cebolla verde picada. Formar las hamburguesas y colocarlas en la plancha durante unos 15-20 minutos, unos 8-10 minutos por cada lado. ¡Buen provecho!";
+
+/* Meal-23 */
+"name23" = "Pollo con mostaza y salsa barbacoa";
+"ingredients23" = "110 g / ¼ lb. pechuga de pollo  \n\n    sal  \n\n    pimienta\n\nIngredientes para la salsa:\n\n31 g / 1 oz de mostaza \n\n10,5 g / 0,37 oz de miel \n\n15 ml de vinagre de sidra de manzana \n\n¼ cucharadita de pimentón ahumado \n\n¼ cucharadita de cúrcuma";
+"steps23" = "Calentar la parrilla o plancha a 200°C/400° F. En un bol, mezclar los ingredientes para la salsa. Sazonar las pechugas de pollo Hacer unas brochetas o pinchitos las piezas usando palitos de madera. Colocar las brochetas en la parrilla y cocinar durante entre 10 y 12 minutos. Después, usar un pincel de cocina para añadir la salsa sobre el pollo y cocinar durante otros 8 a 10 minutos hasta que el pollo esté completamente hecho. ¡Buen provecho!";
+
+/* Meal-24 */
+"name24" = "Bol de arroz integral para el desayuno";
+"ingredients24" = "• 4 huevos\n• 1 cucharada de yogur griego (2% de grasa)\n• sal\n• pimienta\n• salsa de tabasco\n• 1 cucharada de mantequilla\n• 250 g de arroz integral para microondas\n• 1/2 aguacate, cortado en dados\n• 1 tomate roma, cortado en dados\n• 1 cebolla cortada finamente";
+"steps24" = "En un bol, batir los huevos con yogur griego, sal, pimienta y salsa picante. Derretir la mantequilla en una sartén mediana, añadir los huevos y remover. Servir el arroz integral y con los huevos revueltos, el aguacate, la cebolla, el tomate y la salsa picante en un bol. ¡Buen provecho!";
+
+/* Meal-25 */
+"name25" = "Stir–fry de pollo y espárragos";
+"ingredients25" = "1 cucharada de salsa de soja \n\n1 cucharada de miel \n\n2 pechugas de pollo, cortadas en trozos \n\n1 cucharada de aceite de oliva \n\n1 manojo de espárragos cortados en trozos \n\n4 dientes de ajo, cortados en rodajas finas \n\n2 cucharaditas de aceite de sésamo tostado";
+"steps25" = "En una bolsa con cierre hermético, mezclar la salsa de soja y la miel. Añadir el pollo y removerlo para cubrir. Guardar en la nevera. Mientras tanto, calentar el aceite en una sartén grande a fuego medio. Cocinar los espárragos, retirar y reservar. Retirar el pollo de la bolsa y añadir a la sartén. A continuación, añadir el ajo, las cebolletas y la marinada a la sartén. Retirar del fuego y añadir el aceite de sésamo. ¡Buen provecho!";
+
+/* Meal-26 */
+"name26" = "Ternera frita con brócoli y pimientos";
+"ingredients26" = "0,5 kg de filete de ternera, recortado \n\n2 cucharadas de salsa de soja baja en sodio \n\n1 cucharadita de ajo picado \n\n½ cucharadita de pimienta negra molida \n\n¼ cucharadita de pimiento rojo machacado \n\n100g de brócoli \n\n2 cucharadas de aceite de canola \n\n1 pimiento rojo grande, cortado en trozos de 2 cm \n\n4 tazas de arroz de grano largo cocido";
+"steps26" = "Cortar el filete por la mitad. Cortar cada mitad en tiras. Combinar la carne, la salsa de soja, el ajo y la pimienta negra, mezclar bien y dejar marinar en la nevera durante 30 minutos. Mezclar media cucharada de agua, salsa de ostras y el pimiento rojo machacado en un tazón pequeño y reservar. Cortar los floretes del brócoli y cortar los tallos diagonalmente. Cocinar el brócoli 2 minutos. ¡Buen provecho!";
+
+/* Meal-27 */
+"name27" = "Gambas cajún con café";
+"ingredients27" = "450 g de gambas jumbo \n\n1 cucharada de aceite de oliva \n\nsal \n\npimienta \n\nperejil fresco \n\nlimón \n\n25 g de granos de café \n\n1 cucharada de pimentón ahumado \n\n1 cucharadita de comino molido \n\n1 cucharadita de cayena";
+"steps27" = "Añadir los ingredientes usados para sazonar en una licuadora y triturar hasta que los granos de café estén casi molidos. Combinar las gambas con 5 cucharadas de esta mezcla y el aceite de oliva. Mezclar con las manos y para asegurar que todas las gambas están recubiertas. Cocinar las gambas en una sartén caliente. ¡Buen provecho!";
+
+/* Meal-28 */
+"name28" = "Paquetes de pescado con espinacas y tomate";
+"ingredients28" = "• 1 manojo de espárragos\n• 2 tomates picados\n• 2 filetes de tilapia\n• aceite de oliva\n• 1/2 cucharadita de salsa de ajo y chili\n• sal\n• 1 limón, cortado en rodajas";
+"steps28" = "Precalentar el horno a 190 ° C. En un bol pequeño, mezclar el aceite de oliva, la salsa de chili y la sal. Colocar los espárragos en el centro del papel de aluminio, colocar el tomate en rodajas uniformemente encima y sazonar. Colocar un filete de pescado encima de los tomates en cada paquete, y aliñar con la mezcla de aceite de oliva. Colocar las rodajas de limón sobre el pescado. Hornear el pescado durante 25-30 minutos. ¡Buen provecho!";
+
+/* Meal-29 */
+"name29" = "Fideos de calabacín con gambas";
+"ingredients29" = "• 1 calabacín\n• 1/2 - 1 cucharadita de mantequilla\n• 150 g de gambas, peladas y sin venas\n• 1/4 taza de tomates cherry, cortados por la mitad\n• 1/4 cucharadita de copos de pimiento rojo\n• 2 cucharadas de caldo de pollo\n• sal y pimienta\n• 1 cucharada de parmesano rallado";
+"steps29" = "Usando un espiralizador, hacer fideos con el calabacín. Derretir la mantequilla en una sartén. Añadir las gambas, los tomates, el ajo, la cebolla y los copos de pimiento rojo. Sofreír durante 3-4 minutos hasta que las gambas tengan un color rosado. Añadir el caldo de pollo y el zumo de limón. Llevar a ebullición e incorporar los fideos de calabacín. ¡Buen provecho!";
+
+/* Meal-30 */
+"name30" = "Avena con linaza y arándanos";
+"ingredients30" = "3 tazas de agua \n\n2 tazas de copos de avena \n\n3 cucharadas de semillas de linaza molidas \n\n1/8 cucharadita de sal \n\n¼ taza de leche entera \n\n1 taza de arándanos \n\n1 cucharada de arándanos enlatados \n\n½ cucharadita de limón rallado \n\n1 cucharada de zumo de limón";
+"steps30" = "Llevar 3 tazas de agua a ebullición. Añadir la avena, la linaza y la sal. Cocinar a fuego medio hasta que esté listo, removiendo con frecuencia. Añadir la leche y la mantequilla. Mezclar los arándanos y los 4 ingredientes siguientes en un recipiente para microondas, cocine a fuego alto durante 1 minuto y medio, removiendo cada 30 segundos. Dividir la avena entre 4 cuencos y colocar los arándanos y pacanas encima. ¡Buen provecho!";
+
+/* Meal-31 */
+"name31" = "Brócoli con ternera picante";
+"ingredients31" = "140 g / 6 oz de carne magra  \n\n130 g / 4,4 oz de arroz integral \n\n91 g / 3,3 oz de brócoli \n\n31 g / 1 onza de pimiento rojo cortado \n\ncilantro fresco \n\n1 lima \n\npasta de chili rojo \n\najo";
+"steps31" = "Cortar el filete en trozos y sazonar con pasta de chili y ajo fresco. Calentar una sartén a fuego medio y rociar con aceite de coco. Cuando la sartén esté caliente, añadir la carne y freír por un lado. Dar la vuelta a la carne y añadir el brócoli y el pimiento. Remover hasta que todo esté listo. ¡Buen provecho!";
+
+/* Meal-32 */
+"name32" = "Gambas dulces y picantes con lima";
+"ingredients32" = "340 g / 3/4 lb de gambas jumbo \n\n1 cucharada de aceite de sésamo \n\n2 cucharadas de miel \n\n1 cucharada de pasta de ajo \n\n1 cucharada de salsa de chili rojo \n\n zumo de media lima";
+"steps32" = "Mezclar todos los ingredientes en una bolsa. Marinar durante al menos 20 minutos y después cocinar en una sartén. ¡Buen provecho!";
+
+/* Meal-33 */
+"name33" = "Pimiento rojo estilo sudoeste";
+"ingredients33" = "• 150 g de copos de avena \n• 1 pimiento\n• 1 cucharada de yogur griego (2% de grasa)\n• 28 g de queso mozzarella\n• 1 cucharadita de pimentón ahumado\n• 1/2 cucharadita de comino molido\n• 43 g de alubias negras, escurridas\n• 41 g de maíz al vapor\n• 1 cucharada de yogur griego (2% de grasa)\n• sal\n• pimienta";
+"steps33" = "Cocinar los copos de avena según las instrucciones del paquete y reservar. Precalentar el horno 200 °C. Colocar el pimiento cortado en una bandeja para hornear y hornear durante 15 minutos o hasta que el pimiento esté blando. Mezcle la avena, el yogur griego, las alubias, el maíz, el pimentón y el comino. Sazonar con sal marina y pimienta. ¡Buen provecho!";
+
+/* Meal-34 */
+"name34" = "Ensalada de alubias negras con aderezo de lima y comino";
+"ingredients34" = "1 taza de apio cortado finamente \n\n3/4 taza de cebolla roja picada \n\n2 latas de alubias negras, enjuagadas y escurridas \n\n¼ taza de zumo de limón \n\n1 cucharada de aceite de oliva";
+"steps34" = "Para la ensalada, mezclar el apio, la cebolla y las alubias negras en un bol grande. Mezclar todos los ingredientes del aderezo en un bol pequeño hasta que se hayan homogeneizado. Añadir sobre la mezcla de alubias y mezclar. ¡Buen provecho!";
+
+/* Meal-35 */
+"name35" = "Salmón a la plancha";
+"ingredients35" = "110 g de salmón salvaje \n\n1 cucharada de aceite de oliva \n\n1 cucharada de pimentón ahumado \n\nsal y pimienta";
+"steps35" = "Precalentar el horno a 175° C. Frotar los filetes con las especias y asar unos 15 minutos. ¡Buen provecho!";
+
+/* Meal-36 */
+"name36" = "Huevos revueltos y avena con plátano y canela";
+"ingredients36" = "2 huevos \n\n3 claras de huevo \n\n40 g de avena instantánea \n\n1 plátano \n\ncanela";
+"steps36" = "Batir 2 huevos y 3 claras de huevo en un recipiente. Sazonar con un poco de sal y pimienta. Añadir un poco de aceite en una sartén y calentar. Añadir los huevos. Remover suavemente con una espátula hasta que los huevos estén hechos y retirar del fuego. A continuación, preparar la avena instantánea según las instrucciones del paquete. Mezclar bien y añadir un poco de canela para más sabor. ¡Buen provecho!";
+
+/* Meal-37 */
+"name37" = "Pechuga de pollo picante y ligera Kung Pao";
+"ingredients37" = "150 g / 0,3 lb de pechuga de pollo \n\n1/6 diente de ajo \n\n33 g / 1,17 oz de guisantes  \n\n150 g / 5,17 oz de pimiento \n\n2/3 cucharadas de agua \n\n⅓ cucharada de salsa de tomate \n\n1/6 cucharada de jengibre fresco \n\n1/6 cucharada de salsa de chile rojo \n\n1/6 cucharada de vinagre de arroz \n\ncebolla verde picada";
+"steps37" = "En un bol, añadir los ingredientes para la salsa y mezclar. Calentar una sartén a fuego medio y recubrir con spray de aceite de oliva. Cuando la sartén esté caliente, añadir el ajo y dorar unos 2 minutos. A continuación, añadir las pechugas de pollo cortadas. Freír el pollo hasta que esté dorado, entre 6 y 8 minutos. Añadir los pimientos picados y freír durante unos 3 minutos. Añadir lentamente la salsa y remover. ¡Buen provecho!";
+
+/* Meal-38 */
+"name38" = "Brochetas picantes de salmón con naranja";
+"ingredients38" = "150 g de salmón salvaje \n\n27 g de mermelada de naranja \n\n1/6 cucharada de pimentón ahumado \n\n1/6 cucharada de azúcar de coco \n\n⅓ cucharadita de salsa Tabasco \n\n⅓ de zumo de mandarina";
+"steps38" = "Corte el salmón en trozos para las brochetas. Marinar el salmón durante unos 45 minutos. Hornear durante 8–10 minutos a 200 ° C. ¡Buen provecho!";
+
+/* Meal-39 */
+"name39" = "Hamburguesa de salmón con aguacate";
+"ingredients39" = "1 filete de salmón \n\n1 taza de pan rallado \n\n1 huevo \n\n1 cucharada de zumo de limón \n\nsal y pimienta \n\naceite de oliva \n\n1 aguacate grande, picado \n\n⅓ taza de cebolla roja picada \n\nzumo de 1 limón";
+"steps39" = "Picar el filete de salmón en trozos pequeños y transferirlo en un bol. Incorporar el resto de los ingredientes. Dejar reposar la mezcla durante 5–10 minutos. Calentar un poco de aceite en una sartén grande a fuego medio. Formar hamburguesas con la mezcla de salmón. Freír las hamburguesas hasta dorar por ambos lados alrededor de 4 minutos. ¡Buen provecho!";
+
+/* Meal-40 */
+"name40" = "Avena saludable con fruta";
+"ingredients40" = "½ taza de avena \n\n1 taza de agua \n\n1 cucharada de miel \n\n1 cucharada de extracto de vainilla \n\n½ cucharadita de canela molida \n\n¼ taza de arándanos \n\n4 fresas cortadas \n\n½ plátano, cortado en rodajas";
+"steps40" = "Mezclar el agua y la avena en un recipiente para microondas. Cocinar en el microondas hasta que la avena haya absorbido el agua. Añadir la miel, el extracto de vainilla y la canela molida. Colocar los arándanos y las rodajas de plátano y fresas encima. ¡Buen provecho!";
+
+/* Meal-41 */
+"name41" = "Batido con kiwi, naranjas y espinaca";
+"ingredients41" = "un puñado de espinacas \n\n2 kiwis \n\nun mango \n\nzumo de una naranja";
+"steps41" = "Lavar las espinacas, y cortar los tallos. Lavar el mango y los kiwis, y cortarlos en trozos pequeños. Licuar todos los ingredientes en una batidora hasta que queden homogéneos. ¡Buen provecho!";
+
+/* Meal-42 */
+"name42" = "Guacamole con salmón ahumado";
+"ingredients42" = "1 aguacate \n\n57 g de salmón ahumado \n\n17 g de cebolla roja picada \n\n2 cucharadas de cilantro picado \n\n2 cucharadas de yogur griego \n\npimienta";
+"steps42" = "Machacar el aguacate en un bol y mezclar todos los ingredientes. Sazonar con mostaza, comino, zumo de limón, yogur griego y pimienta al gusto. ¡Buen provecho!";
+
+/* Meal-43 */
+"name43" = "Huevo frito y tostada con aguacate";
+"ingredients43" = "2 huevos \n\n2 rebanadas de pan tostado \n\n1 aguacate pequeño \n\n1 cucharadita de zumo de lima \n\nsal \n\npimienta negra \n\nperejil";
+"steps43" = "Preparar el pan tostado y los huevos fritos según sus preferencias. Pelar y machacar el aguacate con el zumo de lima, la sal y la pimienta. Untar el aguacate uniformemente en cada tostada y servir con un huevo frito encima. ¡Buen provecho!";
+
+/* Meal-44 */
+"name44" = "Batido rojo para antes del entrenamiendo";
+"ingredients44" = "1 manzana roja \n\n½ remolacha \n\n1 palito de apio  \n\n3 fresas \n\n¼ de plátano \n\nté verde (opcional) \n\n41g de frambuesas \n\n1 cucharadita de jengibre (opcional)";
+"steps44" = "Añadir todos los ingredientes en una licuadora. Mezclar durante aproximadamente 1 minuto para que la mezcla quede suave y sin grumos. Beber como aperitivo. ¡Buen provecho!";
+
+/* Meal-45 */
+"name45" = "Espárragos asados con ajo y parmesano";
+"ingredients45" = "0,5 kg de espárragos frescos \n\n2 cucharadas de aceite de oliva \n\n3 cucharadas de parmesano rallado \n\n2 dientes de ajo picados \n\nsal y pimienta";
+"steps45" = "Recortar la base de los espárragos. Colocar los espárragos en la sartén, sazonar con sal y pimienta y añadir el aceite de oliva. Coloque los espárragos en la parrilla formando una fila. Asar durante 5–10 minutos a fuego medio hasta que tengan marcas de parrilla y estén tiernos. ¡Buen provecho!";
+
+/* Meal-46 */
+"name46" = "Pastas de calabacín con gambas y pesto casero";
+"ingredients46" = "• 12 g / 3/8 oz de albahaca fresca\n• 7,5 g / 1/4 oz de espinaca cruda\n• 7,5 g / 0,3 onzas de nueces\n• 20 ml de aceite de oliva\n• 1/2 cucharada de parmesano\n• zumo de 1/4 limón\n• 1/4 de diente de ajo\n• sal\n• pimienta\n• 42 g de gambas cocidas\n• 1/4 de calabacín\n• 2 tomates cherry cortados";
+"steps46" = "Mezcla los ingredientes para el pesto en una licuadora hasta obtener una pasta suave. Usando un espiralizador, hacer fideos linguini con el calabacín. Añadir la salsa de pesto al linguini de calabacín y mezclar ligeramente usando unas pinzas. Añadir la proteína que prefiera, como gambas o pollo a la plancha, y los tomates cherry picados. ¡Buen provecho!";
+
+/* Meal-47 */
+"name47" = "Avena con arándanos y especias";
+"ingredients47" = "150 g de copos de avena  \n\n49 g de arándanos \n\n50 g de moras \n\n3 cucharadas de nueces picadas \n\n½ cucharada de aceite de coco \n\n¼ cucharadita de cúrcuma \n\n¼ cucharadita de pimienta de Jamaica \n\n1 paquete de stevia de la marca \"In The Raw\"  \n\n1 pizca de canela \n\n1 cucharada de granola";
+"steps47" = "Cocinar la avena siguiendo las instrucciones del paquete y reservar. Calentar una sartén antiadherente a fuego medio, y añadir el aceite de coco. Añadir la fruta con una pizca de canela y remover. Retirar del fuego y dejar que la salsa espese. Mezclar muy bien y añadir un poco más de canela, si lo desea. Verter las frutas cocinadas calientes encima de la avena. Adornar con granola fresca para una textura crujiente. ¡Buen provecho!";
+
+/* Meal-48 */
+"name48" = "Plátano y melocotón";
+"ingredients48" = "• 1 plátano\n• 2 melocotones\n• 1/2 taza de leche de almendras sabor vainilla\n• 1/2 taza de cubos de hielo\n• 1/4 cucharadita de canela\n• miel (opcional)";
+"steps48" = "Pelar y cortar los melocotones y el plátano. Colocar todos los ingredientes en una licuadora. Añadir la miel para hacer el batido más dulce si lo desea. ¡Buen provecho!";
+
+/* Meal-49 */
+"name49" = "Stir–fry de pollo y piña";
+"ingredients49" = "110 g de pechuga de pollo, 4 oz \n\n40 g de piña, 1,4 oz \n\n120 g de arroz integral, 4,4 oz \n\n⅓ cucharada de aceite de oliva \n\n½ cucharadita de mostaza  \n\n1/6 cucharada de pimentón ahumado \n\nsal marina \n\npimienta";
+"steps49" = "Cortar las pechugas de pollo crudas en trozos pequeños. Sazonar el pollo con el pimentón ahumado y la mostaza. Calentar el aceite de oliva en una sartén y luego añadir los trozos de pechuga de pollo. Cocinar durante unos 4 minutos hasta que el pollo esté casi listo, y añadir el pimiento picado. Cocinar otros 2 o 3 minutos antes de agregar la piña cortada en dados. ¡Buen provecho!";
+
+/* Meal-50 */
+"name50" = "Té de hierbas";
+"ingredients50" = "• 1 taza de agua\n• 1 cucharadita de jengibre fresco rallado\n• 1 cucharadita de ralladura de limón\n• 1 cucharadita de zumo de lima\n• 3 hojas de menta fresca";
+"steps50" = "Llevar el agua a ebullición en una olla y añadir los ingredientes. Remover hasta que el té esté listo. ¡Buen provecho!";
+
+/* Meal-51 */
+"name51" = "Tortilla de champiñones y tomate";
+"ingredients51" = "4 claras de huevo \n\n1 huevo \n\n½ taza de requesón bajo en grasa \n\n½ taza de champiñones en rodajas \n\n½ tomate picado";
+"steps51" = "Batir los huevos ligeramente y cocinarlos en una sartén antiadherente con un poco de aceite. Añadir el requesón, los champiñones y el tomate en el centro de la tortilla. Cocinar hasta que los huevos estén hechos y enrollar la tortilla. ¡Buen provecho!";
+
+/* Meal-52 */
+"name52" = "Batido de espinacas con pera y jengibre";
+"ingredients52" = "• 3 tazas de espinaca\n• 2 cucharadas de zumo de limón\n• 2 cucharaditas de jengibre\n• 2 peras\n• menta";
+"steps52" = "Mezclar todos los ingredientes en una licuadora y batir hasta obtener una consistencia homogénea. ¡Buen provecho!";
+
+/* Meal-53 */
+"name53" = "Maíz mexicano a la parrilla";
+"ingredients53" = "4 mazorcas de maíz \n\n1 taza y media de crema agria \n\n1 taza de parmesano rallado \n\nel zumo de un limón \n\nchile rojo en polvo \n\n2 limas cortadas en cuñas, para decorar";
+"steps53" = "Colocar las mazorcas de maíz en la parrilla y darles la vuelta hasta que estén un poco carbonizadas. En un bol pequeño mezclar la mayonesa, la crema agria y el cilantro. Exprimir el zumo de limón sobre las mazorcas y espolvorear con parmesano y chile en polvo. ¡Buen provecho!";
+
+/* Meal-54 */
+"name54" = "Piña y kiwi";
+"ingredients54" = "4 cucharadas de agua \n\n½ taza de leche \n\n½ taza de yogurt \n\n1 cucharada y media de miel \n\n1 kiwi, pelado \n\n1 taza de trozos de piña \n\n½ mango \n\n2 cubitos de hielo";
+"steps54" = "Licuar todos los ingredientes a baja velocidad hasta que la mezcla quede homogénea. ¡Buen provecho!";
+
+/* Meal-55 */
+"name55" = "Té verde cítrico con miel";
+"ingredients55" = "• 1 rodaja de limón\n• 2 cucharaditas de té verde en polvo\n• 3/4 taza de agua caliente\n• 1/2 taza de zumo de pomelo\n• 3 cucharadas de zumo de limón\n• 1 cucharadita de miel";
+"steps55" = "Añadir el polvo de té verde en el agua caliente. Añadir el zumo de pomelo, el zumo de limón y la miel. Mezclar bien y servir con una rodaja de limón. ¡Buen provecho!";
+
+/* Meal-56 */
+"name56" = "Brochetas con gambas y aguacate";
+"ingredients56" = "• 450 g de gambas jumbo\n• 1 aguacate y medio\n• 1 pimiento rojo\n• 1 pimiento naranja\n• 1 pimiento amarillo\n• 1 cebolla roja\n• 1 cucharadita de pasta de ajo\n• 1/2 cucharada de aceite de oliva virgen extra\n• 1 lima\n• sal, pimienta";
+"steps56" = "Calentar la parrilla a unos 400° F/200° C. Cortar las verduras y el aguacate en trozos grandes piezas para las brochetas. Pelar las gambas y salpimentar. Elegir verduras fibrosas, que sacian y se mantienen mejor en la brocheta. Colocar las brochetas en la parrilla y dejar unos 8-10 minutos. Después, dar la vuelta y dejar otros 8-10 minutos. ¡Buen provecho!";
+
+/* Meal-57 */
+"name57" = "Pollo asado picante y sándwich de huevo";
+"ingredients57" = "• 140 g de pechuga de pollo \n• 1 huevo\n• 30 g de rúcula\n• 1/2 tomate roma\n• 1 cucharada de queso de cabra\n• 1 bollo integral\n• spray de aceite de coco\n• 1 cucharadita de pimentón ahumado\n• 1/2 cucharadita de cayena\n• sal\n• pimienta";
+"steps57" = "Sazonar la pechuga de pollo con pimentón, cayena, comino, sal marina y pimienta y tostar el pan integral. Rociar una sartén con aceite de coco y calentar a fuego medio-alto. Añadir la pechuga de pollo a la sartén y freír por ambos lados hasta que la pechuga de pollo esté hecha. Añadir la rúcula, el tomate, el queso de cabra, el pollo y el huevo. ¡Buen provecho!";
+
+/* Meal-58 */
+"name58" = "Elixir dorado";
+"ingredients58" = "2 manzanas \n\n4 naranjas medianas, peladas \n\n1 limón, pelado \n\nun trozo de jengibre fresco de 5 cm, pelado \n\nun trozo de cúrcuma fresca de 5 cm, pelado \n\n2 tazas de agua fría \n\n1 puñado de hielo";
+"steps58" = "En una licuadora de alta velocidad, mezclar todos los ingredientes hasta que queden homogéneos, añadiendo más agua si es necesario. Una licuadora de alta potencia hará que el batido quede muy líquido. Si lo prefiere también puede exprimir los ingredientes, pero al licuarlos no eliminará la fibra y los nutrientes. ¡Buen provecho!";
+
+/* Meal-59 */
+"name59" = "Rollitos de tortilla de bisonte";
+"ingredients59" = "• 1 huevo\n• 3 claras de huevo\n• 110 g de carne de bisonte magra\n• 30 g de espinaca \n• 58 g de pimiento\n• 14 g de mozzarella rallada\n• ajo en polvo\n• comino molido\n• sal\n• pimienta";
+"steps59" = "Sazonar y cocine la carne de bisonte en una sartén antiadherente. En un bol, batir los huevos con una pizca de sal marina y pimienta. Calentar una sartén antiadherente separada a fuego medio-alto. Verter la mezcla de huevo y cocinar como una tortilla francesa. Tapar la sartén para que el huevo se cocine completamente. ¡Buen provecho!";
+
+/* Meal-60 */
+"name60" = "Papaya";
+"ingredients60" = "2 papayas medianas, deshuesadas y picadas \n\n1 taza de frambuesas \n\n¼ de piña pequeña \n\njengibre \n\n1 taza de leche \n\n2 cucharadas de yogur griego \n\n1 cubo y medio de hielo \n\nbayas para decorar";
+"steps60" = "Mezcle los ingredientes en una licuadora hasta que el batido quede homogéneo. ¡Buen provecho!";
+
+/* Meal-61 */
+"name61" = "Té de menta y lavanda";
+"ingredients61" = "• 1/4 taza de pétalos de lavanda frescos\n• 1 taza de hojas de menta fresca\n• 4 tazas de agua";
+"steps61" = "Colocar los pétalos de lavanda y las hojas de menta en una cacerola, añadir el agua y llevar a ebullición. Dejar hervir a fuego lento hasta conseguir la concentración deseada, entre 15 y 20 minutos. ¡Buen provecho!";
+
+/* Meal-62 */
+"name62" = "Pastas con gambas y verduras";
+"ingredients62" = "170 g de gambas \n\n1 calabacín \n\n2 zanahorias \n\n •½ diente de ajo picado \n\n¼ de cebolla roja picada \n\n1 cucharada de salsa de soja baja en sodio \n\nzumo de ¼ de naranja \n\n½ cucharada de aceite de sésamo";
+"steps62" = "Usando un pelador julienne, cortar el calabacín y las zanahorias para hacer las pastas de verduras. Añadir 1 cucharada de salsa de soja, el vinagre de sidra y exprimir el zumo de ¼ de naranja. Por último, añadir ½ cucharada de aceite de sésamo. Calentar una sartén a fuego medio y rociar con aceite de coco. Añadir el ajo y la cebolla roja. Incorporar las gambas a la sartén y remover rápidamente con una cuchara para asegurar que todas las gambas absorben el sabor del ajo y las cebollas. ¡Buen provecho!";
+

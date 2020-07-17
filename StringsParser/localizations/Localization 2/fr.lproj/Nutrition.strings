@@ -1,0 +1,381 @@
+
+//BUILD MUSCLE NUTRITION PLAN
+
+"Nutrition plan for building muscle" = "Nutrition plan for \n building muscle";
+"nutritionPlanDescription1" = "Muscle Strength and Size To stay \n consistent. Speed up metabolism";
+
+/* Day - 1 */
+"titleDay1" = "Everyone needs the three \n basics nutrients, carbohydrates,\n  proteins, and fats.";
+"descriptionDay1" = "Carbs supply the body with energy it needs to function. They are found almost exclusively in plan foods.";
+
+/* Day - 2 */
+"titleDay2" = "Protein is essential for growth \n and development. It provides \n the body with energy.";
+"descriptionDay2" = "Complete proteins are found in meat, fish, poultry, cheese, eggs, and milk.";
+
+/* Day - 3 */
+"titleDay3" = "Good fats are in fact, the most \n concentrated source of energy \n available to the body.";
+"descriptionDay3" = "By choosing the healthiest forms of each of these nutrients and eating them in the proper balance.";
+
+/* Day - 4 */
+"titleDay4" = "The saying \"You are what you eat\" is \n literally true.If you want your body \n to perform at a peak level.";
+"descriptionDay4" = "Choose red, orange, and dark-green vegetables like tomatoes, sweet potatoes, and broccoli, along with other vegetables for your meals.";
+
+/* Day - 5 */
+"titleDay5" = "Maximum amount of added sugars \n you should eat in a day: 37.5 \n grams or 9 teaspoons. ";
+"descriptionDay5" = "Fructose causes insulin resistance and raises insulin levels in the body, which increases the deposition of fat in the fat cells.";
+
+/* Day - 6 */
+"titleDay6" = "Water is an essential nutrient \n that is involved in every \n function of the body.";
+"descriptionDay6" = "Our organs, muscle, and bones all have water in them and need water to function properly.";
+
+/* Day - 7 */
+"titleDay7" = "Your body’s health reflects \n what you put into it.";
+"descriptionDay7" = "When combined with physical activity, a healthy diet can help people keep a healthy weight and reduce risk of chronic diseases. ";
+
+
+//WEIGHT LOSS NUTRITION PLAN
+
+"Nutrition plan for weight loss" = "Nutrition plan for \n weight loss";
+"nutritionPlanDescription2" = "Learn what to eat, discover \n fat burning foods";
+
+/* Day - 8 */
+"titleDay8" = "Enjoyment of a healthy diet can \n also be one of the great cultural \n pleasures of life.";
+"descriptionDay8" = "We need a wide variety of different foods to provide the right amounts of nutrients for good health.";
+
+/* Day - 9 */
+"titleDay9" = "Eliminate emotional eating by \n healing your hungry heart.";
+"descriptionDay9" = "Nutrition plays a key role in maintaining a healthy lifestyle.";
+
+/* Day - 10 */
+"titleDay10" = "Morning workout is better \n for weight loss";
+"descriptionDay10" = "In the morning, before you’ve eaten, your body is forced to utilize it's fat stores for energy.";
+
+/* Day - 11 */
+"titleDay11" = "Try Interval Training because it can \n end up burning more calories in less \n time than your regular workout.";
+"descriptionDay11" = "All you have to do is step up your intensity and train in short bursts instead of going steady for the entire workout.";
+
+/* Day - 12 */
+"titleDay12" = "Consistency in exercise is the \n key to real results and real health benefits.";
+"descriptionDay12" = "To speed up the metabolism and to help recuperate from your training, try to eat 5-6 small meals per day";
+
+/* Day - 13 */
+"titleDay13" = "Studies show that breakfast can \n be important in maintaining a \n health body weight.";
+"descriptionDay13" = "To keep your metabolism running strong, you must eat your fist meal within 1 hour of rising.";
+
+/* Day - 14 */
+"titleDay14" = "We recommend doing your cardio \n first thing in the morning, \n 30 minutes plus, before breakfast.";
+"descriptionDay14" = "Cardiovascular activity is necessary to keep the metabolism roaring and help you burn some extra calories.";
+
+
+//MEALS
+
+/* Meal-1 */
+"name1" = "Cuisses de poulet grillées au citron façon Dijon avec salade Arugula";
+"ingredients1" = "4 cuisses de poulet désossées et sans peau \n\n½ cuillère à café de sel \n\n¼ cuillère à café de poivre noir moulu \n\n2,5 cuillères à soupe d'huile d'olive \n\n2 cuillères à café de jus de citron \n\n1 cuillère à café d'ail émincé \n\nun peu d'huile pour la cuisson \n\n1 cuillère à soupe de vinaigre balsamique \n\n1 cuillère à café de miel \n\n1 tasse de tomates raisin, coupées en deux \n\n1 boîte (150g) de jeunes pousses d'Arugula";
+"steps1" = "Saupoudrer le poulet avec ¼ cuillère à café de sel et 1/8 cuillère à café de poivre. Mélanger le poulet avec 1–1,5 cuillère à café d’huile, de jus de citron, de moutarde et d’ail dans un bol. Bien mélanger pour recouvrir le poulet. Laisser reposer 4 minutes. Faire chauffer une plaque de grill à feu moyen. Badigeonner la plaque avec un peu d’huile. Ajouter le poulet sur la plaque et le faire cuire pendant 5 minutes sur chaque face ou jusqu’à ce qu’il soit à point. Couper le poulet en tranches fines. Faites–vous plaisir !";
+
+/* Meal-2 */
+"name2" = "Poulet frit façon Tso";
+"ingredients2" = "4 escalopes de poulet, coupées en cube \n\n1 tasse de farine \n\nhuile végétale \n\nsel \n\npoivre noir fraîchement moulu \n\n2 gousses d'ail émincées \n\n½ boîte de bouillon de volaille \n\n3 cuillères à soupe de miel \n\n4 cuillères à soupe de sauce de soja \n\n2 cuillères à soupe de jus de citron vert \n\n2 boîtes de fleurons de brocoli \n\n2 boîtes de riz blanc cuit, pour la garniture";
+"steps2" = "Dans un grand bol, saupoudrer légèrement le poulet avec de la fécule de maïs. Transférer les morceaux dans un grand bol contenant la farine afin de les recouvrir sur chaque face. Remplir à moitié une grande sauteuse avec de l’huile végétale et la chauffer à feu moyen–fort. Frire le poulet, puis l’égoutter et le réserver. Ajouter 2 cuillères à soupe de fécule de maïs et agiter pour l’incorporer. Dans la sauce, ajouter les brocolis et les carottes. Faire cuire pour une consistance tendre pendant 5 minutes. Faites–vous plaisir !";
+
+/* Meal-3 */
+"name3" = "Poulet Sriracha au miel et à l'orange";
+"ingredients3" = "0,1 kg d'escalopes de poulet \n\n1/8 cuillère à soupe d'huile de sésame \n\n12,5g de sauce Sriracha \n\nsel \n\npoivre";
+"steps3" = "Préchauffer votre grill ou votre four à 190°C. Dans un sachet refermable, ajouter les ingrédients pour la marinade et bien mélanger le tout. Goûter la marinade et l’assaisonner à votre goût. Ajouter le poulet à la marinade et placer le tout au réfrigérateur pendant au moins 30 minutes. Ensuite, sortir le poulet du réfrigérateur et le placer sur le grill. Le faire cuire pendant environ 15 à 20 minutes jusqu’à ce que le jus du poulet devienne clair. Faites–vous plaisir !";
+
+/* Meal-4 */
+"name4" = "Boules de saumon glacé avec moutarde et miel";
+"ingredients4" = "•    56g de saumon sauvage\n•    1/8 cuillère à soupe de purée d'ail\n•    7g d'oignon rouge, haché\n•    1 cuillère à soupe de coriandre, hachée\n•    1/8 œuf\n•    1/8 de blanc d'œuf\n•    1/6 de poivron\n•    sel\n•    poivre\n•    1/5 cuillère à café de gingembre\n•    1/8 cuillère à soupe de bouillon de poulet";
+"steps4" = "Préchauffer le four à 200°C. Assaisonner le saumon et le faire cuire au four jusqu’à ce que le saumon soit croustillant au contact avec la fourchette. Hacher le saumon à la fourchette dans un bol. Mélanger tous les ingrédients, sauf pour le glaçage. Faire cuire le saumon au four pendant environ 7 minutes. Dans un autre bol, mélanger tous les ingrédients pour le glaçage à la moutarde. Faites-vous plaisir !";
+
+/* Meal-5 */
+"name5" = "Cuisses de poulet grillées au citron façon Dijon avec salade Arugula";
+"ingredients5" = "4 cuisses de poulet désossées et sans peau \n\n½ cuillère à café de sel \n\n¼ cuillère à café de poivre noir moulu \n\n2,5 cuillères à soupe d'huile d'olive \n\n2 cuillères à café de jus de citron \n\n1 cuillère à café d'ail émincé \n\nun peu d'huile pour la cuisson \n\n1 cuillère à soupe de vinaigre balsamique \n\n1 cuillère à café de miel \n\n1 tasse de tomates raisin, coupées en deux \n\n1 boîte (150g) de jeunes pousses d'Arugula";
+"steps5" = "Saupoudrer le poulet avec ¼ cuillère à café de sel et 1/8 cuillère à café de poivre. Mélanger le poulet avec 1–1,5 cuillère à café d’huile, de jus de citron, de moutarde et d’ail dans un bol. Bien mélanger pour recouvrir le poulet. Laisser reposer 4 minutes. Faire chauffer une plaque de grill à feu moyen. Badigeonner la plaque avec un peu d’huile. Ajouter le poulet sur la plaque et le faire cuire pendant 5 minutes sur chaque face ou jusqu’à ce qu’il soit à point. Couper le poulet en tranches fines. Faites–vous plaisir !";
+
+/* Meal-6 */
+"name6" = "Fajitas au chili";
+"ingredients6" = "1 livre d'escalopes de poulet sans peau \n\n½ poivron rouge, vert et jaune, finement émincés \n\n⅓ tasse d'eau \n\n2 cuillères à soupe de sauce soja \n\n1 pincée de sel \n\n1 pincée de poivre noir \n\n2 cuillères à soupe d'huile d'olive \n\n1 gros oignon, finement émincé";
+"steps6" = "Mélanger tous les ingrédients de la marinade avec le poulet dans un récipient et réfrigérer pendant au moins 2 heures. Retirer la viande de la marinade et la faire griller à feu moyen pendant 4–5 minutes sur chaque face. Couper la viande en fins bâtonnets. Pour la sauce, mélanger 2 cuillères à soupe d’eau, 1 cuillère à café de sauce soja, ¼ de cuillère à café de jus de citron vert, la pincée de sel et de poivre noir et 1 cuillère à soupe d’huile d’olive. Faites–vous plaisir !";
+
+/* Meal-7 */
+"name7" = "Rouleaux dinde, omelette et verdure";
+"ingredients7" = "1  œuf \n\n4 blancs d'œuf \n\n85g de viande maigre de dinde hachée, cuite \n\n1 poignée d'épinards (crus) \n\n58g de poivron \n\n8g de fromage de chèvre";
+"steps7" = "Assaisonner et faire cuire la viande de dinde hachée dans une poêle. Choisir une portion quotidienne d’œufs et les faire cuire dans une autre poêle. Ajouter le fromage de chèvre, les épinards, les poivrons et la dinde. Laisser refroidir un moment et enrouler dans une feuille d’aluminium. Faites–vous plaisir !";
+
+/* Meal-8 */
+"name8" = "Friture de poulet au citron";
+"ingredients8" = "•    140g d'escalopes de poulet, découpées en petits morceaux\n•    34g de brocoli\n•    25g de jeune champignon Portobello\n•    1/4 poivron rouge\n•    20g d'oignon rouge\n•    un peu d'huile de noix de coco\n•    graines de sésame\n•    1/4 cuillère à café d'amidon de marante\n•    1/8 cuillère à soupe de purée d'ail\n•    1/4 cuillère à café de purée de gingembre";
+"steps8" = "Dans un bol, mélanger tous les ingrédients de la sauce pour la friture. Ajouter un peu d’huile de noix de coco dans une sauteuse et faire chauffer à feu moyen. Faire revenir les morceaux de poulet et les cuire jusqu’à ce qu’il soit 85% à point. Puis, faire revenir les légumes et mélanger avec une spatule. Faites-vous plaisir !";
+
+/* Meal-9 */
+"name9" = "Saumon au chili doux";
+"ingredients9" = "1 filet de saumon \n\nsel \n\npoivre noir \n\n1 cuillère à café d'huile \n\n4 cuillères à soupe de sauce chili \n\n1,5 cuillère à café de jus de citron vert \n\n½ cuillère à café de sésame blanc";
+"steps9" = "Assaisonner le saumon avec du sel et du poivre. Bien mélanger la sauce chili, le jus de citron vert, le sésame et les feuilles de coriandre. Faire chauffer une poêle à feu moyen et ajouter une rasade d’huile. Faire cuire le saumon sur les deux faces et à point. Faites–vous plaisir !";
+
+/* Meal-10 */
+"name10" = "Poulet farcie aux asperges façon barbecue";
+"ingredients10" = "2 escalopes de poulet fines, 85g chacune \n\n12 pointes d'asperge \n\n2 cuillères à soupe de sauce barbecue \n\n1 pincée de paprika \n\n1 pincée d'ail en poudre \n\n1 pincée de poivre";
+"steps10" = "Préchauffer le four à 200°C. Aplatir le poulet avec un maillet. Assaisonner les escalopes de poulet avec 1 cuillère à soupe de sauce barbecue (pour chaque pièce) et l’assaisonnement de votre choix. Placer le poulet sur un grill avec la face ouverte vers le bas. Faire cuire au four ou sur un grill pendant environ 8 à 10 minutes. Faites–vous plaisir !";
+
+/* Meal-11 */
+"name11" = "Frittata blanc d'œuf, asperge, riz brun et quinoa";
+"ingredients11" = "6 blancs d'œuf \n\n2 pointes d'asperge \n\n120g de mélange riz brun et quinoa (cuit) \n\n1 petit poivron rouge doux \n\nail en poudre \n\npoivre \n\nsel \n\n½ pamplemousse rose";
+"steps11" = "Préchauffer le four à 200°C. Badigeonner légèrement une poêle avec de l’huile d’olive. Ajouter le mélange riz brun et quinoa cuit dans la poêle. Verser dans les blancs d’œuf. Ajouter les pointes d’asperge et le poivron émincés. Faire cuire au four pendant environ 15 minutes. Faites–vous plaisir !";
+
+/* Meal-12 */
+"name12" = "Salade méditerranéenne au poulet grec (rouleau)";
+"ingredients12" = "¼ tortilla à la farine complète, 25 cm \n\n140g d'escalopes de poulet cuites \n\n3 feuilles de laitue romaine \n\n4 cuillères à soupe de basilic frais \n\n50g d'oignon rouge \n\n50g de concombre \n\n5 tomates cerise, coupées en deux \n\n⅓ citron \n\n3/4 cuillère à soupe d'huile d'olive \n\n⅓ cuillère à café d'ail \n\nsel \n\npoivre";
+"steps12" = "Dans un bol, mélanger les ingrédients pour la vinaigrette au citron et assaisonner avec le sel et le poivre. Ajouter le mélanger dans un bol pour servir et ajouter 1 portion de vinaigrette de citron. Mélanger la salade avec une spatule, puis placer une partie du contenu sur une tortilla à la farine complète. Faites–vous plaisir !";
+
+/* Meal-13 */
+"name13" = "Flocons d'avoine, noix et banane";
+"ingredients13" = "½ tasse de flocons d'avoine \n\n1 tasse d'eau \n\n1 banane découpée en tranche \n\n1 cuillère à soupe de noix hachées \n\n1 cuillère à soupe de cannelle moulue";
+"steps13" = "Combiner les noix et 1 tasse d’eau dans un petit bol à micro–onde. Faire chauffer au four à micro–onde à puissance élevée pendant 3 minutes. Couvrir avec la banane découpée en tranche, les noix et la cannelle. Faites–vous plaisir !";
+
+/* Meal-14 */
+"name14" = "Pâtes ail et citron au saumon";
+"ingredients14" = "1 livre de filet de saumon \n\n450g de pâtes Rigatoni \n\n1 cuillère à café d'ail émincé \n\n2 cuillères à soupe d'huile d'olive \n\n½ tasse de feuilles de basilic, hachées \n\nsel et poivre \n\n2 cuillères à soupe de jus de citron \n\n2 cuillères à soupe de câpres";
+"steps14" = "Faire cuire les pâtes selon les instructions sur l’emballage. Pendant ce temps, assaisonner le saumon avec le sel et le poivre et le faire cuire à 175°C pendant 15–20 minutes, selon l’épaisseur. Dès que les pâtes sont cuites, les égoutter et ajouter l’ail, le basilic, l’huile d’olive et assaisonner. Ajouter le jus de citron, le zeste et les câpres dans les pâtes et bien mélanger. Faites–vous plaisir !";
+
+/* Meal-15 */
+"name15" = "Saumon glacé à l'orange";
+"ingredients15" = "•    150g de saumon\n•    1/2 cuillère à soupe de marmelade d'orange\n•    1/2 cuillère à soupe de moutarde\n•    1/6 de jus d'orange";
+"steps15" = "Mélanger la marmelade, la moutarde, le sucre et le jus d’orange dans un bol. Etaler le mélange des ingrédients sur le saumon et faire cuire pendant 3 à 4 minutes jusqu’à ce que le saumon soit croustillant. Faites-vous plaisir !";
+
+/* Meal-16 */
+"name16" = "Omelette aux champignons et aux épinards";
+"ingredients16" = "1 cuillère à soupe d'huile d'olive \n\n½ tasse d'échalotes hachées \n\n3 gousses d'ail émincées \n\n225g de champignons de Paris émincés \n\n1 branche de thym \n\n170g de jeunes pousses d'épinard \n\nsel \n\npoivre noir du moulin \n\n8 gros œufs";
+"steps16" = "Faire chauffer une poêle à feu moyen–fort. Ajouter de l’huile dans la poêle. Ajouter les échalotes, l’ail, les champignons et le thym. Ajouter les épinards et faire revenir jusqu’à réduction du liquide. Mélanger une pincée de sel et de poivre et les œufs dans un petit bol et mélanger avec un fouet. Ramener le feu à moyen sous la poêle. Ajouter les œufs mélangés et faire cuire pendant 1 minute. Relever les bords de l’omelette avec une spatule en secouant la poêle pour ramener les œufs non cuits au fond de la poêle. Faites–vous plaisir !";
+
+/* Meal-17 */
+"name17" = "Crevette savoureuse avec garniture fraîche";
+"ingredients17" = "1 livre de grosses crevettes \n\n2 piments rouges \n\n1 poireau, finement émincé \n\n0,5–1 cuillère à soupe de câpres, rincées et égouttées \n\n2 gousses d'ail, finement émincées \n\n½ tasse de persil grossièrement haché \n\n3 cuillères à soupe de jus de citron \n\n2 cuillères d'huile d'olive";
+"steps17" = "Faire chauffer une sauteuse à feu moyen et ajouter de l’huile. Ajouter les crevettes, les piments, le poireau, les câpres, l’ail, le sel et le poivre et faire cuire pendant 4 minutes jusqu’à ce que les crevettes soient roses. Retirer du feu. Ajouter le jus de citron en raclant le fonde la sauteuse avec une cuillère. Servir les crevettes saupoudrées de persil et de basilic frais. Faites–vous plaisir !";
+
+/* Meal-18 */
+"name18" = "Escalopes de poulet grillées au citron";
+"ingredients18" = "3 cuillères à soupe de jus de citron \n\n2 cuillères à soupe d'huile d'olive \n\n2 gousses d'ail émincées \n\n7 demi escalopes de poulet \n\n½ cuillère à café de sel \n\n½ cuillère à café de poivre noir fraîchement moulu \n\nun peu d'huile pour le cuisson";
+"steps18" = "Préchauffer le grill à thermostat moyen–fort. Réunir les 4 premiers ingrédients dans un grand sachet en plastique et le fermer. Laisser mariner au réfrigérateur pendant 30 minutes. Retirer le poulet du sachet, retirer la marinade. Saupoudrer le poulet de façon uniforme avec du sel et du poivre. Placer le poulet sur une plaque dans le grill avec un peu d’huile. Faire rôtir chaque face ou jusqu’à ce qu’elles soient à point. Faites–vous plaisir !";
+
+/* Meal-19 */
+"name19" = "Flocons d'avoine, noix, banane et fraises";
+"ingredients19" = "150g de flocons d'avoine (cuits) \n\n½ banane écrasée \n\n50g de fraises \n\n2 cuillères à soupe de lait d'amande \n\n1 cuillère à soupe d'extrait de vanille \n\n2 cuillères à soupe de noix hachées \n\n1 sachet de stévia \n\nzeste de citron pour la garniture \n\n1 cuillère à soupe de yaourt grec (2% de matières grasses) \n\n½ cuillère à soupe de noix hachées \n\ndes graines de pavot";
+"steps19" = "Faire cuire les flocons d’avoine comme indiqué, puis les réserver. Ajouter tous les ingrédients dans un bol sauf les fraises et mélanger minutieusement. Couvrir les flocons d’avoine avec les fraises fraîchement hachées. Garnir avec le yaourt grec, les noix hachés et les graines de pavot. Faites–vous plaisir !";
+
+/* Meal-20 */
+"name20" = "Poulet Teriyaki et brocoli";
+"ingredients20" = "2 tasses de fleurons de brocoli \n\n1 grande escalope de poulet, coupée en dés \n\n1 cuillère à soupe d'huile \n\nsel et poivre \n\n1 poivron émincé \n\n2 tasses de riz brun cuit \n\n¼ tasse de sauce soja allégée \n\n2 cuillères à soupe de vinaigre de vin de riz \n\n1 gousse d'ail émincée \n\n½ cuillère à café d'huile de sésame \n\n¼ cuillère à café de gingembre moulu";
+"steps20" = "Faire chauffer une grande casserole à feu moyen–fort. Ajouter le poulet. Assaisonner avec le sel et le poivre et faire cuire jusqu’à ce que la coloration rose ait disparu. Mélanger avec un fouet tous les ingrédients pour la sauce Teriyaki dans un petit bol. Ajouter les fleurons de brocoli et le poivron dans la casserole. Répartir le poulet et le brocoli en quatre portions. Saupoudrer avec des graines de sésame et couvrir. Faites–vous plaisir !";
+
+/* Meal-21 */
+"name21" = "Pâtes crémeuses au poulet sans lait";
+"ingredients21" = "110g d'escalopes de poulet \n\n42g de pâtes au blé complet \n\n¼ cuillère à soupe d'huile d'olive \n\n75 ml de lait de noix de coco \n\n45 ml de bouillon de poulet \n\n160g d'asperges \n\n½ citron \n\n¼ gousse d'ail \n\n⅓ cuillère à soupe de persil frais";
+"steps21" = "Faire bouillir et cuire les pâtes comme indiqué et les réserver. Assaisonner le poulet avec le sel, le poivre et l’origan. Ajouter la moitié de l’huile d’olive dans une sauteuse et faire chauffer à feu moyen. Dès que la sauteuse est chaude, faire cuire les escalopes de poulet sur les deux faces jusqu’à ce que le poulet soit entièrement cuit, puis les retirer de la sauteuse. Ajouter le bouillon de poulet et le jus de citron. Laisser mijoter pendant quelques minutes et ajouter les pâtes cuites. Faites–vous plaisir !";
+
+/* Meal-22 */
+"name22" = "Burger aux crevettes";
+"ingredients22" = "•    450g de crevettes crues\n•    1 cuillère à soupe d'huile d'olive\n•    1 poivron rouge\n•    oignon vert\n•    sel et poivre\n•    petit pain sans gluten\n•    avocat écrasé\n•    laitue\n•    tomate\n•    germes de soja";
+"steps22" = "Préchauffer votre grill à environ 93°C. Ajouter les ingrédients du burger (sauf le poivron et l’oignon) dans un blender et mixer par à-coup jusqu’à ce que les crevettes soient hachées. Verser ensuite le tout dans un bol et ajouter le poivron et l’oignon vert coupés en morceaux. Placer ensuite les burgers sur le grill et les faire cuire pendant environ 15 à 20 minutes, environ 8 à 10 minutes sur chaque face. Faites-vous plaisir !";
+
+/* Meal-23 */
+"name23" = "Poulet moutarde façon barbecue";
+"ingredients23" = "110g d'escalopes de poulet \n\nsel \n\npoivre\n\nIngrédients pour la sauce :\n\n31g de moutarde \n\n10,5g de miel \n\n15 ml de vinaigre de cidre \n\n¼ cuillère à café de paprika \n\n¼ cuillère à café de curcuma";
+"steps23" = "Faire chauffer le grill à 200°C. Dans un bol, mélanger les ingrédients pour la sauce. Assaisonner les morceaux de poulet avec le sel et le poivre. Faire des brochettes avec le poulet. Placer le poulet sur le grill et faire cuire pendant environ 10 à 12 minutes. Ensuite, badigeonner le poulet avec la sauce et faire cuire pendant environ 8 à 10 minutes jusqu’à ce que le poulet soit complètement cuit. Faites–vous plaisir !";
+
+/* Meal-24 */
+"name24" = "Bol de riz brun pour le petit-déjeuner";
+"ingredients24" = "•    4 œufs\n•    1 cuillère à soupe de yaourt grec (2% de matières grasses)\n•    sel\n•    poivre\n•    sauce Tabasco\n•    1 cuillère à soupe de beurre\n•    250g de riz brun micro-ondable\n•    1/2 avocat, coupé en tranche\n•    1 tomate Roma, coupée en dé\n•    1 escalope, finement émincée";
+"steps24" = "Dans un bol de taille moyenne, battre les œufs avec le yaourt grec, le sel, le poivre et la sauce forte. Dans une poêle moyenne, faire fondre le beurre. Ajouter les œufs et les brouiller. Dans un grand bol, ajouter le riz brun t recouvrir avec les œufs brouillés, l’avocat, l’escalope émincée, la tomate et la sauce forte. Faites-vous plaisir !";
+
+/* Meal-25 */
+"name25" = "Friture de poulet de d'asperge";
+"ingredients25" = "1 cuillère à soupe de sauce soja \n\n1 cuillère à soupe de miel \n\n2 escalopes de poulet, coupées en morceaux \n\n1 cuillère à soupe d'huile d'olive \n\n1 poignée d'asperges, coupées en morceaux \n\n4 gousses d'ail, finement émincées \n\n2 cuillères à café d'huile de sésame toastée";
+"steps25" = "Dans un sachet zippé, mélanger la sauce soja et le miel. Ajouter le poulet et mélanger pour le recouvrir. Réserver au réfrigérateur. Puis, faire chauffer l’huile dans une grande sauteuse à feu moyen. Retirer les asperges et réserver. Retirer le poulet de la marinade et l’ajouter dans la sauteuse. Puis, ajouter l’ail, les oignons verts et la marinade réservée dans une casserole. Retirer du feu et mélanger avec l’huile de sésame. Faites–vous plaisir !";
+
+/* Meal-26 */
+"name26" = "Bœuf frit avec brocolis et poivrons";
+"ingredients26" = "1 livre de bavette, découpée \n\n2 cuillères à soupe de sauce soja allégée en sodium \n\n1 cuillère à café d'ail émincé \n\n½ cuillère à café de poivre noir moulu \n\n¼ cuillère à café de piment rouge broyé \n\n3/4 de livre de brocoli \n\n2 cuillères à soupe d'huile de canola \n\n1 gros poivron rouge, découpé en morceaux de 2,5 cm \n\n4 tasses de riz long grain cuit";
+"steps26" = "Couper la bavette en deux. Couper chaque moitié en travers en tranches fines de 0,3 cm. Mélanger le bœuf, la sauce soja, l’ail et le poivre noir. Faire revenir à point et réfrigérer pendant 30 minutes. Mélanger ½ cuillère à soupe d’eau, la sauce aux huîtres et le poivron écrasé dans un petit bol et réserver. Couper les brocolis en fleurons. Couper les tiges en diagonale en tranches épaisses de 0,6 cm. Faire cuire les brocolis pendant 2 minutes. Faites–vous plaisir !";
+
+/* Meal-27 */
+"name27" = "Crevettes façon cajun au café";
+"ingredients27" = "450g de grandes crevettes \n\n1 cuillère à soupe d'huile d'olive \n\nsel \n\npoivre \n\npersil frais \n\ncitron \n\n25g de grains de café \n\n1 cuillère à soupe de paprika \n\n1 cuillère à café de cumin moulu \n\n1 cuillère à café de piment de Cayenne";
+"steps27" = "Placer les ingrédients pour la mixture « Cup o’Joe » dans un blender à haute puissance. Mixer jusqu’à ce que les grains de café soient semi–moulus. Assaisonner les crevettes avec environ 5 cuillères à soupe de la mixture et ajouter l’huile d’olive. Mélanger le tout avec les mains et s’assurer que toutes les crevettes sont recouvertes. Quand la poêle est chaude, faire revenir les crevettes. Faites–vous plaisir !";
+
+/* Meal-28 */
+"name28" = "Poisson en papillotes avec épinards et tomates";
+"ingredients28" = "•    1 poignée d'asperges\n•    2 tomates émincées\n•    2 filets tilapia\n•    huile d'olive\n•    1/2 cuillère à café de sauce ail et chili\n•    sel\n•    1 citron émincé";
+"steps28" = "Préchauffer le four à 190°C. Dans un petit bol, mélanger l’huile d’olive, la sauce chili et le sel. Placer les pointes d’asperge au centre d’une feuille d’aluminium et couvrir avec les tomates émincées, puis assaisonner. Placer un filet sur les tomates dans chaque papillote et arroser le poisson avec le mélange à base d’huile d’olive. Disposer les tranches de citron sur le poisson. Faire cuire le poisson au four pendant 25-30 minutes. Faites-vous plaisir !";
+
+/* Meal-29 */
+"name29" = "Crevettes Scampi avec nouilles de courgette";
+"ingredients29" = "•    1 courgette\n•    1/2 - 1 cuillère à café de beurre\n•    1/3 livre de crevettes, décortiquées\n•    1/4 tasse de tomates cerise, coupées en deux\n•    1/4 cuillère à café de poivron en flocons\n•    2 cuillères à soupe de bouillon de poulet\n•    sel et poivre\n•    1 cuillère à soupe de parmesan râpé";
+"steps29" = "En utilisant un appareil à découper en spirale, découper la courgette en nouilles. Faire fondre le beurre dans une poêle. Ajouter les crevettes, les tomates, l’ail, l’échalote et les flocons de poivron. Faire cuire pendant 3-4 minutes jusqu’à ce que les crevettes soient juste roses. Ajouter le bouillon de poulet et le jus de citron. Dès la reprise du frémissement, ajouter les nouilles de courgette. Faites-vous plaisir !";
+
+/* Meal-30 */
+"name30" = "Flocons d'avoine, graines de lin avec myrtilles";
+"ingredients30" = "3 tasses d'eau \n\n2 tasses de flocons d'avoine \n\n3 cuillères à soupe de graines de lin moulues \n\n1/8 cuillère à café de sel \n\n¼ tasse de lait entier \n\n1 tasse de myrtilles \n\n1 cuillère à soupe de myrtilles en conserve \n\n½ cuillère à soupe de zeste de citron \n\n1 cuillère à soupe de jus de citron";
+"steps30" = "Porter à ébullition 3 tasses d’eau. Mélanger les flocons d’avoine, ajouter les graines de lin et le sel. Baisser le feu à moyen–doux et faire cuire jusqu’à obtention d’une consistance tendre en mélangeant fréquemment. Incorporer le lait et le beurre. Pendant ce temps, combiner les myrtilles et les 4 ingrédients suivants dans un bol à micro–onde. Faire chauffer au four à micro–onde pendant 1,5 minute en mélangeant toutes les 30 secondes. Répartir les flocons d’avoine dans 4 bols. Couvrir avec les myrtilles et les noix de pécan. Faites–vous plaisir !";
+
+/* Meal-31 */
+"name31" = "Bol de brocoli et bœuf épicé";
+"ingredients31" = "140 g de viande de bœuf hachée \n\n130g de riz brun \n\n91 g de brocolis \n\n31 g de poivron rouge émincé \n\ncoriandre fraîche \n\n1 citron vert \n\npurée de piment rouge chili \n\nail";
+"steps31" = "Couper votre bavette de bœuf en petits morceaux et assaisonner avec la purée de chili et l’ail frais. Faire chauffer une sauteuse à feu moyen avec un peu d’huile de noix de coco. Quand la sauteuse est chaude, faire revenir la viande et la saisir sur une face. Une fois saisie, retourner le viande et ajouter les brocolis et le poivron émincé. Mélanger le tout en s’assurant que tous les côtés de la viande, des brocolis et des poivrons sont cuits. Faites–vous plaisir !";
+
+/* Meal-32 */
+"name32" = "Crevettes au citron vert douces et épicées";
+"ingredients32" = "340 g de grandes crevettes \n\n1 cuillère à soupe d'huile de sésame \n\n2 cuillères à soupe de miel \n\n1 cuillère à soupe de purée d'ail \n\n1 cuillère à soupe de purée de piment chili \n\n½ jus de citron vert";
+"steps32" = "Dans un sachet, mélanger tous les ingrédients. Laisser mariner pendant au moins 20 minutes. Puis, faire cuire dans une sauteuse. Faites–vous plaisir !";
+
+/* Meal-33 */
+"name33" = "Poivron rouge du sud-ouest";
+"ingredients33" = "•    150g de flocons d'avoine cuits\n•    1 poivron rouge\n•    1 cuillère à soupe de yaourt grec (2% de matières grasses)\n•    28g de mozzarella\n•    1 cuillère à soupe de paprika\n•    1/2 cuillère à café de cumin moulu\n•    43g d'haricots noirs, égouttés\n•    41g de maïs cuit à la vapeur\n•    1 cuillère à soupe de yaourt grec (2% de matières grasses)\n•    sel\n•    poivre";
+"steps33" = "Faire cuire les flocons d’avoine comme indiqué et les réserver. Préchauffer le four à 200°C. Couper en deux un poivron rouge et retirer les graines. Placer les moitiés du poivron rouge sur une feuille sur une plaque de cuisson face coupée vers le bas. Faire cuire au four pendant au moins 15 minutes ou jusqu’à ce que le poivron soit ramolli. Ensuite, mélanger les flocons d’avoine, le yaourt grec, les haricots, le maïs, le paprika et le cumin. Assaisonner avec du sel de mer et du poivre. Faites-vous plaisir !";
+
+/* Meal-34 */
+"name34" = "Salade de haricots noirs avec garniture citron–cumin";
+"ingredients34" = "1 tasse de céleri finement émincé \n\n3/4 tasse d'oignon rouge émincé \n\n2 boîtes de haricots noirs, rincés et égouttés \n\n¼ tasse de jus de citron \n\n1 cuillère à soupe d'huile d'olive";
+"steps34" = "Pour la salade, mélanger le céleri, l’oignon et les haricots noirs dans un grand bol. Mélanger tous les ingrédients de la garniture dans un petit bol. Mélanger l’ensemble avec un fouet. Verser sur le mélange des haricots pour les recouvrir. Faites–vous plaisir !";
+
+/* Meal-35 */
+"name35" = "Saumon grillé à la mode du sud–ouestn";
+"ingredients35" = "110g de saumon sauvage \n\n1 cuillère à soupe d'huile d'olive \n\n1 cuillère à soupe de paprika \n\nsel et poivre";
+"steps35" = "Préchauffer le four à 175°C. Couvrir les filets avec l’assaisonnement et les faire griller pendant environ 15 minutes ou jusqu’à la consistance souhaitée. Faites–vous plaisir !";
+
+/* Meal-36 */
+"name36" = "Œufs brouillés et flocons d'avoine avec banane et cannelle";
+"ingredients36" = "2 œufs \n\n3 blancs d'œuf \n\n40 g de flocons d'avoine instantanés \n\n1 banane \n\ncannelle";
+"steps36" = "Fouetter les 2 œufs et les 3 blancs d’œuf dans un bol. Assaisonner avec une pincée de sel et du poivre. Ajouter un peu d’huile dans une casserole et la faire chauffer. Ajouter les œufs. Mélanger doucement avec une spatule jusqu’à ce que les œufs soient cuits, puis les retirer du feu. Préparer ensuite les flocons d’avoine instantanés comme indiqué. Mélanger vigoureusement et ajouter un peu de cannelle pour le goût. Faites–vous plaisir.";
+
+/* Meal-37 */
+"name37" = "Préparation poulet Kung Pao épicé et léger";
+"ingredients37" = "150g d'escalopes de poulet \n\n1/6 gousse d'ail \n\n33g de pois gourmant \n\n150g de poivron \n\n2/3 cuillère à soupe d'eau \n\n⅓ cuillère à soupe de sauce tomate \n\n1/6 cuillère à soupe de gingembre frais \n\n1/6 cuillère à soupe de sauce chili \n\n1/8 cuillère à soupe de vinaigre de riz \n\noignon vert émincé";
+"steps37" = "Dans un bol, ajouter les ingrédients pour la sauce et les fouetter. Chauffer une sauteuse à feu moyen et ajouter un peu d’huile d’olive. Quand la sauteuse est chaude, faire revenir l’ail et laisser transpirer pendant environ 2 minutes. Puis, ajouter les escalopes de poulet découpées en morceaux. Faire cuire le poulet jusqu’à ce que la surface soit bien saisie, pendant environ 6 à 8 minutes. Faire revenir les poivrons pendant environ 3 minutes. Verser lentement la sauce et agiter fréquemment. Faites–vous plaisir !";
+
+/* Meal-38 */
+"name38" = "Kébabs de saumon à l'orange et aux épices";
+"ingredients38" = "150 g de saumon sauvage \n\n27g de marmelade d'orange \n\n1/6 cuillère à soupe de paprika \n\n1/6 cuillère à soupe de sucre de noix de coco \n\n⅓ cuillère à café de sauce Tabasco \n\n⅓ jus de mandarine";
+"steps38" = "Découper en lamelles le saumon pour les kébabs. Faire mariner le saumon pendant environ 45 minutes. Faire cuire au four pendant 8–10 minutes à 200°C. Faites–vous plaisir !";
+
+/* Meal-39 */
+"name39" = "Burger de saumon à l'avocat";
+"ingredients39" = "1 livre de filet de saumon \n\n1 tasse de miettes de pain \n\n1 œuf \n\n1 cuillère à soupe de jus de citron \n\nsel et poivre \n\nhuile d'olive \n\n1 gros avocat, haché \n\n⅓ tasse d'oignons rouge hachés \n\n1 jus de citron vert";
+"steps39" = "Couper le filet de saumon en petits morceaux et le transférer dans un saladier. Mélanger doucement avec le reste des ingrédients. Laisser reposer le mélange pendant 5–10 minutes. Faire chauffer un peu d’huile dans une grande casserole à feu moyen. Former des petits pâtés avec le mélange à base de saumon. Faire frire les pâtés jusqu’à ce que les deux faces soient brunies pendant environ 4 minutes. Faites–vous plaisir !";
+
+/* Meal-40 */
+"name40" = "Flocons d'avoine généreux aux fruits";
+"ingredients40" = "½ tasse de flocons d'avoine \n\n1 tasse d'eau \n\n1 cuillère à soupe de miel \n\n1 cuillère à soupe d'extrait de vanille \n\n½ cuillère à café de cannelle moulue \n\n¼ tasse de myrtilles \n\n4 fraises coupées en morceaux \n\n½ banane coupées en tranche";
+"steps40" = "Combiner l’eau et les flocons d’avoine dans un bol à micro–onde. Faire chauffer au four à micro–onde à puissance élevée jusqu’à ce que les flocons d’avoine aient absorbé toute l’eau. Incorporer le miel, l’extrait de vanille et la cannelle moulue. Ajouter les myrtilles et couvrir avec la banane et les fraises en morceaux. Faire–vous plaisir !";
+
+/* Meal-41 */
+"name41" = "Smoothie kiwi, oranges et épinard";
+"ingredients41" = "une grosse poignée d'épinard \n\n2 kiwis en morceaux \n\n1 mangue \n\njus d'une orange";
+"steps41" = "Laver les épinards et couper les racines. Laver la mangue et les kiwis, puis les découper en petits morceaux. Mixer tous les ingrédients dans un blender jusqu’à obtention d’un smoothie. Faites–vous plaisir !";
+
+/* Meal-42 */
+"name42" = "Guacamole au saumon fumé";
+"ingredients42" = "1 avocat \n\n455g de saumon fumé \n\n17g d'oignon rouge, haché \n\n2 cuillères à soupe de coriandre, hachée \n\n2 cuillères à soupe de yaourt grec \n\npoivre";
+"steps42" = "Ecraser les avocats dans un bol et mélanger tous les ingrédients. Assaisonner avec la moutarde, le cumin, le jus de citron, le yaourt grec et le poivre selon le goût. Faites–vous plaisir !";
+
+/* Meal-43 */
+"name43" = "Toast avocat et œuf cuit";
+"ingredients43" = "2 œufs \n\n2 tranches de pain toastées \n\n1 petit avocat \n\n1 cuillère à café de jus de citron vert \n\nsel \n\npoivre noir \n\npersil";
+"steps43" = "Préparer les toasts et les œufs cuits selon votre goût. Peler et écraser l’avocat avec le jus de citron vert, le sel et le poivre. Répartir l’avocat uniformément sur chaque tranche de toast, puis couvrir avec un œuf cuit et l’assaisonnement additionnel selon votre goût. Faites–vous plaisir !";
+
+/* Meal-44 */
+"name44" = "Smoothie rouge et sucré avant l'exercice";
+"ingredients44" = "1 pomme rouge \n\n½ betterave \n\n1 tige de céleri \n\n3 fraises \n\n¼ de banane \n\nthé vert (en option) \n\n41g de framboises \n\n1 cuillère à café de gingembre";
+"steps44" = "Ajouter tous les ingrédients dans un blender. Mixer simplement pendant 1 minute pour s’assurer qu’il n’y a plus de morceaux puis mixer jusqu’à obtention d’une consistance onctueuse. A consommer comme un snack. Faites–vous plaisir !";
+
+/* Meal-45 */
+"name45" = "Asperges rôties à l'ail et au pamesan";
+"ingredients45" = "1 livre d'asperges fraîches \n\n2 cuillères à soupe d'huile d'olive \n\n3 cuillères à soupe de parmesan râpé \n\n2 gousses d'ail émincées \n\nsel et poivre";
+"steps45" = "Couper la base des asperges. Etaler les asperges dans la casserole et assaisonner avec le sel et le poivre et les faire revenir dans l’huile d’olive. Etaler les asperges sur une plaque dans le grill. Les faire rôtir pendant 5 à 10 minutes à feu moyen jusqu’à ce qu’elles soient tendres et légèrement brûlées. Faites–vous plaisir !";
+
+/* Meal-46 */
+"name46" = "Pesto fait maison avec crevettes et purée de courgettes";
+"ingredients46" = "•    12g de basilic frais\n•    7,5g d'épinard cru\n•    7,5g de noix\n•    30 ml d'huile d'olive\n•    1/2 cuillère à soupe de parmesan\n•    1/4 jus de citron\n•    1/4 gousse d'ail\n•    sel\n•    poivre\n•    42g de crevettes cuites\n•    1/4 de courgette\n•    2 tomates cerise émincées";
+"steps46" = "Mélanger dans un blender les ingrédients pour le pesto jusqu’à obtention d’une consistance onctueuse. Dans un bol, râper la courgette crue avec un spiralizer. Ajouter le pesto aux pâtes de courgette et mélanger légèrement avec des baguettes. Ajouter votre choix de protéine telle que des crevettes grillées ou du poulet et ajouter ensuite les tomates cerise émincées. Faites-vous plaisir !";
+
+/* Meal-47 */
+"name47" = "Flocons d'avoine, crumble, fruits et épices";
+"ingredients47" = "150g de flocons d'avoine (cuits) \n\n49g de myrtilles \n\n50g de mûres \n\n3 cuillères à soupe de noix hachées \n\n½ cuillère à soupe d'huile de noix de coco \n\n¼ cuillère à café de curcuma \n\n¼ cuillère à café de mélange 4 épices \n\n1 sachet de stévia \n\n1 pincée de cannelle \n\n1 cuillère à soupe de granola";
+"steps47" = "Faire cuire les flocons d’avoine comme indiqué. Les réserver. Faire chauffer une poêle à feu moyen et ajouter l’huile de noix de coco. Laisser chauffer la poêle. Faire revenir les baies. Assaisonner les baies avec une pincée de cannelle et mélanger. Retirer les baies du feu et réserver pour laisser la sauce s’épaissir. Bien mélanger et ajouter un petit peu de cannelle selon le goût. Verser le sirop de baie encore chaud sur les flocons d’avoine. Garnir avec du granola frais pour ajouter du croustillant. Faites–vous plaisir !";
+
+/* Meal-48 */
+"name48" = "Banane et pêche";
+"ingredients48" = "•    1 banane\n•    2 pêches\n•    1/2 tasse de lait d'amande vanillé\n•    1/2 tasse de glaçons\n•    1/4 cuillère à café de cannelle\n•    miel (en option)Instructions";
+"steps48" = "Peler et couper en morceaux la banane et les pêches fraîches. Réunir tous les ingrédients dans un blender. Mixer jusqu’à obtention d’un smoothie et ajouter du miel pour un résultat plus sucré si désiré. Faites-vous plaisir !";
+
+/* Meal-49 */
+"name49" = "Friture de poulet et ananas";
+"ingredients49" = "110g d'escalopes de poulet \n\n40g d'ananas \n\n120g de riz brun \n\n⅓ cuillère à soupe d'huile d'olive \n\n½ cuillère à café de moutarde \n\n1/6 cuillère à soupe de paprika \n\nsel de mer \n\npoivre";
+"steps49" = "Découper les escalopes de poulet crues en petits morceaux. Assaisonner les morceaux de poulet avec le paprika et la moutarde. Ajouter l’huile d’olive dans une sauteuse, puis faire revenir les morceaux d’escalope. Faire cuire pendant environ 4 minutes pour avoir 80% d’une cuisson à point. Puis, ajouter le poivron coupé en morceaux. Faire cuire pendant 2–3 minutes de plus avant d’ajouter l’ananas coupé en dés. Faites–vous plaisir !";
+
+/* Meal-50 */
+"name50" = "Tisane aux plantes";
+"ingredients50" = "•    1 tasse d'eau\n•    1 cuillère à café de gingembre frais râpé\n•    1 cuillère à café de zeste de citron vert râpé\n•    1 cuillère à café de jus de citron vert\n•    3 feuilles de menthe fraîche";
+"steps50" = "Porter l’eau à ébullition dans une casserole et mélanger le reste des ingrédients. Faire bouillir et agiter jusqu’à ce que la tisane soit infusée. Faites-vous plaisir !";
+
+/* Meal-51 */
+"name51" = "Omelette aux champignons et à la tomate";
+"ingredients51" = "4 blancs d'œuf \n\n1 œuf \n\n½ tasse de fromage frais allégé \n\n½ tasse de champignons émincés \n\n½ de tomate hachée";
+"steps51" = "Réunir les œufs et les battre légèrement. Avec un peu d’huile, faire cuire les œufs dans une poêle anti adhésive. Ajouter le fromage frais, les champignons et les tomates au centre de l’omelette. Faire cuire jusqu’à ce que les œufs soient à point et plier l’omelette en deux. Faites–vous plaisir !";
+
+/* Meal-52 */
+"name52" = "Smoothie épinards avec poire et gingembre";
+"ingredients52" = "•    3 tasses d'épinard\n•    2 cuillères à soupe de jus de citron\n•    2 cuillères à café de gingembre\n•    2 poires\n•    menthe";
+"steps52" = "Mixer tous les ingrédients dans un blender jusqu’à obtention d’une consistance onctueuse. Faites-vous plaisir !";
+
+/* Meal-53 */
+"name53" = "Maïs mexicain grillé";
+"ingredients53" = "4 épis de maïs \n\n1,5 tasse de crème fermentée \n\n1 tasse de parmesan râpé \n\n1 jus de citron de vert \n\npoudre de chili \n\n2 citrons verts découpés en quartiers pour la garniture";
+"steps53" = "Faire griller le maïs en le tournant une fois sur un grill chaud jusqu’à ce qu’il commence à légèrement carboniser. Dans un petit bol, mélanger la mayonnaise, la crème fermentée et la coriandre. Verser sur le maïs le jus de citron vert et assaisonner avec le parmesan. Saupoudrer avec le chili en poudre. Faites–vous plaisir !";
+
+/* Meal-54 */
+"name54" = "Kiwi et ananas";
+"ingredients54" = "4 cuillères à soupe d'eau \n\n½ tasse de lait \n\n½ tasse de yaourt \n\n1,5 cuillère à soupe de miel \n\n1 kiwi, pelé \n\n1 tasse d'ananas en morceaux \n\n½ mangue \n\n2 glaçons";
+"steps54" = "Mixer tous les ingrédients à basse vitesse jusqu'à obtention d'un smoothie épais. Faites–vous plaisir !";
+
+/* Meal-55 */
+"name55" = "Thé vert au miel et au citron";
+"ingredients55" = "•    1 citron coupé en tranches\n•    2 cuillères à café de thé vert en poudre\n•    3/4 tasse d'eau chaude\n•    1/2 tasse de jus de pamplemousse\n•    3 cuillères à soupe de jus de citron\n•    1 cuillère à soupe de miel";
+"steps55" = "Mélanger le thé vert en poudre et l’eau chaude. Ajouter le jus de pamplemousse, le jus de citron et le miel. Bien mélanger et servir avec une tranche de citron. Faites-vous plaisir !";
+
+/* Meal-56 */
+"name56" = "Kébabs de crevettes grillées et avocat";
+"ingredients56" = "•    450g de grandes crevettes\n•    1,5 avocat\n•    1 poivron rouge\n•    1 poivron orange\n•    1 poivron jaune\n•    1 oignon rouge\n•    1 cuillère à soupe de purée d'ail\n•    1/2 cuillère à soupe d'huile d'olive vierge extra\n•    1 citron vert\n•    sel, poivre";
+"steps56" = "Préchauffer votre grill à environ 200°C. Couper les légumes et l’avocat en gros morceaux pour le kébab. Décortiquer les crevettes et assaisonner. Choisir des légumes fibreux car ils sont plus consistants et ils se tiendront mieux dans le kébab sous la chaleur intense. Placer les kébabs sur le grill et faire cuire pendant environ 8-10 minutes, puis les retourner et les aire cuire pendant encore 8 à 10 minutes. Faites-vous plaisir !";
+
+/* Meal-57 */
+"name57" = "Sandwich au poulet grillé épicé et œuf";
+"ingredients57" = "•    140g d'escalopes de poulet crues\n•    1 œuf\n•    30g de salade roquette\n•    1/2 tomate Roma\n•    1 cuillère à soupe de fromage de chèvre\n•    1 pain au blé complet\n•    huile de noix de coco\n•    1 cuillère à café de paprika\n•    1/2 cuillère à café de piment de Cayenne\n•    sel\n•    poivre";
+"steps57" = "Assaisonner l’escalope de poulet avec du paprika, du piment de Cayenne, du cumin, du sel de mer et du poivre. Placer le pain au blé complet dans un toaster et le faire dorer. Badigeonner une poêle avec de l’huile de noix de coco et la faire chauffer à feu moyen-fort. Ajouter l’escalope de poulet dans la poêle et la faire cuire à point sur les deux faces. Ajouter la roquette, la tomate, le fromage de chèvre, le poulet, puis l’œuf. Faites-vous plaisir !";
+
+/* Meal-58 */
+"name58" = "Elixir doré";
+"ingredients58" = "2 pommes \n\n4 oranges moyennes, pelées \n\n1 citron, pelé \n\n5–7cm de racine de gingembre frais, pelé \n\n5cm de curcuma frais, pelé \n\n2 tasses d'eau froide \n\n1 poignée de glaçons";
+"steps58" = "Dans un blender à haute vitesse, mixer tous les ingrédients jusqu’à obtention d’un smoothie en ajoutant de l’eau si nécessaire. Un bon blender à haute vitesse vous donnera un excellent smoothie. Si vous voulez une boisson plus fluide, vous pouvez extraire les ingrédients sans la fibre et tous les nutriments si vous le souhaitez. Faites–vous plaisir !";
+
+/* Meal-59 */
+"name59" = "Rouleau d'omelette bison";
+"ingredients59" = "•    1 œuf\n•    3 blancs d'œuf\n•    110g de viande hachée de bison\n•    30g d'épinards\n•    58g de poivron rouge\n•    14g de mozzarella, râpée\n•    ail en poudre\n•    cumin moulu\n•    sel\n•    poivre";
+"steps59" = "Assaisonner et cuire la viande hachée de bison dans un poêle anti adhésive. Dans un bol, fouetter les œufs avec une pincée de sel et de poivre. Faire chauffer une autre poêle anti adhésive à feu moyen-fort. Verser les œufs mélangés et faire cuire comme un pancake. Couvrir la poêle pour laisser cuire les œufs à point. Faites-vous plaisir !";
+
+/* Meal-60 */
+"name60" = "Papaye";
+"ingredients60" = "2 papayes moyennes, dénoyautées et hachées \n\n1 tasse de framboises \n\n¼ d'un petit ananas \n\ngingembre \n\n1 tasse de lait \n\n2 cuillères à soupe de yaourt grec \n\n1,5 glaçon \n\nbaies pour la garniture";
+"steps60" = "Réunir les ingrédients dans un blender. Mixer jusqu’à obtention d’un smoothie. Faites–vous plaisir !";
+
+/* Meal-61 */
+"name61" = "Tisane à la menthe et à la lavande";
+"ingredients61" = "•    1/4 tasse de pétales frais de lavande\n•    1 tasse de feuilles fraîches de menthe\n•    4 tasses d'eau";
+"steps61" = "Placer les pétales de lavande et les feuilles de menthe dans une casserole, verser l’eau et porter à ébullition. Réduire le feu et laisser mijoter la tisane jusqu’à ce qu’elle soit à votre goût, 15 à 20 minutes. Faites-vous plaisir !";
+
+/* Meal-62 */
+"name62" = "Crevettes et pâtes végétariennes";
+"ingredients62" = "170g de crevettes \n\n1 courgette \n\n2 carottes \n\n½ gousse d'ail hachée \n\n¼ oignon rouge haché \n\n1 cuillère à soupe de sauce soja allégée en sodium \n\n¼ de jus d'orange \n\n½ cuillère à soupe d'huile de sésame";
+"steps62" = "Vous aurez besoin d’un éplucheur à julienne pour émincer la courgette et les carottes pour préparer les pâtes végétariennes. Ensuite, ajouter 1 cuillère à soupe de sauce soja. Puis, ajouter le vinaigre de cidre et le quart du jus d’une orange. Enfin, ajouter ½ cuillère à soupe d’huile de sésame. Faire chauffer une poêle à feu moyen et ajouter un peu d’huile de noix de coco. Faire revenir l’ail et l’oignon rouge. Ajouter les crevettes et mélanger rapidement avec une cuillère pour s’assurer que toutes les crevettes absorbent la saveur de l’ail et des oignons. Faites–vous plaisir !";
+

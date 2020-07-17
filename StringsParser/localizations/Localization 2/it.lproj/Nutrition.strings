@@ -1,0 +1,381 @@
+
+//BUILD MUSCLE NUTRITION PLAN
+
+"Nutrition plan for building muscle" = "Nutrition plan for \n building muscle";
+"nutritionPlanDescription1" = "Muscle Strength and Size To stay \n consistent. Speed up metabolism";
+
+/* Day - 1 */
+"titleDay1" = "Everyone needs the three \n basics nutrients, carbohydrates,\n  proteins, and fats.";
+"descriptionDay1" = "Carbs supply the body with energy it needs to function. They are found almost exclusively in plan foods.";
+
+/* Day - 2 */
+"titleDay2" = "Protein is essential for growth \n and development. It provides \n the body with energy.";
+"descriptionDay2" = "Complete proteins are found in meat, fish, poultry, cheese, eggs, and milk.";
+
+/* Day - 3 */
+"titleDay3" = "Good fats are in fact, the most \n concentrated source of energy \n available to the body.";
+"descriptionDay3" = "By choosing the healthiest forms of each of these nutrients and eating them in the proper balance.";
+
+/* Day - 4 */
+"titleDay4" = "The saying \"You are what you eat\" is \n literally true.If you want your body \n to perform at a peak level.";
+"descriptionDay4" = "Choose red, orange, and dark-green vegetables like tomatoes, sweet potatoes, and broccoli, along with other vegetables for your meals.";
+
+/* Day - 5 */
+"titleDay5" = "Maximum amount of added sugars \n you should eat in a day: 37.5 \n grams or 9 teaspoons. ";
+"descriptionDay5" = "Fructose causes insulin resistance and raises insulin levels in the body, which increases the deposition of fat in the fat cells.";
+
+/* Day - 6 */
+"titleDay6" = "Water is an essential nutrient \n that is involved in every \n function of the body.";
+"descriptionDay6" = "Our organs, muscle, and bones all have water in them and need water to function properly.";
+
+/* Day - 7 */
+"titleDay7" = "Your body’s health reflects \n what you put into it.";
+"descriptionDay7" = "When combined with physical activity, a healthy diet can help people keep a healthy weight and reduce risk of chronic diseases. ";
+
+
+//WEIGHT LOSS NUTRITION PLAN
+
+"Nutrition plan for weight loss" = "Nutrition plan for \n weight loss";
+"nutritionPlanDescription2" = "Learn what to eat, discover \n fat burning foods";
+
+/* Day - 8 */
+"titleDay8" = "Enjoyment of a healthy diet can \n also be one of the great cultural \n pleasures of life.";
+"descriptionDay8" = "We need a wide variety of different foods to provide the right amounts of nutrients for good health.";
+
+/* Day - 9 */
+"titleDay9" = "Eliminate emotional eating by \n healing your hungry heart.";
+"descriptionDay9" = "Nutrition plays a key role in maintaining a healthy lifestyle.";
+
+/* Day - 10 */
+"titleDay10" = "Morning workout is better \n for weight loss";
+"descriptionDay10" = "In the morning, before you’ve eaten, your body is forced to utilize it's fat stores for energy.";
+
+/* Day - 11 */
+"titleDay11" = "Try Interval Training because it can \n end up burning more calories in less \n time than your regular workout.";
+"descriptionDay11" = "All you have to do is step up your intensity and train in short bursts instead of going steady for the entire workout.";
+
+/* Day - 12 */
+"titleDay12" = "Consistency in exercise is the \n key to real results and real health benefits.";
+"descriptionDay12" = "To speed up the metabolism and to help recuperate from your training, try to eat 5-6 small meals per day";
+
+/* Day - 13 */
+"titleDay13" = "Studies show that breakfast can \n be important in maintaining a \n health body weight.";
+"descriptionDay13" = "To keep your metabolism running strong, you must eat your fist meal within 1 hour of rising.";
+
+/* Day - 14 */
+"titleDay14" = "We recommend doing your cardio \n first thing in the morning, \n 30 minutes plus, before breakfast.";
+"descriptionDay14" = "Cardiovascular activity is necessary to keep the metabolism roaring and help you burn some extra calories.";
+
+
+//MEALS
+
+/* Meal-1 */
+"name1" = "Cosce di pollo grigliate al limone e salsa dijon con insalata di rucola";
+"ingredients1" = "4 cosce di pollo senza pelle e disossate \n\n½ cucchiaino di sale \n\n¼ di cucchiaino di pepe nero macinato \n\n2 cucchiai e mezzo di olio d'oliva \n\n2 cucchiaini di succo di limone \n\n1 cucchiaino di aglio tagliato fine \n\nOlio per ungere la padella \n\n1 cucchiaio di aceto balsamico \n\n1 cucchiaio di miele \n\n200 gr di pomodorini tagliati a metà \n\n1 pacco (150 gr) di rucola";
+"steps1" = "Condire il pollo con ¼ di cucchiaino di sale e ⅛ di pepe. Unire al pollo 1 o 1,5 cucchiai di olio, succo di limone, mostarda e aglio, mischiare in una ciotola per amalgamare e rivestire bene. Lasciare riposare per 4 minuti. Riscaldare una piastra a fuoco medio e ungerla con olio. Mettere il pollo in padella, grigliare per 5 minuti su ogni lato o finché cotto. Tagliare il pollo in fettine da mezzo centimetro.";
+
+/* Meal-2 */
+"name2" = "Pollo saltato di Tso";
+"ingredients2" = "4 petti di pollo a cubetti \n\n225 gr di farina \n\nOlio di semi \n\nSale \n\nPepe macinato fresco \n\n2 spicchi di aglio, tagliato fino \n\n½ barattolo di brodo di pollo \n\n3 cucchiai di miele \n\n4 cucchiai di salsa di soia \n\n2 cucchiai di succo di lime \n\n400 gr di broccoli, solo i fiori \n\n250 gr di riso bianco cotto, per servire";
+"steps2" = "In una ciotola grande, passare leggermente il pollo in amido di mais. Trasferire i pezzi in una grande ciotola con la farina e scuotere con delicatezza, poi mettere da parte. Riempire una grande e profonda padella con metà dell’olio e mettere sul fuoco a fuoco medio alto. Condire il pollo con gli ingredienti liquidi, scolare l’eccesso e mettere da parte. Aggiungere 2 cucchiai di amido di mais e girare per incorporare. Per la salsa, aggiungere i broccoli e carote e cucinare finché non saranno morbidi, per circa 5 minuti. Buon appetito!";
+
+/* Meal-3 */
+"name3" = "Pollo con Sriracha all'arancia e al miele";
+"ingredients3" = "100 gr di petto di pollo \n\n1/8 di cucchiaio di olio di sesamo \n\n12,5 gr di salsa Sriracha \n\nsale \n\npepe";
+"steps3" = "Accendere il grill o il forno a 190°. Aggiungere gli ingredienti per la marinata in una busta ermetica e mischiare bene. Assaggiare la marinata e condirla a piacere. Aggiungere il pollo e mettere in frigo, per almeno 30 minuti. Poi, prendere il pollo dal frigo e collocarlo sul grill. Cuocere per circa 15 o 20 minuti, finché cotto. Buon appetito!";
+
+/* Meal-4 */
+"name4" = "Polpette di salmone glassate con mostarda al miele";
+"ingredients4" = "•        56 gr di salmone\n•        1/8 di cucchiaio di pasta d’aglio\n•        7 gr di cipolla rossa tagliata\n•        1 cucchiaio di coriandolo, tagliato\n•        1/8 di uovo\n•        1/8 di bianco d’uovo\n•        60 grammi di peperone\n•        sale\n•        pepe\n•        2 cucchiai di zenzero\n•        1/8 di brodo di pollo";
+"steps4" = "Accendere il forno a 200°. Condire il salmone e cuocerlo in forno finché non sarà tenero. Spezzettare il salmone con una forchetta dentro una ciotola. Mettere tutti gli ingredienti, tranne la glassa e mischiare. Cucinare il salmone in forno per 7 minuti. In una ciotola a parte mischiare gli ingredienti per la glassa alla mostarda. Buon appetito!";
+
+/* Meal-5 */
+"name5" = "Cosce di pollo grigliate al limone e salsa dijon con insalata di rucola";
+"ingredients5" = "4 cosce di pollo senza pelle e disossate \n\n½ cucchiaino di sale \n\n¼ di cucchiaino di pepe nero macinato \n\n2 cucchiai e mezzo di olio d'oliva \n\n2 cucchiaini di succo di limone \n\n1 cucchiaino di aglio tagliato fine \n\nOlio per ungere la padella \n\n1 cucchiaio di aceto balsamico \n\n1 cucchiaio di miele \n\n200 gr di pomodorini tagliati a metà \n\n1 pacco (150 gr) di rucola";
+"steps5" = "Condire il pollo con ¼ di cucchiaino di sale e ⅛ di pepe. Unire al pollo 1 o 1,5 cucchiai di olio, succo di limone, mostarda e aglio, mischiare in una ciotola per amalgamare e rivestire bene. Lasciare riposare per 4 minuti. Riscaldare una piastra a fuoco medio e ungerla con olio. Mettere il pollo in padella, grigliare per 5 minuti su ogni lato o finché cotto. Tagliare il pollo in fettine da mezzo centimetro.";
+
+/* Meal-6 */
+"name6" = "Fajitas con chili";
+"ingredients6" = "500 gr di petto di pollo senza pelle \n\n½ di un peperone verde, uno rosso e uno giallo, finemente tagliati \n\n80 ml di acqua \n\n2 cucchiai di salsa di soia \n\n1 pizzico di sale \n\n1 pizzico di pepe nero \n\n2 cucchiai di olio d'oliva \n\n1 cipolla grande, tagliata finemente";
+"steps6" = "Combinare tutti gli ingredienti della marinata con il pollo in un contenitore e mettere in frigo per almeno 2 ore. Rimuovere la carne dalla marinata e grigliare su fuoco medio per 4 o 5 minuti per lato. Tagliare la carne in strisce fini. Per la salsa, unire i 2 cucchiai di acqua, 1 cucchiaino di salsa di soia, ¼ di cucchiaino di succo di lime, un pizzico di sale, il pepe nero e 1 cucchiaio di olio d'oliva. Buon appetito!";
+
+/* Meal-7 */
+"name7" = "Rolls di omelette con tacchino e verdure";
+"ingredients7" = "1 uovo \n\n4 bianchi d’uovo \n\n85 gr di tacchino macinato magro \n\n1 manciata di spinaci (crudi) \n\n58 gr di peperoni  \n\n8 gr di formaggio di capra";
+"steps7" = "Condire e cucinare il tacchino macinato in una padella. Misurare una porzione giornaliera di uova e cucinarle in una padella separata. Aggiungere il formaggio di capra, gli spinaci, i peperoni e il tacchino macinato. Aspetta che si raffreddi un po’ prima di avvolgerlo in alluminio. Buon appetito!";
+
+/* Meal-8 */
+"name8" = "Pollo saltato agli agrumi";
+"ingredients8" = "•    140 gr di petto di pollo, tagliato a cubetti\n•    34 gr di broccoletti\n•    25 gr di funghi champignon\n•    ¼ di peperone rosso\n•    20 gr di cipolla rossa\n•    Olio di cocco\n•    Semi di sesamo\n•    ¼ cucchiaino di fecola di patate\n•    1/8 di cucchiaio di pasta d'aglio\n•    ¼ cucchiaino pasta di zenzero";
+"steps8" = "In una ciotola mischiare tutti gli ingredienti per la salsa dove salterete il pollo. Ungere poi la padella con olio di cocco e mettere a fuoco medio. Collocare i petti di pollo e lasciare cuocere finché non saranno quasi pronti, poi aggiungere le verdure, la salsa e girate. Buon appetito!";
+
+/* Meal-9 */
+"name9" = "Chili dolce di salmone";
+"ingredients9" = "1 filetto di salmone \n\nSale \n\nPepe nero \n\n1 cucchiaino d’olio \n\n4 cucchiaio di salsa chili dolce \n\nIl succo di mezzo limone \n\n½ cucchiaio di sesamo bianco";
+"steps9" = "Condire il salmone con sale e pepe. Mischiare la salsa chili, il limone, il sesamo e delle foglie di coriandolo, amalgamare bene. Riscaldare una padella e fuoco medio e aggiungere un filo d’olio. Sigillare il salmone in padella su entrambi i lati finché non sarà pronto. Gustare con la salsa. Buon appetito!";
+
+/* Meal-10 */
+"name10" = "Pollo BBQ con asparagi";
+"ingredients10" = "2 petti di pollo tagliati finemente. \n\n12 asparagi \n\n2 cucchiaini di salsa barbecue \n\n1 pizzico di paprika \n\n1 pizzico di polvere d'aglio \n\n1 pizzico di pepe";
+"steps10" = "Accendere il forno a 200°C. Battere il pollo con un batti carne, condirlo con 1 cucchiaio di salsa barbecue (per ogni fetta) e condimenti a scelta. Mettere il pollo sul grill. Cuocere in forno o sul grill per circa 8 o 10 min. Buon appetito!";
+
+/* Meal-11 */
+"name11" = "Frittata di bianchi d’uovo, asparagi e riso integrale con quinoa";
+"ingredients11" = "6 bianchi d’uovo \n\n2 asparagi \n\n120 gr di riso integrale e quinoa \n\n1 peperone rosso piccolo \n\nPolvere d’aglio \n\nPepe  \n\nSale  \n\n½ pompelmo rosa";
+"steps11" = "Accendere forno a 200°. Ungere leggermente la padella con olio d’oliva. Aggiungere il riso integrale e la quinoa cotti alla padella. Versare i bianchi d’uovo. Aggiungere gli asparagi e le fette di peperone. Cuocere in forno per circa 15 minuti. Buon appetito!";
+
+/* Meal-12 */
+"name12" = "Piadina con insalata greca";
+"ingredients12" = "1 piadina (25 cm diametro) \n\n140 gr di petto di pollo cotto \n\n3 fette di insalata romana \n\n4 cucchiai di basilico fresco \n\n50 gr di cipolla rossa \n\n50 gr di cetriolo \n\n5 pomodorini, tagliati a metà \n\n⅓ di limone \n\n¾ cucchiaio di olio d'oliva \n\n⅓ cucchiaino di aglio \n\nsale \n\npepe";
+"steps12" = "Mischiare in una ciotola gli ingredienti per la vinaigrette di limone e condire con sale e pepe. Aggiungere alla ciotola dell'insalata e mischiare con 1 porzione di vinaigrette di limone. Poi collocare una porzione in una piadina e richiudere. Buon appetito!";
+
+/* Meal-13 */
+"name13" = "Avena con banana e nocciole";
+"ingredients13" = "125 gr di avena \n\n250 ml di acqua \n\n1 banana a fette \n\n1 cucchiaio di noci tagliate \n\n1 cucchiaino di cannella macinata";
+"steps13" = "Unire l’avena e l’acqua in una ciotola e mettere in microonde, cuocere alla massima potenza per 3 minuti. Infine, guarnire con la banana, le nocciole e la cannella. Buon appetito!";
+
+/* Meal-14 */
+"name14" = "Pasta leggera con limone, aglio e salmone";
+"ingredients14" = "450 gr di salmone \n\n450 gr di rigatoni \n\n1 cucchiaio di aglio, tagliato \n\n2 cucchiai di olio \n\n40 gr di basilico tagliato \n\nSale e pepe \n\n2 cucchiaio di succo di limone \n\n2 cucchiaini di capperi";
+"steps14" = "Cucinare la pasta secondo le istruzioni sul pacco. Nel frattempo, condire il salmone con sale e pepe e infornare a 190° per 15–20 minuti, a seconda dello spessore. Quando la pasta è cotta, scolare e aggiungere l’aglio, l’olio, il basilico e i condimenti. Aggiungere il succo e la buccia di un limone e i capperi, amalgamare bene. Buon appetito!";
+
+/* Meal-15 */
+"name15" = "Salmone glassato all’arancia";
+"ingredients15" = "•        150 gr di salmone\n•        ½ cucchiaio di marmellata d’arancia\n•        ½ cucchiaio di mostarda\n•        15 gr di succo d’arancia";
+"steps15" = "Mischiare la marmellata, la mostarda, un pizzico di zucchero e il succo d’arancia in una ciotola. Spalmare il mix sul salmone e cucinare per 3-4 minuti. Buon appetito!";
+
+/* Meal-16 */
+"name16" = "Omelette di spinaci e funghi";
+"ingredients16" = "1 cucchiaio di olio d’oliva \n\n½ cucchiaio di scalogno \n\n3 spicchi di aglio, tritati \n\n1 pacco di funghi bianchi affettati \n\n1 rametto di timo \n\n170 gr di spinacini freschi \n\nSale  \n\nPepe macinato \n\n8 uova grandi";
+"steps16" = "Scaldare la padella a fuoco medio–alto. Aggiungere olio alla padella. Aggiungere scalogno, aglio, funghi e timo. Infine, aggiungere gli spinaci e saltare finché il liquido non evapora. Combinare un pizzico di sale e pepe e 4 uova in una piccola ciotola, girare con la frusta. Rimettere la padella sul fuoco medio. Versare le uova e cuocere per 1 minuto. Alzare i bordi dell’omelette con una spatola, inclinando la padella per far scivolare l’uovo ancora crudo verso il fondo caldo. Buon appetito!";
+
+/* Meal-17 */
+"name17" = "Gamberi saporiti con erbe fresche";
+"ingredients17" = "450 gr di gamberi grandi \n\n2 peperoncini piccanti \n\n1 porro finemente tagliato \n\n1 cucchiaio di capperi, lavati e scolati \n\n2 spicchi di aglio, tagliato finemente \n\n30 gr di prezzemolo tagliato \n\n3 cucchiai di succo di limone \n\n3 cucchiai di olio d’oliva";
+"steps17" = "Collocare una padella su fuoco medio e aggiungere olio. Aggiungere i gamberi, i peperoncini, il porro, i capperi, l’aglio, il sale e il pepe. Cucinare per 4 minuti finché i gamberi non saranno rosa. Togliere dal fuoco. Aggiungere succo di limone, grattare il fondo della padella con un cucchiaio. Servire i gamberi con del basilico e del prezzemolo fresco. Buon appetito!";
+
+/* Meal-18 */
+"name18" = "Petto di pollo grigliato al limone";
+"ingredients18" = "3 cucchiai di succo di limone \n\n2 cucchiai di olio di oliva \n\n2 spicchi di aglio, tagliati finemente \n\n7 mezzi petti di pollo, (200 g) \n\n½ cucchiaino sale \n\n½ cucchiaio di pepe macinato fresco \n\nolio per la griglia";
+"steps18" = "Preparare il grill a temperatura medio alta. Combinare i primi 4 ingredienti in una busta di plastica grande e sigillare. Marinare in frigorifero per 30 minuti. Estrarre il pollo dalla busta e asciugare dalla marinatura. Spargere sul pollo il sale e il pepe. Collocare il pollo sulla griglia, su cui avrete passato l’olio in precedenza, grigliare su ogni lato finché avrete ultimato la cottura. Buon appetito!";
+
+/* Meal-19 */
+"name19" = "Pane d’avena con fragole, banana e noci";
+"ingredients19" = "150 gr di avena \n\n½ banana schiacciata \n\n50 gr di fragole \n\n2 cucchiai di latte di mandorle \n\n1 cucchiaio di estratto di vaniglia \n\n2 cucchiai di noci tritate \n\n1 bustina di stevia \n\nScorza di limone per guarnire \n\n1 cucchiaio di yogurt greco (2% di grassi) \n\n½ cucchiaio di noci tritate \n\nSemi di papavero";
+"steps19" = "Cucinare l’avena come da istruzioni della confezione, poi mettere da parte. Aggiungere tutti gli ingredienti in una ciotola, tranne le fragole, e mischiare bene. Sull’avena collocare le fragole. Guarnire con yogurt greco, noci tritate e semi di papavero. Buon appetito!";
+
+/* Meal-20 */
+"name20" = "Pollo teriyaki e broccoli";
+"ingredients20" = "500 grammi di broccoli \n\n1 grande petto di pollo, tagliato a cubetti \n\n1 cucchiaio di olio di oliva \n\nsale e pepe \n\n1 peperone a fettine \n\n450 gr di riso integrale cotto \n\n60 ml di salsa di soia \n\n2 cucchiaini di aceto di riso \n\n1 spicchio di aglio, tagliato fino \n\n½ cucchiaino di olio di sesamo \n\n¼ di cucchiaino di zenzero macinato";
+"steps20" = "Riscaldare in una grande padella a fuoco moderato. Aggiungere il pollo e condirlo con sale e pepe, cuocerlo finché non cambia colore. Mischiare gli altri ingredienti per la salsa teriyaki in una piccola ciotola. Aggiungere i broccoli e i peperoni. Dividere il pollo e i broccoli in 4  porzioni e collocarli in contenitori ermetici. Spolverare di semi di sesamo. Buon appetito!";
+
+/* Meal-21 */
+"name21" = "Pasta al pollo cremosa senza lattosio";
+"ingredients21" = "110 gr petto di pollo \n\n42 gr di pasta integrale \n\n¼ di cucchiaio di olio d'oliva \n\n75 ml di olio di cocco \n\n45 ml di brodo di pollo \n\n160 gr di asparagi \n\n½ limone \n\n¼ aglio \n\n⅓ di cucchiaio di basilico fresco";
+"steps21" = "Bollire e cuocere la pasta come da indicazioni, e mettere da parte. Condire il pollo con sale, pepe e origano. Aggiungere metà dell'olio d'oliva. Quando la padella è calda, cucinare il petto di pollo da entrambe le parti finché il pollo non sarà completamente cotto, poi rimuovere dalla padella. Aggiungere il brodo di pollo e il succo di limone. Lasciar cuocere per qualche minuto e aggiungere la pasta cucinata. Buon appetito!";
+
+/* Meal-22 */
+"name22" = "Hamburger di gamberi";
+"ingredients22" = "•        450 gr di gamberi crudi\n•        1 cucchiaio di olio d’oliva\n•        1 peperone rosso\n•        Cipolla \n•        Sale e pepe\n•        Panino senza glutine\n•        Avocado schiacciato\n•        Lattuga\n•        Pomodoro\n•        Germogli di soia";
+"steps22" = "Accendere il grill a 93°C. Aggiungere gli ingredienti dell’hamburger (tranne il peperone e la cipolla) in un frullatore e usare la funzione \"pulse\" finché i gamberi non saranno tritati. Collocare in una ciotola e aggiungere il peperone tagliato e la cipolla. Mettere gli hamburger su un grillo e cucinarli per 15-20 minuti, circa 8-10 minuti per lato. Buon appetito!";
+
+/* Meal-23 */
+"name23" = "Pollo BBQ con mostarda";
+"ingredients23" = "110 gr di petto di pello \n\nsale \n\npepe\n\nIngredienti per la salsa:\n\n31 gr di mostarda \n\n10,5 gr di miele \n\n15 ml aceto di mele \n\n¼ cucchiaino di paprika \n\n¼ cucchiaino di curcuma";
+"steps23" = "Accendere il grill a 200°C. In una ciotola mischiare gli ingredienti per la salsa. Condire il pollo con sale e pepe. Inserire i pezzi di pollo con degli stecchi per spiedini. Mettere il pollo sulla griglia e cucinare per altri 8 o 10 minuti finché il pollo non sarà completamente cotto. Buon appetito!";
+
+/* Meal-24 */
+"name24" = "Colazione con riso integrale";
+"ingredients24" = "•    4 uova\n•    1 cucchiaio di yogurt greco\n•    Sale \n•    Pepe\n•    Salsa di tabasco\n•    1 cucchiaio di burro\n•    250 gr di riso integrale da microonde\n•    ½ avocado a dadini\n•    1 pomodoro a dadini\n•    1 scalogno tagliato a fette sottili";
+"steps24" = "In una ciotola media sbattere le uova con lo yogurt greco, il sale, il pepe e la salsa piccante. In una padella media, sciogliere il burro. Aggiungere le uova e sbatterle. In una ciotola, aggiungere il riso integrale e poi ricoprirlo con le uova strapazzate, l’avocado, lo scalogno, i pomodori e la salsa piccante. Buon appetito!";
+
+/* Meal-25 */
+"name25" = "Pollo e asparagi saltati";
+"ingredients25" = "1 cucchiaio salsa di soia \n\n1 cucchiaio miele \n\n2 petti di pollo, tagliati a fettine \n\n1 cucchiaio olio d'oliva \n\n1 mazzetto di asparagi tagliati a tocchetti \n\n4 spicchi d'aglio, finemente affettati \n\n2 cucchiaini di olio di sesamo tostato";
+"steps25" = "In una busta per il congelato, mischiare la salsa di soia e il miele. Aggiungere il pollo e mischiare finché non sarà per imbevuto. Mettere in frigo finché non è pronto. Nel frattempo, riscaldare l'olio in una grande padella a fuoco medio. Rimuovere gli asparagi e mettere da parte. Rimuovere il pollo dalla marinatura, e aggiungere alla padella. Poi aggiungere in padella l'aglio, gli asparagi e la marinatura che avrete conservato. Togliere dal fuoco e aggiungere l'olio di semi di sesamo. Buon appetito!";
+
+/* Meal-26 */
+"name26" = "Manzo saltato con broccoli e peperoni";
+"ingredients26" = "500 gr di bistecca per tagliata affettata \n\n2 cucchiai di salsa di soia a basso contenuto di sodio \n\n1 cucchiaio di aglio tagliato finemente \n\n½ cucchiaio di pepe nero macinato \n\n¼ di cucchiaino di peperoncino schiacciato \n\n180 gr di broccoli \n\n2 cucchiai di olio di semi \n\n1 peperone rosso grande, tagliato in pezzi da 2 cm \n\n500 gr di riso già cotto a chicco lungo";
+"steps26" = "Tagliare la bistecca a metà. Tagliare ogni metà in fettine da circa un centimetro. Unire il manzo, la salsa di soia, l'aglio e il pepe nero, mischiare bene e mettere in frigo per 30 minuti. Unire ½ cucchiaio di acqua, salsa oyster e peperoncino in una piccola ciotola. Tagliare i fiori dei broccoli per lungo, in fette da mezzo centimetro. Cuocere i broccoli e i peperoni per 2 minuti. Buon appetito!";
+
+/* Meal-27 */
+"name27" = "Caffè di gamberi Cajun";
+"ingredients27" = "450 gr di gamberoni \n\n1 cucchiaio di olio d’oliva \n\nSale \n\nPepe \n\nBasilico fresco \n\nLimone \n\n25 gr di chicchi di caffè \n\n1 cucchiaio di paprika \n\n1 cucchiaio di cumino in polvere \n\n1 cucchiaio di pepe di cayenna";
+"steps27" = "Mettere tutti gli ingredienti secchi, compreso il caffè, in un frullatore. Tritare finché i semi non saranno semi macinati. Condire i gamberi con circa 5 cucchiaio e amalgamarli con 5 cucchiaio di olio d’oliva. Mischiare il tutto usando le mani e assicurandovi che i gamberi siano ben ricoperti. Quando la padella è cuocere i gamberi girando bene. Buon appetito!";
+
+/* Meal-28 */
+"name28" = "Cartocci di pesce con asparagi e pomodori";
+"ingredients28" = "•        1 mazzetto di asparagi\n•        2 pomodori a fette\n•        2 filetti di salmone (o tilapia)\n•        Olio d’oliva\n•        ½ cucchiaio di pasta d’aglio\n•        Sale\n•        1 limone tagliato";
+"steps28" = "Riscaldare il forno a 190°. In una piccola ciotola mischiare l’olio, l’aglio e il sale. Mettere gli asparagi al centro di un foglio di alluminio e ricoprire uniformemente con pomodori, poi condire. Mettere il filetto di pesce sui pomodori, uno per cartoccio, e ungere il pesce con olio d’oliva. Disporre le fette di limone sul pesce. Cuocere in forno per 25-30 minuti. Buon appetito.";
+
+/* Meal-29 */
+"name29" = "Scampi con spaghetti di zucchine";
+"ingredients29" = "•        1 zucchina\n•        ½ cucchiaino di burro\n•        150 gr di gamberetti pelati e puliti\n•        60 gr di pomodorini\n•        Un pizzico di peperoncino in fiocchi\n•        2 cucchiai di brodo di pollo\n•        Sale e pepe\n•        1 cucchiaio di parmigiano";
+"steps29" = "Usare lo strumento apposito per tagliare la zucchina e farne degli spaghetti. Sciogliere il burro in una pentola. Aggiungere i gamberi, i pomodori, l’aglio, uno scalogno e il peperoncino. Cucinare per 3 o 4 minuti finché i gamberi diventeranno rosa. Aggiungere il brodo di pollo e del limone. Quando inizia a bollire lievemente, aggiungere gli spaghetti di zucchini. Buon appetito!";
+
+/* Meal-30 */
+"name30" = "Avena con semi di Lino e Mirtilli";
+"ingredients30" = "700 ml di acqua \n\n500 gr di avena  \n\n3 cucchiai di semi di lino macinati \n\nun pizzico di sale \n\n¼ tazza di latte intero \n\n200 grdi mirtilli \n\n1 cucchiaio di marmellata di mirtilli \n\n½ tsp grated lemon rind \n\n1 cucchiaio di succo di limone";
+"steps30" = "Portare l’acqua ad ebollizione. Aggiungere l’avena, i semi di lino e il sale. Ridurre a fuoco medio–basso, cucinare finché non saranno morbidi, girare con frequenza. Versare nella pentola il latte e il burro. Intanto, unire i mirtilli e gli altri 4 ingredienti in una ciotola e cuocere al microonde alla massima potenza per 30 secondi. Dividere l’avena in 4 ciotole. Decorare con mirtilli e noci pecan. Buon appetito!";
+
+/* Meal-31 */
+"name31" = "Zuppa piccante di broccoli e manzo";
+"ingredients31" = "140 gr di bistecca di manzo magro \n\n130 gr di riso integrale \n\n91 gr di broccoli \n\n31 gr di peperone rosso tagliato fino \n\nPrezzemolo fresco \n\n1 lime \n\nPasta di peperoncino rosso \n\naglio";
+"steps31" = "Tagliare la bistecca in piccoli pezzi e condire con la pasta di peperoncino rosso e l’aglio fresco. Mettere una padella su fuoco medio e ungere con olio di cocco. Quando la padella è calda, adagiarvi sopra la carne e lasciate sigillare su un lato. Quando sarà sigillata, girare la carne e aggiungere i broccoli e i pezzi di peperone rosso. Girare il tutto, assicurandovi che tutti i lati della carne, dei broccoli e dei peperoni rossi siano cucinati. Buon appetito!";
+
+/* Meal-32 */
+"name32" = "Gamberi al lime agrodolci";
+"ingredients32" = "340 gr di gamberoni \n\n1 cucchiaio di olio di sesamo \n\n2 cucchiai di miele \n\n1 cucchiaio di pasta d’aglio \n\n1 cucchiaio di pasta di peperoncino \n\nSucco di mezzo lime";
+"steps32" = "In una busta mischiare tutti gli ingredienti. Marinare per almeno 20 minuti, poi cucinare. i padella. Buon appetito!";
+
+/* Meal-33 */
+"name33" = "Peperone rosso del sud";
+"ingredients33" = "•    150 gr di avena cotta\n•    1 peperone rosso\n•    1 cucchiaio di yogurt greco\n•    28 gr di mozzarella grattugiata\n•    1 cucchiaino di paprika\n•    ½ cucchiaino di cumino in polvere\n•    43 gr di fagioli neri scolati\n•    41 grammi di mais\n•    1 cucchiaio di yogurt greco\n•    Sale \n•    Pepe ";
+"steps33" = "Cucinare l’avena come da istruzioni. Mettere da parte. Accendere il fuoco a 200°. Affettare il peperone a metà e rimuovere i semi. Mettere le metà del peperone su una teglia antiaderente con le metà tagliate verso il basso. Cuocere in forno per almeno15 minuti o fino a che non saranno morbide. Poi mischiare insieme l’avena, lo yogurt greco, i fagioli, il mais, la paprika e il cumino. Condire con sale e pepe. Buon appetito!";
+
+/* Meal-34 */
+"name34" = "Insalata di fagioli neri con salsa di lime e cumino";
+"ingredients34" = "200 gr di sedano tagliato finemente \n\n150 gr di cipolla affettata \n\n425 gr di fagioli neri, lavati e scolati \n\n50 gr di succo di lime \n\n1 cucchiaino di olio d'oliva";
+"steps34" = "Per l'insalata, unire il sedano, la cipolla e i fagioli neri in una ciotola grande e mischiare bene. Combinare gli ingredienti per la salsa in una ciotola piccola, amalgamare bene con una frusta. Versare sui fagioli e girare. Buon appetito!";
+
+/* Meal-35 */
+"name35" = "Salmone grigliato del sud";
+"ingredients35" = "110 gr di salmone \n\n1 cucchiaio di olio d’oliva \n\n1 cucchiaio di paprika \n\nSale e pepe";
+"steps35" = "Accendere il forno a 190°. Condire i filetti e grigliarli per circa 15 minuti o secondo il vostro gusto. Buon appetito!";
+
+/* Meal-36 */
+"name36" = "Uova strapazzate e avena con banana e cannella";
+"ingredients36" = "2 uova \n\n3 bianchi d’uovo \n\n40 gr di avena istantanea \n\n1 banana \n\ncannella";
+"steps36" = "Sbattere le uova e i bianchi d’uovo in una ciotola. Condire con un po’ di sale e pepe. Aggiungere dell’olio in una padella e riscaldarla sul fornello. Aggiungere le uova. Girare delicatamente con una spatola finché le uova non saranno cotte e rimuovere dal fuoco. Poi preparare l’avena istantanea come da istruzioni. Girare bene e aggiungere la cannella per dare sapore. Buon appetito!";
+
+/* Meal-37 */
+"name37" = "Pollo Kung Pao piccante e leggero";
+"ingredients37" = "150 gr di petto di pollo \n\n1/6 di spicchio d’aglio \n\n33 gr di piselli \n\n150 gr di peperoni \n\n⅔ di cucchiaio di acqua \n\n⅓ di cucchiaio di pasta di pomodori \n\n1/6 di cucchiaio di zenzero fresco \n\n1/6 di cucchiaio di pasta di peperoncino rosso \n\n1/6 cucchiaio di aceto di riso \n\nCipollotto tagliato";
+"steps37" = "In una ciotola aggiungere gli ingredienti per la salsa e mischiare. Mettere la pentola su fuoco medio e ungere con olio d’oliva. Quando la pentola sarà calda, unire l’aglio e lasciar insaporire per circa 2 minuti. Poi aggiungere il pollo tagliato. Cucinare il pollo finché non sarà cotto all’esterno, per 6 o 8 minuti. Aggiungere i peperoni tagliati e lasciare cuocere per 3 minuti. Aggiungere lentamente la salsa che avete preparato precedentemente e mischiare con frequenza. Buon appetito!";
+
+/* Meal-38 */
+"name38" = "Spiedini piccanti di salmone e arancia";
+"ingredients38" = "150 gr di salmone \n\n27 gr di marmellata di arancia \n\n1/6 di cucchiaio di paprika \n\n1/6 di cucchiaio di zucchero di cocco \n\n⅓ di cucchiaino di Tabasco \n\n⅓ di succo di mandarino";
+"steps38" = "Affettare il salmone in 2 o 3 pezzi per gli spiedini. Marinare il salmone per circa 45 minuti. Cuocere in forno a 200° per 8–10 minuti. Buon appetito!";
+
+/* Meal-39 */
+"name39" = "Hamburger di salmone con avocado";
+"ingredients39" = "450 gr di filetti di salmone \n\n200 gr di pan grattato \n\n1 uovo \n\n1 cucchiaio di succo di limone \n\nSale e pepe \n\nOlio d’oliva \n\n1 avocado grande, tagliato \n\n90 gr di cipolla rossa tagliata \n\nIl succo di un lime";
+"steps39" = "Tagliare il filetto di salmone in piccoli pezzi e collocare in una ciotola. Versare delicatamente gli altri ingredienti. Lasciare riposare per 5–10 minuti. Riscaldare l’olio in una padella grande a fuoco medio. Formare degli hamburger con l’impasto. Cuocerli finché non saranno dorati su entrambi i lati, circa 4 minuti per lato. Buon appetito!";
+
+/* Meal-40 */
+"name40" = "Avena con Frutta";
+"ingredients40" = "125 gr di avena \n\n250 ml di acqua \n\n1 cucchiaio di miele \n\n1 cucchiaio di estratto di vaniglia \n\n½ cucchiaino di cannella macinata \n\n50 gr di mirtilli \n\n4 fragole tagliate \n\n½ banana, tagliata a fette";
+"steps40" = "Combinare l’acqua e l’avena in una ciotola e cuocere in microonde alla temperatura massima finché l’avena non avrà assorbito l’acqua. Aggiungere il miele, l’estratto di vaniglia e la cannella macinata. Aggiungere i mirtilli, la banana e le fette di fragola. Buon appetito!";
+
+/* Meal-41 */
+"name41" = "Smoothie kiwi, arancia e spinaci";
+"ingredients41" = "Una manciata generosa di spinaci \n\n2 kiwi \n\nUn mango \n\nSucco d’arancia";
+"steps41" = "Lavare gli spinaci e tagliare le parti dure. Pelare il mango e i kiwi e tagliare a piccoli pezzi. Mettere tutto in frullatore fino a raggiungere una consistenza cremosa. Buon appetito!";
+
+/* Meal-42 */
+"name42" = "Salmone Affumicato con Guacamole";
+"ingredients42" = "1 avocado \n\n57 gr di salmone affumicato \n\n17 gr di cipolla rossa tagliata \n\n2 cucchiai di coriandolo tagliato \n\n2 cucchiai di yogurt greco \n\nPepe";
+"steps42" = "Schiacciare l’avocado in una ciotola e mischiare con gli altri ingredienti. Condire con mostarda, cumino, succo di limone, yogurt greco e peperoncino secondo il vostro gusto. Buon appetito!";
+
+/* Meal-43 */
+"name43" = "Toast di avocado e uovo magro";
+"ingredients43" = "2 uova \n\n2 fette di pane tostato \n\n1 avocado piccolo \n\n1 cucchiaino di succo di lime \n\nSale  \n\nPepe  \n\nPrezzemolo";
+"steps43" = "Preparare i toast e friggere le uova a gusto personale. Pelare e schiacciare l’avocato con il succo di lime, il sale e il pepe. Spalmare l’avocado uniformemente sul toast e poi aggiungere un uovo su ogni fetta di pane, condire a piacimento. Buon appetito!";
+
+/* Meal-44 */
+"name44" = "Smoothie di mella dolci rosse pre allenamento";
+"ingredients44" = "1 mela rossa \n\n½ rapa rossa \n\n1 gambo di sedano \n\n3 fragole \n\n¼ di banana \n\nTè verde (facoltativo) \n\n41 gr di lamponi \n\n1 cucchiaino di zenzero (facoltativo)";
+"steps44" = "Aggiungi tutti gli ingredienti in un frullatore. Frulla semplicemente per circa 1 minuto per assicurarti di rimuovere tutti i pezzi, poi continua fino ad ottenere la cremosità desiderata. Buon appetito!";
+
+/* Meal-45 */
+"name45" = "Asparagi grigliati all'aglio con parmigiano";
+"ingredients45" = "500 gr di asparagi \n\n2 cucchiai di olio d'oliva \n\n2 cucchiai di parmigiano grattugiato \n\n2 spicchi d'aglio tritati \n\nSale e pepe";
+"steps45" = "Tagliare il fondo degli asparagi. Metterli in una padella e condirli con sale e pepe, versare anche l'olio d'oliva. Disporre gli asparagi sul grill in maniera ordinata. Grigliare per 5 o 10 minuti a fuoco medio finché non saranno cotti e morbidi. Buon appetito!";
+
+/* Meal-46 */
+"name46" = "Pesto fatto in casa con pasta gamberi e zucchine";
+"ingredients46" = "•        12 gr di basilico fresco\n•        7,5 gr di spinaci crudi\n•        7,5 gr di noci\n•        20 ml di olio d’oliva\n•        1 o 2 cucchiai di parmigiano\n•        10 ml di succo di limone\n•        ¼ di spicchio d’aglio\n•        sale\n•        pepe\n•        42 gr di gamberi cotti\n•        ¼ di zucchina\n•        2 pomodorini tagliati";
+"steps46" = "Mischiare gli ingredienti per il pesto nel frullatore finché non sono be amalgamati e cremosi. In una ciotola tagliare le zucchine a julienne. Aggiungere il pesto agli spaghetti di zucchine e mischiare delicatamente. Aggiungere i gamberi (si possono sostituire anche con del pollo) e, infine, aggiungere i pomodorini. Buon appetito.";
+
+/* Meal-47 */
+"name47" = "Avena speziata con frutti di bosco";
+"ingredients47" = "150 gr di avena \n\n49 gr di mirtilli \n\n50 gr di more \n\n3 cucchiai di noci tritate \n\n½ cucchiaio di olio di cocco \n\n¼ di cucchiaio di curcuma \n\n¼ di cucchiaio di spezie assortite \n\n1 pacchetto di stevia \n\n1 pizzico di cannella \n\n1 cucchiaio di muesli";
+"steps47" = "Cuocere l’avena come da istruzioni sulla confezione. Scaldare una padella antiaderente a fuoco medio, aggiungere olio di cocco. Far scaldare bene la padella. Aggiungere i frutti d bosco. Condirli con un pizzico di cannella e girare. Rimuovere dal fuoco e far rapprendere la salsa. Girare bene e aggiungere più cannella se necessario. Versare lo sciroppo caldo sull’avena. Guarnire con muesli fresco per aggiungere croccantezza. Buon appetito!";
+
+/* Meal-48 */
+"name48" = "Banana e pesca";
+"ingredients48" = "•    1 banana\n•    2 pesche\n•    125 ml di latte di mandorla alla vaniglia\n•    125 gr di cubetti di ghiaccio\n•    ¼ di cucchiaino di cannella\n•    Miele (facoltativo)";
+"steps48" = "Pelare e tagliare le pesche e la banana. Versare tutti gli ingredienti nel frullatore. Aggiungere il miele e frullare finché non sarà cremoso. Buon appetito!";
+
+/* Meal-49 */
+"name49" = "Pollo saltato con ananas";
+"ingredients49" = "110 gr di petto di pollo \n\n40 gr di ananas \n\n120 gr di riso integrale \n\n⅓ cucchiaio di olio d'oliva \n\n½ cucchiaino di mostarda \n\n1/6 cucchiaio di paprika affumicata \n\nsale \n\npepe";
+"steps49" = "Tagliare il petto di pollo crudo in piccoli pezzi. Condire i pezzi di pollo con la paprika e la mostarda. Aggiungere l'olio d'oliva in una padella e cuocere i pezzetti di pollo. Lasciare cuocere per almeno 4 minuti, finché non sarà quasi pronto, poi aggiungere un peperone tagliato a pezzi. Cucinare per altri 2 o 3 minuti prima di aggiungere l'ananas tagliata a cubetti. Buon appetito!";
+
+/* Meal-50 */
+"name50" = "Tè alle erbe";
+"ingredients50" = "•    1 tazza di acqua\n•    1 cucchiaino di zenzero macinato fresco\n•    1 cucchiaino di scorza di lime\n•    1 cucchiaino di succo di lime\n•    3 foglie di menta fresca";
+"steps50" = "Far bollire l’acqua e aggiungere il resto degli ingredienti. Lasciar bollire e girare finché il tè non sarà infuso.";
+
+/* Meal-51 */
+"name51" = "Omelette di pomodori e funghi";
+"ingredients51" = "4 bianchi d’uovo \n\n1 uovo intero \n\n125 gr di fiocchi di latte \n\n125 gr di funghi affettati \n\n125 gr di pomodori tagliati";
+"steps51" = "Unire le uova e sbattere leggermente. Usare una padella antiaderente con un filo d’olio per cucinare le uova. Aggiungere i fiocchi di latte, i funghi e i pomodori al centro dell’omelette. Cucinare finché le uova non saranno cotte e poi chiudere l’omelette. Buon appetito!";
+
+/* Meal-52 */
+"name52" = "Smoothie di spinaci con pera e zenzero";
+"ingredients52" = "•    700 gr di spinaci\n•    2 cucchiai di succo di limone\n•    2 cucchiai di zenzero\n•    2 pere\n•    Menta ";
+"steps52" = "Mischiare tutti gli ingredienti in un frullatore finché non saranno cremosi. Buon appetito!";
+
+/* Meal-53 */
+"name53" = "Mais Grigliato Messicano";
+"ingredients53" = "4 pannocchie \n\n1.5 tazze di panna \n\n200 gr di parmigiano grattugiato \n\nSucco di 1 lime \n\nPolvere di peperoncino rosso \n\n2 lime tagliati a spicchi, per guarnire";
+"steps53" = "Grigliare il mais girandolo sulla griglia calda finché non si brucia leggermente. In una piccola ciotola mischiare la maionese, la panna acida e il coriandolo. Spremere il lime sul mais e condire con parmigiano. Spolverare con polvere di peperoncino. Buon appetito!";
+
+/* Meal-54 */
+"name54" = "Ananas e kiwi";
+"ingredients54" = "4 cucchiai di acqua \n\n125 ml di latte \n\n125 ml di yogurt \n\n½ cucchiaio di miele \n\n1 kiwi sbucciato \n\n200 gr di pezzi di ananas \n\n½ mango \n\n2 cubetti di ghiaccio";
+"steps54" = "Mischiare tutto a bassa velocità nel frullatore finché non sarà denso e cremoso. Buon appetito!";
+
+/* Meal-55 */
+"name55" = "Tè verde agli agrumi e miele";
+"ingredients55" = "•    1 fetta di limone\n•    2 cucchiaini di tè verde in polvere\n•    ¾ di tazza di acqua calda\n•    ½ tazza di succo di pompelmo\n•    3 cucchiai di succo di limone\n•    1 cucchiaino di miele";
+"steps55" = "Mischiare insieme il tè verde e l’acqua calda. Aggiungere il pompelmo, il succo di limone e il miele. Girare bene e servire con una fetta di limone. Buon appetito!";
+
+/* Meal-56 */
+"name56" = "Spiedini di gamberi grigliati e avocado";
+"ingredients56" = "•        450 gr di gamberi grandi\n•        Mezzo avocado\n•        1 peperone rosso\n•        1 peperone arancione\n•        1 peperone giallo\n•        1 cipolla rossa\n•        1 cucchiaio di pasta d’aglio\n•        ½ cucchiaio di olio extra vergine\n•        1 lime\n•        Sale e pepe";
+"steps56" = "Mettere il grill a circa 200°- Tagliare le verdure e l’avocado a pezzi grandi per gli spiedini. Pelare i gamberi e condire. Scegliere dei vegetali fibrosi poiché riempiono di più e saranno più adatti allo spiedino. Mettere gli spiedini sul grill e cucinare per circa 8 o 10 minuti poi girarli e cucinare per altri 8 o 10 minuti. Buon appetito!";
+
+/* Meal-57 */
+"name57" = "Panino di pollo piccante grigliato e uova";
+"ingredients57" = "•    140 gr di petto di pollo crudo\n•    1 uovo\n•    30 gr di rucola\n•    ½ pomodoro\n•    1 cucchiaio di formaggio di capra\n•    Un panino integrale\n•    Olio di cocco\n•    1 cucchiaino di paprika\n•    ½ cucchiaino di pepe di cayenna\n•    Sale \n•    Pepe ";
+"steps57" = "Condire il petto di pollo con la paprika, il pepe di cayenna, il cumino, il sale marino e il pepe. Collocare un panino integrale in un toaster e cucinare secondo il vostro gusto. Ungete una padella con olio di cocco e mettetela su fuoco medio-alto. Aggiungete il petto di pollo alla padella e cucinate su entrambi i lati finché non sarà completamente cotto. Aggiungete la rucola, il pomodoro, il formaggio di capra, il pollo e, in fine, l’uomo. Buon appetito!";
+
+/* Meal-58 */
+"name58" = "Elisir oro brillante";
+"ingredients58" = "2 mele \n\n4 arance medie, sbucciate \n\n1 limone, sbucciato \n\n2 o 3 pezzi di zenzero sbucciato \n\n2 o 3 pezzi di curcuma fresca sbucciata \n\n450 ml di acqua fredda \n\n1 manciata di ghiaccio";
+"steps58" = "Frullare ad alta velocità tutti gli ingredienti fino a che non saranno cremosi, aggiungere acqua se necessario. Un buon frullatore potente vi permetterà di preparare un buon frullato. Se invece preferite fare un succo, fate pure, gli ingredienti avranno meno fibre ma non saranno meno buoni. Buon appetito!";
+
+/* Meal-59 */
+"name59" = "Rotolo di omelette con carne di manzo";
+"ingredients59" = "•    1 uovo\n•    3 bianchi d’uovo\n•    110 gr di macinato di manzo magro\n•    30 gr di spinaci crudi\n•    58 gr di peperoni\n•    14 gr di mozzarella grattugiata\n•    Aglio in polvere\n•    Cumino in polvere\n•    Sale \n•    Pepe ";
+"steps59" = "Condire e cucinare il manzo in una padella antiaderente. In una ciotola, sbattere le uova con un pizzico di sale e pepe. Prendere un’altra padella antiaderente e metterla su fuoco medio alto. Versare il misto di uova cuocere una frittata. Coprire la padella per permettere all’uovo di cucinarsi, in fine montare il rotolo. Buon appetito!";
+
+/* Meal-60 */
+"name60" = "Papaya";
+"ingredients60" = "2 papaye medie, senza semi e tagliate \n\n225 gr di lamponi \n\n¼ di un ananas piccola \n\nzenzero \n\n225 ml di latte \n\n2 cucchiai di yogurt greco \n\n125 gr di ghiaccio \n\nFrutti di bosco per decorare";
+"steps60" = "Mettere tutti gli ingredienti nel frullatore e frullare finché non sono cremosi. Buon appetito!";
+
+/* Meal-61 */
+"name61" = "Tè lavanda e menta";
+"ingredients61" = "•    40 gr di petali di lavanda freschi\n•    1 tazza di foglie di menta\n•    1 litro d’acqua";
+"steps61" = "Collocare i petali di lavanda e le foglie di menta nella pentola, versare l’acqua e portare a bollore. Abbassare la fiamma e lasciare sobbollire finché raggiungerà il sapore da voi desiderato, per circa 15 o 20 minuti. Buon appetito!";
+
+/* Meal-62 */
+"name62" = "Pasta di verdure con i gamberi";
+"ingredients62" = "170 gr di gamberetti \n\n1 zucchina \n\n2 carote \n\n½ spicchio d’aglio \n\n¼ di cipolla rossa tagliata a pezzetti \n\n1 cucchiaio di salsa di soia a basso contenuto di sodio \n\nIl succo di ¼ di arancia \n\n½ cucchiaio di olio di sesamo";
+"steps62" = "Tagliati gli zucchini e le carote a julienne per fare la pasta di verdure. Poi, aggiungere 1 cucchiaio di salsa di soia, un po’ di aceto di mele e il succo di ¼ di arancia. Infine, aggiungere l’olio di sesamo. Prendere una padella e metterla su fuoco medio e ungerla con olio di cocco. Far soffriggere l’aglio e la cipolla rossa. Aggiungere i gamberi alla padella e girare velocemente con un cucchiaio per assicurarvi che assorbano il sapore. Buon appetito!";
+

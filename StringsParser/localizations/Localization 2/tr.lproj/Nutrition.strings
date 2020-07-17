@@ -1,0 +1,381 @@
+
+//BUILD MUSCLE NUTRITION PLAN
+
+"Nutrition plan for building muscle" = "Nutrition plan for \n building muscle";
+"nutritionPlanDescription1" = "Muscle Strength and Size To stay \n consistent. Speed up metabolism";
+
+/* Day - 1 */
+"titleDay1" = "Everyone needs the three \n basics nutrients, carbohydrates,\n  proteins, and fats.";
+"descriptionDay1" = "Carbs supply the body with energy it needs to function. They are found almost exclusively in plan foods.";
+
+/* Day - 2 */
+"titleDay2" = "Protein is essential for growth \n and development. It provides \n the body with energy.";
+"descriptionDay2" = "Complete proteins are found in meat, fish, poultry, cheese, eggs, and milk.";
+
+/* Day - 3 */
+"titleDay3" = "Good fats are in fact, the most \n concentrated source of energy \n available to the body.";
+"descriptionDay3" = "By choosing the healthiest forms of each of these nutrients and eating them in the proper balance.";
+
+/* Day - 4 */
+"titleDay4" = "The saying \"You are what you eat\" is \n literally true.If you want your body \n to perform at a peak level.";
+"descriptionDay4" = "Choose red, orange, and dark-green vegetables like tomatoes, sweet potatoes, and broccoli, along with other vegetables for your meals.";
+
+/* Day - 5 */
+"titleDay5" = "Maximum amount of added sugars \n you should eat in a day: 37.5 \n grams or 9 teaspoons. ";
+"descriptionDay5" = "Fructose causes insulin resistance and raises insulin levels in the body, which increases the deposition of fat in the fat cells.";
+
+/* Day - 6 */
+"titleDay6" = "Water is an essential nutrient \n that is involved in every \n function of the body.";
+"descriptionDay6" = "Our organs, muscle, and bones all have water in them and need water to function properly.";
+
+/* Day - 7 */
+"titleDay7" = "Your body’s health reflects \n what you put into it.";
+"descriptionDay7" = "When combined with physical activity, a healthy diet can help people keep a healthy weight and reduce risk of chronic diseases. ";
+
+
+//WEIGHT LOSS NUTRITION PLAN
+
+"Nutrition plan for weight loss" = "Nutrition plan for \n weight loss";
+"nutritionPlanDescription2" = "Learn what to eat, discover \n fat burning foods";
+
+/* Day - 8 */
+"titleDay8" = "Enjoyment of a healthy diet can \n also be one of the great cultural \n pleasures of life.";
+"descriptionDay8" = "We need a wide variety of different foods to provide the right amounts of nutrients for good health.";
+
+/* Day - 9 */
+"titleDay9" = "Eliminate emotional eating by \n healing your hungry heart.";
+"descriptionDay9" = "Nutrition plays a key role in maintaining a healthy lifestyle.";
+
+/* Day - 10 */
+"titleDay10" = "Morning workout is better \n for weight loss";
+"descriptionDay10" = "In the morning, before you’ve eaten, your body is forced to utilize it's fat stores for energy.";
+
+/* Day - 11 */
+"titleDay11" = "Try Interval Training because it can \n end up burning more calories in less \n time than your regular workout.";
+"descriptionDay11" = "All you have to do is step up your intensity and train in short bursts instead of going steady for the entire workout.";
+
+/* Day - 12 */
+"titleDay12" = "Consistency in exercise is the \n key to real results and real health benefits.";
+"descriptionDay12" = "To speed up the metabolism and to help recuperate from your training, try to eat 5-6 small meals per day";
+
+/* Day - 13 */
+"titleDay13" = "Studies show that breakfast can \n be important in maintaining a \n health body weight.";
+"descriptionDay13" = "To keep your metabolism running strong, you must eat your fist meal within 1 hour of rising.";
+
+/* Day - 14 */
+"titleDay14" = "We recommend doing your cardio \n first thing in the morning, \n 30 minutes plus, before breakfast.";
+"descriptionDay14" = "Cardiovascular activity is necessary to keep the metabolism roaring and help you burn some extra calories.";
+
+
+//MEALS
+
+/* Meal-1 */
+"name1" = "Limonlu Dijon Hardallı Izgara Tavuk But ve Roka Salatası";
+"ingredients1" = "4 derisi ve kemikleri alınmış tavuk but  \n\n½ çay kaşığı tuz  \n\n¼ çay kaşığı toz karabiber  \n\n2.5 yemek kaşığı zeytinyağı  \n\n2 çay kaşığı limon suyu  \n\n1 çay kaşığı kıyılmış sarımsak \n\npişirme spreyi  \n\n1 yemek kaşığı balzamik sirke  \n\n1 çay kaşığı bal \n\n1 su bardağı ikiye kesilmiş şeker domates  \n\n1 paket (140 gr) bebek roka";
+"steps1" = "Tavuğun üzerine ¼ çay kaşığı tuz ve 1/8 çay kaşığı pul biber serpin. Bir kase içerisine tavuk, 1–1.5 çay kaşığı yağ, limon suyu, hardal ve sarımsağı ekleyip karışması için sallayın. 4 dakika boyunca bekletin. Izgara tavasını orta ateşte ısıtın. Pişirme spreyi sıkın. Tavuğu tavaya ekleyip, her bir yüzünü 5 dakika boyunca veya tamamen pişene kadar pişirin. Tavuğu 6 mm kalınlığında dilimler halinde kesin. Afiyet olsun!";
+
+/* Meal-2 */
+"name2" = "Tso’nun Wokta Kızarmış Tavuğu";
+"ingredients2" = "4 küp küp doğranmış tavuk göğsü  \n\n1 su bardağı un  \n\nbitkisel sıvıyağ \n\ntuz \n\ntaze toz karabiber  \n\n2 diş kıyılmış sarımsak  \n\n½ kutu tavuk suyu  \n\n3 yemek kaşığı bal \n\n4 yemek kaşığı soya sosu  \n\n2 yemek kaşığı misket limonu suyu  \n\n2 kutu brokolinin sadece çiçekçikleri  \n\n2 kutu pişmiş beyaz pirinç, servis için";
+"steps2" = "Geniş bir kase içerisinde tavuğu hafifçe mısır nişastasına daldırın. Parçaları unla kaplı geniş bir kaseye alın ve una bulanması için kaseyi hafif sallayın ve bir kenara koyun. Geniş, derin bir tavayı ½  bitkisel sıvıyağla doldurun ve ocağı orta–yüksek ateşe ayarlayın. Tavuğu çeşnilendirip, suyunu süzün ve bir kenara koyun. 2 yemek kaşığı mısır nişastasını ekleyip, dağılması için karıştırın. Sosa brokoli ve havuçları ekleyin ve 5 dakika boyunca yumuşayıncaya kadar pişirin. Afiyet olsun!";
+
+/* Meal-3 */
+"name3" = "Portakal, Bal ve Sriracha Soslu Tavuk";
+"ingredients3" = "0.1 kg tavuk göğsü  \n\n1/8 yemek kaşığı susam yağı  \n\n12.5 gr Sriracha sosu  \n\ntuz  \n\npul biber";
+"steps3" = "Izgaranızı veya fırınınızı 190 dereceye ayarlayın. Kapanabilir plastik bir poşet içerisine terbiye malzemelerini ekleyip iyice karıştırın. Terbiye karışımının tadına bakıp, damak zevkinize göre çeşnilendirin. Tavuğu terbiye karışımına ekleyip, en az 30 dakika boyunca buzdolabında bekletin. Ardından tavuğu buzdolabından çıkarıp ızgaraya yerleştirin. Tavuğun suyu berraklaşıncaya kadar yaklaşık 15–20 dakika boyunca ızgaralayın. Afiyet olsun!";
+
+/* Meal-4 */
+"name4" = "Ballı Hardallı Somon Topları";
+"ingredients4" = "•    56 gr deniz somonu\n•    1/8 yemek kaşığı sarımsak macunu\n•    7 gr doğranmış kırmızı biber\n•    1 yemek kaşığı doğranmış kişniş\n•    1/8 yumurta\n•    1/8 yumurtanın akı\n•    0.06 dolmalık biber\n•    tuz\n•    pul biber\n•    0.2 çay kaşığı zencefil\n•    1/8 yemek kaşığı tavuk suyu";
+"steps4" = "Fırınınızı 200 dereceye ayarlayın. Somonu çeşnilendirip, fırında pişirin ve çatalla pişip pişmediğini kontrol edin. Somonu bir kase içerisine alıp çatalla ufalayın. Sos hariç tüm malzemeleri ekleyip karıştırın. Somonu fırında 7 dakika boyunca pişirin. Farklı bir kase içerisinde hardallı sos malzemelerini karıştırın. Afiyet olsun!";
+
+/* Meal-5 */
+"name5" = "Limonlu Dijon Hardallı Izgara Tavuk But ve Roka Salatası";
+"ingredients5" = "4 derisi ve kemikleri alınmış tavuk but  \n\n½ çay kaşığı tuz  \n\n¼ çay kaşığı toz karabiber  \n\n2.5 yemek kaşığı zeytinyağı  \n\n2 çay kaşığı limon suyu  \n\n1 çay kaşığı kıyılmış sarımsak \n\npişirme spreyi  \n\n1 yemek kaşığı balzamik sirke  \n\n1 çay kaşığı bal \n\n1 su bardağı ikiye kesilmiş şeker domates  \n\n1 paket (140 gr) bebek roka";
+"steps5" = "Tavuğun üzerine ¼ çay kaşığı tuz ve 1/8 çay kaşığı pul biber serpin. Bir kase içerisine tavuk, 1–1.5 çay kaşığı yağ, limon suyu, hardal ve sarımsağı ekleyip karışması için sallayın. 4 dakika boyunca bekletin. Izgara tavasını orta ateşte ısıtın. Pişirme spreyi sıkın. Tavuğu tavaya ekleyip, her bir yüzünü 5 dakika boyunca veya tamamen pişene kadar pişirin. Tavuğu 6 mm kalınlığında dilimler halinde kesin. Afiyet olsun!";
+
+/* Meal-6 */
+"name6" = "Çili Fajita";
+"ingredients6" = "325 gr derisi alınmış tavuk göğsü  \n\n½ ince dilimlenmiş yeşil, kırmızı ve sarı dolmalık biber  \n\n⅓ su bardağı su \n\n2 çay kaşığı soya sosu  \n\n1 tutam tuz  \n\n1 tutam karabiber \n\n2 yemek kaşığı zeytinyağı  \n\n1 ince doğranmış soğan";
+"steps6" = "Tüm terbiye malzemelerini bir kap içerisinde tavukla karıştırıp, en az 2 saat boyunca buzdolabında bekletin. Eti terbiye karışımından çıkarıp, her iki yüzünü orta ateşte yaklaşık 4–5 dakika boyunca ızgarada pişirin. Eti ince şeritler halinde kesin. Sos için 2 yemek kaşığı su, 1 çay kaşığı soya sosu, ¼ çay kaşığı misket limonu suyunu, bir tutam tuz ve karabiber ile 1 yemek kaşığı zeytinyağını ekleyip karıştırın. Afiyet olsun!";
+
+/* Meal-7 */
+"name7" = "Hindi ve Sebzeli Omlet Dürüm";
+"ingredients7" = "1 yumurta \n\n4 yumurta akı \n\n85 gr pişmiş yağsız hindi kıyması  \n\n1 avuç çiğ ıspanak  \n\n58 gr dolmalık biber \n\n8 gr keçi peyniri";
+"steps7" = "Yağsız hindi kıymasını terbiye edip, tavada pişirin. Yumurtaları ayrı bir tavada pişirin. Keçi peyniri, ıspanak, dolmalık biber ve hindi kıymasını ekleyin. Hafif soğumaya bırakın ve ardından alüminyum folyoya sarın. Afiyet olsun!";
+
+/* Meal-8 */
+"name8" = "Wokta Kızarmış Narenciye Soslu Tavuk";
+"ingredients8" = "•    140 gr küçük parçalara doğranmış tavuk göğsü\n•    34 gr bebek brokoli\n•    25 gr bebek portobello mantarı\n•    1/4 kırmızı dolmalık biber\n•    20 gr kırmızı soğan\n•    hindistan cevizi yağı spreyi\n•    susam tohumları\n•    1/4 çay kaşığı ararot nişastası\n•    1/8 yemek kaşığı sarımsak macunu\n•    1/4 çay kaşığı zencefil macunu";
+"steps8" = "Bir kase içerisinde wokta pişirilecek sosun tüm malzzemelerini karıştırın. Tavayı hindistan cevizi yağıyla spreyleyin ve ocağı orta ateşe ayarlayın. Tavuk parçalarını ekleyin ve yaklaşık %85 pişmiş hale gelinceye dek pişirin. Ardından sebzeleri ekleyin ve bir spatulayla karıştırın. Afiyet olsun!";
+
+/* Meal-9 */
+"name9" = "Tatlı Çili Somon";
+"ingredients9" = "1 somon fileto \n\ntuz  \n\nkarabiber  \n\n1 çay kaşığı yağ \n\n4 yemek kaşığı tatlı çili sos  \n\n1.5 çay kaşığı misket limonunun suyu \n\n½ çay kaşığı beyaz susam";
+"steps9" = "Somonu tuz ve pulbiberle çeşnilendirin. Çili sos, misket limonu suyu, susam ve kişniş yapraklarını iyice karıştırın. Tavayı orta ateşte ısıtın ve bir miktar yağ ekleyin. Pişene kadar somonun her iki yüzünü mühürleme yöntemiyle pişirin. Afiyet olsun!";
+
+/* Meal-10 */
+"name10" = "Kuşkonmazlı Barbekü Soslu Tavuk Sarması";
+"ingredients10" = "2 ince kesilmiş tavuk göğsü, her biri 85 gr  \n\n12 dal kuşkonmaz  \n\n2 yemek kaşığı barbekü sos \n\n1 tutam tütsülenmiş tatlı kırmızıbiber  \n\n1 tutam sarımsak tozu  \n\n1 tutam pul biber";
+"steps10" = "Fırınınızı 200 dereceye ayarlayın. Tavuğu bir tokmakla düzleştirin. Tavuk parçalarını birer yemek kaşığı barbekü sos ve dilediğiniz baharatlarla çeşnilendirin. Tavuğu aşağı bakacak şekilde ızgaraya yerleştirin. Fırında pişirin veya ızgarada yaklaşık 8–10 dakika kadar fümeleyin. Afiyet olsun!";
+
+/* Meal-11 */
+"name11" = "Yumurta Akı, Kuşkonmazlı Esmer Pirinç ve Kinoalı İtalyan Omleti";
+"ingredients11" = "6 yumurta akı \n\n2 dal kuşkonmaz  \n\n120 gr pişmiş esmer pirinç ve kinoa karışımı \n\n1 küçük tatlı dolmalık biber \n\nsarımsak tozu \n\npul biber \n\ntuz \n\n½ pembe greyfurt";
+"steps11" = "Fırınınızı 200 dereceye ayarlayın. Tavaya zeytinyağı serpin. Pişmiş esmer pirinç ve kinoayı tavaya ekleyin. Yumurta aklarına dökün. Kuşkonmaz şeritlerini ve dolmalık biber dilimlerini ekleyin. 15 dakika kadar fırında pişirin. Afiyet olsun!";
+
+/* Meal-12 */
+"name12" = "Akdeniz Yunan Kaşık Salatası (Wrap)";
+"ingredients12" = "1 tam tahıllı undan yapılmış 25 cm boyutunda tortilla  \n\n140 gr pişmiş tavuk göğsü    \n\n3 marul yaprağı  \n\n4 yemek kaşığı taze fesleğen  \n\n50 gr kırmızı soğan  \n\n50 gr salatalık  \n\n5 adet ikiye bölünmüş çeri domates  \n\n⅓ limon \n\n3/4 yemek kaşığı zeytinyağı \n\n⅓ çay kaşığı sarımsak  \n\ntuz \n\npul biber";
+"steps12" = "Bir kase içerisinde limonlu salata sosu için malzemeleri karıştırın, tuz ve pul biberle çeşnilendirip bir karıştırma kabına ekleyin. Ardından 1 porsiyonluk limonlu salata sosu ekleyin. Salatayı bir spatulayla karıştırın ve bir bölümünü tam tahıllı tortillaya koyun. Afiyet olsun!";
+
+/* Meal-13 */
+"name13" = "Muzlu Cevizli Yulaf";
+"ingredients13" = "½ su bardağı yulaf ezmesi \n\n1 su bardağı su \n\n1 dilimlenmiş muz \n\n1 yemek yaşığı kıyılmış ceviz \n\n1 çay kaşığı toz tarçın";
+"steps13" = "Yulaf ve 1 su bardağı suyu küçük bir mikrodalga kasesi içerisine ekleyip karıştırın. 3 dakika boyunca yüksek ayarda mikrodalgada pişirin. Üzerini muz dilimleri, ceviz ve tarçınla süsleyin. Afiyet olsun!";
+
+/* Meal-14 */
+"name14" = "Somonlu, Limonlu ve Sarımsaklı Hafif Makarna";
+"ingredients14" = "325 gr somon fileto \n\n450 gr rigatoni (kalem makarna)/makarna \n\n1 çay kaşığı kıyılmış sarımsak  \n\n2 yemek kaşığı zeytinyağı  \n\n½ su bardağı doğranmış fesleğen yaprağı  \n\ntuz ve pul biber  \n\n2 yemek kaşığı limon suyu \n\n2 çay kaşığı kapari";
+"steps14" = "Makarnayı pakette belirtilen talimatlara göre pişirin. Bu arada somonu tuz ve pul biberle çeşnilendirip, kalınlığına bağlı olarak 15–20 dakika boyunca 175 derecede pişirin. Makarna piştiğinde suyunu süzüp üzerine sarımsak, zeytinyağı, fesleğen ve baharatları ekleyin. Limon suyu, limon kabuğu rendesi ve kapariyi makarnaya ekleyip karışması için sallayın. Afiyet olsun!";
+
+/* Meal-15 */
+"name15" = "Portakallı Somon";
+"ingredients15" = "•    150 gr somon\n•    1/2 yemek kaşığı portakal marmelatı\n•    1/2 yemek kaşığı hardal\n•    1/6 portakalın suyu";
+"steps15" = "Marmelat, hardal, şeker ve portakal suyunu bir kase içerisinde karıştırın. Karıştırdığınız malzemeleri somon üzerine sürün ve somon gevrekleşinceye dek 3-4 dakika kadar pişirin. Afiyet olsun!";
+
+/* Meal-16 */
+"name16" = "Mantar ve Ispanaklı Omlet";
+"ingredients16" = "1 yemek kaşığı zeytinyağı  \n\n½ su bardağı doğranmış arpacık soğan  \n\n3 diş rendelenmiş sarımsak  \n\n1 paket (225 gr) dilimlenmiş beyaz mantar  \n\n1 dal kekik \n\n170 gr taze bebek ıspanak  \n\ntuz \n\ntoz karabiber \n\n8 büyük yumurta";
+"steps16" = "Orta–yüksek ateşte tavayı ısıtın. Arpacık soğan, sarımsak, mantar ve kekiği ekleyin. Ispanağı ekleyin ve suyu neredeyse tamamen buharlaşana kadar soteleyin. Küçük bir kase içerisinde bir tutam tuz, pul biber ve 4 yumurtayı çırparak karıştırın. Tavayı orta ateşe getirin. Yumurta karışımını ekleyin ve 1 dakika boyunca pişirin. Omletin kenarlarını bir spatulayla kaldırın, tavayı sallayın ters yüz edin ve yumurtanın pişmeyen kısmının tavanın yüzeyine gelmesini sağlayın. Afiyet olsun!";
+
+/* Meal-17 */
+"name17" = "Taze Baharatlı Karides";
+"ingredients17" = "450 gr büyük boy karides  \n\n2 acı kırmızı biber  \n\n1 ince dilimlenmiş pırasa  \n\n0.5–1 yemek kaşığı yıkanmış ve süzülmüş kapari  \n\n2 diş ince doğranmış sarımsak  \n\n½ su bardağı kalın doğranmış maydanoz  \n\n3 yemek kaşığı limon suyu \n\n2 yemek kaşığı zeytinyağı";
+"steps17" = "Sote tavasını orta ateşe koyup, yağ ekleyin. Karides, biber, pırasa, kapari, sarımsak, tuz ve pul biberi ekleyip, karidesler pembeleşinceye kadar 4 dakika boyunca pişirip ocaktan alın. Limon suyu ekleyin, tavanın dibini kaşıklı sıyırın. Karidesleri üzerine maydanoz ve fesleğen serpiştirip servis edin. Afiyet olsun!";
+
+/* Meal-18 */
+"name18" = "Limonlu Izgara Tavuk Göğsü";
+"ingredients18" = "3 yemek kaşığı limon suyu  \n\n2 yemek kaşığı zeytinyağı  \n\n2 diş kıyılmış sarımsak  \n\n170 gramlık 7 parça ikiye bölünmüş tavuk göğsü  \n\n½ çay kaşığı tuz \n\n½ çay kaşığı taze toz karabiber  \n\npişirme spreyi";
+"steps18" = "Izgarayı orta–yüksek ateşe ayarlayın. İlk 4 malzemeyi geniş bir plastic poşete koyup ağzını kapatın. 30 dakika boyunca buzdolabında marine edin. Tavuğu poşetten çıkarıp, üzerindeki terbiye karışımını giderin. Tavuğun her yerine tuz ve karabiber serpin. Tavuğu pişirme spreyiyle yağlanmış ızgara telinin üzerine yerleştirin, her iki tarafını pişene kadar ızgaralayın. Afiyet olsun!";
+
+/* Meal-19 */
+"name19" = "Çilek, Muz, Ceviz ve Yulaflı Kek";
+"ingredients19" = "150 gr pişmiş yulaf ezmesi  \n\n½ muz püresi \n\n50 gr çilek \n\n2 yemek kaşığı badem sütü \n\n1 yemek kaşığı vanilya özütü \n\n2 yemek kaşığı kıyılmış ceviz \n\nbir paket \"In The Raw\" marka stevia  \n\nLimon kabuğu rendesi \n\n1 yemek kaşığı süzme yoğurt (%2 yağlı) \n\n½ yemek kaşığı kıyılmış badem \n\nhaşhaş tohumları";
+"steps19" = "Yulaf ezmesini talimatlara göre pişirin ve bir kenara koyun. Çilek hariç tüm malzemeleri bir kasenin içerisine koyun ve iyice karıştırın. Yulafın üzerini yeni doğranmış çileklerle süsleyin. Süzme yoğurdu, kıyılmış ceviz ve haşhaş tohumlarıyla çeşnilendirin. Afiyet olsun!";
+
+/* Meal-20 */
+"name20" = "Teriyaki Tavuk ve Brokoli";
+"ingredients20" = "2 su bardağı brokoli çiçekçiği \n\n1 küp küp doğranmış büyük tavuk göğsü  \n\n1 yemek kaşığı yağ \n\ntuz ve pul biber \n\n1 dilimlenmiş dolmalık biber  \n\n2 su bardağı pişmiş esmer pirinç  \n\n¼ su bardağı light soya sos  \n\n2  yemek kaşığı pirinç şarabı sirkesi  \n\n1 diş kıyılmış sarımsak \n\n½ çay kaşığı susam yağı \n\n¼ çay kaşığı toz zencefil";
+"steps20" = "Geniş bir tavayı orta–yüksek ateşte ısıtın. Tavuğu ekleyin, tuz ve pul biberle çeşnilendirin ve pembeliği gidene dek pişirin. Teriyaki sos için tüm malzemeleri küçük bir kase içerisinde çırpın. Brokoli çiçekçiklerini ve dolmalık biberi tavaya ekleyin. Tavuk ve brokoliyi 4 adet bölmeli yemek kabına paylaştırın. Üzerine susam tohumu serpin ve ağzını kapatın. Afiyet olsun!";
+
+/* Meal-21 */
+"name21" = "Kremalı Sütsüz Tavuklu Makarna";
+"ingredients21" = "110 gr tavuk göğsü  \n\n42 gr tam tahıllı makarna  \n\n¼ yemek kaşığı zeytinyağı  \n\n75 ml %2 yağlı hindistan cevizi sütü  \n\n45 ml tavuk suyu \n\n160 gr kuşkonmaz  \n\n½ limon  \n\n¼ diş sarımsak  \n\n1.3 yemek kaşığı taze maydanoz";
+"steps21" = "Makarnayı talimatlara göre haşlayarak pişirin ve bir kenara kaldırın. Tavuğu tuz, pul biber ve kekikle çeşnilendirin. Zeytinyağının yarısını tavaya ekleyip, ocağı orta ateşe ayarlayın. Tava ısındığında, tavuk tamamen pişene kadar tavuk göğsünü pişirin ve tavadan alın. Tavuk suyu ve limon suyunu ekleyin. Birkaç dakika daha kısık ateşte pişirin ve üzerine pişmiş makarnayı ekleyin. Afiyet olsun!";
+
+/* Meal-22 */
+"name22" = "Karides Burger";
+"ingredients22" = "•    450 gr çiğ karides\n•    1 yemek kaşığı zeytinyağı\n•    1 kırmızı dolmalık biber\n•    yeşil soğan\n•    tuz, pul biber\n•    glutensiz sandviç ekmeği\n•    avokado püresi\n•    marul\n•    domates\n•    Brüksel lahanası";
+"steps22" = "Izgara sıcaklığını 93 dereceye ayarlayın. Burger malzemelerini (dolmalık biber ve yeşil soğan hariç) blendera ekleyip, karidesler kıyma haline gelinceye kadar blenderın düğmesine basılı tutun. Ardından bir kase içerisine alıp, doğranmış dolmalık biberi ve yeşil soğanı ekleyin. Ardından burgerleri ızgaraya koyup her bir yüzü 8-10’ar dakika olmak üzere yaklaşık 15-20 dakika boyunca pişirin. Afiyet olsun!";
+
+/* Meal-23 */
+"name23" = "Barbekü ve Hardallı Tavuk";
+"ingredients23" = "110 gr tavuk göğsü  \n\ntuz \n\npul biber  Sos malzemeleri\n\nSos Malzemeleri:\n\n31 gr hardal   \n\n10.5 gr bal  \n\n15 ml elma sirkesi  \n\n¼ çay kaşığı tütsülenmiş tatlı kırmızıbiber  \n\n¼ çay kaşığı zerdeçal";
+"steps23" = "Izgarayı 200 dereceye ısıtın. Sos malzemelerini bir kase içerisinde karıştırın. Tavuk parçalarını tuz ve pul biberle çeşnilendirin. Parçaları tahta kebap şişlerine dizin. Tavuğu ızgaraya koyun ve yaklaşık 10–12 dakika boyunca pişirin. Ardından fırçayla tavuğa sosu sürün ve 8–10 dakika kadar daha tavuk tamamen pişene kadar pişirin. Afiyet olsun!";
+
+/* Meal-24 */
+"name24" = "Esmer Pirinçli Kahvaltı Tabağı";
+"ingredients24" = "•    4 yumurta\n•    1 yemek kaşığı süzme yoğurt (%2 yağlı)\n•    tuz\n•    pul biber\n•    Tabasco sosu\n•    1 yemek kaşığı tereyağı\n•   250 gr mikrodalgada pişirilebilen esmer pirinç\n•    1/2 küp küp kesilmiş avokado\n•    1 küp küp kesilmiş roma domatesi\n•    1 ince doğranmış taze soğan";
+"steps24" = "Orta boy bir kase içerisinde yumurtaları süzme yoğurt, tuz, pul biber ve acı sosla birlikte çırpın. Orta boy bir tavada tereyağını eritin. Yumurtaları ekleyip, yağda pişirin. Servis kasesi içerisinde esmer pirinci ekleyin ve üzerine yağda yumurta, avokado, taze soğan, domates ve acı sosu ekleyin. Afiyet olsun!";
+
+/* Meal-25 */
+"name25" = "Wokta Kızarmış Tavuk ve Kuşkonmaz";
+"ingredients25" = "1 yemek kaşığı soya sosu  \n\n1 yemek kaşığı bal \n\n2 doğranmış tavuk göğsü  \n\n1 yemek kaşığı zeytinyağı  \n\n1 demet doğranmış kuşkonmaz  \n\n4 diş ince dilimlenmiş sarımsak  \n\n2 çay kaşığı kavrulmuş susam yağı";
+"steps25" = "Kilitli bir poşet içerisinde soya sosu ve balı karıştırın. Tavuğu ekleyip, sosla kaplanması için karıştırın. Hazır olana dek buzdolabında bekletin. Bu arada, geniş bir tavayı orta ateşte ısıtın. Kuşkonmazı ayırıp bir kenara koyun. Üzerindeki terbiye sosunu giderdikten sonra tavuğu tavaya ekleyin. Ardından sarımsak, taze soğan ve bir kenara ayırdığınız terbiye sosunu tavaya ekleyin. Tavayı ateşten alın ve susam yağı ekleyip karıştırın. Afiyet olsun!";
+
+/* Meal-26 */
+"name26" = "Brokoli ve Dolmalık Biberli Wokta Kızarmış Sığır Eti";
+"ingredients26" = "325 gr temizlenmiş pançeta  \n\n2 yemek kaşığı düşük sodyumlu soya sosu  \n\n1 çay kaşığı kıyılmış sarımsak  \n\n½ çay kaşığı toz karabiber  \n\n¼ çay kaşığı pul biber  \n\n250 gr brokoli  \n\n2 yemek kaşığı kanola yağı  \n\n2,5 cmlik parçalara doğranmış 1 büyük kırmızı dolmalık biber  \n\n4 su bardağı pişmiş uzun taneli pirinç";
+"steps26" = "Pançetayı ikiye kesin. Her iki yarım pançetayı 3 mm kalınlığında dilimler oluşturacak şekilde diklemesine kesin. Sığır eti, soya sosu, sarımsak ve karabiberi iyice karıştırıp 30 dakika boyunca buzdolabında bekletin. ½ yemek kaşığı su, istiridye sosu ve pul biberi küçükbir kaseye ekleyip bir kenara koyun. Brokoliyi çiçekçiklerine ayırın, saplarını 6 mm kalınlığında dilimler elde edecek şekilde köşegen olarak kesin. Brokoliyi 2 dakika pişirin. Afiyet olsun!";
+
+/* Meal-27 */
+"name27" = "Kajun Aromalı Kahveli Karides";
+"ingredients27" = "450 gr jumbo karides  \n\n1 yemek kaşığı zeytinyağı  \n\ntuz   \n\npul biber \n\ntaze maydanoz \n\nlimon \n\n25 gr kahve çekirdeği  \n\n1 yemek kaşığı tütsülenmiş tatlı kırmızıbiber  \n\n1 çay kaşığı toz kimyon  \n\n1 çay kaşığı acı kırmızıbiber";
+"steps27" = "Cup o' Joe Rub malzemelerini yüksek güçlü blendera koyun. Kahve çekirdekleri yarı harmanlanana kadar karıştırın. Karidesi 5 yemek kaşığı Rub karışımıyla çeşnilendirip, zeytinyağı ekleyin. Ellerinizi kullanarak karıştırın ve karidesin tamamının üzerinin kaplanmasını sağlayın. Tava ısınınca karidesi ekleyin. Afiyet olsun!";
+
+/* Meal-28 */
+"name28" = "Ispanak ve Domatesli Folyoda Balık";
+"ingredients28" = "•    1 demet kuşkonmaz\n•    2 dilimlenmiş domates\n•    2 tatlısu çipurası fileto\n•    zeytinyağı\n•    1/2 çay kaşığı çili sarımsak sosu\n•    tuz\n•    1 dilimlenmiş limon";
+"steps28" = "Fırınınızı önceden 190 derecede ısıtın. Küçük bir kase içerisinde zeytinyağı, çili sos ve tuzu karıştırın. Aluminyum folyonun ortasına kuşkonmaz dallarını koyup, üzerlerine eşit bir şekilde domatesleri yerleştirin ve ardından çeşnilendirin. Her bir folyodaki domatesin üzerine bir balık filetosu koyun ve balığın üzerine zeytinyağı karışımından dökün. Balığın üstüne limon dilimlerini yerleştirin. Balığı 25-30 dakika boyunca fırında pişirin. Afiyet olsun!";
+
+/* Meal-29 */
+"name29" = "Kabaklı Erişteli Büyük Boy Karides";
+"ingredients29" = "•    1 kabak\n•    1/2 - 1 çay kaşığı tereyağı\n•    110 gr soyulmuş, temizlenmiş karides\n•    1/4 su bardağı ikiye kesilmiş çeri domates\n•    1/4 çay kaşığı pul biber\n•    2 yemek kaşığı tavuk suyu\n•    tuz ve karabiber\n•    1 yemek kaşığı rendelenmiş parmesan peyniri";
+"steps29" = "Bir spiralizer kullanarak kabağı erişteye doğrayın. Tereyağını tavada eritin. Karides, domates, sarımsak, arpacık soğanı ve pul biberi ekleyin. Karidesler pembeleşinceye kadar 3-4 dakika boyunca pişirin. Tavuk suyu ve limon suyunu ekleyin. Kaynamaya başladığında kabaklı erişteyi ekleyin. Afiyet olsun!";
+
+/* Meal-30 */
+"name30" = "Keten Tohumlu Yaban Mersinli Yulaf";
+"ingredients30" = "3 su bardağı su \n\n2 su bardağı yulaf ezmesi  \n\n3 yemek kaşığı öğütülmüş keten tohumu \n\n1/8 çay kaşığı tuz \n\n¼ su bardağı tam yağlı süt \n\n1 su bardağı yaban mersini  \n\n1 yemek kaşığı yaban mersini reçeli \n\n½ çay kaşığı rendelenmiş limon kabuğu \n\n1 yemek kaşığı limon suyu";
+"steps30" = "3 su bardağı suyu kaynatın. Yulaf, keten tohumu ve tuzu ekleyip karıştırın. Ateşi kısıp orta ateşte sık sık karıştırarak yumuşayıncaya kadar pişirin. Süt ve tereyağını ekleyip karıştırın. Bu arada, yaban mersini ve sonraki 4 malzemeyi bir mikrodalga kasesine ekleyip, her 30 saniyede bir karıştırarak 1,5 dakika boyunca yüksek ayarda mikrodalgada pişirin. Yulafı 4 kaseye paylaştırın. Yaban mersini ve fındıkla üzerlerini süsleyin. Afiyet olsun!";
+
+/* Meal-31 */
+"name31" = "Baharatlı Sığır Eti ve Brokoli Kasesi";
+"ingredients31" = "140 gr yağsız sığır biftek \n\n130 gr esmer pirinç  \n\n91 gr brokoli  \n\n31 gr dilimlenmiş kırmızı dolmalık biber   \n\ntaze kişniş  \n\n1 misket limonu  \n\nkırmızı acı biber macunu  \n\nsarımsak";
+"steps31" = "Yağsız etinizi parçalara kesip acı biber macunu ve taze sarımsakla çeşnilendirin. Ocağı orta ateşe ayarlayıp tavaya hindistan cevizi yağı spreyi sıkın. Tava ısındığında etin tek tarafını mühürleme yöntemiyle pişirin. Mühürlendiğinde, eti ters yüz edin ve brokoli ve dolmalık biber parçalarını ekletin. Etim her iki yüzünün, brokoli ve dolmalık biberlerin pişmesi için karıştırın. Afiyet olsun!";
+
+/* Meal-32 */
+"name32" = "Tatlı ve Baharatlı Karides";
+"ingredients32" = "340 gr jumpo karides  \n\n1 yemek kaşığı susam yağı  \n\n2 yemek kaşığı bal  \n\n1 yemek kaşığı sarımsak macunu  \n\n1 yemek kaşığı kırmızı çili biber sosu  \n\n½ misket limonunun suyu";
+"steps32" = "Tüm malzemeleri bir poşet içerisinde karıştırın. 20 dakika boyunca marine ettikten sonra tavada pişirin. Afiyet olsun!";
+
+/* Meal-33 */
+"name33" = "Güneybatı Kırmızı Biberi";
+"ingredients33" = "•    150 gr pişmiş yulaf ezmesi\n•    1 dolmalık biber\n•    1 yemek kaşığı süzme yoğurt (%2 yağlı)\n•    28 gr mozzarella peyniri\n•    1 çay kaşığı tütsülenmiş tatlı kırmızıbiber\n•    1/2 çay kaşığı toz kimyon\n•    43 gr süzülmüş siyah fasulye\n•    41 gr haşlanmış mısır\n•    1 yemek kaşığı süzme yoğurt (%2 yağlı)\n•    tuz\n•    pul biber";
+"steps33" = "Yulaf ezmesini talimatlara göre pişirin. Bir kenara koyun. Fırınınızı 200 dereceye ayarlayın. Bir dolmalık biberi ortadan ikiye kesin ve çekirdeklerini çıkarın. Yarım dolmalık biberleri yere bakar şekilde pişirme kağıdının üzerine koyun. En az 15 dakika boyunca veya dolmalık biberler yumuşayıncaya kadar fırında pişirin. Ardından yulaf ezmesi, süzme yoğurt, fasulye, mısır, kırmızı tatlıbiber ve kimyonla karıştırın. Deniz tuzu ve pul biberle çeşnilendirin. Afiyet olsun!";
+
+/* Meal-34 */
+"name34" = "Misket Limonu–Kimyon Soslu Siyah Fasülye Salatası";
+"ingredients34" = "1 su bardağı ince dilimlenmiş kereviz  \n\n3/4 su bardağı doğranmış kırmızı biber  \n\n2 kutu (425 gr) yıkanmış ve süzülmüş siyah fasülye  \n\n¼ su bardağı misket limonu suyu  \n\n1 yemek kaşığı zeytinyağı";
+"steps34" = "Salata için kereviz, soğan ve siyah fasülyeleri geniş bir kase içerisinde iyice karıştırın. Salata sosu malzemelerini küçük bir kaseye ekleyip, iyice karışana kadar bir çırpma teliyle çırpın. Salata sosunu fasülye karışımına dökün. Afiyet olsun!";
+
+/* Meal-35 */
+"name35" = "Izgara Deniz Somonu";
+"ingredients35" = "110 gr deniz somonu  \n\n1 yemek kaşığı olive oil \n\n1 yemek kaşığı smoked paprika \n\ntuz & pul biber";
+"steps35" = "Fırınınızı 175 dereceye ayarlayın. Filetoları çeşniye bulayın ve yaklaşık 15 dakika boyunca veya arzu edilen kıvama gelinceye kadar ızgaralayın. Afiyet olsun!";
+
+/* Meal-36 */
+"name36" = "Muzlu, Tarçınlı ve Yulaflı Yağda Yumurta";
+"ingredients36" = "2 yumurta \n\n3 yumurta akı \n\n40 gr instant yulaf \n\n1 muz \n\ntarçın";
+"steps36" = "2 yumurtayı ve 3 yumurta akını bir kase içerisinde çırpın. Biraz tuz ve pul biber ekleyin. Tavaya bir miktar yağ ekleyin ve tavayı ocağın üzerinde ısıtın. Yumurtaları ekleyin. Yumurtalar pişene kadar bir spatulayla hafifçe karıştırın ve ocaktan alın. Ardından instant yulafı talimatlara göre hazırlayın. İyice karıştırın ve lezzet vermesi için bir miktar tarçın ekleyin. Afiyet olsun!";
+
+/* Meal-37 */
+"name37" = "Baharatlı ve Hafif Kung Poa Tavuk Yemeği";
+"ingredients37" = "150 gr tavuk göğsü  \n\n1/6 diş sarımsak   \n\n33 gr sultani bezelye  \n\n150 gr dolmalık biber  \n\n2/3 yemek kaşığı su  \n\n⅓ yemek kaşığı domates sosu  \n\n1/6 yemek kaşığı taze zencefil  \n\n1/6 yemek kaşığı acı kırmızı biber sosu  \n\n1/6 yemek kaşığı pirinç sirkesi  \n\ndoğranmış yeşil soğan";
+"steps37" = "Bir kase içerisine tüm sos malzemelerini ekleyip çırpın. Tavanın altını orta ateşe ayarlayıp, zeytinyağıyla spreyleyin. Tava ısındığında sarımsağı ekleyip yaklaşık 2 dakika boyunca kavurun. Ardından doğranmış tavuk göğsünü ekleyin. Tavuğun dışı kızara kadar yaklaşık 6–8 dakika kadar pişirin. Doğranmış dolmalık biberi ekleyin ve yaklaşık 3 dakika kadar kavurun. Yavaşça sosu ekleyin ve sık sık karıştırın. Afiyet olsun!";
+
+/* Meal-38 */
+"name38" = "Baharatlı Portakallı Somon Kebabı";
+"ingredients38" = "150 gr deniz somonu  \n\n27 gr portakal marmelatı  \n\n1/6 yemek kaşığı tütsülenmiş tatlı kırmızıbiber  \n\n1/6 yemek kaşığı hindistan cevizi şekeri \n\n⅓ çay kaşığı Tabasco sos \n\n⅓ mandalinanın suyu";
+"steps38" = "Kebap için somonu 55–85 grlık parçalara dilimleyin. Somonu yaklaşık 45 dakika boyunca marine edin. Fırında 200 derecede 8–10 dakika boyunca pişirin. Afiyet olsun!";
+
+/* Meal-39 */
+"name39" = "Avokadolu Somon Burger";
+"ingredients39" = "325 gr somon fileto  \n\n1 su bardağı ekmek kırıntısı  \n\n1 yumurta \n\n1 yemek kaşığı limon suyu  \n\ntuz ve pul biber  \n\nzeytinyağı \n\n1 doğranmış büyük avokado \n\n⅓ su bardağı doğranmış kırmızı soğan  \n\n1 limmisket limonunun suyu";
+"steps39" = "Somon filetoyu küçük parçalar halinde kesin ve bir karıştırma kasesine alın. Diğer malzemelerle birlikte nazikçe karıştırın. Karışımı 5–10 dakika kadar dinlendirin. Geniş bir ızgara tavasında orta ateşte bir miktar yağı ısıtın. Somon karışımından düzgün köfteler yapın. Köfteleri her iki yüzü kahverengileşinceye kadar yaklaşık 4er dakika kızartın. Afiyet olsun!";
+
+/* Meal-40 */
+"name40" = "Sağlıklı Meyveli Yulaf";
+"ingredients40" = "½ su bardağı yulaf \n\n1 su bardağı su \n\n1 yemek kaşığı bal \n\n1 yemek kaşığı vanilya özütü \n\n½ çay kaşığı toz tarçın  \n\n¼ su bardağı yaban mersini \n\n4 dilimlenmiş çilek \n\n½ dilimlenmiş muz";
+"steps40" = "Su ve yulafı mikrodalga kasesi içerisinde karıştırın. Su yulafları eminceye dek yüksek ayarda mikrodalgada pişirin. Bal, vanilya özütü ve toz tarçını ekleyip karıştırın. Yaban mersinlerini ekleyin ve üzerini muz ve çilek dilimleriyle süsleyin. Afiyet olsun!";
+
+/* Meal-41 */
+"name41" = "Kivi, Portakal ve Ispanaklı Smoothie";
+"ingredients41" = "bir avuç dolusu ıspanak  \n\n2 kivi parçası \n\nbir mango \n\nbir portakalın suyu";
+"steps41" = "Ispanağı yıkayıp, köklerini kesin. Mangoyu ve kivileri yıkayıp, küçük parçalara kesin. Tüm malzemeleri pürüzsüzleşinceye kadar blenderda çırpın. Afiyet olsun!";
+
+/* Meal-42 */
+"name42" = "Füme Somon Guacamole";
+"ingredients42" = "1 avokado \n\n57 gr füme somon  \n\n17 gr doğranmış kırmızı soğan  \n\n2 yemek kaşığı doğranmış kişniş  \n\n2 yemek kaşığı süzme yoğurt  \n\npul biber";
+"steps42" = "Avokadoyu bir kase içerisinde püre haline getirip, diğer malzemelerle karıştırın. Damak zevkinize göre hardal, kimyon, limon suyu, süzme yoğurt ve pul biberle çeşnilendirin. Afiyet olsun!";
+
+/* Meal-43 */
+"name43" = "Sahanda Yumurta ve Avokadolu Hafif Tost";
+"ingredients43" = "2 yumurta \n\n2 dilim kızarmış ekmek  \n\n1 küçük avokado  \n\n1 çay kaşığı misket limonu suyu  \n\ntuz \n\nkarabiber  \n\nmaydanoz";
+"steps43" = "Tost ve sahanda yumurtaları kişisel tercihinize göre hazırlayın. Avokadoyu soyun, misket limonu, tuz ve karabiberle birlikte püre haline getirin. Avokadoyu her bir tost ekmeğinin üzerine eşit şekilde sürün, birer sahanda yumurta ekleyin ve arzu ettiğiniz diğer baharatları ekleyin. Afiyet olsun!";
+
+/* Meal-44 */
+"name44" = "Tatlı Kırmızı İdman Öncesi Smoothie";
+"ingredients44" = "1 kırmızı elma  \n\n½ şeker pancarı \n\n1 kereviz sapı  \n\n3 çilek \n\n¼ muz  \n\nyeşil çay (isteğe bağlı)  \n\n41gr ahududu  \n\n1 çay kaşığı zencefil (isteğe bağlı)";
+"steps44" = "Tüm malzemeleri blendera ekleyin. Katı parça kalmadığından emin olmak için 1 dakika kadar karıştırdıktan sonra, pürüzsüzleşinceye dek karıştırın. Atıştırmalık olarak için. Afiyet olsun!";
+
+/* Meal-45 */
+"name45" = "Parmesan Peynirli Közlenmiş Sarımsaklı Kuşkonmaz";
+"ingredients45" = "325 gr taze kuşkonmaz  \n\n2 yemek kaşığı zeytinyağı  \n\n3 yemek kaşığı rendelenmiş parmesan peyniri  \n\n2 diş kıyılmış sarımsak  \n\ntuz ve pul biber";
+"steps45" = "Kuşkonmazların altını kesin, tavaya koyup tuz ve pul biberle çeşnilendirin ve zeytinyağını ekleyin. Kuşkonmazları sıra sıra ızgaraya dizin. Kuşkonmazlar yumuşayıncaya ve üzerlerinde köz izi oluşuncaya kadar 5–10 dakika boyunca orta ateşte ızgaralayın. Afiyet olsun!";
+
+/* Meal-46 */
+"name46" = "Karides ve Kabakllı Makarnalı Ev Yapımı Pesto";
+"ingredients46" = "•    12 gr taze fesleğen\n•    7.5 gr çiğ ıspanak\n•    7.5 gr ceviz\n•    20 ml zeytinyağı\n•    1/2 yemek kaşığı parmesan peyniri\n•    1/4 limonun suyu\n•    1/4 diş sarımsak\n•    tuz\n•    pul biber\n•    42 gr pişmiş karides\n•    1/4 kabak\n•    2 dilimlenmiş çeri domates";
+"steps46" = "Mutfak robotunda Pesto malzemelerini pürüzsüz kıvama gelene dek karıştırın. Bir kase içerisinde spiral doğrayıcıyla çiğ kabağı jülyen doğrayın. Pesto sosunu jülyen doğranmış kabağa ekleyin ve maşa yardımıyla hafifçe sallayın. Kızarmış karides veya tavuk gibi tercih ettiğiniz proteinli gıdayı ekleyip, dilimlenmiş çeri domatesleri ekleyin. Afiyet olsun!";
+
+/* Meal-47 */
+"name47" = "Baharatlı Meyveli Yulaf Turtası";
+"ingredients47" = "150 gr pişmiş yulaf ezmesi \n\n49 gr yaban mersini \n\n50 gr böğürtlen  \n\n3 yemek kaşığı kıyılmış ceviz \n\n½ yemek kaşığı hindistan cevizi yağı \n\n¼ çay kaşığı zerdeçal \n\n¼ çay kaşığı yeni bahar \n\n1 paket \"In The Raw\" marka stevia \n\n1 tutam tarçın \n\n1 yemek kaşığı granola";
+"steps47" = "Yulaf ezmesini talimatlara göre pişirin. Bir kenara koyun. Yapışmaz tavayı orta ateşe koyup hindistan cevizi yağı ekleyin. Tavanın ısınmasını bekleyin. Meyveleri ekleyip karıştırın. Meyveleri bir tutam tarçınla çeşnilendirip karıştırın. Meyveleri ateşten alıp, sosun kıvam almasını bekleyin. Çok iyi karıştırın ve arzuya göre bir miktar tarçın ekleyin. Sıcak meyve şurubunu yulafın üzerine dökün. Hafif çıtırlık vermesi için taze granolayla çeşnilendirin. Afiyet olsun!";
+
+/* Meal-48 */
+"name48" = "Şeftali Muz";
+"ingredients48" = "•    1 muz\n•    2 şeftali\n•    1/2 su bardağı vanilyalı badem sütü\n•    1/2 su bardağı buz küpü\n•    1/4 çay kaşığı tarçın\n•    bal (isteğe bağlı)";
+"steps48" = "Taze şeftali ve muzun kabuğunu soyup dilimleyin. Tüm malzemeleri blendera koyun. Arzu ederseniz smoothieyi daha fazla tatlandırmak için bal ekleyip karıştırın. Afiyet olsun!!";
+
+/* Meal-49 */
+"name49" = "Wokta Kızarmış Tavuk ve Ananas";
+"ingredients49" = "110 gr tavuk göğsü \n\n40 gr ananas  \n\n120 gr esmer pirinç \n\n⅓ yemek kaşığı zeytinyağı  \n\n½ çay kaşığı kahverengi hardal  \n\n1/6 yemek kaşığı tütsülenmiş tatlı kırmızıbiber  \n\ndeniz tuzu \n\npul biber";
+"steps49" = "Çiğ tavuk göğüslerini küçük parçalara doğrayın. Tavuk parçalarını tütsülenmiş tatlı kırmızıbiber ve kahverengi hardalla çeşnilendirin. Tavaya zeytinyağı ekleyin ve ardından tavuk göğsü parçalarını ekleyin. Tavuk yaklaşık %80 pişene kadar yaklaşık 4 dakika boyunca pişirin, ardından doğranmış dolmalık biberi ekleyin. Küp küp doğranmış ananası eklemeden önce 2–3 dakika kadar daha pişirin. Afiyet olsun!";
+
+/* Meal-50 */
+"name50" = "Bitki Çayı";
+"ingredients50" = "•    1 su bardağı su\n•    1 çay kaşığı rendelenmiş taze zencefil\n•    1 çay kaşığı rendelenmiş limon kabuğu\n•    1 çay kaşığı misket limonu suyu\n•    3 taze nane yaprağı";
+"steps50" = "Bir tencerede suyu kaynatıp, diğer malzemeleri ekleyip karıştırın. Çay demlenene kadar kaynatın ve karıştırın. Afiyet olsun!";
+
+/* Meal-51 */
+"name51" = "Mantar ve Domatesli Omlet";
+"ingredients51" = "4 yumurta akı  \n\n1 yumurta \n\n½ su bardağı az yağlı süzme peynir \n\n½ su bardağı dilimlenmiş mantar \n\n½ doğranmış domates";
+"steps51" = "Yumurtaları hafifçe çırpın. Yapışmaz tavaya bir miktar yağ ekleyip yumurtaları pişirin. Omletin ortasına süzme peynir, mantar ve domatesi ekleyin. Yumurtalar hazır oluncaya dek pişirin ve omleti katlayın. Afiyet olsun!";
+
+/* Meal-52 */
+"name52" = "Armut, Zencefil ve Ispanaklı Smoothie";
+"ingredients52" = "•    3 su bardağı ıspanak\n•    2 yemek kaşığı limon suyu\n•    2 çay kaşığı zencefil\n•    2 armut\n•    nane";
+"steps52" = "Tüm malzemeleri blendera ekleyip, pürüzsüz kıvama gelinceye dek karıştırın. Afiyet olsun!";
+
+/* Meal-53 */
+"name53" = "Kızarmış Meksika Mısırı";
+"ingredients53" = "4 mısır başağı  \n\n1.5 su bardağı ekşi krema  \n\n1 su bardağı rendelenmiş parmesan peyniri  \n\n1 misket limonunun suyu  \n\nkırmızı toz biber  \n\n2 dilimlenmiş misket limonu, garnitür için";
+"steps53" = "Birer kez döndürerek mısırı hafif közlenmeye başlayana kadar sıcak bir ızgarada pişirin. Küçük bir kase içerisinde mayonez, ekşi krema ve kişnişi karıştırın. Mısırın üzerine misket limonunun suyunu sıkın ve parmesan peyniriyle çeşnilendirin. Üzerine kırmızı toz bibe serpin. Afiyet olsun!";
+
+/* Meal-54 */
+"name54" = "Ananas Kivi";
+"ingredients54" = "4 yemek kaşığı su \n\n½ su bardağı süt \n\n½ su bardağı yoğurt \n\n1.5 yemek kaşığı bal \n\n1 kabuğu soyulmuş kivi  \n\n1 su bardağı ananas parçaları  \n\n½ mango \n\n2 buz küpü";
+"steps54" = "Tüm malzemeleri düşük hızda yoğun ve pürüzsüz hale gelinceye dek karıştırın. Afiyet olsun!";
+
+/* Meal-55 */
+"name55" = "Narenciyeli Ballı Yeşil Çay";
+"ingredients55" = "•    1 dilim limon\n•    2 çay kaşığı toz yeşil çay\n•    3/4 su bardağı sıcak su\n•    1/2 su bardağı greyfurt suyu\n•    3 yemek kaşığı limon suyu\n•    1 çay kaşığı bal";
+"steps55" = "Toz yeşil çay ve sıcak suyu karıştırın. Greyfurt suyu, limon suyu ve balı ekleyin. İyice karıştırın ve bir dilim limonla servis edin it juice. Afiyet olsun!";
+
+/* Meal-56 */
+"name56" = "Izgara Karides ve Avokadolu Kebap";
+"ingredients56" = "•    450 gr jumbo karides\n•    1.5 avokado\n•    1 kırmızı dolmalık biber\n•    1 turuncu dolmalık biber\n•    1 sarı dolmalık biber\n•    1 kırmızı soğan\n•    1 çay kaşığı sarımsak macunu\n•    1/2 yemek kaşığı ekstra rafine zeytinyağı\n•    1 misket limonu\n•    tuz, pul biber";
+"steps56" = "Izgaranızı 200 dereceye ayarlayın. Kebap için sebzeleri ve avokadoyu iri parçalar halinde kesin. Karidesleri soyup, çeşnilendirin. Lifli sebzeler daha doyurucu olduğundan ve yoğun ateş altında kebap şişi üzerinde daha rahat dengede duracağından bu tarz sebzeleri tercih edin. Kebapları ızgaraya koyup yaklaşık 8-10 dakika kadar pişirin ve ters yüz edip bir 8-10 dakika kadar daha pişirin. Afiyet olsun!";
+
+/* Meal-57 */
+"name57" = "Baharatlı Izgara Tavuklu ve Yumurtalı Sandviç";
+"ingredients57" = "•    140 gr çiğ tavuk göğsü\n•    1 yumurta\n•    30 gr roka\n•    1/2 roma domatesi\n•    1 yemek kaşığı keçi peyniri\n• 1 tam buğday unu sandviç ekmeği\n•    hindistan cevizi yağı spreyi\n•    1 çay kaşığı tütsülenmiş tatlı kırmızıbiber\n•    1/2 çay kaşığı acı kırmızıbiber\n•    tuz\n•    pul biber";
+"steps57" = "Tavuk göğsünü tatlı kırmızıbiber, acı kırmızıbiber, kimyon, deniz tuzu ve pul biberle çeşnilendirin. Tam buğday unu sandviç ekmeğini tost makinesinde arzu ettiğiniz ölçüde ısıtın. Bir tavaya hindistan cevizi yağı spreyi sıkın ve ocağı orta-yüksek ateşe ayarlayın. Tavuk göğsünü tavaya ekleyin ve tamamen pişene kadar her iki yüzünü de kızartın. Roka, domates, keçi peyniri, tavuk ve ardından yumurtayı ekleyin. Afiyet olsun!";
+
+/* Meal-58 */
+"name58" = "Altın Işıltı İksiri";
+"ingredients58" = "2 elma \n\n4 orta boy kabuğu soyulmuş portakal  \n\n1 kabuğu soyulmuş limon  \n\n6–7 cmlik kabuğu soyulmuş taze zencefil  \n\n5 cmlik kabuğu soyulmuş taze zerdeçal   \n\n2 su bardağı soğuk su  \n\n1 avuç buz";
+"steps58" = "Yüksek hızlı blenderda, gerekirse ekstra su ekleyerek, pürüzsüz hale gelinceye dek tüm malzemeleri karıştırın. Yüksek güçlü iyi bir blender bu karışımı pürüzsüz bir içeceğe dönüştürecektir. Daha da pürüzsüz hale getirmek için malzemelerin suyunu sıkmayı tercih ederseniz, tüm lif ve besleyici öğeleri muhafaza edemeyecek olsanız da, malzemelerin suyunu sıkmak da yeterince iyi olacaktır. Afiyet olsun!";
+
+/* Meal-59 */
+"name59" = "Bizon Etli Omlet Sarma";
+"ingredients59" = "•    1 yumurta\n•    3 yumurta akı\n•    110 gr yağsız bizon (bufalo) kıyması\n•    30 gr çiğ ıspanak\n•    58 gr dolmalık biber\n•    14 gr rendelenmiş mozzarella peyniri\n•    sarımsak tozu\n•    toz kimyon\n•    tuz\n•    pul biber";
+"steps59" = "Bufalo etini terbiye edip, yapışmaz bir tavada pişirim. Bir kase içerisinde yumurtaları bir tutam tuz ve pul biberle birlikte çırpın. Ayrı bir yapışmaz tavayı orta-yüksek ateşte ocağa koyun. Yumurta karışımını dökün ve krep biçiminde pişirin. Yumurtanın tamamen pişmesini sağlamak için tavanın ağzını kapatın. Afiyet olsun!";
+
+/* Meal-60 */
+"name60" = "Kavun ağacı Meyvesi";
+"ingredients60" = "2 orta boy çekirdekleri çıkarılmış ve doğranmış kavun ağacı meyvesi  \n\n1 su bardağı ahududu \n\n¼ küçük ananas  \n\nzencefil  \n\n1 su bardağı süt  \n\n 2 yemek kaşığı süzme yoğurt \n\n1.5 buz küpü \n\n üzerini süslemek için meyveler";
+"steps60" = "Malzemeleri bir blendere atıp, pürüzsüz hale gelinceye dek karıştırın. Afiyet olsun!";
+
+/* Meal-61 */
+"name61" = "Lavantalı ve Naneli Çay";
+"ingredients61" = "•    1/4 su bardağı taze lavanta yaprağı\n•    1 su bardağı taze nane yaprağı\n•    4 su bardağı su";
+"steps61" = "Lavanta ve nane yapraklarını tencereye koyun, üzerine su dökün ve kaynatın. Ateşi düşürün ve çay arzu ettiğiniz deme ulaşıncaya dek 15-20 dakika kadar ağır ateşte kaynatın. Afiyet olsun!";
+
+/* Meal-62 */
+"name62" = "Sağlıklı Karidesli ve Sebzeli Makarna";
+"ingredients62" = "170 gr karides  \n\n1 kabak \n\n2 havuç \n\n½ diş doğranmış sarımsak  \n\n¼ doğranmış kırmızı soğan  \n\n1 yemek kaşığı düşük sodyumlu soya sosu  \n\n¼ portakalın suyu  \n\n½ yemek kaşığı susam yağı";
+"steps62" = "Sebzeli makarnayı hazırlamak için kabağı ve havuçları doğramak için bir Jülyen doğrayıcıya ihtiyacınız olacak. Ardından 1 yemek kaşığı soya sosu ekleyin. Daha sonra elma sirkesini ekleyip, çeyrek portakalın suyunu sıkın. Son olarak ½ yemek kaşığı susam yağı ekleyin. Tavanın altını orta ateşe ayarlayıp, hindistan cevizi yağı spreyleyin. Sarımsak ve kırmızı soğanı tavaya alın. Karidesleri de ekleyin ve karideslerin sarımsak ve soğan aromasını tamamen absorbe etmesini sağlamak için bir kaşıkla hızlıca karıştırın. Afiyet olsun!";
+

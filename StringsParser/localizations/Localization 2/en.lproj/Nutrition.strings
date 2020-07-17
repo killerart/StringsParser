@@ -1,0 +1,382 @@
+
+//BUILD MUSCLE NUTRITION PLAN
+
+"Nutrition plan for building muscle" = "Build muscle mass";
+"nutritionPlanDescription1" = "Muscle Strength and Size To stay \n consistent. Speed up metabolism";
+
+/* Day - 1 */
+"titleDay1" = "Everyone needs the three \n basics nutrients, carbohydrates,\n  proteins, and fats.";
+"descriptionDay1" = "Carbs supply the body with energy it needs to function. They are found almost exclusively in plan foods.";
+
+/* Day - 2 */
+"titleDay2" = "Protein is essential for growth \n and development. It provides \n the body with energy.";
+"descriptionDay2" = "Complete proteins are found in meat, fish, poultry, cheese, eggs, and milk.";
+
+/* Day - 3 */
+"titleDay3" = "Good fats are in fact, the most \n concentrated source of energy \n available to the body.";
+"descriptionDay3" = "By choosing the healthiest forms of each of these nutrients and eating them in the proper balance.";
+
+/* Day - 4 */
+"titleDay4" = "The saying \"You are what you eat\" is \n literally true.If you want your body \n to perform at a peak level.";
+"descriptionDay4" = "Choose red, orange, and dark-green vegetables like tomatoes, sweet potatoes, and broccoli, along with other vegetables for your meals.";
+
+/* Day - 5 */
+"titleDay5" = "Maximum amount of added sugars \n you should eat in a day: 37.5 \n grams or 9 teaspoons. ";
+"descriptionDay5" = "Fructose causes insulin resistance and raises insulin levels in the body, which increases the deposition of fat in the fat cells.";
+
+/* Day - 6 */
+"titleDay6" = "Water is an essential nutrient \n that is involved in every \n function of the body.";
+"descriptionDay6" = "Our organs, muscle, and bones all have water in them and need water to function properly.";
+
+/* Day - 7 */
+"titleDay7" = "Your body’s health reflects \n what you put into it.";
+"descriptionDay7" = "When combined with physical activity, a healthy diet can help people keep a healthy weight and reduce risk of chronic diseases. ";
+
+
+//WEIGHT LOSS NUTRITION PLAN
+
+"Nutrition plan for weight loss" = "Lean body";
+"nutritionPlanDescription2" = "Learn what to eat, discover \n fat burning foods";
+
+/* Day - 8 */
+"titleDay8" = "Enjoyment of a healthy diet can \n also be one of the great cultural \n pleasures of life.";
+"descriptionDay8" = "We need a wide variety of different foods to provide the right amounts of nutrients for good health.";
+
+/* Day - 9 */
+"titleDay9" = "Eliminate emotional eating by \n healing your hungry heart.";
+"descriptionDay9" = "Nutrition plays a key role in maintaining a healthy lifestyle.";
+
+/* Day - 10 */
+"titleDay10" = "Morning workout is better \n for weight loss";
+"descriptionDay10" = "In the morning, before you’ve eaten, your body is forced to utilize it's fat stores for energy.";
+
+/* Day - 11 */
+"titleDay11" = "Try Interval Training because it can \n end up burning more calories in less \n time than your regular workout.";
+"descriptionDay11" = "All you have to do is step up your intensity and train in short bursts instead of going steady for the entire workout.";
+
+/* Day - 12 */
+"titleDay12" = "Consistency in exercise is the \n key to real results and real health benefits.";
+"descriptionDay12" = "To speed up the metabolism and to help recuperate from your training, try to eat 5-6 small meals per day";
+
+/* Day - 13 */
+"titleDay13" = "Studies show that breakfast can \n be important in maintaining a \n health body weight.";
+"descriptionDay13" = "To keep your metabolism running strong, you must eat your fist meal within 1 hour of rising.";
+
+/* Day - 14 */
+"titleDay14" = "We recommend doing your cardio \n first thing in the morning, \n 30 minutes plus, before breakfast.";
+"descriptionDay14" = "Cardiovascular activity is necessary to keep the metabolism roaring and help you burn some extra calories.";
+
+
+//MEALS
+
+/* Meal-1 */
+"name1" = "Grilled Lemon Dijon Chicken Thighs with Arugula Salad";
+"ingredients1" = "4 (4 oz.) skinless, boneless chicken thighs \n\n½ tsp salt \n\n¼ tsp ground black pepper \n\n2.5 tbsp olive oil \n\n2 tsp lemon juice \n\n1 tsp minced garlic \n\ncooking spray \n\n1 tbsp balsamic vinegar \n\n1 tsp honey \n\n1 cup grape tomatoes, halved \n\n1 (5 oz.) package baby arugula";
+"steps1" = "Sprinkle chicken with ¼ teaspoon salt and 1/8 teaspoon pepper. Combine chicken with 1–1.5 teaspoons oil, lemon juice, mustard, and garlic in a bowl, toss to coat. Let stand 4 minutes. Heat a grill pan over medium heat. Coat pan with cooking spray. Add chicken to pan, grill for 5 minutes on each side or until done. Cut chicken into ¼–inch–thick slices. Enjoy!";
+
+/* Meal-2 */
+"name2" = "Tso’s Chicken Stir Fry";
+"ingredients2" = "4 chicken breasts, cubed \n\n1 cup flour \n\nvegetable oil \n\nsalt \n\nfreshly ground black pepper \n\n2 cloves garlic, minced \n\n½ can chicken broth \n\n3 tbsp honey \n\n4 tbsp soy sauce \n\n2 tbsp lime juice \n\n2 cans broccoli, florets only \n\n2 cans of cooked white rice, for serving";
+"steps2" = "In a large bowl, dredge chicken slightly in cornstarch. Transfer pieces to a large bowl filled with flour and toss slightly to coat again then set aside. Fill a large, deep skillet with ½ vegetable oil over medium–high heat. Season the chicken, then drain and set aside. Add 2 tablespoons of cornstarch and stir to incorporate. To the sauce, add broccoli and carrots and cook until tender, for 5 minutes. Enjoy!";
+
+/* Meal-3 */
+"name3" = "Orange Honey Sriracha Chicken";
+"ingredients3" = "0.1 kg / 0.25 lb. chicken breast \n\n1/8 tbsp sesame oil \n\n12.5 g / 0.4 oz Sriracha sauce \n\nsalt \n\npepper";
+"steps3" = "Set your grill or oven to 375°F 190°C. In a sealable plastic bag, add the contents for the marinade and mix together well. Taste the marinade and season it to your liking.  Add the chicken to the marinade and place in the refrigerator, for at least 30 minutes. Then, take the chicken from the refrigerator and place it on the grill. Grill for about 15 to 20 minutes until the juices from the chicken run clear. Enjoy!";
+
+/* Meal-4 */
+"name4" = "Honey Mustard Glazed Salmon Balls";
+"ingredients4" = "•    56 g / 1/8 lb. wild salmon \n•    1/8 tbsp garlic paste \n•    7 g / 0.2 oz red onion, chopped \n•    1 tbsp cilantro , chopped\n•    1/8 egg \n•    1/8 egg white \n•    0.06 bell pepper \n•    salt \n•    pepper\n•    0.2 tsp ginger\n•    1/8 tbsp chicken broth";
+"steps4" = "Set oven to 400 °F/ 200 °C. Season the salmon and bake it in the oven until the salmon can be flaked with a fork. Flake the salmon with a fork so that it is shredded in a bowl. Toss in all of the ingredients, except for the glaze, and mix together. Bake the salmon in the oven for about 7 minutes. In a separate bowl, mix together all of the ingredients for the mustard glaze. Enjoy!";
+
+
+/* Meal-5 */
+"name5" = "Grilled Lemon Dijon Chicken Thighs with Arugula Salad";
+"ingredients5" = "4 (4 oz.) skinless, boneless chicken thighs \n\n½ tsp salt \n\n¼ tsp ground black pepper \n\n2.5 tbsp olive oil \n\n2 tsp lemon juice \n\n1 tsp minced garlic \n\ncooking spray \n\n1 tbsp balsamic vinegar \n\n1 tsp honey \n\n1 cup grape tomatoes, halved \n\n1 (5 oz.) package baby arugula";
+"steps5" = "Sprinkle chicken with ¼ teaspoon salt and 1/8 teaspoon pepper. Combine chicken with 1–1.5 teaspoons oil, lemon juice, mustard, and garlic in a bowl, toss to coat. Let stand 4 minutes. Heat a grill pan over medium heat. Coat pan with cooking spray. Add chicken to pan, grill for 5 minutes on each side or until done. Cut chicken into ¼–inch–thick slices. Enjoy!";
+
+/* Meal-6 */
+"name6" = "Chili Fajitas";
+"ingredients6" = "1 lb. skinless chicken breast \n\n½ green, red, and yellow bell pepper, thinly sliced \n\n⅓ cup water \n\n2 tsp soy sauce \n\n1 dash salt \n\n1 dash black pepper \n\n2 tbsp olive oil \n\n1 large onion, thinly sliced";
+"steps6" = "Combine all marinade ingredients with the chicken in a container and refrigerate at least 2 hours. Remove the meat from the marinade and grill over medium flame for 4–5 minutes on each side. Cut meat into thin strips. For the sauce, combine 2 tbsp water, 1 tsp soy sauce, ¼ tsp lime juice, dash salt, dash black pepper, and 1 tbsp olive oil.  Enjoy!";
+
+/* Meal-7 */
+"name7" = "Turkey & Veggie Omelette Rolls";
+"ingredients7" = "1 egg \n\n4 egg whites \n\n85 g / 3 oz lean ground turkey, cooked \n\n1 handful spinach (raw) \n\n58 g / 2.1 oz bell pepper \n\n8 g / 1 oz  goat cheese";
+"steps7" = "Season and cook a lean ground turkey in skillet. Measure a daily portion of eggs and cook in a separate skillet. Add goat cheese, spinach, bell peppers and ground turkey. Wait for it to cool a little while before and wrap it in aluminum foil instead. Enjoy!";
+
+/* Meal-8 */
+"name8" = "Citrus Chicken Stir-Fry";
+"ingredients8" = "•    140 g / 5 oz chicken breast, small pieces\n•    34 g / 0.25 oz broccolini  \n•    25 g / 0.875 oz baby portobello mushroom \n•    1/4 red bell pepper \n•    20 g / 0.7 oz red onion \n•    coconut oil spray \n•    sesame seeds   \n•    1/4 tsp arrowroot starch\n•    1/8 tbsp garlic paste\n•    1/4 tsp ginger paste";
+"steps8" = "In a bowl, mix together all the ingredients for the stir-fry sauce. Spray a skillet with coconut oil and set on medium heat. Toss in the chicken pieces and cook until they are about 85% finished. then toss in the veggies and stir using a spatula. Enjoy!";
+
+/* Meal-9 */
+"name9" = "Sweet Chili Salmon";
+"ingredients9" = "1 salmon fillet \n\nsalt \n\nblack pepper \n\n1 tsp oil \n\n4 tbsp sweet chili sauce \n\n1.5 tsp lime juice \n\n½ tsp white sesame";
+"steps9" = "Season the salmon with salt & pepper. Mix the chili sauce, lime juice, sesame and cilantro leaves together. to combine well. Heat up a skillet over medium heat and add drizzle of oil. Pan–sear the salmon on both sides, until cooked. Enjoy!";
+
+/* Meal-10 */
+"name10" = "BBQ Chicken–Wrapped Asparagus";
+"ingredients10" = "2 chicken breasts thinly cut, 3 oz each piece \n\n12 spears asparagus \n\n2 tbsp bbq sauce 1 pinch smoked paprika \n\n1 pinch garlic powder \n\n1 pinch pepper";
+"steps10" = "Set oven to 400°F / 200°C. Flatten the chicken with a mallet. Season chicken cutlets with 1 tbsp barbecue sauce (for each piece) and your choice of seasonings. Place the chicken on a grill with the open facing down. Bake in the oven or smoke on a grill for about 8 to 10 minutes. Enjoy!";
+
+/* Meal-11 */
+"name11" = "Egg White, Asparagus and Brown Rice & Quinoa Frittata";
+"ingredients11" = "6 egg whites \n\n2 spears asparagus \n\n120 g brown rice & quinoa mix (cooked), 4.4 oz \n\n1 sweet mini red bell pepper \n\ngarlic powder \n\npepper \n\nsalt \n\n½ pink grapefruit";
+"steps11" = "Set oven to 410 degrees F/ 200°C. Lightly spray a skillet with olive oil. Add cooked brown rice & quinoa to the skillet. Pour into egg whites. Add asparagus strips and bell pepper slices. Bake in the oven for about 15 minutes. Enjoy!";
+
+/* Meal-12 */
+"name12" = "Mediterranean Greek Chopped Salad (Wrap)";
+"ingredients12" = "1 whole grain flour tortilla, 10 inch (25 cm) size  \n\n140 g / 5 oz cooked chicken breasts   \n\n3 romaine lettuce leaves \n\n4 tbsp fresh basil \n\n50 g / 1.8 oz red onion \n\n50 g 1.8 oz cucumber \n\n5 cherry tomatoes, cut in halve \n\n⅓ lemon \n\n3/4 tbsp olive oil \n\n⅓ tsp garlic \n\nsalt \n\npepper";
+"steps12" = "In a bowl, mix together the ingredients for the lemon vinaigrette and season with salt & pepper. Add it to a mixing bowl then add 1 serving of lemon vinaigrette. Mix the salad together with a spatula, then place some of the contents on whole wheat tortilla. Enjoy!";
+
+/* Meal-13 */
+"name13" = "Banana Nut Oatmeal";
+"ingredients13" = "½ cup rolled oats \n\n1 cup water \n\n1 sliced banana \n\n1 tbsp chopped walnuts \n\n1 tsp ground cinnamon";
+"steps13" = "Combine oats and 1 cup of water in a small microwave bowl. Microwave on high temperature for 3 minutes. Top with banana slices, walnuts, and cinnamon. Enjoy!";
+
+/* Meal-14 */
+"name14" = "Light Lemon Garlic Pasta With Salmon";
+"ingredients14" = "1 lb. salmon fillet \n\n16 oz rigatoni/pasta \n\n1 tsp garlic, minced \n\n2 tbsp olive oil \n\n½ cup basil leaves, chopped \n\nsalt and pepper \n\n2 tbsp lemon juice \n\n2 tsp capers";
+"steps14" = "Cook the pasta according to package directions. Meanwhile, season salmon with salt and pepper and bake at 350 degrees F for 15–20 minutes, depending on thickness. Once the pasta is cooked, drain and toss with garlic, olive oil, basil and season. Add lemon juice, zest, and capers to the pasta and toss to mix. Enjoy!";
+
+/* Meal-15 */
+"name15" = "Orange Glazed Salmon";
+"ingredients15" = "•    150 g / 5.3 oz salmon \n•    1/2 tbsp orange marmalade \n•    1/2 tbsp mustard \n•    1/6 orange juice";
+"steps15" = "Mix marmalade, mustard, sugar, and orange juice together in a bowl. Rub mixed ingredients over salmon and cook for 3 to 4 minutes until the salmon is flaky. Enjoy!";
+
+/* Meal-16 */
+"name16" = "Mushroom and Spinach Omelet";
+"ingredients16" = "1 tbsp olive oil \n\n½ cup chopped shallots \n\n3 garlic cloves, minced \n\n1 (8 oz) package sliced white mushrooms \n\n1 thyme sprig \n\n6 oz fresh baby spinach \n\nsalt \n\nground black pepper \n\n8 large eggs";
+"steps16" = "Heat a skillet over medium–high heat. Add oil to the pan. Add shallots, garlic, mushrooms, and thyme. Add spinach, sauté until liquid almost evaporates. Combine a pinch of salt and pepper, and 4 eggs in a small bowl, stirring with a whisk. Return pan to medium heat.  Add egg mixture and cook for 1 minute. Lift edges of omelet with a spatula, tilting pan to roll uncooked egg onto the bottom of the pan. Enjoy!";
+
+/* Meal-17 */
+"name17" = "Savory Shrimp with Fresh Herbs";
+"ingredients17" = "1 pound large shrimp \n\n2 red hot peppers \n\n1 leek, thinly sliced \n\n0.5–1 tbsp capers, rinsed and drained \n\n2 cloves garlic, thinly sliced \n\n½ cup coarsely chopped parsley \n\n3 tbsp lemon juice \n\n2 tbsp olive oil";
+"steps17" = "Place a sauté pan over medium heat and add oil. Add shrimp, peppers, leek, capers, garlic, salt and pepper and cook for 4 minutes until shrimp is pink. Remove from heat. Add lemon juice, scraping the bottom of the pan with a spoon. Serve shrimp sprinkled with fresh parsley and basil. Enjoy!";
+
+/* Meal-18 */
+"name18" = "Lemon Grilled Chicken Breasts";
+"ingredients18" = "3 tbsp lemon juice \n\n2 tbsp olive oil \n\n2 garlic cloves, minced \n\n7 chicken breast halves, (6 oz) ½ tsp salt \n\n½ tsp freshly ground black pepper \n\ncooking spray";
+"steps18" = "Prepare grill to medium–high heat. Combine first 4 ingredients in a large plastic bag, and seal. Marinate in refrigerator 30 minutes. Remove chicken from bag, remove marinade. Sprinkle chicken evenly with salt and pepper. Place chicken on grill rack coated with cooking spray,  grill each side or until done. Enjoy!";
+
+/* Meal-19 */
+"name19" = "Strawberry and Banana Nut Bread Oatmeal";
+"ingredients19" = "150 g  rolled oats, 5.3 oz (cooked) \n\n½ mashed banana \n\n50 g / 1.8 oz strawberries \n\n2 tbsp almond milk \n\n1 tbsp vanilla extract \n\n2 tbsp  chopped walnuts \n\npacket stevia by brand \"In The Raw\" \n\nlemon zest garnish \n\n1 tbsp greek yogurt (2% fat) \n\n½ tbsp chopped walnuts \n\npoppy seeds";
+"steps19" = "Cook rolled oats as directed, then set aside. Add all the ingredients into a bowl except the strawberries, and mix thoroughly. Top the oatmeal with freshly chopped strawberries. Garnish with Greek yogurt, chopped walnuts, and poppy seeds. Enjoy!";
+
+/* Meal-20 */
+"name20" = "Teriyaki Chicken and Broccoli";
+"ingredients20" = "2 cups broccoli florets \n\n1 large chicken breast, diced into cubes \n\n1 tablespoon oil \n\nsalt and pepper \n\n1 bell pepper, sliced \n\n2 cups cooked brown rice \n\n¼ cup light soy sauce \n\n2  tbsp rice wine vinegar \n\n1 garlic clove, minced \n\n½ tsp sesame oil \n\n¼ teaspoon ground ginger";
+"steps20" = "Heat a large pan over medium–high heat. Add chicken, season with salt and pepper and cook until no longer pink. Whisk all the ingredients for the teriyaki sauce in a small bowl. Add the broccoli florets and bell pepper in the pan. Divide the chicken and broccoli into 4 meal prep containers. Sprinkle with sesame seeds and cover. Enjoy!";
+
+/* Meal-21 */
+"name21" = "Creamy Dairy Free Chicken Pasta";
+"ingredients21" = "110 g / ¼ lb. chicken breast \n\n42 g / ½ oz whole grain pasta \n\n¼ tbsp olive oil \n\n75 ml 2% fl oz coconut milk \n\n45 ml 1.6 oz chicken broth \n\n160 g / 5/2 oz asparagus \n\n½ lemon \n\n¼ clove garlic \n\n1.3 tbsp fresh parsley";
+"steps21" = "Boil and cook pasta as directed, and set aside. Season chicken with salt, pepper, and oregano. Add half of the olive oil to a skillet and set over medium heat. Once the skillet is hot, cook the chicken breast on both sides until chicken is completely cooked, then remove them from the skillet.  Add chicken broth, lemon juice.  Allow it to simmer for a few minutes and then add cooked pasta. Enjoy!";
+
+/* Meal-22 */
+"name22" = "Shrimp Burger";
+"ingredients22" = "•    450 g / 1 lb. raw shrimp \n•    1 tbsp olive oil \n•    1 red bell pepper \n•    green onion \n•    salt, pepper \n•    gluten-free bun \n•    mashed avocado \n•    lettuce\n•    tomato\n•    sprouts";
+"steps22" = "Set the grill temperature to about 200°F/93°C. Add burger ingredients (except for the bell pepper and green onion) to a blender and pulse until you make minced shrimp. Then dump it in a bowl and add chopped bell pepper and green onion.Then, place the burgers on the grill and cook them for about 15-20 minutes, about 8-10 minutes each side. Enjoy!";
+
+/* Meal-23 */
+"name23" = "BBQ Mustard Chicken";
+"ingredients23" = "110 g / ¼ lb. chicken breast \n\nsalt \n\npepper\n\nIngredients for sauce:\n\n31 g / 1 oz mustard  \n\n10.5 g / 0.37 oz honey \n\n15 ml / 0.5 fl oz apple cider vinegar \n\n¼ tsp smoked paprika \n\n¼ tsp turmeric";
+"steps23" = "Fire up the grill to 400 F/200°C. In a bowl, mix together the ingredients for the sauce. Season chicken pieces with salt and pepper. Skewer the pieces with wooden kabob sticks. Place the chicken on the grill and cook for about 10 to 12 minutes. Then, brush the chicken with the sauce and cook for another 8 to 10 minutes until the chicken is completely cooked. Enjoy!";
+
+/* Meal-24 */
+"name24" = "Brown Rice Breakfast Bowl";
+"ingredients24" = "•    4 eggs \n•    1 tbsp greek yogurt (2% fat) \n•    salt  \n•    pepper  \n•    Tabasco sauce  \n•    1 tbsp butter\n•    250 g / 8.8 oz microwaveable brown rice\n•    1/2 avocado, diced \n•    1 roma tomato, diced \n•    1 scallion sliced thinly";
+"steps24" = "In a medium bowl beat the eggs with Greek yogurt, salt, pepper, and hot sauce. In a medium skillet, melt the butter. Add the eggs and scramble. In a serving bowl, add the brown rice and then top with scrambled eggs, avocado, scallions, tomato, and hot sauce. Enjoy!";
+
+/* Meal-25 */
+"name25" = "Chicken and Asparagus Stir–Fry";
+"ingredients25" = "1 tbsp soy sauce \n\n1 tbsp honey \n\n2 chicken breasts, cut into pieces \n\n1 tbsp olive oil \n\n1 bunch asparagus, cut into pieces \n\n4 cloves garlic, thinly sliced \n\n2 tsp toasted sesame oil";
+"steps25" = "In a zip lock bag, combine soy sauce and honey. Add chicken, and stir to coat. Set in the refrigerator until ready. Meanwhile, heat oil in a large skillet over medium heat. Remove the asparagus and set aside. Remove chicken from marinade, and add to skillet.  Then add garlic, scallions, and the reserved marinade to the pan. Remove from heat and stir in sesame oil. Enjoy!";
+
+/* Meal-26 */
+"name26" = "Stir–Fried Beef with Broccoli and Bell Peppers";
+"ingredients26" = "1 lb. flank steak, trimmed \n\n2 tbsp low–sodium soy sauce \n\n1 tsp minced garlic \n\n½ tsp ground black pepper \n\n¼ tsp crushed red pepper \n\n3/4 lb. broccoli \n\n2 tbsp canola oil \n\n1 large red bell pepper, cut into 1–inch pieces \n\n4 cups cooked long–grain rice";
+"steps26" = "Cut steak in half. Cut each half across the grain into 1/8–inch–thick slices. Combine beef, soy sauce, garlic, and black pepper, toss well and refrigerate 30 minutes. Combine ½ tablespoons water, oyster sauce, and crushed red pepper in a small bowl set aside. Cut broccoli into florets, cut stems diagonally into ¼–inch–thick slices. Cook broccoli for 2 minutes. Enjoy!";
+
+/* Meal-27 */
+"name27" = "Cajun Coffee Shrimp";
+"ingredients27" = "450 g / 1 lb. jumbo shrimp \n\n1 tbsp olive oil \n\nsalt  \n\npepper \n\nfresh parsley \n\nlemon \n\n25 g / 3.6 oz coffee beans \n\n1 tbsp smoked paprika \n\n1 tsp ground cumin \n\n1 tsp cayenne pepper";
+"steps27" = "Place the ingredients for the Cup o' Joe Rub in a high–powered blender. Blend until the coffee beans are semi–blended. Season the shrimp with about 5 tablespoons of the rub and add olive oil. Mix it together using your hands and ensure all of the shrimp has been covered. When the skillet is hot, toss in the shrimp. Enjoy!";
+
+/* Meal-28 */
+"name28" = "Foil Fish Packets with Spinach and Tomato";
+"ingredients28" = "•    1 bunch  asparagus \n•    2 sliced tomatoes \n•    2 tilapia fillets\n•    olive oil \n•    1/2 tsp chili garlic sauce \n•    salt \n•    1 lemon, sliced";
+"steps28" = "Preheat oven to 375 degrees °F. In a small bowl, mix together olive oil, chili sauce, and salt. Place asparagus spears down the center on a piece of aluminum foil and lay sliced tomato evenly on top, then season it. Place one fish fillet on top of tomatoes in each packet, and spread fish with olive oil mixture. Arrange lemon slices over the fish. Bake the fish in the oven for 25-30 minutes. Enjoy!";
+
+/* Meal-29 */
+"name29" = "Shrimp Scampi with Zucchini Noodles";
+"ingredients29" = "•    1 zucchini\n•    1/2 - 1 tsp butter\n•    1/3 lb shrimp, peeled and deveined\n•    1/4 cup cherry tomatoes, halved\n•    1/4 tsp red pepper flakes \n•    2 tbsp chicken broth\n•    salt and pepper\n•    1 tbsp grated parmesan";
+"steps29" = "Using a spiralizer, cut the zucchini into noodles. Melt the butter in a skillet. Add the shrimp, tomatoes, garlic, shallot, and red pepper flakes. Cook for 3-4 minutes until shrimp is just pink. Add the chicken broth and lemon juice. Once simmering, add the zucchini noodles. Enjoy!";
+
+/* Meal-30 */
+"name30" = "Flaxseed Oatmeal with Blueberries";
+"ingredients30" = "3 cups water \n\n2 cups rolled oats \n\n3 tbsp ground flaxseed \n\n1/8 tsp salt \n\n¼ cup whole milk \n\n1 cup blueberries \n\n1 tbsp blueberry preserves \n\n½ tsp grated lemon rind \n\n1 tbsp lemon juice";
+"steps30" = "Bring 3 cups of water to a boil. Stir in oats, add the flaxseed, and salt. Reduce heat to medium–low, cook until tender, stirring frequently. Stir in milk and butter. Meanwhile, combine blueberries and next 4 ingredients in a microwave bowl, microwave at high for 1.5 minutes, stirring every 30 seconds. Divide oatmeal among 4 bowls. Top with blueberries and pecans. Enjoy!";
+
+/* Meal-31 */
+"name31" = "Spicy Beef Broccoli Bowl";
+"ingredients31" = "140 g / 6 oz lean ground  steak \n\n130 g / 4.4 oz brown rice \n\n91 g / 3.3 oz broccoli \n\n31 g / 1 oz sliced red bell pepper sliced \n\nfresh cilantro \n\n1 lime \n\nred chili pepper paste \n\ngarlic";
+"steps31" = "Cut your portion of flank steak into pieces and season with chili pepper paste and fresh garlic. Set a skillet over medium heat and spray with coconut oil. When the skillet is hot, toss in the meat and let it sear on one side. Once seared, flip the meat over and add broccoli and bell pepper pieces. Stir the mixture, ensuring all sides of the meat, broccoli and bell peppers are cooked. Enjoy!";
+
+/* Meal-32 */
+"name32" = "Sweet & Spicy Lime Shrimp";
+"ingredients32" = "340 g / 3/4 lb. jumbo shrimp \n\n1 tbsp sesame oil \n\n2 tbsp honey \n\n1 tbsp garlic paste \n\n1 tbsp red chili pepper sauce \n\n½ juice lime";
+"steps32" = "In a bag, mix all ingredients. Marinate for at least 20 minutes, then cook in a skillet. Enjoy!";
+
+/* Meal-33 */
+"name33" = "Southwestern Red Pepper";
+"ingredients33" = "•    150 g cooked rolled oats, 5.3 oz  \n•    1 bell pepper\n•    1 tbsp greek yogurt (2% fat) \n•    28 g mozzarella cheese , 1 oz\n•    1 tsp smoked paprika \n•    1/2 tsp ground cumin \n•    43 g / 1.5 oz black beans, drained \n•    41 g / 1.5 oz steamed corn \n•    1 tbsp greek yogurt (2% fat) \n•    salt  \n•    pepper";
+"steps33" = "Cook rolled oats as directed. Set aside. Set oven to 410 degrees °F/ 200°C. Slice in half a bell pepper, and remove the seeds. Place the halves of the bell pepper on a baking sheet down-faced. Bake in the oven for at least 15 minutes or until the halves are soft. Then, mix together the oatmeal, greek yogurt, beans, corn, paprika, and cumin. Season with sea salt & pepper. Enjoy!";
+
+/* Meal-34 */
+"name34" = "Black Bean Salad with Lime–Cumin Dressing";
+"ingredients34" = "1 cup thinly sliced celery \n\n3/4 cup sliced red onion \n\n2 (15 oz) cans of black beans, rinsed and drained \n\n¼ cup lime juice \n\n1 tbsp olive oil";
+"steps34" = "For the salad, combine celery, onion, and black beans in a large bowl toss well. Combine all dressing ingredients in a small bowl, stir the mixture with a whisk until blended. Pour over bean mixture, tossing to coat. Enjoy!";
+
+/* Meal-35 */
+"name35" = "Grilled Southwest Salmon";
+"ingredients35" = "110 g / ¼ lb wild salmon \n\n1 tbsp olive oil \n\n1 tbsp smoked paprika \n\nsalt & pepper";
+"steps35" = "Set your oven to 350°F. Rub the fillets in the seasoning and grill for about 15 minutes, or until desired readiness. Enjoy!";
+
+/* Meal-36 */
+"name36" = "Scrambled Eggs and Oatmeal with Banana and Cinnamon";
+"ingredients36" = "2 eggs \n\n3 egg whites \n\n40 g / 2.8 oz instant oatmeal \n\n1 banana \n\ncinnamon";
+"steps36" = "Whisk 2 eggs and 3 egg whites in a bowl. Season with a little salt and pepper. Add some oil to a pan and heat the pan on the stove. Add the eggs. Gently stir with a spatula until the eggs are cooked and then remove from the heat. Then prepare the instant oatmeal as directed. Stir thoroughly and add a little cinnamon for flavor. Enjoy!";
+
+/* Meal-37 */
+"name37" = "Spicy & Light Kung Pao Chicken Meal Prep";
+"ingredients37" = "150 g / 0.3 lb. chicken breast \n\n1/6 clove garlic  \n\n33 g / 1.17 oz snow peas \n\n150 g / 5.17 oz bell pepper \n\n2/3 tbsp water \n\n⅓ tbsp tomato sauce \n\n1/6 tbsp fresh ginger \n\n1/6 tbsp red chili pepper sauce \n\n1/6 tbsp rice vinegar \n\nchopped green onion";
+"steps37" = "In a bowl, add ingredients for the sauce and whisk. Set a skillet over medium heat and spray with olive oil. When the skillet is hot, toss in garlic and sear for about 2 minutes. Then add chopped chicken breasts. Cook the chicken until the outside of it is seared, about 6 to 8 minutes. Toss in chopped bell peppers and sear for about 3 minutes. Slowly pour in the sauce and stir frequently. Enjoy!";
+
+/* Meal-38 */
+"name38" = "Spicy Orange Salmon Kabobs";
+"ingredients38" = "150 g / ⅓ lb. wild salmon \n\n27 g / 1 oz orange marmalade \n\n1/6 tbsp smoked paprika \n\n1/6 tbsp coconut sugar \n\n⅓ tsp Tabasco sauce \n\n⅓ mandarin juice";
+"steps38" = "Slice salmon into 2 to 3 oz pieces for the kabobs. Marinate salmon for about 45 minutes. Bake in the oven for 8–10 minutes at 400°F 200°C. Enjoy!";
+
+/* Meal-39 */
+"name39" = "Salmon Burger with Avocado";
+"ingredients39" = "1 lb. salmon fillet \n\n1 cup breadcrumbs \n\n1 egg \n\n1 tbsp lemon juice \n\nsalt and pepper \n\nolive oil \n\n1 large avocado, chopped \n\n⅓ cup chopped red onion \n\n1 lime juice";
+"steps39" = "Chop the salmon filet into small pieces and transfer it into a mixing bowl. Gently stir in the rest of the ingredients. Let the mixture rest for 5–10 minutes. Heat a little oil in a large grill pan over medium heat. Form neat patties from the salmon mixture. Fry the patties until browned on both sides about 4 minutes on each side. Enjoy!";
+
+/* Meal-40 */
+"name40" = "Healthy Fruity Oatmeal";
+"ingredients40" = "½ cup oats \n\n1 cup water \n\n1 tbsp honey \n\n1 tbsp vanilla extract \n\n½ tsp ground cinnamon \n\n¼ cup blueberries \n\n4 sliced strawberries \n\n½ banana, cut into slices";
+"steps40" = "Combine water and oats in a microwave bowl. Microwave on high until oats have absorbed the water. Stir in honey, vanilla extract, and ground cinnamon. Add the blueberries and top with banana and strawberry slices. Enjoy!";
+
+/* Meal-41 */
+"name41" = "Smoothie with Kiwi, Oranges, and Spinach";
+"ingredients41" = "a large handful spinach \n\n2 kiwi pieces \n\none mango \n\njuice one orange";
+"steps41" = "Wash the spinach, cut off the roots. Wash the mango and the kiwis, then cut into small pieces. Whisk all ingredients in a blender until smooth. Enjoy!";
+
+/* Meal-42 */
+"name42" = "Smoked Salmon Guacamole";
+"ingredients42" = "1 avocado \n\n57 g / 16 oz smoked salmon \n\n17 g / 0.6 oz red onion, chopped \n\n2 tbsp cilantro, chopped \n\n2 tbsp greek yogurt \n\npepper";
+"steps42" = "Mash up the avocados in a bowl and combine all the ingredients. Season with mustard, cumin, lemon juice, Greek yogurt and pepper to taste. Enjoy!";
+
+/* Meal-43 */
+"name43" = "Skinny Fried Egg and Avocado Toast";
+"ingredients43" = "2 eggs \n\n2 toasted bread slices \n\n1 small avocado \n\n1 tsp lime juice \n\nsalt \n\nblack pepper \n\nparsley";
+"steps43" = "Prepare toast and fried eggs to personal preference. Peel and mash avocado with the lime juice, salt, and pepper. Spread avocado evenly on each slice of toast then top each with a fried egg and additional seasonings at your preference. Enjoy!";
+
+/* Meal-44 */
+"name44" = "Sweet Red Pre–Workout Smoothie";
+"ingredients44" = "1 red apple \n\n½ beet \n\n1 stick celery \n\n3 strawberries \n\n¼ a banana \n\ngreen tea (optional) \n\n41g / 1.5 oz  raspberries \n\n1 tsp ginger (optional)";
+"steps44" = "Add all ingredients into a blender. Simply blend for about 1 minute to ensure you remove any chunks, then blend until smooth. Simply drink as a snack. Enjoy!";
+
+/* Meal-45 */
+"name45" = "Garlic Roasted Asparagus With Parmesan";
+"ingredients45" = "1 lb. fresh asparagus \n\n2 tbsp olive oil \n\n3 tbsp grated parmesan \n\n2 garlic cloves, minced \n\nsalt and pepper";
+"steps45" = "Trim the asparagus bottoms. Lay the asparagus in the pan and season with salt and pepper and toss in the olive oil. Lay the asparagus on the grill in a row. Grill for 5–10 minutes over medium heat until they have char marks and are tender. Enjoy!";
+
+/* Meal-46 */
+"name46" = "Homemade Pesto with Shrimp & Zucchini Pasta";
+"ingredients46" = "•    12 g / 3/8 oz fresh basil \n•    7.5 g / 1/4 oz raw spinach \n•    7.5 g / 0.3 oz walnuts \n•    20 ml / 2.8 fl oz olive oil \n•    1/2 tbsp parmesan \n•    1/4 lemon juice \n•    1/4 clove garlic \n•    salt \n•    pepper\n•    42 g /1.5 oz cooked shrimp \n•    1/4 zucchini \n•    2 cherry tomatoes sliced";
+"steps46" = "Blend in a food processor Pesto ingredients until smooth. In a bowl, julienne raw zucchini linguine with a spiralizer. Add pesto sauce to zucchini linguine and lightly toss using tongs.  Add your choice of protein such as grilled shrimp or chicken, and then add chopped cherry tomatoes. Enjoy!";
+
+/* Meal-47 */
+"name47" = "Spiced Berry Cobbler Oatmeal";
+"ingredients47" = "150 g rolled oats, 5.3 oz (cooked)  \n\n49 g blueberries, 1.8 oz  \n\n50 g 1.8 oz blackberries \n\n3 tbsp chopped walnuts \n\n½ tbsp coconut oil \n\n¼ tsp turmeric \n\n¼ tsp allspice \n\n1 packet stevia \"In The Raw\" brand \n\n1 pinch cinnamon \n\n1 tbsp granola";
+"steps47" = "Cook rolled oats as directed. Set aside. Set a nonstick skillet over medium heat, add coconut oil. Allow the pan to get hot. Toss in the berries. Season the berries with a pinch of cinnamon, and stir. Remove the berries from the heat and allow the sauce to thicken. Mix very well and add a bit more cinnamon if desired. Pour the warm berry syrup on top of the oatmeal. Garnish with fresh granola to add some crunchiness. Enjoy!";
+
+/* Meal-48 */
+"name48" = "Peach Banana";
+"ingredients48" = "•    1 banana \n•    2 peaches\n•    1/2 cup vanilla almond milk\n•    1/2 cup ice cubes \n•    1/4 tsp cinnamon \n•    honey (optional)";
+"steps48" = "Peel and slice fresh peaches and banana. Pour all ingredients into a blender. Add honey and blend to make the smoothie sweeter if desired. Enjoy!";
+
+/* Meal-49 */
+"name49" = "Chicken & Pineapple Stir–Fry";
+"ingredients49" = "110 g chicken breasts, 4 oz \n\n40 g pineapple, 1.4 oz \n\n120 g brown rice, 4.4 oz \n\n⅓ tbsp olive oil \n\n½ tsp brown mustard \n\n1/6 tbsp smoked paprika \n\nsea salt \n\npepper";
+"steps49" = "Chop the raw chicken breasts into small pieces. Season the chicken pieces with smoked paprika and brown mustard. Add olive oil to a skillet then toss in the chicken breast pieces. Cook for about 4 minutes until the chicken is about 80% finished, then add chopped bell pepper. Cook for another 2 or 3 minutes before adding the diced pineapple. Enjoy!";
+
+/* Meal-50 */
+"name50" = "Herbal Tea";
+"ingredients50" = "•    1 cup water \n•    1 teaspoon grated fresh ginger \n•    1 teaspoon grated lime zest \n•    1 teaspoon lime juice \n•    3 leaves fresh mint";
+"steps50" = "Bring water to a boil in a pot stir in rest of the ingredients. Cook and stir until tea is infused. Enjoy!";
+
+/* Meal-51 */
+"name51" = "Mushroom and Tomato Omelet";
+"ingredients51" = "4 eggs whites \n\n1 egg \n\n½ cup low–fat cottage cheese \n\n½ cup sliced mushrooms \n\n½ chopped tomato";
+"steps51" = "Combine eggs and beat lightly. Using a cooking spray, cook eggs in a non–stick pan. Add cottage cheese, mushrooms and tomatoes in the center of omelet. Cook until eggs are set and fold over. Enjoy!";
+
+/* Meal-52 */
+"name52" = "Spinach Smoothie with Pear and Ginger";
+"ingredients52" = "•    3 cups spinach\n•    2 tbsp lemon juice\n•    2 tsp ginger \n•    2 pears\n•    mint";
+"steps52" = "Mix all ingredients in a blender and blend until it reaches a smooth consistency. Enjoy!";
+
+/* Meal-53 */
+"name53" = "Grilled Mexican Corn";
+"ingredients53" = "4 ears corn \n\n1.5 cups sour cream \n\n1 cup grated parmesan \n\n1 lime, juice \n\nred chili powder \n\n2 limes cut into wedges, for garnish";
+"steps53" = "Grill the corn turning once on a hot grill until it starts to get slightly charred. In a small bowl mix the mayonnaise, sour cream and cilantro. Squeeze over corn, lime juice and season with parmesan. Sprinkle with chili powder. Enjoy!";
+
+/* Meal-54 */
+"name54" = "Pineapple Kiwi";
+"ingredients54" = "4 tbsp water \n\n½ cup milk \n\n½ cup yogurt \n\n1.5 tbsp honey \n\n1 kiwi fruit, peeled \n\n1 cup pineapple chunks \n\n½ a mango \n\n2 ice cubes";
+"steps54" = "Blend all ingredients at low speed until thick and smooth. Enjoy!";
+
+/* Meal-55 */
+"name55" = "Citrus Honey Green Tea";
+"ingredients55" = "•    1 lemon slice\n•    2 teaspoons green tea powder \n•    3/4 cup hot water \n•    1/2 cup grapefruit juice \n•    3 tbsp lemon juice \n•    1 tsp honey";
+"steps55" = "Stir in the green tea powder and hot water. Add the grapefruit juice, lemon juice, and honey. Mix well and serve with a lemon slice. Enjoy!";
+
+/* Meal-56 */
+"name56" = "Grilled Shrimp & Avocado Kabobs";
+"ingredients56" = "•    450 g / 1 lb jumbo shrimp\n•    1.5 avocados\n•    1 red bell pepper\n•    1 orange bell pepper\n•    1 yellow bell pepper\n•    1 red onion\n•    1 tsp garlic paste \n•    1/2 tbsp extra virgin olive oil \n•    1 lime \n•    salt, pepper";
+"steps56" = "Set your grill to about 400°F/200°C. Chop veggies and avocado into large pieces for the kabob. Peel shrimp and season.  Choose fibrous vegetables as they are more filling and will likely hold well on a kabob stick under intense heat. Place the kabobs on the grill and cook for about 8-10 minutes then flip over and cook for another 8 to 10 minutes. Enjoy!";
+
+/* Meal-57 */
+"name57" = "Spicy Grilled Chicken & Egg Sandwich";
+"ingredients57" = "•    140 g chicken breasts (5 oz), raw\n•    1 egg \n•    30 g / 1 oz arugula (rocket) \n•    1/2 roma tomato \n•    1 tbsp goat cheese \n•    1 whole wheat bun \n•    coconut oil spray \n•    1 tsp smoked paprika\n•    1/2 tsp cayenne pepper\n•    salt \n•    pepper";
+"steps57" = "Season the chicken breast with paprika, cayenne, cumin, sea salt, and pepper. Place whole wheat grain bun in a toaster and cook to desired readiness. Spray a skillet with coconut oil and set over medium-high heat. Add the chicken breast to the skillet and cook on both sides until the chicken breast is completely cooked. Add arugula, tomato, goat cheese, chicken and then the egg. Enjoy!";
+
+/* Meal-58 */
+"name58" = "Golden Glow Elixir";
+"ingredients58" = "2 apples \n\n4 medium oranges, peel removed \n\n1 lemon, peeled \n\n2–3 inch knob fresh ginger, peeled \n\n2–inch knob fresh turmeric, peeled \n\n2 cups cold water \n\n1 handful ice";
+"steps58" = "In a high–speed blender, blend all ingredients until smooth, adding extra water if needed. A high powered decent blender will turn this into a smooth juice. If you would rather juice the ingredients to make it even smoother, go right ahead to keep all the fiber and nutrients in but juicing the ingredients is just as good. Enjoy!";
+
+/* Meal-59 */
+"name59" = "Bison Omelette Rollup ";
+"ingredients59" = "•    1 egg \n•    3 egg whites \n•    110 g / 4 oz  lean ground bison\n•    30 g raw spinach, 1 oz \n•    58 g / 2.1 oz bell pepper \n•    14 g / 0.5 oz mozzarella cheese, grated\n•    garlic powder \n•    ground cumin \n•    salt \n•    pepper";
+"steps59" = "Season and cook lean bison in a nonstick skillet. In a bowl, whip eggs together with a pinch of sea salt and pepper. Set a separate nonstick skillet over medium-high heat. Pour in egg mixture and cook like a pancake. Cover the skillet to allow the egg to be cooked in its entirety. Enjoy!";
+
+/* Meal-60 */
+"name60" = "Papaya";
+"ingredients60" = "2 medium papayas, pitted & chopped \n\n1 cup raspberries \n\n¼ small pineapple \n\nginger \n\n1 cup milk \n\n 2 tbsp greek yogurt \n\n1.5 cubes ice \n\n berries to top";
+"steps60" = "Throw ingredients into a blender. Blend until smooth. Enjoy!";
+
+/* Meal-61 */
+"name61" = "Lavender Mint Tea";
+"ingredients61" = "•    1/4 cup fresh lavender petals \n•    1 cup fresh mint leaves\n•    4 cups water";
+"steps61" = "Place lavender petals and mint leaves into a saucepan, pour water over and bring to a boil. Turn heat to low and simmer tea until flavor is your desired strength, 15 to 20 minutes. Enjoy!";
+
+/* Meal-62 */
+"name62" = "Healthy Shrimp & Veggie Pasta";
+"ingredients62" = "170 g/ lb. shrimp \n\n1 zucchini \n\n2 carrots \n\n½ clove garlic chopped \n\n¼ red onion chopped \n\n1 tbsp low–sodium soy sauce \n\n¼ orange juice \n\n½ tbsp sesame oil";
+"steps62" = "You’ll need a Julienne peeler to slice the zucchini and carrots to make the veggie pasta. Next, add 1 tablespoons of soy sauce. Then, add cider vinegar and squeeze the juice from ¼ an orange. Lastly, add ½ tbsp of sesame oil. Set a skillet a medium heat and spray with coconut oil. Toss in garlic and red onion.  Add the shrimp to the skillet and stir quickly with a spoon to make sure that all of the shrimp absorbs the flavor of the garlic and onions. Enjoy!";
+
